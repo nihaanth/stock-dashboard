@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.stockbot.dashboard</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/nihaanthreddy/devl/Learning/Projects/stockbot/automation/daily_refresh.sh</string>
+    </array>
+
+    <!-- 19:30 local time (IST on this Mac) — ~2h after NSE close, bhavcopy published. -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>19</integer>
+        <key>Minute</key>
+        <integer>30</integer>
+    </dict>
+
+    <!-- If the Mac was asleep at 19:30, run on next wake. -->
+    <key>RunAtLoad</key>
+    <false/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/nihaanthreddy/devl/Learning/Projects/stockbot/automation/launchd.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/nihaanthreddy/devl/Learning/Projects/stockbot/automation/launchd.err.log</string>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/nihaanthreddy/devl/Learning/Projects/stockbot</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+    </dict>
+</dict>
+</plist>

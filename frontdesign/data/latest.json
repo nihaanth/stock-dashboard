@@ -1,0 +1,3139 @@
+{
+  "prediction_date": "2026-05-08",
+  "result_date": "2026-05-11",
+  "mode": "post_mortem",
+  "currency": "INR",
+  "generated_at": "2026-05-11T14:07:39",
+  "by_source": {
+    "technical": {
+      "summary": {
+        "total": 30,
+        "correct": 11,
+        "accuracy_pct": 36.7,
+        "avg_move_pct": -1.07,
+        "best": {
+          "ticker": "VTL",
+          "pct": 4.3
+        },
+        "worst": {
+          "ticker": "VESUVIUS",
+          "pct": -4.71
+        }
+      },
+      "predictions": [
+        {
+          "ticker": "ROSSTECH",
+          "company": "Rossell Techsys Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 910.55,
+          "current_price": 877.2,
+          "price_change": -33.35,
+          "price_change_pct": -3.66,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Technical model",
+            "Strong 5d signal"
+          ],
+          "multi_factor_score": 44,
+          "horizontal_levels": {
+            "support": [
+              740.55,
+              773.5
+            ],
+            "resistance": [
+              1061.9,
+              1049.85
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0169,
+            "pred_5d": 0.0387,
+            "pred_10d": 0.034
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +3.87%  \u00b7  10d pred +3.40% Missed."
+        },
+        {
+          "ticker": "SOUTHWEST",
+          "company": "South West Pinnacle Exploration Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 216.09,
+          "current_price": 221.83,
+          "price_change": 5.74,
+          "price_change_pct": 2.66,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Technical model",
+            "Strong 5d signal"
+          ],
+          "multi_factor_score": 42,
+          "horizontal_levels": {
+            "support": [
+              210.5,
+              213.61
+            ],
+            "resistance": [
+              264.0,
+              255.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.01,
+            "pred_5d": 0.0236,
+            "pred_10d": 0.0325
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +2.36%  \u00b7  10d pred +3.25% Played out."
+        },
+        {
+          "ticker": "SAKAR",
+          "company": "Sakar Healthcare Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 545.5,
+          "current_price": 529.6,
+          "price_change": -15.9,
+          "price_change_pct": -2.91,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Technical model",
+            "Strong 5d signal"
+          ],
+          "multi_factor_score": 42,
+          "horizontal_levels": {
+            "support": [
+              514.05,
+              529.2
+            ],
+            "resistance": [
+              661.95,
+              658.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.007,
+            "pred_5d": 0.0234,
+            "pred_10d": 0.0325
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +2.34%  \u00b7  10d pred +3.25% Missed."
+        },
+        {
+          "ticker": "VOLTAMP",
+          "company": "Voltamp Transformers Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 9535.0,
+          "current_price": 9444.0,
+          "price_change": -91.0,
+          "price_change_pct": -0.95,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Technical model",
+            "Strong 5d signal"
+          ],
+          "multi_factor_score": 42,
+          "horizontal_levels": {
+            "support": [
+              8890.0,
+              9000.0
+            ],
+            "resistance": [
+              12863.0,
+              12799.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0055,
+            "pred_5d": 0.0191,
+            "pred_10d": 0.0375
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +1.91%  \u00b7  10d pred +3.75% Missed."
+        },
+        {
+          "ticker": "BLUESTARCO",
+          "company": "Blue Star Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 1692.8,
+          "current_price": 1661.1,
+          "price_change": -31.7,
+          "price_change_pct": -1.87,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Technical model",
+            "Strong 5d signal"
+          ],
+          "multi_factor_score": 42,
+          "horizontal_levels": {
+            "support": [
+              1511.3,
+              1581.5
+            ],
+            "resistance": [
+              1928.9,
+              1920.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0079,
+            "pred_5d": 0.0165,
+            "pred_10d": 0.027
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +1.65%  \u00b7  10d pred +2.70% Missed."
+        },
+        {
+          "ticker": "VOLTAS",
+          "company": "Voltas Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 1324.8,
+          "current_price": 1306.5,
+          "price_change": -18.3,
+          "price_change_pct": -1.38,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Technical model",
+            "Strong 5d signal"
+          ],
+          "multi_factor_score": 42,
+          "horizontal_levels": {
+            "support": [
+              1213.0,
+              1241.2
+            ],
+            "resistance": [
+              1537.9,
+              1533.7
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0043,
+            "pred_5d": 0.015,
+            "pred_10d": 0.0228
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +1.50%  \u00b7  10d pred +2.28% Missed."
+        },
+        {
+          "ticker": "GUJALKALI",
+          "company": "Gujarat Alkalies and Chemicals Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 746.55,
+          "current_price": 725.0,
+          "price_change": -21.55,
+          "price_change_pct": -2.89,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              562.15,
+              580.0
+            ],
+            "resistance": [
+              815.0,
+              809.3
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.012,
+            "pred_5d": 0.0142,
+            "pred_10d": 0.0194
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +1.42%  \u00b7  10d pred +1.94% Missed."
+        },
+        {
+          "ticker": "QPOWER",
+          "company": "Quality Power Electrical Equipments Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 1265.7,
+          "current_price": 1262.2,
+          "price_change": -3.5,
+          "price_change_pct": -0.28,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              851.0,
+              875.1
+            ],
+            "resistance": [
+              1441.0,
+              1429.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0009,
+            "pred_5d": 0.0141,
+            "pred_10d": 0.0209
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +1.41%  \u00b7  10d pred +2.09% Missed."
+        },
+        {
+          "ticker": "TRANSRAILL",
+          "company": "Transrail Lighting Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 566.8,
+          "current_price": 548.35,
+          "price_change": -18.45,
+          "price_change_pct": -3.26,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              487.2,
+              518.7
+            ],
+            "resistance": [
+              624.4,
+              617.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0056,
+            "pred_5d": 0.0141,
+            "pred_10d": 0.0179
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +1.41%  \u00b7  10d pred +1.79% Missed."
+        },
+        {
+          "ticker": "PFOCUS",
+          "company": "Prime Focus Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 300.9,
+          "current_price": 291.7,
+          "price_change": -9.2,
+          "price_change_pct": -3.06,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              281.1,
+              293.35
+            ],
+            "resistance": [
+              367.0,
+              353.85
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0106,
+            "pred_5d": 0.013,
+            "pred_10d": 0.0152
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +1.30%  \u00b7  10d pred +1.52% Missed."
+        },
+        {
+          "ticker": "COALINDIA",
+          "company": "Coal India Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 456.4,
+          "current_price": 464.45,
+          "price_change": 8.05,
+          "price_change_pct": 1.76,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              427.5,
+              430.5
+            ],
+            "resistance": [
+              491.25,
+              487.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0046,
+            "pred_5d": 0.0127,
+            "pred_10d": 0.0141
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +1.27%  \u00b7  10d pred +1.41% Played out."
+        },
+        {
+          "ticker": "KPITTECH",
+          "company": "KPIT Technologies Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 729.15,
+          "current_price": 733.45,
+          "price_change": 4.3,
+          "price_change_pct": 0.59,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              685.5,
+              690.15
+            ],
+            "resistance": [
+              795.3,
+              784.6
+            ]
+          },
+          "raw": {
+            "pred_1d": -0.0008,
+            "pred_5d": 0.0126,
+            "pred_10d": 0.0184
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +1.26%  \u00b7  10d pred +1.84% Played out."
+        },
+        {
+          "ticker": "CSBBANK",
+          "company": "CSB Bank Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 365.05,
+          "current_price": 352.45,
+          "price_change": -12.6,
+          "price_change_pct": -3.45,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              353.95,
+              354.0
+            ],
+            "resistance": [
+              417.2,
+              415.5
+            ]
+          },
+          "raw": {
+            "pred_1d": -0.0062,
+            "pred_5d": 0.0118,
+            "pred_10d": 0.02
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +1.18%  \u00b7  10d pred +2.00% Missed."
+        },
+        {
+          "ticker": "ASIANENE",
+          "company": "Asian Energy Services Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 298.7,
+          "current_price": 293.85,
+          "price_change": -4.85,
+          "price_change_pct": -1.62,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              260.1,
+              273.91
+            ],
+            "resistance": [
+              336.4,
+              329.0
+            ]
+          },
+          "raw": {
+            "pred_1d": -0.0015,
+            "pred_5d": 0.0114,
+            "pred_10d": 0.0153
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +1.14%  \u00b7  10d pred +1.53% Missed."
+        },
+        {
+          "ticker": "RACLGEAR",
+          "company": "RACL Geartech Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 1268.7,
+          "current_price": 1272.3,
+          "price_change": 3.6,
+          "price_change_pct": 0.28,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              1204.1,
+              1220.4
+            ],
+            "resistance": [
+              1441.9,
+              1439.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0133,
+            "pred_5d": 0.0112,
+            "pred_10d": 0.0156
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +1.12%  \u00b7  10d pred +1.56% Played out."
+        },
+        {
+          "ticker": "BBL",
+          "company": "Bharat Bijlee Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 2793.1,
+          "current_price": 2744.3,
+          "price_change": -48.8,
+          "price_change_pct": -1.75,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              2245.0,
+              2360.0
+            ],
+            "resistance": [
+              3270.0,
+              3250.0
+            ]
+          },
+          "raw": {
+            "pred_1d": -0.0006,
+            "pred_5d": 0.0107,
+            "pred_10d": 0.0153
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +1.07%  \u00b7  10d pred +1.53% Missed."
+        },
+        {
+          "ticker": "SHAKTIPUMP",
+          "company": "Shakti Pumps (India) Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 550.05,
+          "current_price": 555.6,
+          "price_change": 5.55,
+          "price_change_pct": 1.01,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              489.5,
+              502.75
+            ],
+            "resistance": [
+              604.0,
+              593.6
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0006,
+            "pred_5d": 0.0107,
+            "pred_10d": -0.0055
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +1.07%  \u00b7  10d pred -0.55% Played out."
+        },
+        {
+          "ticker": "PARAGMILK",
+          "company": "Parag Milk Foods Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 221.78,
+          "current_price": 213.52,
+          "price_change": -8.26,
+          "price_change_pct": -3.72,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              189.2,
+              195.73
+            ],
+            "resistance": [
+              236.22,
+              234.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0145,
+            "pred_5d": 0.0107,
+            "pred_10d": 0.02
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +1.07%  \u00b7  10d pred +2.00% Missed."
+        },
+        {
+          "ticker": "ACMESOLAR",
+          "company": "Acme Solar Holdings Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 282.8,
+          "current_price": 290.25,
+          "price_change": 7.45,
+          "price_change_pct": 2.63,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              266.7,
+              269.05
+            ],
+            "resistance": [
+              316.9,
+              314.7
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0011,
+            "pred_5d": 0.0104,
+            "pred_10d": 0.0076
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +1.04%  \u00b7  10d pred +0.76% Played out."
+        },
+        {
+          "ticker": "KSB",
+          "company": "Ksb Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 877.35,
+          "current_price": 884.5,
+          "price_change": 7.15,
+          "price_change_pct": 0.81,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              822.55,
+              833.2
+            ],
+            "resistance": [
+              1028.3,
+              1008.9
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0035,
+            "pred_5d": 0.0104,
+            "pred_10d": 0.0242
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +1.04%  \u00b7  10d pred +2.42% Played out."
+        },
+        {
+          "ticker": "SKIPPER",
+          "company": "Skipper Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 466.2,
+          "current_price": 451.65,
+          "price_change": -14.55,
+          "price_change_pct": -3.12,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              352.0,
+              365.2
+            ],
+            "resistance": [
+              523.9,
+              504.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.008,
+            "pred_5d": 0.0103,
+            "pred_10d": 0.0151
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +1.03%  \u00b7  10d pred +1.51% Missed."
+        },
+        {
+          "ticker": "SAPPHIRE",
+          "company": "Sapphire Foods India Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 183.72,
+          "current_price": 179.74,
+          "price_change": -3.98,
+          "price_change_pct": -2.17,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              153.36,
+              159.62
+            ],
+            "resistance": [
+              212.7,
+              209.16
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0053,
+            "pred_5d": 0.0101,
+            "pred_10d": 0.0063
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +1.01%  \u00b7  10d pred +0.63% Missed."
+        },
+        {
+          "ticker": "SEAMECLTD",
+          "company": "Seamec Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 1501.3,
+          "current_price": 1515.3,
+          "price_change": 14.0,
+          "price_change_pct": 0.93,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              1432.0,
+              1472.0
+            ],
+            "resistance": [
+              1647.9,
+              1615.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.007,
+            "pred_5d": 0.01,
+            "pred_10d": 0.0109
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +1.00%  \u00b7  10d pred +1.09% Played out."
+        },
+        {
+          "ticker": "VTL",
+          "company": "Vardhman Textiles Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 580.7,
+          "current_price": 605.65,
+          "price_change": 24.95,
+          "price_change_pct": 4.3,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              528.75,
+              532.5
+            ],
+            "resistance": [
+              647.0,
+              638.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0102,
+            "pred_5d": 0.0097,
+            "pred_10d": 0.0193
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +0.97%  \u00b7  10d pred +1.93% Played out."
+        },
+        {
+          "ticker": "GNA",
+          "company": "GNA Axles Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 405.55,
+          "current_price": 387.15,
+          "price_change": -18.4,
+          "price_change_pct": -4.54,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              372.4,
+              385.0
+            ],
+            "resistance": [
+              460.5,
+              460.45
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0116,
+            "pred_5d": 0.0095,
+            "pred_10d": 0.0117
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +0.95%  \u00b7  10d pred +1.17% Missed."
+        },
+        {
+          "ticker": "GANESHBE",
+          "company": "Ganesh Benzoplast Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 95.34,
+          "current_price": 93.78,
+          "price_change": -1.56,
+          "price_change_pct": -1.64,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              79.98,
+              80.87
+            ],
+            "resistance": [
+              105.74,
+              105.65
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0099,
+            "pred_5d": 0.0094,
+            "pred_10d": 0.0071
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +0.94%  \u00b7  10d pred +0.71% Missed."
+        },
+        {
+          "ticker": "OIL",
+          "company": "Oil India Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 454.2,
+          "current_price": 456.0,
+          "price_change": 1.8,
+          "price_change_pct": 0.4,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              448.15,
+              450.5
+            ],
+            "resistance": [
+              504.3,
+              504.0
+            ]
+          },
+          "raw": {
+            "pred_1d": -0.0025,
+            "pred_5d": 0.0092,
+            "pred_10d": 0.0111
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +0.92%  \u00b7  10d pred +1.11% Played out."
+        },
+        {
+          "ticker": "VESUVIUS",
+          "company": "Vesuvius India Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 506.1,
+          "current_price": 482.25,
+          "price_change": -23.85,
+          "price_change_pct": -4.71,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              448.05,
+              448.1
+            ],
+            "resistance": [
+              541.5,
+              530.4
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0009,
+            "pred_5d": 0.0091,
+            "pred_10d": 0.0056
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +0.91%  \u00b7  10d pred +0.56% Missed."
+        },
+        {
+          "ticker": "EMBDL",
+          "company": "EMBDL",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 69.98,
+          "current_price": 72.81,
+          "price_change": 2.83,
+          "price_change_pct": 4.04,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              58.3,
+              66.64
+            ],
+            "resistance": [
+              72.8,
+              69.96
+            ]
+          },
+          "raw": {
+            "pred_1d": -0.0044,
+            "pred_5d": 0.0087,
+            "pred_10d": 0.0088
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +0.87%  \u00b7  10d pred +0.88% Played out."
+        },
+        {
+          "ticker": "PROZONER",
+          "company": "Prozone Realty Limited",
+          "source": "technical",
+          "predicted_direction": "bullish",
+          "previous_close": 52.38,
+          "current_price": 49.96,
+          "price_change": -2.42,
+          "price_change_pct": -4.62,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Technical model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              49.09,
+              49.55
+            ],
+            "resistance": [
+              69.0,
+              66.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0017,
+            "pred_5d": 0.0087,
+            "pred_10d": 0.0235
+          },
+          "notes": "Technical \u2192 bullish. 5d pred +0.87%  \u00b7  10d pred +2.35% Missed."
+        }
+      ]
+    },
+    "multi": {
+      "summary": {
+        "total": 30,
+        "correct": 9,
+        "accuracy_pct": 30.0,
+        "avg_move_pct": -0.8,
+        "best": {
+          "ticker": "HFCL",
+          "pct": 5.18
+        },
+        "worst": {
+          "ticker": "UJJIVANSFB",
+          "pct": -5.32
+        }
+      },
+      "predictions": [
+        {
+          "ticker": "HFCL",
+          "company": "HFCL Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 141.15,
+          "current_price": 148.46,
+          "price_change": 7.31,
+          "price_change_pct": 5.18,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Multi-horizon model",
+            "Strong 10d signal"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              72.05,
+              74.64
+            ],
+            "resistance": [
+              147.67,
+              146.95
+            ]
+          },
+          "raw": {
+            "pred_1d": -0.0018,
+            "pred_5d": 0.009,
+            "pred_10d": 0.0221
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.90%  \u00b7  10d pred +2.21% Played out."
+        },
+        {
+          "ticker": "ROSSTECH",
+          "company": "Rossell Techsys Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 910.55,
+          "current_price": 877.2,
+          "price_change": -33.35,
+          "price_change_pct": -3.66,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Multi-horizon model",
+            "Strong 10d signal"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              740.55,
+              773.5
+            ],
+            "resistance": [
+              1061.9,
+              1049.85
+            ]
+          },
+          "raw": {
+            "pred_1d": -0.0013,
+            "pred_5d": 0.0146,
+            "pred_10d": 0.0199
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +1.46%  \u00b7  10d pred +1.99% Missed."
+        },
+        {
+          "ticker": "MAFANG",
+          "company": "MAFANG",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 189.54,
+          "current_price": 188.14,
+          "price_change": -1.4,
+          "price_change_pct": -0.74,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Multi-horizon model",
+            "Strong 10d signal"
+          ],
+          "multi_factor_score": 42,
+          "horizontal_levels": {
+            "support": [
+              155.22,
+              155.94
+            ],
+            "resistance": [
+              189.54,
+              187.05
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0025,
+            "pred_5d": 0.0188,
+            "pred_10d": 0.0199
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +1.88%  \u00b7  10d pred +1.99% Missed."
+        },
+        {
+          "ticker": "MON100",
+          "company": "MON100",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 316.77,
+          "current_price": 315.16,
+          "price_change": -1.61,
+          "price_change_pct": -0.51,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Multi-horizon model",
+            "Strong 10d signal"
+          ],
+          "multi_factor_score": 40,
+          "horizontal_levels": {
+            "support": [
+              238.15,
+              246.65
+            ],
+            "resistance": [
+              316.77,
+              312.5
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0014,
+            "pred_5d": 0.0044,
+            "pred_10d": 0.0173
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.44%  \u00b7  10d pred +1.73% Missed."
+        },
+        {
+          "ticker": "DIXON",
+          "company": "Dixon Technologies (India) Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 10803.0,
+          "current_price": 10772.0,
+          "price_change": -31.0,
+          "price_change_pct": -0.29,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 40,
+          "horizontal_levels": {
+            "support": [
+              9840.5,
+              10288.0
+            ],
+            "resistance": [
+              11674.0,
+              11595.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0001,
+            "pred_5d": 0.0006,
+            "pred_10d": 0.0148
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.06%  \u00b7  10d pred +1.48% Missed."
+        },
+        {
+          "ticker": "BLISSGVS",
+          "company": "Bliss GVS Pharma Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 269.65,
+          "current_price": 272.15,
+          "price_change": 2.5,
+          "price_change_pct": 0.93,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              233.37,
+              241.0
+            ],
+            "resistance": [
+              281.0,
+              279.5
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0006,
+            "pred_5d": 0.0052,
+            "pred_10d": 0.0127
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.52%  \u00b7  10d pred +1.27% Played out."
+        },
+        {
+          "ticker": "GUJALKALI",
+          "company": "Gujarat Alkalies and Chemicals Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 746.55,
+          "current_price": 725.0,
+          "price_change": -21.55,
+          "price_change_pct": -2.89,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              562.15,
+              580.0
+            ],
+            "resistance": [
+              815.0,
+              809.3
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0025,
+            "pred_5d": 0.0051,
+            "pred_10d": 0.0123
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.51%  \u00b7  10d pred +1.23% Missed."
+        },
+        {
+          "ticker": "VTL",
+          "company": "Vardhman Textiles Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 580.7,
+          "current_price": 605.65,
+          "price_change": 24.95,
+          "price_change_pct": 4.3,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              528.75,
+              532.5
+            ],
+            "resistance": [
+              647.0,
+              638.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0062,
+            "pred_5d": 0.0079,
+            "pred_10d": 0.0121
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.79%  \u00b7  10d pred +1.21% Played out."
+        },
+        {
+          "ticker": "SATIN",
+          "company": "Satin Creditcare Network Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 212.72,
+          "current_price": 214.68,
+          "price_change": 1.96,
+          "price_change_pct": 0.92,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 40,
+          "horizontal_levels": {
+            "support": [
+              144.51,
+              148.0
+            ],
+            "resistance": [
+              215.5,
+              205.5
+            ]
+          },
+          "raw": {
+            "pred_1d": -0.0007,
+            "pred_5d": 0.0035,
+            "pred_10d": 0.012
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.35%  \u00b7  10d pred +1.20% Played out."
+        },
+        {
+          "ticker": "SOUTHWEST",
+          "company": "South West Pinnacle Exploration Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 216.09,
+          "current_price": 221.83,
+          "price_change": 5.74,
+          "price_change_pct": 2.66,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              210.5,
+              213.61
+            ],
+            "resistance": [
+              264.0,
+              255.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0065,
+            "pred_5d": 0.0071,
+            "pred_10d": 0.0118
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.71%  \u00b7  10d pred +1.18% Played out."
+        },
+        {
+          "ticker": "GLOBAL",
+          "company": "Global Education Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 119.95,
+          "current_price": 114.2,
+          "price_change": -5.75,
+          "price_change_pct": -4.79,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 40,
+          "horizontal_levels": {
+            "support": [
+              95.55,
+              95.76
+            ],
+            "resistance": [
+              121.9,
+              119.85
+            ]
+          },
+          "raw": {
+            "pred_1d": -0.0013,
+            "pred_5d": 0.0043,
+            "pred_10d": 0.0117
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.43%  \u00b7  10d pred +1.17% Missed."
+        },
+        {
+          "ticker": "MAHABANK",
+          "company": "Bank of Maharashtra",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 83.9,
+          "current_price": 81.42,
+          "price_change": -2.48,
+          "price_change_pct": -2.96,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 40,
+          "horizontal_levels": {
+            "support": [
+              65.41,
+              67.82
+            ],
+            "resistance": [
+              85.9,
+              85.31
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0004,
+            "pred_5d": 0.0048,
+            "pred_10d": 0.0117
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.48%  \u00b7  10d pred +1.17% Missed."
+        },
+        {
+          "ticker": "MOCAPITAL",
+          "company": "MOCAPITAL",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 55.66,
+          "current_price": 55.12,
+          "price_change": -0.54,
+          "price_change_pct": -0.97,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 40,
+          "horizontal_levels": {
+            "support": [
+              45.01,
+              46.26
+            ],
+            "resistance": [
+              56.15,
+              55.95
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.001,
+            "pred_5d": 0.005,
+            "pred_10d": 0.0116
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.50%  \u00b7  10d pred +1.16% Missed."
+        },
+        {
+          "ticker": "MASPTOP50",
+          "company": "MASPTOP50",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 79.86,
+          "current_price": 79.58,
+          "price_change": -0.28,
+          "price_change_pct": -0.35,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 40,
+          "horizontal_levels": {
+            "support": [
+              68.89,
+              69.07
+            ],
+            "resistance": [
+              79.86,
+              78.7
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0019,
+            "pred_5d": 0.0045,
+            "pred_10d": 0.0116
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.45%  \u00b7  10d pred +1.16% Missed."
+        },
+        {
+          "ticker": "SPORTKING",
+          "company": "Sportking India Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 150.84,
+          "current_price": 149.86,
+          "price_change": -0.98,
+          "price_change_pct": -0.65,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 40,
+          "horizontal_levels": {
+            "support": [
+              129.1,
+              132.08
+            ],
+            "resistance": [
+              160.3,
+              158.7
+            ]
+          },
+          "raw": {
+            "pred_1d": -0.0006,
+            "pred_5d": 0.004,
+            "pred_10d": 0.0109
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.40%  \u00b7  10d pred +1.09% Missed."
+        },
+        {
+          "ticker": "IFCI",
+          "company": "IFCI Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 64.45,
+          "current_price": 63.02,
+          "price_change": -1.43,
+          "price_change_pct": -2.22,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              52.01,
+              54.33
+            ],
+            "resistance": [
+              66.0,
+              64.45
+            ]
+          },
+          "raw": {
+            "pred_1d": -0.0004,
+            "pred_5d": 0.0055,
+            "pred_10d": 0.0109
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.55%  \u00b7  10d pred +1.09% Missed."
+        },
+        {
+          "ticker": "GRAUWEIL",
+          "company": "GRAUWEIL",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 70.14,
+          "current_price": 70.08,
+          "price_change": -0.06,
+          "price_change_pct": -0.09,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              68.5,
+              68.62
+            ],
+            "resistance": [
+              76.0,
+              74.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0036,
+            "pred_5d": 0.0058,
+            "pred_10d": 0.0109
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.58%  \u00b7  10d pred +1.09% Missed."
+        },
+        {
+          "ticker": "NMDC",
+          "company": "NMDC Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 88.8,
+          "current_price": 86.79,
+          "price_change": -2.01,
+          "price_change_pct": -2.26,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 40,
+          "horizontal_levels": {
+            "support": [
+              80.62,
+              82.51
+            ],
+            "resistance": [
+              92.77,
+              92.07
+            ]
+          },
+          "raw": {
+            "pred_1d": -0.0001,
+            "pred_5d": 0.0044,
+            "pred_10d": 0.0108
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.44%  \u00b7  10d pred +1.08% Missed."
+        },
+        {
+          "ticker": "BHARATWIRE",
+          "company": "Bharat Wire Ropes Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 250.78,
+          "current_price": 252.83,
+          "price_change": 2.05,
+          "price_change_pct": 0.82,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 40,
+          "horizontal_levels": {
+            "support": [
+              160.3,
+              164.16
+            ],
+            "resistance": [
+              257.0,
+              244.4
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0008,
+            "pred_5d": -0.0009,
+            "pred_10d": 0.0108
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred -0.09%  \u00b7  10d pred +1.08% Played out."
+        },
+        {
+          "ticker": "HEXT",
+          "company": "Hexaware Technologies Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 485.7,
+          "current_price": 502.25,
+          "price_change": 16.55,
+          "price_change_pct": 3.41,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              443.15,
+              444.0
+            ],
+            "resistance": [
+              506.0,
+              503.35
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.008,
+            "pred_5d": 0.0081,
+            "pred_10d": 0.0106
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.81%  \u00b7  10d pred +1.06% Played out."
+        },
+        {
+          "ticker": "KPITTECH",
+          "company": "KPIT Technologies Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 729.15,
+          "current_price": 733.45,
+          "price_change": 4.3,
+          "price_change_pct": 0.59,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 40,
+          "horizontal_levels": {
+            "support": [
+              685.5,
+              690.15
+            ],
+            "resistance": [
+              795.3,
+              784.6
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0004,
+            "pred_5d": 0.0042,
+            "pred_10d": 0.0106
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.42%  \u00b7  10d pred +1.06% Played out."
+        },
+        {
+          "ticker": "UJJIVANSFB",
+          "company": "Ujjivan Small Finance Bank Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 62.4,
+          "current_price": 59.08,
+          "price_change": -3.32,
+          "price_change_pct": -5.32,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 40,
+          "horizontal_levels": {
+            "support": [
+              55.21,
+              55.85
+            ],
+            "resistance": [
+              65.46,
+              63.85
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0011,
+            "pred_5d": 0.0047,
+            "pred_10d": 0.0106
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.47%  \u00b7  10d pred +1.06% Missed."
+        },
+        {
+          "ticker": "SILGO",
+          "company": "Silgo Retail Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 79.18,
+          "current_price": 76.33,
+          "price_change": -2.85,
+          "price_change_pct": -3.6,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              72.01,
+              73.78
+            ],
+            "resistance": [
+              83.51,
+              82.2
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0011,
+            "pred_5d": 0.0064,
+            "pred_10d": 0.0105
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.64%  \u00b7  10d pred +1.05% Missed."
+        },
+        {
+          "ticker": "HIMATSEIDE",
+          "company": "Himatsingka Seide Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 85.48,
+          "current_price": 84.12,
+          "price_change": -1.36,
+          "price_change_pct": -1.59,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              81.7,
+              85.19
+            ],
+            "resistance": [
+              97.51,
+              94.66
+            ]
+          },
+          "raw": {
+            "pred_1d": -0.0011,
+            "pred_5d": 0.0062,
+            "pred_10d": 0.0104
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.62%  \u00b7  10d pred +1.04% Missed."
+        },
+        {
+          "ticker": "MOTHERSON",
+          "company": "Samvardhana Motherson International Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 132.03,
+          "current_price": 130.3,
+          "price_change": -1.73,
+          "price_change_pct": -1.31,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              105.4,
+              114.0
+            ],
+            "resistance": [
+              132.99,
+              132.76
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0013,
+            "pred_5d": 0.0054,
+            "pred_10d": 0.0103
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.54%  \u00b7  10d pred +1.03% Missed."
+        },
+        {
+          "ticker": "JAYNECOIND",
+          "company": "Jayaswal Neco Industries Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 114.69,
+          "current_price": 110.5,
+          "price_change": -4.19,
+          "price_change_pct": -3.65,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              78.0,
+              79.31
+            ],
+            "resistance": [
+              117.0,
+              116.25
+            ]
+          },
+          "raw": {
+            "pred_1d": -0.0019,
+            "pred_5d": 0.0053,
+            "pred_10d": 0.0103
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.53%  \u00b7  10d pred +1.03% Missed."
+        },
+        {
+          "ticker": "SAKAR",
+          "company": "Sakar Healthcare Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 545.5,
+          "current_price": 529.6,
+          "price_change": -15.9,
+          "price_change_pct": -2.91,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              514.05,
+              529.2
+            ],
+            "resistance": [
+              661.95,
+              658.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0017,
+            "pred_5d": 0.0123,
+            "pred_10d": 0.0102
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +1.23%  \u00b7  10d pred +1.02% Missed."
+        },
+        {
+          "ticker": "GANESHBE",
+          "company": "Ganesh Benzoplast Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 95.34,
+          "current_price": 93.78,
+          "price_change": -1.56,
+          "price_change_pct": -1.64,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 40,
+          "horizontal_levels": {
+            "support": [
+              79.98,
+              80.87
+            ],
+            "resistance": [
+              105.74,
+              105.65
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0018,
+            "pred_5d": 0.0032,
+            "pred_10d": 0.0097
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.32%  \u00b7  10d pred +0.97% Missed."
+        },
+        {
+          "ticker": "KTKBANK",
+          "company": "The Karnataka Bank Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 259.35,
+          "current_price": 251.6,
+          "price_change": -7.75,
+          "price_change_pct": -2.99,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 40,
+          "horizontal_levels": {
+            "support": [
+              226.0,
+              231.88
+            ],
+            "resistance": [
+              275.3,
+              273.45
+            ]
+          },
+          "raw": {
+            "pred_1d": -0.0004,
+            "pred_5d": 0.0028,
+            "pred_10d": 0.0095
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.28%  \u00b7  10d pred +0.95% Missed."
+        },
+        {
+          "ticker": "GULPOLY",
+          "company": "Gulshan Polyols Limited",
+          "source": "multi",
+          "predicted_direction": "bullish",
+          "previous_close": 187.53,
+          "current_price": 192.65,
+          "price_change": 5.12,
+          "price_change_pct": 2.73,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Multi-horizon model"
+          ],
+          "multi_factor_score": 40,
+          "horizontal_levels": {
+            "support": [
+              157.76,
+              159.96
+            ],
+            "resistance": [
+              195.8,
+              192.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0006,
+            "pred_5d": 0.0044,
+            "pred_10d": 0.0095
+          },
+          "notes": "Multi-horizon \u2192 bullish. 5d pred +0.44%  \u00b7  10d pred +0.95% Played out."
+        }
+      ]
+    },
+    "horizontal": {
+      "summary": {
+        "total": 30,
+        "correct": 6,
+        "accuracy_pct": 20.0,
+        "avg_move_pct": -1.6,
+        "best": {
+          "ticker": "JBMA",
+          "pct": 4.89
+        },
+        "worst": {
+          "ticker": "GODREJIND",
+          "pct": -5.93
+        }
+      },
+      "predictions": [
+        {
+          "ticker": "METROPOLIS",
+          "company": "Metropolis Healthcare Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 549.5,
+          "current_price": 559.9,
+          "price_change": 10.4,
+          "price_change_pct": 1.89,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Delivery 42.8x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              425.05,
+              429.15
+            ],
+            "resistance": [
+              574.9,
+              516.2
+            ]
+          },
+          "raw": {
+            "spike_ratio": 42.84
+          },
+          "notes": "Delivery spike \u2192 bullish. 42.8x median delivery Played out."
+        },
+        {
+          "ticker": "LENSKART",
+          "company": "Lenskart Solutions Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 489.25,
+          "current_price": 489.85,
+          "price_change": 0.6,
+          "price_change_pct": 0.12,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 28.5x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              473.4,
+              481.0
+            ],
+            "resistance": [
+              557.65,
+              551.4
+            ]
+          },
+          "raw": {
+            "spike_ratio": 28.52
+          },
+          "notes": "Delivery spike \u2192 bullish. 28.5x median delivery Missed."
+        },
+        {
+          "ticker": "IPL",
+          "company": "India Pesticides Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 177.41,
+          "current_price": 179.11,
+          "price_change": 1.7,
+          "price_change_pct": 0.96,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Delivery 17.9x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              138.5,
+              141.73
+            ],
+            "resistance": [
+              194.0,
+              170.0
+            ]
+          },
+          "raw": {
+            "spike_ratio": 17.89
+          },
+          "notes": "Delivery spike \u2192 bullish. 17.9x median delivery Played out."
+        },
+        {
+          "ticker": "ONWARDTEC",
+          "company": "Onward Technologies Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 276.27,
+          "current_price": 273.59,
+          "price_change": -2.68,
+          "price_change_pct": -0.97,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 12.9x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              231.1,
+              231.91
+            ],
+            "resistance": [
+              280.0,
+              273.0
+            ]
+          },
+          "raw": {
+            "spike_ratio": 12.92
+          },
+          "notes": "Delivery spike \u2192 bullish. 12.9x median delivery Missed."
+        },
+        {
+          "ticker": "ESTER",
+          "company": "Ester Industries Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 102.6,
+          "current_price": 100.18,
+          "price_change": -2.42,
+          "price_change_pct": -2.36,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 12.5x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              80.41,
+              83.84
+            ],
+            "resistance": [
+              105.94,
+              101.4
+            ]
+          },
+          "raw": {
+            "spike_ratio": 12.54
+          },
+          "notes": "Delivery spike \u2192 bullish. 12.5x median delivery Missed."
+        },
+        {
+          "ticker": "FSL",
+          "company": "Firstsource Solutions Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 274.26,
+          "current_price": 260.96,
+          "price_change": -13.3,
+          "price_change_pct": -4.85,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 10.3x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              208.5,
+              209.89
+            ],
+            "resistance": [
+              280.85,
+              254.68
+            ]
+          },
+          "raw": {
+            "spike_ratio": 10.31
+          },
+          "notes": "Delivery spike \u2192 bullish. 10.3x median delivery Missed."
+        },
+        {
+          "ticker": "BRITANNIA",
+          "company": "Britannia Industries Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 5520.0,
+          "current_price": 5410.5,
+          "price_change": -109.5,
+          "price_change_pct": -1.98,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 9.4x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              5384.0,
+              5405.0
+            ],
+            "resistance": [
+              5924.0,
+              5891.5
+            ]
+          },
+          "raw": {
+            "spike_ratio": 9.39
+          },
+          "notes": "Delivery spike \u2192 bullish. 9.4x median delivery Missed."
+        },
+        {
+          "ticker": "SATIN",
+          "company": "Satin Creditcare Network Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 212.72,
+          "current_price": 214.68,
+          "price_change": 1.96,
+          "price_change_pct": 0.92,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Delivery 9.3x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              144.51,
+              148.0
+            ],
+            "resistance": [
+              215.5,
+              205.5
+            ]
+          },
+          "raw": {
+            "spike_ratio": 9.27
+          },
+          "notes": "Delivery spike \u2192 bullish. 9.3x median delivery Played out."
+        },
+        {
+          "ticker": "KALPATARU",
+          "company": "Kalpataru Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 385.15,
+          "current_price": 382.7,
+          "price_change": -2.45,
+          "price_change_pct": -0.64,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 9.2x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              286.6,
+              295.2
+            ],
+            "resistance": [
+              401.0,
+              372.55
+            ]
+          },
+          "raw": {
+            "spike_ratio": 9.21
+          },
+          "notes": "Delivery spike \u2192 bullish. 9.2x median delivery Missed."
+        },
+        {
+          "ticker": "AVALON",
+          "company": "Avalon Technologies Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 1387.0,
+          "current_price": 1340.0,
+          "price_change": -47.0,
+          "price_change_pct": -3.39,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 8.3x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              945.1,
+              975.25
+            ],
+            "resistance": [
+              1427.8,
+              1306.1
+            ]
+          },
+          "raw": {
+            "spike_ratio": 8.34
+          },
+          "notes": "Delivery spike \u2192 bullish. 8.3x median delivery Missed."
+        },
+        {
+          "ticker": "ACMESOLAR",
+          "company": "Acme Solar Holdings Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 282.8,
+          "current_price": 290.25,
+          "price_change": 7.45,
+          "price_change_pct": 2.63,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Delivery 7.1x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              266.7,
+              269.05
+            ],
+            "resistance": [
+              316.9,
+              314.7
+            ]
+          },
+          "raw": {
+            "spike_ratio": 7.14
+          },
+          "notes": "Delivery spike \u2192 bullish. 7.1x median delivery Played out."
+        },
+        {
+          "ticker": "THERMAX",
+          "company": "Thermax Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 4677.5,
+          "current_price": 4545.1,
+          "price_change": -132.4,
+          "price_change_pct": -2.83,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 6.6x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              3192.7,
+              3196.6
+            ],
+            "resistance": [
+              4759.0,
+              4290.0
+            ]
+          },
+          "raw": {
+            "spike_ratio": 6.64
+          },
+          "notes": "Delivery spike \u2192 bullish. 6.6x median delivery Missed."
+        },
+        {
+          "ticker": "INDOCO",
+          "company": "Indoco Remedies Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 227.91,
+          "current_price": 218.92,
+          "price_change": -8.99,
+          "price_change_pct": -3.94,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 6.0x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              188.93,
+              196.22
+            ],
+            "resistance": [
+              270.0,
+              242.0
+            ]
+          },
+          "raw": {
+            "spike_ratio": 5.99
+          },
+          "notes": "Delivery spike \u2192 bullish. 6.0x median delivery Missed."
+        },
+        {
+          "ticker": "SHYAMMETL",
+          "company": "Shyam Metalics and Energy Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 903.5,
+          "current_price": 871.8,
+          "price_change": -31.7,
+          "price_change_pct": -3.51,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 5.7x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              801.1,
+              802.3
+            ],
+            "resistance": [
+              926.9,
+              909.45
+            ]
+          },
+          "raw": {
+            "spike_ratio": 5.7
+          },
+          "notes": "Delivery spike \u2192 bullish. 5.7x median delivery Missed."
+        },
+        {
+          "ticker": "KRISHANA",
+          "company": "Krishana Phoschem Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 702.05,
+          "current_price": 680.55,
+          "price_change": -21.5,
+          "price_change_pct": -3.06,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 5.6x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              548.05,
+              556.0
+            ],
+            "resistance": [
+              704.0,
+              703.95
+            ]
+          },
+          "raw": {
+            "spike_ratio": 5.57
+          },
+          "notes": "Delivery spike \u2192 bullish. 5.6x median delivery Missed."
+        },
+        {
+          "ticker": "GODREJIND",
+          "company": "Godrej Industries Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 1218.25,
+          "current_price": 1146.05,
+          "price_change": -72.2,
+          "price_change_pct": -5.93,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 5.5x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              833.05,
+              865.55
+            ],
+            "resistance": [
+              1260.65,
+              1226.85
+            ]
+          },
+          "raw": {
+            "spike_ratio": 5.49
+          },
+          "notes": "Delivery spike \u2192 bullish. 5.5x median delivery Missed."
+        },
+        {
+          "ticker": "IDEAFORGE",
+          "company": "Ideaforge Technology Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 814.15,
+          "current_price": 795.2,
+          "price_change": -18.95,
+          "price_change_pct": -2.33,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 5.2x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              393.85,
+              408.8
+            ],
+            "resistance": [
+              849.35,
+              832.0
+            ]
+          },
+          "raw": {
+            "spike_ratio": 5.25
+          },
+          "notes": "Delivery spike \u2192 bullish. 5.2x median delivery Missed."
+        },
+        {
+          "ticker": "STYL",
+          "company": "Seshaasai Technologies Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 271.95,
+          "current_price": 269.51,
+          "price_change": -2.44,
+          "price_change_pct": -0.9,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 5.2x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              223.35,
+              225.05
+            ],
+            "resistance": [
+              281.9,
+              268.55
+            ]
+          },
+          "raw": {
+            "spike_ratio": 5.25
+          },
+          "notes": "Delivery spike \u2192 bullish. 5.2x median delivery Missed."
+        },
+        {
+          "ticker": "JBMA",
+          "company": "JBM Auto Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 649.9,
+          "current_price": 681.65,
+          "price_change": 31.75,
+          "price_change_pct": 4.89,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Delivery 5.1x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              555.05,
+              575.0
+            ],
+            "resistance": [
+              663.5,
+              655.0
+            ]
+          },
+          "raw": {
+            "spike_ratio": 5.14
+          },
+          "notes": "Delivery spike \u2192 bullish. 5.1x median delivery Played out."
+        },
+        {
+          "ticker": "GLAND",
+          "company": "Gland Pharma Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 1904.4,
+          "current_price": 1919.1,
+          "price_change": 14.7,
+          "price_change_pct": 0.77,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Delivery 5.0x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              1672.0,
+              1693.3
+            ],
+            "resistance": [
+              1922.7,
+              1882.0
+            ]
+          },
+          "raw": {
+            "spike_ratio": 4.98
+          },
+          "notes": "Delivery spike \u2192 bullish. 5.0x median delivery Played out."
+        },
+        {
+          "ticker": "INNOVACAP",
+          "company": "Innova Captab Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 875.75,
+          "current_price": 855.25,
+          "price_change": -20.5,
+          "price_change_pct": -2.34,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 4.8x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              670.0,
+              675.05
+            ],
+            "resistance": [
+              900.0,
+              884.0
+            ]
+          },
+          "raw": {
+            "spike_ratio": 4.75
+          },
+          "notes": "Delivery spike \u2192 bullish. 4.8x median delivery Missed."
+        },
+        {
+          "ticker": "ABSLAMC",
+          "company": "Aditya Birla Sun Life AMC Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 1072.4,
+          "current_price": 1059.3,
+          "price_change": -13.1,
+          "price_change_pct": -1.22,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 4.7x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              927.15,
+              946.7
+            ],
+            "resistance": [
+              1123.5,
+              1099.25
+            ]
+          },
+          "raw": {
+            "spike_ratio": 4.68
+          },
+          "notes": "Delivery spike \u2192 bullish. 4.7x median delivery Missed."
+        },
+        {
+          "ticker": "VESUVIUS",
+          "company": "Vesuvius India Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 506.1,
+          "current_price": 482.25,
+          "price_change": -23.85,
+          "price_change_pct": -4.71,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 4.7x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              448.05,
+              448.1
+            ],
+            "resistance": [
+              541.5,
+              530.4
+            ]
+          },
+          "raw": {
+            "spike_ratio": 4.67
+          },
+          "notes": "Delivery spike \u2192 bullish. 4.7x median delivery Missed."
+        },
+        {
+          "ticker": "GODREJAGRO",
+          "company": "Godrej Agrovet Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 591.2,
+          "current_price": 582.65,
+          "price_change": -8.55,
+          "price_change_pct": -1.45,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 4.7x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              570.0,
+              570.3
+            ],
+            "resistance": [
+              630.0,
+              623.8
+            ]
+          },
+          "raw": {
+            "spike_ratio": 4.65
+          },
+          "notes": "Delivery spike \u2192 bullish. 4.7x median delivery Missed."
+        },
+        {
+          "ticker": "GREENPLY",
+          "company": "Greenply Industries Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 272.85,
+          "current_price": 265.2,
+          "price_change": -7.65,
+          "price_change_pct": -2.8,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 4.2x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              193.04,
+              202.98
+            ],
+            "resistance": [
+              294.66,
+              285.0
+            ]
+          },
+          "raw": {
+            "spike_ratio": 4.23
+          },
+          "notes": "Delivery spike \u2192 bullish. 4.2x median delivery Missed."
+        },
+        {
+          "ticker": "BALAJITELE",
+          "company": "Balaji Telefilms Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 123.23,
+          "current_price": 121.45,
+          "price_change": -1.78,
+          "price_change_pct": -1.44,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 4.2x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              83.2,
+              86.62
+            ],
+            "resistance": [
+              131.0,
+              126.0
+            ]
+          },
+          "raw": {
+            "spike_ratio": 4.18
+          },
+          "notes": "Delivery spike \u2192 bullish. 4.2x median delivery Missed."
+        },
+        {
+          "ticker": "ACC",
+          "company": "ACC Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 1391.9,
+          "current_price": 1357.9,
+          "price_change": -34.0,
+          "price_change_pct": -2.44,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 4.2x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              1333.1,
+              1367.1
+            ],
+            "resistance": [
+              1459.6,
+              1457.5
+            ]
+          },
+          "raw": {
+            "spike_ratio": 4.16
+          },
+          "notes": "Delivery spike \u2192 bullish. 4.2x median delivery Missed."
+        },
+        {
+          "ticker": "CHOICEIN",
+          "company": "Choice International Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 688.85,
+          "current_price": 683.35,
+          "price_change": -5.5,
+          "price_change_pct": -0.8,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 4.1x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              632.05,
+              650.05
+            ],
+            "resistance": [
+              734.0,
+              728.35
+            ]
+          },
+          "raw": {
+            "spike_ratio": 4.07
+          },
+          "notes": "Delivery spike \u2192 bullish. 4.1x median delivery Missed."
+        },
+        {
+          "ticker": "KERNEX",
+          "company": "Kernex Microsystems (India) Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 1583.8,
+          "current_price": 1505.6,
+          "price_change": -78.2,
+          "price_change_pct": -4.94,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 4.1x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              979.1,
+              1100.0
+            ],
+            "resistance": [
+              1626.0,
+              1530.0
+            ]
+          },
+          "raw": {
+            "spike_ratio": 4.07
+          },
+          "notes": "Delivery spike \u2192 bullish. 4.1x median delivery Missed."
+        },
+        {
+          "ticker": "RBA",
+          "company": "Restaurant Brands Asia Limited",
+          "source": "horizontal",
+          "predicted_direction": "bullish",
+          "previous_close": 68.09,
+          "current_price": 67.07,
+          "price_change": -1.02,
+          "price_change_pct": -1.5,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery 4.0x median",
+            "Major spike"
+          ],
+          "multi_factor_score": 100,
+          "horizontal_levels": {
+            "support": [
+              59.91,
+              61.36
+            ],
+            "resistance": [
+              68.2,
+              67.75
+            ]
+          },
+          "raw": {
+            "spike_ratio": 4.03
+          },
+          "notes": "Delivery spike \u2192 bullish. 4.0x median delivery Missed."
+        }
+      ]
+    },
+    "confluence": {
+      "summary": {
+        "total": 9,
+        "correct": 1,
+        "accuracy_pct": 11.1,
+        "avg_move_pct": -2.51,
+        "best": {
+          "ticker": "HFCL",
+          "pct": 5.18
+        },
+        "worst": {
+          "ticker": "ABB",
+          "pct": -8.91
+        }
+      },
+      "predictions": [
+        {
+          "ticker": "PICCADIL",
+          "company": "Piccadily Agro Industries Limited",
+          "source": "confluence",
+          "predicted_direction": "bullish",
+          "previous_close": 621.1,
+          "current_price": 619.15,
+          "price_change": -1.95,
+          "price_change_pct": -0.31,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery \u00d7 Technical",
+            "High-conviction overlap"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              529.85,
+              545.15
+            ],
+            "resistance": [
+              697.0,
+              685.0
+            ]
+          },
+          "raw": {
+            "pred_5d": 0.008,
+            "pred_10d": 0.0216,
+            "confluence_score": 1.985
+          },
+          "notes": "Confluence (deliv \u00d7 tech) \u2192 bullish. 5d pred +0.80%  \u00b7  10d pred +2.16%  \u00b7  confluence 1.99 Missed."
+        },
+        {
+          "ticker": "HFCL",
+          "company": "HFCL Limited",
+          "source": "confluence",
+          "predicted_direction": "bullish",
+          "previous_close": 141.15,
+          "current_price": 148.46,
+          "price_change": 7.31,
+          "price_change_pct": 5.18,
+          "prediction_correct": true,
+          "technical_signals": [
+            "Delivery \u00d7 Technical",
+            "High-conviction overlap"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              72.05,
+              74.64
+            ],
+            "resistance": [
+              147.67,
+              146.95
+            ]
+          },
+          "raw": {
+            "pred_5d": 0.0065,
+            "pred_10d": 0.0127,
+            "confluence_score": 1.9267
+          },
+          "notes": "Confluence (deliv \u00d7 tech) \u2192 bullish. 5d pred +0.65%  \u00b7  10d pred +1.27%  \u00b7  confluence 1.93 Played out."
+        },
+        {
+          "ticker": "BLACKBUCK",
+          "company": "BLACKBUCK LIMITED",
+          "source": "confluence",
+          "predicted_direction": "bullish",
+          "previous_close": 579.1,
+          "current_price": 562.15,
+          "price_change": -16.95,
+          "price_change_pct": -2.93,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery \u00d7 Technical",
+            "High-conviction overlap"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              531.15,
+              545.2
+            ],
+            "resistance": [
+              638.45,
+              635.8
+            ]
+          },
+          "raw": {
+            "pred_5d": 0.0065,
+            "pred_10d": 0.012,
+            "confluence_score": 1.9267
+          },
+          "notes": "Confluence (deliv \u00d7 tech) \u2192 bullish. 5d pred +0.65%  \u00b7  10d pred +1.20%  \u00b7  confluence 1.93 Missed."
+        },
+        {
+          "ticker": "SKIPPER",
+          "company": "Skipper Limited",
+          "source": "confluence",
+          "predicted_direction": "bullish",
+          "previous_close": 466.2,
+          "current_price": 451.65,
+          "price_change": -14.55,
+          "price_change_pct": -3.12,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery \u00d7 Technical",
+            "High-conviction overlap"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              352.0,
+              365.2
+            ],
+            "resistance": [
+              523.9,
+              504.0
+            ]
+          },
+          "raw": {
+            "pred_5d": 0.0058,
+            "pred_10d": 0.0151,
+            "confluence_score": 1.9141
+          },
+          "notes": "Confluence (deliv \u00d7 tech) \u2192 bullish. 5d pred +0.58%  \u00b7  10d pred +1.51%  \u00b7  confluence 1.91 Missed."
+        },
+        {
+          "ticker": "TRANSRAILL",
+          "company": "Transrail Lighting Limited",
+          "source": "confluence",
+          "predicted_direction": "bullish",
+          "previous_close": 566.8,
+          "current_price": 548.35,
+          "price_change": -18.45,
+          "price_change_pct": -3.26,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery \u00d7 Technical",
+            "High-conviction overlap"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              487.2,
+              518.7
+            ],
+            "resistance": [
+              624.4,
+              617.0
+            ]
+          },
+          "raw": {
+            "pred_5d": 0.0052,
+            "pred_10d": 0.0179,
+            "confluence_score": 1.907
+          },
+          "notes": "Confluence (deliv \u00d7 tech) \u2192 bullish. 5d pred +0.52%  \u00b7  10d pred +1.79%  \u00b7  confluence 1.91 Missed."
+        },
+        {
+          "ticker": "PFOCUS",
+          "company": "Prime Focus Limited",
+          "source": "confluence",
+          "predicted_direction": "bullish",
+          "previous_close": 300.9,
+          "current_price": 291.7,
+          "price_change": -9.2,
+          "price_change_pct": -3.06,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery \u00d7 Technical",
+            "High-conviction overlap"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              281.1,
+              293.35
+            ],
+            "resistance": [
+              367.0,
+              353.85
+            ]
+          },
+          "raw": {
+            "pred_5d": 0.0054,
+            "pred_10d": 0.0152,
+            "confluence_score": 1.8983
+          },
+          "notes": "Confluence (deliv \u00d7 tech) \u2192 bullish. 5d pred +0.54%  \u00b7  10d pred +1.52%  \u00b7  confluence 1.90 Missed."
+        },
+        {
+          "ticker": "UNIECOM",
+          "company": "Unicommerce Esolutions Limited",
+          "source": "confluence",
+          "predicted_direction": "bullish",
+          "previous_close": 95.06,
+          "current_price": 89.98,
+          "price_change": -5.08,
+          "price_change_pct": -5.34,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery \u00d7 Technical",
+            "High-conviction overlap"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              87.55,
+              87.66
+            ],
+            "resistance": [
+              109.24,
+              105.31
+            ]
+          },
+          "raw": {
+            "pred_5d": 0.0052,
+            "pred_10d": 0.0166,
+            "confluence_score": 1.8944
+          },
+          "notes": "Confluence (deliv \u00d7 tech) \u2192 bullish. 5d pred +0.52%  \u00b7  10d pred +1.66%  \u00b7  confluence 1.89 Missed."
+        },
+        {
+          "ticker": "ABB",
+          "company": "ABB India Limited",
+          "source": "confluence",
+          "predicted_direction": "bullish",
+          "previous_close": 7012.5,
+          "current_price": 6387.5,
+          "price_change": -625.0,
+          "price_change_pct": -8.91,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery \u00d7 Technical",
+            "High-conviction overlap"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              6081.5,
+              6370.0
+            ],
+            "resistance": [
+              7822.5,
+              7650.0
+            ]
+          },
+          "raw": {
+            "pred_5d": 0.0053,
+            "pred_10d": 0.01,
+            "confluence_score": 1.8707
+          },
+          "notes": "Confluence (deliv \u00d7 tech) \u2192 bullish. 5d pred +0.53%  \u00b7  10d pred +1.00%  \u00b7  confluence 1.87 Missed."
+        },
+        {
+          "ticker": "CHOICEIN",
+          "company": "Choice International Limited",
+          "source": "confluence",
+          "predicted_direction": "bullish",
+          "previous_close": 688.85,
+          "current_price": 683.35,
+          "price_change": -5.5,
+          "price_change_pct": -0.8,
+          "prediction_correct": false,
+          "technical_signals": [
+            "Delivery \u00d7 Technical",
+            "High-conviction overlap"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              632.05,
+              650.05
+            ],
+            "resistance": [
+              734.0,
+              728.35
+            ]
+          },
+          "raw": {
+            "pred_5d": 0.0052,
+            "pred_10d": 0.0109,
+            "confluence_score": 1.8652
+          },
+          "notes": "Confluence (deliv \u00d7 tech) \u2192 bullish. 5d pred +0.52%  \u00b7  10d pred +1.09%  \u00b7  confluence 1.87 Missed."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Stockbot · 2026-05-11 → 2026-05-11 (forecast)</title>
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar__brand">
+      <a href="../index.html" style="text-decoration:none;color:inherit;display:flex;align-items:center;gap:12px;">
+        <span class="brand__mark">SB</span>
+        <div class="brand__label">
+          <div class="brand__title">Stockbot Review</div>
+          <div class="brand__sub">Pred: 2026-05-11 → Result: 2026-05-11 (forecast)</div>
+        </div>
+      </a>
+    </div>
+    <div class="topbar__center">
+      <a href="../index.html" class="alltime" style="text-decoration:none;">← all days</a>
+    </div>
+    <div class="topbar__right">
+      <button id="themeToggle" class="iconbtn" aria-label="Toggle theme">◐</button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="sidebar__hdr"><div>History</div><span class="muted" id="sidebarCount">0</span></div>
+      <ul class="datelist" id="dateList"></ul>
+      <div class="sidebar__hdr sidebar__hdr--sub"><div>Sources today</div></div>
+      <div class="srcsumm" id="srcSumm"></div>
+    </aside>
+    <main class="main">
+      <div class="srctabs" id="srcTabs"></div>
+      <section class="cards" id="summaryCards"></section>
+      <section class="filters">
+        <div class="filter"><label>Direction</label>
+          <select id="filterDir"><option value="all">All</option><option value="bullish">Bullish</option><option value="bearish">Bearish</option><option value="sideways">Sideways</option></select>
+        </div>
+        <div class="filter"><label>Min confidence <span id="confVal">0</span></label>
+          <input type="range" id="filterConf" min="0" max="100" value="0" />
+        </div>
+        <div class="filter"><label>Sort</label>
+          <select id="sortBy"><option value="default">Default (model rank)</option><option value="gain">Biggest gain</option><option value="loss">Biggest loss</option><option value="accuracy">Correct first</option><option value="confidence">Confidence ↓</option></select>
+        </div>
+        <div class="filter filter--note">
+          <span class="legend"><i class="dot dot--green"></i> Correct</span>
+          <span class="legend"><i class="dot dot--red"></i> Wrong</span>
+          <span class="legend"><i class="dot dot--grey"></i> Sideways / no result</span>
+        </div>
+      </section>
+      <section class="tablewrap">
+        <table class="ptable" id="ptable">
+          <thead><tr><th>#</th><th>Ticker</th><th>Company</th><th>Dir</th><th class="num">Prev close</th><th class="num">Last</th><th class="num">Δ</th><th class="num">%</th><th>Result</th><th>Signals</th><th class="num">Conf</th><th>S / R</th><th class="grow">Notes</th></tr></thead>
+          <tbody id="rows"></tbody>
+        </table>
+      </section>
+      <footer class="footer">
+        <span class="muted">Stockbot · static snapshot for 2026-05-11</span>
+        <span class="muted" id="generatedAt"></span>
+      </footer>
+    </main>
+  </div>
+  <script>window.SB_DATA_URL = "../data/predictions_2026-05-11_forecast.json";</script>
+  <script src="../app.js"></script>
+</body>
+</html>

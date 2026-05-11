@@ -1,0 +1,31 @@
+# venv
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# secrets
+.env
+
+# heavy market data — built locally, not deployed
+data/mto/
+data/bhavcopy/
+data/years data/
+data/fundamental_analysis/
+data/deliv_spike/*/spikes_all.csv
+
+# models
+models/
+*.pkl
+*.joblib
+
+# logs
+automation/*.log
+automation/launchd.*.log
+*.log
+
+# notebooks/scratch
+.ipynb_checkpoints/
