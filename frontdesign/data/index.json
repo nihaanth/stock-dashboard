@@ -1,16 +1,16 @@
 {
   "all_time": {
     "days": 1,
-    "total_calls": 129,
-    "correct": 34,
-    "accuracy_pct": 26.4
+    "total_calls": 329,
+    "correct": 70,
+    "accuracy_pct": 21.3
   },
   "dates": [
     {
       "date": "2026-05-11",
       "result_date": null,
       "mode": "forecast",
-      "total": 123,
+      "total": 323,
       "correct": null,
       "accuracy_pct": null,
       "file": "predictions_2026-05-11_forecast.json",
@@ -20,9 +20,9 @@
       "date": "2026-05-08",
       "result_date": "2026-05-11",
       "mode": "post_mortem",
-      "total": 129,
-      "correct": 34,
-      "accuracy_pct": 26.4,
+      "total": 329,
+      "correct": 70,
+      "accuracy_pct": 21.3,
       "file": "predictions_2026-05-08.json",
       "page": "d/2026-05-08.html"
     }

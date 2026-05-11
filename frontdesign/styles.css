@@ -258,7 +258,7 @@ button, input, select { font-family: inherit; color: inherit; }
 /* source tabs */
 .srctabs {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(6, 1fr);
   gap: 10px;
   margin-bottom: 14px;
 }
@@ -454,6 +454,7 @@ button, input, select { font-family: inherit; color: inherit; }
 .src-badge--M { background: #a78bfa22; color: #a78bfa; border-color: #a78bfa; }
 .src-badge--H { background: #f59e0b22; color: #f59e0b; border-color: #f59e0b; }
 .src-badge--C { background: #f472b622; color: #f472b6; border-color: #f472b6; }
+.src-badge--A4 { background: #06b6d422; color: #06b6d4; border-color: #06b6d4; }
 
 .chg--pos { color: var(--green); }
 .chg--neg { color: var(--red); }

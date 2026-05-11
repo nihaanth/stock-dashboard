@@ -15,11 +15,12 @@
 // and load a specific predictions_<DATE>.json.
 
 const SOURCES = [
-  { id: "technical",  label: "Technical",  short: "T", desc: "pred_5d top 30" },
-  { id: "delivery",   label: "Delivery",   short: "D", desc: "pred_5d top 30" },
-  { id: "multi",      label: "Multi-H",    short: "M", desc: "pred_10d top 30" },
-  { id: "horizontal", label: "Horizontal", short: "H", desc: "delivery spike top 30" },
-  { id: "confluence", label: "Confluence", short: "C", desc: "deliv ∩ tech overlap" },
+  { id: "technical",  label: "Technical",  short: "T",  desc: "pred_5d top 30" },
+  { id: "delivery",   label: "Delivery",   short: "D",  desc: "pred_5d top 30" },
+  { id: "multi",      label: "Multi-H",    short: "M",  desc: "pred_10d top 30" },
+  { id: "horizontal", label: "Horizontal", short: "H",  desc: "delivery spike top 30" },
+  { id: "confluence", label: "Confluence", short: "C",  desc: "deliv ∩ tech overlap" },
+  { id: "tech_all4",  label: "Tech ×4",    short: "A4", desc: "h=1/5/10/20 composite top 200" },
 ];
 
 const INR = new Intl.NumberFormat("en-IN", { maximumFractionDigits: 2, minimumFractionDigits: 2 });

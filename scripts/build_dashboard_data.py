@@ -1,15 +1,17 @@
 #!/usr/bin/env python3
-"""Build per-source top-30 prediction JSON + per-day HTML for frontdesign/.
+"""Build per-source prediction JSON + per-day HTML for frontdesign/.
 
-Outputs five independent top-N lists (one per model source) for each
+Outputs six independent top-N lists (one per model source) for each
 prediction date — they're NOT combined. Each source ranks on its own metric:
 
-  technical   → sort by pred_5d  desc (ml_pipeline/technical, h=1/5/10)
-  delivery    → sort by pred_5d  desc (ml_pipeline/delivery,  h=1/5/10)
-  multi       → sort by pred_10d desc (ml_pipeline/multi_horizon, h=1..30)
-  horizontal  → sort by spike_ratio desc (deliv_spike_scan output)
+  technical   → sort by pred_5d  desc (ml_pipeline/technical, h=1/5/10)        [top 30]
+  delivery    → sort by pred_5d  desc (ml_pipeline/delivery,  h=1/5/10)        [top 30]
+  multi       → sort by pred_10d desc (ml_pipeline/multi_horizon, h=1..30)     [top 30]
+  horizontal  → sort by spike_ratio desc (deliv_spike_scan output)             [top 30]
   confluence  → top-100 deliv_qty(h=5) ∩ top-100 technical(h=10),
-                ranked by combined percentile (mirrors confluence_picks.py)
+                ranked by combined percentile (mirrors confluence_picks.py)    [top 30]
+  tech_all4   → multi_horizon technical h=1,5,10,20 — mean percentile rank
+                across the 4 horizons (conviction picks)                       [top 200]
 
 Two modes:
   post_mortem (default)  prediction_date = penultimate bhavcopy,
@@ -60,6 +62,14 @@ HTML_DIR = ROOT / "frontdesign" / "d"
 INDEX_HTML = ROOT / "frontdesign" / "index.html"
 
 TOP_N = 30
+SOURCE_TOP_N = {
+    "technical": 30,
+    "delivery": 30,
+    "multi": 30,
+    "horizontal": 30,
+    "confluence": 30,
+    "tech_all4": 200,
+}
 T_BULL = 0.25
 T_BEAR = -0.25
 T_SIDE = 0.50
@@ -248,6 +258,32 @@ def load_confluence(date: str, N: int = 100) -> pd.DataFrame:
     return m[["symbol", "close", "pred_5d", "pred_10d", "confluence_score"]]
 
 
+def load_tech_all4(date: str, horizons: tuple[int, ...] = (1, 5, 10, 20)) -> pd.DataFrame:
+    """Multi-horizon technical conviction picks: mean percentile rank across
+    h=1, h=5, h=10, h=20. Mirrors the `tech_all4` construct from the conviction
+    backtests (see ml_pipeline/tests/overlap_4set_summary.md), scaled to top-200
+    by composite score rather than strict intersection.
+    """
+    try:
+        from ml_pipeline.multi_horizon.predict import predict_technical
+        df = predict_technical(date)
+    except Exception as e:
+        print(f"[tech_all4] skipped: {e}", file=sys.stderr)
+        return pd.DataFrame(columns=["symbol"])
+    cols = [f"pred_{h}d" for h in horizons]
+    missing = [c for c in cols if c not in df.columns]
+    if missing:
+        print(f"[tech_all4] missing horizons {missing}", file=sys.stderr)
+        return pd.DataFrame(columns=["symbol"])
+    df = df.dropna(subset=cols).copy()
+    if df.empty:
+        return pd.DataFrame(columns=["symbol"])
+    pct = pd.concat([df[c].rank(pct=True) for c in cols], axis=1)
+    df["all4_score"] = pct.mean(axis=1)
+    keep = ["symbol", "close", "all4_score"] + cols
+    return df[[c for c in keep if c in df.columns]].copy()
+
+
 # ---------------- horizontal levels ----------------
 
 _LEVELS_CACHE: dict[tuple[str, str], dict] = {}
@@ -340,6 +376,13 @@ def technical_signals_for(source: str, row: dict) -> list[str]:
         s.append("Delivery × Technical")
         if row.get("confluence_score") is not None and row["confluence_score"] >= 1.7:
             s.append("High-conviction overlap")
+    elif source == "tech_all4":
+        s.append("Tech ×4 (h=1,5,10,20)")
+        score = row.get("all4_score") or 0
+        if score >= 0.95:
+            s.append("Top 5% all-horizon")
+        elif score >= 0.85:
+            s.append("Top 15% all-horizon")
     return s
 
 
@@ -371,10 +414,15 @@ def build_row(source: str, raw_row: dict, pred_date: str, result_close_map: dict
     levels = horizontal_levels(sym, pred_date)
 
     raw = {}
-    for k in ("pred_1d", "pred_5d", "pred_10d", "spike_ratio", "confluence_score"):
+    for k in ("pred_1d", "pred_5d", "pred_10d", "pred_20d", "spike_ratio", "confluence_score", "all4_score"):
         v = raw_row.get(k)
         if v is not None and not (isinstance(v, float) and math.isnan(v)):
             raw[k] = round(float(v), 4)
+
+    if source == "tech_all4":
+        conf = int(min(100, max(40, round((raw.get("all4_score") or 0) * 100))))
+    else:
+        conf = int(min(100, 40 + round(abs(raw.get("pred_5d") or raw.get("pred_10d") or raw.get("spike_ratio", 0)) * 100)))
 
     return {
         "ticker": sym,
@@ -387,7 +435,7 @@ def build_row(source: str, raw_row: dict, pred_date: str, result_close_map: dict
         "price_change_pct": round(float(pct), 2) if pct is not None else None,
         "prediction_correct": correct,
         "technical_signals": technical_signals_for(source, raw_row),
-        "multi_factor_score": int(min(100, 40 + round(abs(raw.get("pred_5d") or raw.get("pred_10d") or raw.get("spike_ratio", 0)) * 100))),
+        "multi_factor_score": conf,
         "horizontal_levels": levels,
         "raw": raw,
         "notes": build_notes(source, raw, direction, correct),
@@ -404,12 +452,17 @@ def build_notes(source: str, raw: dict, direction: str, correct: bool | None) ->
         bits.append(f"{raw['spike_ratio']:.1f}x median delivery")
     if "confluence_score" in raw:
         bits.append(f"confluence {raw['confluence_score']:.2f}")
+    if "all4_score" in raw:
+        bits.append(f"all4 score {raw['all4_score']:.2f}")
+    if "pred_20d" in raw:
+        bits.append(f"20d pred {raw['pred_20d']*100:+.2f}%")
     src_str = {
         "technical": "Technical",
         "delivery": "Delivery",
         "multi": "Multi-horizon",
         "horizontal": "Delivery spike",
         "confluence": "Confluence (deliv × tech)",
+        "tech_all4": "Tech ×4 (h=1,5,10,20)",
     }[source]
     head = f"{src_str} → {direction}."
     body = "  ·  ".join(bits) if bits else ""
@@ -436,6 +489,8 @@ def rank_source(source: str, df: pd.DataFrame, top_n: int) -> list[dict]:
         rank_col = "spike_ratio" if "spike_ratio" in df.columns else None
     elif source == "confluence":
         rank_col = "confluence_score" if "confluence_score" in df.columns else None
+    elif source == "tech_all4":
+        rank_col = "all4_score" if "all4_score" in df.columns else None
     else:
         rank_col = None
     if rank_col is None:
@@ -473,8 +528,9 @@ def build_per_source(pred_date: str, result_date: str | None, top_n: int) -> dic
     multi = load_multi(pred_date)
     spikes = load_spikes(pred_date)
     confl = load_confluence(pred_date)
+    all4 = load_tech_all4(pred_date)
 
-    print(f"[sources] tech={len(tech)} deliv={len(deliv)} multi={len(multi)} spikes={len(spikes)} confl={len(confl)}", file=sys.stderr)
+    print(f"[sources] tech={len(tech)} deliv={len(deliv)} multi={len(multi)} spikes={len(spikes)} confl={len(confl)} tech_all4={len(all4)}", file=sys.stderr)
 
     # closes
     if result_date:
@@ -500,8 +556,10 @@ def build_per_source(pred_date: str, result_date: str | None, top_n: int) -> dic
         pass
 
     by_source = {}
-    for src, df in (("technical", tech), ("delivery", deliv), ("multi", multi), ("horizontal", spikes), ("confluence", confl)):
-        raws = rank_source(src, df, top_n)
+    for src, df in (("technical", tech), ("delivery", deliv), ("multi", multi),
+                    ("horizontal", spikes), ("confluence", confl), ("tech_all4", all4)):
+        n = SOURCE_TOP_N.get(src, top_n)
+        raws = rank_source(src, df, n)
         rows = []
         for raw in raws:
             row = build_row(src, raw, pred_date, result_close, prev_close)
