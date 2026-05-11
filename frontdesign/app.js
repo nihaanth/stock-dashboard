@@ -358,10 +358,31 @@ function renderTable(rows, currency, mode) {
             </div>
           </td>
           <td class="sr-cell"><b>S</b> ${sup}<br><b>R</b> ${res}</td>
-          <td class="grow"><span class="muted">${esc(r.notes || "")}</span></td>
+          <td class="grow">
+            <span class="muted">${esc(r.notes || "")}</span>
+            ${renderNews(r.news_pdfs)}
+          </td>
         </tr>`;
     })
     .join("");
+}
+
+function renderNews(pdfs) {
+  if (!pdfs || pdfs.length === 0) return "";
+  const items = pdfs.map((p) => `
+    <li>
+      <span class="news-date">${esc(p.date || "")}</span>
+      <a class="news-link" href="${esc(p.url)}" target="_blank" rel="noopener noreferrer">${esc(p.title || "PDF")}</a>
+      ${p.size ? `<span class="news-size">${esc(p.size)}</span>` : ""}
+      ${p.blurb ? `<div class="news-blurb">${esc(p.blurb)}</div>` : ""}
+    </li>
+  `).join("");
+  return `
+    <details class="news-details">
+      <summary><span class="news-chip">📎 ${pdfs.length} news</span></summary>
+      <ul class="news-list">${items}</ul>
+    </details>
+  `;
 }
 
 function esc(s) {
