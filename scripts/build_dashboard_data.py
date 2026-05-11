@@ -50,8 +50,10 @@ if VENV_SITE.exists():
 import pandas as pd
 
 BHAV_DIR = ROOT / "data" / "bhavcopy" / "bhavcopy"
+MTO_DIR = ROOT / "data" / "mto"
 SPIKE_DIR = ROOT / "data" / "deliv_spike"
 EQUITY_LIST = ROOT / "data" / "nse_equity_list.csv"
+ELIGIBLE = ROOT / "data" / "eligible_symbols_cache.json"
 OUT_DIR = ROOT / "frontdesign" / "data"
 HTML_DIR = ROOT / "frontdesign" / "d"
 INDEX_HTML = ROOT / "frontdesign" / "index.html"
@@ -521,10 +523,12 @@ PAGE_TEMPLATE = """<!doctype html>
 
   <div class="layout">
     <aside class="sidebar">
-      <div class="sidebar__hdr"><div>History</div><span class="muted" id="sidebarCount">0</span></div>
-      <ul class="datelist" id="dateList"></ul>
+      <div class="sidebar__hdr"><div>Volume watch · 7d</div><span class="muted" id="vwCount">0</span></div>
+      <ul class="vwlist" id="vwList"></ul>
       <div class="sidebar__hdr sidebar__hdr--sub"><div>Sources today</div></div>
       <div class="srcsumm" id="srcSumm"></div>
+      <div class="sidebar__hdr sidebar__hdr--sub"><div>History</div><span class="muted" id="sidebarCount">0</span></div>
+      <ul class="datelist" id="dateList"></ul>
     </aside>
     <main class="main">
       <div class="srctabs" id="srcTabs"></div>
@@ -571,6 +575,148 @@ def write_per_day_html(pred_date: str, result_date: str | None, json_name: str) 
     out = HTML_DIR / f"{pred_date}.html"
     out.write_text(html)
     return out
+
+
+# ---------------- volume watch ----------------
+
+def _eligible_universe(min_price: float = 50.0, min_mcap_cr: float = 500.0) -> set[str]:
+    if not ELIGIBLE.exists():
+        return set()
+    data = json.loads(ELIGIBLE.read_text())
+    keep = set()
+    for sym, meta in data.items():
+        if not isinstance(meta, dict):
+            continue
+        price = meta.get("price")
+        mcap = meta.get("market_cap_cr")
+        if price is None or mcap is None:
+            continue
+        if price >= min_price and mcap >= min_mcap_cr:
+            keep.add(sym)
+    return keep
+
+
+def build_volume_watch(latest_date: str, lookback_days: int = 7,
+                       baseline_days: int = 60, ratio_thresh: float = 2.0,
+                       min_qty: int = 50_000, top_n: int = 25) -> dict:
+    """Rolling N-day delivery-spike watchlist.
+
+    For each of the last `lookback_days` trading days, find stocks where
+    deliverable_qty >= ratio_thresh * trailing 60d median. For each unique
+    symbol, keep the strongest spike. Then look up the close on spike-day
+    vs latest close from bhavcopy → pct_since_spike.
+
+    Returns:
+      {
+        "generated_at": ..., "latest_date": ..., "lookback_days": 7,
+        "watches": [ { ticker, company, spike_date, days_since,
+                       spike_ratio, deliv_qty, baseline_median,
+                       spike_close, latest_close, pct_since_spike }, ... ]
+      }
+    """
+    import statistics
+
+    universe = _eligible_universe()
+    if not universe:
+        print("[volwatch] empty universe — skipping", file=sys.stderr)
+        return {"generated_at": datetime.now().isoformat(timespec="seconds"),
+                "latest_date": latest_date, "lookback_days": lookback_days, "watches": []}
+
+    mto_files = sorted(MTO_DIR.glob("mto_*.csv"))
+    if len(mto_files) < baseline_days + lookback_days:
+        print(f"[volwatch] only {len(mto_files)} MTO files; using what's available", file=sys.stderr)
+    window = mto_files[-(baseline_days + lookback_days):]
+    scan_files = window[-lookback_days:]
+    scan_dates = {f"{f.stem.split('_')[1][:4]}-{f.stem.split('_')[1][4:6]}-{f.stem.split('_')[1][6:8]}" for f in scan_files}
+
+    # Build per-symbol time series of deliv_qty across the window
+    series: dict[str, list[tuple[str, float]]] = {}
+    for f in window:
+        stem = f.stem.split("_", 1)[1]
+        d = f"{stem[:4]}-{stem[4:6]}-{stem[6:8]}"
+        try:
+            df = pd.read_csv(f, usecols=["symbol", "series", "deliverable_qty"])
+        except Exception:
+            continue
+        df = df[(df["series"] == "EQ") & (df["symbol"].isin(universe))]
+        df["deliverable_qty"] = pd.to_numeric(df["deliverable_qty"], errors="coerce")
+        for sym, q in zip(df["symbol"], df["deliverable_qty"]):
+            if pd.isna(q):
+                continue
+            series.setdefault(sym, []).append((d, float(q)))
+
+    # Score each symbol's strongest spike in the scan window
+    raw_spikes = []
+    for sym, ts in series.items():
+        ts.sort()
+        for i, (d, q) in enumerate(ts):
+            if d not in scan_dates or q < min_qty:
+                continue
+            tail = [v for _, v in ts[max(0, i - baseline_days):i]]
+            if len(tail) < max(20, baseline_days // 3):
+                continue
+            med = statistics.median(tail)
+            if med <= 0:
+                continue
+            r = q / med
+            if r >= ratio_thresh:
+                raw_spikes.append({"symbol": sym, "spike_date": d, "deliv_qty": int(q),
+                                   "baseline_median": int(med), "spike_ratio": round(r, 2)})
+
+    if not raw_spikes:
+        print("[volwatch] no spikes found", file=sys.stderr)
+        return {"generated_at": datetime.now().isoformat(timespec="seconds"),
+                "latest_date": latest_date, "lookback_days": lookback_days, "watches": []}
+
+    # Dedup by symbol — keep strongest ratio
+    by_sym: dict[str, dict] = {}
+    for s in raw_spikes:
+        cur = by_sym.get(s["symbol"])
+        if cur is None or s["spike_ratio"] > cur["spike_ratio"]:
+            by_sym[s["symbol"]] = s
+
+    # Hydrate with prices from bhavcopy
+    latest_bhav = load_bhav(latest_date).set_index("symbol")
+    latest_close_map = latest_bhav["close"].to_dict()
+    company = company_map()
+
+    watches = []
+    for sym, s in by_sym.items():
+        spike_d = s["spike_date"]
+        # close on spike day
+        try:
+            bd = load_bhav(spike_d).set_index("symbol")
+            spike_close = float(bd.loc[sym, "close"]) if sym in bd.index else None
+        except FileNotFoundError:
+            spike_close = None
+        latest_close = float(latest_close_map[sym]) if sym in latest_close_map else None
+        pct = None
+        if spike_close and latest_close:
+            pct = round((latest_close - spike_close) / spike_close * 100, 2)
+        days_since = (datetime.fromisoformat(latest_date) - datetime.fromisoformat(spike_d)).days
+        watches.append({
+            "ticker": sym,
+            "company": company.get(sym, sym),
+            "spike_date": spike_d,
+            "days_since": days_since,
+            "spike_ratio": s["spike_ratio"],
+            "deliv_qty": s["deliv_qty"],
+            "baseline_median": s["baseline_median"],
+            "spike_close": round(spike_close, 2) if spike_close else None,
+            "latest_close": round(latest_close, 2) if latest_close else None,
+            "pct_since_spike": pct,
+        })
+    # Sort by spike ratio desc (strongest signals first), then by recency
+    watches.sort(key=lambda w: (-w["spike_ratio"], -w["days_since"]))
+    watches = watches[:top_n]
+
+    return {
+        "generated_at": datetime.now().isoformat(timespec="seconds"),
+        "latest_date": latest_date,
+        "lookback_days": lookback_days,
+        "ratio_threshold": ratio_thresh,
+        "watches": watches,
+    }
 
 
 # ---------------- index.json ----------------
@@ -663,6 +809,12 @@ def main() -> int:
     idx = update_index(pred_date, result_date if not args.forecast else None, mode, by_source, json_name, f"d/{pred_date}.html")
     (OUT_DIR / "index.json").write_text(json.dumps(idx, indent=2))
     print(f"[wrote] {OUT_DIR / 'index.json'}", file=sys.stderr)
+
+    # Rolling 7-day volume watch — uses the most recent bhavcopy date as "latest"
+    latest_for_watch = bhav_dates()[-1]
+    vw = build_volume_watch(latest_for_watch, lookback_days=7)
+    (OUT_DIR / "volume_watch.json").write_text(json.dumps(vw, indent=2))
+    print(f"[wrote] {OUT_DIR / 'volume_watch.json'} ({len(vw['watches'])} watches)", file=sys.stderr)
 
     # log per-source summary
     for s, blk in by_source.items():

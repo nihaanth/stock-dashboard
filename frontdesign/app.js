@@ -27,6 +27,7 @@ const PCT = new Intl.NumberFormat("en-IN", { maximumFractionDigits: 2, minimumFr
 const state = {
   data: null,
   index: null,
+  volumeWatch: null,
   activeSource: "technical",
   filters: {
     direction: "all",
@@ -40,10 +41,17 @@ async function init() {
   initTheme();
   bindFilters();
 
+  // Per-day pages override SB_DATA_URL with a "../data/..." path; mirror that for the
+  // sidebar fetches so they resolve correctly whether we're at /index.html or /d/*.html.
+  const dataBase = (window.SB_DATA_URL || "data/latest.json").replace(/[^/]+$/, "");
+
   try {
-    state.index = await fetchJSON("data/index.json");
+    state.index = await fetchJSON(dataBase + "index.json");
     populateDatePicker(state.index);
   } catch (e) { /* ok */ }
+
+  try { state.volumeWatch = await fetchJSON(dataBase + "volume_watch.json"); }
+  catch (e) { state.volumeWatch = null; }
 
   const url = window.SB_DATA_URL || "data/latest.json";
   try {
@@ -95,8 +103,9 @@ function populateDatePicker(idx) {
     sel.appendChild(opt);
   }
   sel.addEventListener("change", async (e) => {
+    const base = (window.SB_DATA_URL || "data/latest.json").replace(/[^/]+$/, "");
     try {
-      state.data = await fetchJSON(`data/${e.target.value}`);
+      state.data = await fetchJSON(base + e.target.value);
       const firstWithData = SOURCES.find((s) => (state.data.by_source?.[s.id]?.predictions || []).length > 0);
       if (firstWithData) state.activeSource = firstWithData.id;
       render();
@@ -137,9 +146,39 @@ function render() {
   const blk = d.by_source?.[state.activeSource] || { summary: {}, predictions: [] };
   renderSummaryCards(blk.summary, d.mode);
   const visible = applyFilters(blk.predictions);
+  renderVolumeWatch();
   renderDateArchive();
   renderSourceSummary(d);
   renderTable(visible, d.currency || "INR", d.mode);
+}
+
+function renderVolumeWatch() {
+  const ul = document.getElementById("vwList");
+  const countEl = document.getElementById("vwCount");
+  if (!ul) return;
+  const watches = state.volumeWatch?.watches || [];
+  if (countEl) countEl.textContent = watches.length;
+  if (watches.length === 0) {
+    ul.innerHTML = '<li class="vwempty">No spikes in window. Re-run build after the daily refresh.</li>';
+    return;
+  }
+  ul.innerHTML = watches.map((w) => {
+    const pct = w.pct_since_spike;
+    const pctCls = pct == null ? "vwitem__pct--flat" : pct > 0 ? "vwitem__pct--pos" : pct < 0 ? "vwitem__pct--neg" : "vwitem__pct--flat";
+    const pctTxt = pct == null ? "—" : PCT.format(pct) + "%";
+    const ageTxt = w.days_since === 0 ? "today" : `${w.days_since}d ago`;
+    return `
+      <li class="vwitem" title="${esc(w.company)}  ·  ${w.deliv_qty.toLocaleString("en-IN")} sh vs ${w.baseline_median.toLocaleString("en-IN")} median">
+        <div class="vwitem__row1">
+          <span class="vwitem__ticker">${esc(w.ticker)}</span>
+          <span class="vwitem__ratio">${w.spike_ratio.toFixed(1)}× ↑</span>
+        </div>
+        <div class="vwitem__row2">
+          <span class="vwitem__age">${esc(w.spike_date)} · ${ageTxt}</span>
+          <span class="vwitem__pct ${pctCls}">${pctTxt}</span>
+        </div>
+      </li>`;
+  }).join("");
 }
 
 function renderDateArchive() {
