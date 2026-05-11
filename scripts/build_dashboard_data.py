@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """Build per-source top-30 prediction JSON + per-day HTML for frontdesign/.
 
-Outputs four independent top-N lists (one per model source) for each
+Outputs five independent top-N lists (one per model source) for each
 prediction date — they're NOT combined. Each source ranks on its own metric:
 
-  technical   → sort by pred_5d  desc (ml_pipeline/technical)
+  technical   → sort by pred_5d  desc (ml_pipeline/technical, h=1/5/10)
+  delivery    → sort by pred_5d  desc (ml_pipeline/delivery,  h=1/5/10)
   multi       → sort by pred_10d desc (ml_pipeline/multi_horizon, h=1..30)
   horizontal  → sort by spike_ratio desc (deliv_spike_scan output)
   confluence  → top-100 deliv_qty(h=5) ∩ top-100 technical(h=10),
@@ -159,6 +160,18 @@ def load_multi(date: str) -> pd.DataFrame:
         return pd.DataFrame(columns=["symbol"])
 
 
+def load_delivery(date: str) -> pd.DataFrame:
+    """ml_pipeline.delivery.predict — delivery-feature model, horizons 1/5/10."""
+    try:
+        from ml_pipeline.delivery.predict import predict_for
+        df = predict_for(date)
+        keep = [c for c in ("symbol", "pred_1d", "pred_5d", "pred_10d", "close") if c in df.columns]
+        return df[keep].copy()
+    except Exception as e:
+        print(f"[delivery] skipped: {e}", file=sys.stderr)
+        return pd.DataFrame(columns=["symbol"])
+
+
 def load_spikes(date: str) -> pd.DataFrame:
     """First try data/deliv_spike/<date>/spikes_top.csv. Otherwise fall back
     to filtering any spikes_all.csv for rows where date == <date>."""
@@ -310,6 +323,10 @@ def technical_signals_for(source: str, row: dict) -> list[str]:
         s.append("Technical model")
         if row.get("pred_5d") is not None and abs(row["pred_5d"]) >= 0.015:
             s.append("Strong 5d signal")
+    elif source == "delivery":
+        s.append("Delivery model")
+        if row.get("pred_5d") is not None and abs(row["pred_5d"]) >= 0.015:
+            s.append("Strong 5d signal")
     elif source == "multi":
         s.append("Multi-horizon model")
         if row.get("pred_10d") is not None and abs(row["pred_10d"]) >= 0.015:
@@ -389,6 +406,7 @@ def build_notes(source: str, raw: dict, direction: str, correct: bool | None) ->
         bits.append(f"confluence {raw['confluence_score']:.2f}")
     src_str = {
         "technical": "Technical",
+        "delivery": "Delivery",
         "multi": "Multi-horizon",
         "horizontal": "Delivery spike",
         "confluence": "Confluence (deliv × tech)",
@@ -409,6 +427,8 @@ def rank_source(source: str, df: pd.DataFrame, top_n: int) -> list[dict]:
     if df.empty:
         return []
     if source == "technical":
+        rank_col = "pred_5d" if "pred_5d" in df.columns else None
+    elif source == "delivery":
         rank_col = "pred_5d" if "pred_5d" in df.columns else None
     elif source == "multi":
         rank_col = "pred_10d" if "pred_10d" in df.columns else None
@@ -449,11 +469,12 @@ def summarize(rows: list[dict]) -> dict:
 
 def build_per_source(pred_date: str, result_date: str | None, top_n: int) -> dict:
     tech = load_technical(pred_date)
+    deliv = load_delivery(pred_date)
     multi = load_multi(pred_date)
     spikes = load_spikes(pred_date)
     confl = load_confluence(pred_date)
 
-    print(f"[sources] tech={len(tech)} multi={len(multi)} spikes={len(spikes)} confl={len(confl)}", file=sys.stderr)
+    print(f"[sources] tech={len(tech)} deliv={len(deliv)} multi={len(multi)} spikes={len(spikes)} confl={len(confl)}", file=sys.stderr)
 
     # closes
     if result_date:
@@ -479,7 +500,7 @@ def build_per_source(pred_date: str, result_date: str | None, top_n: int) -> dic
         pass
 
     by_source = {}
-    for src, df in (("technical", tech), ("multi", multi), ("horizontal", spikes), ("confluence", confl)):
+    for src, df in (("technical", tech), ("delivery", deliv), ("multi", multi), ("horizontal", spikes), ("confluence", confl)):
         raws = rank_source(src, df, top_n)
         rows = []
         for raw in raws:

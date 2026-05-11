@@ -3,7 +3,7 @@
   "result_date": "2026-05-12",
   "mode": "forecast",
   "currency": "INR",
-  "generated_at": "2026-05-11T14:10:18",
+  "generated_at": "2026-05-11T15:05:12",
   "by_source": {
     "technical": {
       "summary": {
@@ -974,6 +974,948 @@
             "pred_10d": 0.0223
           },
           "notes": "Technical \u2192 bullish. 5d pred +1.69%  \u00b7  10d pred +2.23%"
+        }
+      ]
+    },
+    "delivery": {
+      "summary": {
+        "total": 30,
+        "correct": null,
+        "accuracy_pct": null,
+        "avg_move_pct": null,
+        "best": null,
+        "worst": null
+      },
+      "predictions": [
+        {
+          "ticker": "HFCL",
+          "company": "HFCL Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 148.46,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model",
+            "Strong 5d signal"
+          ],
+          "multi_factor_score": 42,
+          "horizontal_levels": {
+            "support": [
+              74.64,
+              75.25
+            ],
+            "resistance": [
+              151.8,
+              147.67
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0039,
+            "pred_5d": 0.018,
+            "pred_10d": 0.0039
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +1.80%  \u00b7  10d pred +0.39%"
+        },
+        {
+          "ticker": "RPEL",
+          "company": "Raghav Productivity Enhancers Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 781.45,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              650.0,
+              669.1
+            ],
+            "resistance": [
+              809.0,
+              792.2
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0048,
+            "pred_5d": 0.0116,
+            "pred_10d": 0.0115
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +1.16%  \u00b7  10d pred +1.15%"
+        },
+        {
+          "ticker": "PARACABLES",
+          "company": "Paramount Communications Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 60.07,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              34.21,
+              34.46
+            ],
+            "resistance": [
+              60.64,
+              55.65
+            ]
+          },
+          "raw": {
+            "pred_1d": -0.0002,
+            "pred_5d": 0.0112,
+            "pred_10d": 0.0184
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +1.12%  \u00b7  10d pred +1.84%"
+        },
+        {
+          "ticker": "GRASIM",
+          "company": "Grasim Industries Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 2984.2,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              2682.9,
+              2690.5
+            ],
+            "resistance": [
+              3007.3,
+              2980.4
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0002,
+            "pred_5d": 0.0102,
+            "pred_10d": 0.0164
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +1.02%  \u00b7  10d pred +1.64%"
+        },
+        {
+          "ticker": "GSPL",
+          "company": "Gujarat State Petronet Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 268.35,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              235.05,
+              238.12
+            ],
+            "resistance": [
+              301.2,
+              299.7
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0053,
+            "pred_5d": 0.0102,
+            "pred_10d": 0.0039
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +1.02%  \u00b7  10d pred +0.39%"
+        },
+        {
+          "ticker": "SAMBHV",
+          "company": "Sambhv Steel Tubes Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 129.13,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              108.7,
+              109.33
+            ],
+            "resistance": [
+              141.32,
+              135.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.005,
+            "pred_5d": 0.0102,
+            "pred_10d": 0.0081
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +1.02%  \u00b7  10d pred +0.81%"
+        },
+        {
+          "ticker": "LIQUID",
+          "company": "LIQUID",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 999.99,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              999.99
+            ],
+            "resistance": [
+              1000.83,
+              1000.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0009,
+            "pred_5d": 0.0094,
+            "pred_10d": 0.0138
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.94%  \u00b7  10d pred +1.38%"
+        },
+        {
+          "ticker": "IRMENERGY",
+          "company": "IRM Energy Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 301.15,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              188.2,
+              188.69
+            ],
+            "resistance": [
+              366.89,
+              365.98
+            ]
+          },
+          "raw": {
+            "pred_1d": -0.0013,
+            "pred_5d": 0.0089,
+            "pred_10d": -0.0035
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.89%  \u00b7  10d pred -0.35%"
+        },
+        {
+          "ticker": "GUJGASLTD",
+          "company": "Gujarat Gas Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 380.95,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              313.15,
+              316.85
+            ],
+            "resistance": [
+              410.0,
+              408.9
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.003,
+            "pred_5d": 0.0079,
+            "pred_10d": 0.0012
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.79%  \u00b7  10d pred +0.12%"
+        },
+        {
+          "ticker": "VENKEYS",
+          "company": "Venky's (India) Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 1686.5,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              1388.0,
+              1410.3
+            ],
+            "resistance": [
+              1695.5,
+              1641.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0036,
+            "pred_5d": 0.0077,
+            "pred_10d": 0.0029
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.77%  \u00b7  10d pred +0.29%"
+        },
+        {
+          "ticker": "HEALTHIETF",
+          "company": "HEALTHIETF",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 158.92,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              143.4,
+              143.5
+            ],
+            "resistance": [
+              159.99,
+              159.3
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.003,
+            "pred_5d": 0.0076,
+            "pred_10d": 0.0093
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.76%  \u00b7  10d pred +0.93%"
+        },
+        {
+          "ticker": "ICIL",
+          "company": "Indo Count Industries Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 294.8,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              240.11,
+              242.5
+            ],
+            "resistance": [
+              311.85,
+              304.85
+            ]
+          },
+          "raw": {
+            "pred_1d": -0.0006,
+            "pred_5d": 0.0075,
+            "pred_10d": 0.0088
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.75%  \u00b7  10d pred +0.88%"
+        },
+        {
+          "ticker": "TATACONSUM",
+          "company": "TATA CONSUMER PRODUCTS LIMITED",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 1271.0,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              1060.1,
+              1066.0
+            ],
+            "resistance": [
+              1279.4,
+              1197.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0036,
+            "pred_5d": 0.0075,
+            "pred_10d": 0.0103
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.75%  \u00b7  10d pred +1.03%"
+        },
+        {
+          "ticker": "JSWSTEEL",
+          "company": "JSW Steel Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 1262.6,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              1170.0,
+              1185.0
+            ],
+            "resistance": [
+              1306.8,
+              1297.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0003,
+            "pred_5d": 0.0071,
+            "pred_10d": 0.0091
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.71%  \u00b7  10d pred +0.91%"
+        },
+        {
+          "ticker": "GROWWLIQID",
+          "company": "GROWWLIQID",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 109.0,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              108.11,
+              108.54
+            ],
+            "resistance": [
+              110.9,
+              109.07
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0018,
+            "pred_5d": 0.0069,
+            "pred_10d": 0.0103
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.69%  \u00b7  10d pred +1.03%"
+        },
+        {
+          "ticker": "SAMMAANCAP",
+          "company": "Sammaan Capital Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 145.05,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              138.75,
+              140.1
+            ],
+            "resistance": [
+              157.8,
+              157.38
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0003,
+            "pred_5d": 0.0067,
+            "pred_10d": 0.0126
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.67%  \u00b7  10d pred +1.26%"
+        },
+        {
+          "ticker": "MEDANTA",
+          "company": "Global Health Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 1239.2,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              1027.75,
+              1040.0
+            ],
+            "resistance": [
+              1248.9,
+              1226.9
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0032,
+            "pred_5d": 0.0066,
+            "pred_10d": 0.0065
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.66%  \u00b7  10d pred +0.65%"
+        },
+        {
+          "ticker": "DLF",
+          "company": "DLF Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 590.25,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              546.0,
+              555.0
+            ],
+            "resistance": [
+              620.0,
+              619.95
+            ]
+          },
+          "raw": {
+            "pred_1d": -0.0008,
+            "pred_5d": 0.0066,
+            "pred_10d": 0.01
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.66%  \u00b7  10d pred +1.00%"
+        },
+        {
+          "ticker": "POLICYBZR",
+          "company": "PB Fintech Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 1642.5,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              1450.0,
+              1464.0
+            ],
+            "resistance": [
+              1735.0,
+              1728.6
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0001,
+            "pred_5d": 0.0065,
+            "pred_10d": 0.009
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.65%  \u00b7  10d pred +0.90%"
+        },
+        {
+          "ticker": "GNFC",
+          "company": "Gujarat Narmada Valley Fertilizers and Chemicals Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 485.0,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              413.35,
+              419.8
+            ],
+            "resistance": [
+              506.7,
+              506.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0009,
+            "pred_5d": 0.0064,
+            "pred_10d": 0.0079
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.64%  \u00b7  10d pred +0.79%"
+        },
+        {
+          "ticker": "IOLCP",
+          "company": "IOL Chemicals and Pharmaceuticals Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 108.77,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              79.2,
+              79.65
+            ],
+            "resistance": [
+              113.4,
+              99.95
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0091,
+            "pred_5d": 0.0064,
+            "pred_10d": 0.0041
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.64%  \u00b7  10d pred +0.41%"
+        },
+        {
+          "ticker": "LLOYDSENGG",
+          "company": "LLOYDS ENGINEERING WORKS LIMITED",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 66.16,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              47.05,
+              47.55
+            ],
+            "resistance": [
+              67.5,
+              64.5
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0026,
+            "pred_5d": 0.0064,
+            "pred_10d": 0.0071
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.64%  \u00b7  10d pred +0.71%"
+        },
+        {
+          "ticker": "REPCOHOME",
+          "company": "Repco Home Finance Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 401.2,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              367.8,
+              374.45
+            ],
+            "resistance": [
+              431.0,
+              428.4
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0034,
+            "pred_5d": 0.0064,
+            "pred_10d": 0.0077
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.64%  \u00b7  10d pred +0.77%"
+        },
+        {
+          "ticker": "J&KBANK",
+          "company": "The Jammu & Kashmir Bank Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 136.92,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              117.62,
+              119.43
+            ],
+            "resistance": [
+              145.0,
+              142.51
+            ]
+          },
+          "raw": {
+            "pred_1d": -0.0003,
+            "pred_5d": 0.0062,
+            "pred_10d": 0.0078
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.62%  \u00b7  10d pred +0.78%"
+        },
+        {
+          "ticker": "RBA",
+          "company": "Restaurant Brands Asia Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 67.07,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              61.36,
+              61.62
+            ],
+            "resistance": [
+              68.2,
+              67.75
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.003,
+            "pred_5d": 0.006,
+            "pred_10d": 0.0078
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.60%  \u00b7  10d pred +0.78%"
+        },
+        {
+          "ticker": "SHK",
+          "company": "S H Kelkar and Company Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 149.53,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              126.0,
+              132.95
+            ],
+            "resistance": [
+              158.87,
+              156.53
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0005,
+            "pred_5d": 0.006,
+            "pred_10d": 0.0086
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.60%  \u00b7  10d pred +0.86%"
+        },
+        {
+          "ticker": "RAINBOW",
+          "company": "Rainbow Childrens Medicare Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 1294.5,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              1211.3,
+              1225.0
+            ],
+            "resistance": [
+              1335.0,
+              1321.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0028,
+            "pred_5d": 0.0059,
+            "pred_10d": 0.0028
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.59%  \u00b7  10d pred +0.28%"
+        },
+        {
+          "ticker": "SENORES",
+          "company": "Senores Pharmaceuticals Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 957.8,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              778.8,
+              789.25
+            ],
+            "resistance": [
+              979.8,
+              976.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0012,
+            "pred_5d": 0.0059,
+            "pred_10d": 0.0082
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.59%  \u00b7  10d pred +0.82%"
+        },
+        {
+          "ticker": "AVL",
+          "company": "Aditya Vision Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 543.75,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              463.3,
+              470.05
+            ],
+            "resistance": [
+              570.85,
+              564.7
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.002,
+            "pred_5d": 0.0059,
+            "pred_10d": 0.0085
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.59%  \u00b7  10d pred +0.85%"
+        },
+        {
+          "ticker": "RADICO",
+          "company": "Radico Khaitan Limited",
+          "source": "delivery",
+          "predicted_direction": "bullish",
+          "previous_close": 3489.7,
+          "current_price": null,
+          "price_change": null,
+          "price_change_pct": null,
+          "prediction_correct": null,
+          "technical_signals": [
+            "Delivery model"
+          ],
+          "multi_factor_score": 41,
+          "horizontal_levels": {
+            "support": [
+              2657.0,
+              2698.0
+            ],
+            "resistance": [
+              3523.9,
+              3522.0
+            ]
+          },
+          "raw": {
+            "pred_1d": 0.0004,
+            "pred_5d": 0.0059,
+            "pred_10d": 0.0081
+          },
+          "notes": "Delivery \u2192 bullish. 5d pred +0.59%  \u00b7  10d pred +0.81%"
         }
       ]
     },

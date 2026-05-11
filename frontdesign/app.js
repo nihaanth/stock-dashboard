@@ -16,6 +16,7 @@
 
 const SOURCES = [
   { id: "technical",  label: "Technical",  short: "T", desc: "pred_5d top 30" },
+  { id: "delivery",   label: "Delivery",   short: "D", desc: "pred_5d top 30" },
   { id: "multi",      label: "Multi-H",    short: "M", desc: "pred_10d top 30" },
   { id: "horizontal", label: "Horizontal", short: "H", desc: "delivery spike top 30" },
   { id: "confluence", label: "Confluence", short: "C", desc: "deliv ∩ tech overlap" },
