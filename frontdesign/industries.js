@@ -11,6 +11,10 @@
 //   #/<slug>/<symbol>   stock detail (sparkline + daily table + news feed)
 
 const DATA_ROOT = "data/industries/";
+const LIVE_URL = "data/industries/_live_news.json";
+const LIVE_POLL_MS = 30_000;
+const LIVE_TICKER_MAX = 8;
+const LIVE_NEW_FADE_MS = 60_000;
 
 const NUM2 = new Intl.NumberFormat("en-IN", { maximumFractionDigits: 2, minimumFractionDigits: 2 });
 const INT = new Intl.NumberFormat("en-IN");
@@ -24,7 +28,15 @@ const state = {
   search: "",
   sort: "n_desc",              // industry-grid sort
   stockSort: { col: "pct_chg_90d", dir: "desc" },  // industry-detail table sort
+  live: {
+    items: [],                 // most recent live announcements (whole universe)
+    seenSeqs: new Set(),       // seq_ids ever observed (for NEW-pill detection)
+    polledAt: null,
+    marketState: null,
+    currentSymbol: null,       // tracks which stock-detail view is rendered
+  },
 };
+let livePollTimer = null;
 
 // ---------- bootstrap ----------
 async function init() {
@@ -46,6 +58,112 @@ async function init() {
 
   window.addEventListener("hashchange", route);
   route();
+  startLivePolling();
+}
+
+// ---------- live polling ----------
+async function pollLive() {
+  try {
+    const r = await fetch(`${LIVE_URL}?t=${Math.floor(Date.now() / 30_000)}`, { cache: "no-store" });
+    if (!r.ok) return;
+    const next = await r.json();
+    const incomingSeqs = new Set((next.items || []).map((i) => i.seq_id));
+    // Anything we haven't seen before is "new" for the NEW-pill fade
+    const newSeqs = [];
+    for (const seq of incomingSeqs) {
+      if (!state.live.seenSeqs.has(seq)) newSeqs.push(seq);
+    }
+    // First poll of the session: don't pulse everything; just record what we saw
+    const firstPoll = state.live.polledAt === null;
+    state.live.items = next.items || [];
+    state.live.polledAt = next.polled_at;
+    state.live.marketState = next.market_state;
+    incomingSeqs.forEach((s) => state.live.seenSeqs.add(s));
+
+    renderLiveTicker();
+    if (!firstPoll && newSeqs.length) {
+      mergeLiveIntoStockDetail(newSeqs);
+    }
+  } catch (e) { /* swallow */ }
+}
+
+function startLivePolling() {
+  if (livePollTimer) return;
+  pollLive();
+  livePollTimer = setInterval(pollLive, LIVE_POLL_MS);
+}
+
+function renderLiveTicker() {
+  const ticker = document.getElementById("liveTicker");
+  const list = document.getElementById("liveTickerList");
+  const timeEl = document.getElementById("liveTickerTime");
+  if (!ticker || !list) return;
+  const items = state.live.items.slice(0, LIVE_TICKER_MAX);
+  if (items.length === 0) {
+    ticker.hidden = true;
+    return;
+  }
+  ticker.hidden = false;
+  ticker.dataset.market = state.live.marketState || "";
+  list.innerHTML = items.map((it) => {
+    const tm = (it.sort_date || "").slice(11, 16);   // HH:MM
+    return `
+      <li class="live-ticker__item">
+        <a href="#/${esc(it.industry_slug)}/${esc(it.symbol)}" title="${esc(it.desc || "")}">
+          <span class="live-ticker__time-cell">${esc(tm)}</span>
+          <span class="live-ticker__sym">${esc(it.symbol)}</span>
+          <span class="live-ticker__desc">${esc(it.desc || "Announcement")}</span>
+        </a>
+        ${it.attchmntFile
+          ? `<a class="live-ticker__pdf" href="${esc(it.attchmntFile)}" target="_blank" rel="noopener noreferrer">PDF</a>`
+          : ""}
+      </li>`;
+  }).join("");
+  if (timeEl && state.live.polledAt) {
+    timeEl.textContent = "polled " + state.live.polledAt.slice(11, 16);
+  }
+}
+
+function mergeLiveIntoStockDetail(newSeqs) {
+  // If the user is currently viewing a stock detail, prepend matching live
+  // items to its news-feed with a fading NEW pill. We rebuild the feed from
+  // the cached stock + live items rather than touching DOM in-place — it's
+  // simpler and the list is short.
+  const sym = state.live.currentSymbol;
+  if (!sym) return;
+  const liveForSym = state.live.items.filter((i) => i.symbol === sym);
+  if (liveForSym.length === 0) return;
+
+  const feedEl = document.querySelector(".stock-right .news-feed");
+  if (!feedEl) return;
+
+  // Merge: live items first (with seq_ids known), then existing
+  const slug = liveForSym[0].industry_slug;
+  const key = `${slug}/${sym}`;
+  const stock = state.stockCache.get(key);
+  if (!stock) return;
+
+  const existingByDate = new Set((stock.news || []).map((n) => n.sort_date));
+  const merged = [
+    ...liveForSym
+      .filter((l) => !existingByDate.has(l.sort_date))
+      .map((l) => ({ ...l, _isLive: true, _isNew: newSeqs.includes(l.seq_id) })),
+    ...(stock.news || []),
+  ];
+
+  feedEl.outerHTML = renderNewsFeed(merged);
+
+  // Schedule NEW-pill removal
+  setTimeout(() => {
+    document.querySelectorAll(".news-feed li.news--new").forEach((el) =>
+      el.classList.remove("news--new"));
+  }, LIVE_NEW_FADE_MS);
+
+  // Also bump the count chip in the header
+  const countEl = document.querySelector(".stock-right .news-count");
+  if (countEl && stock.window_days) {
+    countEl.textContent = `${merged.length} (incl. live)`;
+  }
 }
 
 async function fetchJSON(path) {
@@ -85,10 +203,12 @@ function route() {
   const parts = hash ? hash.split("/").filter(Boolean) : [];
   const view = document.getElementById("indView");
   if (parts.length === 0) {
+    state.live.currentSymbol = null;
     document.getElementById("indSearch").placeholder =
       "Search industries or stocks (e.g. steel, RELIANCE, banks)…";
     renderGrid();
   } else if (parts.length === 1) {
+    state.live.currentSymbol = null;
     document.getElementById("indSearch").value = "";
     state.search = "";
     document.getElementById("indSearch").placeholder = "Search… (or click an industry)";
@@ -335,6 +455,7 @@ function pctClass(v) {
 }
 
 async function renderStockDetail(slug, symbol) {
+  state.live.currentSymbol = symbol;
   const view = document.getElementById("indView");
   const ind = state.indexBySlug.get(slug);
   view.innerHTML = `
@@ -437,7 +558,7 @@ async function renderStockDetail(slug, symbol) {
         <h3 class="ind-h3">News &amp; announcements
           <span class="muted news-count">${stock.news.length} in last ${stock.window_days}d</span>
         </h3>
-        ${renderNewsFeed(stock.news)}
+        ${renderNewsFeed(buildMergedNews(stock))}
       </aside>
     </section>
   `);
@@ -463,23 +584,43 @@ function sparkline(values, w = 720, h = 160) {
   `;
 }
 
+function buildMergedNews(stock) {
+  if (!stock) return [];
+  const liveForSym = state.live.items.filter((i) => i.symbol === stock.symbol);
+  if (liveForSym.length === 0) return stock.news || [];
+  const existingByDate = new Set((stock.news || []).map((n) => n.sort_date));
+  const live = liveForSym
+    .filter((l) => !existingByDate.has(l.sort_date))
+    .map((l) => ({ ...l, _isLive: true }));
+  return [...live, ...(stock.news || [])];
+}
+
 function renderNewsFeed(news) {
   if (!news || news.length === 0) {
-    return `<div class="ind-empty">No announcements in this window.</div>`;
+    return `<ul class="news-feed"><li class="news-feed__empty">No announcements in this window.</li></ul>`;
   }
   return `
     <ul class="news-feed">
-      ${news.map((n) => `
-        <li>
+      ${news.map((n) => {
+        const cls = [
+          n._isLive ? "news--live" : "",
+          n._isNew  ? "news--new"  : "",
+        ].filter(Boolean).join(" ");
+        const dateLabel = n._isLive
+          ? (n.sort_date || "").slice(11, 16)
+          : (n.sort_date || "").slice(0, 10);
+        return `
+        <li class="${cls}">
           <div class="news-feed__row">
-            <span class="news-date">${esc((n.sort_date || "").slice(0, 10))}</span>
+            <span class="news-date">${esc(dateLabel)}</span>
+            ${n._isNew ? `<span class="news-pill">New</span>` : ""}
             <span class="news-desc">${esc(n.desc || "Announcement")}</span>
           </div>
           ${n.attchmntFile
             ? `<a class="news-link" href="${esc(n.attchmntFile)}" target="_blank" rel="noopener noreferrer">Open PDF →</a>`
             : `<span class="muted">no attachment</span>`}
-        </li>
-      `).join("")}
+        </li>`;
+      }).join("")}
     </ul>
   `;
 }

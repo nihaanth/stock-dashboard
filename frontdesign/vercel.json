@@ -4,6 +4,12 @@
   "trailingSlash": false,
   "headers": [
     {
+      "source": "/data/industries/_live_news.json",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=30, s-maxage=30" }
+      ]
+    },
+    {
       "source": "/data/(.*)",
       "headers": [
         { "key": "Cache-Control", "value": "public, max-age=300, s-maxage=300" }
