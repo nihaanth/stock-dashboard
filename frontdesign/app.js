@@ -66,7 +66,22 @@ async function init() {
   // pick a default tab that actually has rows
   const firstWithData = SOURCES.find((s) => (state.data.by_source?.[s.id]?.predictions || []).length > 0);
   if (firstWithData) state.activeSource = firstWithData.id;
+
+  syncDatePickerSelection();
   render();
+}
+
+// Make the dropdown reflect whichever file is actually loaded — guards against
+// the case where the index's top entry (forecast) was auto-selected by the
+// browser while latest.json served the most recent post-mortem.
+function syncDatePickerSelection() {
+  const sel = document.getElementById("datePicker");
+  if (!sel || !state.data || !state.index) return;
+  const { prediction_date, mode } = state.data;
+  const match = state.index.dates.find(
+    (x) => x.date === prediction_date && x.mode === mode
+  );
+  if (match) sel.value = match.file || `predictions_${match.date}.json`;
 }
 
 async function fetchJSON(path) {
