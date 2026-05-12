@@ -34,7 +34,9 @@ const state = {
     polledAt: null,
     marketState: null,
     currentSymbol: null,       // tracks which stock-detail view is rendered
+    newSeqs: new Set(),        // seq_ids first surfaced since the most recent poll
   },
+  newsFilter: { slug: "all", q: "" },
 };
 let livePollTimer = null;
 
@@ -78,19 +80,183 @@ async function pollLive() {
     state.live.items = next.items || [];
     state.live.polledAt = next.polled_at;
     state.live.marketState = next.market_state;
+    state.live.newSeqs = firstPoll ? new Set() : new Set(newSeqs);
     incomingSeqs.forEach((s) => state.live.seenSeqs.add(s));
 
     renderLiveTicker();
+    updateNavNewsBadge();
     if (!firstPoll && newSeqs.length) {
       mergeLiveIntoStockDetail(newSeqs);
+      // Re-render the news page in place if visible
+      if (location.hash === "#/news" || location.hash.startsWith("#/news")) {
+        renderNewsPage();
+      }
+    } else if (firstPoll && (location.hash === "#/news" || location.hash.startsWith("#/news"))) {
+      // First poll completed while user already sat on /news — populate now
+      renderNewsPage();
+    }
+    // Clear the newSeqs marker after the NEW-pill window so subsequent
+    // re-renders don't keep flagging the same items
+    if (newSeqs.length) {
+      setTimeout(() => {
+        state.live.newSeqs = new Set();
+      }, LIVE_NEW_FADE_MS);
     }
   } catch (e) { /* swallow */ }
+}
+
+function updateNavNewsBadge() {
+  const badge = document.getElementById("navNewsBadge");
+  if (!badge) return;
+  const n = state.live.items.length;
+  if (n === 0) {
+    badge.hidden = true;
+    badge.textContent = "0";
+  } else {
+    badge.hidden = false;
+    badge.textContent = String(n);
+  }
 }
 
 function startLivePolling() {
   if (livePollTimer) return;
   pollLive();
   livePollTimer = setInterval(pollLive, LIVE_POLL_MS);
+}
+
+function renderNewsPage() {
+  const view = document.getElementById("indView");
+  const all = state.live.items || [];
+  const q = (state.newsFilter.q || "").toLowerCase();
+  const slug = state.newsFilter.slug;
+
+  // Industry counts (over the whole live set, regardless of text filter)
+  const slugCounts = new Map();
+  for (const it of all) {
+    slugCounts.set(it.industry_slug, (slugCounts.get(it.industry_slug) || 0) + 1);
+  }
+  const slugChips = [...slugCounts.entries()]
+    .map(([s, n]) => ({
+      slug: s,
+      name: state.indexBySlug.get(s)?.name || s,
+      n,
+    }))
+    .sort((a, b) => b.n - a.n)
+    .slice(0, 12);
+
+  const filtered = all.filter((it) => {
+    if (slug !== "all" && it.industry_slug !== slug) return false;
+    if (!q) return true;
+    const hay = `${it.symbol} ${it.industry_slug} ${it.desc || ""} ${it.sm_name || ""}`.toLowerCase();
+    return hay.includes(q);
+  });
+
+  const polled = state.live.polledAt
+    ? state.live.polledAt.slice(11, 16)
+    : "—";
+  const marketState = state.live.marketState || "";
+  const marketLabel = {
+    open: "Market open",
+    preopen: "Pre-open",
+    closed: "Market closed",
+  }[marketState] || "Market —";
+
+  view.innerHTML = `
+    <nav class="crumbs">
+      <a href="#/">Industries</a> <span>›</span> <span>News desk</span>
+    </nav>
+
+    <section class="ind-headline news-headline">
+      <div class="news-headline__main">
+        <h1 class="ind-h1">The Announcement Desk</h1>
+        <p class="ind-lede">
+          Every corporate filing posted to NSE for stocks in the eligible universe,
+          as it arrives. The page refreshes every 30&nbsp;seconds while the market
+          is open — new items pulse in at the top with a saffron flash.
+        </p>
+      </div>
+      <aside class="news-headline__meta">
+        <div class="news-meta-row">
+          <span class="news-meta-dot ${marketState ? `news-meta-dot--${marketState}` : ""}"></span>
+          <span class="news-meta-label">${esc(marketLabel)}</span>
+        </div>
+        <div class="news-meta-row">
+          <span class="news-meta-label">Polled</span>
+          <span class="news-meta-value">${esc(polled)} IST</span>
+        </div>
+        <div class="news-meta-row">
+          <span class="news-meta-label">Items</span>
+          <span class="news-meta-value">${INT.format(filtered.length)}${filtered.length !== all.length ? ` / ${INT.format(all.length)}` : ""}</span>
+        </div>
+      </aside>
+    </section>
+
+    ${slugChips.length ? `
+      <section class="news-filter-row">
+        <span class="muted">Industry</span>
+        <button class="chip ${slug === "all" ? "chip--on" : ""}" data-slug="all">All${all.length ? ` (${INT.format(all.length)})` : ""}</button>
+        ${slugChips.map((c) => `
+          <button class="chip ${slug === c.slug ? "chip--on" : ""}" data-slug="${esc(c.slug)}">
+            ${esc(c.name)} <span class="chip__n">${INT.format(c.n)}</span>
+          </button>
+        `).join("")}
+      </section>
+    ` : ""}
+
+    ${filtered.length === 0
+      ? `<section class="ind-empty">
+           ${all.length === 0
+              ? "No announcements yet today. New items will appear here as NSE files come in."
+              : "Nothing matches your filter."}
+         </section>`
+      : `<ol class="news-list-page">
+           ${filtered.map((it) => newsRowHTML(it)).join("")}
+         </ol>`}
+  `;
+
+  view.querySelectorAll("button[data-slug]").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      state.newsFilter.slug = btn.dataset.slug;
+      renderNewsPage();
+    });
+  });
+
+  // Schedule NEW-pill auto-fade
+  if (state.live.newSeqs.size) {
+    setTimeout(() => {
+      document.querySelectorAll(".news-list-page li.news--new").forEach((li) => {
+        li.classList.remove("news--new");
+      });
+    }, LIVE_NEW_FADE_MS);
+  }
+}
+
+function newsRowHTML(it) {
+  const isNew = state.live.newSeqs.has(it.seq_id);
+  const tm = (it.sort_date || "").slice(11, 16);
+  const date = (it.sort_date || "").slice(0, 10);
+  const indName = state.indexBySlug.get(it.industry_slug)?.name || it.industry_slug;
+  return `
+    <li class="news-row ${isNew ? "news--new" : ""}">
+      <div class="news-row__time">
+        <span class="news-row__hhmm">${esc(tm)}</span>
+        <span class="news-row__date">${esc(date)}</span>
+        ${isNew ? `<span class="news-pill">New</span>` : ""}
+      </div>
+      <div class="news-row__body">
+        <div class="news-row__head">
+          <a class="news-row__sym" href="#/${esc(it.industry_slug)}/${esc(it.symbol)}">${esc(it.symbol)}</a>
+          <a class="news-row__ind" href="#/${esc(it.industry_slug)}">${esc(indName)}</a>
+        </div>
+        <div class="news-row__desc">${esc(it.desc || "Announcement")}</div>
+        ${it.sm_name && it.sm_name !== it.name ? `<div class="news-row__company muted">${esc(it.sm_name)}</div>` : ""}
+      </div>
+      <div class="news-row__action">
+        ${it.attchmntFile
+          ? `<a class="news-row__pdf" href="${esc(it.attchmntFile)}" target="_blank" rel="noopener noreferrer">Open PDF →</a>`
+          : `<span class="muted">no attachment</span>`}
+      </div>
+    </li>`;
 }
 
 function renderLiveTicker() {
@@ -187,7 +353,14 @@ function initTheme() {
 function bindToolbar() {
   const search = document.getElementById("indSearch");
   search.addEventListener("input", (e) => {
-    state.search = e.target.value.trim();
+    const v = e.target.value.trim();
+    const onNews = location.hash === "#/news" || location.hash.startsWith("#/news");
+    if (onNews) {
+      state.newsFilter.q = v;
+      renderNewsPage();
+      return;
+    }
+    state.search = v;
     // search only meaningful on the grid view; otherwise jump home
     if (location.hash && location.hash !== "#/" && location.hash !== "#") {
       location.hash = "#/";
@@ -207,6 +380,12 @@ function route() {
     document.getElementById("indSearch").placeholder =
       "Search industries or stocks (e.g. steel, RELIANCE, banks)…";
     renderGrid();
+  } else if (parts[0] === "news") {
+    state.live.currentSymbol = null;
+    document.getElementById("indSearch").value = state.newsFilter.q || "";
+    document.getElementById("indSearch").placeholder =
+      "Filter announcements by symbol or text (e.g. dividend, RELIANCE)…";
+    renderNewsPage();
   } else if (parts.length === 1) {
     state.live.currentSymbol = null;
     document.getElementById("indSearch").value = "";
