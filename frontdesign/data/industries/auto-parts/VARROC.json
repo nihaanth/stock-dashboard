@@ -1,0 +1,634 @@
+{
+  "symbol": "VARROC",
+  "name": "Varroc Engineering Limited",
+  "industry": "Auto Parts",
+  "industry_slug": "auto-parts",
+  "sector": "Consumer Cyclical",
+  "isin": null,
+  "price": 555.9,
+  "market_cap_cr": 8494.12,
+  "industry_source": "yfinance",
+  "as_of": "2026-05-11",
+  "window_days": 90,
+  "daily": [
+    {
+      "date": "2026-02-10",
+      "close": 554.35,
+      "prev_close": 556.55,
+      "volume": 91525,
+      "deliverable_qty": 38369,
+      "delivery_pct": 41.92
+    },
+    {
+      "date": "2026-02-11",
+      "close": 574.75,
+      "prev_close": 554.35,
+      "volume": 708885,
+      "deliverable_qty": 396553,
+      "delivery_pct": 55.94
+    },
+    {
+      "date": "2026-02-12",
+      "close": 574.0,
+      "prev_close": 574.75,
+      "volume": 81435,
+      "deliverable_qty": 39031,
+      "delivery_pct": 47.93
+    },
+    {
+      "date": "2026-02-13",
+      "close": 557.75,
+      "prev_close": 574.0,
+      "volume": 228319,
+      "deliverable_qty": 142440,
+      "delivery_pct": 62.39
+    },
+    {
+      "date": "2026-02-16",
+      "close": 562.3,
+      "prev_close": 557.75,
+      "volume": 95744,
+      "deliverable_qty": 37858,
+      "delivery_pct": 39.54
+    },
+    {
+      "date": "2026-02-17",
+      "close": 559.5,
+      "prev_close": 562.3,
+      "volume": 59437,
+      "deliverable_qty": 33885,
+      "delivery_pct": 57.01
+    },
+    {
+      "date": "2026-02-18",
+      "close": 567.45,
+      "prev_close": 559.5,
+      "volume": 59254,
+      "deliverable_qty": 28285,
+      "delivery_pct": 47.74
+    },
+    {
+      "date": "2026-02-19",
+      "close": 556.65,
+      "prev_close": 567.45,
+      "volume": 113736,
+      "deliverable_qty": 67001,
+      "delivery_pct": 58.91
+    },
+    {
+      "date": "2026-02-20",
+      "close": 545.9,
+      "prev_close": 556.65,
+      "volume": 115814,
+      "deliverable_qty": 64057,
+      "delivery_pct": 55.31
+    },
+    {
+      "date": "2026-02-23",
+      "close": 551.85,
+      "prev_close": 545.9,
+      "volume": 63493,
+      "deliverable_qty": 25949,
+      "delivery_pct": 40.87
+    },
+    {
+      "date": "2026-02-24",
+      "close": 546.0,
+      "prev_close": 551.85,
+      "volume": 60864,
+      "deliverable_qty": 32357,
+      "delivery_pct": 53.16
+    },
+    {
+      "date": "2026-02-25",
+      "close": 551.2,
+      "prev_close": 546.0,
+      "volume": 57924,
+      "deliverable_qty": 30292,
+      "delivery_pct": 52.3
+    },
+    {
+      "date": "2026-02-26",
+      "close": 549.7,
+      "prev_close": 551.2,
+      "volume": 60368,
+      "deliverable_qty": 30106,
+      "delivery_pct": 49.87
+    },
+    {
+      "date": "2026-02-27",
+      "close": 540.95,
+      "prev_close": 549.7,
+      "volume": 228405,
+      "deliverable_qty": 162125,
+      "delivery_pct": 70.98
+    },
+    {
+      "date": "2026-03-02",
+      "close": 525.25,
+      "prev_close": 540.95,
+      "volume": 116074,
+      "deliverable_qty": 53369,
+      "delivery_pct": 45.98
+    },
+    {
+      "date": "2026-03-04",
+      "close": 514.7,
+      "prev_close": 525.25,
+      "volume": 166130,
+      "deliverable_qty": 111269,
+      "delivery_pct": 66.98
+    },
+    {
+      "date": "2026-03-05",
+      "close": 510.15,
+      "prev_close": 514.7,
+      "volume": 173622,
+      "deliverable_qty": 119972,
+      "delivery_pct": 69.1
+    },
+    {
+      "date": "2026-03-06",
+      "close": 514.65,
+      "prev_close": 510.15,
+      "volume": 56622,
+      "deliverable_qty": 25838,
+      "delivery_pct": 45.63
+    },
+    {
+      "date": "2026-03-09",
+      "close": 483.5,
+      "prev_close": 514.65,
+      "volume": 674451,
+      "deliverable_qty": 385990,
+      "delivery_pct": 57.23
+    },
+    {
+      "date": "2026-03-10",
+      "close": 497.95,
+      "prev_close": 483.5,
+      "volume": 162554,
+      "deliverable_qty": 79274,
+      "delivery_pct": 48.77
+    },
+    {
+      "date": "2026-03-11",
+      "close": 494.35,
+      "prev_close": 497.95,
+      "volume": 137282,
+      "deliverable_qty": 86245,
+      "delivery_pct": 62.82
+    },
+    {
+      "date": "2026-03-12",
+      "close": 495.35,
+      "prev_close": 494.35,
+      "volume": 90723,
+      "deliverable_qty": 41357,
+      "delivery_pct": 45.59
+    },
+    {
+      "date": "2026-03-13",
+      "close": 480.75,
+      "prev_close": 495.35,
+      "volume": 259934,
+      "deliverable_qty": 148202,
+      "delivery_pct": 57.02
+    },
+    {
+      "date": "2026-03-16",
+      "close": 478.85,
+      "prev_close": 480.75,
+      "volume": 102863,
+      "deliverable_qty": 50450,
+      "delivery_pct": 49.05
+    },
+    {
+      "date": "2026-03-17",
+      "close": 494.25,
+      "prev_close": 478.85,
+      "volume": 151580,
+      "deliverable_qty": 79481,
+      "delivery_pct": 52.44
+    },
+    {
+      "date": "2026-03-18",
+      "close": 524.3,
+      "prev_close": 494.25,
+      "volume": 259285,
+      "deliverable_qty": 103667,
+      "delivery_pct": 39.98
+    },
+    {
+      "date": "2026-03-19",
+      "close": 503.65,
+      "prev_close": 524.3,
+      "volume": 87778,
+      "deliverable_qty": 35689,
+      "delivery_pct": 40.66
+    },
+    {
+      "date": "2026-03-20",
+      "close": 498.2,
+      "prev_close": 503.65,
+      "volume": 107738,
+      "deliverable_qty": 65897,
+      "delivery_pct": 61.16
+    },
+    {
+      "date": "2026-03-23",
+      "close": 475.4,
+      "prev_close": 498.2,
+      "volume": 205507,
+      "deliverable_qty": 119331,
+      "delivery_pct": 58.07
+    },
+    {
+      "date": "2026-03-24",
+      "close": 489.2,
+      "prev_close": 475.4,
+      "volume": 116267,
+      "deliverable_qty": 53217,
+      "delivery_pct": 45.77
+    },
+    {
+      "date": "2026-03-25",
+      "close": 493.4,
+      "prev_close": 489.2,
+      "volume": 617891,
+      "deliverable_qty": 424110,
+      "delivery_pct": 68.64
+    },
+    {
+      "date": "2026-03-27",
+      "close": 487.6,
+      "prev_close": 493.4,
+      "volume": 188652,
+      "deliverable_qty": 107709,
+      "delivery_pct": 57.09
+    },
+    {
+      "date": "2026-03-30",
+      "close": 467.4,
+      "prev_close": 487.6,
+      "volume": 228844,
+      "deliverable_qty": 124432,
+      "delivery_pct": 54.37
+    },
+    {
+      "date": "2026-04-01",
+      "close": 478.35,
+      "prev_close": 467.4,
+      "volume": 179124,
+      "deliverable_qty": 85602,
+      "delivery_pct": 47.79
+    },
+    {
+      "date": "2026-04-02",
+      "close": 490.0,
+      "prev_close": 478.35,
+      "volume": 106021,
+      "deliverable_qty": 49190,
+      "delivery_pct": 46.4
+    },
+    {
+      "date": "2026-04-06",
+      "close": 479.4,
+      "prev_close": 490.0,
+      "volume": 249905,
+      "deliverable_qty": 146416,
+      "delivery_pct": 58.59
+    },
+    {
+      "date": "2026-04-07",
+      "close": 473.15,
+      "prev_close": 479.4,
+      "volume": 360828,
+      "deliverable_qty": 221389,
+      "delivery_pct": 61.36
+    },
+    {
+      "date": "2026-04-08",
+      "close": 500.4,
+      "prev_close": 473.15,
+      "volume": 338209,
+      "deliverable_qty": 148020,
+      "delivery_pct": 43.77
+    },
+    {
+      "date": "2026-04-09",
+      "close": 499.7,
+      "prev_close": 500.4,
+      "volume": 103544,
+      "deliverable_qty": 40216,
+      "delivery_pct": 38.84
+    },
+    {
+      "date": "2026-04-10",
+      "close": 526.35,
+      "prev_close": 499.7,
+      "volume": 222556,
+      "deliverable_qty": 100032,
+      "delivery_pct": 44.95
+    },
+    {
+      "date": "2026-04-13",
+      "close": 518.35,
+      "prev_close": 526.35,
+      "volume": 121782,
+      "deliverable_qty": 47406,
+      "delivery_pct": 38.93
+    },
+    {
+      "date": "2026-04-15",
+      "close": 539.55,
+      "prev_close": 518.35,
+      "volume": 150770,
+      "deliverable_qty": 91803,
+      "delivery_pct": 60.89
+    },
+    {
+      "date": "2026-04-16",
+      "close": 533.45,
+      "prev_close": 539.55,
+      "volume": 104642,
+      "deliverable_qty": 48521,
+      "delivery_pct": 46.37
+    },
+    {
+      "date": "2026-04-17",
+      "close": 539.2,
+      "prev_close": 533.45,
+      "volume": 272008,
+      "deliverable_qty": 215523,
+      "delivery_pct": 79.23
+    },
+    {
+      "date": "2026-04-22",
+      "close": 533.8,
+      "prev_close": 527.65,
+      "volume": 45780,
+      "deliverable_qty": 19193,
+      "delivery_pct": 41.92
+    },
+    {
+      "date": "2026-04-23",
+      "close": 514.4,
+      "prev_close": 533.8,
+      "volume": 99991,
+      "deliverable_qty": 51126,
+      "delivery_pct": 51.13
+    },
+    {
+      "date": "2026-04-24",
+      "close": 512.25,
+      "prev_close": 514.4,
+      "volume": 94802,
+      "deliverable_qty": 38362,
+      "delivery_pct": 40.47
+    },
+    {
+      "date": "2026-04-27",
+      "close": 521.35,
+      "prev_close": 512.25,
+      "volume": 122485,
+      "deliverable_qty": 57187,
+      "delivery_pct": 46.69
+    },
+    {
+      "date": "2026-04-28",
+      "close": 515.15,
+      "prev_close": 521.35,
+      "volume": 57519,
+      "deliverable_qty": 30053,
+      "delivery_pct": 52.25
+    },
+    {
+      "date": "2026-04-29",
+      "close": 520.5,
+      "prev_close": 515.15,
+      "volume": 61290,
+      "deliverable_qty": 32164,
+      "delivery_pct": 52.48
+    },
+    {
+      "date": "2026-04-30",
+      "close": 533.8,
+      "prev_close": 520.5,
+      "volume": 115160,
+      "deliverable_qty": 71213,
+      "delivery_pct": 61.84
+    },
+    {
+      "date": "2026-05-04",
+      "close": 549.25,
+      "prev_close": 533.8,
+      "volume": 181164,
+      "deliverable_qty": 91988,
+      "delivery_pct": 50.78
+    },
+    {
+      "date": "2026-05-05",
+      "close": 538.25,
+      "prev_close": 549.25,
+      "volume": 62300,
+      "deliverable_qty": 30017,
+      "delivery_pct": 48.18
+    },
+    {
+      "date": "2026-05-06",
+      "close": 543.75,
+      "prev_close": 538.25,
+      "volume": 64500,
+      "deliverable_qty": 32318,
+      "delivery_pct": 50.11
+    },
+    {
+      "date": "2026-05-07",
+      "close": 565.0,
+      "prev_close": 543.75,
+      "volume": 270266,
+      "deliverable_qty": 103286,
+      "delivery_pct": 38.22
+    },
+    {
+      "date": "2026-05-08",
+      "close": 559.85,
+      "prev_close": 565.0,
+      "volume": 75864,
+      "deliverable_qty": 37166,
+      "delivery_pct": 48.99
+    },
+    {
+      "date": "2026-05-11",
+      "close": 555.9,
+      "prev_close": 559.85,
+      "volume": 55241,
+      "deliverable_qty": 26525,
+      "delivery_pct": 48.02
+    }
+  ],
+  "news": [
+    {
+      "sort_date": "2026-04-24 19:45:42",
+      "an_dt": "24-Apr-2026 19:45:42",
+      "desc": "Credit Rating- New",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_24042026194455_Credit_Rating_Upgraded.pdf"
+    },
+    {
+      "sort_date": "2026-04-22 09:49:03",
+      "an_dt": "22-Apr-2026 09:49:03",
+      "desc": "Press Release",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_22042026094848_IntimationOfPressRelease.pdf"
+    },
+    {
+      "sort_date": "2026-04-08 15:22:48",
+      "an_dt": "08-Apr-2026 15:22:48",
+      "desc": "Press Release",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_08042026152139_IntimationOfPressReleasesd.pdf"
+    },
+    {
+      "sort_date": "2026-04-08 13:46:07",
+      "an_dt": "08-Apr-2026 13:46:07",
+      "desc": "Change in Director(s)",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_08042026134431_Intimation_of_Change_in_SMP.pdf"
+    },
+    {
+      "sort_date": "2026-04-07 19:19:40",
+      "an_dt": "07-Apr-2026 19:19:40",
+      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_07042026191841_Compliance_Certificate_74_5.pdf"
+    },
+    {
+      "sort_date": "2026-04-02 16:50:37",
+      "an_dt": "02-Apr-2026 16:50:37",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_02042026122815_3.pdf"
+    },
+    {
+      "sort_date": "2026-04-01 15:23:36",
+      "an_dt": "01-Apr-2026 15:23:36",
+      "desc": "Updates",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_01042026152331_Half_Year_Reporting_NCD.pdf"
+    },
+    {
+      "sort_date": "2026-04-01 15:19:35",
+      "an_dt": "01-Apr-2026 15:19:35",
+      "desc": "Updates",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_01042026151927_Disclosure_Reg54_2_March25_Qtr.pdf"
+    },
+    {
+      "sort_date": "2026-04-01 15:11:17",
+      "an_dt": "01-Apr-2026 15:11:17",
+      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_01042026151035_Nil_Deviation_Report_utilization_of_issue_Proceeds.pdf"
+    },
+    {
+      "sort_date": "2026-04-01 15:03:54",
+      "an_dt": "01-Apr-2026 15:03:54",
+      "desc": "Updates",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_01042026145927_Submission_of_details_of_Compliance_officer_RTA.pdf"
+    },
+    {
+      "sort_date": "2026-03-26 20:48:06",
+      "an_dt": "26-Mar-2026 20:48:06",
+      "desc": "Resignation",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_26032026204404_IntimationOfResignationOfSMP.pdf"
+    },
+    {
+      "sort_date": "2026-03-20 16:49:25",
+      "an_dt": "20-Mar-2026 16:49:25",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_20032026164814_Reg30_Intimation.pdf"
+    },
+    {
+      "sort_date": "2026-03-20 11:40:36",
+      "an_dt": "20-Mar-2026 11:40:36",
+      "desc": "Press Release",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_20032026114027_IntimationOfPressRelease.pdf"
+    },
+    {
+      "sort_date": "2026-03-17 16:47:02",
+      "an_dt": "17-Mar-2026 16:47:02",
+      "desc": "Trading Window",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_17032026164656_TradingWindowClosure.pdf"
+    },
+    {
+      "sort_date": "2026-03-09 15:48:06",
+      "an_dt": "09-Mar-2026 15:48:06",
+      "desc": "General Updates",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_09032026154559_IntimationOfCreditRatings.pdf"
+    },
+    {
+      "sort_date": "2026-03-06 13:54:22",
+      "an_dt": "06-Mar-2026 13:54:22",
+      "desc": "Disclosure of material issue",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_06032026135412_IntimationFullRedemptionNCD.pdf"
+    },
+    {
+      "sort_date": "2026-03-06 13:53:17",
+      "an_dt": "06-Mar-2026 13:53:17",
+      "desc": "Disclosure of material issue",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_06032026135307_Intimation_FullRedemption_NCD.pdf"
+    },
+    {
+      "sort_date": "2026-03-04 14:57:21",
+      "an_dt": "04-Mar-2026 14:57:21",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_04032026145202_Intimation_Investor_Meet.pdf"
+    },
+    {
+      "sort_date": "2026-02-27 14:25:26",
+      "an_dt": "27-Feb-2026 14:25:26",
+      "desc": "Disclosure of material issue",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_27022026142454_IntimationofCommercialPaperRedemption.pdf"
+    },
+    {
+      "sort_date": "2026-02-19 21:20:20",
+      "an_dt": "19-Feb-2026 21:20:20",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_19022026211847_Investorcall.pdf"
+    },
+    {
+      "sort_date": "2026-02-18 20:10:03",
+      "an_dt": "18-Feb-2026 20:10:03",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_18022026200953_IntimationofInvestorCall.pdf"
+    },
+    {
+      "sort_date": "2026-02-11 13:42:15",
+      "an_dt": "11-Feb-2026 13:42:15",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_11022026133728_Reg30Intimation.pdf"
+    },
+    {
+      "sort_date": "2026-02-10 09:49:27",
+      "an_dt": "10-Feb-2026 09:49:27",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_10022026094842_IntimationofTranscript.pdf"
+    }
+  ]
+}

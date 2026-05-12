@@ -1,0 +1,620 @@
+{
+  "symbol": "AETHER",
+  "name": "Aether Industries Limited",
+  "industry": "Specialty Chemicals",
+  "industry_slug": "specialty-chemicals",
+  "sector": "Basic Materials",
+  "isin": null,
+  "price": 1200.7,
+  "market_cap_cr": 15930.87,
+  "industry_source": "yfinance",
+  "as_of": "2026-05-11",
+  "window_days": 90,
+  "daily": [
+    {
+      "date": "2026-02-10",
+      "close": 981.2,
+      "prev_close": 988.4,
+      "volume": 124029,
+      "deliverable_qty": 63141,
+      "delivery_pct": 50.91
+    },
+    {
+      "date": "2026-02-11",
+      "close": 981.4,
+      "prev_close": 981.2,
+      "volume": 292040,
+      "deliverable_qty": 124683,
+      "delivery_pct": 42.69
+    },
+    {
+      "date": "2026-02-12",
+      "close": 966.4,
+      "prev_close": 981.4,
+      "volume": 99980,
+      "deliverable_qty": 41189,
+      "delivery_pct": 41.2
+    },
+    {
+      "date": "2026-02-13",
+      "close": 966.9,
+      "prev_close": 966.4,
+      "volume": 91324,
+      "deliverable_qty": 43579,
+      "delivery_pct": 47.72
+    },
+    {
+      "date": "2026-02-16",
+      "close": 965.8,
+      "prev_close": 966.9,
+      "volume": 227629,
+      "deliverable_qty": 66595,
+      "delivery_pct": 29.26
+    },
+    {
+      "date": "2026-02-17",
+      "close": 977.7,
+      "prev_close": 965.8,
+      "volume": 67997,
+      "deliverable_qty": 24153,
+      "delivery_pct": 35.52
+    },
+    {
+      "date": "2026-02-18",
+      "close": 991.6,
+      "prev_close": 977.7,
+      "volume": 79599,
+      "deliverable_qty": 40466,
+      "delivery_pct": 50.84
+    },
+    {
+      "date": "2026-02-19",
+      "close": 960.1,
+      "prev_close": 991.6,
+      "volume": 79209,
+      "deliverable_qty": 42631,
+      "delivery_pct": 53.82
+    },
+    {
+      "date": "2026-02-20",
+      "close": 966.2,
+      "prev_close": 960.1,
+      "volume": 99977,
+      "deliverable_qty": 50919,
+      "delivery_pct": 50.93
+    },
+    {
+      "date": "2026-02-23",
+      "close": 968.3,
+      "prev_close": 966.2,
+      "volume": 71520,
+      "deliverable_qty": 29610,
+      "delivery_pct": 41.4
+    },
+    {
+      "date": "2026-02-24",
+      "close": 965.0,
+      "prev_close": 968.3,
+      "volume": 44120,
+      "deliverable_qty": 18797,
+      "delivery_pct": 42.6
+    },
+    {
+      "date": "2026-02-25",
+      "close": 970.9,
+      "prev_close": 965.0,
+      "volume": 63947,
+      "deliverable_qty": 35442,
+      "delivery_pct": 55.42
+    },
+    {
+      "date": "2026-02-26",
+      "close": 961.4,
+      "prev_close": 970.9,
+      "volume": 136356,
+      "deliverable_qty": 104498,
+      "delivery_pct": 76.64
+    },
+    {
+      "date": "2026-02-27",
+      "close": 958.6,
+      "prev_close": 961.4,
+      "volume": 79698,
+      "deliverable_qty": 40031,
+      "delivery_pct": 50.23
+    },
+    {
+      "date": "2026-03-02",
+      "close": 932.15,
+      "prev_close": 958.6,
+      "volume": 153698,
+      "deliverable_qty": 88599,
+      "delivery_pct": 57.64
+    },
+    {
+      "date": "2026-03-04",
+      "close": 917.05,
+      "prev_close": 932.15,
+      "volume": 290542,
+      "deliverable_qty": 141372,
+      "delivery_pct": 48.66
+    },
+    {
+      "date": "2026-03-05",
+      "close": 967.3,
+      "prev_close": 917.05,
+      "volume": 189505,
+      "deliverable_qty": 80138,
+      "delivery_pct": 42.29
+    },
+    {
+      "date": "2026-03-06",
+      "close": 1011.95,
+      "prev_close": 967.3,
+      "volume": 808704,
+      "deliverable_qty": 534949,
+      "delivery_pct": 66.15
+    },
+    {
+      "date": "2026-03-09",
+      "close": 986.65,
+      "prev_close": 1011.95,
+      "volume": 180374,
+      "deliverable_qty": 74164,
+      "delivery_pct": 41.12
+    },
+    {
+      "date": "2026-03-10",
+      "close": 1001.5,
+      "prev_close": 986.65,
+      "volume": 174453,
+      "deliverable_qty": 99649,
+      "delivery_pct": 57.12
+    },
+    {
+      "date": "2026-03-11",
+      "close": 1015.5,
+      "prev_close": 1001.5,
+      "volume": 457374,
+      "deliverable_qty": 264786,
+      "delivery_pct": 57.89
+    },
+    {
+      "date": "2026-03-12",
+      "close": 1047.65,
+      "prev_close": 1015.5,
+      "volume": 574628,
+      "deliverable_qty": 193612,
+      "delivery_pct": 33.69
+    },
+    {
+      "date": "2026-03-13",
+      "close": 1000.45,
+      "prev_close": 1047.65,
+      "volume": 121891,
+      "deliverable_qty": 55361,
+      "delivery_pct": 45.42
+    },
+    {
+      "date": "2026-03-16",
+      "close": 1025.05,
+      "prev_close": 1000.45,
+      "volume": 274205,
+      "deliverable_qty": 128889,
+      "delivery_pct": 47.0
+    },
+    {
+      "date": "2026-03-17",
+      "close": 1006.2,
+      "prev_close": 1025.05,
+      "volume": 135878,
+      "deliverable_qty": 51477,
+      "delivery_pct": 37.88
+    },
+    {
+      "date": "2026-03-18",
+      "close": 1068.55,
+      "prev_close": 1006.2,
+      "volume": 327139,
+      "deliverable_qty": 137386,
+      "delivery_pct": 42.0
+    },
+    {
+      "date": "2026-03-19",
+      "close": 1068.55,
+      "prev_close": 1068.55,
+      "volume": 201319,
+      "deliverable_qty": 64990,
+      "delivery_pct": 32.28
+    },
+    {
+      "date": "2026-03-20",
+      "close": 1155.55,
+      "prev_close": 1068.55,
+      "volume": 1469947,
+      "deliverable_qty": 441397,
+      "delivery_pct": 30.03
+    },
+    {
+      "date": "2026-03-23",
+      "close": 1085.05,
+      "prev_close": 1155.55,
+      "volume": 465849,
+      "deliverable_qty": 114829,
+      "delivery_pct": 24.65
+    },
+    {
+      "date": "2026-03-24",
+      "close": 1224.65,
+      "prev_close": 1085.05,
+      "volume": 1698440,
+      "deliverable_qty": 404661,
+      "delivery_pct": 23.83
+    },
+    {
+      "date": "2026-03-25",
+      "close": 1158.55,
+      "prev_close": 1224.65,
+      "volume": 1515192,
+      "deliverable_qty": 336458,
+      "delivery_pct": 22.21
+    },
+    {
+      "date": "2026-03-27",
+      "close": 1170.35,
+      "prev_close": 1158.55,
+      "volume": 595041,
+      "deliverable_qty": 166152,
+      "delivery_pct": 27.92
+    },
+    {
+      "date": "2026-03-30",
+      "close": 1094.5,
+      "prev_close": 1170.35,
+      "volume": 522705,
+      "deliverable_qty": 251263,
+      "delivery_pct": 48.07
+    },
+    {
+      "date": "2026-04-01",
+      "close": 1116.0,
+      "prev_close": 1094.5,
+      "volume": 210521,
+      "deliverable_qty": 73680,
+      "delivery_pct": 35.0
+    },
+    {
+      "date": "2026-04-02",
+      "close": 1103.4,
+      "prev_close": 1116.0,
+      "volume": 277993,
+      "deliverable_qty": 92200,
+      "delivery_pct": 33.17
+    },
+    {
+      "date": "2026-04-06",
+      "close": 1100.9,
+      "prev_close": 1103.4,
+      "volume": 182907,
+      "deliverable_qty": 69812,
+      "delivery_pct": 38.17
+    },
+    {
+      "date": "2026-04-07",
+      "close": 1084.8,
+      "prev_close": 1100.9,
+      "volume": 207647,
+      "deliverable_qty": 82112,
+      "delivery_pct": 39.54
+    },
+    {
+      "date": "2026-04-08",
+      "close": 1134.8,
+      "prev_close": 1084.8,
+      "volume": 344973,
+      "deliverable_qty": 146055,
+      "delivery_pct": 42.34
+    },
+    {
+      "date": "2026-04-09",
+      "close": 1133.8,
+      "prev_close": 1134.8,
+      "volume": 272103,
+      "deliverable_qty": 114214,
+      "delivery_pct": 41.97
+    },
+    {
+      "date": "2026-04-10",
+      "close": 1190.2,
+      "prev_close": 1133.8,
+      "volume": 398643,
+      "deliverable_qty": 188865,
+      "delivery_pct": 47.38
+    },
+    {
+      "date": "2026-04-13",
+      "close": 1185.3,
+      "prev_close": 1190.2,
+      "volume": 346492,
+      "deliverable_qty": 123438,
+      "delivery_pct": 35.63
+    },
+    {
+      "date": "2026-04-15",
+      "close": 1178.1,
+      "prev_close": 1185.3,
+      "volume": 259000,
+      "deliverable_qty": 93977,
+      "delivery_pct": 36.28
+    },
+    {
+      "date": "2026-04-16",
+      "close": 1187.4,
+      "prev_close": 1178.1,
+      "volume": 228257,
+      "deliverable_qty": 89534,
+      "delivery_pct": 39.23
+    },
+    {
+      "date": "2026-04-17",
+      "close": 1179.8,
+      "prev_close": 1187.4,
+      "volume": 286952,
+      "deliverable_qty": 110230,
+      "delivery_pct": 38.41
+    },
+    {
+      "date": "2026-04-22",
+      "close": 1183.3,
+      "prev_close": 1183.5,
+      "volume": 344132,
+      "deliverable_qty": 181349,
+      "delivery_pct": 52.7
+    },
+    {
+      "date": "2026-04-23",
+      "close": 1181.4,
+      "prev_close": 1183.3,
+      "volume": 269803,
+      "deliverable_qty": 148111,
+      "delivery_pct": 54.9
+    },
+    {
+      "date": "2026-04-24",
+      "close": 1113.8,
+      "prev_close": 1181.4,
+      "volume": 517032,
+      "deliverable_qty": 234331,
+      "delivery_pct": 45.32
+    },
+    {
+      "date": "2026-04-27",
+      "close": 1154.5,
+      "prev_close": 1113.8,
+      "volume": 216976,
+      "deliverable_qty": 110783,
+      "delivery_pct": 51.06
+    },
+    {
+      "date": "2026-04-28",
+      "close": 1170.1,
+      "prev_close": 1154.5,
+      "volume": 152761,
+      "deliverable_qty": 86256,
+      "delivery_pct": 56.46
+    },
+    {
+      "date": "2026-04-29",
+      "close": 1168.1,
+      "prev_close": 1170.1,
+      "volume": 99811,
+      "deliverable_qty": 61770,
+      "delivery_pct": 61.89
+    },
+    {
+      "date": "2026-04-30",
+      "close": 1171.8,
+      "prev_close": 1168.1,
+      "volume": 112271,
+      "deliverable_qty": 57993,
+      "delivery_pct": 51.65
+    },
+    {
+      "date": "2026-05-04",
+      "close": 1252.0,
+      "prev_close": 1171.8,
+      "volume": 1277520,
+      "deliverable_qty": 450586,
+      "delivery_pct": 35.27
+    },
+    {
+      "date": "2026-05-05",
+      "close": 1221.5,
+      "prev_close": 1252.0,
+      "volume": 522145,
+      "deliverable_qty": 185429,
+      "delivery_pct": 35.51
+    },
+    {
+      "date": "2026-05-06",
+      "close": 1232.7,
+      "prev_close": 1221.5,
+      "volume": 237357,
+      "deliverable_qty": 98536,
+      "delivery_pct": 41.51
+    },
+    {
+      "date": "2026-05-07",
+      "close": 1214.8,
+      "prev_close": 1232.7,
+      "volume": 223428,
+      "deliverable_qty": 101994,
+      "delivery_pct": 45.65
+    },
+    {
+      "date": "2026-05-08",
+      "close": 1213.4,
+      "prev_close": 1214.8,
+      "volume": 163061,
+      "deliverable_qty": 79742,
+      "delivery_pct": 48.9
+    },
+    {
+      "date": "2026-05-11",
+      "close": 1200.7,
+      "prev_close": 1213.4,
+      "volume": 466266,
+      "deliverable_qty": 184185,
+      "delivery_pct": 39.5
+    }
+  ],
+  "news": [
+    {
+      "sort_date": "2026-05-11 10:22:07",
+      "an_dt": "11-May-2026 10:22:07",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_11052026102156_6.pdf"
+    },
+    {
+      "sort_date": "2026-04-24 16:38:39",
+      "an_dt": "24-Apr-2026 16:38:39",
+      "desc": "General Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_24042026163734_3.pdf"
+    },
+    {
+      "sort_date": "2026-04-09 17:41:13",
+      "an_dt": "09-Apr-2026 17:41:13",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_08042026111901_Declaration.pdf"
+    },
+    {
+      "sort_date": "2026-04-04 11:32:25",
+      "an_dt": "04-Apr-2026 11:32:25",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_04042026113155_1.pdf"
+    },
+    {
+      "sort_date": "2026-03-27 10:57:58",
+      "an_dt": "27-Mar-2026 10:57:58",
+      "desc": "General Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_27032026105740_73.pdf"
+    },
+    {
+      "sort_date": "2026-03-20 16:52:23",
+      "an_dt": "20-Mar-2026 16:52:23",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_20032026165208_71B.pdf"
+    },
+    {
+      "sort_date": "2026-03-14 12:12:18",
+      "an_dt": "14-Mar-2026 12:12:18",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_14032026121211_71A.pdf"
+    },
+    {
+      "sort_date": "2026-03-13 16:20:59",
+      "an_dt": "13-Mar-2026 16:20:59",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_13032026162052_70B.pdf"
+    },
+    {
+      "sort_date": "2026-03-11 19:55:13",
+      "an_dt": "11-Mar-2026 19:55:13",
+      "desc": "General Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_11032026195413_72.pdf"
+    },
+    {
+      "sort_date": "2026-03-11 17:38:08",
+      "an_dt": "11-Mar-2026 17:38:08",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_11032026173752_70A.pdf"
+    },
+    {
+      "sort_date": "2026-03-10 15:11:30",
+      "an_dt": "10-Mar-2026 15:11:30",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_10032026151036_69A.pdf"
+    },
+    {
+      "sort_date": "2026-03-10 15:11:30",
+      "an_dt": "10-Mar-2026 15:11:30",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_10032026150942_71.pdf"
+    },
+    {
+      "sort_date": "2026-03-04 16:18:20",
+      "an_dt": "04-Mar-2026 16:18:20",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_04032026161748_70.pdf"
+    },
+    {
+      "sort_date": "2026-03-04 16:18:20",
+      "an_dt": "04-Mar-2026 16:18:20",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_04032026161644_69.pdf"
+    },
+    {
+      "sort_date": "2026-02-25 18:05:54",
+      "an_dt": "25-Feb-2026 18:05:54",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_25022026180252_65A.pdf"
+    },
+    {
+      "sort_date": "2026-02-23 09:51:32",
+      "an_dt": "23-Feb-2026 09:51:32",
+      "desc": "General Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_23022026095123_68.pdf"
+    },
+    {
+      "sort_date": "2026-02-20 17:39:08",
+      "an_dt": "20-Feb-2026 17:39:08",
+      "desc": "General Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_20022026173859_67.pdf"
+    },
+    {
+      "sort_date": "2026-02-18 11:16:53",
+      "an_dt": "18-Feb-2026 11:16:53",
+      "desc": "General Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_18022026111631_66.pdf"
+    },
+    {
+      "sort_date": "2026-02-16 11:22:48",
+      "an_dt": "16-Feb-2026 11:22:48",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_16022026112240_65.pdf"
+    },
+    {
+      "sort_date": "2026-02-10 12:23:30",
+      "an_dt": "10-Feb-2026 12:23:30",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_10022026122324_64.pdf"
+    },
+    {
+      "sort_date": "2026-02-10 12:23:30",
+      "an_dt": "10-Feb-2026 12:23:30",
+      "desc": "General Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_10022026122212_63.pdf"
+    }
+  ]
+}

@@ -1,0 +1,851 @@
+{
+  "symbol": "ICICIBANK",
+  "name": "ICICI Bank Limited",
+  "industry": "Banks",
+  "industry_slug": "banks",
+  "sector": null,
+  "isin": "INE090A01013",
+  "price": 1351.1,
+  "market_cap_cr": 967549.49,
+  "industry_source": "webarchive",
+  "as_of": "2026-05-11",
+  "window_days": 90,
+  "daily": [
+    {
+      "date": "2026-02-10",
+      "close": 1406.5,
+      "prev_close": 1396.3,
+      "volume": 16497628,
+      "deliverable_qty": 9390267,
+      "delivery_pct": 56.92
+    },
+    {
+      "date": "2026-02-11",
+      "close": 1406.1,
+      "prev_close": 1406.5,
+      "volume": 8551341,
+      "deliverable_qty": 5235374,
+      "delivery_pct": 61.22
+    },
+    {
+      "date": "2026-02-12",
+      "close": 1430.0,
+      "prev_close": 1406.1,
+      "volume": 19646265,
+      "deliverable_qty": 11634990,
+      "delivery_pct": 59.22
+    },
+    {
+      "date": "2026-02-13",
+      "close": 1414.6,
+      "prev_close": 1430.0,
+      "volume": 12228083,
+      "deliverable_qty": 9346512,
+      "delivery_pct": 76.43
+    },
+    {
+      "date": "2026-02-16",
+      "close": 1411.6,
+      "prev_close": 1414.6,
+      "volume": 5000042,
+      "deliverable_qty": 2763183,
+      "delivery_pct": 55.26
+    },
+    {
+      "date": "2026-02-17",
+      "close": 1407.5,
+      "prev_close": 1411.6,
+      "volume": 11756187,
+      "deliverable_qty": 4271702,
+      "delivery_pct": 36.34
+    },
+    {
+      "date": "2026-02-18",
+      "close": 1408.2,
+      "prev_close": 1407.5,
+      "volume": 4758071,
+      "deliverable_qty": 2718133,
+      "delivery_pct": 57.13
+    },
+    {
+      "date": "2026-02-19",
+      "close": 1388.8,
+      "prev_close": 1408.2,
+      "volume": 14323091,
+      "deliverable_qty": 7145103,
+      "delivery_pct": 49.89
+    },
+    {
+      "date": "2026-02-20",
+      "close": 1394.5,
+      "prev_close": 1388.8,
+      "volume": 10337877,
+      "deliverable_qty": 6632857,
+      "delivery_pct": 64.16
+    },
+    {
+      "date": "2026-02-23",
+      "close": 1399.4,
+      "prev_close": 1394.5,
+      "volume": 10728445,
+      "deliverable_qty": 7108232,
+      "delivery_pct": 66.26
+    },
+    {
+      "date": "2026-02-24",
+      "close": 1384.8,
+      "prev_close": 1399.4,
+      "volume": 18274784,
+      "deliverable_qty": 10740431,
+      "delivery_pct": 58.77
+    },
+    {
+      "date": "2026-02-25",
+      "close": 1400.5,
+      "prev_close": 1384.8,
+      "volume": 16297015,
+      "deliverable_qty": 11372305,
+      "delivery_pct": 69.78
+    },
+    {
+      "date": "2026-02-26",
+      "close": 1404.9,
+      "prev_close": 1400.5,
+      "volume": 27288792,
+      "deliverable_qty": 15050672,
+      "delivery_pct": 55.15
+    },
+    {
+      "date": "2026-02-27",
+      "close": 1378.9,
+      "prev_close": 1404.9,
+      "volume": 15096898,
+      "deliverable_qty": 11527766,
+      "delivery_pct": 76.36
+    },
+    {
+      "date": "2026-03-02",
+      "close": 1374.0,
+      "prev_close": 1378.9,
+      "volume": 16928683,
+      "deliverable_qty": 8352909,
+      "delivery_pct": 49.34
+    },
+    {
+      "date": "2026-03-04",
+      "close": 1365.4,
+      "prev_close": 1374.0,
+      "volume": 20009132,
+      "deliverable_qty": 12565957,
+      "delivery_pct": 62.8
+    },
+    {
+      "date": "2026-03-05",
+      "close": 1357.6,
+      "prev_close": 1365.4,
+      "volume": 17590491,
+      "deliverable_qty": 7633505,
+      "delivery_pct": 43.4
+    },
+    {
+      "date": "2026-03-06",
+      "close": 1313.4,
+      "prev_close": 1357.6,
+      "volume": 22778852,
+      "deliverable_qty": 13681690,
+      "delivery_pct": 60.06
+    },
+    {
+      "date": "2026-03-09",
+      "close": 1278.4,
+      "prev_close": 1313.4,
+      "volume": 16116652,
+      "deliverable_qty": 9226113,
+      "delivery_pct": 57.25
+    },
+    {
+      "date": "2026-03-10",
+      "close": 1311.9,
+      "prev_close": 1278.4,
+      "volume": 19136143,
+      "deliverable_qty": 9104535,
+      "delivery_pct": 47.58
+    },
+    {
+      "date": "2026-03-11",
+      "close": 1294.6,
+      "prev_close": 1311.9,
+      "volume": 13224259,
+      "deliverable_qty": 6977904,
+      "delivery_pct": 52.77
+    },
+    {
+      "date": "2026-03-12",
+      "close": 1266.5,
+      "prev_close": 1294.6,
+      "volume": 19676187,
+      "deliverable_qty": 10259179,
+      "delivery_pct": 52.14
+    },
+    {
+      "date": "2026-03-13",
+      "close": 1254.8,
+      "prev_close": 1266.5,
+      "volume": 17344394,
+      "deliverable_qty": 10565554,
+      "delivery_pct": 60.92
+    },
+    {
+      "date": "2026-03-16",
+      "close": 1272.9,
+      "prev_close": 1254.8,
+      "volume": 22740688,
+      "deliverable_qty": 13112471,
+      "delivery_pct": 57.66
+    },
+    {
+      "date": "2026-03-17",
+      "close": 1288.7,
+      "prev_close": 1272.9,
+      "volume": 22303102,
+      "deliverable_qty": 9699357,
+      "delivery_pct": 43.49
+    },
+    {
+      "date": "2026-03-18",
+      "close": 1289.3,
+      "prev_close": 1288.7,
+      "volume": 12961135,
+      "deliverable_qty": 8074954,
+      "delivery_pct": 62.3
+    },
+    {
+      "date": "2026-03-19",
+      "close": 1250.1,
+      "prev_close": 1289.3,
+      "volume": 14422899,
+      "deliverable_qty": 6590960,
+      "delivery_pct": 45.7
+    },
+    {
+      "date": "2026-03-20",
+      "close": 1245.4,
+      "prev_close": 1250.1,
+      "volume": 16421006,
+      "deliverable_qty": 11685036,
+      "delivery_pct": 71.16
+    },
+    {
+      "date": "2026-03-23",
+      "close": 1222.7,
+      "prev_close": 1245.4,
+      "volume": 17049534,
+      "deliverable_qty": 11639598,
+      "delivery_pct": 68.27
+    },
+    {
+      "date": "2026-03-24",
+      "close": 1251.2,
+      "prev_close": 1222.7,
+      "volume": 20617782,
+      "deliverable_qty": 11475766,
+      "delivery_pct": 55.66
+    },
+    {
+      "date": "2026-03-25",
+      "close": 1259.7,
+      "prev_close": 1251.2,
+      "volume": 17290030,
+      "deliverable_qty": 8656583,
+      "delivery_pct": 50.07
+    },
+    {
+      "date": "2026-03-27",
+      "close": 1233.8,
+      "prev_close": 1259.7,
+      "volume": 23630905,
+      "deliverable_qty": 16867704,
+      "delivery_pct": 71.38
+    },
+    {
+      "date": "2026-03-30",
+      "close": 1205.9,
+      "prev_close": 1233.8,
+      "volume": 23952775,
+      "deliverable_qty": 9392575,
+      "delivery_pct": 39.21
+    },
+    {
+      "date": "2026-04-01",
+      "close": 1212.7,
+      "prev_close": 1205.9,
+      "volume": 25472333,
+      "deliverable_qty": 16773079,
+      "delivery_pct": 65.85
+    },
+    {
+      "date": "2026-04-02",
+      "close": 1215.8,
+      "prev_close": 1212.7,
+      "volume": 20851722,
+      "deliverable_qty": 9640544,
+      "delivery_pct": 46.23
+    },
+    {
+      "date": "2026-04-06",
+      "close": 1231.4,
+      "prev_close": 1215.8,
+      "volume": 10058414,
+      "deliverable_qty": 5872971,
+      "delivery_pct": 58.39
+    },
+    {
+      "date": "2026-04-07",
+      "close": 1245.5,
+      "prev_close": 1231.4,
+      "volume": 25600557,
+      "deliverable_qty": 15805155,
+      "delivery_pct": 61.74
+    },
+    {
+      "date": "2026-04-08",
+      "close": 1309.2,
+      "prev_close": 1245.5,
+      "volume": 25148651,
+      "deliverable_qty": 14746595,
+      "delivery_pct": 58.64
+    },
+    {
+      "date": "2026-04-09",
+      "close": 1281.3,
+      "prev_close": 1309.2,
+      "volume": 22923062,
+      "deliverable_qty": 10338289,
+      "delivery_pct": 45.1
+    },
+    {
+      "date": "2026-04-10",
+      "close": 1321.9,
+      "prev_close": 1281.3,
+      "volume": 18174755,
+      "deliverable_qty": 10695254,
+      "delivery_pct": 58.85
+    },
+    {
+      "date": "2026-04-13",
+      "close": 1351.1,
+      "prev_close": 1321.9,
+      "volume": 30572141,
+      "deliverable_qty": 18870489,
+      "delivery_pct": 61.72
+    },
+    {
+      "date": "2026-04-15",
+      "close": 1348.1,
+      "prev_close": 1351.1,
+      "volume": 23827473,
+      "deliverable_qty": 13238363,
+      "delivery_pct": 55.56
+    },
+    {
+      "date": "2026-04-16",
+      "close": 1345.5,
+      "prev_close": 1348.1,
+      "volume": 24017236,
+      "deliverable_qty": 7248933,
+      "delivery_pct": 30.18
+    },
+    {
+      "date": "2026-04-17",
+      "close": 1346.8,
+      "prev_close": 1345.5,
+      "volume": 18151993,
+      "deliverable_qty": 10717365,
+      "delivery_pct": 59.04
+    },
+    {
+      "date": "2026-04-22",
+      "close": 1367.6,
+      "prev_close": 1388.4,
+      "volume": 13613487,
+      "deliverable_qty": 8876042,
+      "delivery_pct": 65.2
+    },
+    {
+      "date": "2026-04-23",
+      "close": 1348.0,
+      "prev_close": 1367.6,
+      "volume": 20111792,
+      "deliverable_qty": 12748765,
+      "delivery_pct": 63.39
+    },
+    {
+      "date": "2026-04-24",
+      "close": 1326.2,
+      "prev_close": 1348.0,
+      "volume": 14056743,
+      "deliverable_qty": 11027327,
+      "delivery_pct": 78.45
+    },
+    {
+      "date": "2026-04-27",
+      "close": 1314.1,
+      "prev_close": 1326.2,
+      "volume": 15385625,
+      "deliverable_qty": 10123366,
+      "delivery_pct": 65.8
+    },
+    {
+      "date": "2026-04-28",
+      "close": 1292.0,
+      "prev_close": 1314.1,
+      "volume": 16774778,
+      "deliverable_qty": 8021364,
+      "delivery_pct": 47.82
+    },
+    {
+      "date": "2026-04-29",
+      "close": 1281.0,
+      "prev_close": 1292.0,
+      "volume": 11716030,
+      "deliverable_qty": 7165480,
+      "delivery_pct": 61.16
+    },
+    {
+      "date": "2026-04-30",
+      "close": 1263.4,
+      "prev_close": 1281.0,
+      "volume": 17740110,
+      "deliverable_qty": 8202254,
+      "delivery_pct": 46.24
+    },
+    {
+      "date": "2026-05-04",
+      "close": 1270.8,
+      "prev_close": 1263.4,
+      "volume": 14597051,
+      "deliverable_qty": 9584278,
+      "delivery_pct": 65.66
+    },
+    {
+      "date": "2026-05-05",
+      "close": 1251.3,
+      "prev_close": 1270.8,
+      "volume": 24447935,
+      "deliverable_qty": 12474285,
+      "delivery_pct": 51.02
+    },
+    {
+      "date": "2026-05-06",
+      "close": 1279.5,
+      "prev_close": 1251.3,
+      "volume": 22909586,
+      "deliverable_qty": 14357538,
+      "delivery_pct": 62.67
+    },
+    {
+      "date": "2026-05-07",
+      "close": 1279.0,
+      "prev_close": 1279.5,
+      "volume": 25028552,
+      "deliverable_qty": 8764222,
+      "delivery_pct": 35.02
+    },
+    {
+      "date": "2026-05-08",
+      "close": 1264.8,
+      "prev_close": 1279.0,
+      "volume": 11137424,
+      "deliverable_qty": 7574037,
+      "delivery_pct": 68.01
+    },
+    {
+      "date": "2026-05-11",
+      "close": 1266.4,
+      "prev_close": 1264.8,
+      "volume": 18980488,
+      "deliverable_qty": 12590590,
+      "delivery_pct": 66.33
+    }
+  ],
+  "news": [
+    {
+      "sort_date": "2026-05-08 12:30:00",
+      "an_dt": "08-May-2026 12:30:00",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_08052026122938_Lettertoexchange.pdf"
+    },
+    {
+      "sort_date": "2026-05-07 14:39:55",
+      "an_dt": "07-May-2026 14:39:55",
+      "desc": "General Updates",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_07052026143450_NSEBSE_07052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-05 16:06:22",
+      "an_dt": "05-May-2026 16:06:22",
+      "desc": "General Updates",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_05052026160608_NSEBSE_05052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-05 14:19:56",
+      "an_dt": "05-May-2026 14:19:56",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_05052026141930_Letterto_exchange.pdf"
+    },
+    {
+      "sort_date": "2026-05-02 12:36:06",
+      "an_dt": "02-May-2026 12:36:06",
+      "desc": "Change in Director(s)",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_02052026123301_NSEBSE_02052026.pdf"
+    },
+    {
+      "sort_date": "2026-04-30 12:12:12",
+      "an_dt": "30-Apr-2026 12:12:12",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_30042026121202_Lettertoexchange.pdf"
+    },
+    {
+      "sort_date": "2026-04-28 11:41:51",
+      "an_dt": "28-Apr-2026 11:41:51",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_28042026114137_Lettertoexchange.pdf"
+    },
+    {
+      "sort_date": "2026-04-25 15:05:46",
+      "an_dt": "25-Apr-2026 15:05:46",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_25042026150459_StockExchangedisclosureonsakshamNiveshak.pdf"
+    },
+    {
+      "sort_date": "2026-04-25 14:17:07",
+      "an_dt": "25-Apr-2026 14:17:07",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_25042026141546_StockExchangedisclosureonspecialwindow.pdf"
+    },
+    {
+      "sort_date": "2026-04-24 13:55:44",
+      "an_dt": "24-Apr-2026 13:55:44",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_24042026135323_NSEBSE_24042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-24 11:12:30",
+      "an_dt": "24-Apr-2026 11:12:30",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_24042026111213_Lettertoexchange.pdf"
+    },
+    {
+      "sort_date": "2026-04-21 12:03:19",
+      "an_dt": "21-Apr-2026 12:03:19",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_21042026120010_Lettertoexchange.pdf"
+    },
+    {
+      "sort_date": "2026-04-18 21:53:33",
+      "an_dt": "18-Apr-2026 21:53:33",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_18042026215028_NSEBSE.pdf"
+    },
+    {
+      "sort_date": "2026-04-18 16:38:41",
+      "an_dt": "18-Apr-2026 16:38:41",
+      "desc": "Investor Presentation",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_18042026163627_NSEBSE_18042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-18 15:21:44",
+      "an_dt": "18-Apr-2026 15:21:44",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_18042026151613_NSEBSE_18042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-18 15:13:36",
+      "an_dt": "18-Apr-2026 15:13:36",
+      "desc": "Dividend",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_18042026150959_NSEBSE_18042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-18 14:59:55",
+      "an_dt": "18-Apr-2026 14:59:55",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_18042026145407_NSEBSE_18042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-17 12:15:11",
+      "an_dt": "17-Apr-2026 12:15:11",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_17042026121419_Lettertoexchange.pdf"
+    },
+    {
+      "sort_date": "2026-04-13 19:10:38",
+      "an_dt": "13-Apr-2026 19:10:38",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_13042026190823_BSENSE_13042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-13 19:05:28",
+      "an_dt": "13-Apr-2026 19:05:28",
+      "desc": "General Updates",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_13042026190428_BSENSE_13042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-10 11:09:04",
+      "an_dt": "10-Apr-2026 11:09:04",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_10042026110842_Lettertoexchange.pdf"
+    },
+    {
+      "sort_date": "2026-04-08 19:02:23",
+      "an_dt": "08-Apr-2026 19:02:23",
+      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_08042026190033_Regulation74_5_CertificateNSEBSE20250331.pdf"
+    },
+    {
+      "sort_date": "2026-04-08 18:57:29",
+      "an_dt": "08-Apr-2026 18:57:29",
+      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_08042026185556_Regulation74_5_CertificateBSENSE20250331.pdf"
+    },
+    {
+      "sort_date": "2026-04-07 12:07:31",
+      "an_dt": "07-Apr-2026 12:07:31",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_07042026120642_Lettertoexchange.pdf"
+    },
+    {
+      "sort_date": "2026-04-02 11:54:36",
+      "an_dt": "02-Apr-2026 11:54:36",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_02042026115406_Lettertoexchange.pdf"
+    },
+    {
+      "sort_date": "2026-04-01 19:40:11",
+      "an_dt": "01-Apr-2026 19:40:11",
+      "desc": "Updates",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_01042026193925_NSEBSE_01042026.pdf"
+    },
+    {
+      "sort_date": "2026-03-25 19:44:21",
+      "an_dt": "25-Mar-2026 19:44:21",
+      "desc": "General Updates",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_25032026194258_BSENSE.pdf"
+    },
+    {
+      "sort_date": "2026-03-25 18:34:20",
+      "an_dt": "25-Mar-2026 18:34:20",
+      "desc": "General Updates",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_25032026183337_NSEBSE.pdf"
+    },
+    {
+      "sort_date": "2026-03-25 11:46:33",
+      "an_dt": "25-Mar-2026 11:46:33",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_25032026114617_Lettertoexchange.pdf"
+    },
+    {
+      "sort_date": "2026-03-20 11:20:09",
+      "an_dt": "20-Mar-2026 11:20:09",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_20032026111958_Lettertoexchange.pdf"
+    },
+    {
+      "sort_date": "2026-03-19 15:11:44",
+      "an_dt": "19-Mar-2026 15:11:44",
+      "desc": "Updates",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_19032026151044_NSEBSE_19032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-18 17:57:41",
+      "an_dt": "18-Mar-2026 17:57:41",
+      "desc": "General Updates",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_18032026175659_NSEBSE_18032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-18 16:35:06",
+      "an_dt": "18-Mar-2026 16:35:06",
+      "desc": "Trading Window",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_18032026163355_NSEBSE_18032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-17 11:05:52",
+      "an_dt": "17-Mar-2026 11:05:52",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_17032026110536_Lettertoexchange.pdf"
+    },
+    {
+      "sort_date": "2026-03-16 18:25:25",
+      "an_dt": "16-Mar-2026 18:25:25",
+      "desc": "General Updates",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_16032026182455_BSENSE.pdf"
+    },
+    {
+      "sort_date": "2026-03-13 10:52:24",
+      "an_dt": "13-Mar-2026 10:52:24",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_13032026105152_LettertoStockExchange.pdf"
+    },
+    {
+      "sort_date": "2026-03-09 17:44:00",
+      "an_dt": "09-Mar-2026 17:44:00",
+      "desc": "General Updates",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_09032026174303_BSENSE.pdf"
+    },
+    {
+      "sort_date": "2026-03-09 17:24:56",
+      "an_dt": "09-Mar-2026 17:24:56",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_09032026172314_LETTER_TO_STOCK_EXCHNAGE1.pdf"
+    },
+    {
+      "sort_date": "2026-03-04 17:05:44",
+      "an_dt": "04-Mar-2026 17:05:44",
+      "desc": "General Updates",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_04032026170308_BSENSE.pdf"
+    },
+    {
+      "sort_date": "2026-03-04 11:31:41",
+      "an_dt": "04-Mar-2026 11:31:41",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_04032026113131_Lettertoexchange.pdf"
+    },
+    {
+      "sort_date": "2026-03-02 21:56:04",
+      "an_dt": "02-Mar-2026 21:56:04",
+      "desc": "Updates",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_02032026215413_NSEBSE_02032026.pdf"
+    },
+    {
+      "sort_date": "2026-02-28 11:36:01",
+      "an_dt": "28-Feb-2026 11:36:01",
+      "desc": "General Updates",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_28022026113504_NSEBSE_28022026.pdf"
+    },
+    {
+      "sort_date": "2026-02-28 11:27:01",
+      "an_dt": "28-Feb-2026 11:27:01",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_28022026112310_NSEBSE_28022026.pdf"
+    },
+    {
+      "sort_date": "2026-02-27 11:26:50",
+      "an_dt": "27-Feb-2026 11:26:50",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_27022026112627_Lettertoexchange.pdf"
+    },
+    {
+      "sort_date": "2026-02-25 19:50:19",
+      "an_dt": "25-Feb-2026 19:50:19",
+      "desc": "Shareholders meeting",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_25022026194555_NSEBSE.pdf"
+    },
+    {
+      "sort_date": "2026-02-24 11:04:03",
+      "an_dt": "24-Feb-2026 11:04:03",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_24022026110342_Lettertoexchange.pdf"
+    },
+    {
+      "sort_date": "2026-02-22 10:59:53",
+      "an_dt": "22-Feb-2026 10:59:53",
+      "desc": "Updates",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_22022026105651_NSEBSE_220226.pdf"
+    },
+    {
+      "sort_date": "2026-02-20 10:59:27",
+      "an_dt": "20-Feb-2026 10:59:27",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_20022026105855_LETTER_TO_EXCHANGE.pdf"
+    },
+    {
+      "sort_date": "2026-02-17 12:47:23",
+      "an_dt": "17-Feb-2026 12:47:23",
+      "desc": "General Updates",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_17022026124624_BSENSE.pdf"
+    },
+    {
+      "sort_date": "2026-02-17 11:30:46",
+      "an_dt": "17-Feb-2026 11:30:46",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_17022026113032_Lettertoexchange.pdf"
+    },
+    {
+      "sort_date": "2026-02-16 14:55:52",
+      "an_dt": "16-Feb-2026 14:55:52",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_16022026145449_Stock_Exchange_disclosure_on_special_window.pdf"
+    },
+    {
+      "sort_date": "2026-02-13 11:49:01",
+      "an_dt": "13-Feb-2026 11:49:01",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_13022026114816_Lettertoexchange.pdf"
+    },
+    {
+      "sort_date": "2026-02-11 21:00:13",
+      "an_dt": "11-Feb-2026 21:00:13",
+      "desc": "General Updates",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_11022026205922_BSENSE.pdf"
+    },
+    {
+      "sort_date": "2026-02-10 11:34:52",
+      "an_dt": "10-Feb-2026 11:34:52",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_10022026113415_LETTER_TO_STOCK_EXCHNAGE1.pdf"
+    }
+  ]
+}

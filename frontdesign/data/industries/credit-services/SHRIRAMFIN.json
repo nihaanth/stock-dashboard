@@ -1,0 +1,942 @@
+{
+  "symbol": "SHRIRAMFIN",
+  "name": "Shriram Finance Limited",
+  "industry": "Credit Services",
+  "industry_slug": "credit-services",
+  "sector": "Financial Services",
+  "isin": null,
+  "price": 1004.1,
+  "market_cap_cr": 236233.24,
+  "industry_source": "yfinance",
+  "as_of": "2026-05-11",
+  "window_days": 90,
+  "daily": [
+    {
+      "date": "2026-02-10",
+      "close": 1048.6,
+      "prev_close": 1062.7,
+      "volume": 4345362,
+      "deliverable_qty": 2410048,
+      "delivery_pct": 55.46
+    },
+    {
+      "date": "2026-02-11",
+      "close": 1056.8,
+      "prev_close": 1048.6,
+      "volume": 4898578,
+      "deliverable_qty": 3143963,
+      "delivery_pct": 64.18
+    },
+    {
+      "date": "2026-02-12",
+      "close": 1082.8,
+      "prev_close": 1056.8,
+      "volume": 8462756,
+      "deliverable_qty": 4699965,
+      "delivery_pct": 55.54
+    },
+    {
+      "date": "2026-02-13",
+      "close": 1065.8,
+      "prev_close": 1082.8,
+      "volume": 4555743,
+      "deliverable_qty": 2615249,
+      "delivery_pct": 57.41
+    },
+    {
+      "date": "2026-02-16",
+      "close": 1085.4,
+      "prev_close": 1065.8,
+      "volume": 5096496,
+      "deliverable_qty": 3025779,
+      "delivery_pct": 59.37
+    },
+    {
+      "date": "2026-02-17",
+      "close": 1075.0,
+      "prev_close": 1085.4,
+      "volume": 2832145,
+      "deliverable_qty": 1028441,
+      "delivery_pct": 36.31
+    },
+    {
+      "date": "2026-02-18",
+      "close": 1076.2,
+      "prev_close": 1075.0,
+      "volume": 2470593,
+      "deliverable_qty": 1382015,
+      "delivery_pct": 55.94
+    },
+    {
+      "date": "2026-02-19",
+      "close": 1054.7,
+      "prev_close": 1076.2,
+      "volume": 2576169,
+      "deliverable_qty": 1370309,
+      "delivery_pct": 53.19
+    },
+    {
+      "date": "2026-02-20",
+      "close": 1059.3,
+      "prev_close": 1054.7,
+      "volume": 2295049,
+      "deliverable_qty": 1157883,
+      "delivery_pct": 50.45
+    },
+    {
+      "date": "2026-02-23",
+      "close": 1064.7,
+      "prev_close": 1059.3,
+      "volume": 2423932,
+      "deliverable_qty": 1143029,
+      "delivery_pct": 47.16
+    },
+    {
+      "date": "2026-02-24",
+      "close": 1061.7,
+      "prev_close": 1064.7,
+      "volume": 2464507,
+      "deliverable_qty": 1342656,
+      "delivery_pct": 54.48
+    },
+    {
+      "date": "2026-02-25",
+      "close": 1085.9,
+      "prev_close": 1061.7,
+      "volume": 3115583,
+      "deliverable_qty": 1418172,
+      "delivery_pct": 45.52
+    },
+    {
+      "date": "2026-02-26",
+      "close": 1104.6,
+      "prev_close": 1085.9,
+      "volume": 5231414,
+      "deliverable_qty": 2624233,
+      "delivery_pct": 50.16
+    },
+    {
+      "date": "2026-02-27",
+      "close": 1079.4,
+      "prev_close": 1104.6,
+      "volume": 5601117,
+      "deliverable_qty": 3518304,
+      "delivery_pct": 62.81
+    },
+    {
+      "date": "2026-03-02",
+      "close": 1052.5,
+      "prev_close": 1079.4,
+      "volume": 6717872,
+      "deliverable_qty": 3948743,
+      "delivery_pct": 58.78
+    },
+    {
+      "date": "2026-03-04",
+      "close": 1010.0,
+      "prev_close": 1052.5,
+      "volume": 9200897,
+      "deliverable_qty": 5218410,
+      "delivery_pct": 56.72
+    },
+    {
+      "date": "2026-03-05",
+      "close": 1039.5,
+      "prev_close": 1010.0,
+      "volume": 5051614,
+      "deliverable_qty": 2722739,
+      "delivery_pct": 53.9
+    },
+    {
+      "date": "2026-03-06",
+      "close": 1007.5,
+      "prev_close": 1039.5,
+      "volume": 8166989,
+      "deliverable_qty": 5584082,
+      "delivery_pct": 68.37
+    },
+    {
+      "date": "2026-03-09",
+      "close": 987.2,
+      "prev_close": 1007.5,
+      "volume": 11999852,
+      "deliverable_qty": 7039762,
+      "delivery_pct": 58.67
+    },
+    {
+      "date": "2026-03-10",
+      "close": 1062.9,
+      "prev_close": 987.2,
+      "volume": 14297519,
+      "deliverable_qty": 5662265,
+      "delivery_pct": 39.6
+    },
+    {
+      "date": "2026-03-11",
+      "close": 1031.7,
+      "prev_close": 1062.9,
+      "volume": 10731059,
+      "deliverable_qty": 7179329,
+      "delivery_pct": 66.9
+    },
+    {
+      "date": "2026-03-12",
+      "close": 1031.7,
+      "prev_close": 1031.7,
+      "volume": 7054662,
+      "deliverable_qty": 3743561,
+      "delivery_pct": 53.07
+    },
+    {
+      "date": "2026-03-13",
+      "close": 1003.6,
+      "prev_close": 1031.7,
+      "volume": 6562852,
+      "deliverable_qty": 4104516,
+      "delivery_pct": 62.54
+    },
+    {
+      "date": "2026-03-16",
+      "close": 992.0,
+      "prev_close": 1003.6,
+      "volume": 10476354,
+      "deliverable_qty": 5154743,
+      "delivery_pct": 49.2
+    },
+    {
+      "date": "2026-03-17",
+      "close": 1004.6,
+      "prev_close": 992.0,
+      "volume": 4175225,
+      "deliverable_qty": 1650349,
+      "delivery_pct": 39.53
+    },
+    {
+      "date": "2026-03-18",
+      "close": 1021.6,
+      "prev_close": 1004.6,
+      "volume": 3915253,
+      "deliverable_qty": 1841662,
+      "delivery_pct": 47.04
+    },
+    {
+      "date": "2026-03-19",
+      "close": 949.8,
+      "prev_close": 1021.6,
+      "volume": 11956347,
+      "deliverable_qty": 6961313,
+      "delivery_pct": 58.22
+    },
+    {
+      "date": "2026-03-20",
+      "close": 938.6,
+      "prev_close": 949.8,
+      "volume": 28550627,
+      "deliverable_qty": 16283901,
+      "delivery_pct": 57.04
+    },
+    {
+      "date": "2026-03-23",
+      "close": 877.7,
+      "prev_close": 938.6,
+      "volume": 10556865,
+      "deliverable_qty": 5249063,
+      "delivery_pct": 49.72
+    },
+    {
+      "date": "2026-03-24",
+      "close": 903.6,
+      "prev_close": 877.7,
+      "volume": 13359073,
+      "deliverable_qty": 5642545,
+      "delivery_pct": 42.24
+    },
+    {
+      "date": "2026-03-25",
+      "close": 956.0,
+      "prev_close": 903.6,
+      "volume": 14265748,
+      "deliverable_qty": 8327017,
+      "delivery_pct": 58.37
+    },
+    {
+      "date": "2026-03-27",
+      "close": 903.8,
+      "prev_close": 956.0,
+      "volume": 12238678,
+      "deliverable_qty": 6338699,
+      "delivery_pct": 51.79
+    },
+    {
+      "date": "2026-03-30",
+      "close": 872.1,
+      "prev_close": 903.8,
+      "volume": 10949179,
+      "deliverable_qty": 5514027,
+      "delivery_pct": 50.36
+    },
+    {
+      "date": "2026-04-01",
+      "close": 900.55,
+      "prev_close": 872.1,
+      "volume": 11752172,
+      "deliverable_qty": 4239189,
+      "delivery_pct": 36.07
+    },
+    {
+      "date": "2026-04-02",
+      "close": 891.6,
+      "prev_close": 900.55,
+      "volume": 7230236,
+      "deliverable_qty": 3318451,
+      "delivery_pct": 45.9
+    },
+    {
+      "date": "2026-04-06",
+      "close": 928.0,
+      "prev_close": 891.6,
+      "volume": 5898399,
+      "deliverable_qty": 2237437,
+      "delivery_pct": 37.93
+    },
+    {
+      "date": "2026-04-07",
+      "close": 930.65,
+      "prev_close": 928.0,
+      "volume": 5503677,
+      "deliverable_qty": 2668750,
+      "delivery_pct": 48.49
+    },
+    {
+      "date": "2026-04-08",
+      "close": 1023.2,
+      "prev_close": 930.65,
+      "volume": 18256527,
+      "deliverable_qty": 8550795,
+      "delivery_pct": 46.84
+    },
+    {
+      "date": "2026-04-09",
+      "close": 996.3,
+      "prev_close": 1023.2,
+      "volume": 7668209,
+      "deliverable_qty": 3471819,
+      "delivery_pct": 45.28
+    },
+    {
+      "date": "2026-04-10",
+      "close": 1027.55,
+      "prev_close": 996.3,
+      "volume": 8048521,
+      "deliverable_qty": 3847265,
+      "delivery_pct": 47.8
+    },
+    {
+      "date": "2026-04-13",
+      "close": 1004.1,
+      "prev_close": 1027.55,
+      "volume": 8242484,
+      "deliverable_qty": 3968081,
+      "delivery_pct": 48.14
+    },
+    {
+      "date": "2026-04-15",
+      "close": 1020.95,
+      "prev_close": 1004.1,
+      "volume": 7869459,
+      "deliverable_qty": 4643166,
+      "delivery_pct": 59.0
+    },
+    {
+      "date": "2026-04-16",
+      "close": 1022.75,
+      "prev_close": 1020.95,
+      "volume": 5716035,
+      "deliverable_qty": 3062750,
+      "delivery_pct": 53.58
+    },
+    {
+      "date": "2026-04-17",
+      "close": 1036.95,
+      "prev_close": 1022.75,
+      "volume": 4345572,
+      "deliverable_qty": 2202530,
+      "delivery_pct": 50.68
+    },
+    {
+      "date": "2026-04-22",
+      "close": 1044.55,
+      "prev_close": 1045.3,
+      "volume": 4404420,
+      "deliverable_qty": 2127155,
+      "delivery_pct": 48.3
+    },
+    {
+      "date": "2026-04-23",
+      "close": 1009.3,
+      "prev_close": 1044.55,
+      "volume": 4658783,
+      "deliverable_qty": 2339635,
+      "delivery_pct": 50.22
+    },
+    {
+      "date": "2026-04-24",
+      "close": 1011.3,
+      "prev_close": 1009.3,
+      "volume": 9263466,
+      "deliverable_qty": 3147095,
+      "delivery_pct": 33.97
+    },
+    {
+      "date": "2026-04-27",
+      "close": 974.65,
+      "prev_close": 1011.3,
+      "volume": 15096574,
+      "deliverable_qty": 6968254,
+      "delivery_pct": 46.16
+    },
+    {
+      "date": "2026-04-28",
+      "close": 953.25,
+      "prev_close": 974.65,
+      "volume": 6752420,
+      "deliverable_qty": 3558369,
+      "delivery_pct": 52.7
+    },
+    {
+      "date": "2026-04-29",
+      "close": 956.85,
+      "prev_close": 953.25,
+      "volume": 5829309,
+      "deliverable_qty": 3171391,
+      "delivery_pct": 54.4
+    },
+    {
+      "date": "2026-04-30",
+      "close": 937.35,
+      "prev_close": 956.85,
+      "volume": 5990764,
+      "deliverable_qty": 2887432,
+      "delivery_pct": 48.2
+    },
+    {
+      "date": "2026-05-04",
+      "close": 960.45,
+      "prev_close": 937.35,
+      "volume": 4018048,
+      "deliverable_qty": 1782263,
+      "delivery_pct": 44.36
+    },
+    {
+      "date": "2026-05-05",
+      "close": 964.4,
+      "prev_close": 960.45,
+      "volume": 4029508,
+      "deliverable_qty": 1689648,
+      "delivery_pct": 41.93
+    },
+    {
+      "date": "2026-05-06",
+      "close": 1004.1,
+      "prev_close": 964.4,
+      "volume": 5858946,
+      "deliverable_qty": 3286591,
+      "delivery_pct": 56.1
+    },
+    {
+      "date": "2026-05-07",
+      "close": 1015.65,
+      "prev_close": 1004.1,
+      "volume": 4848929,
+      "deliverable_qty": 2703716,
+      "delivery_pct": 55.76
+    },
+    {
+      "date": "2026-05-08",
+      "close": 1007.75,
+      "prev_close": 1015.65,
+      "volume": 5755029,
+      "deliverable_qty": 4134519,
+      "delivery_pct": 71.84
+    },
+    {
+      "date": "2026-05-11",
+      "close": 975.95,
+      "prev_close": 1007.75,
+      "volume": 5927270,
+      "deliverable_qty": 3636876,
+      "delivery_pct": 61.36
+    }
+  ],
+  "news": [
+    {
+      "sort_date": "2026-05-11 18:41:11",
+      "an_dt": "11-May-2026 18:41:11",
+      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_11052026183936_BSENSE_1152026_74-5_Upload.pdf"
+    },
+    {
+      "sort_date": "2026-05-09 19:39:00",
+      "an_dt": "09-May-2026 19:39:00",
+      "desc": "Credit Rating- Revision",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_09052026193804_BSENSEMoodyscreditrating090526.pdf"
+    },
+    {
+      "sort_date": "2026-05-07 14:27:14",
+      "an_dt": "07-May-2026 14:27:14",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_07052026142655_NSEBSEAllotmentofESOSMay2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-05 18:05:22",
+      "an_dt": "05-May-2026 18:05:22",
+      "desc": "Allotment of Securities",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_05052026180502_BSENSE05052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-05 10:58:31",
+      "an_dt": "05-May-2026 10:58:31",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_15042026180050_SHRIRAMFIN.pdf"
+    },
+    {
+      "sort_date": "2026-05-04 16:27:39",
+      "an_dt": "04-May-2026 16:27:39",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_04052026162648_BSENSE_Transcript_Earnings_call_Q4.pdf"
+    },
+    {
+      "sort_date": "2026-04-29 16:39:50",
+      "an_dt": "29-Apr-2026 16:39:50",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_29042026163921_BSENSESakshamNiveshak.pdf"
+    },
+    {
+      "sort_date": "2026-04-24 23:14:46",
+      "an_dt": "24-Apr-2026 23:14:46",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_24042026231407_BSENSE_Audio_link_Conference_call_Q4_FY_25_26.pdf"
+    },
+    {
+      "sort_date": "2026-04-24 19:12:37",
+      "an_dt": "24-Apr-2026 19:12:37",
+      "desc": "Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_24042026190520_BSENSERecord_DateBookClosure_Date_Intimation24042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-24 18:59:57",
+      "an_dt": "24-Apr-2026 18:59:57",
+      "desc": "Record Date",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_24042026185356_BSENSERecord_DateBookClosure_Date_Intimation24042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-24 18:12:20",
+      "an_dt": "24-Apr-2026 18:12:20",
+      "desc": "Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_24042026181139_BSENSE024042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-24 16:12:02",
+      "an_dt": "24-Apr-2026 16:12:02",
+      "desc": "Change in Auditors",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_24042026161145_NSEBSEOUTCOMEOFBMAPRIL2026.pdf"
+    },
+    {
+      "sort_date": "2026-04-24 16:12:02",
+      "an_dt": "24-Apr-2026 16:12:02",
+      "desc": "Cessation",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_24042026160915_NSEBSEOUTCOMEOFBMAPRIL2026.pdf"
+    },
+    {
+      "sort_date": "2026-04-24 16:05:49",
+      "an_dt": "24-Apr-2026 16:05:49",
+      "desc": "Change in Director(s)",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_24042026160536_NSEBSEOUTCOMEOFBMAPRIL2026.pdf"
+    },
+    {
+      "sort_date": "2026-04-24 15:54:50",
+      "an_dt": "24-Apr-2026 15:54:50",
+      "desc": "Investor Presentation",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_24042026155423_NSEBSEOUTCOMEOFBMAPRIL2026.pdf"
+    },
+    {
+      "sort_date": "2026-04-24 15:54:50",
+      "an_dt": "24-Apr-2026 15:54:50",
+      "desc": "Press Release",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_24042026155254_NSEBSEOUTCOMEOFBMAPRIL2026.pdf"
+    },
+    {
+      "sort_date": "2026-04-24 15:26:33",
+      "an_dt": "24-Apr-2026 15:26:33",
+      "desc": "Dividend",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_24042026152617_NSEBSEOUTCOMEOFBM.pdf"
+    },
+    {
+      "sort_date": "2026-04-24 15:15:13",
+      "an_dt": "24-Apr-2026 15:15:13",
+      "desc": "Appointment",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_24042026151258_NSEBSEapptofnomineedirectors.pdf"
+    },
+    {
+      "sort_date": "2026-04-24 15:05:55",
+      "an_dt": "24-Apr-2026 15:05:55",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_24042026150533_NSEBSEOUTCOMEOFBM.pdf"
+    },
+    {
+      "sort_date": "2026-04-22 17:04:43",
+      "an_dt": "22-Apr-2026 17:04:43",
+      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_22042026170427_BSENSE_Upload.pdf"
+    },
+    {
+      "sort_date": "2026-04-21 17:45:46",
+      "an_dt": "21-Apr-2026 17:45:46",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_21042026174523_Analyst_Meet_21042026_Upload.pdf"
+    },
+    {
+      "sort_date": "2026-04-17 14:22:02",
+      "an_dt": "17-Apr-2026 14:22:02",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_17042026142154_NSEBSE_Concall_Invite.pdf"
+    },
+    {
+      "sort_date": "2026-04-15 15:22:54",
+      "an_dt": "15-Apr-2026 15:22:54",
+      "desc": "General Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_15042026152216_NSEBSEIntimationInprincipleapprovalofRBIPDlicense.pdf"
+    },
+    {
+      "sort_date": "2026-04-15 14:35:54",
+      "an_dt": "15-Apr-2026 14:35:54",
+      "desc": "General Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_15042026143141_NSEBSEIntimationInprincipalapprovalofRBIPDlicense.pdf"
+    },
+    {
+      "sort_date": "2026-04-14 16:21:02",
+      "an_dt": "14-Apr-2026 16:21:02",
+      "desc": "Credit Rating- Revision",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_14042026162052_FitchBSENSEcreditrating14042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-10 22:05:19",
+      "an_dt": "10-Apr-2026 22:05:19",
+      "desc": "Credit Rating- Revision",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_10042026220448_BSENSEIntimationofCreditRatingIndiarating10042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-10 16:52:36",
+      "an_dt": "10-Apr-2026 16:52:36",
+      "desc": "General Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_10042026165226_Intimationbsensetradingapproval.pdf"
+    },
+    {
+      "sort_date": "2026-04-10 07:26:16",
+      "an_dt": "10-Apr-2026 07:26:16",
+      "desc": "Credit Rating- Revision",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_10042026072554_BSENSEIntimationofCreditRatingCrisil1042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-09 21:42:49",
+      "an_dt": "09-Apr-2026 21:42:49",
+      "desc": "Credit Rating",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_09042026214224_BSENSEIntimationofCreditRatingICRA09042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-08 14:32:42",
+      "an_dt": "08-Apr-2026 14:32:42",
+      "desc": "Press Release",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_08042026143229_NSEBSEPressReleaseMUFG.pdf"
+    },
+    {
+      "sort_date": "2026-04-08 10:46:44",
+      "an_dt": "08-Apr-2026 10:46:44",
+      "desc": "Allotment of Securities",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_08042026104634_BSENSEIntimationofAllotment.pdf"
+    },
+    {
+      "sort_date": "2026-04-08 10:41:14",
+      "an_dt": "08-Apr-2026 10:41:14",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_08042026104036_BSENSEIntimationofAllotment.pdf"
+    },
+    {
+      "sort_date": "2026-04-06 16:33:57",
+      "an_dt": "06-Apr-2026 16:33:57",
+      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_06042026163341_BSENSE_06042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-01 21:18:39",
+      "an_dt": "01-Apr-2026 21:18:39",
+      "desc": "Action(s) taken or orders passed",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_01042026211725_NSEBSEReg30PenaltyApril012026.pdf"
+    },
+    {
+      "sort_date": "2026-03-30 17:22:10",
+      "an_dt": "30-Mar-2026 17:22:10",
+      "desc": "Trading Window",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_30032026172156_BSENSETradingWindowClosure_March_26.pdf"
+    },
+    {
+      "sort_date": "2026-03-25 19:35:01",
+      "an_dt": "25-Mar-2026 19:35:01",
+      "desc": "General Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_25032026193428_BSENSEIntimationofCCIApproval.pdf"
+    },
+    {
+      "sort_date": "2026-03-25 17:01:20",
+      "an_dt": "25-Mar-2026 17:01:20",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_25032026170051_NSEBSE_Reg_30_Newspaper_Advertisement_Finalsigned.pdf"
+    },
+    {
+      "sort_date": "2026-03-20 20:39:43",
+      "an_dt": "20-Mar-2026 20:39:43",
+      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_20032026203853_BSENSE_74-5_Upload_2032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-20 17:33:28",
+      "an_dt": "20-Mar-2026 17:33:28",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_20032026173313_AnalystMeet2032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-20 17:33:28",
+      "an_dt": "20-Mar-2026 17:33:28",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_20032026173144_AnalystMeet2032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-20 17:33:28",
+      "an_dt": "20-Mar-2026 17:33:28",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_20032026173025_AnalystMeet2032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-12 19:06:35",
+      "an_dt": "12-Mar-2026 19:06:35",
+      "desc": "General Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_12032026190624_NSEBSEIntimationPDlicense.pdf"
+    },
+    {
+      "sort_date": "2026-03-11 18:39:51",
+      "an_dt": "11-Mar-2026 18:39:51",
+      "desc": "Diversification/Disinvestment",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_11032026183928_NSEBSEDisinvestmentbyShriramOverseas.pdf"
+    },
+    {
+      "sort_date": "2026-03-11 17:43:48",
+      "an_dt": "11-Mar-2026 17:43:48",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_11032026174338_AnalystMeet1132026.pdf"
+    },
+    {
+      "sort_date": "2026-03-11 12:30:20",
+      "an_dt": "11-Mar-2026 12:30:20",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_11032026122947_NSEBSEAllotmentofESOSMarch2026.pdf"
+    },
+    {
+      "sort_date": "2026-03-02 17:46:24",
+      "an_dt": "02-Mar-2026 17:46:24",
+      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_02032026174517_BSENSE_74_5_232026Upload.pdf"
+    },
+    {
+      "sort_date": "2026-02-27 20:31:51",
+      "an_dt": "27-Feb-2026 20:31:51",
+      "desc": "Action(s) taken or orders passed",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_27022026203115_NSEBSEReg30Penaltyfebruary27022026ff.pdf"
+    },
+    {
+      "sort_date": "2026-02-23 17:14:47",
+      "an_dt": "23-Feb-2026 17:14:47",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_23022026171401_BSENSE_Analyst_Meet23022026.pdf"
+    },
+    {
+      "sort_date": "2026-02-23 17:14:47",
+      "an_dt": "23-Feb-2026 17:14:47",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_23022026171302_BSENSE_Analyst_Meet23022026.pdf"
+    },
+    {
+      "sort_date": "2026-02-23 17:14:47",
+      "an_dt": "23-Feb-2026 17:14:47",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_23022026171019_BSENSE_Analyst_Meet23022026.pdf"
+    },
+    {
+      "sort_date": "2026-02-19 17:01:02",
+      "an_dt": "19-Feb-2026 17:01:02",
+      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_19022026170054_BSENSE_19022026.pdf"
+    },
+    {
+      "sort_date": "2026-02-18 18:32:26",
+      "an_dt": "18-Feb-2026 18:32:26",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_18022026183214_BSENSE_AnalystMeet18022026_2.pdf"
+    },
+    {
+      "sort_date": "2026-02-18 18:32:26",
+      "an_dt": "18-Feb-2026 18:32:26",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_18022026183115_BSENSE_AnalystMeet18022026_2.pdf"
+    },
+    {
+      "sort_date": "2026-02-18 18:32:26",
+      "an_dt": "18-Feb-2026 18:32:26",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_18022026183019_BSENSE_AnalystMeet18022026_2.pdf"
+    },
+    {
+      "sort_date": "2026-02-18 18:26:32",
+      "an_dt": "18-Feb-2026 18:26:32",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_18022026182618_BSENSE_AnalystMeet18022026_1.pdf"
+    },
+    {
+      "sort_date": "2026-02-18 18:26:32",
+      "an_dt": "18-Feb-2026 18:26:32",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_18022026182530_BSENSE_AnalystMeet18022026_1.pdf"
+    },
+    {
+      "sort_date": "2026-02-18 18:26:32",
+      "an_dt": "18-Feb-2026 18:26:32",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_18022026182440_BSENSE_AnalystMeet18022026_1.pdf"
+    },
+    {
+      "sort_date": "2026-02-18 18:26:32",
+      "an_dt": "18-Feb-2026 18:26:32",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_18022026182348_BSENSE_AnalystMeet18022026_1.pdf"
+    },
+    {
+      "sort_date": "2026-02-18 18:26:32",
+      "an_dt": "18-Feb-2026 18:26:32",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_18022026182245_BSENSE_AnalystMeet18022026_1.pdf"
+    },
+    {
+      "sort_date": "2026-02-18 18:26:32",
+      "an_dt": "18-Feb-2026 18:26:32",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_18022026182147_BSENSE_AnalystMeet18022026_1.pdf"
+    },
+    {
+      "sort_date": "2026-02-18 18:26:32",
+      "an_dt": "18-Feb-2026 18:26:32",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_18022026182055_BSENSE_AnalystMeet18022026_1.pdf"
+    },
+    {
+      "sort_date": "2026-02-17 20:41:35",
+      "an_dt": "17-Feb-2026 20:41:35",
+      "desc": "Credit Rating- New",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_17022026204122_BSENSECreditRatingIndiaRatings170226.pdf"
+    },
+    {
+      "sort_date": "2026-02-17 14:53:08",
+      "an_dt": "17-Feb-2026 14:53:08",
+      "desc": "Credit Rating",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_17022026145258_BSENSEIntimationofCreditRatingCARE170226.pdf"
+    },
+    {
+      "sort_date": "2026-02-13 18:00:49",
+      "an_dt": "13-Feb-2026 18:00:49",
+      "desc": "Credit Rating- New",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_13022026180028_BSENSEIntimationofCreditRatingCARE1302026.pdf"
+    },
+    {
+      "sort_date": "2026-02-13 17:50:59",
+      "an_dt": "13-Feb-2026 17:50:59",
+      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_13022026175048_BSENSE_13022026.pdf"
+    },
+    {
+      "sort_date": "2026-02-13 14:16:13",
+      "an_dt": "13-Feb-2026 14:16:13",
+      "desc": "General Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_13022026141415_Draft_BSENSERBIcommunicationFeb13.pdf"
+    },
+    {
+      "sort_date": "2026-02-13 09:28:32",
+      "an_dt": "13-Feb-2026 09:28:32",
+      "desc": "General Updates",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_13022026092816_BSENSEIntimationunderReg30.pdf"
+    }
+  ]
+}

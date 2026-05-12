@@ -1,0 +1,725 @@
+{
+  "symbol": "FINKURVE",
+  "name": "Finkurve Financial Services Limited",
+  "industry": "Credit Services",
+  "industry_slug": "credit-services",
+  "sector": "Financial Services",
+  "isin": null,
+  "price": 63.16,
+  "market_cap_cr": 886.34,
+  "industry_source": "yfinance",
+  "as_of": "2026-05-11",
+  "window_days": 90,
+  "daily": [
+    {
+      "date": "2026-02-10",
+      "close": 93.46,
+      "prev_close": 93.27,
+      "volume": 22670,
+      "deliverable_qty": 7506,
+      "delivery_pct": 33.11
+    },
+    {
+      "date": "2026-02-11",
+      "close": 92.94,
+      "prev_close": 93.46,
+      "volume": 32139,
+      "deliverable_qty": 4934,
+      "delivery_pct": 15.35
+    },
+    {
+      "date": "2026-02-12",
+      "close": 87.97,
+      "prev_close": 92.94,
+      "volume": 17136,
+      "deliverable_qty": 7478,
+      "delivery_pct": 43.64
+    },
+    {
+      "date": "2026-02-13",
+      "close": 84.5,
+      "prev_close": 87.97,
+      "volume": 12220,
+      "deliverable_qty": 8687,
+      "delivery_pct": 71.09
+    },
+    {
+      "date": "2026-02-16",
+      "close": 82.96,
+      "prev_close": 84.5,
+      "volume": 8434,
+      "deliverable_qty": 5511,
+      "delivery_pct": 65.34
+    },
+    {
+      "date": "2026-02-17",
+      "close": 81.04,
+      "prev_close": 82.96,
+      "volume": 11436,
+      "deliverable_qty": 6146,
+      "delivery_pct": 53.74
+    },
+    {
+      "date": "2026-02-18",
+      "close": 79.99,
+      "prev_close": 81.04,
+      "volume": 16619,
+      "deliverable_qty": 7479,
+      "delivery_pct": 45.0
+    },
+    {
+      "date": "2026-02-19",
+      "close": 79.15,
+      "prev_close": 79.99,
+      "volume": 10142,
+      "deliverable_qty": 7265,
+      "delivery_pct": 71.63
+    },
+    {
+      "date": "2026-02-20",
+      "close": 81.17,
+      "prev_close": 79.15,
+      "volume": 9156,
+      "deliverable_qty": 3756,
+      "delivery_pct": 41.02
+    },
+    {
+      "date": "2026-02-23",
+      "close": 81.98,
+      "prev_close": 81.17,
+      "volume": 8325,
+      "deliverable_qty": 6784,
+      "delivery_pct": 81.49
+    },
+    {
+      "date": "2026-02-24",
+      "close": 81.78,
+      "prev_close": 81.98,
+      "volume": 8665,
+      "deliverable_qty": 4672,
+      "delivery_pct": 53.92
+    },
+    {
+      "date": "2026-02-25",
+      "close": 79.93,
+      "prev_close": 81.78,
+      "volume": 21299,
+      "deliverable_qty": 11201,
+      "delivery_pct": 52.59
+    },
+    {
+      "date": "2026-02-26",
+      "close": 77.44,
+      "prev_close": 79.93,
+      "volume": 12850,
+      "deliverable_qty": 7382,
+      "delivery_pct": 57.45
+    },
+    {
+      "date": "2026-02-27",
+      "close": 77.93,
+      "prev_close": 77.44,
+      "volume": 4547,
+      "deliverable_qty": 3856,
+      "delivery_pct": 84.8
+    },
+    {
+      "date": "2026-03-02",
+      "close": 66.85,
+      "prev_close": 77.93,
+      "volume": 494455,
+      "deliverable_qty": 276370,
+      "delivery_pct": 55.89
+    },
+    {
+      "date": "2026-03-04",
+      "close": 69.74,
+      "prev_close": 66.85,
+      "volume": 98769,
+      "deliverable_qty": 29257,
+      "delivery_pct": 29.62
+    },
+    {
+      "date": "2026-03-05",
+      "close": 66.91,
+      "prev_close": 69.74,
+      "volume": 46057,
+      "deliverable_qty": 10828,
+      "delivery_pct": 23.51
+    },
+    {
+      "date": "2026-03-06",
+      "close": 64.32,
+      "prev_close": 66.91,
+      "volume": 66121,
+      "deliverable_qty": 43783,
+      "delivery_pct": 66.22
+    },
+    {
+      "date": "2026-03-09",
+      "close": 62.17,
+      "prev_close": 64.32,
+      "volume": 52807,
+      "deliverable_qty": 27282,
+      "delivery_pct": 51.66
+    },
+    {
+      "date": "2026-03-10",
+      "close": 62.31,
+      "prev_close": 62.17,
+      "volume": 19769,
+      "deliverable_qty": 7422,
+      "delivery_pct": 37.54
+    },
+    {
+      "date": "2026-03-11",
+      "close": 59.29,
+      "prev_close": 62.31,
+      "volume": 212194,
+      "deliverable_qty": 175002,
+      "delivery_pct": 82.47
+    },
+    {
+      "date": "2026-03-12",
+      "close": 59.99,
+      "prev_close": 59.29,
+      "volume": 184186,
+      "deliverable_qty": 134070,
+      "delivery_pct": 72.79
+    },
+    {
+      "date": "2026-03-13",
+      "close": 57.71,
+      "prev_close": 59.99,
+      "volume": 45251,
+      "deliverable_qty": 21746,
+      "delivery_pct": 48.06
+    },
+    {
+      "date": "2026-03-16",
+      "close": 56.78,
+      "prev_close": 57.71,
+      "volume": 52150,
+      "deliverable_qty": 42113,
+      "delivery_pct": 80.75
+    },
+    {
+      "date": "2026-03-17",
+      "close": 55.48,
+      "prev_close": 56.78,
+      "volume": 76486,
+      "deliverable_qty": 33496,
+      "delivery_pct": 43.79
+    },
+    {
+      "date": "2026-03-18",
+      "close": 56.79,
+      "prev_close": 55.48,
+      "volume": 79129,
+      "deliverable_qty": 44941,
+      "delivery_pct": 56.79
+    },
+    {
+      "date": "2026-03-19",
+      "close": 65.6,
+      "prev_close": 56.79,
+      "volume": 489058,
+      "deliverable_qty": 154607,
+      "delivery_pct": 31.61
+    },
+    {
+      "date": "2026-03-20",
+      "close": 55.36,
+      "prev_close": 65.6,
+      "volume": 1587499,
+      "deliverable_qty": 347486,
+      "delivery_pct": 21.89
+    },
+    {
+      "date": "2026-03-23",
+      "close": 56.94,
+      "prev_close": 55.36,
+      "volume": 876359,
+      "deliverable_qty": 236370,
+      "delivery_pct": 26.97
+    },
+    {
+      "date": "2026-03-24",
+      "close": 55.0,
+      "prev_close": 56.94,
+      "volume": 236276,
+      "deliverable_qty": 62285,
+      "delivery_pct": 26.36
+    },
+    {
+      "date": "2026-03-25",
+      "close": 54.33,
+      "prev_close": 55.0,
+      "volume": 153706,
+      "deliverable_qty": 88498,
+      "delivery_pct": 57.58
+    },
+    {
+      "date": "2026-03-27",
+      "close": 55.88,
+      "prev_close": 54.33,
+      "volume": 64128,
+      "deliverable_qty": 41500,
+      "delivery_pct": 64.71
+    },
+    {
+      "date": "2026-03-30",
+      "close": 51.07,
+      "prev_close": 55.88,
+      "volume": 118017,
+      "deliverable_qty": 84983,
+      "delivery_pct": 72.01
+    },
+    {
+      "date": "2026-04-01",
+      "close": 56.35,
+      "prev_close": 51.07,
+      "volume": 54606,
+      "deliverable_qty": 22652,
+      "delivery_pct": 41.48
+    },
+    {
+      "date": "2026-04-02",
+      "close": 53.71,
+      "prev_close": 56.35,
+      "volume": 24359,
+      "deliverable_qty": 4857,
+      "delivery_pct": 19.94
+    },
+    {
+      "date": "2026-04-06",
+      "close": 55.23,
+      "prev_close": 53.71,
+      "volume": 63761,
+      "deliverable_qty": 13984,
+      "delivery_pct": 21.93
+    },
+    {
+      "date": "2026-04-07",
+      "close": 61.81,
+      "prev_close": 55.23,
+      "volume": 151952,
+      "deliverable_qty": 56613,
+      "delivery_pct": 37.26
+    },
+    {
+      "date": "2026-04-08",
+      "close": 61.5,
+      "prev_close": 61.81,
+      "volume": 541498,
+      "deliverable_qty": 66130,
+      "delivery_pct": 12.21
+    },
+    {
+      "date": "2026-04-09",
+      "close": 63.19,
+      "prev_close": 61.5,
+      "volume": 109931,
+      "deliverable_qty": 23099,
+      "delivery_pct": 21.01
+    },
+    {
+      "date": "2026-04-10",
+      "close": 64.56,
+      "prev_close": 63.19,
+      "volume": 30996,
+      "deliverable_qty": 8373,
+      "delivery_pct": 27.01
+    },
+    {
+      "date": "2026-04-13",
+      "close": 63.16,
+      "prev_close": 64.56,
+      "volume": 27974,
+      "deliverable_qty": 8396,
+      "delivery_pct": 30.01
+    },
+    {
+      "date": "2026-04-15",
+      "close": 64.92,
+      "prev_close": 63.16,
+      "volume": 40842,
+      "deliverable_qty": 16853,
+      "delivery_pct": 41.26
+    },
+    {
+      "date": "2026-04-16",
+      "close": 68.47,
+      "prev_close": 64.92,
+      "volume": 142381,
+      "deliverable_qty": 53444,
+      "delivery_pct": 37.54
+    },
+    {
+      "date": "2026-04-17",
+      "close": 73.29,
+      "prev_close": 68.47,
+      "volume": 217537,
+      "deliverable_qty": 76530,
+      "delivery_pct": 35.18
+    },
+    {
+      "date": "2026-04-22",
+      "close": 72.79,
+      "prev_close": 68.51,
+      "volume": 293502,
+      "deliverable_qty": 217425,
+      "delivery_pct": 74.08
+    },
+    {
+      "date": "2026-04-23",
+      "close": 70.81,
+      "prev_close": 72.79,
+      "volume": 64805,
+      "deliverable_qty": 12643,
+      "delivery_pct": 19.51
+    },
+    {
+      "date": "2026-04-24",
+      "close": 68.82,
+      "prev_close": 70.81,
+      "volume": 29357,
+      "deliverable_qty": 6836,
+      "delivery_pct": 23.29
+    },
+    {
+      "date": "2026-04-27",
+      "close": 71.69,
+      "prev_close": 68.82,
+      "volume": 58989,
+      "deliverable_qty": 35760,
+      "delivery_pct": 60.62
+    },
+    {
+      "date": "2026-04-28",
+      "close": 72.18,
+      "prev_close": 71.69,
+      "volume": 25073,
+      "deliverable_qty": 17273,
+      "delivery_pct": 68.89
+    },
+    {
+      "date": "2026-04-29",
+      "close": 73.8,
+      "prev_close": 72.18,
+      "volume": 153870,
+      "deliverable_qty": 94727,
+      "delivery_pct": 61.56
+    },
+    {
+      "date": "2026-04-30",
+      "close": 72.16,
+      "prev_close": 73.8,
+      "volume": 42439,
+      "deliverable_qty": 26903,
+      "delivery_pct": 63.39
+    },
+    {
+      "date": "2026-05-04",
+      "close": 72.72,
+      "prev_close": 72.16,
+      "volume": 55727,
+      "deliverable_qty": 39075,
+      "delivery_pct": 70.12
+    },
+    {
+      "date": "2026-05-05",
+      "close": 70.99,
+      "prev_close": 72.72,
+      "volume": 20633,
+      "deliverable_qty": 15791,
+      "delivery_pct": 76.53
+    },
+    {
+      "date": "2026-05-06",
+      "close": 73.24,
+      "prev_close": 70.99,
+      "volume": 18271,
+      "deliverable_qty": 10991,
+      "delivery_pct": 60.16
+    },
+    {
+      "date": "2026-05-07",
+      "close": 72.07,
+      "prev_close": 73.24,
+      "volume": 108982,
+      "deliverable_qty": 90862,
+      "delivery_pct": 83.37
+    },
+    {
+      "date": "2026-05-08",
+      "close": 69.28,
+      "prev_close": 72.07,
+      "volume": 74920,
+      "deliverable_qty": 61432,
+      "delivery_pct": 82.0
+    },
+    {
+      "date": "2026-05-11",
+      "close": 67.95,
+      "prev_close": 69.28,
+      "volume": 57706,
+      "deliverable_qty": 38356,
+      "delivery_pct": 66.47
+    }
+  ],
+  "news": [
+    {
+      "sort_date": "2026-05-09 17:08:07",
+      "an_dt": "09-May-2026 17:08:07",
+      "desc": "Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_09052026170736_Certificate.pdf"
+    },
+    {
+      "sort_date": "2026-05-06 11:49:29",
+      "an_dt": "06-May-2026 11:49:29",
+      "desc": "Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_06052026114903_Certificate.pdf"
+    },
+    {
+      "sort_date": "2026-04-30 19:58:14",
+      "an_dt": "30-Apr-2026 19:58:14",
+      "desc": "Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_30042026195748_Disclosure_under_Reg_31__SAST__-_covering_letter_to_upload.pdf"
+    },
+    {
+      "sort_date": "2026-04-30 15:15:27",
+      "an_dt": "30-Apr-2026 15:15:27",
+      "desc": "Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_30042026151449_Certificate57.pdf"
+    },
+    {
+      "sort_date": "2026-04-27 15:52:18",
+      "an_dt": "27-Apr-2026 15:52:18",
+      "desc": "Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_27042026155200_RecordDatesigned.pdf"
+    },
+    {
+      "sort_date": "2026-04-27 14:38:21",
+      "an_dt": "27-Apr-2026 14:38:21",
+      "desc": "Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_27042026143807_Intimation_of_Large_Corporate_Entity.pdf"
+    },
+    {
+      "sort_date": "2026-04-24 18:13:50",
+      "an_dt": "24-Apr-2026 18:13:50",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_24042026181224_BM_Outcome_Disclosure_under_Reg_30_ESOP_Appointment_of_Rajendran.pdf"
+    },
+    {
+      "sort_date": "2026-04-22 18:58:14",
+      "an_dt": "22-Apr-2026 18:58:14",
+      "desc": "Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_22042026185755_Certificateintpay.pdf"
+    },
+    {
+      "sort_date": "2026-04-14 13:18:24",
+      "an_dt": "14-Apr-2026 13:18:24",
+      "desc": "Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_14042026131627_Disclosure_under_SAST_to_upload.pdf"
+    },
+    {
+      "sort_date": "2026-04-10 18:23:18",
+      "an_dt": "10-Apr-2026 18:23:18",
+      "desc": "Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_10042026182248_CertificateApril12.pdf"
+    },
+    {
+      "sort_date": "2026-04-08 18:46:51",
+      "an_dt": "08-Apr-2026 18:46:51",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_08042026183435_FINKURVE.pdf"
+    },
+    {
+      "sort_date": "2026-04-08 18:12:05",
+      "an_dt": "08-Apr-2026 18:12:05",
+      "desc": "Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_08042026181154_SAST_disclosure_release_of_pledge_to_upload.pdf"
+    },
+    {
+      "sort_date": "2026-04-08 14:25:57",
+      "an_dt": "08-Apr-2026 14:25:57",
+      "desc": "Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_08042026142539_Intimation_for_Half_yearly_statement_of_Debt_March_31_2026.pdf"
+    },
+    {
+      "sort_date": "2026-04-07 17:31:03",
+      "an_dt": "07-Apr-2026 17:31:03",
+      "desc": "Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_07042026172848_CertificateunderRegulation57April07.pdf"
+    },
+    {
+      "sort_date": "2026-04-07 11:06:16",
+      "an_dt": "07-Apr-2026 11:06:16",
+      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_07042026110603_Reg_74_5__DP-_to_upload.pdf"
+    },
+    {
+      "sort_date": "2026-04-02 16:41:34",
+      "an_dt": "02-Apr-2026 16:41:34",
+      "desc": "Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_02042026164123_SAST_Reg_31_4_-_disclosure_to_upload.pdf"
+    },
+    {
+      "sort_date": "2026-03-31 18:31:13",
+      "an_dt": "31-Mar-2026 18:31:13",
+      "desc": "Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_31032026183058_Certificatetobeupload.pdf"
+    },
+    {
+      "sort_date": "2026-03-31 11:40:32",
+      "an_dt": "31-Mar-2026 11:40:32",
+      "desc": "Credit Rating- New",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_31032026113949_credit_rating-_care-_to_upload.pdf"
+    },
+    {
+      "sort_date": "2026-03-27 15:35:33",
+      "an_dt": "27-Mar-2026 15:35:33",
+      "desc": "Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_27032026153520_Record_Date-signed.pdf"
+    },
+    {
+      "sort_date": "2026-03-25 16:10:45",
+      "an_dt": "25-Mar-2026 16:10:45",
+      "desc": "Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_25032026161032_Certificate57.pdf"
+    },
+    {
+      "sort_date": "2026-03-20 12:25:19",
+      "an_dt": "20-Mar-2026 12:25:19",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_20032026121917_Board_Meeting_Outcome-signed.pdf"
+    },
+    {
+      "sort_date": "2026-03-11 19:07:29",
+      "an_dt": "11-Mar-2026 19:07:29",
+      "desc": "Press Release",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_11032026190719_Press_release_to_be_uploaded.pdf"
+    },
+    {
+      "sort_date": "2026-03-09 18:55:33",
+      "an_dt": "09-Mar-2026 18:55:33",
+      "desc": "Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_09032026185522_Certificatetobeuploaded.pdf"
+    },
+    {
+      "sort_date": "2026-03-05 19:03:49",
+      "an_dt": "05-Mar-2026 19:03:49",
+      "desc": "Press Release",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_05032026190338_PressReleasetobeuploaded.pdf"
+    },
+    {
+      "sort_date": "2026-03-05 17:52:12",
+      "an_dt": "05-Mar-2026 17:52:12",
+      "desc": "Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_05032026175203_certificate_of_int_payment.pdf"
+    },
+    {
+      "sort_date": "2026-03-04 16:39:18",
+      "an_dt": "04-Mar-2026 16:39:18",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_04032026163907_intimation_of_investor-signed.pdf"
+    },
+    {
+      "sort_date": "2026-03-04 16:13:20",
+      "an_dt": "04-Mar-2026 16:13:20",
+      "desc": "Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_04032026161309_Certificatetobeuploaded.pdf"
+    },
+    {
+      "sort_date": "2026-03-02 18:58:39",
+      "an_dt": "02-Mar-2026 18:58:39",
+      "desc": "Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_02032026185736_Record_Date-signed.pdf"
+    },
+    {
+      "sort_date": "2026-02-27 15:01:00",
+      "an_dt": "27-Feb-2026 15:01:00",
+      "desc": "Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_27022026150045_Record_Date.pdf"
+    },
+    {
+      "sort_date": "2026-02-25 12:02:12",
+      "an_dt": "25-Feb-2026 12:02:12",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_25022026120159_Board_Meeting_Outcome.pdf"
+    },
+    {
+      "sort_date": "2026-02-24 16:10:40",
+      "an_dt": "24-Feb-2026 16:10:40",
+      "desc": "General Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_24022026161028_int_payment_certificate.pdf"
+    },
+    {
+      "sort_date": "2026-02-19 15:51:52",
+      "an_dt": "19-Feb-2026 15:51:52",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_19022026154811_IntimationAnalystInstitutionalInvestorMeet.pdf"
+    },
+    {
+      "sort_date": "2026-02-13 18:36:46",
+      "an_dt": "13-Feb-2026 18:36:46",
+      "desc": "Credit Rating- Revision",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_13022026183610_credit_rating_enhancement-signed.pdf"
+    },
+    {
+      "sort_date": "2026-02-13 15:55:49",
+      "an_dt": "13-Feb-2026 15:55:49",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_13022026155537_transcript_to_be_uploaded.pdf"
+    },
+    {
+      "sort_date": "2026-02-11 13:19:02",
+      "an_dt": "11-Feb-2026 13:19:02",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_11022026131850_MA_report_to_be_uploaded.pdf"
+    },
+    {
+      "sort_date": "2026-02-11 12:42:24",
+      "an_dt": "11-Feb-2026 12:42:24",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_11022026124206_Board_Meeting_Outcome.pdf"
+    }
+  ]
+}

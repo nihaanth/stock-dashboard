@@ -1,0 +1,515 @@
+{
+  "symbol": "MONTECARLO",
+  "name": "Monte Carlo Fashions Limited",
+  "industry": "Apparel Manufacturing",
+  "industry_slug": "apparel-manufacturing",
+  "sector": "Consumer Cyclical",
+  "isin": null,
+  "price": 580.0,
+  "market_cap_cr": 1202.46,
+  "industry_source": "yfinance",
+  "as_of": "2026-05-11",
+  "window_days": 90,
+  "daily": [
+    {
+      "date": "2026-02-10",
+      "close": 595.8,
+      "prev_close": 599.7,
+      "volume": 17788,
+      "deliverable_qty": 8030,
+      "delivery_pct": 45.14
+    },
+    {
+      "date": "2026-02-11",
+      "close": 586.2,
+      "prev_close": 595.8,
+      "volume": 13700,
+      "deliverable_qty": 6743,
+      "delivery_pct": 49.22
+    },
+    {
+      "date": "2026-02-12",
+      "close": 579.0,
+      "prev_close": 586.2,
+      "volume": 16911,
+      "deliverable_qty": 7727,
+      "delivery_pct": 45.69
+    },
+    {
+      "date": "2026-02-13",
+      "close": 583.7,
+      "prev_close": 579.0,
+      "volume": 19252,
+      "deliverable_qty": 9766,
+      "delivery_pct": 50.73
+    },
+    {
+      "date": "2026-02-16",
+      "close": 580.6,
+      "prev_close": 583.7,
+      "volume": 19820,
+      "deliverable_qty": 9670,
+      "delivery_pct": 48.79
+    },
+    {
+      "date": "2026-02-17",
+      "close": 589.75,
+      "prev_close": 580.6,
+      "volume": 10485,
+      "deliverable_qty": 4264,
+      "delivery_pct": 40.67
+    },
+    {
+      "date": "2026-02-18",
+      "close": 583.15,
+      "prev_close": 589.75,
+      "volume": 15482,
+      "deliverable_qty": 9431,
+      "delivery_pct": 60.92
+    },
+    {
+      "date": "2026-02-19",
+      "close": 575.9,
+      "prev_close": 583.15,
+      "volume": 19112,
+      "deliverable_qty": 10839,
+      "delivery_pct": 56.71
+    },
+    {
+      "date": "2026-02-20",
+      "close": 576.25,
+      "prev_close": 575.9,
+      "volume": 11761,
+      "deliverable_qty": 5130,
+      "delivery_pct": 43.62
+    },
+    {
+      "date": "2026-02-23",
+      "close": 575.65,
+      "prev_close": 576.25,
+      "volume": 10007,
+      "deliverable_qty": 4781,
+      "delivery_pct": 47.78
+    },
+    {
+      "date": "2026-02-24",
+      "close": 569.05,
+      "prev_close": 575.65,
+      "volume": 13228,
+      "deliverable_qty": 6287,
+      "delivery_pct": 47.53
+    },
+    {
+      "date": "2026-02-25",
+      "close": 571.65,
+      "prev_close": 569.05,
+      "volume": 10242,
+      "deliverable_qty": 5482,
+      "delivery_pct": 53.52
+    },
+    {
+      "date": "2026-02-26",
+      "close": 572.85,
+      "prev_close": 571.65,
+      "volume": 9608,
+      "deliverable_qty": 6168,
+      "delivery_pct": 64.2
+    },
+    {
+      "date": "2026-02-27",
+      "close": 554.6,
+      "prev_close": 572.85,
+      "volume": 18633,
+      "deliverable_qty": 10590,
+      "delivery_pct": 56.83
+    },
+    {
+      "date": "2026-03-02",
+      "close": 546.15,
+      "prev_close": 554.6,
+      "volume": 24770,
+      "deliverable_qty": 13358,
+      "delivery_pct": 53.93
+    },
+    {
+      "date": "2026-03-04",
+      "close": 527.7,
+      "prev_close": 546.15,
+      "volume": 37700,
+      "deliverable_qty": 26768,
+      "delivery_pct": 71.0
+    },
+    {
+      "date": "2026-03-05",
+      "close": 515.6,
+      "prev_close": 527.7,
+      "volume": 64252,
+      "deliverable_qty": 48804,
+      "delivery_pct": 75.96
+    },
+    {
+      "date": "2026-03-06",
+      "close": 519.25,
+      "prev_close": 515.6,
+      "volume": 22620,
+      "deliverable_qty": 14710,
+      "delivery_pct": 65.03
+    },
+    {
+      "date": "2026-03-09",
+      "close": 509.6,
+      "prev_close": 519.25,
+      "volume": 26980,
+      "deliverable_qty": 16191,
+      "delivery_pct": 60.01
+    },
+    {
+      "date": "2026-03-10",
+      "close": 520.95,
+      "prev_close": 509.6,
+      "volume": 19379,
+      "deliverable_qty": 11316,
+      "delivery_pct": 58.39
+    },
+    {
+      "date": "2026-03-11",
+      "close": 523.1,
+      "prev_close": 520.95,
+      "volume": 18507,
+      "deliverable_qty": 11039,
+      "delivery_pct": 59.65
+    },
+    {
+      "date": "2026-03-12",
+      "close": 519.95,
+      "prev_close": 523.1,
+      "volume": 12065,
+      "deliverable_qty": 6862,
+      "delivery_pct": 56.88
+    },
+    {
+      "date": "2026-03-13",
+      "close": 503.85,
+      "prev_close": 519.95,
+      "volume": 41077,
+      "deliverable_qty": 29534,
+      "delivery_pct": 71.9
+    },
+    {
+      "date": "2026-03-16",
+      "close": 506.65,
+      "prev_close": 503.85,
+      "volume": 25432,
+      "deliverable_qty": 14244,
+      "delivery_pct": 56.01
+    },
+    {
+      "date": "2026-03-17",
+      "close": 507.55,
+      "prev_close": 506.65,
+      "volume": 9182,
+      "deliverable_qty": 4879,
+      "delivery_pct": 53.14
+    },
+    {
+      "date": "2026-03-18",
+      "close": 522.65,
+      "prev_close": 507.55,
+      "volume": 27148,
+      "deliverable_qty": 18870,
+      "delivery_pct": 69.51
+    },
+    {
+      "date": "2026-03-19",
+      "close": 507.8,
+      "prev_close": 522.65,
+      "volume": 12427,
+      "deliverable_qty": 8706,
+      "delivery_pct": 70.06
+    },
+    {
+      "date": "2026-03-20",
+      "close": 525.35,
+      "prev_close": 507.8,
+      "volume": 22144,
+      "deliverable_qty": 13958,
+      "delivery_pct": 63.03
+    },
+    {
+      "date": "2026-03-23",
+      "close": 497.85,
+      "prev_close": 525.35,
+      "volume": 20796,
+      "deliverable_qty": 12050,
+      "delivery_pct": 57.94
+    },
+    {
+      "date": "2026-03-24",
+      "close": 511.3,
+      "prev_close": 497.85,
+      "volume": 28992,
+      "deliverable_qty": 18843,
+      "delivery_pct": 64.99
+    },
+    {
+      "date": "2026-03-25",
+      "close": 508.15,
+      "prev_close": 511.3,
+      "volume": 23548,
+      "deliverable_qty": 14193,
+      "delivery_pct": 60.27
+    },
+    {
+      "date": "2026-03-27",
+      "close": 490.0,
+      "prev_close": 508.15,
+      "volume": 33308,
+      "deliverable_qty": 25429,
+      "delivery_pct": 76.35
+    },
+    {
+      "date": "2026-03-30",
+      "close": 466.9,
+      "prev_close": 490.0,
+      "volume": 32346,
+      "deliverable_qty": 18459,
+      "delivery_pct": 57.07
+    },
+    {
+      "date": "2026-04-01",
+      "close": 490.5,
+      "prev_close": 466.9,
+      "volume": 24859,
+      "deliverable_qty": 7583,
+      "delivery_pct": 30.5
+    },
+    {
+      "date": "2026-04-02",
+      "close": 498.55,
+      "prev_close": 490.5,
+      "volume": 11865,
+      "deliverable_qty": 5757,
+      "delivery_pct": 48.52
+    },
+    {
+      "date": "2026-04-06",
+      "close": 511.8,
+      "prev_close": 498.55,
+      "volume": 13717,
+      "deliverable_qty": 6265,
+      "delivery_pct": 45.67
+    },
+    {
+      "date": "2026-04-07",
+      "close": 504.85,
+      "prev_close": 511.8,
+      "volume": 18694,
+      "deliverable_qty": 9228,
+      "delivery_pct": 49.36
+    },
+    {
+      "date": "2026-04-08",
+      "close": 535.8,
+      "prev_close": 504.85,
+      "volume": 38362,
+      "deliverable_qty": 18801,
+      "delivery_pct": 49.01
+    },
+    {
+      "date": "2026-04-09",
+      "close": 526.15,
+      "prev_close": 535.8,
+      "volume": 13729,
+      "deliverable_qty": 7021,
+      "delivery_pct": 51.14
+    },
+    {
+      "date": "2026-04-10",
+      "close": 549.15,
+      "prev_close": 526.15,
+      "volume": 26947,
+      "deliverable_qty": 11944,
+      "delivery_pct": 44.32
+    },
+    {
+      "date": "2026-04-13",
+      "close": 534.3,
+      "prev_close": 549.15,
+      "volume": 14821,
+      "deliverable_qty": 6915,
+      "delivery_pct": 46.66
+    },
+    {
+      "date": "2026-04-15",
+      "close": 566.95,
+      "prev_close": 534.3,
+      "volume": 29110,
+      "deliverable_qty": 14456,
+      "delivery_pct": 49.66
+    },
+    {
+      "date": "2026-04-16",
+      "close": 580.8,
+      "prev_close": 566.95,
+      "volume": 29099,
+      "deliverable_qty": 15856,
+      "delivery_pct": 54.49
+    },
+    {
+      "date": "2026-04-17",
+      "close": 563.35,
+      "prev_close": 580.8,
+      "volume": 56725,
+      "deliverable_qty": 27364,
+      "delivery_pct": 48.24
+    },
+    {
+      "date": "2026-04-22",
+      "close": 543.0,
+      "prev_close": 550.3,
+      "volume": 45416,
+      "deliverable_qty": 24382,
+      "delivery_pct": 53.69
+    },
+    {
+      "date": "2026-04-23",
+      "close": 537.7,
+      "prev_close": 543.0,
+      "volume": 51640,
+      "deliverable_qty": 30292,
+      "delivery_pct": 58.66
+    },
+    {
+      "date": "2026-04-24",
+      "close": 543.7,
+      "prev_close": 537.7,
+      "volume": 40704,
+      "deliverable_qty": 18993,
+      "delivery_pct": 46.66
+    },
+    {
+      "date": "2026-04-27",
+      "close": 558.0,
+      "prev_close": 543.7,
+      "volume": 24310,
+      "deliverable_qty": 11324,
+      "delivery_pct": 46.58
+    },
+    {
+      "date": "2026-04-28",
+      "close": 558.4,
+      "prev_close": 558.0,
+      "volume": 15185,
+      "deliverable_qty": 8341,
+      "delivery_pct": 54.93
+    },
+    {
+      "date": "2026-04-29",
+      "close": 561.85,
+      "prev_close": 558.4,
+      "volume": 27578,
+      "deliverable_qty": 17239,
+      "delivery_pct": 62.51
+    },
+    {
+      "date": "2026-04-30",
+      "close": 561.65,
+      "prev_close": 561.85,
+      "volume": 14896,
+      "deliverable_qty": 9120,
+      "delivery_pct": 61.22
+    },
+    {
+      "date": "2026-05-04",
+      "close": 565.65,
+      "prev_close": 561.65,
+      "volume": 20488,
+      "deliverable_qty": 12867,
+      "delivery_pct": 62.8
+    },
+    {
+      "date": "2026-05-05",
+      "close": 564.55,
+      "prev_close": 565.65,
+      "volume": 13370,
+      "deliverable_qty": 10118,
+      "delivery_pct": 75.68
+    },
+    {
+      "date": "2026-05-06",
+      "close": 582.3,
+      "prev_close": 564.55,
+      "volume": 28732,
+      "deliverable_qty": 16104,
+      "delivery_pct": 56.05
+    },
+    {
+      "date": "2026-05-07",
+      "close": 589.0,
+      "prev_close": 582.3,
+      "volume": 22265,
+      "deliverable_qty": 13029,
+      "delivery_pct": 58.52
+    },
+    {
+      "date": "2026-05-08",
+      "close": 584.8,
+      "prev_close": 589.0,
+      "volume": 11567,
+      "deliverable_qty": 7080,
+      "delivery_pct": 61.21
+    },
+    {
+      "date": "2026-05-11",
+      "close": 580.0,
+      "prev_close": 584.8,
+      "volume": 26578,
+      "deliverable_qty": 8254,
+      "delivery_pct": 31.06
+    }
+  ],
+  "news": [
+    {
+      "sort_date": "2026-04-22 18:39:40",
+      "an_dt": "22-Apr-2026 18:39:40",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Monte Carlo Fashions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_13042026153646_MONTECARLO.pdf"
+    },
+    {
+      "sort_date": "2026-04-21 18:55:29",
+      "an_dt": "21-Apr-2026 18:55:29",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Monte Carlo Fashions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_13042026111412_MCFL.pdf"
+    },
+    {
+      "sort_date": "2026-04-11 16:01:29",
+      "an_dt": "11-Apr-2026 16:01:29",
+      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "sm_name": "Monte Carlo Fashions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONTECARLO_11042026160110_letterfinal.pdf"
+    },
+    {
+      "sort_date": "2026-04-08 15:02:49",
+      "an_dt": "08-Apr-2026 15:02:49",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Monte Carlo Fashions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONTECARLO_08042026150201_letterfinal.pdf"
+    },
+    {
+      "sort_date": "2026-03-21 17:20:40",
+      "an_dt": "21-Mar-2026 17:20:40",
+      "desc": "Trading Window",
+      "sm_name": "Monte Carlo Fashions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONTECARLO_21032026171736_Tradingwindowletter.pdf"
+    },
+    {
+      "sort_date": "2026-02-24 17:11:13",
+      "an_dt": "24-Feb-2026 17:11:13",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Monte Carlo Fashions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONTECARLO_24022026171004_Finalletter.pdf"
+    }
+  ]
+}

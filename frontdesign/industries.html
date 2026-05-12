@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Stockbot — Industries</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar__brand">
+      <span class="brand__mark">SB</span>
+      <div class="brand__label">
+        <div class="brand__title">Stockbot Industries</div>
+        <div class="brand__sub" id="indSub">Sectors → stocks → news</div>
+      </div>
+    </div>
+
+    <nav class="topbar__center topnav">
+      <a class="topnav__link" href="index.html">Dashboard</a>
+      <a class="topnav__link topnav__link--active" href="industries.html">Industries</a>
+    </nav>
+
+    <div class="topbar__right">
+      <button id="themeToggle" class="iconbtn" aria-label="Toggle theme">◐</button>
+    </div>
+  </header>
+
+  <main class="ind-main">
+    <div class="ind-toolbar">
+      <input id="indSearch"
+             class="ind-search"
+             type="search"
+             placeholder="Search industries or stocks (e.g. steel, RELIANCE, banks)…"
+             autocomplete="off"
+             spellcheck="false" />
+      <div class="ind-meta muted" id="indMeta">—</div>
+    </div>
+
+    <div id="indView"><!-- view rendered by industries.js --></div>
+
+    <footer class="footer">
+      <span class="muted">Stockbot · industries view · refreshed daily at 19:30 IST</span>
+      <span class="muted" id="indGeneratedAt"></span>
+    </footer>
+  </main>
+
+  <script src="industries.js"></script>
+</body>
+</html>

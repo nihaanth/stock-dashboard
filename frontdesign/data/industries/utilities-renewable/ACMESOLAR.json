@@ -1,0 +1,921 @@
+{
+  "symbol": "ACMESOLAR",
+  "name": "ACME SOLAR HOLDINGS LTD",
+  "industry": "Utilities - Renewable",
+  "industry_slug": "utilities-renewable",
+  "sector": "Utilities",
+  "isin": null,
+  "price": 284.05,
+  "market_cap_cr": 17193.45,
+  "industry_source": "yfinance",
+  "as_of": "2026-05-11",
+  "window_days": 90,
+  "daily": [
+    {
+      "date": "2026-02-10",
+      "close": 236.85,
+      "prev_close": 228.03,
+      "volume": 1122393,
+      "deliverable_qty": 443936,
+      "delivery_pct": 39.55
+    },
+    {
+      "date": "2026-02-11",
+      "close": 228.74,
+      "prev_close": 236.85,
+      "volume": 801772,
+      "deliverable_qty": 368344,
+      "delivery_pct": 45.94
+    },
+    {
+      "date": "2026-02-12",
+      "close": 223.96,
+      "prev_close": 228.74,
+      "volume": 257009,
+      "deliverable_qty": 116644,
+      "delivery_pct": 45.39
+    },
+    {
+      "date": "2026-02-13",
+      "close": 224.64,
+      "prev_close": 223.96,
+      "volume": 366314,
+      "deliverable_qty": 153054,
+      "delivery_pct": 41.78
+    },
+    {
+      "date": "2026-02-16",
+      "close": 226.1,
+      "prev_close": 224.64,
+      "volume": 193461,
+      "deliverable_qty": 93395,
+      "delivery_pct": 48.28
+    },
+    {
+      "date": "2026-02-17",
+      "close": 234.83,
+      "prev_close": 226.1,
+      "volume": 843545,
+      "deliverable_qty": 314627,
+      "delivery_pct": 37.3
+    },
+    {
+      "date": "2026-02-18",
+      "close": 230.93,
+      "prev_close": 234.83,
+      "volume": 218783,
+      "deliverable_qty": 108814,
+      "delivery_pct": 49.74
+    },
+    {
+      "date": "2026-02-19",
+      "close": 228.73,
+      "prev_close": 230.93,
+      "volume": 641963,
+      "deliverable_qty": 239303,
+      "delivery_pct": 37.28
+    },
+    {
+      "date": "2026-02-20",
+      "close": 231.61,
+      "prev_close": 228.73,
+      "volume": 415513,
+      "deliverable_qty": 171246,
+      "delivery_pct": 41.21
+    },
+    {
+      "date": "2026-02-23",
+      "close": 231.49,
+      "prev_close": 231.61,
+      "volume": 301566,
+      "deliverable_qty": 141150,
+      "delivery_pct": 46.81
+    },
+    {
+      "date": "2026-02-24",
+      "close": 231.6,
+      "prev_close": 231.49,
+      "volume": 306449,
+      "deliverable_qty": 176563,
+      "delivery_pct": 57.62
+    },
+    {
+      "date": "2026-02-25",
+      "close": 233.92,
+      "prev_close": 231.6,
+      "volume": 618522,
+      "deliverable_qty": 390266,
+      "delivery_pct": 63.1
+    },
+    {
+      "date": "2026-02-26",
+      "close": 234.92,
+      "prev_close": 233.92,
+      "volume": 250991,
+      "deliverable_qty": 126202,
+      "delivery_pct": 50.28
+    },
+    {
+      "date": "2026-02-27",
+      "close": 236.0,
+      "prev_close": 234.92,
+      "volume": 550867,
+      "deliverable_qty": 324433,
+      "delivery_pct": 58.89
+    },
+    {
+      "date": "2026-03-02",
+      "close": 232.28,
+      "prev_close": 236.0,
+      "volume": 738881,
+      "deliverable_qty": 419731,
+      "delivery_pct": 56.81
+    },
+    {
+      "date": "2026-03-04",
+      "close": 224.57,
+      "prev_close": 232.28,
+      "volume": 405512,
+      "deliverable_qty": 188894,
+      "delivery_pct": 46.58
+    },
+    {
+      "date": "2026-03-05",
+      "close": 231.23,
+      "prev_close": 224.57,
+      "volume": 403844,
+      "deliverable_qty": 135846,
+      "delivery_pct": 33.64
+    },
+    {
+      "date": "2026-03-06",
+      "close": 228.4,
+      "prev_close": 231.23,
+      "volume": 212195,
+      "deliverable_qty": 122603,
+      "delivery_pct": 57.78
+    },
+    {
+      "date": "2026-03-09",
+      "close": 219.46,
+      "prev_close": 228.4,
+      "volume": 325202,
+      "deliverable_qty": 135756,
+      "delivery_pct": 41.75
+    },
+    {
+      "date": "2026-03-10",
+      "close": 224.13,
+      "prev_close": 219.46,
+      "volume": 585230,
+      "deliverable_qty": 253748,
+      "delivery_pct": 43.36
+    },
+    {
+      "date": "2026-03-11",
+      "close": 230.24,
+      "prev_close": 224.13,
+      "volume": 475727,
+      "deliverable_qty": 188885,
+      "delivery_pct": 39.7
+    },
+    {
+      "date": "2026-03-12",
+      "close": 240.08,
+      "prev_close": 230.24,
+      "volume": 1200296,
+      "deliverable_qty": 398919,
+      "delivery_pct": 33.24
+    },
+    {
+      "date": "2026-03-13",
+      "close": 255.61,
+      "prev_close": 240.08,
+      "volume": 14627740,
+      "deliverable_qty": 1722026,
+      "delivery_pct": 11.77
+    },
+    {
+      "date": "2026-03-16",
+      "close": 244.89,
+      "prev_close": 255.61,
+      "volume": 2067998,
+      "deliverable_qty": 404836,
+      "delivery_pct": 19.58
+    },
+    {
+      "date": "2026-03-17",
+      "close": 247.01,
+      "prev_close": 244.89,
+      "volume": 691684,
+      "deliverable_qty": 136009,
+      "delivery_pct": 19.66
+    },
+    {
+      "date": "2026-03-18",
+      "close": 248.69,
+      "prev_close": 247.01,
+      "volume": 695731,
+      "deliverable_qty": 196291,
+      "delivery_pct": 28.21
+    },
+    {
+      "date": "2026-03-19",
+      "close": 262.03,
+      "prev_close": 248.69,
+      "volume": 8294669,
+      "deliverable_qty": 1293739,
+      "delivery_pct": 15.6
+    },
+    {
+      "date": "2026-03-20",
+      "close": 246.37,
+      "prev_close": 262.03,
+      "volume": 2197261,
+      "deliverable_qty": 525704,
+      "delivery_pct": 23.93
+    },
+    {
+      "date": "2026-03-23",
+      "close": 237.55,
+      "prev_close": 246.37,
+      "volume": 1035340,
+      "deliverable_qty": 357647,
+      "delivery_pct": 34.54
+    },
+    {
+      "date": "2026-03-24",
+      "close": 249.1,
+      "prev_close": 237.55,
+      "volume": 1849760,
+      "deliverable_qty": 701036,
+      "delivery_pct": 37.9
+    },
+    {
+      "date": "2026-03-25",
+      "close": 254.12,
+      "prev_close": 249.1,
+      "volume": 744492,
+      "deliverable_qty": 282532,
+      "delivery_pct": 37.95
+    },
+    {
+      "date": "2026-03-27",
+      "close": 269.41,
+      "prev_close": 254.12,
+      "volume": 12295425,
+      "deliverable_qty": 2671352,
+      "delivery_pct": 21.73
+    },
+    {
+      "date": "2026-03-30",
+      "close": 261.61,
+      "prev_close": 269.41,
+      "volume": 2058259,
+      "deliverable_qty": 598535,
+      "delivery_pct": 29.08
+    },
+    {
+      "date": "2026-04-01",
+      "close": 266.8,
+      "prev_close": 261.61,
+      "volume": 1830804,
+      "deliverable_qty": 611511,
+      "delivery_pct": 33.4
+    },
+    {
+      "date": "2026-04-02",
+      "close": 274.65,
+      "prev_close": 266.8,
+      "volume": 3270668,
+      "deliverable_qty": 1042705,
+      "delivery_pct": 31.88
+    },
+    {
+      "date": "2026-04-06",
+      "close": 280.25,
+      "prev_close": 274.65,
+      "volume": 2379961,
+      "deliverable_qty": 652942,
+      "delivery_pct": 27.43
+    },
+    {
+      "date": "2026-04-07",
+      "close": 277.2,
+      "prev_close": 280.25,
+      "volume": 919666,
+      "deliverable_qty": 371944,
+      "delivery_pct": 40.44
+    },
+    {
+      "date": "2026-04-08",
+      "close": 273.2,
+      "prev_close": 277.2,
+      "volume": 1333937,
+      "deliverable_qty": 544091,
+      "delivery_pct": 40.79
+    },
+    {
+      "date": "2026-04-09",
+      "close": 273.1,
+      "prev_close": 273.2,
+      "volume": 632698,
+      "deliverable_qty": 211491,
+      "delivery_pct": 33.43
+    },
+    {
+      "date": "2026-04-10",
+      "close": 268.65,
+      "prev_close": 273.1,
+      "volume": 864642,
+      "deliverable_qty": 501518,
+      "delivery_pct": 58.0
+    },
+    {
+      "date": "2026-04-13",
+      "close": 284.05,
+      "prev_close": 268.65,
+      "volume": 9112073,
+      "deliverable_qty": 1419993,
+      "delivery_pct": 15.58
+    },
+    {
+      "date": "2026-04-15",
+      "close": 285.4,
+      "prev_close": 284.05,
+      "volume": 2197782,
+      "deliverable_qty": 1068900,
+      "delivery_pct": 48.64
+    },
+    {
+      "date": "2026-04-16",
+      "close": 287.45,
+      "prev_close": 285.4,
+      "volume": 918906,
+      "deliverable_qty": 520105,
+      "delivery_pct": 56.6
+    },
+    {
+      "date": "2026-04-17",
+      "close": 304.65,
+      "prev_close": 287.45,
+      "volume": 3737148,
+      "deliverable_qty": 2165646,
+      "delivery_pct": 57.95
+    },
+    {
+      "date": "2026-04-22",
+      "close": 303.55,
+      "prev_close": 296.25,
+      "volume": 1637709,
+      "deliverable_qty": 703555,
+      "delivery_pct": 42.96
+    },
+    {
+      "date": "2026-04-23",
+      "close": 309.2,
+      "prev_close": 303.55,
+      "volume": 1565556,
+      "deliverable_qty": 671717,
+      "delivery_pct": 42.91
+    },
+    {
+      "date": "2026-04-24",
+      "close": 305.3,
+      "prev_close": 309.2,
+      "volume": 1405123,
+      "deliverable_qty": 549194,
+      "delivery_pct": 39.09
+    },
+    {
+      "date": "2026-04-27",
+      "close": 309.2,
+      "prev_close": 305.3,
+      "volume": 1116730,
+      "deliverable_qty": 523823,
+      "delivery_pct": 46.91
+    },
+    {
+      "date": "2026-04-28",
+      "close": 305.2,
+      "prev_close": 309.2,
+      "volume": 420903,
+      "deliverable_qty": 202077,
+      "delivery_pct": 48.01
+    },
+    {
+      "date": "2026-04-29",
+      "close": 303.1,
+      "prev_close": 305.2,
+      "volume": 944142,
+      "deliverable_qty": 462619,
+      "delivery_pct": 49.0
+    },
+    {
+      "date": "2026-04-30",
+      "close": 302.85,
+      "prev_close": 303.1,
+      "volume": 1105704,
+      "deliverable_qty": 457193,
+      "delivery_pct": 41.35
+    },
+    {
+      "date": "2026-05-04",
+      "close": 298.75,
+      "prev_close": 302.85,
+      "volume": 817513,
+      "deliverable_qty": 395883,
+      "delivery_pct": 48.43
+    },
+    {
+      "date": "2026-05-05",
+      "close": 295.5,
+      "prev_close": 298.75,
+      "volume": 927035,
+      "deliverable_qty": 290853,
+      "delivery_pct": 31.37
+    },
+    {
+      "date": "2026-05-06",
+      "close": 296.45,
+      "prev_close": 295.5,
+      "volume": 748789,
+      "deliverable_qty": 319654,
+      "delivery_pct": 42.69
+    },
+    {
+      "date": "2026-05-07",
+      "close": 298.55,
+      "prev_close": 296.45,
+      "volume": 852286,
+      "deliverable_qty": 448668,
+      "delivery_pct": 52.64
+    },
+    {
+      "date": "2026-05-08",
+      "close": 282.8,
+      "prev_close": 298.55,
+      "volume": 5356990,
+      "deliverable_qty": 2808479,
+      "delivery_pct": 52.43
+    },
+    {
+      "date": "2026-05-11",
+      "close": 290.25,
+      "prev_close": 282.8,
+      "volume": 5021323,
+      "deliverable_qty": 2664452,
+      "delivery_pct": 53.06
+    }
+  ],
+  "news": [
+    {
+      "sort_date": "2026-05-11 21:22:46",
+      "an_dt": "11-May-2026 21:22:46",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_11052026212041_SuryaPower11052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-11 21:16:55",
+      "an_dt": "11-May-2026 21:16:55",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_11052026211323_SunPower11052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-11 21:08:23",
+      "an_dt": "11-May-2026 21:08:23",
+      "desc": "Acquisition",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_11052026210656_Intimation11052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-10 23:44:56",
+      "an_dt": "10-May-2026 23:44:56",
+      "desc": "General Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_10052026234330_Intimation10052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-09 13:38:34",
+      "an_dt": "09-May-2026 13:38:34",
+      "desc": "General Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_09052026133756_Intimation.pdf"
+    },
+    {
+      "sort_date": "2026-05-08 19:01:42",
+      "an_dt": "08-May-2026 19:01:42",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_08052026190048_Intimation-Earning_Call_Recording.pdf"
+    },
+    {
+      "sort_date": "2026-05-08 18:32:56",
+      "an_dt": "08-May-2026 18:32:56",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMESOLAR_ROID_84961_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-05-08 01:27:42",
+      "an_dt": "08-May-2026 01:27:42",
+      "desc": "Investor Presentation",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_08052026012653_InvestorPresentation.pdf"
+    },
+    {
+      "sort_date": "2026-05-08 01:22:54",
+      "an_dt": "08-May-2026 01:22:54",
+      "desc": "Press Release",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_08052026012132_PressRelease.pdf"
+    },
+    {
+      "sort_date": "2026-05-08 01:15:15",
+      "an_dt": "08-May-2026 01:15:15",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_08052026011036_BMoutcome.pdf"
+    },
+    {
+      "sort_date": "2026-05-06 21:40:15",
+      "an_dt": "06-May-2026 21:40:15",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_06052026213939_Intimation06052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-06 20:17:40",
+      "an_dt": "06-May-2026 20:17:40",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_06052026201626_Intimation06052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-06 20:17:40",
+      "an_dt": "06-May-2026 20:17:40",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_06052026201607_Intimation06052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-06 20:17:40",
+      "an_dt": "06-May-2026 20:17:40",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_06052026201554_Intimation06052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-06 20:17:40",
+      "an_dt": "06-May-2026 20:17:40",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_06052026201528_Intimation06052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-05 22:42:15",
+      "an_dt": "05-May-2026 22:42:15",
+      "desc": "Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_05052026224158_Intimation05052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-04 23:00:04",
+      "an_dt": "04-May-2026 23:00:04",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_04052026225952_Intimation_update_on_litigation_Aklera_04052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-04 22:48:46",
+      "an_dt": "04-May-2026 22:48:46",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_04052026224554_Sun_Power-33_04052026.pdf"
+    },
+    {
+      "sort_date": "2026-04-29 20:57:48",
+      "an_dt": "29-Apr-2026 20:57:48",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_29042026205624_Surya29042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-28 20:27:48",
+      "an_dt": "28-Apr-2026 20:27:48",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_28042026202733_Intimation_Earning_Call_28042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-23 15:18:18",
+      "an_dt": "23-Apr-2026 15:18:18",
+      "desc": "Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_23042026151356_Intimation23042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-22 08:29:54",
+      "an_dt": "22-Apr-2026 08:29:54",
+      "desc": "Press Release",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_22042026082609_Intimation22042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-20 23:00:53",
+      "an_dt": "20-Apr-2026 23:00:53",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_20042026230039_Intimation_20042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-17 19:56:34",
+      "an_dt": "17-Apr-2026 19:56:34",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_17042026195458_Intimation17042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-13 22:21:38",
+      "an_dt": "13-Apr-2026 22:21:38",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_13042026222057_IntimationGST13042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-13 21:40:06",
+      "an_dt": "13-Apr-2026 21:40:06",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_13042026213832_Suryodaya13042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-13 21:11:02",
+      "an_dt": "13-Apr-2026 21:11:02",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_13042026210532_EcoClean13042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-13 21:01:35",
+      "an_dt": "13-Apr-2026 21:01:35",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_13042026205915_SuryaPower13042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-10 17:05:07",
+      "an_dt": "10-Apr-2026 17:05:07",
+      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_10042026170219_intimation.pdf"
+    },
+    {
+      "sort_date": "2026-04-08 20:42:25",
+      "an_dt": "08-Apr-2026 20:42:25",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_08042026203858_Intimation08042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-06 20:30:58",
+      "an_dt": "06-Apr-2026 20:30:58",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_06042026202655_SunPower.pdf"
+    },
+    {
+      "sort_date": "2026-04-06 20:18:35",
+      "an_dt": "06-Apr-2026 20:18:35",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_06042026201425_Suryodaya76_MW.pdf"
+    },
+    {
+      "sort_date": "2026-04-01 22:45:31",
+      "an_dt": "01-Apr-2026 22:45:31",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_01042026224203_Sun_Power-33__01042026_.pdf"
+    },
+    {
+      "sort_date": "2026-04-01 08:31:01",
+      "an_dt": "01-Apr-2026 08:31:01",
+      "desc": "Credit Rating",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_01042026082819_Credit_Rating-ASHL__ICRA_-01042026.pdf"
+    },
+    {
+      "sort_date": "2026-03-31 21:22:58",
+      "an_dt": "31-Mar-2026 21:22:58",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_31032026211935_SunPower_31032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-29 21:16:44",
+      "an_dt": "29-Mar-2026 21:16:44",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_29032026211603_Surya_Power29032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-29 12:44:43",
+      "an_dt": "29-Mar-2026 12:44:43",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_29032026124412_Intimation29032026SCN.pdf"
+    },
+    {
+      "sort_date": "2026-03-26 19:32:36",
+      "an_dt": "26-Mar-2026 19:32:36",
+      "desc": "Trading Window",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_26032026192946_Intimation_TW_Closure.pdf"
+    },
+    {
+      "sort_date": "2026-03-26 19:17:03",
+      "an_dt": "26-Mar-2026 19:17:03",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_26032026191348_STX_intimation_ACME_ECO_Clean_4MW.pdf"
+    },
+    {
+      "sort_date": "2026-03-24 20:55:55",
+      "an_dt": "24-Mar-2026 20:55:55",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_24032026205512_Intimation_24032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-24 08:27:33",
+      "an_dt": "24-Mar-2026 08:27:33",
+      "desc": "Press Release",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_24032026082618_Intimation_24032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-23 22:05:08",
+      "an_dt": "23-Mar-2026 22:05:08",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_23032026220458_Surya_Power-60_MW-23032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-23 22:00:24",
+      "an_dt": "23-Mar-2026 22:00:24",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_23032026220003_Suryodaya-95_MW-23032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-20 17:08:16",
+      "an_dt": "20-Mar-2026 17:08:16",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_20032026170149_Intimation20032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-19 23:02:37",
+      "an_dt": "19-Mar-2026 23:02:37",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_19032026230029_Intimation_19032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-17 23:42:31",
+      "an_dt": "17-Mar-2026 23:42:31",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_17032026233909_Intimation_17032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-13 08:39:23",
+      "an_dt": "13-Mar-2026 08:39:23",
+      "desc": "Press Release",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_13032026083845_Intimation1303.pdf"
+    },
+    {
+      "sort_date": "2026-03-12 20:53:07",
+      "an_dt": "12-Mar-2026 20:53:07",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_12032026204947_Sun_Power.pdf"
+    },
+    {
+      "sort_date": "2026-03-12 08:50:56",
+      "an_dt": "12-Mar-2026 08:50:56",
+      "desc": "Press Release",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_12032026084842_Intimation12032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-11 22:30:10",
+      "an_dt": "11-Mar-2026 22:30:10",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_11032026222514_Suryodaya-19_MW-11032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-09 21:09:42",
+      "an_dt": "09-Mar-2026 21:09:42",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_09032026210840_Intimation09032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-06 22:40:06",
+      "an_dt": "06-Mar-2026 22:40:06",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_06032026223927_Sun_Power-33.pdf"
+    },
+    {
+      "sort_date": "2026-03-06 20:24:33",
+      "an_dt": "06-Mar-2026 20:24:33",
+      "desc": "Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_06032026201946_Intimation060302026.pdf"
+    },
+    {
+      "sort_date": "2026-03-05 20:06:49",
+      "an_dt": "05-Mar-2026 20:06:49",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_05032026200500_Intimation_Schedule_of_Investor_meet.pdf"
+    },
+    {
+      "sort_date": "2026-03-05 20:06:49",
+      "an_dt": "05-Mar-2026 20:06:49",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_05032026200444_Intimation_Schedule_of_Investor_meet.pdf"
+    },
+    {
+      "sort_date": "2026-03-03 21:55:04",
+      "an_dt": "03-Mar-2026 21:55:04",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_03032026215008_Suryodaya-38_MW-03032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-02 22:42:07",
+      "an_dt": "02-Mar-2026 22:42:07",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_02032026224038_Intimation_SJVN_450_MW_02032026.pdf"
+    },
+    {
+      "sort_date": "2026-02-25 22:05:37",
+      "an_dt": "25-Feb-2026 22:05:37",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_25022026215904_Intimation25022026.pdf"
+    },
+    {
+      "sort_date": "2026-02-19 08:42:40",
+      "an_dt": "19-Feb-2026 08:42:40",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_19022026084218_Intimation19022026.pdf"
+    },
+    {
+      "sort_date": "2026-02-13 19:26:27",
+      "an_dt": "13-Feb-2026 19:26:27",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_13022026192056_Intimation_13022026.pdf"
+    },
+    {
+      "sort_date": "2026-02-13 19:26:27",
+      "an_dt": "13-Feb-2026 19:26:27",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_13022026192115_Intimation_13022026.pdf"
+    },
+    {
+      "sort_date": "2026-02-13 19:26:27",
+      "an_dt": "13-Feb-2026 19:26:27",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_13022026191840_Intimation_13022026.pdf"
+    },
+    {
+      "sort_date": "2026-02-10 20:12:35",
+      "an_dt": "10-Feb-2026 20:12:35",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_10022026201138_Intimation_SECI_FDRE_VII.pdf"
+    },
+    {
+      "sort_date": "2026-02-10 08:44:43",
+      "an_dt": "10-Feb-2026 08:44:43",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_10022026084102_Intimation_10022026.pdf"
+    }
+  ]
+}

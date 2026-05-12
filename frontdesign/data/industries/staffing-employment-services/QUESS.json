@@ -1,0 +1,711 @@
+{
+  "symbol": "QUESS",
+  "name": "Quess Corp Limited",
+  "industry": "Staffing & Employment Services",
+  "industry_slug": "staffing-employment-services",
+  "sector": "Industrials",
+  "isin": null,
+  "price": 220.45,
+  "market_cap_cr": 3292.01,
+  "industry_source": "yfinance",
+  "as_of": "2026-05-11",
+  "window_days": 90,
+  "daily": [
+    {
+      "date": "2026-02-10",
+      "close": 217.09,
+      "prev_close": 211.08,
+      "volume": 426367,
+      "deliverable_qty": 165865,
+      "delivery_pct": 38.9
+    },
+    {
+      "date": "2026-02-11",
+      "close": 210.77,
+      "prev_close": 217.09,
+      "volume": 197690,
+      "deliverable_qty": 98391,
+      "delivery_pct": 49.77
+    },
+    {
+      "date": "2026-02-12",
+      "close": 206.42,
+      "prev_close": 210.77,
+      "volume": 110916,
+      "deliverable_qty": 63268,
+      "delivery_pct": 57.04
+    },
+    {
+      "date": "2026-02-13",
+      "close": 205.12,
+      "prev_close": 206.42,
+      "volume": 182116,
+      "deliverable_qty": 90283,
+      "delivery_pct": 49.57
+    },
+    {
+      "date": "2026-02-16",
+      "close": 207.05,
+      "prev_close": 205.12,
+      "volume": 113488,
+      "deliverable_qty": 61834,
+      "delivery_pct": 54.49
+    },
+    {
+      "date": "2026-02-17",
+      "close": 207.62,
+      "prev_close": 207.05,
+      "volume": 74747,
+      "deliverable_qty": 35998,
+      "delivery_pct": 48.16
+    },
+    {
+      "date": "2026-02-18",
+      "close": 208.01,
+      "prev_close": 207.62,
+      "volume": 78314,
+      "deliverable_qty": 38279,
+      "delivery_pct": 48.88
+    },
+    {
+      "date": "2026-02-19",
+      "close": 205.67,
+      "prev_close": 208.01,
+      "volume": 126233,
+      "deliverable_qty": 74985,
+      "delivery_pct": 59.4
+    },
+    {
+      "date": "2026-02-20",
+      "close": 202.3,
+      "prev_close": 205.67,
+      "volume": 665864,
+      "deliverable_qty": 596212,
+      "delivery_pct": 89.54
+    },
+    {
+      "date": "2026-02-23",
+      "close": 203.59,
+      "prev_close": 202.3,
+      "volume": 131826,
+      "deliverable_qty": 69808,
+      "delivery_pct": 52.95
+    },
+    {
+      "date": "2026-02-24",
+      "close": 199.92,
+      "prev_close": 203.59,
+      "volume": 162197,
+      "deliverable_qty": 92207,
+      "delivery_pct": 56.85
+    },
+    {
+      "date": "2026-02-25",
+      "close": 196.86,
+      "prev_close": 199.92,
+      "volume": 136661,
+      "deliverable_qty": 73147,
+      "delivery_pct": 53.52
+    },
+    {
+      "date": "2026-02-26",
+      "close": 194.22,
+      "prev_close": 196.86,
+      "volume": 150117,
+      "deliverable_qty": 85840,
+      "delivery_pct": 57.18
+    },
+    {
+      "date": "2026-02-27",
+      "close": 195.74,
+      "prev_close": 194.22,
+      "volume": 151418,
+      "deliverable_qty": 85760,
+      "delivery_pct": 56.64
+    },
+    {
+      "date": "2026-03-02",
+      "close": 191.8,
+      "prev_close": 195.74,
+      "volume": 267287,
+      "deliverable_qty": 147227,
+      "delivery_pct": 55.08
+    },
+    {
+      "date": "2026-03-04",
+      "close": 188.36,
+      "prev_close": 191.8,
+      "volume": 127078,
+      "deliverable_qty": 78975,
+      "delivery_pct": 62.15
+    },
+    {
+      "date": "2026-03-05",
+      "close": 191.47,
+      "prev_close": 188.36,
+      "volume": 119920,
+      "deliverable_qty": 68335,
+      "delivery_pct": 56.98
+    },
+    {
+      "date": "2026-03-06",
+      "close": 189.77,
+      "prev_close": 191.47,
+      "volume": 100114,
+      "deliverable_qty": 64528,
+      "delivery_pct": 64.45
+    },
+    {
+      "date": "2026-03-09",
+      "close": 185.08,
+      "prev_close": 189.77,
+      "volume": 320208,
+      "deliverable_qty": 212058,
+      "delivery_pct": 66.23
+    },
+    {
+      "date": "2026-03-10",
+      "close": 189.36,
+      "prev_close": 185.08,
+      "volume": 163457,
+      "deliverable_qty": 95877,
+      "delivery_pct": 58.66
+    },
+    {
+      "date": "2026-03-11",
+      "close": 193.14,
+      "prev_close": 189.36,
+      "volume": 445819,
+      "deliverable_qty": 307235,
+      "delivery_pct": 68.91
+    },
+    {
+      "date": "2026-03-12",
+      "close": 190.23,
+      "prev_close": 193.14,
+      "volume": 218551,
+      "deliverable_qty": 155392,
+      "delivery_pct": 71.1
+    },
+    {
+      "date": "2026-03-13",
+      "close": 181.72,
+      "prev_close": 190.23,
+      "volume": 349618,
+      "deliverable_qty": 228116,
+      "delivery_pct": 65.25
+    },
+    {
+      "date": "2026-03-16",
+      "close": 175.19,
+      "prev_close": 181.72,
+      "volume": 461366,
+      "deliverable_qty": 320638,
+      "delivery_pct": 69.5
+    },
+    {
+      "date": "2026-03-17",
+      "close": 175.3,
+      "prev_close": 175.19,
+      "volume": 382429,
+      "deliverable_qty": 276413,
+      "delivery_pct": 72.28
+    },
+    {
+      "date": "2026-03-18",
+      "close": 182.65,
+      "prev_close": 175.3,
+      "volume": 401578,
+      "deliverable_qty": 215449,
+      "delivery_pct": 53.65
+    },
+    {
+      "date": "2026-03-19",
+      "close": 178.86,
+      "prev_close": 182.65,
+      "volume": 191868,
+      "deliverable_qty": 102730,
+      "delivery_pct": 53.54
+    },
+    {
+      "date": "2026-03-20",
+      "close": 177.73,
+      "prev_close": 178.86,
+      "volume": 181701,
+      "deliverable_qty": 110509,
+      "delivery_pct": 60.82
+    },
+    {
+      "date": "2026-03-23",
+      "close": 169.87,
+      "prev_close": 177.73,
+      "volume": 321857,
+      "deliverable_qty": 193607,
+      "delivery_pct": 60.15
+    },
+    {
+      "date": "2026-03-24",
+      "close": 175.46,
+      "prev_close": 169.87,
+      "volume": 245715,
+      "deliverable_qty": 135557,
+      "delivery_pct": 55.17
+    },
+    {
+      "date": "2026-03-25",
+      "close": 176.65,
+      "prev_close": 175.46,
+      "volume": 228445,
+      "deliverable_qty": 106719,
+      "delivery_pct": 46.72
+    },
+    {
+      "date": "2026-03-27",
+      "close": 174.03,
+      "prev_close": 176.65,
+      "volume": 476440,
+      "deliverable_qty": 302761,
+      "delivery_pct": 63.55
+    },
+    {
+      "date": "2026-03-30",
+      "close": 169.72,
+      "prev_close": 174.03,
+      "volume": 378381,
+      "deliverable_qty": 258138,
+      "delivery_pct": 68.22
+    },
+    {
+      "date": "2026-04-01",
+      "close": 176.3,
+      "prev_close": 169.72,
+      "volume": 97831,
+      "deliverable_qty": 40801,
+      "delivery_pct": 41.71
+    },
+    {
+      "date": "2026-04-02",
+      "close": 178.9,
+      "prev_close": 176.3,
+      "volume": 115562,
+      "deliverable_qty": 56903,
+      "delivery_pct": 49.24
+    },
+    {
+      "date": "2026-04-06",
+      "close": 178.23,
+      "prev_close": 178.9,
+      "volume": 188554,
+      "deliverable_qty": 118713,
+      "delivery_pct": 62.96
+    },
+    {
+      "date": "2026-04-07",
+      "close": 182.37,
+      "prev_close": 178.23,
+      "volume": 606752,
+      "deliverable_qty": 346683,
+      "delivery_pct": 57.14
+    },
+    {
+      "date": "2026-04-08",
+      "close": 188.86,
+      "prev_close": 182.37,
+      "volume": 277863,
+      "deliverable_qty": 153139,
+      "delivery_pct": 55.11
+    },
+    {
+      "date": "2026-04-09",
+      "close": 188.87,
+      "prev_close": 188.86,
+      "volume": 258727,
+      "deliverable_qty": 127068,
+      "delivery_pct": 49.11
+    },
+    {
+      "date": "2026-04-10",
+      "close": 193.2,
+      "prev_close": 188.87,
+      "volume": 216191,
+      "deliverable_qty": 110101,
+      "delivery_pct": 50.93
+    },
+    {
+      "date": "2026-04-13",
+      "close": 190.64,
+      "prev_close": 193.2,
+      "volume": 131334,
+      "deliverable_qty": 55412,
+      "delivery_pct": 42.19
+    },
+    {
+      "date": "2026-04-15",
+      "close": 195.18,
+      "prev_close": 190.64,
+      "volume": 296778,
+      "deliverable_qty": 172864,
+      "delivery_pct": 58.25
+    },
+    {
+      "date": "2026-04-16",
+      "close": 196.14,
+      "prev_close": 195.18,
+      "volume": 162076,
+      "deliverable_qty": 79479,
+      "delivery_pct": 49.04
+    },
+    {
+      "date": "2026-04-17",
+      "close": 197.36,
+      "prev_close": 196.14,
+      "volume": 159893,
+      "deliverable_qty": 88278,
+      "delivery_pct": 55.21
+    },
+    {
+      "date": "2026-04-22",
+      "close": 197.77,
+      "prev_close": 196.17,
+      "volume": 76145,
+      "deliverable_qty": 46178,
+      "delivery_pct": 60.64
+    },
+    {
+      "date": "2026-04-23",
+      "close": 192.69,
+      "prev_close": 197.77,
+      "volume": 196561,
+      "deliverable_qty": 128890,
+      "delivery_pct": 65.57
+    },
+    {
+      "date": "2026-04-24",
+      "close": 190.14,
+      "prev_close": 192.69,
+      "volume": 104408,
+      "deliverable_qty": 58661,
+      "delivery_pct": 56.18
+    },
+    {
+      "date": "2026-04-27",
+      "close": 198.76,
+      "prev_close": 190.14,
+      "volume": 347275,
+      "deliverable_qty": 143285,
+      "delivery_pct": 41.26
+    },
+    {
+      "date": "2026-04-28",
+      "close": 199.84,
+      "prev_close": 198.76,
+      "volume": 214872,
+      "deliverable_qty": 105235,
+      "delivery_pct": 48.98
+    },
+    {
+      "date": "2026-04-29",
+      "close": 203.0,
+      "prev_close": 199.84,
+      "volume": 222077,
+      "deliverable_qty": 116610,
+      "delivery_pct": 52.51
+    },
+    {
+      "date": "2026-04-30",
+      "close": 197.68,
+      "prev_close": 203.0,
+      "volume": 210008,
+      "deliverable_qty": 120850,
+      "delivery_pct": 57.55
+    },
+    {
+      "date": "2026-05-04",
+      "close": 211.63,
+      "prev_close": 197.68,
+      "volume": 1248936,
+      "deliverable_qty": 434911,
+      "delivery_pct": 34.82
+    },
+    {
+      "date": "2026-05-05",
+      "close": 223.41,
+      "prev_close": 211.63,
+      "volume": 21954834,
+      "deliverable_qty": 1445464,
+      "delivery_pct": 6.58
+    },
+    {
+      "date": "2026-05-06",
+      "close": 222.82,
+      "prev_close": 223.41,
+      "volume": 1585205,
+      "deliverable_qty": 448970,
+      "delivery_pct": 28.32
+    },
+    {
+      "date": "2026-05-07",
+      "close": 226.86,
+      "prev_close": 222.82,
+      "volume": 1126628,
+      "deliverable_qty": 464043,
+      "delivery_pct": 41.19
+    },
+    {
+      "date": "2026-05-08",
+      "close": 223.59,
+      "prev_close": 226.86,
+      "volume": 472693,
+      "deliverable_qty": 191939,
+      "delivery_pct": 40.61
+    },
+    {
+      "date": "2026-05-11",
+      "close": 220.45,
+      "prev_close": 223.59,
+      "volume": 490564,
+      "deliverable_qty": 209452,
+      "delivery_pct": 42.7
+    }
+  ],
+  "news": [
+    {
+      "sort_date": "2026-05-11 18:16:56",
+      "an_dt": "11-May-2026 18:16:56",
+      "desc": "General Updates",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_11052026181642_SE_TrustDeed.pdf"
+    },
+    {
+      "sort_date": "2026-05-11 16:08:40",
+      "an_dt": "11-May-2026 16:08:40",
+      "desc": "Shareholders meeting",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_11052026160826_SE_Intimation_Voting_Results_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-11 12:25:44",
+      "an_dt": "11-May-2026 12:25:44",
+      "desc": "General Updates",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_11052026122502_SE_Intimation_TDS_communication.pdf"
+    },
+    {
+      "sort_date": "2026-05-11 12:05:09",
+      "an_dt": "11-May-2026 12:05:09",
+      "desc": "Clarification - Financial Results",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "-"
+    },
+    {
+      "sort_date": "2026-05-07 18:35:58",
+      "an_dt": "07-May-2026 18:35:58",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_07052026183541_SE_Intimation_Transcript.pdf"
+    },
+    {
+      "sort_date": "2026-05-06 16:23:51",
+      "an_dt": "06-May-2026 16:23:51",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_06052026162336_SE_Intimation_Newspaper_Publication.pdf"
+    },
+    {
+      "sort_date": "2026-05-05 19:03:17",
+      "an_dt": "05-May-2026 19:03:17",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_05052026190235_SE_Intimation_Recording.pdf"
+    },
+    {
+      "sort_date": "2026-05-05 00:18:21",
+      "an_dt": "05-May-2026 00:18:21",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/QUESS_ROID_84267_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-05-04 23:59:15",
+      "an_dt": "04-May-2026 23:59:15",
+      "desc": "General Updates",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_04052026235853_SE_Intimation_DeterminetheMateriality.pdf"
+    },
+    {
+      "sort_date": "2026-05-04 23:51:18",
+      "an_dt": "04-May-2026 23:51:18",
+      "desc": "Resignation",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_04052026234956_SE_Intimation_outcome_of_BM_updated_1.pdf"
+    },
+    {
+      "sort_date": "2026-05-04 23:38:29",
+      "an_dt": "04-May-2026 23:38:29",
+      "desc": "Appointment",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_04052026233729_SE_Intimation_outcome_of_BM_updated_1.pdf"
+    },
+    {
+      "sort_date": "2026-05-04 23:32:19",
+      "an_dt": "04-May-2026 23:32:19",
+      "desc": "Appointment",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_04052026233125_SE_Intimation_outcome_of_BM_updated_1.pdf"
+    },
+    {
+      "sort_date": "2026-05-04 23:27:17",
+      "an_dt": "04-May-2026 23:27:17",
+      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_04052026232701_SE_Intimation_outcome_of_BM_updated_1.pdf"
+    },
+    {
+      "sort_date": "2026-05-04 23:19:24",
+      "an_dt": "04-May-2026 23:19:24",
+      "desc": "Record Date",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_04052026231758_SE_Intimation_outcome_of_BM_updated_1.pdf"
+    },
+    {
+      "sort_date": "2026-05-04 23:14:33",
+      "an_dt": "04-May-2026 23:14:33",
+      "desc": "Investor Presentation",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_04052026231415_SE_Intimation_Investor_Presentation.pdf"
+    },
+    {
+      "sort_date": "2026-05-04 23:09:35",
+      "an_dt": "04-May-2026 23:09:35",
+      "desc": "Press Release",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_04052026230627_SE_Intimation_Press_Release.pdf"
+    },
+    {
+      "sort_date": "2026-05-04 22:58:00",
+      "an_dt": "04-May-2026 22:58:00",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_04052026225619_SE_Intimation_outcome_of_BM_updated_1.pdf"
+    },
+    {
+      "sort_date": "2026-04-28 18:52:06",
+      "an_dt": "28-Apr-2026 18:52:06",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_28042026185153_SE_Intimation_Earnings_Call.pdf"
+    },
+    {
+      "sort_date": "2026-04-28 18:34:35",
+      "an_dt": "28-Apr-2026 18:34:35",
+      "desc": "General Updates",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_28042026182608_SE_Intimation_Income_tax_refund_order__002_.pdf"
+    },
+    {
+      "sort_date": "2026-04-27 15:10:30",
+      "an_dt": "27-Apr-2026 15:10:30",
+      "desc": "General Updates",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_27042026151005_SE_Intimation_IT_Assessment_for_refund.pdf"
+    },
+    {
+      "sort_date": "2026-04-23 14:31:57",
+      "an_dt": "23-Apr-2026 14:31:57",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_13042026120958_QCL_Annual.pdf"
+    },
+    {
+      "sort_date": "2026-04-21 12:47:28",
+      "an_dt": "21-Apr-2026 12:47:28",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_10042026132047_19.PDF"
+    },
+    {
+      "sort_date": "2026-04-17 16:22:57",
+      "an_dt": "17-Apr-2026 16:22:57",
+      "desc": "General Updates",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_17042026162242_SE_Intimation_Letter_to_Physical_Shareholders.pdf"
+    },
+    {
+      "sort_date": "2026-04-10 12:50:36",
+      "an_dt": "10-Apr-2026 12:50:36",
+      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_10042026125008_SE_Intimation_Reg_74_5_.pdf"
+    },
+    {
+      "sort_date": "2026-04-08 22:02:15",
+      "an_dt": "08-Apr-2026 22:02:15",
+      "desc": "General Updates",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_08042026220203_SEIntimation_RefundOrder_08042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-08 16:50:08",
+      "an_dt": "08-Apr-2026 16:50:08",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_08042026164855_SE_Disclosure_Newspaper_signed.pdf"
+    },
+    {
+      "sort_date": "2026-04-07 18:40:36",
+      "an_dt": "07-Apr-2026 18:40:36",
+      "desc": "Shareholders meeting",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_07042026184019_SE_PostalBallot_signed.pdf"
+    },
+    {
+      "sort_date": "2026-04-02 20:26:19",
+      "an_dt": "02-Apr-2026 20:26:19",
+      "desc": "General Updates",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_02042026202542_SE_Intimation_ESG_Rating_by_NSE.pdf"
+    },
+    {
+      "sort_date": "2026-03-31 14:56:34",
+      "an_dt": "31-Mar-2026 14:56:34",
+      "desc": "General Updates",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_31032026145612_SE_Intimation_GST_Order.pdf"
+    },
+    {
+      "sort_date": "2026-03-25 16:39:29",
+      "an_dt": "25-Mar-2026 16:39:29",
+      "desc": "Trading Window",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_25032026163912_SE_Intimation_trading_window_closure.pdf"
+    },
+    {
+      "sort_date": "2026-03-24 16:26:37",
+      "an_dt": "24-Mar-2026 16:26:37",
+      "desc": "General Updates",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_24032026162621_Allotment.pdf"
+    },
+    {
+      "sort_date": "2026-03-16 20:01:21",
+      "an_dt": "16-Mar-2026 20:01:21",
+      "desc": "General Updates",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_16032026200110_Outcome_signed.pdf"
+    },
+    {
+      "sort_date": "2026-03-16 19:55:24",
+      "an_dt": "16-Mar-2026 19:55:24",
+      "desc": "Change in Director(s)",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_16032026195513_Outcome_signed.pdf"
+    },
+    {
+      "sort_date": "2026-02-23 18:06:02",
+      "an_dt": "23-Feb-2026 18:06:02",
+      "desc": "General Updates",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_23022026180439_SEIntimation.pdf"
+    }
+  ]
+}

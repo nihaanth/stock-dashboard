@@ -1,0 +1,795 @@
+{
+  "symbol": "UGROCAP",
+  "name": "UGRO Capital Limited",
+  "industry": "Credit Services",
+  "industry_slug": "credit-services",
+  "sector": "Financial Services",
+  "isin": null,
+  "price": 100.73,
+  "market_cap_cr": 1539.31,
+  "industry_source": "yfinance",
+  "as_of": "2026-05-11",
+  "window_days": 90,
+  "daily": [
+    {
+      "date": "2026-02-10",
+      "close": 135.22,
+      "prev_close": 136.23,
+      "volume": 456438,
+      "deliverable_qty": 250246,
+      "delivery_pct": 54.83
+    },
+    {
+      "date": "2026-02-11",
+      "close": 135.65,
+      "prev_close": 135.22,
+      "volume": 331152,
+      "deliverable_qty": 168710,
+      "delivery_pct": 50.95
+    },
+    {
+      "date": "2026-02-12",
+      "close": 135.08,
+      "prev_close": 135.65,
+      "volume": 646704,
+      "deliverable_qty": 488873,
+      "delivery_pct": 75.59
+    },
+    {
+      "date": "2026-02-13",
+      "close": 135.27,
+      "prev_close": 135.08,
+      "volume": 151022,
+      "deliverable_qty": 75690,
+      "delivery_pct": 50.12
+    },
+    {
+      "date": "2026-02-16",
+      "close": 129.43,
+      "prev_close": 135.27,
+      "volume": 453890,
+      "deliverable_qty": 250809,
+      "delivery_pct": 55.26
+    },
+    {
+      "date": "2026-02-17",
+      "close": 132.3,
+      "prev_close": 129.43,
+      "volume": 548584,
+      "deliverable_qty": 285080,
+      "delivery_pct": 51.97
+    },
+    {
+      "date": "2026-02-18",
+      "close": 129.97,
+      "prev_close": 132.3,
+      "volume": 637811,
+      "deliverable_qty": 515444,
+      "delivery_pct": 80.81
+    },
+    {
+      "date": "2026-02-19",
+      "close": 123.05,
+      "prev_close": 129.97,
+      "volume": 668693,
+      "deliverable_qty": 330163,
+      "delivery_pct": 49.37
+    },
+    {
+      "date": "2026-02-20",
+      "close": 117.75,
+      "prev_close": 123.05,
+      "volume": 447037,
+      "deliverable_qty": 184518,
+      "delivery_pct": 41.28
+    },
+    {
+      "date": "2026-02-23",
+      "close": 116.67,
+      "prev_close": 117.75,
+      "volume": 793634,
+      "deliverable_qty": 345972,
+      "delivery_pct": 43.59
+    },
+    {
+      "date": "2026-02-24",
+      "close": 114.53,
+      "prev_close": 116.67,
+      "volume": 522418,
+      "deliverable_qty": 275736,
+      "delivery_pct": 52.78
+    },
+    {
+      "date": "2026-02-25",
+      "close": 114.66,
+      "prev_close": 114.53,
+      "volume": 571671,
+      "deliverable_qty": 310546,
+      "delivery_pct": 54.32
+    },
+    {
+      "date": "2026-02-26",
+      "close": 115.51,
+      "prev_close": 114.66,
+      "volume": 849233,
+      "deliverable_qty": 515865,
+      "delivery_pct": 60.74
+    },
+    {
+      "date": "2026-02-27",
+      "close": 111.03,
+      "prev_close": 115.51,
+      "volume": 671681,
+      "deliverable_qty": 388017,
+      "delivery_pct": 57.77
+    },
+    {
+      "date": "2026-03-02",
+      "close": 108.26,
+      "prev_close": 111.03,
+      "volume": 545107,
+      "deliverable_qty": 374359,
+      "delivery_pct": 68.68
+    },
+    {
+      "date": "2026-03-04",
+      "close": 103.22,
+      "prev_close": 108.26,
+      "volume": 519168,
+      "deliverable_qty": 346672,
+      "delivery_pct": 66.77
+    },
+    {
+      "date": "2026-03-05",
+      "close": 104.8,
+      "prev_close": 103.22,
+      "volume": 409329,
+      "deliverable_qty": 188842,
+      "delivery_pct": 46.13
+    },
+    {
+      "date": "2026-03-06",
+      "close": 105.72,
+      "prev_close": 104.8,
+      "volume": 597042,
+      "deliverable_qty": 221408,
+      "delivery_pct": 37.08
+    },
+    {
+      "date": "2026-03-09",
+      "close": 100.46,
+      "prev_close": 105.72,
+      "volume": 463205,
+      "deliverable_qty": 236410,
+      "delivery_pct": 51.04
+    },
+    {
+      "date": "2026-03-10",
+      "close": 103.43,
+      "prev_close": 100.46,
+      "volume": 637349,
+      "deliverable_qty": 420669,
+      "delivery_pct": 66.0
+    },
+    {
+      "date": "2026-03-11",
+      "close": 101.62,
+      "prev_close": 103.43,
+      "volume": 967535,
+      "deliverable_qty": 511010,
+      "delivery_pct": 52.82
+    },
+    {
+      "date": "2026-03-12",
+      "close": 96.39,
+      "prev_close": 101.62,
+      "volume": 482695,
+      "deliverable_qty": 327417,
+      "delivery_pct": 67.83
+    },
+    {
+      "date": "2026-03-13",
+      "close": 90.1,
+      "prev_close": 96.39,
+      "volume": 2006538,
+      "deliverable_qty": 1474287,
+      "delivery_pct": 73.47
+    },
+    {
+      "date": "2026-03-16",
+      "close": 87.92,
+      "prev_close": 90.1,
+      "volume": 595745,
+      "deliverable_qty": 302364,
+      "delivery_pct": 50.75
+    },
+    {
+      "date": "2026-03-17",
+      "close": 86.89,
+      "prev_close": 87.92,
+      "volume": 1452111,
+      "deliverable_qty": 910996,
+      "delivery_pct": 62.74
+    },
+    {
+      "date": "2026-03-18",
+      "close": 99.49,
+      "prev_close": 86.89,
+      "volume": 14228670,
+      "deliverable_qty": 2504686,
+      "delivery_pct": 17.6
+    },
+    {
+      "date": "2026-03-19",
+      "close": 92.19,
+      "prev_close": 99.49,
+      "volume": 1779295,
+      "deliverable_qty": 580028,
+      "delivery_pct": 32.6
+    },
+    {
+      "date": "2026-03-20",
+      "close": 94.3,
+      "prev_close": 92.19,
+      "volume": 822430,
+      "deliverable_qty": 238766,
+      "delivery_pct": 29.03
+    },
+    {
+      "date": "2026-03-23",
+      "close": 86.85,
+      "prev_close": 94.3,
+      "volume": 1395778,
+      "deliverable_qty": 799171,
+      "delivery_pct": 57.26
+    },
+    {
+      "date": "2026-03-24",
+      "close": 91.2,
+      "prev_close": 86.85,
+      "volume": 839259,
+      "deliverable_qty": 421890,
+      "delivery_pct": 50.27
+    },
+    {
+      "date": "2026-03-25",
+      "close": 92.47,
+      "prev_close": 91.2,
+      "volume": 862479,
+      "deliverable_qty": 571319,
+      "delivery_pct": 66.24
+    },
+    {
+      "date": "2026-03-27",
+      "close": 90.0,
+      "prev_close": 92.47,
+      "volume": 1527166,
+      "deliverable_qty": 1134891,
+      "delivery_pct": 74.31
+    },
+    {
+      "date": "2026-03-30",
+      "close": 81.3,
+      "prev_close": 90.0,
+      "volume": 1467520,
+      "deliverable_qty": 932077,
+      "delivery_pct": 63.51
+    },
+    {
+      "date": "2026-04-01",
+      "close": 88.83,
+      "prev_close": 81.3,
+      "volume": 566146,
+      "deliverable_qty": 188243,
+      "delivery_pct": 33.25
+    },
+    {
+      "date": "2026-04-02",
+      "close": 89.33,
+      "prev_close": 88.83,
+      "volume": 352435,
+      "deliverable_qty": 132799,
+      "delivery_pct": 37.68
+    },
+    {
+      "date": "2026-04-06",
+      "close": 89.23,
+      "prev_close": 89.33,
+      "volume": 906504,
+      "deliverable_qty": 537402,
+      "delivery_pct": 59.28
+    },
+    {
+      "date": "2026-04-07",
+      "close": 92.59,
+      "prev_close": 89.23,
+      "volume": 661535,
+      "deliverable_qty": 340009,
+      "delivery_pct": 51.4
+    },
+    {
+      "date": "2026-04-08",
+      "close": 96.65,
+      "prev_close": 92.59,
+      "volume": 662358,
+      "deliverable_qty": 331194,
+      "delivery_pct": 50.0
+    },
+    {
+      "date": "2026-04-09",
+      "close": 94.14,
+      "prev_close": 96.65,
+      "volume": 329870,
+      "deliverable_qty": 136416,
+      "delivery_pct": 41.35
+    },
+    {
+      "date": "2026-04-10",
+      "close": 93.87,
+      "prev_close": 94.14,
+      "volume": 414832,
+      "deliverable_qty": 213256,
+      "delivery_pct": 51.41
+    },
+    {
+      "date": "2026-04-13",
+      "close": 93.83,
+      "prev_close": 93.87,
+      "volume": 319394,
+      "deliverable_qty": 124195,
+      "delivery_pct": 38.88
+    },
+    {
+      "date": "2026-04-15",
+      "close": 100.62,
+      "prev_close": 93.83,
+      "volume": 727021,
+      "deliverable_qty": 354796,
+      "delivery_pct": 48.8
+    },
+    {
+      "date": "2026-04-16",
+      "close": 104.82,
+      "prev_close": 100.62,
+      "volume": 1493379,
+      "deliverable_qty": 798759,
+      "delivery_pct": 53.49
+    },
+    {
+      "date": "2026-04-17",
+      "close": 114.83,
+      "prev_close": 104.82,
+      "volume": 1962447,
+      "deliverable_qty": 698534,
+      "delivery_pct": 35.6
+    },
+    {
+      "date": "2026-04-22",
+      "close": 110.48,
+      "prev_close": 112.85,
+      "volume": 679120,
+      "deliverable_qty": 360186,
+      "delivery_pct": 53.04
+    },
+    {
+      "date": "2026-04-23",
+      "close": 107.92,
+      "prev_close": 110.48,
+      "volume": 1198031,
+      "deliverable_qty": 748625,
+      "delivery_pct": 62.49
+    },
+    {
+      "date": "2026-04-24",
+      "close": 106.9,
+      "prev_close": 107.92,
+      "volume": 1534343,
+      "deliverable_qty": 1011452,
+      "delivery_pct": 65.92
+    },
+    {
+      "date": "2026-04-27",
+      "close": 107.42,
+      "prev_close": 106.9,
+      "volume": 684043,
+      "deliverable_qty": 316520,
+      "delivery_pct": 46.27
+    },
+    {
+      "date": "2026-04-28",
+      "close": 108.9,
+      "prev_close": 107.42,
+      "volume": 369483,
+      "deliverable_qty": 174283,
+      "delivery_pct": 47.17
+    },
+    {
+      "date": "2026-04-29",
+      "close": 107.73,
+      "prev_close": 108.9,
+      "volume": 221967,
+      "deliverable_qty": 111099,
+      "delivery_pct": 50.05
+    },
+    {
+      "date": "2026-04-30",
+      "close": 109.27,
+      "prev_close": 107.73,
+      "volume": 347295,
+      "deliverable_qty": 116882,
+      "delivery_pct": 33.65
+    },
+    {
+      "date": "2026-05-04",
+      "close": 108.67,
+      "prev_close": 109.27,
+      "volume": 141001,
+      "deliverable_qty": 71820,
+      "delivery_pct": 50.94
+    },
+    {
+      "date": "2026-05-05",
+      "close": 107.15,
+      "prev_close": 108.67,
+      "volume": 416041,
+      "deliverable_qty": 289947,
+      "delivery_pct": 69.69
+    },
+    {
+      "date": "2026-05-06",
+      "close": 110.52,
+      "prev_close": 107.15,
+      "volume": 377291,
+      "deliverable_qty": 229892,
+      "delivery_pct": 60.93
+    },
+    {
+      "date": "2026-05-07",
+      "close": 110.1,
+      "prev_close": 110.52,
+      "volume": 203580,
+      "deliverable_qty": 107219,
+      "delivery_pct": 52.67
+    },
+    {
+      "date": "2026-05-08",
+      "close": 106.32,
+      "prev_close": 110.1,
+      "volume": 449744,
+      "deliverable_qty": 295690,
+      "delivery_pct": 65.75
+    },
+    {
+      "date": "2026-05-11",
+      "close": 100.73,
+      "prev_close": 106.32,
+      "volume": 836870,
+      "deliverable_qty": 450242,
+      "delivery_pct": 53.8
+    }
+  ],
+  "news": [
+    {
+      "sort_date": "2026-05-08 18:47:57",
+      "an_dt": "08-May-2026 18:47:57",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_08052026184741_IntimationofNewspaper.pdf"
+    },
+    {
+      "sort_date": "2026-05-07 21:54:12",
+      "an_dt": "07-May-2026 21:54:12",
+      "desc": "Shareholders meeting",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_07052026215310_IntimationofNoticeofAGM.pdf"
+    },
+    {
+      "sort_date": "2026-05-07 20:07:45",
+      "an_dt": "07-May-2026 20:07:45",
+      "desc": "Allotment of Securities",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_07052026200738_OutcomeofCP07052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-07 17:42:40",
+      "an_dt": "07-May-2026 17:42:40",
+      "desc": "Suspension of Trading",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "-"
+    },
+    {
+      "sort_date": "2026-05-06 12:42:51",
+      "an_dt": "06-May-2026 12:42:51",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_ROID_84465_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-05-05 23:44:09",
+      "an_dt": "05-May-2026 23:44:09",
+      "desc": "Change in Management",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_05052026234322_ChangeinSMPSigned.pdf"
+    },
+    {
+      "sort_date": "2026-05-04 11:03:38",
+      "an_dt": "04-May-2026 11:03:38",
+      "desc": "Reply to Clarification- Financial results",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_29042026153024_RepyletterUgro29042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-30 18:06:16",
+      "an_dt": "30-Apr-2026 18:06:16",
+      "desc": "Updates",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_30042026180318_FinancialsStatementMar2026.pdf"
+    },
+    {
+      "sort_date": "2026-04-27 18:37:50",
+      "an_dt": "27-Apr-2026 18:37:50",
+      "desc": "Allotment of Securities",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_27042026183653_Outcome.pdf"
+    },
+    {
+      "sort_date": "2026-04-27 18:32:14",
+      "an_dt": "27-Apr-2026 18:32:14",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_27042026183119_Transcript.pdf"
+    },
+    {
+      "sort_date": "2026-04-27 16:28:48",
+      "an_dt": "27-Apr-2026 16:28:48",
+      "desc": "Updates",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_27042026162840_largecorporate.pdf"
+    },
+    {
+      "sort_date": "2026-04-23 17:49:15",
+      "an_dt": "23-Apr-2026 17:49:15",
+      "desc": "Clarification - Financial Results",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "-"
+    },
+    {
+      "sort_date": "2026-04-22 18:17:54",
+      "an_dt": "22-Apr-2026 18:17:54",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_22042026181746_intimationof_newspaper.pdf"
+    },
+    {
+      "sort_date": "2026-04-21 19:08:42",
+      "an_dt": "21-Apr-2026 19:08:42",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_21042026190729_Cover_letter.pdf"
+    },
+    {
+      "sort_date": "2026-04-20 22:36:16",
+      "an_dt": "20-Apr-2026 22:36:16",
+      "desc": "Investor Presentation",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_20042026223602_IP.pdf"
+    },
+    {
+      "sort_date": "2026-04-20 22:04:38",
+      "an_dt": "20-Apr-2026 22:04:38",
+      "desc": "Press Release",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_20042026220427_PR.pdf"
+    },
+    {
+      "sort_date": "2026-04-20 20:48:39",
+      "an_dt": "20-Apr-2026 20:48:39",
+      "desc": "Change in Auditors",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_20042026204826_Outcome.pdf"
+    },
+    {
+      "sort_date": "2026-04-20 20:41:27",
+      "an_dt": "20-Apr-2026 20:41:27",
+      "desc": "General Updates",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_20042026204118_Outcome.pdf"
+    },
+    {
+      "sort_date": "2026-04-20 20:14:42",
+      "an_dt": "20-Apr-2026 20:14:42",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_20042026201404_Outcome.pdf"
+    },
+    {
+      "sort_date": "2026-04-16 16:01:12",
+      "an_dt": "16-Apr-2026 16:01:12",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_16042026160005_IntimationofEarningsCallinvite21042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-10 15:58:59",
+      "an_dt": "10-Apr-2026 15:58:59",
+      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_10042026155850_Reg74.pdf"
+    },
+    {
+      "sort_date": "2026-04-09 19:37:56",
+      "an_dt": "09-Apr-2026 19:37:56",
+      "desc": "Allotment of Securities",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_09042026193714_Outcome09042026.pdf"
+    },
+    {
+      "sort_date": "2026-04-07 18:59:23",
+      "an_dt": "07-Apr-2026 18:59:23",
+      "desc": "Suspension of Trading",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "-"
+    },
+    {
+      "sort_date": "2026-03-30 19:24:00",
+      "an_dt": "30-Mar-2026 19:24:00",
+      "desc": "Allotment of Securities",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_30032026192326_OutcomeCP30032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-27 19:04:18",
+      "an_dt": "27-Mar-2026 19:04:18",
+      "desc": "Allotment of Securities",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_27032026190253_Outcome27032026NCBsallotment.pdf"
+    },
+    {
+      "sort_date": "2026-03-27 17:05:22",
+      "an_dt": "27-Mar-2026 17:05:22",
+      "desc": "Allotment of Securities",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_27032026170459_Outcome27032026NCDsAllotment.pdf"
+    },
+    {
+      "sort_date": "2026-03-26 20:55:28",
+      "an_dt": "26-Mar-2026 20:55:28",
+      "desc": "Trading Window",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_26032026205513_Tradingwindowclosure26032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-21 15:59:33",
+      "an_dt": "21-Mar-2026 15:59:33",
+      "desc": "Issue of Securities",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_21032026155830_OutcomeofIBC.pdf"
+    },
+    {
+      "sort_date": "2026-03-20 20:09:21",
+      "an_dt": "20-Mar-2026 20:09:21",
+      "desc": "Allotment of Securities",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_20032026200910_Outcome20032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-18 20:32:35",
+      "an_dt": "18-Mar-2026 20:32:35",
+      "desc": "General Updates",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_18032026203220_SEdisclosurePostacquisitionofshares.pdf"
+    },
+    {
+      "sort_date": "2026-03-18 20:23:42",
+      "an_dt": "18-Mar-2026 20:23:42",
+      "desc": "General Updates",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_18032026202318_IntimationIBC18032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-18 14:29:35",
+      "an_dt": "18-Mar-2026 14:29:35",
+      "desc": "Allotment of Securities",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_18032026142920_Outcome18032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-13 18:54:34",
+      "an_dt": "13-Mar-2026 18:54:34",
+      "desc": "Updates",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_13032026185425_Intimationchange_in_RO.pdf"
+    },
+    {
+      "sort_date": "2026-03-13 18:23:33",
+      "an_dt": "13-Mar-2026 18:23:33",
+      "desc": "Shareholders meeting",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_13032026182324_Outcomefinal.pdf"
+    },
+    {
+      "sort_date": "2026-03-11 19:48:12",
+      "an_dt": "11-Mar-2026 19:48:12",
+      "desc": "Issue of Securities",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_11032026194756_OutcomeofIBC11032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-06 19:29:58",
+      "an_dt": "06-Mar-2026 19:29:58",
+      "desc": "General Updates",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_06032026192932_IntimationIBC06032026.pdf"
+    },
+    {
+      "sort_date": "2026-03-05 22:47:47",
+      "an_dt": "05-Mar-2026 22:47:47",
+      "desc": "Agreements",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_05032026224726_RevisedSEdisclosureAmendedSPAFeb2026.pdf"
+    },
+    {
+      "sort_date": "2026-02-26 18:50:14",
+      "an_dt": "26-Feb-2026 18:50:14",
+      "desc": "Allotment of Securities",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_26022026184923_OutcomeCP26022026.pdf"
+    },
+    {
+      "sort_date": "2026-02-26 16:14:53",
+      "an_dt": "26-Feb-2026 16:14:53",
+      "desc": "General Updates",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_26022026161328_Intimationunderreg30.pdf"
+    },
+    {
+      "sort_date": "2026-02-25 19:28:22",
+      "an_dt": "25-Feb-2026 19:28:22",
+      "desc": "Allotment of Securities",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_25022026192803_OutcomeCP25012026.pdf"
+    },
+    {
+      "sort_date": "2026-02-13 16:12:38",
+      "an_dt": "13-Feb-2026 16:12:38",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_13022026161155_IntimationofEarningscalltranscript13022026.pdf"
+    },
+    {
+      "sort_date": "2026-02-13 11:43:10",
+      "an_dt": "13-Feb-2026 11:43:10",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_13022026114253_IntimationofMonitoringAgencyreport31122025.pdf"
+    },
+    {
+      "sort_date": "2026-02-11 19:16:31",
+      "an_dt": "11-Feb-2026 19:16:31",
+      "desc": "Allotment of Securities",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_11022026191600_DisclosureunderReg30AllotmentofSecurities.pdf"
+    },
+    {
+      "sort_date": "2026-02-11 19:06:13",
+      "an_dt": "11-Feb-2026 19:06:13",
+      "desc": "Suspension of Trading",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "-"
+    },
+    {
+      "sort_date": "2026-02-10 19:37:20",
+      "an_dt": "10-Feb-2026 19:37:20",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_10022026193702_InvestorMeetingNotice.pdf"
+    },
+    {
+      "sort_date": "2026-02-10 17:30:16",
+      "an_dt": "10-Feb-2026 17:30:16",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_10022026173008_IntimationofNewspaperAdvertisement10022026.pdf"
+    }
+  ]
+}
