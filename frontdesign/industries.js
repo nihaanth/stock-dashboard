@@ -55,7 +55,7 @@ async function fetchJSON(path) {
 }
 
 function initTheme() {
-  const saved = localStorage.getItem("sb-theme") || "dark";
+  const saved = localStorage.getItem("sb-theme") || "light";
   document.documentElement.dataset.theme = saved;
   const btn = document.getElementById("themeToggle");
   if (!btn) return;
@@ -166,7 +166,7 @@ function renderGrid() {
     ` : ""}
 
     <section class="industry-grid">
-      ${industries.map(industryCard).join("") || `<div class="ind-empty">No industries match “${esc(q)}”.</div>`}
+      ${industries.map((i, idx) => industryCard(i, idx)).join("") || `<div class="ind-empty">No industries match “${esc(q)}”.</div>`}
     </section>
   `;
 
@@ -190,7 +190,7 @@ function industrySorter(key) {
   }
 }
 
-function industryCard(i) {
+function industryCard(i, idx = 0) {
   const pct = i.median_pct_chg_90d;
   const breadth = i.pct_stocks_up ?? 0;
   const heatClass = pct == null
@@ -202,7 +202,7 @@ function industryCard(i) {
     : "heat--cold";
 
   return `
-    <a class="industry-card" href="#/${esc(i.slug)}">
+    <a class="industry-card" href="#/${esc(i.slug)}" style="--i:${idx}">
       <div class="industry-card__head">
         <div class="industry-card__name">${esc(i.name)}</div>
         <span class="heat-badge ${heatClass}">${pct == null ? "—" : PCT_SIGN.format(pct) + "%"}</span>

@@ -81,7 +81,7 @@ function showError(msg) {
 
 // ---------- theme ----------
 function initTheme() {
-  const saved = localStorage.getItem("sb-theme") || "dark";
+  const saved = localStorage.getItem("sb-theme") || "light";
   document.documentElement.dataset.theme = saved;
   const btn = document.getElementById("themeToggle");
   if (!btn) return;
