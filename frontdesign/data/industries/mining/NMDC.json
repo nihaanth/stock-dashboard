@@ -8,17 +8,9 @@
   "price": 86.79,
   "market_cap_cr": 76304.18,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 85.07,
-      "prev_close": 84.47,
-      "volume": 46795269,
-      "deliverable_qty": 17262237,
-      "delivery_pct": 36.89
-    },
     {
       "date": "2026-02-11",
       "close": 85.46,
@@ -466,9 +458,24 @@
       "volume": 13097856,
       "deliverable_qty": 5474443,
       "delivery_pct": 41.8
+    },
+    {
+      "date": "2026-05-12",
+      "close": 86.62,
+      "prev_close": 86.79,
+      "volume": 14380728,
+      "deliverable_qty": 6640651,
+      "delivery_pct": 46.18
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 21:57:55",
+      "an_dt": "12-May-2026 21:57:55",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "NMDC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NMDC_12052026215744_20260512_SEA202627008_Newspaper_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-06 08:39:15",
       "an_dt": "06-May-2026 08:39:15",
@@ -601,13 +608,6 @@
       "desc": "News Verification",
       "sm_name": "NMDC Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NMDC_18022026130529_20260130_SEA2025073_RV.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 08:41:12",
-      "an_dt": "10-Feb-2026 08:41:12",
-      "desc": "General Updates",
-      "sm_name": "NMDC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NMDC_10022026084101_20260210_SEA2025079_IronOrePrices.pdf"
     }
   ]
 }

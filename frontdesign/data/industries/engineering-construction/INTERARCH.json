@@ -8,17 +8,9 @@
   "price": 2103.1,
   "market_cap_cr": 3527.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1985.2,
-      "prev_close": 2101.5,
-      "volume": 204889,
-      "deliverable_qty": 119872,
-      "delivery_pct": 58.51
-    },
     {
       "date": "2026-02-11",
       "close": 1926.2,
@@ -466,9 +458,24 @@
       "volume": 39154,
       "deliverable_qty": 17707,
       "delivery_pct": 45.22
+    },
+    {
+      "date": "2026-05-12",
+      "close": 2026.2,
+      "prev_close": 2103.1,
+      "volume": 50471,
+      "deliverable_qty": 25891,
+      "delivery_pct": 51.3
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:52:35",
+      "an_dt": "12-May-2026 18:52:35",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "Interarch Building Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTERARCH1983_12052026185224_order.pdf"
+    },
     {
       "sort_date": "2026-05-07 16:00:34",
       "an_dt": "07-May-2026 16:00:34",

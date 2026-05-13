@@ -8,17 +8,9 @@
   "price": 245.55,
   "market_cap_cr": 2077.45,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 252.21,
-      "prev_close": 247.65,
-      "volume": 446117,
-      "deliverable_qty": 273046,
-      "delivery_pct": 61.21
-    },
     {
       "date": "2026-02-11",
       "close": 253.86,
@@ -466,9 +458,24 @@
       "volume": 212178,
       "deliverable_qty": 103889,
       "delivery_pct": 48.96
+    },
+    {
+      "date": "2026-05-12",
+      "close": 236.65,
+      "prev_close": 245.55,
+      "volume": 378083,
+      "deliverable_qty": 128040,
+      "delivery_pct": 33.87
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 10:07:47",
+      "an_dt": "12-May-2026 10:07:47",
+      "desc": "Credit Rating- New",
+      "sm_name": "Capacit'e Infraprojects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPACITE_12052026100725_Credit_rating.pdf"
+    },
     {
       "sort_date": "2026-05-06 19:37:51",
       "an_dt": "06-May-2026 19:37:51",

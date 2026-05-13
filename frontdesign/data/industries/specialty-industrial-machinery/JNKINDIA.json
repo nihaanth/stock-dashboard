@@ -8,17 +8,9 @@
   "price": 370.3,
   "market_cap_cr": 2071.97,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 254.3,
-      "prev_close": 253.45,
-      "volume": 3991772,
-      "deliverable_qty": 617417,
-      "delivery_pct": 15.47
-    },
     {
       "date": "2026-02-11",
       "close": 253.41,
@@ -466,6 +458,14 @@
       "volume": 225022,
       "deliverable_qty": 137220,
       "delivery_pct": 60.98
+    },
+    {
+      "date": "2026-05-12",
+      "close": 351.65,
+      "prev_close": 370.3,
+      "volume": 126225,
+      "deliverable_qty": 77566,
+      "delivery_pct": 61.45
     }
   ],
   "news": [
@@ -531,20 +531,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "JNK India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JNKINDIA23_11022026154919_newspaper_adv_covering_letter.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:25:13",
-      "an_dt": "10-Feb-2026 19:25:13",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "JNK India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JNKINDIA23_10022026192433_12071013.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:39:19",
-      "an_dt": "10-Feb-2026 18:39:19",
-      "desc": "Shareholders meeting",
-      "sm_name": "JNK India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JNKINDIA23_10022026183852_covering_letter_voting_result_and_report.pdf"
     }
   ]
 }

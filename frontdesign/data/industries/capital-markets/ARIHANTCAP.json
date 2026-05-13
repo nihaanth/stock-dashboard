@@ -8,17 +8,9 @@
   "price": 72.3,
   "market_cap_cr": 792.5,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 78.35,
-      "prev_close": 81.76,
-      "volume": 624031,
-      "deliverable_qty": 305667,
-      "delivery_pct": 48.98
-    },
     {
       "date": "2026-02-11",
       "close": 77.69,
@@ -466,6 +458,14 @@
       "volume": 246870,
       "deliverable_qty": 108861,
       "delivery_pct": 44.1
+    },
+    {
+      "date": "2026-05-12",
+      "close": 69.37,
+      "prev_close": 72.3,
+      "volume": 190567,
+      "deliverable_qty": 93096,
+      "delivery_pct": 48.85
     }
   ],
   "news": [
@@ -510,13 +510,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Arihant Capital Markets Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARIHANTCAP_23032026182950_Covering.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:35:31",
-      "an_dt": "10-Feb-2026 16:35:31",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Arihant Capital Markets Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARIHANTCAP_10022026163516_NewspaperIntimationfdec.pdf"
     }
   ]
 }

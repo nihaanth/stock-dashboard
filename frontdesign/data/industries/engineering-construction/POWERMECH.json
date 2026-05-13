@@ -8,17 +8,9 @@
   "price": 2526.5,
   "market_cap_cr": 7987.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 2268.5,
-      "prev_close": 2200.0,
-      "volume": 114636,
-      "deliverable_qty": 51492,
-      "delivery_pct": 44.92
-    },
     {
       "date": "2026-02-11",
       "close": 2177.1,
@@ -466,6 +458,14 @@
       "volume": 88082,
       "deliverable_qty": 40186,
       "delivery_pct": 45.62
+    },
+    {
+      "date": "2026-05-12",
+      "close": 2396.9,
+      "prev_close": 2526.5,
+      "volume": 81651,
+      "deliverable_qty": 39988,
+      "delivery_pct": 48.97
     }
   ],
   "news": [
@@ -535,7 +535,7 @@
     {
       "sort_date": "2026-03-09 17:55:33",
       "an_dt": "09-Mar-2026 17:55:33",
-      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
+      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
       "sm_name": "Power Mech Projects Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/POWERMECH_09032026175336_Disclosure.pdf"
     },
@@ -587,27 +587,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Power Mech Projects Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/POWERMECH_11022026144351_CL.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 21:38:18",
-      "an_dt": "10-Feb-2026 21:38:18",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Power Mech Projects Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POWERMECH_10022026213658_Dec_25_SEBI_Results.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:46:37",
-      "an_dt": "10-Feb-2026 19:46:37",
-      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
-      "sm_name": "Power Mech Projects Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POWERMECH_10022026194629_OC.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:41:49",
-      "an_dt": "10-Feb-2026 19:41:49",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Power Mech Projects Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POWERMECH_10022026194014_OC.pdf"
     }
   ]
 }

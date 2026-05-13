@@ -8,17 +8,9 @@
   "price": 1546.2,
   "market_cap_cr": 4649.68,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1015.4,
-      "prev_close": 1035.95,
-      "volume": 192133,
-      "deliverable_qty": 170292,
-      "delivery_pct": 88.63
-    },
     {
       "date": "2026-02-11",
       "close": 1012.2,
@@ -466,6 +458,14 @@
       "volume": 65300,
       "deliverable_qty": 25738,
       "delivery_pct": 39.42
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1468.9,
+      "prev_close": 1546.2,
+      "volume": 51754,
+      "deliverable_qty": 28179,
+      "delivery_pct": 54.45
     }
   ],
   "news": [
@@ -580,13 +580,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Lux Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LUXIND_14022026161123_boardmeetingoutcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 10:26:29",
-      "an_dt": "10-Feb-2026 10:26:29",
-      "desc": "Spurt in Volume",
-      "sm_name": "Lux Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LUXIND_10022026102455_NSE_reply.pdf"
     }
   ]
 }

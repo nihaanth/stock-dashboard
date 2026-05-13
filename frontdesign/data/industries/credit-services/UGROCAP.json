@@ -8,17 +8,9 @@
   "price": 100.73,
   "market_cap_cr": 1539.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 135.22,
-      "prev_close": 136.23,
-      "volume": 456438,
-      "deliverable_qty": 250246,
-      "delivery_pct": 54.83
-    },
     {
       "date": "2026-02-11",
       "close": 135.65,
@@ -466,9 +458,24 @@
       "volume": 836870,
       "deliverable_qty": 450242,
       "delivery_pct": 53.8
+    },
+    {
+      "date": "2026-05-12",
+      "close": 99.66,
+      "prev_close": 100.73,
+      "volume": 267637,
+      "deliverable_qty": 115541,
+      "delivery_pct": 43.17
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 17:55:36",
+      "an_dt": "12-May-2026 17:55:36",
+      "desc": "Allotment of Securities",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_12052026175517_OutcomeofCP12052026.pdf"
+    },
     {
       "sort_date": "2026-05-08 18:47:57",
       "an_dt": "08-May-2026 18:47:57",
@@ -776,20 +783,6 @@
       "desc": "Suspension of Trading",
       "sm_name": "Ugro Capital Limited",
       "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-02-10 19:37:20",
-      "an_dt": "10-Feb-2026 19:37:20",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Ugro Capital Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_10022026193702_InvestorMeetingNotice.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:30:16",
-      "an_dt": "10-Feb-2026 17:30:16",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Ugro Capital Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_10022026173008_IntimationofNewspaperAdvertisement10022026.pdf"
     }
   ]
 }

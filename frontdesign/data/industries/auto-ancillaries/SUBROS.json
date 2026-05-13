@@ -8,17 +8,9 @@
   "price": 781.05,
   "market_cap_cr": 5095.24,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 833.3,
-      "prev_close": 826.1,
-      "volume": 37214,
-      "deliverable_qty": 18150,
-      "delivery_pct": 48.77
-    },
     {
       "date": "2026-02-11",
       "close": 841.1,
@@ -466,6 +458,14 @@
       "volume": 34520,
       "deliverable_qty": 17251,
       "delivery_pct": 49.97
+    },
+    {
+      "date": "2026-05-12",
+      "close": 750.7,
+      "prev_close": 781.05,
+      "volume": 69176,
+      "deliverable_qty": 30197,
+      "delivery_pct": 43.65
     }
   ],
   "news": [
@@ -524,13 +524,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Subros Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUBROS_11022026161823_proofofpublication11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:54:49",
-      "an_dt": "10-Feb-2026 17:54:49",
-      "desc": "Shareholders meeting",
-      "sm_name": "Subros Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUBROS_10022026175330_Postalballotnotice10022026.pdf"
     }
   ]
 }

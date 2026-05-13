@@ -8,17 +8,9 @@
   "price": 347.4,
   "market_cap_cr": 6303.69,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 335.6,
-      "prev_close": 332.0,
-      "volume": 187692,
-      "deliverable_qty": 74796,
-      "delivery_pct": 39.85
-    },
     {
       "date": "2026-02-11",
       "close": 329.8,
@@ -466,9 +458,24 @@
       "volume": 121513,
       "deliverable_qty": 79603,
       "delivery_pct": 65.51
+    },
+    {
+      "date": "2026-05-12",
+      "close": 331.5,
+      "prev_close": 347.4,
+      "volume": 154160,
+      "deliverable_qty": 82928,
+      "delivery_pct": 53.79
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 11:42:07",
+      "an_dt": "12-May-2026 11:42:07",
+      "desc": "Press Release",
+      "sm_name": "MAS Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASFIN_12052026114201_PRFINAL.pdf"
+    },
     {
       "sort_date": "2026-05-06 15:15:06",
       "an_dt": "06-May-2026 15:15:06",

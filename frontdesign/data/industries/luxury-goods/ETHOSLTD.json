@@ -8,17 +8,9 @@
   "price": 2359.6,
   "market_cap_cr": 6313.75,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 2569.1,
-      "prev_close": 2597.0,
-      "volume": 39801,
-      "deliverable_qty": 34644,
-      "delivery_pct": 87.04
-    },
     {
       "date": "2026-02-11",
       "close": 2546.3,
@@ -466,9 +458,52 @@
       "volume": 12995,
       "deliverable_qty": 5553,
       "delivery_pct": 42.73
+    },
+    {
+      "date": "2026-05-12",
+      "close": 2361.3,
+      "prev_close": 2359.6,
+      "volume": 282504,
+      "deliverable_qty": 30403,
+      "delivery_pct": 10.76
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 15:51:08",
+      "an_dt": "12-May-2026 15:51:08",
+      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
+      "sm_name": "Ethos Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ETHOS_12052026155101_RightsIssue.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 15:29:55",
+      "an_dt": "12-May-2026 15:29:55",
+      "desc": "Investor Presentation",
+      "sm_name": "Ethos Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ETHOS_12052026152949_Investor_presentation.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 14:22:47",
+      "an_dt": "12-May-2026 14:22:47",
+      "desc": "Change in Director(s)",
+      "sm_name": "Ethos Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ETHOS_12052026142237_Disclosure-_appointment_of_Director_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 14:21:26",
+      "an_dt": "12-May-2026 14:21:26",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Ethos Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ETHOS_12052026142016_Outcomes_of_Board_meeting.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 14:04:18",
+      "an_dt": "12-May-2026 14:04:18",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Ethos Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ETHOS_12052026140030_Outcomes_of_Board_meeting.pdf"
+    },
     {
       "sort_date": "2026-05-01 13:06:37",
       "an_dt": "01-May-2026 13:06:37",

@@ -8,17 +8,9 @@
   "price": 195.46,
   "market_cap_cr": 22444.21,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 213.23,
-      "prev_close": 216.93,
-      "volume": 3757863,
-      "deliverable_qty": 2178295,
-      "delivery_pct": 57.97
-    },
     {
       "date": "2026-02-11",
       "close": 208.76,
@@ -466,9 +458,24 @@
       "volume": 1442288,
       "deliverable_qty": 958017,
       "delivery_pct": 66.42
+    },
+    {
+      "date": "2026-05-12",
+      "close": 188.01,
+      "prev_close": 195.46,
+      "volume": 1708489,
+      "deliverable_qty": 906676,
+      "delivery_pct": 53.07
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 12:03:06",
+      "an_dt": "12-May-2026 12:03:06",
+      "desc": "Press Release",
+      "sm_name": "Pine Labs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PINELABS_12052026120225_IntimationGCashPhilippines.pdf"
+    },
     {
       "sort_date": "2026-05-06 17:54:48",
       "an_dt": "06-May-2026 17:54:48",

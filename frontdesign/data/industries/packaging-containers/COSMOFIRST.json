@@ -8,17 +8,9 @@
   "price": 779.5,
   "market_cap_cr": 2023.44,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 660.1,
-      "prev_close": 631.8,
-      "volume": 140235,
-      "deliverable_qty": 102835,
-      "delivery_pct": 73.33
-    },
     {
       "date": "2026-02-11",
       "close": 663.35,
@@ -466,6 +458,14 @@
       "volume": 135540,
       "deliverable_qty": 69806,
       "delivery_pct": 51.5
+    },
+    {
+      "date": "2026-05-12",
+      "close": 762.85,
+      "prev_close": 779.5,
+      "volume": 83404,
+      "deliverable_qty": 43547,
+      "delivery_pct": 52.21
     }
   ],
   "news": [
@@ -594,13 +594,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "COSMO FIRST LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSMOFILMS_11022026171832_Outcome_11022025.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:23:56",
-      "an_dt": "10-Feb-2026 18:23:56",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "COSMO FIRST LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSMOFILMS_10022026182346_Intimation_AnalystMeet.pdf"
     }
   ]
 }

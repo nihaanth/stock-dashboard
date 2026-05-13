@@ -8,17 +8,9 @@
   "price": 424.4,
   "market_cap_cr": 3368.23,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 365.8,
-      "prev_close": 360.7,
-      "volume": 321499,
-      "deliverable_qty": 150197,
-      "delivery_pct": 46.72
-    },
     {
       "date": "2026-02-11",
       "close": 360.15,
@@ -466,6 +458,14 @@
       "volume": 267140,
       "deliverable_qty": 151803,
       "delivery_pct": 56.83
+    },
+    {
+      "date": "2026-05-12",
+      "close": 417.25,
+      "prev_close": 424.4,
+      "volume": 377184,
+      "deliverable_qty": 218001,
+      "delivery_pct": 57.8
     }
   ],
   "news": [
@@ -573,13 +573,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Cyient DLM Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/9880504433_05032026163823_Investor_meet_11_03_2026_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 15:02:22",
-      "an_dt": "10-Feb-2026 15:02:22",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Cyient DLM Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9880504433_10022026150127_Newspaper_Adv_and_PAS1_Adv_signed.pdf"
     }
   ]
 }

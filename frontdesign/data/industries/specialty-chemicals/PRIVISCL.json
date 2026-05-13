@@ -8,17 +8,9 @@
   "price": 3472.9,
   "market_cap_cr": 13566.09,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 2740.4,
-      "prev_close": 2754.1,
-      "volume": 212226,
-      "deliverable_qty": 126924,
-      "delivery_pct": 59.81
-    },
     {
       "date": "2026-02-11",
       "close": 2751.3,
@@ -466,9 +458,24 @@
       "volume": 502152,
       "deliverable_qty": 154691,
       "delivery_pct": 30.81
+    },
+    {
+      "date": "2026-05-12",
+      "close": 3198.7,
+      "prev_close": 3472.9,
+      "volume": 268810,
+      "deliverable_qty": 114807,
+      "delivery_pct": 42.71
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:03:14",
+      "an_dt": "12-May-2026 18:03:14",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Privi Speciality Chemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FAIRCHEMDP_12052026180302_LettertoBSENSEBMInvestorsMeetOutcomeQ4.pdf"
+    },
     {
       "sort_date": "2026-05-11 17:57:20",
       "an_dt": "11-May-2026 17:57:20",
@@ -608,20 +615,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Privi Speciality Chemicals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FAIRCHEMDP_12022026165847_lettertoBSEandNSEInvestorMeet.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:17:55",
-      "an_dt": "10-Feb-2026 18:17:55",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Privi Speciality Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FAIRCHEMDP_10022026181743_LettertoBSENSEBMInvestorsMeetOutcomeQ3.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 15:04:54",
-      "an_dt": "10-Feb-2026 15:04:54",
-      "desc": "Investor Presentation",
-      "sm_name": "Privi Speciality Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FAIRCHEMDP_10022026150359_LettertoBSENSEInvestorPresentationQ3.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 368.6,
   "market_cap_cr": 722.13,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 329.95,
-      "prev_close": 331.5,
-      "volume": 4591,
-      "deliverable_qty": 3051,
-      "delivery_pct": 66.46
-    },
     {
       "date": "2026-02-11",
       "close": 334.05,
@@ -466,9 +458,24 @@
       "volume": 50594,
       "deliverable_qty": 33245,
       "delivery_pct": 65.71
+    },
+    {
+      "date": "2026-05-12",
+      "close": 365.45,
+      "prev_close": 368.6,
+      "volume": 194316,
+      "deliverable_qty": 164092,
+      "delivery_pct": 84.45
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 12:45:12",
+      "an_dt": "12-May-2026 12:45:12",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Modis Navnirman Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MODIS_12052026124444_Concall_intimation_Q4_FY26_NEW.pdf"
+    },
     {
       "sort_date": "2026-05-11 19:23:10",
       "an_dt": "11-May-2026 19:23:10",

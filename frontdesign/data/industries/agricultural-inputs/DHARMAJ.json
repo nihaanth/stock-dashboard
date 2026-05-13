@@ -8,17 +8,9 @@
   "price": 261.25,
   "market_cap_cr": 882.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 252.02,
-      "prev_close": 256.37,
-      "volume": 75706,
-      "deliverable_qty": 36915,
-      "delivery_pct": 48.76
-    },
     {
       "date": "2026-02-11",
       "close": 240.07,
@@ -466,6 +458,14 @@
       "volume": 108437,
       "deliverable_qty": 79712,
       "delivery_pct": 73.51
+    },
+    {
+      "date": "2026-05-12",
+      "close": 262.3,
+      "prev_close": 261.25,
+      "volume": 52751,
+      "deliverable_qty": 38454,
+      "delivery_pct": 72.9
     }
   ],
   "news": [
@@ -538,34 +538,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Dharmaj Crop Guard Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DHARMAJ_11022026122338_BSENSE_Newspaper.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 20:11:11",
-      "an_dt": "10-Feb-2026 20:11:11",
-      "desc": "Press Release",
-      "sm_name": "Dharmaj Crop Guard Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DHARMAJ_10022026201047_DCGLPRESSRELEASE10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 20:07:12",
-      "an_dt": "10-Feb-2026 20:07:12",
-      "desc": "Investor Presentation",
-      "sm_name": "Dharmaj Crop Guard Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DHARMAJ_10022026200657_DCGLINVESTORPRESENTATIONDEC2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:49:57",
-      "an_dt": "10-Feb-2026 17:49:57",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Dharmaj Crop Guard Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DHARMAJ_10022026174812_BMOUTCOMEC.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:46:43",
-      "an_dt": "10-Feb-2026 17:46:43",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Dharmaj Crop Guard Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DHARMAJ_10022026174625_BMOUTCOMEC.pdf"
     }
   ]
 }

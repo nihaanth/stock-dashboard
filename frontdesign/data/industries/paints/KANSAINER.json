@@ -8,17 +8,9 @@
   "price": 217.34,
   "market_cap_cr": 17575.38,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 211.9,
-      "prev_close": 212.59,
-      "volume": 506242,
-      "deliverable_qty": 296367,
-      "delivery_pct": 58.54
-    },
     {
       "date": "2026-02-11",
       "close": 206.44,
@@ -466,9 +458,24 @@
       "volume": 664189,
       "deliverable_qty": 292483,
       "delivery_pct": 44.04
+    },
+    {
+      "date": "2026-05-12",
+      "close": 213.83,
+      "prev_close": 217.34,
+      "volume": 879080,
+      "deliverable_qty": 579377,
+      "delivery_pct": 65.91
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:14:36",
+      "an_dt": "12-May-2026 18:14:36",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Kansai Nerolac Paints Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KANSAINER_12052026181418_SEintimation_concalltranscript_signed.pdf"
+    },
     {
       "sort_date": "2026-05-06 20:11:55",
       "an_dt": "06-May-2026 20:11:55",
@@ -636,13 +643,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Kansai Nerolac Paints Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KANSAINER_20022026180516_Investor_meet_-_KPJ_2026Signed_.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:02:36",
-      "an_dt": "10-Feb-2026 17:02:36",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Kansai Nerolac Paints Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KANSAINER_10022026170137_TranscriptSE3rdfebsigned_.pdf"
     }
   ]
 }

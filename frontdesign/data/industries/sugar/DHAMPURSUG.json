@@ -8,17 +8,9 @@
   "price": 159.0,
   "market_cap_cr": 1022.47,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 122.52,
-      "prev_close": 120.5,
-      "volume": 202935,
-      "deliverable_qty": 101438,
-      "delivery_pct": 49.99
-    },
     {
       "date": "2026-02-11",
       "close": 120.25,
@@ -466,6 +458,14 @@
       "volume": 1683516,
       "deliverable_qty": 479235,
       "delivery_pct": 28.47
+    },
+    {
+      "date": "2026-05-12",
+      "close": 151.68,
+      "prev_close": 159.0,
+      "volume": 598791,
+      "deliverable_qty": 261311,
+      "delivery_pct": 43.64
     }
   ],
   "news": [
@@ -524,13 +524,6 @@
       "desc": "Trading Window",
       "sm_name": "Dhampur Sugar Mills Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DHAMPURSUG_24032026165659_IntimationTradingWindow24032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:09:49",
-      "an_dt": "10-Feb-2026 18:09:49",
-      "desc": "Updates",
-      "sm_name": "Dhampur Sugar Mills Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DHAMPURSUG_10022026180838_DSML_CP_Allotment.pdf"
     }
   ]
 }

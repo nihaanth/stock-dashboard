@@ -8,17 +8,9 @@
   "price": 1239.2,
   "market_cap_cr": 33297.17,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1139.3,
-      "prev_close": 1160.9,
-      "volume": 114020,
-      "deliverable_qty": 58040,
-      "delivery_pct": 50.9
-    },
     {
       "date": "2026-02-11",
       "close": 1146.2,
@@ -466,6 +458,14 @@
       "volume": 311112,
       "deliverable_qty": 174143,
       "delivery_pct": 55.97
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1193.1,
+      "prev_close": 1239.2,
+      "volume": 853041,
+      "deliverable_qty": 631463,
+      "delivery_pct": 74.02
     }
   ],
   "news": [
@@ -643,13 +643,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Global Health Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDANTA21_11022026121937_GHLNEWSADVINTIMATIONFEBRUARY112026FINALSIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:12:04",
-      "an_dt": "10-Feb-2026 13:12:04",
-      "desc": "Shareholders meeting",
-      "sm_name": "Global Health Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDANTA21_10022026131145_GHLPOSTALBALLOTNOTICE10FEB2026FINALSIGNED.pdf"
     }
   ]
 }

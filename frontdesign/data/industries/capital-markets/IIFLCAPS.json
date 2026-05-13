@@ -8,17 +8,9 @@
   "price": 351.25,
   "market_cap_cr": 10939.14,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 340.7,
-      "prev_close": 327.9,
-      "volume": 630391,
-      "deliverable_qty": 355079,
-      "delivery_pct": 56.33
-    },
     {
       "date": "2026-02-11",
       "close": 322.95,
@@ -466,9 +458,24 @@
       "volume": 644301,
       "deliverable_qty": 436845,
       "delivery_pct": 67.8
+    },
+    {
+      "date": "2026-05-12",
+      "close": 345.35,
+      "prev_close": 351.25,
+      "volume": 1204172,
+      "deliverable_qty": 792069,
+      "delivery_pct": 65.78
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 17:29:50",
+      "an_dt": "12-May-2026 17:29:50",
+      "desc": "General Updates",
+      "sm_name": "IIFL Capital Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFLSEC_12052026172934_SEintimation.pdf"
+    },
     {
       "sort_date": "2026-05-11 19:05:46",
       "an_dt": "11-May-2026 19:05:46",
@@ -769,62 +776,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "IIFL Capital Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFLSEC_11022026175714_NewspaperAdvertisementSEintimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:44:59",
-      "an_dt": "10-Feb-2026 19:44:59",
-      "desc": "Press Release",
-      "sm_name": "IIFL Capital Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFLSEC_10022026194348_SEIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:42:12",
-      "an_dt": "10-Feb-2026 19:42:12",
-      "desc": "Investor Presentation",
-      "sm_name": "IIFL Capital Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFLSEC_10022026193905_SEintimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:52:46",
-      "an_dt": "10-Feb-2026 18:52:46",
-      "desc": "Updates",
-      "sm_name": "IIFL Capital Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFLSEC_10022026184941_SEIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:46:15",
-      "an_dt": "10-Feb-2026 18:46:15",
-      "desc": "Updates",
-      "sm_name": "IIFL Capital Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFLSEC_10022026184520_SEIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:43:13",
-      "an_dt": "10-Feb-2026 18:43:13",
-      "desc": "Updates",
-      "sm_name": "IIFL Capital Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFLSEC_10022026183821_SEIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:35:46",
-      "an_dt": "10-Feb-2026 18:35:46",
-      "desc": "Record Date",
-      "sm_name": "IIFL Capital Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFLSEC_10022026182954_SEIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:28:34",
-      "an_dt": "10-Feb-2026 18:28:34",
-      "desc": "Dividend",
-      "sm_name": "IIFL Capital Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFLSEC_10022026182717_BMOutcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:25:36",
-      "an_dt": "10-Feb-2026 18:25:36",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "IIFL Capital Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFLSEC_10022026182434_BMOutcome.pdf"
     }
   ]
 }

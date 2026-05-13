@@ -8,17 +8,9 @@
   "price": 149.53,
   "market_cap_cr": 2069.81,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 174.82,
-      "prev_close": 177.77,
-      "volume": 718721,
-      "deliverable_qty": 495493,
-      "delivery_pct": 68.94
-    },
     {
       "date": "2026-02-11",
       "close": 174.45,
@@ -466,6 +458,14 @@
       "volume": 207403,
       "deliverable_qty": 94849,
       "delivery_pct": 45.73
+    },
+    {
+      "date": "2026-05-12",
+      "close": 144.49,
+      "prev_close": 149.53,
+      "volume": 191677,
+      "deliverable_qty": 95287,
+      "delivery_pct": 49.71
     }
   ],
   "news": [
@@ -538,13 +538,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "S H Kelkar and Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/9152077850_12022026190109_SHK_Concall_Transcript_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:34:59",
-      "an_dt": "10-Feb-2026 17:34:59",
-      "desc": "Updates",
-      "sm_name": "S H Kelkar and Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9152077850_10022026173442_SEIntimationforTDSCommnuication202526.pdf"
     }
   ]
 }

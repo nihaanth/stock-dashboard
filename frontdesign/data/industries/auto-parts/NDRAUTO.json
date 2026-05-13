@@ -8,17 +8,9 @@
   "price": 728.1,
   "market_cap_cr": 1736.9,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 793.8,
-      "prev_close": 761.5,
-      "volume": 53931,
-      "deliverable_qty": 20258,
-      "delivery_pct": 37.56
-    },
     {
       "date": "2026-02-11",
       "close": 765.35,
@@ -466,9 +458,31 @@
       "volume": 330748,
       "deliverable_qty": 63092,
       "delivery_pct": 19.08
+    },
+    {
+      "date": "2026-05-12",
+      "close": 821.15,
+      "prev_close": 838.7,
+      "volume": 129641,
+      "deliverable_qty": 34129,
+      "delivery_pct": 26.33
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 15:37:12",
+      "an_dt": "12-May-2026 15:37:12",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Ndr Auto Components Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NDRAUTO_12052026153656_SE_Audio.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 10:17:21",
+      "an_dt": "12-May-2026 10:17:21",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Ndr Auto Components Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NDRAUTO_12052026101710_Newspaper_Publication_NDR.pdf"
+    },
     {
       "sort_date": "2026-05-11 14:18:17",
       "an_dt": "11-May-2026 14:18:17",

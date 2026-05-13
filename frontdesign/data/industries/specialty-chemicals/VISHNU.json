@@ -8,17 +8,9 @@
   "price": 580.65,
   "market_cap_cr": 3908.66,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 522.0,
-      "prev_close": 518.85,
-      "volume": 59094,
-      "deliverable_qty": 34100,
-      "delivery_pct": 57.7
-    },
     {
       "date": "2026-02-11",
       "close": 525.95,
@@ -466,9 +458,24 @@
       "volume": 125453,
       "deliverable_qty": 87634,
       "delivery_pct": 69.85
+    },
+    {
+      "date": "2026-05-12",
+      "close": 575.75,
+      "prev_close": 580.65,
+      "volume": 91855,
+      "deliverable_qty": 52539,
+      "delivery_pct": 57.2
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 14:41:41",
+      "an_dt": "12-May-2026 14:41:41",
+      "desc": "Updates",
+      "sm_name": "Vishnu Chemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VISHNU_12052026144120_CompletionofPlantMaintainance_dt12052026_signed.pdf"
+    },
     {
       "sort_date": "2026-05-05 19:52:41",
       "an_dt": "05-May-2026 19:52:41",

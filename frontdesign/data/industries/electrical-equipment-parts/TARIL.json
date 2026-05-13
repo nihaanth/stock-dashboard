@@ -8,17 +8,9 @@
   "price": 313.75,
   "market_cap_cr": 9417.7,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 281.98,
-      "prev_close": 285.65,
-      "volume": 7936809,
-      "deliverable_qty": 1536923,
-      "delivery_pct": 19.36
-    },
     {
       "date": "2026-02-11",
       "close": 286.78,
@@ -466,6 +458,14 @@
       "volume": 3446133,
       "deliverable_qty": 1522739,
       "delivery_pct": 44.19
+    },
+    {
+      "date": "2026-05-12",
+      "close": 298.1,
+      "prev_close": 313.75,
+      "volume": 2704317,
+      "deliverable_qty": 1196294,
+      "delivery_pct": 44.24
     }
   ],
   "news": [
@@ -587,20 +587,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Transformers And Rectifiers (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRIL_05032026130646_OutcomeBM05032026Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:06:17",
-      "an_dt": "10-Feb-2026 16:06:17",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Transformers And Rectifiers (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRIL_10022026160320_IntimationScheduleMeet11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 10:37:51",
-      "an_dt": "10-Feb-2026 10:37:51",
-      "desc": "Spurt in Volume",
-      "sm_name": "Transformers And Rectifiers (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRIL_10022026103740_ClarificationNSEVolume10022026.pdf"
     }
   ]
 }

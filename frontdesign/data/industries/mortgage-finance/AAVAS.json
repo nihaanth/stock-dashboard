@@ -8,17 +8,9 @@
   "price": 1283.6,
   "market_cap_cr": 10180.84,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1343.1,
-      "prev_close": 1328.0,
-      "volume": 161260,
-      "deliverable_qty": 82899,
-      "delivery_pct": 51.41
-    },
     {
       "date": "2026-02-11",
       "close": 1309.9,
@@ -466,9 +458,24 @@
       "volume": 108990,
       "deliverable_qty": 67465,
       "delivery_pct": 61.9
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1387.0,
+      "prev_close": 1404.9,
+      "volume": 45911,
+      "deliverable_qty": 27905,
+      "delivery_pct": 60.78
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 13:01:25",
+      "an_dt": "12-May-2026 13:01:25",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aavas Financiers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AAVAS_12052026125944_Transcript_.pdf"
+    },
     {
       "sort_date": "2026-05-06 15:33:43",
       "an_dt": "06-May-2026 15:33:43",

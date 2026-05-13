@@ -8,17 +8,9 @@
   "price": 626.1,
   "market_cap_cr": 2871.73,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 604.55,
-      "prev_close": 609.2,
-      "volume": 26488,
-      "deliverable_qty": 15978,
-      "delivery_pct": 60.32
-    },
     {
       "date": "2026-02-11",
       "close": 581.2,
@@ -466,6 +458,14 @@
       "volume": 34620,
       "deliverable_qty": 19854,
       "delivery_pct": 57.35
+    },
+    {
+      "date": "2026-05-12",
+      "close": 592.25,
+      "prev_close": 626.1,
+      "volume": 48618,
+      "deliverable_qty": 26148,
+      "delivery_pct": 53.78
     }
   ],
   "news": [
@@ -622,41 +622,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Arvind SmartSpaces Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_11022026111036_NewspaperResultsQ3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:18:38",
-      "an_dt": "10-Feb-2026 18:18:38",
-      "desc": "Investor Presentation",
-      "sm_name": "Arvind SmartSpaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_10022026181827_ASLInformationUpdateQ3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:10:12",
-      "an_dt": "10-Feb-2026 18:10:12",
-      "desc": "Press Release",
-      "sm_name": "Arvind SmartSpaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_10022026181000_ASLMediaReleaseResultsQ3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:56:38",
-      "an_dt": "10-Feb-2026 17:56:38",
-      "desc": "Change in Management",
-      "sm_name": "Arvind SmartSpaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_10022026175626_IntimationChangeinDirectorandKMP.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:48:45",
-      "an_dt": "10-Feb-2026 17:48:45",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Arvind SmartSpaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_10022026174832_OutcomeofBoardMeeting10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:46:07",
-      "an_dt": "10-Feb-2026 17:46:07",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Arvind SmartSpaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_10022026174450_FinancialResultsQ3FY26.pdf"
     }
   ]
 }

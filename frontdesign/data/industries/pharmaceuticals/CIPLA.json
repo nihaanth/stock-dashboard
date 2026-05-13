@@ -8,17 +8,9 @@
   "price": 1304.9,
   "market_cap_cr": 105407.56,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1342.1,
-      "prev_close": 1342.5,
-      "volume": 1053439,
-      "deliverable_qty": 451363,
-      "delivery_pct": 42.85
-    },
     {
       "date": "2026-02-11",
       "close": 1349.9,
@@ -466,6 +458,14 @@
       "volume": 1428197,
       "deliverable_qty": 639640,
       "delivery_pct": 44.79
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1292.3,
+      "prev_close": 1304.9,
+      "volume": 1398439,
+      "deliverable_qty": 743387,
+      "delivery_pct": 53.16
     }
   ],
   "news": [
@@ -622,13 +622,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Cipla Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CIPLA_17022026192051_InvestorMeetingAxisCapital__002_.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 08:42:01",
-      "an_dt": "10-Feb-2026 08:42:01",
-      "desc": "General Updates",
-      "sm_name": "Cipla Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CIPLA_10022026084050_USFDAinspection-InvagenFeb2026_Signed.pdf"
     }
   ]
 }

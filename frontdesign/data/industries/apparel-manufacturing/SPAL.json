@@ -8,17 +8,9 @@
   "price": 831.3,
   "market_cap_cr": 2089.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 759.55,
-      "prev_close": 786.15,
-      "volume": 117810,
-      "deliverable_qty": 43593,
-      "delivery_pct": 37.0
-    },
     {
       "date": "2026-02-11",
       "close": 717.15,
@@ -466,6 +458,14 @@
       "volume": 24755,
       "deliverable_qty": 14962,
       "delivery_pct": 60.44
+    },
+    {
+      "date": "2026-05-12",
+      "close": 811.7,
+      "prev_close": 831.3,
+      "volume": 60206,
+      "deliverable_qty": 33890,
+      "delivery_pct": 56.29
     }
   ],
   "news": [
@@ -601,13 +601,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "S. P. Apparels Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPAL_11022026152058_Outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 12:45:15",
-      "an_dt": "10-Feb-2026 12:45:15",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "S. P. Apparels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPAL_10022026124503_coveringletter.pdf"
     }
   ]
 }

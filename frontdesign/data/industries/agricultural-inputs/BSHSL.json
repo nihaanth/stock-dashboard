@@ -8,17 +8,9 @@
   "price": 97.73,
   "market_cap_cr": 1025.55,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 92.96,
-      "prev_close": 92.62,
-      "volume": 13150,
-      "deliverable_qty": 7034,
-      "delivery_pct": 53.49
-    },
     {
       "date": "2026-02-11",
       "close": 91.9,
@@ -466,9 +458,24 @@
       "volume": 7681,
       "deliverable_qty": 5274,
       "delivery_pct": 68.66
+    },
+    {
+      "date": "2026-05-12",
+      "close": 92.2,
+      "prev_close": 97.73,
+      "volume": 35315,
+      "deliverable_qty": 21718,
+      "delivery_pct": 61.5
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 19:18:52",
+      "an_dt": "12-May-2026 19:18:52",
+      "desc": "Updates",
+      "sm_name": "Bombay Super Hybrid Seeds Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BSHSL_12052026191840_BSHSLlandtapproval12052026signed.pdf"
+    },
     {
       "sort_date": "2026-04-25 14:12:38",
       "an_dt": "25-Apr-2026 14:12:38",

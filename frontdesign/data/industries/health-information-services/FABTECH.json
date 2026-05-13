@@ -8,17 +8,9 @@
   "price": 169.38,
   "market_cap_cr": 752.91,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 168.77,
-      "prev_close": 163.02,
-      "volume": 585101,
-      "deliverable_qty": 336555,
-      "delivery_pct": 57.52
-    },
     {
       "date": "2026-02-11",
       "close": 161.53,
@@ -466,6 +458,14 @@
       "volume": 690709,
       "deliverable_qty": 188013,
       "delivery_pct": 27.22
+    },
+    {
+      "date": "2026-05-12",
+      "close": 162.8,
+      "prev_close": 169.38,
+      "volume": 467815,
+      "deliverable_qty": 286830,
+      "delivery_pct": 61.31
     }
   ],
   "news": [
@@ -664,20 +664,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Fabtech Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FABTECH_14022026125209_Intimation_of_Transcript_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:31:31",
-      "an_dt": "10-Feb-2026 16:31:31",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Fabtech Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FABTECH_10022026162954_Intimation_of_PEC_Recording_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:10:52",
-      "an_dt": "10-Feb-2026 16:10:52",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Fabtech Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FABTECH_10022026161027_Intimation_of_MAR_signed.pdf"
     }
   ]
 }

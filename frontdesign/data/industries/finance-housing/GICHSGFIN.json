@@ -8,17 +8,9 @@
   "price": 152.82,
   "market_cap_cr": 822.95,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 164.9,
-      "prev_close": 165.41,
-      "volume": 127319,
-      "deliverable_qty": 77869,
-      "delivery_pct": 61.16
-    },
     {
       "date": "2026-02-11",
       "close": 163.73,
@@ -466,6 +458,14 @@
       "volume": 61913,
       "deliverable_qty": 27043,
       "delivery_pct": 43.68
+    },
+    {
+      "date": "2026-05-12",
+      "close": 148.51,
+      "prev_close": 152.82,
+      "volume": 80430,
+      "deliverable_qty": 54323,
+      "delivery_pct": 67.54
     }
   ],
   "news": [
@@ -559,20 +559,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "GIC Housing Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GICHSGFIN_20022026130001_NSE.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:40:35",
-      "an_dt": "10-Feb-2026 16:40:35",
-      "desc": "Updates",
-      "sm_name": "GIC Housing Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GICHSGFIN_10022026163959_NSE.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:20:02",
-      "an_dt": "10-Feb-2026 16:20:02",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "GIC Housing Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GICHSGFIN_10022026161913_NSE.pdf"
     }
   ]
 }

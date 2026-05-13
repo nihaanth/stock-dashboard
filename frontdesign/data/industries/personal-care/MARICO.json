@@ -8,17 +8,9 @@
   "price": 753.1,
   "market_cap_cr": 97551.5,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 764.85,
-      "prev_close": 754.85,
-      "volume": 1514663,
-      "deliverable_qty": 961267,
-      "delivery_pct": 63.46
-    },
     {
       "date": "2026-02-11",
       "close": 770.4,
@@ -466,9 +458,24 @@
       "volume": 2709714,
       "deliverable_qty": 1549559,
       "delivery_pct": 57.19
+    },
+    {
+      "date": "2026-05-12",
+      "close": 830.0,
+      "prev_close": 842.55,
+      "volume": 1998649,
+      "deliverable_qty": 1304574,
+      "delivery_pct": 65.27
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 17:15:44",
+      "an_dt": "12-May-2026 17:15:44",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Marico Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/marico_12052026171423_Seint.pdf"
+    },
     {
       "sort_date": "2026-05-08 20:08:56",
       "an_dt": "08-May-2026 20:08:56",
@@ -678,13 +685,6 @@
       "desc": "Change in Management",
       "sm_name": "Marico Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/marico_12022026125946_SEint.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 22:01:33",
-      "an_dt": "10-Feb-2026 22:01:33",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Marico Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/marico_10022026220021_SEintimationcall.pdf"
     }
   ]
 }

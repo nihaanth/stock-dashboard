@@ -8,17 +8,9 @@
   "price": 179.44,
   "market_cap_cr": 1907.26,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 135.31,
-      "prev_close": 134.96,
-      "volume": 58698,
-      "deliverable_qty": 30349,
-      "delivery_pct": 51.7
-    },
     {
       "date": "2026-02-11",
       "close": 135.05,
@@ -466,9 +458,24 @@
       "volume": 1703568,
       "deliverable_qty": 450412,
       "delivery_pct": 26.44
+    },
+    {
+      "date": "2026-05-12",
+      "close": 172.64,
+      "prev_close": 179.44,
+      "volume": 795140,
+      "deliverable_qty": 349073,
+      "delivery_pct": 43.9
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 20:28:42",
+      "an_dt": "12-May-2026 20:28:42",
+      "desc": "General Updates",
+      "sm_name": "Suryoday Small Finance Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SURYODAY_12052026202750_SSFB_Intimation_Approval_of_RBI_for_the_re_appointment_Mr_Nair_Chairman.pdf"
+    },
     {
       "sort_date": "2026-05-09 14:45:39",
       "an_dt": "09-May-2026 14:45:39",
@@ -629,13 +636,6 @@
       "desc": "Change in Management",
       "sm_name": "Suryoday Small Finance Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SURYODAY_12022026185402_Intimation_relating_to_the_appointment_of_CRO_CIV_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:43:29",
-      "an_dt": "10-Feb-2026 19:43:29",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Suryoday Small Finance Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SURYODAY_10022026194226_SSFB_Intimation_of_ESOP_Grants_sd.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 349.2,
   "market_cap_cr": 6703.23,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 351.0,
-      "prev_close": 350.85,
-      "volume": 247905,
-      "deliverable_qty": 89230,
-      "delivery_pct": 35.99
-    },
     {
       "date": "2026-02-11",
       "close": 365.4,
@@ -466,6 +458,14 @@
       "volume": 359079,
       "deliverable_qty": 159656,
       "delivery_pct": 44.46
+    },
+    {
+      "date": "2026-05-12",
+      "close": 332.8,
+      "prev_close": 349.2,
+      "volume": 271428,
+      "deliverable_qty": 134730,
+      "delivery_pct": 49.64
     }
   ],
   "news": [
@@ -517,20 +517,6 @@
       "desc": "Incorporation",
       "sm_name": "Saregama India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAREGAMA_20022026184632_IntimationReg_30Incorporationsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:40:58",
-      "an_dt": "10-Feb-2026 18:40:58",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Saregama India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAREGAMA_10022026183928_Transcript_InvestorMeetQ3.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:23:32",
-      "an_dt": "10-Feb-2026 18:23:32",
-      "desc": "Resignation",
-      "sm_name": "Saregama India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAREGAMA_10022026182320_SEResignationof_CFO.pdf"
     }
   ]
 }

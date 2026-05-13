@@ -8,17 +8,9 @@
   "price": 136.08,
   "market_cap_cr": 13006.9,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 136.83,
-      "prev_close": 145.11,
-      "volume": 7572284,
-      "deliverable_qty": 2879344,
-      "delivery_pct": 38.02
-    },
     {
       "date": "2026-02-11",
       "close": 140.22,
@@ -466,9 +458,24 @@
       "volume": 3180331,
       "deliverable_qty": 1334256,
       "delivery_pct": 41.95
+    },
+    {
+      "date": "2026-05-12",
+      "close": 134.37,
+      "prev_close": 136.08,
+      "volume": 2072397,
+      "deliverable_qty": 1028262,
+      "delivery_pct": 49.62
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 17:44:21",
+      "an_dt": "12-May-2026 17:44:21",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Welspun Living Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WELSPUNIND_12052026174034_Revised_concall_invite_12052026_signed.pdf"
+    },
     {
       "sort_date": "2026-05-11 23:14:55",
       "an_dt": "11-May-2026 23:14:55",

@@ -8,17 +8,9 @@
   "price": 162.25,
   "market_cap_cr": 22736.04,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 177.34,
-      "prev_close": 177.39,
-      "volume": 1328637,
-      "deliverable_qty": 666010,
-      "delivery_pct": 50.13
-    },
     {
       "date": "2026-02-11",
       "close": 176.32,
@@ -466,6 +458,14 @@
       "volume": 1700324,
       "deliverable_qty": 967180,
       "delivery_pct": 56.88
+    },
+    {
+      "date": "2026-05-12",
+      "close": 156.81,
+      "prev_close": 160.69,
+      "volume": 1033120,
+      "deliverable_qty": 584361,
+      "delivery_pct": 56.56
     }
   ],
   "news": [
@@ -566,13 +566,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Indraprastha Gas Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGL1_12022026183929_IntegratedFinancialsDec2025.PDF"
-    },
-    {
-      "sort_date": "2026-02-10 11:10:25",
-      "an_dt": "10-Feb-2026 11:10:25",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Indraprastha Gas Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGL1_10022026110942_IGLEarningCallIntimation.pdf"
     }
   ]
 }

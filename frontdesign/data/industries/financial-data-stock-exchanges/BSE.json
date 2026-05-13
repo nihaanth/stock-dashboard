@@ -8,17 +8,9 @@
   "price": 3303.6,
   "market_cap_cr": 134168.81,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 3174.2,
-      "prev_close": 2985.1,
-      "volume": 17810099,
-      "deliverable_qty": 3479091,
-      "delivery_pct": 19.53
-    },
     {
       "date": "2026-02-11",
       "close": 3177.1,
@@ -466,6 +458,14 @@
       "volume": 4662297,
       "deliverable_qty": 1171366,
       "delivery_pct": 25.12
+    },
+    {
+      "date": "2026-05-12",
+      "close": 3851.9,
+      "prev_close": 3918.0,
+      "volume": 4056561,
+      "deliverable_qty": 1470447,
+      "delivery_pct": 36.25
     }
   ],
   "news": [
@@ -734,27 +734,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "BSE Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BSE1_11022026170240_NSEIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:10:01",
-      "an_dt": "10-Feb-2026 13:10:01",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "BSE Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BSE1_10022026130930_NSEintimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:07:36",
-      "an_dt": "10-Feb-2026 13:07:36",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "BSE Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BSE1_10022026130641_NSEintimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:00:51",
-      "an_dt": "10-Feb-2026 13:00:51",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "BSE Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BSE1_10022026130033_NSEintimation.pdf"
     }
   ]
 }

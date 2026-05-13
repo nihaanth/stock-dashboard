@@ -8,17 +8,9 @@
   "price": 1389.8,
   "market_cap_cr": 4619.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1138.8,
-      "prev_close": 1147.8,
-      "volume": 33718,
-      "deliverable_qty": 19366,
-      "delivery_pct": 57.44
-    },
     {
       "date": "2026-02-11",
       "close": 1101.2,
@@ -466,9 +458,24 @@
       "volume": 123053,
       "deliverable_qty": 65151,
       "delivery_pct": 52.95
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1305.0,
+      "prev_close": 1389.8,
+      "volume": 194733,
+      "deliverable_qty": 109615,
+      "delivery_pct": 56.29
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 11:52:39",
+      "an_dt": "12-May-2026 11:52:39",
+      "desc": "Updates",
+      "sm_name": "Goodluck India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOODLUCK_12052026115050_Disclosure_of_large_entity_12052026_.pdf"
+    },
     {
       "sort_date": "2026-04-29 15:37:43",
       "an_dt": "29-Apr-2026 15:37:43",

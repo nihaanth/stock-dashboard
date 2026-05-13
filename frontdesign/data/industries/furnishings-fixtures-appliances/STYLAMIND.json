@@ -8,17 +8,9 @@
   "price": 2552.2,
   "market_cap_cr": 4328.21,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 2214.3,
-      "prev_close": 2207.8,
-      "volume": 54551,
-      "deliverable_qty": 41553,
-      "delivery_pct": 76.17
-    },
     {
       "date": "2026-02-11",
       "close": 2211.8,
@@ -466,9 +458,24 @@
       "volume": 47049,
       "deliverable_qty": 22349,
       "delivery_pct": 47.5
+    },
+    {
+      "date": "2026-05-12",
+      "close": 2460.6,
+      "prev_close": 2552.2,
+      "volume": 17960,
+      "deliverable_qty": 9894,
+      "delivery_pct": 55.09
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 17:54:24",
+      "an_dt": "12-May-2026 17:54:24",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Stylam Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STYLAMIND_12052026175347_Investor_Meet_Outcome.pdf"
+    },
     {
       "sort_date": "2026-05-08 16:52:22",
       "an_dt": "08-May-2026 16:52:22",

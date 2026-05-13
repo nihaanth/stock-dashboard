@@ -8,17 +8,9 @@
   "price": 2077.4,
   "market_cap_cr": 85760.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 2073.1,
-      "prev_close": 2081.9,
-      "volume": 260205,
-      "deliverable_qty": 149781,
-      "delivery_pct": 57.56
-    },
     {
       "date": "2026-02-11",
       "close": 2087.0,
@@ -466,9 +458,24 @@
       "volume": 672282,
       "deliverable_qty": 334595,
       "delivery_pct": 49.77
+    },
+    {
+      "date": "2026-05-12",
+      "close": 2378.9,
+      "prev_close": 2468.8,
+      "volume": 553734,
+      "deliverable_qty": 319250,
+      "delivery_pct": 57.65
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:24:59",
+      "an_dt": "12-May-2026 18:24:59",
+      "desc": "Credit Rating",
+      "sm_name": "Mankind Pharma Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANKIND1_12052026182438_CreditRatingIntimationICRALimited.pdf"
+    },
     {
       "sort_date": "2026-05-08 19:28:00",
       "an_dt": "08-May-2026 19:28:00",

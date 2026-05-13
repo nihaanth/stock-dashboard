@@ -8,17 +8,9 @@
   "price": 1597.0,
   "market_cap_cr": 9535.45,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1465.5,
-      "prev_close": 1446.0,
-      "volume": 220995,
-      "deliverable_qty": 109921,
-      "delivery_pct": 49.74
-    },
     {
       "date": "2026-02-11",
       "close": 1455.3,
@@ -466,9 +458,24 @@
       "volume": 248873,
       "deliverable_qty": 123727,
       "delivery_pct": 49.71
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1396.2,
+      "prev_close": 1597.0,
+      "volume": 1321694,
+      "deliverable_qty": 434466,
+      "delivery_pct": 32.87
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 16:18:08",
+      "an_dt": "12-May-2026 16:18:08",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Manorama Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANORAMA_12052026161716_signedaudiointimation.pdf"
+    },
     {
       "sort_date": "2026-05-11 23:12:59",
       "an_dt": "11-May-2026 23:12:59",
@@ -594,13 +601,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Manorama Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANORAMA_14022026181847_IntimationofInvestorMeetSigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:07:56",
-      "an_dt": "10-Feb-2026 19:07:56",
-      "desc": "General Updates",
-      "sm_name": "Manorama Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANORAMA_10022026190512_IntimationofWOSSigned.pdf"
     }
   ]
 }

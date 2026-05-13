@@ -8,17 +8,9 @@
   "price": 1110.8,
   "market_cap_cr": 7445.33,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 990.65,
-      "prev_close": 964.75,
-      "volume": 217203,
-      "deliverable_qty": 93960,
-      "delivery_pct": 43.26
-    },
     {
       "date": "2026-02-11",
       "close": 967.3,
@@ -466,6 +458,14 @@
       "volume": 91640,
       "deliverable_qty": 44401,
       "delivery_pct": 48.45
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1051.5,
+      "prev_close": 1110.8,
+      "volume": 219753,
+      "deliverable_qty": 110076,
+      "delivery_pct": 50.09
     }
   ],
   "news": [
@@ -664,27 +664,6 @@
       "desc": "Investor Presentation",
       "sm_name": "India Glycols Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIAGLYCO_12022026154007_InvestorPresentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:27:09",
-      "an_dt": "10-Feb-2026 17:27:09",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "India Glycols Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIAGLYCO_10022026172651_Reg_32.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:23:50",
-      "an_dt": "10-Feb-2026 17:23:50",
-      "desc": "Appointment",
-      "sm_name": "India Glycols Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIAGLYCO_10022026172343_Reg_30_10-02-2026SMP.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:21:30",
-      "an_dt": "10-Feb-2026 17:21:30",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "India Glycols Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIAGLYCO_10022026172013_FRDEC2025.pdf"
     }
   ]
 }

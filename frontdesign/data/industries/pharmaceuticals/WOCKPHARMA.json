@@ -8,17 +8,9 @@
   "price": 1625.6,
   "market_cap_cr": 26414.73,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1429.1,
-      "prev_close": 1411.2,
-      "volume": 2152371,
-      "deliverable_qty": 479760,
-      "delivery_pct": 22.29
-    },
     {
       "date": "2026-02-11",
       "close": 1402.1,
@@ -466,6 +458,14 @@
       "volume": 2045489,
       "deliverable_qty": 457758,
       "delivery_pct": 22.38
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1570.4,
+      "prev_close": 1625.6,
+      "volume": 1088825,
+      "deliverable_qty": 450987,
+      "delivery_pct": 41.42
     }
   ],
   "news": [
@@ -545,27 +545,6 @@
       "desc": "General Updates",
       "sm_name": "Wockhardt Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WOCKPHARMA_19022026154519_ESGRatingNSESustainabilityRatingssd.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:09:56",
-      "an_dt": "10-Feb-2026 17:09:56",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Wockhardt Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WOCKPHARMA_10022026170943_CoverletterwithMAfinalsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 15:04:13",
-      "an_dt": "10-Feb-2026 15:04:13",
-      "desc": "Press Release",
-      "sm_name": "Wockhardt Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WOCKPHARMA_10022026145717_PressRelease10022026combinedsd.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 14:32:14",
-      "an_dt": "10-Feb-2026 14:32:14",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Wockhardt Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WOCKPHARMA_10022026142822_OutcomeofBM10022026signed.pdf"
     }
   ]
 }

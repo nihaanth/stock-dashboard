@@ -8,17 +8,9 @@
   "price": 324.85,
   "market_cap_cr": 4049.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 308.45,
-      "prev_close": 298.5,
-      "volume": 81088,
-      "deliverable_qty": 50830,
-      "delivery_pct": 62.68
-    },
     {
       "date": "2026-02-11",
       "close": 306.25,
@@ -466,9 +458,45 @@
       "volume": 193886,
       "deliverable_qty": 79088,
       "delivery_pct": 40.79
+    },
+    {
+      "date": "2026-05-12",
+      "close": 314.05,
+      "prev_close": 324.85,
+      "volume": 266244,
+      "deliverable_qty": 126584,
+      "delivery_pct": 47.54
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:41:52",
+      "an_dt": "12-May-2026 18:41:52",
+      "desc": "Record Date",
+      "sm_name": "Gopal Snacks Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOPALSNACKS_12052026184121_OutcomeBM12052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 18:36:34",
+      "an_dt": "12-May-2026 18:36:34",
+      "desc": "Press Release",
+      "sm_name": "Gopal Snacks Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOPALSNACKS_12052026183620_GSLPRQ426.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 18:33:11",
+      "an_dt": "12-May-2026 18:33:11",
+      "desc": "Investor Presentation",
+      "sm_name": "Gopal Snacks Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOPALSNACKS_12052026183256_GSLIPAFR26.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 18:01:41",
+      "an_dt": "12-May-2026 18:01:41",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Gopal Snacks Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOPALSNACKS_12052026175648_OutcomeBM12052026.pdf"
+    },
     {
       "sort_date": "2026-05-11 10:29:07",
       "an_dt": "11-May-2026 10:29:07",

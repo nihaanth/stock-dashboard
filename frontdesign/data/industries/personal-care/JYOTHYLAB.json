@@ -8,17 +8,9 @@
   "price": 237.2,
   "market_cap_cr": 8710.33,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 249.94,
-      "prev_close": 249.96,
-      "volume": 1120874,
-      "deliverable_qty": 666385,
-      "delivery_pct": 59.45
-    },
     {
       "date": "2026-02-11",
       "close": 252.88,
@@ -466,9 +458,31 @@
       "volume": 3224134,
       "deliverable_qty": 1285098,
       "delivery_pct": 39.86
+    },
+    {
+      "date": "2026-05-12",
+      "close": 228.65,
+      "prev_close": 237.2,
+      "volume": 1627695,
+      "deliverable_qty": 673699,
+      "delivery_pct": 41.39
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 10:58:18",
+      "an_dt": "12-May-2026 10:58:18",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Jyothy Labs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JYOTHYLAB_12052026105759_SEIntimation12052026Merai.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 10:56:29",
+      "an_dt": "12-May-2026 10:56:29",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Jyothy Labs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JYOTHYLAB_12052026105526_SEIntimation12052026SBI.pdf"
+    },
     {
       "sort_date": "2026-05-09 15:23:12",
       "an_dt": "09-May-2026 15:23:12",
@@ -678,13 +692,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Jyothy Labs Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JYOTHYLAB_13022026122357_SE_Transcript.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 14:58:54",
-      "an_dt": "10-Feb-2026 14:58:54",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Jyothy Labs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JYOTHYLAB_10022026145844_SE_NewspaperAd.pdf"
     }
   ]
 }

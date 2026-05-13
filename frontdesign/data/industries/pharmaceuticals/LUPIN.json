@@ -8,17 +8,9 @@
   "price": 2255.9,
   "market_cap_cr": 103143.32,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 2204.1,
-      "prev_close": 2196.8,
-      "volume": 692201,
-      "deliverable_qty": 304622,
-      "delivery_pct": 44.01
-    },
     {
       "date": "2026-02-11",
       "close": 2209.1,
@@ -466,6 +458,14 @@
       "volume": 3278889,
       "deliverable_qty": 1472242,
       "delivery_pct": 44.9
+    },
+    {
+      "date": "2026-05-12",
+      "close": 2245.4,
+      "prev_close": 2255.9,
+      "volume": 1412650,
+      "deliverable_qty": 709434,
+      "delivery_pct": 50.22
     }
   ],
   "news": [
@@ -846,20 +846,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Lupin Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Lupin2_12022026211620_Outcome-UFRintimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:07:33",
-      "an_dt": "10-Feb-2026 17:07:33",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Lupin Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Lupin2_10022026170531_SE_Intimation_Schedule_of_Analyst_Investors_Meet_10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 07:38:26",
-      "an_dt": "10-Feb-2026 07:38:26",
-      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-      "sm_name": "Lupin Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Lupin2_10022026073736_Settlement_Mirabegron_Final.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 122.84,
   "market_cap_cr": 2280.69,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 125.7,
-      "prev_close": 125.49,
-      "volume": 225053,
-      "deliverable_qty": 93116,
-      "delivery_pct": 41.38
-    },
     {
       "date": "2026-02-11",
       "close": 123.29,
@@ -466,9 +458,24 @@
       "volume": 331636,
       "deliverable_qty": 176011,
       "delivery_pct": 53.07
+    },
+    {
+      "date": "2026-05-12",
+      "close": 117.94,
+      "prev_close": 122.84,
+      "volume": 378314,
+      "deliverable_qty": 227082,
+      "delivery_pct": 60.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 15:04:10",
+      "an_dt": "12-May-2026 15:04:10",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Arkade Developers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARKADE_12052026150247_MA.pdf"
+    },
     {
       "sort_date": "2026-05-02 14:18:25",
       "an_dt": "02-May-2026 14:18:25",

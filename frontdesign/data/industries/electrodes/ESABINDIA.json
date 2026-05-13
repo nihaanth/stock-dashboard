@@ -8,17 +8,9 @@
   "price": 6742.0,
   "market_cap_cr": 10377.97,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 5747.0,
-      "prev_close": 5657.5,
-      "volume": 7424,
-      "deliverable_qty": 4420,
-      "delivery_pct": 59.54
-    },
     {
       "date": "2026-02-11",
       "close": 5647.0,
@@ -466,6 +458,14 @@
       "volume": 8125,
       "deliverable_qty": 3619,
       "delivery_pct": 44.54
+    },
+    {
+      "date": "2026-05-12",
+      "close": 6721.0,
+      "prev_close": 6742.0,
+      "volume": 4582,
+      "deliverable_qty": 2074,
+      "delivery_pct": 45.26
     }
   ],
   "news": [
@@ -524,27 +524,6 @@
       "desc": "Trading Window",
       "sm_name": "Esab India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/chaithanya_lakshmi_esab_co_in_27032026151439_TWBMIntimation27032026_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 21:56:05",
-      "an_dt": "10-Feb-2026 21:56:05",
-      "desc": "Record Date",
-      "sm_name": "Esab India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/chaithanya_lakshmi_esab_co_in_10022026215551_Record_date_Intimation_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 21:50:06",
-      "an_dt": "10-Feb-2026 21:50:06",
-      "desc": "Dividend",
-      "sm_name": "Esab India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/chaithanya_lakshmi_esab_co_in_10022026214938_OutcomeFSDIV_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 21:35:16",
-      "an_dt": "10-Feb-2026 21:35:16",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Esab India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/chaithanya_lakshmi_esab_co_in_10022026213317_OutcomeofBMFS_Signed.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 284.9,
   "market_cap_cr": 11729.08,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 292.8,
-      "prev_close": 295.35,
-      "volume": 3225595,
-      "deliverable_qty": 1006111,
-      "delivery_pct": 31.19
-    },
     {
       "date": "2026-02-11",
       "close": 284.6,
@@ -466,6 +458,14 @@
       "volume": 855127,
       "deliverable_qty": 329284,
       "delivery_pct": 38.51
+    },
+    {
+      "date": "2026-05-12",
+      "close": 270.8,
+      "prev_close": 284.9,
+      "volume": 936085,
+      "deliverable_qty": 419762,
+      "delivery_pct": 44.84
     }
   ],
   "news": [
@@ -486,7 +486,7 @@
     {
       "sort_date": "2026-04-15 19:32:59",
       "an_dt": "15-Apr-2026 19:32:59",
-      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
+      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
       "sm_name": "BLS International Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLS_15042026193245_Update_on_change_in_RTA__Final_15042026.pdf"
     },

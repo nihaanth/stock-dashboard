@@ -8,17 +8,9 @@
   "price": 173.13,
   "market_cap_cr": 1169.25,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 168.45,
-      "prev_close": 157.27,
-      "volume": 480934,
-      "deliverable_qty": 225639,
-      "delivery_pct": 46.92
-    },
     {
       "date": "2026-02-11",
       "close": 162.06,
@@ -466,6 +458,14 @@
       "volume": 531740,
       "deliverable_qty": 250098,
       "delivery_pct": 47.03
+    },
+    {
+      "date": "2026-05-12",
+      "close": 167.66,
+      "prev_close": 173.13,
+      "volume": 566061,
+      "deliverable_qty": 196419,
+      "delivery_pct": 34.7
     }
   ],
   "news": [
@@ -531,13 +531,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Updater Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/COMPLIANCEOFFICERUDS_11022026172736_Earnings_Call_Transcripts_Intimation_Sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:01:32",
-      "an_dt": "10-Feb-2026 18:01:32",
-      "desc": "Updates",
-      "sm_name": "Updater Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COMPLIANCEOFFICERUDS_10022026180122_Reg_30_Outcome_of_BM_Sd.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 559.4,
   "market_cap_cr": 19304.1,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 402.9,
-      "prev_close": 401.8,
-      "volume": 5557271,
-      "deliverable_qty": 1747422,
-      "delivery_pct": 31.44
-    },
     {
       "date": "2026-02-11",
       "close": 392.5,
@@ -466,6 +458,14 @@
       "volume": 3878493,
       "deliverable_qty": 803820,
       "delivery_pct": 20.73
+    },
+    {
+      "date": "2026-05-12",
+      "close": 541.8,
+      "prev_close": 559.4,
+      "volume": 1568895,
+      "deliverable_qty": 555191,
+      "delivery_pct": 35.39
     }
   ],
   "news": [
@@ -580,13 +580,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Jain Resource Recycling Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAINMETAL_11022026130333_Earnincallaudiorecording11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 11:40:41",
-      "an_dt": "10-Feb-2026 11:40:41",
-      "desc": "Investor Presentation",
-      "sm_name": "Jain Resource Recycling Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAINMETAL_10022026114024_Intimationregradinginvestorpresentation.pdf"
     }
   ]
 }

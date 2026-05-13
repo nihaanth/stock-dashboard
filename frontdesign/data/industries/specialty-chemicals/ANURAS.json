@@ -8,17 +8,9 @@
   "price": 1361.1,
   "market_cap_cr": 15495.89,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1311.3,
-      "prev_close": 1319.2,
-      "volume": 225269,
-      "deliverable_qty": 134011,
-      "delivery_pct": 59.49
-    },
     {
       "date": "2026-02-11",
       "close": 1362.8,
@@ -466,6 +458,14 @@
       "volume": 501492,
       "deliverable_qty": 258664,
       "delivery_pct": 51.58
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1359.5,
+      "prev_close": 1361.1,
+      "volume": 401537,
+      "deliverable_qty": 128304,
+      "delivery_pct": 31.95
     }
   ],
   "news": [
@@ -629,13 +629,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Anupam Rasayan India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANURAS_12022026140630_ARILSLDSTX20260212081Outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:30:20",
-      "an_dt": "10-Feb-2026 18:30:20",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Anupam Rasayan India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANURAS_10022026182417_ARILSLDSTX20260210080IntimationofEarningCall.pdf"
     }
   ]
 }

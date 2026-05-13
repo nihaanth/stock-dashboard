@@ -8,17 +8,9 @@
   "price": 1231.3,
   "market_cap_cr": 41348.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1551.0,
-      "prev_close": 1549.3,
-      "volume": 3139868,
-      "deliverable_qty": 2190735,
-      "delivery_pct": 69.77
-    },
     {
       "date": "2026-02-11",
       "close": 1520.4,
@@ -466,9 +458,24 @@
       "volume": 5641233,
       "deliverable_qty": 2611803,
       "delivery_pct": 46.3
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1320.4,
+      "prev_close": 1375.2,
+      "volume": 4590660,
+      "deliverable_qty": 2267365,
+      "delivery_pct": 49.39
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 23:05:58",
+      "an_dt": "12-May-2026 23:05:58",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Coforge Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COFORGE_12052026230537_Transcript_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-07 14:32:50",
       "an_dt": "07-May-2026 14:32:50",
@@ -710,7 +717,7 @@
     {
       "sort_date": "2026-03-20 11:15:16",
       "an_dt": "20-Mar-2026 11:15:16",
-      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
+      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
       "sm_name": "Coforge Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/COFORGE_20032026111503_Intimation_for_RTA_Change.pdf"
     },

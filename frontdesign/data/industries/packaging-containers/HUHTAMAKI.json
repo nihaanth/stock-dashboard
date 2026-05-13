@@ -8,17 +8,9 @@
   "price": 174.69,
   "market_cap_cr": 1319.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 191.43,
-      "prev_close": 189.96,
-      "volume": 253844,
-      "deliverable_qty": 169754,
-      "delivery_pct": 66.87
-    },
     {
       "date": "2026-02-11",
       "close": 191.68,
@@ -466,9 +458,31 @@
       "volume": 103037,
       "deliverable_qty": 69339,
       "delivery_pct": 67.3
+    },
+    {
+      "date": "2026-05-12",
+      "close": 172.91,
+      "prev_close": 178.91,
+      "volume": 114699,
+      "deliverable_qty": 77231,
+      "delivery_pct": 67.33
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 20:50:42",
+      "an_dt": "12-May-2026 20:50:42",
+      "desc": "Press Release",
+      "sm_name": "Huhtamaki India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUHTAMAKI_12052026205032_HIL_PressRelease_12May2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 20:41:11",
+      "an_dt": "12-May-2026 20:41:11",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Huhtamaki India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUHTAMAKI_12052026203826_HIL_Outcome_Board_Meeting_12May2026_sd.pdf"
+    },
     {
       "sort_date": "2026-05-09 10:55:05",
       "an_dt": "09-May-2026 10:55:05",
@@ -643,34 +657,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Huhtamaki India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUHTAMAKI_12022026194502_HIL_NewspaperPub_FinResults_12Feb2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 21:37:54",
-      "an_dt": "10-Feb-2026 21:37:54",
-      "desc": "Acquisition",
-      "sm_name": "Huhtamaki India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUHTAMAKI_10022026213743_HIL_Reg30_CaptivePowerInvestment_10Feb2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 21:13:19",
-      "an_dt": "10-Feb-2026 21:13:19",
-      "desc": "Press Release",
-      "sm_name": "Huhtamaki India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUHTAMAKI_10022026211306_HIL_PressRelease_10Feb2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 21:02:11",
-      "an_dt": "10-Feb-2026 21:02:11",
-      "desc": "Dividend",
-      "sm_name": "Huhtamaki India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUHTAMAKI_10022026210130_HIL_Outcome_Board_Meeting_10Feb2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 20:52:44",
-      "an_dt": "10-Feb-2026 20:52:44",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Huhtamaki India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUHTAMAKI_10022026204842_HIL_Outcome_Board_Meeting_10Feb2026.pdf"
     }
   ]
 }

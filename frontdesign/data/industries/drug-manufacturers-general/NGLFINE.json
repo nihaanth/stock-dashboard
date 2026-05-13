@@ -8,17 +8,9 @@
   "price": 2279.5,
   "market_cap_cr": 1408.28,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 2217.0,
-      "prev_close": 2219.4,
-      "volume": 8819,
-      "deliverable_qty": 4992,
-      "delivery_pct": 56.61
-    },
     {
       "date": "2026-02-11",
       "close": 2235.0,
@@ -466,6 +458,14 @@
       "volume": 12955,
       "deliverable_qty": 5230,
       "delivery_pct": 40.37
+    },
+    {
+      "date": "2026-05-12",
+      "close": 2188.6,
+      "prev_close": 2279.5,
+      "volume": 11121,
+      "deliverable_qty": 5081,
+      "delivery_pct": 45.69
     }
   ],
   "news": [
@@ -489,13 +489,6 @@
       "desc": "Credit Rating- Revision",
       "sm_name": "NGL Fine-Chem Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NGL2022_13032026121916_Reg_30_-_Revision_in_Credit_Rating_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:27:02",
-      "an_dt": "10-Feb-2026 17:27:02",
-      "desc": "Investor Presentation",
-      "sm_name": "NGL Fine-Chem Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NGL2022_10022026172654_Reg_30_Investors_Presentation_Signed.pdf"
     }
   ]
 }

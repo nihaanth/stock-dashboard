@@ -8,17 +8,9 @@
   "price": 2180.1,
   "market_cap_cr": 14079.47,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1593.3,
-      "prev_close": 1566.4,
-      "volume": 168443,
-      "deliverable_qty": 84072,
-      "delivery_pct": 49.91
-    },
     {
       "date": "2026-02-11",
       "close": 1635.1,
@@ -466,9 +458,38 @@
       "volume": 661718,
       "deliverable_qty": 253858,
       "delivery_pct": 38.36
+    },
+    {
+      "date": "2026-05-12",
+      "close": 2123.7,
+      "prev_close": 2180.1,
+      "volume": 368340,
+      "deliverable_qty": 174261,
+      "delivery_pct": 47.31
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 19:31:39",
+      "an_dt": "12-May-2026 19:31:39",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Azad Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AZAD2356_12052026193100_covering.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 18:55:37",
+      "an_dt": "12-May-2026 18:55:37",
+      "desc": "Change in Director(s)",
+      "sm_name": "Azad Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AZAD2356_12052026185447_covering.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 17:54:05",
+      "an_dt": "12-May-2026 17:54:05",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Azad Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AZAD2356_12052026175307_CoveringLetter.pdf"
+    },
     {
       "sort_date": "2026-05-06 18:53:26",
       "an_dt": "06-May-2026 18:53:26",

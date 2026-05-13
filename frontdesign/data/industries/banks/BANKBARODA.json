@@ -8,17 +8,9 @@
   "price": 266.0,
   "market_cap_cr": 137558.24,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 290.35,
-      "prev_close": 290.6,
-      "volume": 7522576,
-      "deliverable_qty": 4484685,
-      "delivery_pct": 59.62
-    },
     {
       "date": "2026-02-11",
       "close": 291.2,
@@ -466,6 +458,14 @@
       "volume": 26039714,
       "deliverable_qty": 9427992,
       "delivery_pct": 36.21
+    },
+    {
+      "date": "2026-05-12",
+      "close": 259.95,
+      "prev_close": 266.0,
+      "volume": 9935242,
+      "deliverable_qty": 3873877,
+      "delivery_pct": 38.99
     }
   ],
   "news": [
@@ -776,13 +776,6 @@
       "desc": "Credit Rating",
       "sm_name": "Bank of Baroda",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANKBARODA_25022026124416_SEFitch1.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:35:23",
-      "an_dt": "10-Feb-2026 18:35:23",
-      "desc": "General Updates",
-      "sm_name": "Bank of Baroda",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANKBARODA_10022026183514_SEMCLR0226.pdf"
     }
   ]
 }

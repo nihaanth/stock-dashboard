@@ -8,17 +8,9 @@
   "price": 1555.9,
   "market_cap_cr": 11332.7,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1701.0,
-      "prev_close": 1674.3,
-      "volume": 442130,
-      "deliverable_qty": 150044,
-      "delivery_pct": 33.94
-    },
     {
       "date": "2026-02-11",
       "close": 1692.2,
@@ -466,9 +458,24 @@
       "volume": 412628,
       "deliverable_qty": 163446,
       "delivery_pct": 39.61
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1685.3,
+      "prev_close": 1777.0,
+      "volume": 249256,
+      "deliverable_qty": 118315,
+      "delivery_pct": 47.47
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 21:06:14",
+      "an_dt": "12-May-2026 21:06:14",
+      "desc": "Credit Rating",
+      "sm_name": "Gravita India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRAVITA_12052026210334_CreditRating12052026.pdf"
+    },
     {
       "sort_date": "2026-05-11 17:55:56",
       "an_dt": "11-May-2026 17:55:56",
@@ -790,13 +797,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Gravita India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRAVITA_12022026175252_Outcome12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 11:41:17",
-      "an_dt": "10-Feb-2026 11:41:17",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Gravita India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRAVITA_10022026114024_Outcome09022026.pdf"
     }
   ]
 }

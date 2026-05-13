@@ -8,17 +8,9 @@
   "price": 463.75,
   "market_cap_cr": 14698.92,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 455.7,
-      "prev_close": 459.55,
-      "volume": 41499,
-      "deliverable_qty": 17670,
-      "delivery_pct": 42.58
-    },
     {
       "date": "2026-02-11",
       "close": 457.8,
@@ -466,6 +458,14 @@
       "volume": 122191,
       "deliverable_qty": 51746,
       "delivery_pct": 42.35
+    },
+    {
+      "date": "2026-05-12",
+      "close": 450.2,
+      "prev_close": 463.75,
+      "volume": 79974,
+      "deliverable_qty": 48822,
+      "delivery_pct": 61.05
     }
   ],
   "news": [
@@ -559,13 +559,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Dr. Agarwal's Health Care Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DRAGARWALS_12022026161948_C70_Analyst_Meet_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 14:55:22",
-      "an_dt": "10-Feb-2026 14:55:22",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Dr. Agarwal's Health Care Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DRAGARWALS_10022026145516_AHCL_Transcript_Final.pdf"
     }
   ]
 }

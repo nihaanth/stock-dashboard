@@ -8,17 +8,9 @@
   "price": 388.65,
   "market_cap_cr": 2780.42,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 390.85,
-      "prev_close": 396.9,
-      "volume": 306562,
-      "deliverable_qty": 152394,
-      "delivery_pct": 49.71
-    },
     {
       "date": "2026-02-11",
       "close": 385.55,
@@ -466,9 +458,24 @@
       "volume": 410255,
       "deliverable_qty": 177931,
       "delivery_pct": 43.37
+    },
+    {
+      "date": "2026-05-12",
+      "close": 366.4,
+      "prev_close": 388.65,
+      "volume": 330501,
+      "deliverable_qty": 176835,
+      "delivery_pct": 53.51
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 19:17:02",
+      "an_dt": "12-May-2026 19:17:02",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "Awfis Space Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AWFIS2014_12052026191641_Disclosure__Reg_30__Tax_Litigation_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-08 10:43:10",
       "an_dt": "08-May-2026 10:43:10",
@@ -587,13 +594,6 @@
       "desc": "Updates",
       "sm_name": "Awfis Space Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AWFIS2014_25022026143214_ICICI_Bank_Loan_Update_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:40:03",
-      "an_dt": "10-Feb-2026 13:40:03",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Awfis Space Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AWFIS2014_10022026133935_ESOPs_Intimation_with_letter_head_Signed.pdf"
     }
   ]
 }

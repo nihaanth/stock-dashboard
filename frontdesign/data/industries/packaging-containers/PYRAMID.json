@@ -8,17 +8,9 @@
   "price": 152.71,
   "market_cap_cr": 563.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 153.66,
-      "prev_close": 161.29,
-      "volume": 62812,
-      "deliverable_qty": 24305,
-      "delivery_pct": 38.69
-    },
     {
       "date": "2026-02-11",
       "close": 156.74,
@@ -466,6 +458,14 @@
       "volume": 30813,
       "deliverable_qty": 22355,
       "delivery_pct": 72.55
+    },
+    {
+      "date": "2026-05-12",
+      "close": 175.24,
+      "prev_close": 174.81,
+      "volume": 72489,
+      "deliverable_qty": 55750,
+      "delivery_pct": 76.91
     }
   ],
   "news": [
@@ -538,41 +538,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Pyramid Technoplast Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PYRAMIDTECHNO_11022026172741_Newspaper_Publication_Q3_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:52:12",
-      "an_dt": "10-Feb-2026 18:52:12",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Pyramid Technoplast Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PYRAMIDTECHNO_10022026185159_Outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 15:37:23",
-      "an_dt": "10-Feb-2026 15:37:23",
-      "desc": "General Updates",
-      "sm_name": "Pyramid Technoplast Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PYRAMIDTECHNO_10022026153702_Regulation_30__5_.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 14:04:43",
-      "an_dt": "10-Feb-2026 14:04:43",
-      "desc": "Investor Presentation",
-      "sm_name": "Pyramid Technoplast Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PYRAMIDTECHNO_10022026140405_Earnings-Presentation_Q3_FY_2025-26.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:59:37",
-      "an_dt": "10-Feb-2026 13:59:37",
-      "desc": "Appointment",
-      "sm_name": "Pyramid Technoplast Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PYRAMIDTECHNO_10022026135843_Q3_Outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:55:21",
-      "an_dt": "10-Feb-2026 13:55:21",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Pyramid Technoplast Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PYRAMIDTECHNO_10022026135334_Q3_Outcome.pdf"
     }
   ]
 }

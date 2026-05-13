@@ -8,17 +8,9 @@
   "price": 1003.8,
   "market_cap_cr": 45301.14,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 823.85,
-      "prev_close": 806.4,
-      "volume": 1277319,
-      "deliverable_qty": 297214,
-      "delivery_pct": 23.27
-    },
     {
       "date": "2026-02-11",
       "close": 780.65,
@@ -466,9 +458,24 @@
       "volume": 847953,
       "deliverable_qty": 256305,
       "delivery_pct": 30.23
+    },
+    {
+      "date": "2026-05-12",
+      "close": 966.8,
+      "prev_close": 1003.8,
+      "volume": 1150317,
+      "deliverable_qty": 370096,
+      "delivery_pct": 32.17
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 11:21:29",
+      "an_dt": "12-May-2026 11:21:29",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Premier Energies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PEL2024_12052026112112_earning_call_intimation.pdf"
+    },
     {
       "sort_date": "2026-05-11 19:16:38",
       "an_dt": "11-May-2026 19:16:38",
@@ -587,13 +594,6 @@
       "desc": "Monitoring Agency Report",
       "sm_name": "Premier Energies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PEL2024_12022026152309_MA_Report_Dec_2025_CF.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:29:57",
-      "an_dt": "10-Feb-2026 18:29:57",
-      "desc": "Press Release",
-      "sm_name": "Premier Energies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PEL2024_10022026182924_Press_Release_BA_Prerna.pdf"
     }
   ]
 }

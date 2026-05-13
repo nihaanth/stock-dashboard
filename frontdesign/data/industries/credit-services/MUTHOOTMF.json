@@ -8,17 +8,9 @@
   "price": 174.6,
   "market_cap_cr": 2926.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 176.54,
-      "prev_close": 188.57,
-      "volume": 1439787,
-      "deliverable_qty": 514764,
-      "delivery_pct": 35.75
-    },
     {
       "date": "2026-02-11",
       "close": 190.81,
@@ -466,6 +458,14 @@
       "volume": 827842,
       "deliverable_qty": 386297,
       "delivery_pct": 46.66
+    },
+    {
+      "date": "2026-05-12",
+      "close": 190.22,
+      "prev_close": 188.6,
+      "volume": 918744,
+      "deliverable_qty": 418151,
+      "delivery_pct": 45.51
     }
   ],
   "news": [
@@ -727,20 +727,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Muthoot Microfin Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/muthootmicrofin_12022026114355_PostalBallotIntimationfeb2026Sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 14:49:43",
-      "an_dt": "10-Feb-2026 14:49:43",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Muthoot Microfin Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/muthootmicrofin_10022026144911_AnalystCallAudioQ3FY202526.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 14:43:47",
-      "an_dt": "10-Feb-2026 14:43:47",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Muthoot Microfin Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/muthootmicrofin_10022026144300_NewspaperaddDec312025Sd.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 861.5,
   "market_cap_cr": 16601.28,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 874.5,
-      "prev_close": 872.15,
-      "volume": 809307,
-      "deliverable_qty": 291179,
-      "delivery_pct": 35.98
-    },
     {
       "date": "2026-02-11",
       "close": 890.4,
@@ -466,9 +458,38 @@
       "volume": 1683499,
       "deliverable_qty": 584518,
       "delivery_pct": 34.72
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1075.2,
+      "prev_close": 1112.6,
+      "volume": 11303958,
+      "deliverable_qty": 1701659,
+      "delivery_pct": 15.05
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 21:59:15",
+      "an_dt": "12-May-2026 21:59:15",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Syrma SGS Technology Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SYRMASGS_12052026215904_MonitoringagencyreportIPOMarch312026.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 17:15:15",
+      "an_dt": "12-May-2026 17:15:15",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Syrma SGS Technology Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SYRMASGS_12052026171458_ConcollaudioLink12052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 15:31:51",
+      "an_dt": "12-May-2026 15:31:51",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Syrma SGS Technology Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SYRMASGS_12052026153137_Reg47NewspaperFinancialsresultMay122026.pdf"
+    },
     {
       "sort_date": "2026-05-11 19:52:40",
       "an_dt": "11-May-2026 19:52:40",
@@ -580,13 +601,6 @@
       "desc": "General Updates",
       "sm_name": "Syrma SGS Technology Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SYRMASGS_21022026141154_DisclosureK]Solare_longstopdate21022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:42:58",
-      "an_dt": "10-Feb-2026 18:42:58",
-      "desc": "General Updates",
-      "sm_name": "Syrma SGS Technology Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SYRMASGS_10022026184247_01SEIntimationTransferofSharesfromSyrmaEWT.pdf"
     }
   ]
 }

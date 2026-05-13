@@ -8,17 +8,9 @@
   "price": 588.45,
   "market_cap_cr": 16459.54,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 510.85,
-      "prev_close": 510.05,
-      "volume": 229490,
-      "deliverable_qty": 106540,
-      "delivery_pct": 46.42
-    },
     {
       "date": "2026-02-11",
       "close": 513.1,
@@ -466,9 +458,24 @@
       "volume": 308774,
       "deliverable_qty": 164563,
       "delivery_pct": 53.3
+    },
+    {
+      "date": "2026-05-12",
+      "close": 567.45,
+      "prev_close": 588.45,
+      "volume": 317830,
+      "deliverable_qty": 139492,
+      "delivery_pct": 43.89
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 20:49:57",
+      "an_dt": "12-May-2026 20:49:57",
+      "desc": "General Updates",
+      "sm_name": "Allied Blenders and Distillers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABDINDIA_12052026204734_SE_Intimation-_Grant_of_ESOP_12052026_sd.pdf"
+    },
     {
       "sort_date": "2026-05-11 20:00:32",
       "an_dt": "11-May-2026 20:00:32",

@@ -8,17 +8,9 @@
   "price": 145.05,
   "market_cap_cr": 16622.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 147.23,
-      "prev_close": 149.14,
-      "volume": 4596318,
-      "deliverable_qty": 2281135,
-      "delivery_pct": 49.63
-    },
     {
       "date": "2026-02-11",
       "close": 148.35,
@@ -466,6 +458,14 @@
       "volume": 8856507,
       "deliverable_qty": 3212214,
       "delivery_pct": 36.27
+    },
+    {
+      "date": "2026-05-12",
+      "close": 139.41,
+      "prev_close": 145.05,
+      "volume": 10465750,
+      "deliverable_qty": 4902448,
+      "delivery_pct": 46.84
     }
   ],
   "news": [
@@ -1217,13 +1217,6 @@
       "desc": "Updates",
       "sm_name": "Sammaan Capital Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IHFL_18022026183741_SCL_Retail_Intimation_57_18022026_WH8.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:52:47",
-      "an_dt": "10-Feb-2026 17:52:47",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Sammaan Capital Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IHFL_10022026175129_SCL_intimation_Transcript_10Feb26.pdf"
     }
   ]
 }

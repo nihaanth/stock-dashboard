@@ -8,17 +8,9 @@
   "price": 1512.3,
   "market_cap_cr": 43100.55,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1676.8,
-      "prev_close": 1573.6,
-      "volume": 507715,
-      "deliverable_qty": 165564,
-      "delivery_pct": 32.61
-    },
     {
       "date": "2026-02-11",
       "close": 1703.3,
@@ -466,6 +458,14 @@
       "volume": 158224,
       "deliverable_qty": 91816,
       "delivery_pct": 58.03
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1539.9,
+      "prev_close": 1571.5,
+      "volume": 257072,
+      "deliverable_qty": 149483,
+      "delivery_pct": 58.15
     }
   ],
   "news": [
@@ -636,13 +636,6 @@
       "desc": "Press Release",
       "sm_name": "Tata Communications Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATACOMM_16022026101807_18366.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 20:10:12",
-      "an_dt": "10-Feb-2026 20:10:12",
-      "desc": "Change in Management",
-      "sm_name": "Tata Communications Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATACOMM_10022026200944_18364.pdf"
     }
   ]
 }

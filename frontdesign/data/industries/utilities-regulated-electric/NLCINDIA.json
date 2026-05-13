@@ -8,17 +8,9 @@
   "price": 329.7,
   "market_cap_cr": 45717.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 258.35,
-      "prev_close": 262.35,
-      "volume": 1151998,
-      "deliverable_qty": 429420,
-      "delivery_pct": 37.28
-    },
     {
       "date": "2026-02-11",
       "close": 256.8,
@@ -466,6 +458,14 @@
       "volume": 5194711,
       "deliverable_qty": 1890548,
       "delivery_pct": 36.39
+    },
+    {
+      "date": "2026-05-12",
+      "close": 308.1,
+      "prev_close": 329.7,
+      "volume": 4822479,
+      "deliverable_qty": 2181193,
+      "delivery_pct": 45.23
     }
   ],
   "news": [
@@ -685,34 +685,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "NLC India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLCINDIA_11022026191806_NewspaperPublication11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:50:45",
-      "an_dt": "10-Feb-2026 19:50:45",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "NLC India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLCINDIA_10022026194943_InvestorCallOutcome10022026Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:27:32",
-      "an_dt": "10-Feb-2026 16:27:32",
-      "desc": "Press Release",
-      "sm_name": "NLC India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLCINDIA_10022026162415_PressRelease060222026Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 15:13:29",
-      "an_dt": "10-Feb-2026 15:13:29",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "NLC India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLCINDIA_10022026151211_565th_BM_Outcome_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 15:10:04",
-      "an_dt": "10-Feb-2026 15:10:04",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "NLC India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLCINDIA_10022026150946_565th_BM_Outcome_Signed.pdf"
     }
   ]
 }

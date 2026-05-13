@@ -8,17 +8,9 @@
   "price": 343.85,
   "market_cap_cr": 2388.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 393.3,
-      "prev_close": 395.05,
-      "volume": 177496,
-      "deliverable_qty": 101693,
-      "delivery_pct": 57.29
-    },
     {
       "date": "2026-02-11",
       "close": 362.85,
@@ -466,6 +458,14 @@
       "volume": 85599,
       "deliverable_qty": 47467,
       "delivery_pct": 55.45
+    },
+    {
+      "date": "2026-05-12",
+      "close": 327.05,
+      "prev_close": 343.85,
+      "volume": 91107,
+      "deliverable_qty": 44840,
+      "delivery_pct": 49.22
     }
   ],
   "news": [
@@ -517,27 +517,6 @@
       "desc": "Press Release",
       "sm_name": "HLE Glascoat Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HLEGLASCOAT_11022026105207_HGL_Investor_Release_Q3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:03:56",
-      "an_dt": "10-Feb-2026 18:03:56",
-      "desc": "Incorporation",
-      "sm_name": "HLE Glascoat Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HLEGLASCOAT_10022026180342_Outcome_BM_FINAL_sd_F.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:40:57",
-      "an_dt": "10-Feb-2026 17:40:57",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "HLE Glascoat Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HLEGLASCOAT_10022026173838_522215_RESULTS_31122025_SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:21:37",
-      "an_dt": "10-Feb-2026 17:21:37",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "HLE Glascoat Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HLEGLASCOAT_10022026172122_Outcome_BM_FINAL_sd_F.pdf"
     }
   ]
 }

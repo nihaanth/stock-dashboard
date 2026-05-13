@@ -8,17 +8,9 @@
   "price": 251.6,
   "market_cap_cr": 9515.05,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 206.7,
-      "prev_close": 206.88,
-      "volume": 2416960,
-      "deliverable_qty": 1193529,
-      "delivery_pct": 49.38
-    },
     {
       "date": "2026-02-11",
       "close": 205.56,
@@ -466,9 +458,24 @@
       "volume": 1612559,
       "deliverable_qty": 736964,
       "delivery_pct": 45.7
+    },
+    {
+      "date": "2026-05-12",
+      "close": 247.05,
+      "prev_close": 251.6,
+      "volume": 2418566,
+      "deliverable_qty": 1141253,
+      "delivery_pct": 47.19
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 19:07:44",
+      "an_dt": "12-May-2026 19:07:44",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "The Karnataka Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KTKBANK_12052026190652_concallintimationsd.pdf"
+    },
     {
       "sort_date": "2026-04-21 17:26:44",
       "an_dt": "21-Apr-2026 17:26:44",
@@ -629,34 +636,6 @@
       "desc": "Strikes/Lockouts/Disturbances",
       "sm_name": "The Karnataka Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KTKBANK_11022026150100_bsensestrikenotificationsd.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:27:30",
-      "an_dt": "10-Feb-2026 19:27:30",
-      "desc": "Investor Presentation",
-      "sm_name": "The Karnataka Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KTKBANK_10022026192721_investorPresentationSigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:11:53",
-      "an_dt": "10-Feb-2026 19:11:53",
-      "desc": "Press Release",
-      "sm_name": "The Karnataka Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KTKBANK_10022026191145_PRfinal.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:51:13",
-      "an_dt": "10-Feb-2026 18:51:13",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "The Karnataka Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KTKBANK_10022026185057_Dec2025Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:49:48",
-      "an_dt": "10-Feb-2026 18:49:48",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "The Karnataka Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KTKBANK_10022026184826_Dec2025Signed.pdf"
     }
   ]
 }

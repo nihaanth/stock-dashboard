@@ -8,17 +8,9 @@
   "price": 742.85,
   "market_cap_cr": 6734.51,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 764.4,
-      "prev_close": 794.75,
-      "volume": 555308,
-      "deliverable_qty": 217286,
-      "delivery_pct": 39.13
-    },
     {
       "date": "2026-02-11",
       "close": 749.85,
@@ -466,6 +458,14 @@
       "volume": 185194,
       "deliverable_qty": 96873,
       "delivery_pct": 52.31
+    },
+    {
+      "date": "2026-05-12",
+      "close": 712.7,
+      "prev_close": 742.85,
+      "volume": 146504,
+      "deliverable_qty": 65421,
+      "delivery_pct": 44.65
     }
   ],
   "news": [
@@ -531,27 +531,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Aarti Pharmalabs Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AARTIPHARMA_11022026124756_AARTIPHARMsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 22:32:00",
-      "an_dt": "10-Feb-2026 22:32:00",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Aarti Pharmalabs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AARTIPHARMA_10022026223104_APL_Earnings_Recordingsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:47:49",
-      "an_dt": "10-Feb-2026 13:47:49",
-      "desc": "Updates",
-      "sm_name": "Aarti Pharmalabs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AARTIPHARMA_10022026134712_Corrigendum_RecordDatesigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:01:06",
-      "an_dt": "10-Feb-2026 13:01:06",
-      "desc": "Investor Presentation",
-      "sm_name": "Aarti Pharmalabs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AARTIPHARMA_10022026130053_AARTIPHARMsigned.pdf"
     }
   ]
 }

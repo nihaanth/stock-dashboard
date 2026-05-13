@@ -8,17 +8,9 @@
   "price": 994.9,
   "market_cap_cr": 9626.71,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1000.45,
-      "prev_close": 1019.85,
-      "volume": 24031,
-      "deliverable_qty": 13108,
-      "delivery_pct": 54.55
-    },
     {
       "date": "2026-02-11",
       "close": 974.65,
@@ -466,9 +458,31 @@
       "volume": 115353,
       "deliverable_qty": 46140,
       "delivery_pct": 40.0
+    },
+    {
+      "date": "2026-05-12",
+      "close": 936.2,
+      "prev_close": 994.9,
+      "volume": 330269,
+      "deliverable_qty": 169733,
+      "delivery_pct": 51.39
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:21:19",
+      "an_dt": "12-May-2026 18:21:19",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "G R Infraprojects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRINFRA_12052026182110_GRILaudioearningcall.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 18:19:29",
+      "an_dt": "12-May-2026 18:19:29",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "G R Infraprojects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRINFRA_12052026181904_Newspaper_Publication.pdf"
+    },
     {
       "sort_date": "2026-05-11 22:16:34",
       "an_dt": "11-May-2026 22:16:34",
@@ -741,27 +755,6 @@
       "desc": "General Updates",
       "sm_name": "G R Infraprojects Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRINFRA_11022026125130_L1Intimation_railway.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 20:29:31",
-      "an_dt": "10-Feb-2026 20:29:31",
-      "desc": "Record Date",
-      "sm_name": "G R Infraprojects Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRINFRA_10022026202840_Intimation_of_Board_Meeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:17:18",
-      "an_dt": "10-Feb-2026 19:17:18",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "G R Infraprojects Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRINFRA_10022026191652_GRILaudioearningcall.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:50:44",
-      "an_dt": "10-Feb-2026 18:50:44",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "G R Infraprojects Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRINFRA_10022026185010_BoardMeetingOutcome06022026.pdf"
     }
   ]
 }

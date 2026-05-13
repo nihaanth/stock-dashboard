@@ -8,17 +8,9 @@
   "price": 250.07,
   "market_cap_cr": 3369.03,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 300.2,
-      "prev_close": 285.1,
-      "volume": 2102227,
-      "deliverable_qty": 930313,
-      "delivery_pct": 44.25
-    },
     {
       "date": "2026-02-11",
       "close": 297.0,
@@ -466,6 +458,14 @@
       "volume": 623847,
       "deliverable_qty": 272487,
       "delivery_pct": 43.68
+    },
+    {
+      "date": "2026-05-12",
+      "close": 282.48,
+      "prev_close": 252.09,
+      "volume": 5621533,
+      "deliverable_qty": 1906553,
+      "delivery_pct": 33.92
     }
   ],
   "news": [
@@ -790,20 +790,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "Zaggle Prepaid Ocean Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZAGGLE_12022026100158_Rebel_foods_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:34:47",
-      "an_dt": "10-Feb-2026 17:34:47",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "Zaggle Prepaid Ocean Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZAGGLE_10022026173434_Hindware.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 11:43:02",
-      "an_dt": "10-Feb-2026 11:43:02",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "Zaggle Prepaid Ocean Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZAGGLE_10022026114200_Euronet_signed.pdf"
     }
   ]
 }

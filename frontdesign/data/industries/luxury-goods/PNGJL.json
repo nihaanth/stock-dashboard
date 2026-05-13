@@ -8,17 +8,9 @@
   "price": 662.35,
   "market_cap_cr": 8988.64,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 597.95,
-      "prev_close": 589.05,
-      "volume": 1143771,
-      "deliverable_qty": 339347,
-      "delivery_pct": 29.67
-    },
     {
       "date": "2026-02-11",
       "close": 563.45,
@@ -466,9 +458,24 @@
       "volume": 925711,
       "deliverable_qty": 394496,
       "delivery_pct": 42.62
+    },
+    {
+      "date": "2026-05-12",
+      "close": 627.3,
+      "prev_close": 662.35,
+      "volume": 713791,
+      "deliverable_qty": 316875,
+      "delivery_pct": 44.39
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 16:31:32",
+      "an_dt": "12-May-2026 16:31:32",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "P N Gadgil Jewellers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNGJEWELLERS_12052026162909_IntimationOfConferenceCall.pdf"
+    },
     {
       "sort_date": "2026-05-11 18:27:39",
       "an_dt": "11-May-2026 18:27:39",
@@ -650,20 +657,6 @@
       "desc": "Press Release",
       "sm_name": "P N Gadgil Jewellers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNGJEWELLERS_11022026131955_IntimationOfFoundationDaySale.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:44:54",
-      "an_dt": "10-Feb-2026 18:44:54",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "P N Gadgil Jewellers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNGJEWELLERS_10022026184441_Outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 12:40:59",
-      "an_dt": "10-Feb-2026 12:40:59",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "P N Gadgil Jewellers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNGJEWELLERS_10022026124049_SignedIntimationOfNewsAdv.pdf"
     }
   ]
 }

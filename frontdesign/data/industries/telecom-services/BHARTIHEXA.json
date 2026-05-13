@@ -8,17 +8,9 @@
   "price": 1464.7,
   "market_cap_cr": 73235.0,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1684.0,
-      "prev_close": 1734.9,
-      "volume": 228762,
-      "deliverable_qty": 139975,
-      "delivery_pct": 61.19
-    },
     {
       "date": "2026-02-11",
       "close": 1689.3,
@@ -466,6 +458,14 @@
       "volume": 135839,
       "deliverable_qty": 82428,
       "delivery_pct": 60.68
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1464.8,
+      "prev_close": 1464.7,
+      "volume": 177858,
+      "deliverable_qty": 96326,
+      "delivery_pct": 54.16
     }
   ],
   "news": [
@@ -566,13 +566,6 @@
       "desc": "Change in Management",
       "sm_name": "Bharti Hexacom Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HexacomApril20_11022026173849_Stx_intimation_change_in_SMP_11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 22:51:19",
-      "an_dt": "10-Feb-2026 22:51:19",
-      "desc": "Cessation",
-      "sm_name": "Bharti Hexacom Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HexacomApril20_10022026224514_Bharti_Hexacom_Stx_Intimation_Change_in_SMP.pdf"
     }
   ]
 }

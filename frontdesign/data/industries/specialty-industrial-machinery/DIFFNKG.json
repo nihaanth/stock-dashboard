@@ -8,17 +8,9 @@
   "price": 320.85,
   "market_cap_cr": 1191.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 271.22,
-      "prev_close": 274.7,
-      "volume": 82627,
-      "deliverable_qty": 35774,
-      "delivery_pct": 43.3
-    },
     {
       "date": "2026-02-11",
       "close": 265.59,
@@ -466,9 +458,24 @@
       "volume": 266527,
       "deliverable_qty": 96001,
       "delivery_pct": 36.02
+    },
+    {
+      "date": "2026-05-12",
+      "close": 303.85,
+      "prev_close": 320.85,
+      "volume": 248622,
+      "deliverable_qty": 158872,
+      "delivery_pct": 63.9
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 16:39:07",
+      "an_dt": "12-May-2026 16:39:07",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Diffusion Engineers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIFFUSION_12052026163802_Earningscallinvite12052026.pdf"
+    },
     {
       "sort_date": "2026-05-07 14:47:55",
       "an_dt": "07-May-2026 14:47:55",

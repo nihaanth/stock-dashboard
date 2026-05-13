@@ -8,17 +8,9 @@
   "price": 1623.1,
   "market_cap_cr": 13518.64,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1768.2,
-      "prev_close": 1761.2,
-      "volume": 337219,
-      "deliverable_qty": 72447,
-      "delivery_pct": 21.48
-    },
     {
       "date": "2026-02-11",
       "close": 1767.6,
@@ -466,6 +458,14 @@
       "volume": 261552,
       "deliverable_qty": 106270,
       "delivery_pct": 40.63
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1792.9,
+      "prev_close": 1910.7,
+      "volume": 283605,
+      "deliverable_qty": 125543,
+      "delivery_pct": 44.27
     }
   ],
   "news": [
@@ -545,13 +545,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "BEML Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BEML_12022026175128_12022026_Invetsors_meet_outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 15:58:10",
-      "an_dt": "10-Feb-2026 15:58:10",
-      "desc": "Cessation",
-      "sm_name": "BEML Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BEML_10022026155723_10022026bipin.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 136.84,
   "market_cap_cr": 531.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 106.94,
-      "prev_close": 106.05,
-      "volume": 43293,
-      "deliverable_qty": 22861,
-      "delivery_pct": 52.81
-    },
     {
       "date": "2026-02-11",
       "close": 109.16,
@@ -466,6 +458,14 @@
       "volume": 66841,
       "deliverable_qty": 32429,
       "delivery_pct": 48.52
+    },
+    {
+      "date": "2026-05-12",
+      "close": 134.29,
+      "prev_close": 136.84,
+      "volume": 384278,
+      "deliverable_qty": 189587,
+      "delivery_pct": 49.34
     }
   ],
   "news": [
@@ -608,20 +608,6 @@
       "desc": "Press Release",
       "sm_name": "Amanta Healthcare Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMANTA_11022026135410_Intimation_under_Reg_30_press_release.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:46:08",
-      "an_dt": "10-Feb-2026 13:46:08",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Amanta Healthcare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMANTA_10022026134323_Outcome_of_BM_Final.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:14:41",
-      "an_dt": "10-Feb-2026 13:14:41",
-      "desc": "Change in Management",
-      "sm_name": "Amanta Healthcare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMANTA_10022026131409_Intimation_for_Change_in_Management.pdf"
     }
   ]
 }

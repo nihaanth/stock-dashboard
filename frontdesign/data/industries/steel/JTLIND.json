@@ -8,17 +8,9 @@
   "price": 81.26,
   "market_cap_cr": 3194.18,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 65.21,
-      "prev_close": 65.57,
-      "volume": 2032283,
-      "deliverable_qty": 688789,
-      "delivery_pct": 33.89
-    },
     {
       "date": "2026-02-11",
       "close": 66.08,
@@ -466,9 +458,24 @@
       "volume": 9591248,
       "deliverable_qty": 2216859,
       "delivery_pct": 23.11
+    },
+    {
+      "date": "2026-05-12",
+      "close": 74.78,
+      "prev_close": 81.26,
+      "volume": 4394326,
+      "deliverable_qty": 2088381,
+      "delivery_pct": 47.52
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 17:03:42",
+      "an_dt": "12-May-2026 17:03:42",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "JTL INDUSTRIES LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JTLIND_12052026170322_NewspaperPublicationOfResults31032026.pdf"
+    },
     {
       "sort_date": "2026-05-11 17:03:29",
       "an_dt": "11-May-2026 17:03:29",

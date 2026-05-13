@@ -8,17 +8,9 @@
   "price": 1125.1,
   "market_cap_cr": 16161.38,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 998.75,
-      "prev_close": 969.3,
-      "volume": 407287,
-      "deliverable_qty": 129652,
-      "delivery_pct": 31.83
-    },
     {
       "date": "2026-02-11",
       "close": 1033.85,
@@ -466,9 +458,24 @@
       "volume": 257566,
       "deliverable_qty": 120453,
       "delivery_pct": 46.77
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1098.7,
+      "prev_close": 1125.1,
+      "volume": 265422,
+      "deliverable_qty": 130140,
+      "delivery_pct": 49.03
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 10:35:36",
+      "an_dt": "12-May-2026 10:35:36",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Gabriel India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GABRIEL_12052026103505_SE_Intimation_Earning_call_postpone.pdf"
+    },
     {
       "sort_date": "2026-05-11 19:44:55",
       "an_dt": "11-May-2026 19:44:55",
@@ -580,20 +587,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Gabriel India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GABRIEL_11022026153530_SE_intimation_Final_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:04:17",
-      "an_dt": "10-Feb-2026 13:04:17",
-      "desc": "General Updates",
-      "sm_name": "Gabriel India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GABRIEL_10022026130332_SE_intimation_one_page_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 12:45:50",
-      "an_dt": "10-Feb-2026 12:45:50",
-      "desc": "Shareholders meeting",
-      "sm_name": "Gabriel India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GABRIEL_10022026124516_SE_intimation_final_signed.pdf"
     }
   ]
 }

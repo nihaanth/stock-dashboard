@@ -8,17 +8,9 @@
   "price": 295.4,
   "market_cap_cr": 61591.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 319.45,
-      "prev_close": 317.25,
-      "volume": 9489579,
-      "deliverable_qty": 1510064,
-      "delivery_pct": 15.91
-    },
     {
       "date": "2026-02-11",
       "close": 316.55,
@@ -466,9 +458,24 @@
       "volume": 4174262,
       "deliverable_qty": 1589775,
       "delivery_pct": 38.09
+    },
+    {
+      "date": "2026-05-12",
+      "close": 283.3,
+      "prev_close": 295.4,
+      "volume": 4640229,
+      "deliverable_qty": 1447251,
+      "delivery_pct": 31.19
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:12:54",
+      "an_dt": "12-May-2026 18:12:54",
+      "desc": "Updates",
+      "sm_name": "Rail Vikas Nigam Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RVNL_12052026181246_Coveringletter12052026.pdf"
+    },
     {
       "sort_date": "2026-04-30 18:03:02",
       "an_dt": "30-Apr-2026 18:03:02",

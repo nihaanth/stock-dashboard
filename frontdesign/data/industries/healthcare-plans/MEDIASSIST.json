@@ -8,17 +8,9 @@
   "price": 384.05,
   "market_cap_cr": 2868.92,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 425.65,
-      "prev_close": 421.25,
-      "volume": 155586,
-      "deliverable_qty": 73525,
-      "delivery_pct": 47.26
-    },
     {
       "date": "2026-02-11",
       "close": 418.75,
@@ -466,9 +458,24 @@
       "volume": 418971,
       "deliverable_qty": 135901,
       "delivery_pct": 32.44
+    },
+    {
+      "date": "2026-05-12",
+      "close": 389.0,
+      "prev_close": 384.05,
+      "volume": 440246,
+      "deliverable_qty": 174214,
+      "delivery_pct": 39.57
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 07:42:43",
+      "an_dt": "12-May-2026 07:42:43",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Medi Assist Healthcare Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDIASSIST_12052026074128_MAHSAudioLinkEarningsCall.pdf"
+    },
     {
       "sort_date": "2026-05-11 01:41:20",
       "an_dt": "11-May-2026 01:41:20",
@@ -657,20 +664,6 @@
       "desc": "Updates",
       "sm_name": "Medi Assist Healthcare Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDIASSIST_11022026135452_SE_intimation_on_submission_of_reclassification_application.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:17:10",
-      "an_dt": "10-Feb-2026 16:17:10",
-      "desc": "Credit Rating- Others",
-      "sm_name": "Medi Assist Healthcare Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDIASSIST_10022026161658_SEIntimationCreditRating.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 12:27:44",
-      "an_dt": "10-Feb-2026 12:27:44",
-      "desc": "Credit Rating- Others",
-      "sm_name": "Medi Assist Healthcare Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDIASSIST_10022026122342_MAHSIntimationOnCreditRating.pdf"
     }
   ]
 }

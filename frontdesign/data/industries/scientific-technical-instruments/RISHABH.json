@@ -8,17 +8,9 @@
   "price": 501.5,
   "market_cap_cr": 1933.39,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 445.65,
-      "prev_close": 445.65,
-      "volume": 121289,
-      "deliverable_qty": 97919,
-      "delivery_pct": 80.73
-    },
     {
       "date": "2026-02-11",
       "close": 448.25,
@@ -466,9 +458,24 @@
       "volume": 301660,
       "deliverable_qty": 138415,
       "delivery_pct": 45.88
+    },
+    {
+      "date": "2026-05-12",
+      "close": 486.25,
+      "prev_close": 501.5,
+      "volume": 184719,
+      "deliverable_qty": 106324,
+      "delivery_pct": 57.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 14:45:26",
+      "an_dt": "12-May-2026 14:45:26",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Rishabh Instruments Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RISHABH_12052026144504_RIL_Earnings_Call_Intimation_18052026_Executed.pdf"
+    },
     {
       "sort_date": "2026-04-16 16:42:00",
       "an_dt": "16-Apr-2026 16:42:00",

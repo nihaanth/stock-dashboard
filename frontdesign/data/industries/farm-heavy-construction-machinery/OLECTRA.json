@@ -8,17 +8,9 @@
   "price": 1370.0,
   "market_cap_cr": 11245.06,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1061.2,
-      "prev_close": 1057.1,
-      "volume": 262080,
-      "deliverable_qty": 110518,
-      "delivery_pct": 42.17
-    },
     {
       "date": "2026-02-11",
       "close": 1051.7,
@@ -466,6 +458,14 @@
       "volume": 2296754,
       "deliverable_qty": 466444,
       "delivery_pct": 20.31
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1270.0,
+      "prev_close": 1370.0,
+      "volume": 1190124,
+      "deliverable_qty": 401923,
+      "delivery_pct": 33.77
     }
   ],
   "news": [
@@ -531,13 +531,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "Olectra Greentech Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/OLECTRA_23022026134301_Intimation23022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 10:46:11",
-      "an_dt": "10-Feb-2026 10:46:11",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Olectra Greentech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OLECTRA_10022026104412_Transcript03022026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 95.93,
   "market_cap_cr": 1618.55,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 76.78,
-      "prev_close": 76.47,
-      "volume": 544688,
-      "deliverable_qty": 168454,
-      "delivery_pct": 30.93
-    },
     {
       "date": "2026-02-11",
       "close": 75.78,
@@ -466,9 +458,24 @@
       "volume": 2302984,
       "deliverable_qty": 513413,
       "delivery_pct": 22.29
+    },
+    {
+      "date": "2026-05-12",
+      "close": 99.77,
+      "prev_close": 95.93,
+      "volume": 16687847,
+      "deliverable_qty": 2012583,
+      "delivery_pct": 12.06
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 16:29:18",
+      "an_dt": "12-May-2026 16:29:18",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Arfin India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARFIND_12052026162904_NEWSPAPER_COVERING_BOARD_MEETING-March_26.PDF"
+    },
     {
       "sort_date": "2026-05-11 15:27:04",
       "an_dt": "11-May-2026 15:27:04",

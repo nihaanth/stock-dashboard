@@ -8,17 +8,9 @@
   "price": 1844.1,
   "market_cap_cr": 983.52,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1791.4,
-      "prev_close": 1776.1,
-      "volume": 730,
-      "deliverable_qty": 345,
-      "delivery_pct": 47.26
-    },
     {
       "date": "2026-02-11",
       "close": 1789.7,
@@ -466,9 +458,24 @@
       "volume": 1355,
       "deliverable_qty": 991,
       "delivery_pct": 73.14
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1794.7,
+      "prev_close": 1844.1,
+      "volume": 3993,
+      "deliverable_qty": 2701,
+      "delivery_pct": 67.64
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:33:53",
+      "an_dt": "12-May-2026 18:33:53",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "GRP Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRPLTD_12052026183300_GRP_Earnings_Call_Invite_18052026.pdf"
+    },
     {
       "sort_date": "2026-04-07 18:28:17",
       "an_dt": "07-Apr-2026 18:28:17",
@@ -524,13 +531,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "GRP Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRPLTD_11022026131421_StEx_Newspaperpublication.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:33:41",
-      "an_dt": "10-Feb-2026 16:33:41",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "GRP Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRPLTD_10022026163218_SE_Results.pdf"
     }
   ]
 }

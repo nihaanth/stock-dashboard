@@ -8,17 +8,9 @@
   "price": 1572.1,
   "market_cap_cr": 42234.49,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1532.2,
-      "prev_close": 1490.7,
-      "volume": 883095,
-      "deliverable_qty": 331419,
-      "delivery_pct": 37.53
-    },
     {
       "date": "2026-02-11",
       "close": 1592.1,
@@ -466,6 +458,14 @@
       "volume": 471229,
       "deliverable_qty": 238996,
       "delivery_pct": 50.72
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1527.6,
+      "prev_close": 1572.1,
+      "volume": 312623,
+      "deliverable_qty": 128873,
+      "delivery_pct": 41.22
     }
   ],
   "news": [
@@ -566,13 +566,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Astral Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASTRAL_18022026174500_Astral_Limited_Investor_meet_Intimation-_23022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:58:27",
-      "an_dt": "10-Feb-2026 16:58:27",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Astral Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASTRAL_10022026165709_Transcript.pdf"
     }
   ]
 }

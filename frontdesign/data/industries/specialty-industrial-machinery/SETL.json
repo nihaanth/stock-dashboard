@@ -8,17 +8,9 @@
   "price": 137.74,
   "market_cap_cr": 2747.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 138.5,
-      "prev_close": 133.79,
-      "volume": 397871,
-      "deliverable_qty": 219510,
-      "delivery_pct": 55.17
-    },
     {
       "date": "2026-02-11",
       "close": 134.89,
@@ -466,9 +458,24 @@
       "volume": 164227,
       "deliverable_qty": 86606,
       "delivery_pct": 52.74
+    },
+    {
+      "date": "2026-05-12",
+      "close": 132.36,
+      "prev_close": 137.74,
+      "volume": 113007,
+      "deliverable_qty": 61303,
+      "delivery_pct": 54.25
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 19:38:50",
+      "an_dt": "12-May-2026 19:38:50",
+      "desc": "General Updates",
+      "sm_name": "Standard Engineering Technology Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLTPL_12052026193835_Intimation_on_Incorporation_of_Subsidiary_SPPL_12052026.pdf"
+    },
     {
       "sort_date": "2026-05-08 18:49:48",
       "an_dt": "08-May-2026 18:49:48",
@@ -538,13 +545,6 @@
       "desc": "General Updates",
       "sm_name": "Standard Engineering Technology Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLTPL_12022026194609_Press_release_New_Logo_launch.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 20:34:07",
-      "an_dt": "10-Feb-2026 20:34:07",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Standard Engineering Technology Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLTPL_10022026203353_Earnings_Call_Transcript_10022026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 166.73,
   "market_cap_cr": 26859.74,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 166.69,
-      "prev_close": 162.07,
-      "volume": 21526686,
-      "deliverable_qty": 13862326,
-      "delivery_pct": 64.4
-    },
     {
       "date": "2026-02-11",
       "close": 168.26,
@@ -466,6 +458,14 @@
       "volume": 11407011,
       "deliverable_qty": 4869740,
       "delivery_pct": 42.69
+    },
+    {
+      "date": "2026-05-12",
+      "close": 196.07,
+      "prev_close": 201.23,
+      "volume": 11160160,
+      "deliverable_qty": 4857094,
+      "delivery_pct": 43.52
     }
   ],
   "news": [
@@ -769,13 +769,6 @@
       "desc": "General Updates",
       "sm_name": "Bandhan Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANDHANBNK_11022026195935_SE_Disclosure_RBI_Approval_ICICIPruAMC_Acquisition_11022026_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:47:46",
-      "an_dt": "10-Feb-2026 18:47:46",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Bandhan Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANDHANBNK_10022026184645_SE_Disclosure_GrantofESOPs_10022026_sd.pdf"
     }
   ]
 }

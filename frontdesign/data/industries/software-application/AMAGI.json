@@ -8,17 +8,9 @@
   "price": 349.55,
   "market_cap_cr": 7562.13,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 416.8,
-      "prev_close": 386.8,
-      "volume": 1423984,
-      "deliverable_qty": 563382,
-      "delivery_pct": 39.56
-    },
     {
       "date": "2026-02-11",
       "close": 409.5,
@@ -466,9 +458,31 @@
       "volume": 83261,
       "deliverable_qty": 37161,
       "delivery_pct": 44.63
+    },
+    {
+      "date": "2026-05-12",
+      "close": 409.55,
+      "prev_close": 412.65,
+      "volume": 109545,
+      "deliverable_qty": 62595,
+      "delivery_pct": 57.14
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 17:01:12",
+      "an_dt": "12-May-2026 17:01:12",
+      "desc": "Press Release",
+      "sm_name": "Amagi Media Labs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMAGI_12052026170052_PressReleaseCLOUDPORT.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 13:32:15",
+      "an_dt": "12-May-2026 13:32:15",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Amagi Media Labs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMAGI_12052026133158_Q4Earningsinvite.pdf"
+    },
     {
       "sort_date": "2026-05-05 15:54:56",
       "an_dt": "05-May-2026 15:54:56",

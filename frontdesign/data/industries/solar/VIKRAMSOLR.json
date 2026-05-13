@@ -8,17 +8,9 @@
   "price": 218.56,
   "market_cap_cr": 7919.09,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 226.16,
-      "prev_close": 215.33,
-      "volume": 1565736,
-      "deliverable_qty": 552915,
-      "delivery_pct": 35.31
-    },
     {
       "date": "2026-02-11",
       "close": 236.41,
@@ -466,9 +458,24 @@
       "volume": 2266933,
       "deliverable_qty": 881171,
       "delivery_pct": 38.87
+    },
+    {
+      "date": "2026-05-12",
+      "close": 205.77,
+      "prev_close": 212.86,
+      "volume": 1757917,
+      "deliverable_qty": 853118,
+      "delivery_pct": 48.53
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:36:37",
+      "an_dt": "12-May-2026 18:36:37",
+      "desc": "Updates",
+      "sm_name": "Vikram Solar Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VSLCS_12052026183517_VSLOUTCOMEMAR2026.pdf"
+    },
     {
       "sort_date": "2026-05-08 18:12:32",
       "an_dt": "08-May-2026 18:12:32",

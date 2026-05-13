@@ -8,17 +8,9 @@
   "price": 436.9,
   "market_cap_cr": 4005.19,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 401.85,
-      "prev_close": 391.5,
-      "volume": 262241,
-      "deliverable_qty": 155503,
-      "delivery_pct": 59.3
-    },
     {
       "date": "2026-02-11",
       "close": 425.2,
@@ -466,9 +458,31 @@
       "volume": 552990,
       "deliverable_qty": 300482,
       "delivery_pct": 54.34
+    },
+    {
+      "date": "2026-05-12",
+      "close": 415.85,
+      "prev_close": 436.9,
+      "volume": 342953,
+      "deliverable_qty": 175144,
+      "delivery_pct": 51.07
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:13:12",
+      "an_dt": "12-May-2026 18:13:12",
+      "desc": "Dividend",
+      "sm_name": "Indraprastha Medical Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDRAMEDCO_12052026181240_IMCLOUTCOME12052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 18:11:16",
+      "an_dt": "12-May-2026 18:11:16",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Indraprastha Medical Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDRAMEDCO_12052026181016_IMCLOUTCOME12052026.pdf"
+    },
     {
       "sort_date": "2026-04-07 15:47:21",
       "an_dt": "07-Apr-2026 15:47:21",

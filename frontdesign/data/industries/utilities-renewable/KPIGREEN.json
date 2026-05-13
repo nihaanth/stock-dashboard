@@ -8,17 +8,9 @@
   "price": 417.2,
   "market_cap_cr": 8242.23,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 420.75,
-      "prev_close": 418.9,
-      "volume": 1055083,
-      "deliverable_qty": 378714,
-      "delivery_pct": 35.89
-    },
     {
       "date": "2026-02-11",
       "close": 421.9,
@@ -466,9 +458,24 @@
       "volume": 1369405,
       "deliverable_qty": 545555,
       "delivery_pct": 39.84
+    },
+    {
+      "date": "2026-05-12",
+      "close": 432.7,
+      "prev_close": 455.55,
+      "volume": 1277983,
+      "deliverable_qty": 550384,
+      "delivery_pct": 43.07
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:50:37",
+      "an_dt": "12-May-2026 18:50:37",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "KPI Green Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KPIGLOBAL_12052026184903_6_Audio_Reco_of_Earnings_Conference_call_12052026_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-08 14:53:32",
       "an_dt": "08-May-2026 14:53:32",
@@ -650,20 +657,6 @@
       "desc": "Allotment of Securities",
       "sm_name": "KPI Green Energy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KPIGLOBAL_18022026123013_KPI_Allotment_Outcome_BM_18022026_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 14:34:39",
-      "an_dt": "10-Feb-2026 14:34:39",
-      "desc": "Updates",
-      "sm_name": "KPI Green Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KPIGLOBAL_10022026143141_24_KPI_UAE_BESS_Order_10022026_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 10:42:51",
-      "an_dt": "10-Feb-2026 10:42:51",
-      "desc": "Updates",
-      "sm_name": "KPI Green Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KPIGLOBAL_10022026104241_23_Adani_300MW_Service_Order_10022026_signed.pdf"
     }
   ]
 }

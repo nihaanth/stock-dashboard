@@ -8,17 +8,9 @@
   "price": 1185.8,
   "market_cap_cr": 1186.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 903.5,
-      "prev_close": 847.5,
-      "volume": 361474,
-      "deliverable_qty": 111136,
-      "delivery_pct": 30.75
-    },
     {
       "date": "2026-02-11",
       "close": 889.25,
@@ -466,6 +458,14 @@
       "volume": 17341,
       "deliverable_qty": 8902,
       "delivery_pct": 51.33
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1176.4,
+      "prev_close": 1185.8,
+      "volume": 18013,
+      "deliverable_qty": 10628,
+      "delivery_pct": 59.0
     }
   ],
   "news": [
@@ -559,20 +559,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Macpower CNC Machines Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MACPOWER_11022026161139_Q3n9MFY26_Conference_Call_dated_11_02_2026_Audio_Video_Recording_Link.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:03:28",
-      "an_dt": "10-Feb-2026 18:03:28",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Macpower CNC Machines Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MACPOWER_10022026180205_InvestorPresentationforQ3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 12:21:24",
-      "an_dt": "10-Feb-2026 12:21:24",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Macpower CNC Machines Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MACPOWER_10022026121827_OutcomeofBoardMeetingheldonFebruary102026.pdf"
     }
   ]
 }

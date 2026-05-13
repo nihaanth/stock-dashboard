@@ -8,17 +8,9 @@
   "price": 6520.0,
   "market_cap_cr": 20055.25,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 3637.4,
-      "prev_close": 3404.7,
-      "volume": 865656,
-      "deliverable_qty": 274332,
-      "delivery_pct": 31.69
-    },
     {
       "date": "2026-02-11",
       "close": 3551.8,
@@ -466,9 +458,31 @@
       "volume": 777427,
       "deliverable_qty": 163041,
       "delivery_pct": 20.97
+    },
+    {
+      "date": "2026-05-12",
+      "close": 6248.5,
+      "prev_close": 6520.0,
+      "volume": 679655,
+      "deliverable_qty": 152604,
+      "delivery_pct": 22.45
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 19:21:45",
+      "an_dt": "12-May-2026 19:21:45",
+      "desc": "Press Release",
+      "sm_name": "Mtar Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MTARTECH_12052026192139_PR.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 16:46:25",
+      "an_dt": "12-May-2026 16:46:25",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Mtar Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MTARTECH_12052026164319_FINAL_SW.pdf"
+    },
     {
       "sort_date": "2026-05-07 12:46:31",
       "an_dt": "07-May-2026 12:46:31",
@@ -566,13 +580,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Mtar Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MTARTECH_12022026131435_plantvisit.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 14:25:30",
-      "an_dt": "10-Feb-2026 14:25:30",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Mtar Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MTARTECH_10022026142519_Plantvisit.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 546.5,
   "market_cap_cr": 79168.22,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 643.0,
-      "prev_close": 648.3,
-      "volume": 1431592,
-      "deliverable_qty": 880918,
-      "delivery_pct": 61.53
-    },
     {
       "date": "2026-02-11",
       "close": 640.95,
@@ -466,9 +458,31 @@
       "volume": 1225164,
       "deliverable_qty": 637040,
       "delivery_pct": 52.0
+    },
+    {
+      "date": "2026-05-12",
+      "close": 541.5,
+      "prev_close": 565.6,
+      "volume": 629492,
+      "deliverable_qty": 297709,
+      "delivery_pct": 47.29
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 13:28:48",
+      "an_dt": "12-May-2026 13:28:48",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Prudential Life Insurance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIPRULI_12052026132835_SE_Intimation_May_12_2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 11:57:52",
+      "an_dt": "12-May-2026 11:57:52",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "ICICI Prudential Life Insurance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIPRULI_12052026115747_SE_Intimation_IEPF_Newspaper.pdf"
+    },
     {
       "sort_date": "2026-05-08 17:08:10",
       "an_dt": "08-May-2026 17:08:10",
@@ -790,13 +804,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "ICICI Prudential Life Insurance Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIPRULI_17022026123755_SE_Intimation_Feb_17_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 12:19:16",
-      "an_dt": "10-Feb-2026 12:19:16",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "ICICI Prudential Life Insurance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIPRULI_10022026121908_SE_Intimation_Feb_10_2026.pdf"
     }
   ]
 }

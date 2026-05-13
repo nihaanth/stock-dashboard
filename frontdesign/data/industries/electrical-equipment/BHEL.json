@@ -8,17 +8,9 @@
   "price": 401.35,
   "market_cap_cr": 139752.61,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 276.1,
-      "prev_close": 274.65,
-      "volume": 5379904,
-      "deliverable_qty": 1908300,
-      "delivery_pct": 35.47
-    },
     {
       "date": "2026-02-11",
       "close": 260.65,
@@ -466,6 +458,14 @@
       "volume": 18431673,
       "deliverable_qty": 7041442,
       "delivery_pct": 38.2
+    },
+    {
+      "date": "2026-05-12",
+      "close": 391.75,
+      "prev_close": 401.35,
+      "volume": 17519753,
+      "deliverable_qty": 7724313,
+      "delivery_pct": 44.09
     }
   ],
   "news": [
@@ -685,20 +685,6 @@
       "desc": "Offer for sale",
       "sm_name": "Bharat Heavy Electricals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/vipulr_11022026171926_oversubscription_BHEL.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:20:50",
-      "an_dt": "10-Feb-2026 19:20:50",
-      "desc": "Offer for sale",
-      "sm_name": "Bharat Heavy Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/vipulr_10022026191830_BHEL_OFS.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:03:22",
-      "an_dt": "10-Feb-2026 16:03:22",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "Bharat Heavy Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHELCC_10022026160256_BHEL_Declaration.pdf"
     }
   ]
 }

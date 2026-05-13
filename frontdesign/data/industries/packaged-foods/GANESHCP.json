@@ -8,17 +8,9 @@
   "price": 210.22,
   "market_cap_cr": 849.56,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 197.52,
-      "prev_close": 197.06,
-      "volume": 204864,
-      "deliverable_qty": 181250,
-      "delivery_pct": 88.47
-    },
     {
       "date": "2026-02-11",
       "close": 196.37,
@@ -466,6 +458,14 @@
       "volume": 36713,
       "deliverable_qty": 22033,
       "delivery_pct": 60.01
+    },
+    {
+      "date": "2026-05-12",
+      "close": 195.77,
+      "prev_close": 210.22,
+      "volume": 70994,
+      "deliverable_qty": 39450,
+      "delivery_pct": 55.57
     }
   ],
   "news": [
@@ -615,13 +615,6 @@
       "desc": "Monitoring Agency Report",
       "sm_name": "Ganesh Consumer Products Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GANESH_NSE_13022026105158_Monitoring_Agency_Report_QTR_3.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 12:44:27",
-      "an_dt": "10-Feb-2026 12:44:27",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Ganesh Consumer Products Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GANESH_NSE_10022026124143_Transcript_of__Earnings_Conference_Call__QTR_3.pdf"
     }
   ]
 }

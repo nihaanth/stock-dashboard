@@ -8,17 +8,9 @@
   "price": 458.45,
   "market_cap_cr": 2013.51,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 320.55,
-      "prev_close": 332.35,
-      "volume": 207032,
-      "deliverable_qty": 39378,
-      "delivery_pct": 19.02
-    },
     {
       "date": "2026-02-11",
       "close": 310.5,
@@ -466,6 +458,14 @@
       "volume": 189967,
       "deliverable_qty": 61453,
       "delivery_pct": 32.35
+    },
+    {
+      "date": "2026-05-12",
+      "close": 476.1,
+      "prev_close": 487.7,
+      "volume": 260294,
+      "deliverable_qty": 84865,
+      "delivery_pct": 32.6
     }
   ],
   "news": [
@@ -608,20 +608,6 @@
       "desc": "Updates",
       "sm_name": "Apollo Pipes Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/APOLLOPIPE_19022026185315_SEBIPITReg_7_.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:49:41",
-      "an_dt": "10-Feb-2026 19:49:41",
-      "desc": "Price movement",
-      "sm_name": "Apollo Pipes Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APOLLOPIPE_10022026194902_Pricemovement.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:05:17",
-      "an_dt": "10-Feb-2026 19:05:17",
-      "desc": "Price movement",
-      "sm_name": "Apollo Pipes Limited",
-      "attchmntFile": "-"
     }
   ]
 }

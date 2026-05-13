@@ -8,17 +8,9 @@
   "price": 3208.8,
   "market_cap_cr": 92301.56,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 3163.8,
-      "prev_close": 3122.2,
-      "volume": 1075296,
-      "deliverable_qty": 333144,
-      "delivery_pct": 30.98
-    },
     {
       "date": "2026-02-11",
       "close": 3177.6,
@@ -466,6 +458,14 @@
       "volume": 937451,
       "deliverable_qty": 301759,
       "delivery_pct": 32.19
+    },
+    {
+      "date": "2026-05-12",
+      "close": 3125.2,
+      "prev_close": 3208.8,
+      "volume": 1018046,
+      "deliverable_qty": 405292,
+      "delivery_pct": 39.81
     }
   ],
   "news": [
@@ -888,13 +888,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Waaree Energies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WAAREE_13022026163428_InvestorMeetDolat_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 15:39:26",
-      "an_dt": "10-Feb-2026 15:39:26",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Waaree Energies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WAAREE_10022026153851_InvestorMeet_signed.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 408.75,
   "market_cap_cr": 33026.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 485.9,
-      "prev_close": 465.85,
-      "volume": 4126476,
-      "deliverable_qty": 1692948,
-      "delivery_pct": 41.03
-    },
     {
       "date": "2026-02-11",
       "close": 489.3,
@@ -466,9 +458,24 @@
       "volume": 1610021,
       "deliverable_qty": 744411,
       "delivery_pct": 46.24
+    },
+    {
+      "date": "2026-05-12",
+      "close": 422.05,
+      "prev_close": 441.95,
+      "volume": 1247259,
+      "deliverable_qty": 614993,
+      "delivery_pct": 49.31
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 19:05:39",
+      "an_dt": "12-May-2026 19:05:39",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Poonawalla Fincorp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PFLROHIT_12052026190533_PFLIntimationNewspaperAdv12052026.pdf"
+    },
     {
       "sort_date": "2026-05-11 20:51:26",
       "an_dt": "11-May-2026 20:51:26",

@@ -8,17 +8,9 @@
   "price": 267.5,
   "market_cap_cr": 1156.94,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 283.15,
-      "prev_close": 288.6,
-      "volume": 176719,
-      "deliverable_qty": 116761,
-      "delivery_pct": 66.07
-    },
     {
       "date": "2026-02-11",
       "close": 281.15,
@@ -466,6 +458,14 @@
       "volume": 7633,
       "deliverable_qty": 4021,
       "delivery_pct": 52.68
+    },
+    {
+      "date": "2026-05-12",
+      "close": 255.9,
+      "prev_close": 267.5,
+      "volume": 22595,
+      "deliverable_qty": 13355,
+      "delivery_pct": 59.11
     }
   ],
   "news": [
@@ -573,27 +573,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Arihant Superstructures Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARIHANTSUP_11022026115923_ASL_Newspaper_advertisement_11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 15:02:25",
-      "an_dt": "10-Feb-2026 15:02:25",
-      "desc": "General Updates",
-      "sm_name": "Arihant Superstructures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARIHANTSUP_10022026150216_ASL_Intimation_split_of_shares.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 14:54:38",
-      "an_dt": "10-Feb-2026 14:54:38",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Arihant Superstructures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARIHANTSUP_10022026145344_ASL_Outcome_of_BM_10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 14:42:27",
-      "an_dt": "10-Feb-2026 14:42:27",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Arihant Superstructures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARIHANTSUP_10022026144217_ASL_Outcome_of_BM_10022026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 404.15,
   "market_cap_cr": 4968.23,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 386.8,
-      "prev_close": 382.65,
-      "volume": 224473,
-      "deliverable_qty": 121823,
-      "delivery_pct": 54.27
-    },
     {
       "date": "2026-02-11",
       "close": 393.35,
@@ -466,6 +458,14 @@
       "volume": 184798,
       "deliverable_qty": 98483,
       "delivery_pct": 53.29
+    },
+    {
+      "date": "2026-05-12",
+      "close": 393.1,
+      "prev_close": 404.15,
+      "volume": 346669,
+      "deliverable_qty": 183247,
+      "delivery_pct": 52.86
     }
   ],
   "news": [
@@ -538,13 +538,6 @@
       "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
       "sm_name": "ION Exchange (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IONEXCHANGE_06032026145826_Intimation_Update_on_Litigation_ACETP_Upload.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:56:52",
-      "an_dt": "10-Feb-2026 18:56:52",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "ION Exchange (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IONEXCHANGE_10022026184207_Stock_Exchange_Announcement.pdf"
     }
   ]
 }

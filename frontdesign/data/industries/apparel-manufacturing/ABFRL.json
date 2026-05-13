@@ -8,17 +8,9 @@
   "price": 64.99,
   "market_cap_cr": 7905.3,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 72.99,
-      "prev_close": 74.27,
-      "volume": 3468312,
-      "deliverable_qty": 1358662,
-      "delivery_pct": 39.17
-    },
     {
       "date": "2026-02-11",
       "close": 70.89,
@@ -466,6 +458,14 @@
       "volume": 3055035,
       "deliverable_qty": 1371601,
       "delivery_pct": 44.9
+    },
+    {
+      "date": "2026-05-12",
+      "close": 62.4,
+      "prev_close": 64.99,
+      "volume": 2775268,
+      "deliverable_qty": 1439592,
+      "delivery_pct": 51.87
     }
   ],
   "news": [
@@ -552,20 +552,6 @@
       "desc": "Allotment of Securities",
       "sm_name": "Aditya Birla Fashion and Retail Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABFRL_03032026224631_ABFRL_SE.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 14:50:56",
-      "an_dt": "10-Feb-2026 14:50:56",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Aditya Birla Fashion and Retail Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABFRL_10022026144835_ABFRL_SE_Transcript.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:53:04",
-      "an_dt": "10-Feb-2026 13:53:04",
-      "desc": "Updates",
-      "sm_name": "Aditya Birla Fashion and Retail Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABFRL_10022026135217_Outcome.pdf"
     }
   ]
 }

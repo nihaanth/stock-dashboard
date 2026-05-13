@@ -8,17 +8,9 @@
   "price": 866.65,
   "market_cap_cr": 852.18,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 893.75,
-      "prev_close": 896.75,
-      "volume": 137,
-      "deliverable_qty": 114,
-      "delivery_pct": 83.21
-    },
     {
       "date": "2026-02-11",
       "close": 933.55,
@@ -466,6 +458,14 @@
       "volume": 332,
       "deliverable_qty": 196,
       "delivery_pct": 59.04
+    },
+    {
+      "date": "2026-05-12",
+      "close": 814.1,
+      "prev_close": 866.65,
+      "volume": 1867,
+      "deliverable_qty": 1221,
+      "delivery_pct": 65.4
     }
   ],
   "news": [
@@ -510,27 +510,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Eldeco Housing And Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELDECO_11022026105412_IntimationSENewspaperAdvertisementFinancialResults.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:35:58",
-      "an_dt": "10-Feb-2026 19:35:58",
-      "desc": "Investor Presentation",
-      "sm_name": "Eldeco Housing And Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELDECO_10022026193550_IntimationtoSEforInvestorPresentationQ3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:24:18",
-      "an_dt": "10-Feb-2026 19:24:18",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Eldeco Housing And Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELDECO_10022026192305_Outcome10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:12:33",
-      "an_dt": "10-Feb-2026 19:12:33",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Eldeco Housing And Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELDECO_10022026191206_Outcome10022026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 484.15,
   "market_cap_cr": 6554.33,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 594.25,
-      "prev_close": 584.95,
-      "volume": 51557,
-      "deliverable_qty": 28882,
-      "delivery_pct": 56.02
-    },
     {
       "date": "2026-02-11",
       "close": 582.1,
@@ -466,6 +458,14 @@
       "volume": 96275,
       "deliverable_qty": 55504,
       "delivery_pct": 57.65
+    },
+    {
+      "date": "2026-05-12",
+      "close": 496.7,
+      "prev_close": 524.2,
+      "volume": 120707,
+      "deliverable_qty": 68861,
+      "delivery_pct": 57.05
     }
   ],
   "news": [
@@ -657,13 +657,6 @@
       "desc": "Press Release",
       "sm_name": "WeWork India Management Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WEWORK_12022026184851_Intimation_High_Court_Order.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 11:22:05",
-      "an_dt": "10-Feb-2026 11:22:05",
-      "desc": "Press Release",
-      "sm_name": "WeWork India Management Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WEWORK_10022026112153_WeWork_-_Media_Release_Turner_International.pdf"
     }
   ]
 }

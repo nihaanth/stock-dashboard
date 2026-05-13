@@ -8,17 +8,9 @@
   "price": 290.2,
   "market_cap_cr": 18967.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 261.66,
-      "prev_close": 262.92,
-      "volume": 5938522,
-      "deliverable_qty": 2613826,
-      "delivery_pct": 44.01
-    },
     {
       "date": "2026-02-11",
       "close": 266.04,
@@ -466,9 +458,24 @@
       "volume": 3478542,
       "deliverable_qty": 1258360,
       "delivery_pct": 36.17
+    },
+    {
+      "date": "2026-05-12",
+      "close": 282.05,
+      "prev_close": 290.2,
+      "volume": 5419634,
+      "deliverable_qty": 2226139,
+      "delivery_pct": 41.08
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:00:03",
+      "an_dt": "12-May-2026 18:00:03",
+      "desc": "Product launch",
+      "sm_name": "Crompton Greaves Consumer Electricals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Crompton123_12052026175939_IntimationofProductLaunch.pdf"
+    },
     {
       "sort_date": "2026-05-07 13:42:19",
       "an_dt": "07-May-2026 13:42:19",

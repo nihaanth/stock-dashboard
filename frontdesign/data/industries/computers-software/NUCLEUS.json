@@ -8,17 +8,9 @@
   "price": 802.0,
   "market_cap_cr": 2111.29,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 911.95,
-      "prev_close": 910.85,
-      "volume": 103837,
-      "deliverable_qty": 19618,
-      "delivery_pct": 18.89
-    },
     {
       "date": "2026-02-11",
       "close": 908.85,
@@ -466,6 +458,14 @@
       "volume": 13831,
       "deliverable_qty": 6333,
       "delivery_pct": 45.79
+    },
+    {
+      "date": "2026-05-12",
+      "close": 791.25,
+      "prev_close": 802.0,
+      "volume": 17333,
+      "deliverable_qty": 7985,
+      "delivery_pct": 46.07
     }
   ],
   "news": [
@@ -664,27 +664,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Nucleus Software Exports Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Nucleus_11022026204927_INTIMATION.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 15:52:30",
-      "an_dt": "10-Feb-2026 15:52:30",
-      "desc": "Press Release",
-      "sm_name": "Nucleus Software Exports Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Nucleus_10022026155150_INTIMATION.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 14:44:56",
-      "an_dt": "10-Feb-2026 14:44:56",
-      "desc": "Appointment",
-      "sm_name": "Nucleus Software Exports Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Nucleus_10022026144434_OUTCOME.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 14:35:11",
-      "an_dt": "10-Feb-2026 14:35:11",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Nucleus Software Exports Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Nucleus_10022026143450_OUTCOME.pdf"
     }
   ]
 }

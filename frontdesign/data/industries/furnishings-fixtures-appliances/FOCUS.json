@@ -8,17 +8,9 @@
   "price": 83.55,
   "market_cap_cr": 560.92,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 66.04,
-      "prev_close": 67.24,
-      "volume": 247448,
-      "deliverable_qty": 93341,
-      "delivery_pct": 37.72
-    },
     {
       "date": "2026-02-11",
       "close": 69.71,
@@ -466,6 +458,14 @@
       "volume": 92543,
       "deliverable_qty": 35859,
       "delivery_pct": 38.75
+    },
+    {
+      "date": "2026-05-12",
+      "close": 83.89,
+      "prev_close": 83.55,
+      "volume": 128545,
+      "deliverable_qty": 56747,
+      "delivery_pct": 44.15
     }
   ],
   "news": [
@@ -531,13 +531,6 @@
       "desc": "Trading Window",
       "sm_name": "Focus Lighting and Fixtures Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FOCUS_25032026165530_ClosureofTradingWindowMarch2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 10:41:56",
-      "an_dt": "10-Feb-2026 10:41:56",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Focus Lighting and Fixtures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FOCUS_10022026104148_NewspaperIntimation31122025.pdf"
     }
   ]
 }

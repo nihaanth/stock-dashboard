@@ -8,17 +8,9 @@
   "price": 456.15,
   "market_cap_cr": 8921.46,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 339.7,
-      "prev_close": 332.6,
-      "volume": 1103202,
-      "deliverable_qty": 559852,
-      "delivery_pct": 50.75
-    },
     {
       "date": "2026-02-11",
       "close": 331.5,
@@ -466,6 +458,14 @@
       "volume": 1791376,
       "deliverable_qty": 637716,
       "delivery_pct": 35.6
+    },
+    {
+      "date": "2026-05-12",
+      "close": 438.65,
+      "prev_close": 456.15,
+      "volume": 423159,
+      "deliverable_qty": 194723,
+      "delivery_pct": 46.02
     }
   ],
   "news": [
@@ -552,13 +552,6 @@
       "desc": "General Updates",
       "sm_name": "Shilpa Medicare Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHILPAMED_13022026111008_SEintimation_13Feb2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:00:38",
-      "an_dt": "10-Feb-2026 13:00:38",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Shilpa Medicare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHILPAMED_10022026130020_SEInvestor_call_Transcript.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 534.6,
   "market_cap_cr": 6387.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 510.9,
-      "prev_close": 509.7,
-      "volume": 26091,
-      "deliverable_qty": 11864,
-      "delivery_pct": 45.47
-    },
     {
       "date": "2026-02-11",
       "close": 521.65,
@@ -466,6 +458,14 @@
       "volume": 68480,
       "deliverable_qty": 35971,
       "delivery_pct": 52.53
+    },
+    {
+      "date": "2026-05-12",
+      "close": 522.2,
+      "prev_close": 534.6,
+      "volume": 67563,
+      "deliverable_qty": 34070,
+      "delivery_pct": 50.43
     }
   ],
   "news": [
@@ -601,34 +601,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Hindustan Foods Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/9136565850_11022026155636_Recording.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:04:02",
-      "an_dt": "10-Feb-2026 18:04:02",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Hindustan Foods Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9136565850_10022026180348_Monitoring_Agency_10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:59:54",
-      "an_dt": "10-Feb-2026 17:59:54",
-      "desc": "Investor Presentation",
-      "sm_name": "Hindustan Foods Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9136565850_10022026175939_Investor_Presentation_10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:56:40",
-      "an_dt": "10-Feb-2026 17:56:40",
-      "desc": "Press Release",
-      "sm_name": "Hindustan Foods Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9136565850_10022026175621_Press_Release_1002026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:29:31",
-      "an_dt": "10-Feb-2026 17:29:31",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Hindustan Foods Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9136565850_10022026172753_Outcome_10022026.pdf"
     }
   ]
 }

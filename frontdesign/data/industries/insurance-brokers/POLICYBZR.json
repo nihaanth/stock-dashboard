@@ -8,17 +8,9 @@
   "price": 1642.5,
   "market_cap_cr": 76079.85,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1504.6,
-      "prev_close": 1532.1,
-      "volume": 5601462,
-      "deliverable_qty": 2580964,
-      "delivery_pct": 46.08
-    },
     {
       "date": "2026-02-11",
       "close": 1554.6,
@@ -466,9 +458,24 @@
       "volume": 968844,
       "deliverable_qty": 376281,
       "delivery_pct": 38.84
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1603.3,
+      "prev_close": 1642.5,
+      "volume": 1482394,
+      "deliverable_qty": 834623,
+      "delivery_pct": 56.3
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 21:37:54",
+      "an_dt": "12-May-2026 21:37:54",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "PB Fintech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POLICYBZR_12052026213452_TrancriptofEarningsCallPBFL06052026.pdf"
+    },
     {
       "sort_date": "2026-05-11 22:10:52",
       "an_dt": "11-May-2026 22:10:52",

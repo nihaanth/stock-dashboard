@@ -8,17 +8,9 @@
   "price": 214.85,
   "market_cap_cr": 1180.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 226.62,
-      "prev_close": 221.37,
-      "volume": 193665,
-      "deliverable_qty": 69990,
-      "delivery_pct": 36.14
-    },
     {
       "date": "2026-02-11",
       "close": 205.87,
@@ -466,6 +458,14 @@
       "volume": 116973,
       "deliverable_qty": 55397,
       "delivery_pct": 47.36
+    },
+    {
+      "date": "2026-05-12",
+      "close": 204.03,
+      "prev_close": 214.85,
+      "volume": 115336,
+      "deliverable_qty": 59829,
+      "delivery_pct": 51.87
     }
   ],
   "news": [
@@ -587,34 +587,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Laxmi Dental Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LAXMI_11022026145345_Regulation30Earningscall.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 21:49:27",
-      "an_dt": "10-Feb-2026 21:49:27",
-      "desc": "Press Release",
-      "sm_name": "Laxmi Dental Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LAXMI_10022026214853_Press_Release_.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 21:41:13",
-      "an_dt": "10-Feb-2026 21:41:13",
-      "desc": "Investor Presentation",
-      "sm_name": "Laxmi Dental Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LAXMI_10022026214038_Regulation_30_-_Earnings_call_Presentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 20:04:19",
-      "an_dt": "10-Feb-2026 20:04:19",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Laxmi Dental Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LAXMI_10022026200318_Monitoring_Agency_Report_01.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:10:49",
-      "an_dt": "10-Feb-2026 19:10:49",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Laxmi Dental Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LAXMI_10022026190716_Outcome.pdf"
     }
   ]
 }

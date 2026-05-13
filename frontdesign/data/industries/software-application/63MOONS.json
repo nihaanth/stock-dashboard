@@ -8,17 +8,9 @@
   "price": 698.45,
   "market_cap_cr": 8043.6,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 724.85,
-      "prev_close": 709.85,
-      "volume": 218085,
-      "deliverable_qty": 99738,
-      "delivery_pct": 45.73
-    },
     {
       "date": "2026-02-11",
       "close": 701.15,
@@ -466,6 +458,14 @@
       "volume": 63695,
       "deliverable_qty": 31300,
       "delivery_pct": 49.14
+    },
+    {
+      "date": "2026-05-12",
+      "close": 662.1,
+      "prev_close": 698.45,
+      "volume": 109061,
+      "deliverable_qty": 57201,
+      "delivery_pct": 52.45
     }
   ],
   "news": [
@@ -552,20 +552,6 @@
       "desc": "Sale or disposal",
       "sm_name": "63 moons technologies limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/63MOONS_13022026213435_LetterSaleofstake13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:49:46",
-      "an_dt": "10-Feb-2026 17:49:46",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "63 moons technologies limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/63MOONS_10022026174044_ResultsDec2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 10:17:42",
-      "an_dt": "10-Feb-2026 10:17:42",
-      "desc": "Spurt in Volume",
-      "sm_name": "63 moons technologies limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/63MOONS_10022026101730_ClarificationbyCompany10022026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 532.15,
   "market_cap_cr": 1768.28,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 594.9,
-      "prev_close": 545.5,
-      "volume": 382219,
-      "deliverable_qty": 178646,
-      "delivery_pct": 46.74
-    },
     {
       "date": "2026-02-11",
       "close": 588.15,
@@ -466,9 +458,24 @@
       "volume": 677964,
       "deliverable_qty": 213829,
       "delivery_pct": 31.54
+    },
+    {
+      "date": "2026-05-12",
+      "close": 584.4,
+      "prev_close": 584.5,
+      "volume": 475564,
+      "deliverable_qty": 263901,
+      "delivery_pct": 55.49
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 19:41:20",
+      "an_dt": "12-May-2026 19:41:20",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Mold-Tek Packaging Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOLDTKPAC_12052026194114_SE_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-11 19:05:03",
       "an_dt": "11-May-2026 19:05:03",
@@ -559,13 +566,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Mold-Tek Packaging Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOLDTKPAC_15022026202300_SE_Intimation_Transcript.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:36:09",
-      "an_dt": "10-Feb-2026 18:36:09",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Mold-Tek Packaging Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOLDTKPAC_10022026183603_SE_Intimation_NP.pdf"
     }
   ]
 }

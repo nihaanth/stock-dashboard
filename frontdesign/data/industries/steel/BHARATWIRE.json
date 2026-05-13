@@ -8,17 +8,9 @@
   "price": 252.83,
   "market_cap_cr": 1734.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 178.11,
-      "prev_close": 176.51,
-      "volume": 124836,
-      "deliverable_qty": 78103,
-      "delivery_pct": 62.56
-    },
     {
       "date": "2026-02-11",
       "close": 175.87,
@@ -466,6 +458,14 @@
       "volume": 1813788,
       "deliverable_qty": 511366,
       "delivery_pct": 28.19
+    },
+    {
+      "date": "2026-05-12",
+      "close": 232.67,
+      "prev_close": 252.83,
+      "volume": 905175,
+      "deliverable_qty": 395309,
+      "delivery_pct": 43.67
     }
   ],
   "news": [
@@ -552,20 +552,6 @@
       "desc": "Investor Presentation",
       "sm_name": "Bharat Wire Ropes Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARATWIRE_17022026151050_IntimationSD.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:50:03",
-      "an_dt": "10-Feb-2026 13:50:03",
-      "desc": "Resignation of Statutory Auditor",
-      "sm_name": "Bharat Wire Ropes Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARATWIRE_ROSA_78853_KMP_Doc.zip"
-    },
-    {
-      "sort_date": "2026-02-10 13:35:30",
-      "an_dt": "10-Feb-2026 13:35:30",
-      "desc": "Resignation",
-      "sm_name": "Bharat Wire Ropes Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARATWIRE_10022026133441_IntimationSD.pdf"
     }
   ]
 }

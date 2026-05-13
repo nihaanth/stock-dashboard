@@ -8,17 +8,9 @@
   "price": 308.35,
   "market_cap_cr": 986.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 292.7,
-      "prev_close": 303.9,
-      "volume": 93057,
-      "deliverable_qty": 44891,
-      "delivery_pct": 48.24
-    },
     {
       "date": "2026-02-11",
       "close": 282.0,
@@ -466,6 +458,14 @@
       "volume": 43703,
       "deliverable_qty": 18535,
       "delivery_pct": 42.41
+    },
+    {
+      "date": "2026-05-12",
+      "close": 289.4,
+      "prev_close": 308.35,
+      "volume": 66663,
+      "deliverable_qty": 19509,
+      "delivery_pct": 29.27
     }
   ],
   "news": [
@@ -510,20 +510,6 @@
       "desc": "Cessation",
       "sm_name": "Indef Manufacturing Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BAJAJINDEF_06032026161900_IntimationKMResignation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 14:18:15",
-      "an_dt": "10-Feb-2026 14:18:15",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Indef Manufacturing Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BAJAJINDEF_10022026141802_BMoutcomefeb102026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 14:09:07",
-      "an_dt": "10-Feb-2026 14:09:07",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Indef Manufacturing Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BAJAJINDEF_10022026140526_BMoutcomefeb102026signed.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 884.5,
   "market_cap_cr": 15393.77,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 733.15,
-      "prev_close": 730.2,
-      "volume": 44346,
-      "deliverable_qty": 24730,
-      "delivery_pct": 55.77
-    },
     {
       "date": "2026-02-11",
       "close": 730.95,
@@ -466,9 +458,24 @@
       "volume": 236695,
       "deliverable_qty": 124130,
       "delivery_pct": 52.44
+    },
+    {
+      "date": "2026-05-12",
+      "close": 853.9,
+      "prev_close": 884.5,
+      "volume": 166524,
+      "deliverable_qty": 77720,
+      "delivery_pct": 46.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 21:11:43",
+      "an_dt": "12-May-2026 21:11:43",
+      "desc": "Addendum",
+      "sm_name": "Ksb Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KSB_12052026211127_KSB_Limited_Addendum_signed.pdf"
+    },
     {
       "sort_date": "2026-05-05 17:21:34",
       "an_dt": "05-May-2026 17:21:34",

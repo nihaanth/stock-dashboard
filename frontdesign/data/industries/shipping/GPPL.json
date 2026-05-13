@@ -8,17 +8,9 @@
   "price": 157.13,
   "market_cap_cr": 7599.21,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 184.1,
-      "prev_close": 180.14,
-      "volume": 1813462,
-      "deliverable_qty": 1012906,
-      "delivery_pct": 55.85
-    },
     {
       "date": "2026-02-11",
       "close": 178.11,
@@ -466,6 +458,14 @@
       "volume": 1066216,
       "deliverable_qty": 639576,
       "delivery_pct": 59.99
+    },
+    {
+      "date": "2026-05-12",
+      "close": 152.85,
+      "prev_close": 157.13,
+      "volume": 1023707,
+      "deliverable_qty": 693977,
+      "delivery_pct": 67.79
     }
   ],
   "news": [
@@ -496,20 +496,6 @@
       "desc": "Trading Window",
       "sm_name": "Gujarat Pipavav Port Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPPL_24032026161348_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:48:11",
-      "an_dt": "10-Feb-2026 19:48:11",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Gujarat Pipavav Port Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPPL_10022026194751_Presentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:13:14",
-      "an_dt": "10-Feb-2026 17:13:14",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Gujarat Pipavav Port Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPPL_10022026170939_Results.pdf"
     }
   ]
 }

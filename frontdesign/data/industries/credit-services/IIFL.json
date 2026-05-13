@@ -8,17 +8,9 @@
   "price": 462.35,
   "market_cap_cr": 19660.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 525.6,
-      "prev_close": 517.9,
-      "volume": 997444,
-      "deliverable_qty": 409404,
-      "delivery_pct": 41.05
-    },
     {
       "date": "2026-02-11",
       "close": 525.6,
@@ -466,9 +458,24 @@
       "volume": 1438651,
       "deliverable_qty": 727340,
       "delivery_pct": 50.56
+    },
+    {
+      "date": "2026-05-12",
+      "close": 445.7,
+      "prev_close": 462.35,
+      "volume": 1031217,
+      "deliverable_qty": 524877,
+      "delivery_pct": 50.9
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 22:27:10",
+      "an_dt": "12-May-2026 22:27:10",
+      "desc": "General Updates",
+      "sm_name": "IIFL Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFL_12052026222632_SEIntimation.pdf"
+    },
     {
       "sort_date": "2026-05-07 19:37:24",
       "an_dt": "07-May-2026 19:37:24",

@@ -8,17 +8,9 @@
   "price": 3090.8,
   "market_cap_cr": 46888.44,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 3190.6,
-      "prev_close": 3216.0,
-      "volume": 350115,
-      "deliverable_qty": 192920,
-      "delivery_pct": 55.1
-    },
     {
       "date": "2026-02-11",
       "close": 3281.1,
@@ -466,9 +458,24 @@
       "volume": 111486,
       "deliverable_qty": 44201,
       "delivery_pct": 39.65
+    },
+    {
+      "date": "2026-05-12",
+      "close": 2997.6,
+      "prev_close": 3090.8,
+      "volume": 166680,
+      "deliverable_qty": 72423,
+      "delivery_pct": 43.45
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 17:04:41",
+      "an_dt": "12-May-2026 17:04:41",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "PI Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PIIND_12052026170417_Finalfile.pdf"
+    },
     {
       "sort_date": "2026-04-29 17:34:05",
       "an_dt": "29-Apr-2026 17:34:05",

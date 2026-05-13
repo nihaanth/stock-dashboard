@@ -8,17 +8,9 @@
   "price": 378.6,
   "market_cap_cr": 2559.18,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 320.8,
-      "prev_close": 317.95,
-      "volume": 195772,
-      "deliverable_qty": 104893,
-      "delivery_pct": 53.58
-    },
     {
       "date": "2026-02-11",
       "close": 315.25,
@@ -466,9 +458,24 @@
       "volume": 990994,
       "deliverable_qty": 432577,
       "delivery_pct": 43.65
+    },
+    {
+      "date": "2026-05-12",
+      "close": 359.2,
+      "prev_close": 378.6,
+      "volume": 914853,
+      "deliverable_qty": 392011,
+      "delivery_pct": 42.85
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 17:47:39",
+      "an_dt": "12-May-2026 17:47:39",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "K.P. Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KPENERGY_12052026174603_5__KPE_Audio_Reco_of_Earnings_call_12052026_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-08 15:24:45",
       "an_dt": "08-May-2026 15:24:45",
@@ -573,13 +580,6 @@
       "desc": "Updates",
       "sm_name": "K.P. Energy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KPENERGY_25022026225755_38_KPE_Intimation_LOA_Enerparc_40_8MW_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 20:55:52",
-      "an_dt": "10-Feb-2026 20:55:52",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "K.P. Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KPENERGY_10022026205529_37_KPE_LOA_SECI_100MW_IPP_Signed.pdf"
     }
   ]
 }

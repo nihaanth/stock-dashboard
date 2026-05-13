@@ -8,17 +8,9 @@
   "price": 110.7,
   "market_cap_cr": 4806.19,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 71.77,
-      "prev_close": 71.54,
-      "volume": 3592815,
-      "deliverable_qty": 1390022,
-      "delivery_pct": 38.69
-    },
     {
       "date": "2026-02-11",
       "close": 71.87,
@@ -466,6 +458,14 @@
       "volume": 3514315,
       "deliverable_qty": 1877657,
       "delivery_pct": 53.43
+    },
+    {
+      "date": "2026-05-12",
+      "close": 105.23,
+      "prev_close": 110.7,
+      "volume": 4599561,
+      "deliverable_qty": 1968726,
+      "delivery_pct": 42.8
     }
   ],
   "news": [
@@ -566,20 +566,6 @@
       "desc": "Reply to Clarification- Financial results",
       "sm_name": "Websol Energy System Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WEBELSOLAR_16022026122715_NSEREPLY10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:12:57",
-      "an_dt": "10-Feb-2026 18:12:57",
-      "desc": "Clarification - Financial Results",
-      "sm_name": "Websol Energy System Limited",
-      "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-02-10 09:33:04",
-      "an_dt": "10-Feb-2026 09:33:04",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Websol Energy System Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WEBELSOLAR_10022026093108_UpdateInvestor_Meet10022026sign.pdf"
     }
   ]
 }

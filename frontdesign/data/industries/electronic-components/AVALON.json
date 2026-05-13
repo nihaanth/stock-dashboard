@@ -8,17 +8,9 @@
   "price": 1044.75,
   "market_cap_cr": 6975.39,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1053.9,
-      "prev_close": 1050.35,
-      "volume": 133514,
-      "deliverable_qty": 66625,
-      "delivery_pct": 49.9
-    },
     {
       "date": "2026-02-11",
       "close": 1053.3,
@@ -466,6 +458,14 @@
       "volume": 373560,
       "deliverable_qty": 123424,
       "delivery_pct": 33.04
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1291.2,
+      "prev_close": 1340.0,
+      "volume": 373528,
+      "deliverable_qty": 178151,
+      "delivery_pct": 47.69
     }
   ],
   "news": [
@@ -545,13 +545,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Avalon Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVALON2022_11022026192304_ATL_Q3FY26_Earnings_Call_-_Transcript.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:26:40",
-      "an_dt": "10-Feb-2026 16:26:40",
-      "desc": "Resignation",
-      "sm_name": "Avalon Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVALON2022_10022026162624_ATL_Resignation_BS.pdf"
     }
   ]
 }

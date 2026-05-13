@@ -8,17 +8,9 @@
   "price": 4411.4,
   "market_cap_cr": 27481.56,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 5381.0,
-      "prev_close": 5233.0,
-      "volume": 213253,
-      "deliverable_qty": 66167,
-      "delivery_pct": 31.03
-    },
     {
       "date": "2026-02-11",
       "close": 5250.5,
@@ -466,9 +458,24 @@
       "volume": 163877,
       "deliverable_qty": 57862,
       "delivery_pct": 35.31
+    },
+    {
+      "date": "2026-05-12",
+      "close": 4082.2,
+      "prev_close": 4245.1,
+      "volume": 305282,
+      "deliverable_qty": 118734,
+      "delivery_pct": 38.89
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 15:26:25",
+      "an_dt": "12-May-2026 15:26:25",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Tata Elxsi Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TELNSE_12052026152609_IEPFAdvertisement.pdf"
+    },
     {
       "sort_date": "2026-05-09 20:26:09",
       "an_dt": "09-May-2026 20:26:09",
@@ -615,13 +622,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Tata Elxsi Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TELNSE_12022026155143_NewspaperAdvt12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 12:48:32",
-      "an_dt": "10-Feb-2026 12:48:32",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Tata Elxsi Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TELNSE_10022026124418_NewspaperPublication10022026.pdf"
     }
   ]
 }

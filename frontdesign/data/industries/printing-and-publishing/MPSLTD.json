@@ -8,17 +8,9 @@
   "price": 1656.7,
   "market_cap_cr": 2812.34,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1707.3,
-      "prev_close": 1681.8,
-      "volume": 23465,
-      "deliverable_qty": 10324,
-      "delivery_pct": 44.0
-    },
     {
       "date": "2026-02-11",
       "close": 1678.9,
@@ -466,6 +458,14 @@
       "volume": 17623,
       "deliverable_qty": 8548,
       "delivery_pct": 48.5
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1620.3,
+      "prev_close": 1656.7,
+      "volume": 10287,
+      "deliverable_qty": 7315,
+      "delivery_pct": 71.11
     }
   ],
   "news": [
@@ -573,20 +573,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "MPS Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MPSLIMITED_17022026155446_Conference_Call_Update.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 02:11:48",
-      "an_dt": "10-Feb-2026 02:11:48",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "MPS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MPSLIMITED_10022026021055_Stx_Intimation_Conference_Call_Unbound_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 01:55:23",
-      "an_dt": "10-Feb-2026 01:55:23",
-      "desc": "Acquisition",
-      "sm_name": "MPS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MPSLIMITED_10022026014755_Stx_Intimation_Completion_Acquisition_Unbound_Medicine.pdf"
     }
   ]
 }

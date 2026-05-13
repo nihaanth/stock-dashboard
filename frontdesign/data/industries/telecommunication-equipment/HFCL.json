@@ -8,17 +8,9 @@
   "price": 148.46,
   "market_cap_cr": 22718.3,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 72.3,
-      "prev_close": 72.24,
-      "volume": 13387936,
-      "deliverable_qty": 4668848,
-      "delivery_pct": 34.87
-    },
     {
       "date": "2026-02-11",
       "close": 71.65,
@@ -466,6 +458,14 @@
       "volume": 112674256,
       "deliverable_qty": 23121625,
       "delivery_pct": 20.52
+    },
+    {
+      "date": "2026-05-12",
+      "close": 147.78,
+      "prev_close": 148.46,
+      "volume": 98852575,
+      "deliverable_qty": 16155715,
+      "delivery_pct": 16.34
     }
   ],
   "news": [
@@ -811,13 +811,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "HFCL Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AHMED_11022026161949_HFCL_STX__Postal_Ballot_Notice_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 21:35:51",
-      "an_dt": "10-Feb-2026 21:35:51",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "HFCL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AHMED_10022026213429_HFCL_STX_Transcript_10022026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 456.0,
   "market_cap_cr": 74173.31,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 488.85,
-      "prev_close": 490.05,
-      "volume": 2054107,
-      "deliverable_qty": 801138,
-      "delivery_pct": 39.0
-    },
     {
       "date": "2026-02-11",
       "close": 479.25,
@@ -466,6 +458,14 @@
       "volume": 2727627,
       "deliverable_qty": 805918,
       "delivery_pct": 29.55
+    },
+    {
+      "date": "2026-05-12",
+      "close": 490.95,
+      "prev_close": 456.0,
+      "volume": 31731906,
+      "deliverable_qty": 7964594,
+      "delivery_pct": 25.1
     }
   ],
   "news": [
@@ -601,34 +601,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Oil India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/OIL_11022026183058_CONCALLQ326AUDIOSIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:51:33",
-      "an_dt": "10-Feb-2026 16:51:33",
-      "desc": "Record Date",
-      "sm_name": "Oil India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OIL_10022026165107_RecordDateintimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:43:19",
-      "an_dt": "10-Feb-2026 16:43:19",
-      "desc": "Dividend",
-      "sm_name": "Oil India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OIL_10022026164248_OUTCOMEOFBM10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:32:59",
-      "an_dt": "10-Feb-2026 16:32:59",
-      "desc": "Press Release",
-      "sm_name": "Oil India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OIL_10022026163250_REG30PRESSRELEASE10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:27:58",
-      "an_dt": "10-Feb-2026 16:27:58",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Oil India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OIL_10022026162617_OUTCOMEOFBM10022026.pdf"
     }
   ]
 }

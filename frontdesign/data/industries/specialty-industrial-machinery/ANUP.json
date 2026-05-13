@@ -8,17 +8,9 @@
   "price": 2067.6,
   "market_cap_cr": 4141.71,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 2115.5,
-      "prev_close": 2019.3,
-      "volume": 112329,
-      "deliverable_qty": 25358,
-      "delivery_pct": 22.57
-    },
     {
       "date": "2026-02-11",
       "close": 2081.2,
@@ -466,6 +458,14 @@
       "volume": 35695,
       "deliverable_qty": 17730,
       "delivery_pct": 49.67
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1970.4,
+      "prev_close": 2067.6,
+      "volume": 30804,
+      "deliverable_qty": 11482,
+      "delivery_pct": 37.27
     }
   ],
   "news": [
@@ -573,13 +573,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "The Anup Engineering Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANUP_16022026110923_IntimationInvestorMeet.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 14:43:08",
-      "an_dt": "10-Feb-2026 14:43:08",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "The Anup Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANUP_10022026144135_SEAdvrtPostalBallot.pdf"
     }
   ]
 }

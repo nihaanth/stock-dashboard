@@ -8,17 +8,9 @@
   "price": 361.25,
   "market_cap_cr": 3631.46,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 301.85,
-      "prev_close": 305.85,
-      "volume": 42769,
-      "deliverable_qty": 28252,
-      "delivery_pct": 66.06
-    },
     {
       "date": "2026-02-11",
       "close": 344.05,
@@ -466,9 +458,24 @@
       "volume": 77223,
       "deliverable_qty": 42995,
       "delivery_pct": 55.68
+    },
+    {
+      "date": "2026-05-12",
+      "close": 349.85,
+      "prev_close": 361.25,
+      "volume": 55420,
+      "deliverable_qty": 23364,
+      "delivery_pct": 42.16
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:07:54",
+      "an_dt": "12-May-2026 18:07:54",
+      "desc": "General Updates",
+      "sm_name": "Ashiana Housing Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASHIANA_12052026180747_IntimationtoNSESIGNED.pdf"
+    },
     {
       "sort_date": "2026-05-11 18:37:46",
       "an_dt": "11-May-2026 18:37:46",
@@ -671,48 +678,6 @@
       "desc": "General Updates",
       "sm_name": "Ashiana Housing Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASHIANA_12022026154326_IntimationtoNSE.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 20:25:58",
-      "an_dt": "10-Feb-2026 20:25:58",
-      "desc": "Investor Presentation",
-      "sm_name": "Ashiana Housing Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASHIANA_10022026202551_InvestorUpdateQ3FY26SIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 20:22:24",
-      "an_dt": "10-Feb-2026 20:22:24",
-      "desc": "Appointment",
-      "sm_name": "Ashiana Housing Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASHIANA_10022026202217_Reg30AppointmentofIDSIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:32:29",
-      "an_dt": "10-Feb-2026 19:32:29",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Ashiana Housing Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASHIANA_10022026192519_FRDec2025FINALSIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:16:01",
-      "an_dt": "10-Feb-2026 19:16:01",
-      "desc": "Record Date",
-      "sm_name": "Ashiana Housing Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASHIANA_10022026191533_OutcomeofBMSIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:59:21",
-      "an_dt": "10-Feb-2026 18:59:21",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Ashiana Housing Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASHIANA_10022026185844_OutcomeofBMSIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:52:30",
-      "an_dt": "10-Feb-2026 18:52:30",
-      "desc": "Dividend",
-      "sm_name": "Ashiana Housing Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASHIANA_10022026185221_OutcomeofBMSIGNED.pdf"
     }
   ]
 }

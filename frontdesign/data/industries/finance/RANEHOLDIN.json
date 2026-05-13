@@ -8,17 +8,9 @@
   "price": 1142.9,
   "market_cap_cr": 1631.81,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1427.1,
-      "prev_close": 1440.5,
-      "volume": 4859,
-      "deliverable_qty": 3264,
-      "delivery_pct": 67.17
-    },
     {
       "date": "2026-02-11",
       "close": 1501.6,
@@ -466,9 +458,24 @@
       "volume": 8978,
       "deliverable_qty": 5068,
       "delivery_pct": 56.45
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1109.0,
+      "prev_close": 1142.9,
+      "volume": 9640,
+      "deliverable_qty": 4877,
+      "delivery_pct": 50.59
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 19:57:16",
+      "an_dt": "12-May-2026 19:57:16",
+      "desc": "Trading Window",
+      "sm_name": "Rane Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RANEHOLDIN_12052026195143_RHLReg29_13052026_SD.pdf"
+    },
     {
       "sort_date": "2026-05-11 19:31:13",
       "an_dt": "11-May-2026 19:31:13",
@@ -608,13 +615,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Rane Holdings Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RANEHOLDIN_14022026132615_RHL_UFR_Q3_202526_SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:45:16",
-      "an_dt": "10-Feb-2026 16:45:16",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Rane Holdings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RANEHOLDIN_10022026164450_RHL_SE_Ltr_Earnings_Call_Q3_2526_SD.pdf"
     }
   ]
 }

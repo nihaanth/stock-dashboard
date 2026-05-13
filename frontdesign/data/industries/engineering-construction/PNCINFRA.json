@@ -8,17 +8,9 @@
   "price": 221.91,
   "market_cap_cr": 5692.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 231.96,
-      "prev_close": 234.32,
-      "volume": 544361,
-      "deliverable_qty": 222612,
-      "delivery_pct": 40.89
-    },
     {
       "date": "2026-02-11",
       "close": 223.69,
@@ -466,9 +458,24 @@
       "volume": 321115,
       "deliverable_qty": 151912,
       "delivery_pct": 47.31
+    },
+    {
+      "date": "2026-05-12",
+      "close": 218.75,
+      "prev_close": 221.91,
+      "volume": 562595,
+      "deliverable_qty": 352757,
+      "delivery_pct": 62.7
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 19:40:33",
+      "an_dt": "12-May-2026 19:40:33",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "PNC Infratech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNCINFRA_12052026193812_Intimation_Agra_Bypass_Settlement_AGreement.pdf"
+    },
     {
       "sort_date": "2026-05-09 14:28:34",
       "an_dt": "09-May-2026 14:28:34",
@@ -622,20 +629,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "PNC Infratech Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNCINFRA_11022026150656_NewspaperAd11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:41:35",
-      "an_dt": "10-Feb-2026 17:41:35",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "PNC Infratech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNCINFRA_10022026174116_EarningCallUpdate10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 12:31:48",
-      "an_dt": "10-Feb-2026 12:31:48",
-      "desc": "Investor Presentation",
-      "sm_name": "PNC Infratech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNCINFRA_10022026123134_Investor_PresentationQ3FY26.pdf"
     }
   ]
 }

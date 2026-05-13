@@ -8,17 +8,9 @@
   "price": 14594.0,
   "market_cap_cr": 27681.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 15220.0,
-      "prev_close": 15149.0,
-      "volume": 6678,
-      "deliverable_qty": 2867,
-      "delivery_pct": 42.93
-    },
     {
       "date": "2026-02-11",
       "close": 15950.0,
@@ -466,6 +458,14 @@
       "volume": 46867,
       "deliverable_qty": 24151,
       "delivery_pct": 51.53
+    },
+    {
+      "date": "2026-05-12",
+      "close": 14651.0,
+      "prev_close": 14594.0,
+      "volume": 28214,
+      "deliverable_qty": 15317,
+      "delivery_pct": 54.29
     }
   ],
   "news": [
@@ -608,13 +608,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "ZF Commercial Vehicle Control Systems India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WABCOINDIA_12022026164024_SdInvestor_meeting_Outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 15:52:13",
-      "an_dt": "10-Feb-2026 15:52:13",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "ZF Commercial Vehicle Control Systems India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WABCOINDIA_10022026155041_SdSEOutcomeBM.pdf"
     }
   ]
 }

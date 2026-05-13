@@ -8,17 +8,9 @@
   "price": 589.65,
   "market_cap_cr": 823.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 645.75,
-      "prev_close": 614.4,
-      "volume": 100033,
-      "deliverable_qty": 46290,
-      "delivery_pct": 46.27
-    },
     {
       "date": "2026-02-11",
       "close": 624.0,
@@ -466,9 +458,31 @@
       "volume": 54424,
       "deliverable_qty": 45021,
       "delivery_pct": 82.72
+    },
+    {
+      "date": "2026-05-12",
+      "close": 621.4,
+      "prev_close": 589.65,
+      "volume": 435321,
+      "deliverable_qty": 138545,
+      "delivery_pct": 31.83
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 17:46:03",
+      "an_dt": "12-May-2026 17:46:03",
+      "desc": "Agreements",
+      "sm_name": "Krystal Integrated Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KISL123_12052026174556_Reg_30_Intimation_SPA_Citelum.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 11:52:55",
+      "an_dt": "12-May-2026 11:52:55",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Krystal Integrated Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KISL123_12052026115248_KISLQ4_FY26_Earnings_Call_Transcript.pdf"
+    },
     {
       "sort_date": "2026-05-11 16:57:34",
       "an_dt": "11-May-2026 16:57:34",
@@ -664,13 +678,6 @@
       "desc": "General Updates",
       "sm_name": "Krystal Integrated Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KISL123_24022026130010_Outcome_of_Board_Meeting_24_02_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:27:44",
-      "an_dt": "10-Feb-2026 18:27:44",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Krystal Integrated Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KISL123_10022026182724_Outcome_of_Inverstor_Meet_10022026.pdf"
     }
   ]
 }

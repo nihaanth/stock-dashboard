@@ -8,17 +8,9 @@
   "price": 696.0,
   "market_cap_cr": 15521.0,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 780.55,
-      "prev_close": 771.8,
-      "volume": 1299007,
-      "deliverable_qty": 389627,
-      "delivery_pct": 29.99
-    },
     {
       "date": "2026-02-11",
       "close": 776.4,
@@ -466,9 +458,31 @@
       "volume": 389587,
       "deliverable_qty": 103814,
       "delivery_pct": 26.65
+    },
+    {
+      "date": "2026-05-12",
+      "close": 661.15,
+      "prev_close": 683.35,
+      "volume": 257612,
+      "deliverable_qty": 128795,
+      "delivery_pct": 50.0
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 20:51:50",
+      "an_dt": "12-May-2026 20:51:50",
+      "desc": "General Updates",
+      "sm_name": "Choice International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CHOICE_12052026205127_upload.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 17:43:45",
+      "an_dt": "12-May-2026 17:43:45",
+      "desc": "Shareholders meeting",
+      "sm_name": "Choice International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CHOICE_12052026174316_Uploadfisdf.pdf"
+    },
     {
       "sort_date": "2026-04-28 18:49:06",
       "an_dt": "28-Apr-2026 18:49:06",

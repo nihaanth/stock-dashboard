@@ -8,17 +8,9 @@
   "price": 937.6,
   "market_cap_cr": 32114.91,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 950.75,
-      "prev_close": 978.85,
-      "volume": 1041234,
-      "deliverable_qty": 349136,
-      "delivery_pct": 33.53
-    },
     {
       "date": "2026-02-11",
       "close": 907.45,
@@ -466,9 +458,31 @@
       "volume": 201886,
       "deliverable_qty": 84511,
       "delivery_pct": 41.86
+    },
+    {
+      "date": "2026-05-12",
+      "close": 921.45,
+      "prev_close": 937.6,
+      "volume": 529211,
+      "deliverable_qty": 130429,
+      "delivery_pct": 24.65
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 13:45:00",
+      "an_dt": "12-May-2026 13:45:00",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "K.P.R. Mill Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KPRMILL_12052026134155_Outcome_of_BM_12052026_OCR.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 13:40:29",
+      "an_dt": "12-May-2026 13:40:29",
+      "desc": "Dividend",
+      "sm_name": "K.P.R. Mill Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KPRMILL_12052026134003_Outcome_of_BM_12052026_OCR.pdf"
+    },
     {
       "sort_date": "2026-05-06 19:16:12",
       "an_dt": "06-May-2026 19:16:12",
@@ -552,13 +566,6 @@
       "desc": "Investor Presentation",
       "sm_name": "K.P.R. Mill Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KPRMILL_11022026180010_Investor_Presentation_31122025_SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:43:36",
-      "an_dt": "10-Feb-2026 16:43:36",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "K.P.R. Mill Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KPRMILL_10022026164322_Newspaper_Publication.pdf"
     }
   ]
 }

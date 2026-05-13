@@ -8,17 +8,9 @@
   "price": 263.19,
   "market_cap_cr": 1724.1,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 268.06,
-      "prev_close": 244.33,
-      "volume": 503322,
-      "deliverable_qty": 118831,
-      "delivery_pct": 23.61
-    },
     {
       "date": "2026-02-11",
       "close": 265.18,
@@ -466,6 +458,14 @@
       "volume": 119329,
       "deliverable_qty": 46181,
       "delivery_pct": 38.7
+    },
+    {
+      "date": "2026-05-12",
+      "close": 244.66,
+      "prev_close": 263.19,
+      "volume": 87427,
+      "deliverable_qty": 49899,
+      "delivery_pct": 57.08
     }
   ],
   "news": [
@@ -559,34 +559,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "All Time Plastics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALLTIMEPLASTICSLIMITED_17022026112202_SE39-ATPL_Q3FY26_Earnings_Call_Transcript.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:28:53",
-      "an_dt": "10-Feb-2026 18:28:53",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "All Time Plastics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALLTIMEPLASTICSLIMITED_10022026182827_SE38-Investorconference17022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:23:24",
-      "an_dt": "10-Feb-2026 18:23:24",
-      "desc": "Updates",
-      "sm_name": "All Time Plastics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALLTIMEPLASTICSLIMITED_10022026182310_SE35-Code_of_Fair_Disclosure.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:18:03",
-      "an_dt": "10-Feb-2026 18:18:03",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "All Time Plastics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALLTIMEPLASTICSLIMITED_10022026181744_AudiorecordingQ32526.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:03:40",
-      "an_dt": "10-Feb-2026 18:03:40",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "All Time Plastics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALLTIMEPLASTICSLIMITED_10022026180217_MAR31122025.pdf"
     }
   ]
 }

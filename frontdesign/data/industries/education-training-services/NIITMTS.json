@@ -8,17 +8,9 @@
   "price": 299.55,
   "market_cap_cr": 4119.42,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 385.55,
-      "prev_close": 381.95,
-      "volume": 142279,
-      "deliverable_qty": 114624,
-      "delivery_pct": 80.56
-    },
     {
       "date": "2026-02-11",
       "close": 386.2,
@@ -466,9 +458,52 @@
       "volume": 166496,
       "deliverable_qty": 113475,
       "delivery_pct": 68.15
+    },
+    {
+      "date": "2026-05-12",
+      "close": 272.4,
+      "prev_close": 299.55,
+      "volume": 1904560,
+      "deliverable_qty": 338700,
+      "delivery_pct": 17.78
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 20:30:20",
+      "an_dt": "12-May-2026 20:30:20",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "NIIT Learning Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLSL_12052026202935_NLSLSEBMAudioRecording12052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 13:47:37",
+      "an_dt": "12-May-2026 13:47:37",
+      "desc": "Investor Presentation",
+      "sm_name": "NIIT Learning Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLSL_12052026134726_NLSLSEBMInvestorPPT12052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 13:36:56",
+      "an_dt": "12-May-2026 13:36:56",
+      "desc": "Press Release",
+      "sm_name": "NIIT Learning Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLSL_12052026133639_NLSLSEBMPressRelease12052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 13:29:11",
+      "an_dt": "12-May-2026 13:29:11",
+      "desc": "Dividend",
+      "sm_name": "NIIT Learning Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLSL_12052026132825_NLSLSEBMQuickResults12052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 13:27:08",
+      "an_dt": "12-May-2026 13:27:08",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "NIIT Learning Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLSL_12052026132449_NLSLSEBMQuickResults12052026.pdf"
+    },
     {
       "sort_date": "2026-05-11 17:15:43",
       "an_dt": "11-May-2026 17:15:43",
@@ -615,13 +650,6 @@
       "desc": "Other Restructuring",
       "sm_name": "NIIT Learning Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLSL_12022026220004_MST_USA_stock_exchange.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 11:08:59",
-      "an_dt": "10-Feb-2026 11:08:59",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "NIIT Learning Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLSL_10022026110827_NLSLSEESOPAllotment10022026.pdf"
     }
   ]
 }

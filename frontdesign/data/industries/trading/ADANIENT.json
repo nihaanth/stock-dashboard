@@ -8,17 +8,9 @@
   "price": 2500.2,
   "market_cap_cr": 342763.48,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 2228.4,
-      "prev_close": 2250.1,
-      "volume": 1670672,
-      "deliverable_qty": 253600,
-      "delivery_pct": 15.18
-    },
     {
       "date": "2026-02-11",
       "close": 2234.4,
@@ -466,9 +458,31 @@
       "volume": 1279432,
       "deliverable_qty": 334388,
       "delivery_pct": 26.14
+    },
+    {
+      "date": "2026-05-12",
+      "close": 2405.2,
+      "prev_close": 2500.2,
+      "volume": 1459022,
+      "deliverable_qty": 498271,
+      "delivery_pct": 34.15
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:23:19",
+      "an_dt": "12-May-2026 18:23:19",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Adani Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/nishant_joshi_adani_com_12052026182155_SEIntimation.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 18:23:02",
+      "an_dt": "12-May-2026 18:23:02",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Adani Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/nishant_joshi_adani_com_12052026182155_SEIntimation.pdf"
+    },
     {
       "sort_date": "2026-05-07 19:07:45",
       "an_dt": "07-May-2026 19:07:45",
@@ -825,27 +839,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Adani Enterprises Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/kuntal_chandya_adani_com_11022026202430_AELIntimation11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 22:31:34",
-      "an_dt": "10-Feb-2026 22:31:34",
-      "desc": "Acquisition",
-      "sm_name": "Adani Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/kuntal_chandya_adani_com_10022026222735_DP_Jain_Draft_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 21:23:08",
-      "an_dt": "10-Feb-2026 21:23:08",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Adani Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADANIENT_10022026212133_2ndcallrecorddatenewspaperintimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 10:46:22",
-      "an_dt": "10-Feb-2026 10:46:22",
-      "desc": "General Updates",
-      "sm_name": "Adani Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/kuntal_chandya_adani_com_10022026104557_Intimation10022026.pdf"
     }
   ]
 }

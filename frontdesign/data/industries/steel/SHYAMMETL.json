@@ -8,17 +8,9 @@
   "price": 830.5,
   "market_cap_cr": 23106.87,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 902.8,
-      "prev_close": 890.7,
-      "volume": 339147,
-      "deliverable_qty": 163719,
-      "delivery_pct": 48.27
-    },
     {
       "date": "2026-02-11",
       "close": 905.15,
@@ -466,9 +458,38 @@
       "volume": 2667672,
       "deliverable_qty": 795399,
       "delivery_pct": 29.82
+    },
+    {
+      "date": "2026-05-12",
+      "close": 843.65,
+      "prev_close": 871.8,
+      "volume": 833916,
+      "deliverable_qty": 453829,
+      "delivery_pct": 54.42
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:10:51",
+      "an_dt": "12-May-2026 18:10:51",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shyam Metalics and Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHYAMMETL_12052026181043_outcomeofconcall.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 17:51:41",
+      "an_dt": "12-May-2026 17:51:41",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Shyam Metalics and Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHYAMMETL_12052026175134_newspaperpublication.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 08:10:43",
+      "an_dt": "12-May-2026 08:10:43",
+      "desc": "Investor Presentation",
+      "sm_name": "Shyam Metalics and Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHYAMMETL_12052026081030_SMELInvestorPresentation12052026.pdf"
+    },
     {
       "sort_date": "2026-05-11 17:45:17",
       "an_dt": "11-May-2026 17:45:17",
@@ -657,13 +678,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Shyam Metalics and Energy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHYAMMETL_11022026163453_noticeofpostalballot.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:12:15",
-      "an_dt": "10-Feb-2026 17:12:15",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Shyam Metalics and Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHYAMMETL_10022026171208_outcomeofinvestormeet.pdf"
     }
   ]
 }

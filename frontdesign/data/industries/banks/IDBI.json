@@ -8,17 +8,9 @@
   "price": 73.82,
   "market_cap_cr": 79381.93,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 108.04,
-      "prev_close": 104.04,
-      "volume": 40233297,
-      "deliverable_qty": 8615752,
-      "delivery_pct": 21.41
-    },
     {
       "date": "2026-02-11",
       "close": 111.31,
@@ -466,6 +458,14 @@
       "volume": 4134906,
       "deliverable_qty": 1813987,
       "delivery_pct": 43.87
+    },
+    {
+      "date": "2026-05-12",
+      "close": 71.03,
+      "prev_close": 73.25,
+      "volume": 5661464,
+      "deliverable_qty": 2587670,
+      "delivery_pct": 45.71
     }
   ],
   "news": [
@@ -580,13 +580,6 @@
       "desc": "General Updates",
       "sm_name": "IDBI Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANESHJ_21022026155835_SE_SaleofDemat_21022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:25:53",
-      "an_dt": "10-Feb-2026 18:25:53",
-      "desc": "Strikes/Lockouts/Disturbances",
-      "sm_name": "IDBI Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANESHJ_10022026182409_SE_Strike_10022026.pdf"
     }
   ]
 }

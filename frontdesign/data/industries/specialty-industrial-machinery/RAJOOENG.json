@@ -8,17 +8,9 @@
   "price": 58.79,
   "market_cap_cr": 1050.43,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 66.95,
-      "prev_close": 67.1,
-      "volume": 390911,
-      "deliverable_qty": 185825,
-      "delivery_pct": 47.54
-    },
     {
       "date": "2026-02-11",
       "close": 66.3,
@@ -466,9 +458,24 @@
       "volume": 468033,
       "deliverable_qty": 242565,
       "delivery_pct": 51.83
+    },
+    {
+      "date": "2026-05-12",
+      "close": 57.21,
+      "prev_close": 58.79,
+      "volume": 312480,
+      "deliverable_qty": 163655,
+      "delivery_pct": 52.37
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 15:59:46",
+      "an_dt": "12-May-2026 15:59:46",
+      "desc": "Appointment",
+      "sm_name": "Rajoo Engineers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAJOO_12052026155930_Intimation_Appointment_Company_Secretary.pdf"
+    },
     {
       "sort_date": "2026-05-07 13:07:28",
       "an_dt": "07-May-2026 13:07:28",

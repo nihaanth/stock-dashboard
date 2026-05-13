@@ -8,17 +8,9 @@
   "price": 555.6,
   "market_cap_cr": 6855.99,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 656.95,
-      "prev_close": 651.35,
-      "volume": 678767,
-      "deliverable_qty": 240521,
-      "delivery_pct": 35.43
-    },
     {
       "date": "2026-02-11",
       "close": 636.3,
@@ -466,6 +458,14 @@
       "volume": 2316633,
       "deliverable_qty": 572237,
       "delivery_pct": 24.7
+    },
+    {
+      "date": "2026-05-12",
+      "close": 528.15,
+      "prev_close": 555.6,
+      "volume": 1225066,
+      "deliverable_qty": 442696,
+      "delivery_pct": 36.14
     }
   ],
   "news": [
@@ -692,13 +692,6 @@
       "desc": "Monitoring Agency Report",
       "sm_name": "Shakti Pumps (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHAKTIPUMP_13022026182549_DisclosureunderReg32_6_Monitoringagencyreport.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:28:50",
-      "an_dt": "10-Feb-2026 16:28:50",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Shakti Pumps (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHAKTIPUMP_10022026162808_IntimationofConference.pdf"
     }
   ]
 }

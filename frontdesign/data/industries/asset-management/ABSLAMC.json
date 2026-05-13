@@ -8,17 +8,9 @@
   "price": 1010.2,
   "market_cap_cr": 29175.21,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 838.55,
-      "prev_close": 819.7,
-      "volume": 397343,
-      "deliverable_qty": 213093,
-      "delivery_pct": 53.63
-    },
     {
       "date": "2026-02-11",
       "close": 860.85,
@@ -466,9 +458,24 @@
       "volume": 390828,
       "deliverable_qty": 220506,
       "delivery_pct": 56.42
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1055.1,
+      "prev_close": 1059.3,
+      "volume": 287226,
+      "deliverable_qty": 173220,
+      "delivery_pct": 60.31
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:31:38",
+      "an_dt": "12-May-2026 18:31:38",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aditya Birla Sun Life AMC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABSLAMC_12052026182625_ABSLAMC.pdf"
+    },
     {
       "sort_date": "2026-04-29 17:38:27",
       "an_dt": "29-Apr-2026 17:38:27",

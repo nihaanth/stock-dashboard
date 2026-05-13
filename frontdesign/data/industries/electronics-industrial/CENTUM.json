@@ -8,17 +8,9 @@
   "price": 3055.9,
   "market_cap_cr": 4504.7,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 2478.5,
-      "prev_close": 2385.5,
-      "volume": 39093,
-      "deliverable_qty": 17274,
-      "delivery_pct": 44.19
-    },
     {
       "date": "2026-02-11",
       "close": 2479.8,
@@ -466,9 +458,24 @@
       "volume": 71818,
       "deliverable_qty": 27402,
       "delivery_pct": 38.15
+    },
+    {
+      "date": "2026-05-12",
+      "close": 2936.0,
+      "prev_close": 3055.9,
+      "volume": 45636,
+      "deliverable_qty": 19884,
+      "delivery_pct": 43.57
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 21:02:25",
+      "an_dt": "12-May-2026 21:02:25",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Centum Electronics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CENTUME_12052026205957_Intimationandinvite.pdf"
+    },
     {
       "sort_date": "2026-05-11 19:02:11",
       "an_dt": "11-May-2026 19:02:11",
@@ -678,13 +685,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Centum Electronics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CENTUME_14022026203517_OutcomeofBM.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:02:37",
-      "an_dt": "10-Feb-2026 19:02:37",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Centum Electronics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CENTUME_10022026185626_ECIntimation.pdf"
     }
   ]
 }

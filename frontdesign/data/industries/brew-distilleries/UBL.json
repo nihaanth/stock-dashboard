@@ -8,17 +8,9 @@
   "price": 1412.2,
   "market_cap_cr": 37339.29,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1619.7,
-      "prev_close": 1533.6,
-      "volume": 158265,
-      "deliverable_qty": 63027,
-      "delivery_pct": 39.82
-    },
     {
       "date": "2026-02-11",
       "close": 1627.4,
@@ -466,9 +458,24 @@
       "volume": 330658,
       "deliverable_qty": 211793,
       "delivery_pct": 64.05
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1410.5,
+      "prev_close": 1412.2,
+      "volume": 181359,
+      "deliverable_qty": 85813,
+      "delivery_pct": 47.32
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 17:36:37",
+      "an_dt": "12-May-2026 17:36:37",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "United Breweries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UBLSJR_12052026173538_DisclosureMaterialEventMVATMahrashtra.pdf"
+    },
     {
       "sort_date": "2026-05-11 11:02:16",
       "an_dt": "11-May-2026 11:02:16",
@@ -685,20 +692,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "United Breweries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/UBLSJR_11022026220719_IntimationAudioVideolink.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 21:47:23",
-      "an_dt": "10-Feb-2026 21:47:23",
-      "desc": "Investor Presentation",
-      "sm_name": "United Breweries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UBLSJR_10022026214658_InvestorEarningPresentation10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 21:21:17",
-      "an_dt": "10-Feb-2026 21:21:17",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "United Breweries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UBLSJR_10022026211400_UBLFinancialResultsDec2025.pdf"
     }
   ]
 }

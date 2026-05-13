@@ -8,17 +8,9 @@
   "price": 532.8,
   "market_cap_cr": 9667.61,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 567.8,
-      "prev_close": 572.65,
-      "volume": 328803,
-      "deliverable_qty": 171439,
-      "delivery_pct": 52.14
-    },
     {
       "date": "2026-02-11",
       "close": 575.7,
@@ -466,9 +458,24 @@
       "volume": 1301892,
       "deliverable_qty": 663525,
       "delivery_pct": 50.97
+    },
+    {
+      "date": "2026-05-12",
+      "close": 582.0,
+      "prev_close": 621.8,
+      "volume": 804505,
+      "deliverable_qty": 408832,
+      "delivery_pct": 50.82
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:06:24",
+      "an_dt": "12-May-2026 18:06:24",
+      "desc": "Updates",
+      "sm_name": "Ramkrishna Forgings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RKFORGE_12052026180614_ResgofStatAudofRTRWLMaterialSubsdiary12May2026.pdf"
+    },
     {
       "sort_date": "2026-05-11 14:53:36",
       "an_dt": "11-May-2026 14:53:36",
@@ -727,13 +734,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Ramkrishna Forgings Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RKFORGE_19022026162312_STEXCNewspaper19Feb26.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:35:21",
-      "an_dt": "10-Feb-2026 17:35:21",
-      "desc": "Updates",
-      "sm_name": "Ramkrishna Forgings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RKFORGE_10022026173504_StExc2ndRelodgement.pdf"
     }
   ]
 }

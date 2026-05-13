@@ -8,17 +8,9 @@
   "price": 1678.0,
   "market_cap_cr": 31813.13,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1510.3,
-      "prev_close": 1545.7,
-      "volume": 143895,
-      "deliverable_qty": 86096,
-      "delivery_pct": 59.83
-    },
     {
       "date": "2026-02-11",
       "close": 1498.8,
@@ -466,6 +458,14 @@
       "volume": 286485,
       "deliverable_qty": 113518,
       "delivery_pct": 39.62
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1657.5,
+      "prev_close": 1678.0,
+      "volume": 159239,
+      "deliverable_qty": 68184,
+      "delivery_pct": 42.82
     }
   ],
   "news": [
@@ -685,13 +685,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Emcure Pharmaceuticals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMCURE_17022026194637_PostalBallotNoticeIntimationsd.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:05:13",
-      "an_dt": "10-Feb-2026 18:05:13",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Emcure Pharmaceuticals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMCURE_10022026180440_TranscriptofEarningCallQ3FY26.pdf"
     }
   ]
 }

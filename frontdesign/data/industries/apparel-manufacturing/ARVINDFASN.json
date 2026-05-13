@@ -8,17 +8,9 @@
   "price": 446.35,
   "market_cap_cr": 5965.69,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 494.25,
-      "prev_close": 487.05,
-      "volume": 215255,
-      "deliverable_qty": 102863,
-      "delivery_pct": 47.79
-    },
     {
       "date": "2026-02-11",
       "close": 480.65,
@@ -466,6 +458,14 @@
       "volume": 269317,
       "deliverable_qty": 137168,
       "delivery_pct": 50.93
+    },
+    {
+      "date": "2026-05-12",
+      "close": 431.9,
+      "prev_close": 446.35,
+      "volume": 174959,
+      "deliverable_qty": 83371,
+      "delivery_pct": 47.65
     }
   ],
   "news": [
@@ -615,13 +615,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Arvind Fashions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARVINDFASN_06032026115742_NPIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 12:11:31",
-      "an_dt": "10-Feb-2026 12:11:31",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Arvind Fashions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARVINDFASN_10022026120308_NPIntimation.pdf"
     }
   ]
 }

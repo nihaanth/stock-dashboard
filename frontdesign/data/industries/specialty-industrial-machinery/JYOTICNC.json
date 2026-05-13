@@ -8,17 +8,9 @@
   "price": 698.95,
   "market_cap_cr": 15895.74,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 825.65,
-      "prev_close": 861.15,
-      "volume": 1128843,
-      "deliverable_qty": 328713,
-      "delivery_pct": 29.12
-    },
     {
       "date": "2026-02-11",
       "close": 863.0,
@@ -466,6 +458,14 @@
       "volume": 532617,
       "deliverable_qty": 250214,
       "delivery_pct": 46.98
+    },
+    {
+      "date": "2026-05-12",
+      "close": 726.0,
+      "prev_close": 746.55,
+      "volume": 425406,
+      "deliverable_qty": 213055,
+      "delivery_pct": 50.08
     }
   ],
   "news": [
@@ -608,34 +608,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Jyoti CNC Automation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_11022026161443_BSEnseIntimationNEWSpaperResultsJCALdec2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 23:26:27",
-      "an_dt": "10-Feb-2026 23:26:27",
-      "desc": "Investor Presentation",
-      "sm_name": "Jyoti CNC Automation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_10022026232550_JCALPresentationQ3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:50:55",
-      "an_dt": "10-Feb-2026 17:50:55",
-      "desc": "Credit Rating",
-      "sm_name": "Jyoti CNC Automation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_10022026175043_IntimationcreditratingJCAL10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:39:03",
-      "an_dt": "10-Feb-2026 13:39:03",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Jyoti CNC Automation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_10022026133840_IntimationBSENSEResults31122025.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:35:24",
-      "an_dt": "10-Feb-2026 13:35:24",
-      "desc": "Integrated Filing- Financial",
-      "sm_name": "Jyoti CNC Automation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_10022026133512_IntimationBSENSEResults31122025.pdf"
     }
   ]
 }

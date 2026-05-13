@@ -8,17 +8,9 @@
   "price": 94.28,
   "market_cap_cr": 2005.26,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 48.69,
-      "prev_close": 49.69,
-      "volume": 951306,
-      "deliverable_qty": 444120,
-      "delivery_pct": 46.69
-    },
     {
       "date": "2026-02-11",
       "close": 48.4,
@@ -466,9 +458,59 @@
       "volume": 6153156,
       "deliverable_qty": 1654195,
       "delivery_pct": 26.88
+    },
+    {
+      "date": "2026-05-12",
+      "close": 93.73,
+      "prev_close": 94.28,
+      "volume": 6003048,
+      "deliverable_qty": 1898371,
+      "delivery_pct": 31.62
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 20:01:43",
+      "an_dt": "12-May-2026 20:01:43",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Vidya Wires Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIDYAWIRESLTD_12052026200135_Submission.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 19:42:11",
+      "an_dt": "12-May-2026 19:42:11",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Vidya Wires Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIDYAWIRES_ROID_85520_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-05-12 19:21:53",
+      "an_dt": "12-May-2026 19:21:53",
+      "desc": "Utilisation of Funds",
+      "sm_name": "Vidya Wires Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIDYAWIRESLTD_12052026192140_FinalSubmissioncin.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 19:10:08",
+      "an_dt": "12-May-2026 19:10:08",
+      "desc": "General Updates",
+      "sm_name": "Vidya Wires Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIDYAWIRESLTD_12052026190954_Outcome.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 19:01:06",
+      "an_dt": "12-May-2026 19:01:06",
+      "desc": "Resignation",
+      "sm_name": "Vidya Wires Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIDYAWIRESLTD_12052026185849_Outcome.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 18:54:06",
+      "an_dt": "12-May-2026 18:54:06",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Vidya Wires Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIDYAWIRESLTD_12052026185158_Outcome.pdf"
+    },
     {
       "sort_date": "2026-05-09 16:43:00",
       "an_dt": "09-May-2026 16:43:00",
@@ -531,13 +573,6 @@
       "desc": "Monitoring Agency Report",
       "sm_name": "Vidya Wires Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIDYAWIRESLTD_11022026175557_Submission.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 15:38:11",
-      "an_dt": "10-Feb-2026 15:38:11",
-      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "sm_name": "Vidya Wires Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIDYAWIRESLTD_10022026153719_FinalSubmission.pdf"
     }
   ]
 }

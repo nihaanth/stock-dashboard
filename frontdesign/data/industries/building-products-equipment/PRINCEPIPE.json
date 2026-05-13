@@ -8,17 +8,9 @@
   "price": 240.37,
   "market_cap_cr": 2658.07,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 259.31,
-      "prev_close": 265.06,
-      "volume": 169266,
-      "deliverable_qty": 74612,
-      "delivery_pct": 44.08
-    },
     {
       "date": "2026-02-11",
       "close": 271.67,
@@ -466,6 +458,14 @@
       "volume": 93341,
       "deliverable_qty": 39822,
       "delivery_pct": 42.66
+    },
+    {
+      "date": "2026-05-12",
+      "close": 241.1,
+      "prev_close": 255.05,
+      "volume": 220430,
+      "deliverable_qty": 116811,
+      "delivery_pct": 52.99
     }
   ],
   "news": [
@@ -531,34 +531,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Prince Pipes And Fittings Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRINCEPIPE_11022026160524_SE_1.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:20:09",
-      "an_dt": "10-Feb-2026 18:20:09",
-      "desc": "Press Release",
-      "sm_name": "Prince Pipes And Fittings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRINCEPIPE_10022026181958_PR.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:51:14",
-      "an_dt": "10-Feb-2026 17:51:14",
-      "desc": "Investor Presentation",
-      "sm_name": "Prince Pipes And Fittings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRINCEPIPE_10022026175046_Cover.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:34:12",
-      "an_dt": "10-Feb-2026 17:34:12",
-      "desc": "Press Release",
-      "sm_name": "Prince Pipes And Fittings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRINCEPIPE_10022026173208_SE.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:27:33",
-      "an_dt": "10-Feb-2026 16:27:33",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Prince Pipes And Fittings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRINCEPIPE_10022026162245_SE.pdf"
     }
   ]
 }

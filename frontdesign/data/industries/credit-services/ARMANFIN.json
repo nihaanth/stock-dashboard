@@ -8,17 +8,9 @@
   "price": 1878.4,
   "market_cap_cr": 1974.75,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1601.2,
-      "prev_close": 1582.1,
-      "volume": 31020,
-      "deliverable_qty": 18069,
-      "delivery_pct": 58.25
-    },
     {
       "date": "2026-02-11",
       "close": 1600.5,
@@ -466,6 +458,14 @@
       "volume": 160382,
       "deliverable_qty": 75282,
       "delivery_pct": 46.94
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1770.9,
+      "prev_close": 1878.4,
+      "volume": 86865,
+      "deliverable_qty": 43072,
+      "delivery_pct": 49.58
     }
   ],
   "news": [
@@ -594,13 +594,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Arman Financial Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARMANFIN_12022026194349_Financial_Results_and_Outcome_Q3_-_Arman.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:15:08",
-      "an_dt": "10-Feb-2026 18:15:08",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Arman Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARMANFIN_10022026181449_Conference_Call_intimation_Covering.pdf"
     }
   ]
 }

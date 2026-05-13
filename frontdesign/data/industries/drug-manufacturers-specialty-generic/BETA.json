@@ -8,17 +8,9 @@
   "price": 1341.8,
   "market_cap_cr": 1354.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1367.9,
-      "prev_close": 1412.4,
-      "volume": 9209,
-      "deliverable_qty": 5645,
-      "delivery_pct": 61.3
-    },
     {
       "date": "2026-02-11",
       "close": 1353.5,
@@ -466,9 +458,24 @@
       "volume": 15660,
       "deliverable_qty": 11124,
       "delivery_pct": 71.03
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1361.6,
+      "prev_close": 1341.8,
+      "volume": 17338,
+      "deliverable_qty": 10911,
+      "delivery_pct": 62.93
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 14:55:21",
+      "an_dt": "12-May-2026 14:55:21",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Beta Drugs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BETA_12052026145512_beta_concall_invite.pdf"
+    },
     {
       "sort_date": "2026-04-25 13:59:05",
       "an_dt": "25-Apr-2026 13:59:05",

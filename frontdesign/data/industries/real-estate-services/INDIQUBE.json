@@ -8,17 +8,9 @@
   "price": 171.88,
   "market_cap_cr": 3643.82,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 177.68,
-      "prev_close": 174.0,
-      "volume": 13501,
-      "deliverable_qty": 8837,
-      "delivery_pct": 65.45
-    },
     {
       "date": "2026-02-11",
       "close": 181.88,
@@ -466,6 +458,14 @@
       "volume": 46889,
       "deliverable_qty": 27104,
       "delivery_pct": 57.8
+    },
+    {
+      "date": "2026-05-12",
+      "close": 163.58,
+      "prev_close": 171.88,
+      "volume": 22151,
+      "deliverable_qty": 12923,
+      "delivery_pct": 58.34
     }
   ],
   "news": [
@@ -608,34 +608,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Indiqube Spaces Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIQUBE_11022026155131_Intimation_-_Newspaper_Publication_Fin_Results_11022026__pdf.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:09:26",
-      "an_dt": "10-Feb-2026 19:09:26",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Indiqube Spaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIQUBE_10022026190911_Intimation_Monitoring_Agency_report_Q3_FY_2025-26.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:56:19",
-      "an_dt": "10-Feb-2026 18:56:19",
-      "desc": "Press Release",
-      "sm_name": "Indiqube Spaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIQUBE_10022026185608_Press_Release_IndiQube_Q3_FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:47:25",
-      "an_dt": "10-Feb-2026 18:47:25",
-      "desc": "Investor Presentation",
-      "sm_name": "Indiqube Spaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIQUBE_10022026184702_Intimation_of_Investor_Presentation_Q3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:36:49",
-      "an_dt": "10-Feb-2026 18:36:49",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Indiqube Spaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIQUBE_10022026183506_Outcome_of_Board_meeting_Q3_FY_26.pdf"
     }
   ]
 }

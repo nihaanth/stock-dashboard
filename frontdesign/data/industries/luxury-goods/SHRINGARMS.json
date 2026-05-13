@@ -8,17 +8,9 @@
   "price": 210.92,
   "market_cap_cr": 2033.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 238.79,
-      "prev_close": 233.73,
-      "volume": 1700455,
-      "deliverable_qty": 401624,
-      "delivery_pct": 23.62
-    },
     {
       "date": "2026-02-11",
       "close": 236.64,
@@ -466,6 +458,14 @@
       "volume": 2099406,
       "deliverable_qty": 892427,
       "delivery_pct": 42.51
+    },
+    {
+      "date": "2026-05-12",
+      "close": 209.57,
+      "prev_close": 210.92,
+      "volume": 1088523,
+      "deliverable_qty": 432066,
+      "delivery_pct": 39.69
     }
   ],
   "news": [
@@ -622,13 +622,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Shringar House of Mangalsutra Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHRINGAR_11022026171139_Outcome_of_BM_Final.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:32:23",
-      "an_dt": "10-Feb-2026 17:32:23",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Shringar House of Mangalsutra Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHRINGAR_10022026173214_SHOM_Investor_Analysts_Meet_Intimation.pdf"
     }
   ]
 }

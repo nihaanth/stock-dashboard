@@ -8,17 +8,9 @@
   "price": 134.2,
   "market_cap_cr": 3960.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 157.25,
-      "prev_close": 150.72,
-      "volume": 1466154,
-      "deliverable_qty": 543971,
-      "delivery_pct": 37.1
-    },
     {
       "date": "2026-02-11",
       "close": 163.16,
@@ -466,9 +458,24 @@
       "volume": 319253,
       "deliverable_qty": 169374,
       "delivery_pct": 53.05
+    },
+    {
+      "date": "2026-05-12",
+      "close": 132.26,
+      "prev_close": 134.2,
+      "volume": 531392,
+      "deliverable_qty": 328629,
+      "delivery_pct": 61.84
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:45:55",
+      "an_dt": "12-May-2026 18:45:55",
+      "desc": "Credit Rating- Others",
+      "sm_name": "TARC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TARC_12052026184529_RatingIntimation.pdf"
+    },
     {
       "sort_date": "2026-04-30 12:56:18",
       "an_dt": "30-Apr-2026 12:56:18",

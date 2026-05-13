@@ -8,17 +8,9 @@
   "price": 261.56,
   "market_cap_cr": 54517.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 265.35,
-      "prev_close": 267.15,
-      "volume": 1244474,
-      "deliverable_qty": 660398,
-      "delivery_pct": 53.07
-    },
     {
       "date": "2026-02-11",
       "close": 261.75,
@@ -466,9 +458,24 @@
       "volume": 5439861,
       "deliverable_qty": 2268293,
       "delivery_pct": 41.7
+    },
+    {
+      "date": "2026-05-12",
+      "close": 272.05,
+      "prev_close": 287.35,
+      "volume": 3498341,
+      "deliverable_qty": 2195369,
+      "delivery_pct": 62.75
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:25:27",
+      "an_dt": "12-May-2026 18:25:27",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "JSW Infrastructure Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JSWINFRA_12052026182507_SE_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-11 18:57:08",
       "an_dt": "11-May-2026 18:57:08",
@@ -650,13 +657,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "JSW Infrastructure Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JSWINFRA_20022026165755_IntimationBMFeb2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:34:43",
-      "an_dt": "10-Feb-2026 16:34:43",
-      "desc": "General Updates",
-      "sm_name": "JSW Infrastructure Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JSWINFRA_10022026163429_JSWIL.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 79.8,
   "market_cap_cr": 521.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 98.89,
-      "prev_close": 107.17,
-      "volume": 574551,
-      "deliverable_qty": 287879,
-      "delivery_pct": 50.11
-    },
     {
       "date": "2026-02-11",
       "close": 95.9,
@@ -466,6 +458,14 @@
       "volume": 123810,
       "deliverable_qty": 65933,
       "delivery_pct": 53.25
+    },
+    {
+      "date": "2026-05-12",
+      "close": 77.02,
+      "prev_close": 79.8,
+      "volume": 63385,
+      "deliverable_qty": 37785,
+      "delivery_pct": 59.61
     }
   ],
   "news": [
@@ -503,13 +503,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Credo Brands Marketing Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CREDONSE_11022026120153_20260211_newspaper_UFR.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:48:15",
-      "an_dt": "10-Feb-2026 16:48:15",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Credo Brands Marketing Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CREDONSE_10022026164259_20260210_Audio_Recording_Intimation.pdf"
     }
   ]
 }

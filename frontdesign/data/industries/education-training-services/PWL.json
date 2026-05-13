@@ -8,17 +8,9 @@
   "price": 100.78,
   "market_cap_cr": 28819.98,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 108.07,
-      "prev_close": 114.74,
-      "volume": 13615028,
-      "deliverable_qty": 6172085,
-      "delivery_pct": 45.33
-    },
     {
       "date": "2026-02-11",
       "close": 107.38,
@@ -466,9 +458,24 @@
       "volume": 14592242,
       "deliverable_qty": 2570847,
       "delivery_pct": 17.62
+    },
+    {
+      "date": "2026-05-12",
+      "close": 107.65,
+      "prev_close": 110.33,
+      "volume": 1989369,
+      "deliverable_qty": 669564,
+      "delivery_pct": 33.66
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:29:08",
+      "an_dt": "12-May-2026 18:29:08",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Physicswallah Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEAPSPW_12052026182832_Intimation_Allotment_of_shares_ESOP_Plan_2022_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-08 13:59:50",
       "an_dt": "08-May-2026 13:59:50",

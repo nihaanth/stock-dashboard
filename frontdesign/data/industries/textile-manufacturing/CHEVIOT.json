@@ -8,17 +8,9 @@
   "price": 1273.2,
   "market_cap_cr": 743.79,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1059.2,
-      "prev_close": 1040.3,
-      "volume": 1011,
-      "deliverable_qty": 824,
-      "delivery_pct": 81.5
-    },
     {
       "date": "2026-02-11",
       "close": 1064.4,
@@ -466,6 +458,14 @@
       "volume": 4488,
       "deliverable_qty": 2929,
       "delivery_pct": 65.26
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1214.2,
+      "prev_close": 1273.2,
+      "volume": 3920,
+      "deliverable_qty": 2413,
+      "delivery_pct": 61.56
     }
   ],
   "news": [
@@ -517,13 +517,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Cheviot Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CHEVIOT_14022026124412_Results.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 12:32:40",
-      "an_dt": "10-Feb-2026 12:32:40",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Cheviot Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CHEVIOT_10022026123213_PP.pdf"
     }
   ]
 }

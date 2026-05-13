@@ -8,17 +8,9 @@
   "price": 275.75,
   "market_cap_cr": 41362.5,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 303.7,
-      "prev_close": 300.0,
-      "volume": 2451713,
-      "deliverable_qty": 1348710,
-      "delivery_pct": 55.01
-    },
     {
       "date": "2026-02-11",
       "close": 303.9,
@@ -466,9 +458,24 @@
       "volume": 1912967,
       "deliverable_qty": 980323,
       "delivery_pct": 51.25
+    },
+    {
+      "date": "2026-05-12",
+      "close": 271.15,
+      "prev_close": 275.75,
+      "volume": 1805836,
+      "deliverable_qty": 1005708,
+      "delivery_pct": 55.69
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 16:01:34",
+      "an_dt": "12-May-2026 16:01:34",
+      "desc": "Credit Rating- New",
+      "sm_name": "Petronet LNG Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PETRONET_12052026160122_CDrating12052026si.pdf"
+    },
     {
       "sort_date": "2026-05-11 23:50:20",
       "an_dt": "11-May-2026 23:50:20",
@@ -685,13 +692,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Petronet LNG Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PETRONET_12022026174407_OutcomeofBoardMeeting12022026si.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:47:10",
-      "an_dt": "10-Feb-2026 13:47:10",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Petronet LNG Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PETRONET_10022026134658_concallintimation1002for1302.pdf"
     }
   ]
 }

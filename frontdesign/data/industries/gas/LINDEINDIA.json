@@ -8,17 +8,9 @@
   "price": 7741.0,
   "market_cap_cr": 66018.52,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 6533.0,
-      "prev_close": 6292.5,
-      "volume": 688417,
-      "deliverable_qty": 107585,
-      "delivery_pct": 15.63
-    },
     {
       "date": "2026-02-11",
       "close": 6487.5,
@@ -466,6 +458,14 @@
       "volume": 42327,
       "deliverable_qty": 18551,
       "delivery_pct": 43.83
+    },
+    {
+      "date": "2026-05-12",
+      "close": 7455.0,
+      "prev_close": 7741.0,
+      "volume": 42259,
+      "deliverable_qty": 21053,
+      "delivery_pct": 49.82
     }
   ],
   "news": [
@@ -545,13 +545,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Linde India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LINDEINDIA_11022026124945_Linde_India_Newspaper_Publication_UFR_31122025.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 15:58:38",
-      "an_dt": "10-Feb-2026 15:58:38",
-      "desc": "Shareholders meeting",
-      "sm_name": "Linde India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LINDEINDIA_10022026155725_LIL_SE_Notice_of_EGM_05032026.pdf"
     }
   ]
 }

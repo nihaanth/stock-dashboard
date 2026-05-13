@@ -8,17 +8,9 @@
   "price": 2330.8,
   "market_cap_cr": 14145.24,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 2483.8,
-      "prev_close": 2422.1,
-      "volume": 69741,
-      "deliverable_qty": 33417,
-      "delivery_pct": 47.92
-    },
     {
       "date": "2026-02-11",
       "close": 2461.9,
@@ -466,9 +458,24 @@
       "volume": 23003,
       "deliverable_qty": 8599,
       "delivery_pct": 37.38
+    },
+    {
+      "date": "2026-05-12",
+      "close": 2261.4,
+      "prev_close": 2330.8,
+      "volume": 63243,
+      "deliverable_qty": 49825,
+      "delivery_pct": 78.78
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 15:12:36",
+      "an_dt": "12-May-2026 15:12:36",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "DOMS Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAHULBS35_12052026151217_IntimationForMonitoringAgencyReport.pdf"
+    },
     {
       "sort_date": "2026-04-21 13:00:24",
       "an_dt": "21-Apr-2026 13:00:24",

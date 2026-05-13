@@ -8,17 +8,9 @@
   "price": 183.67,
   "market_cap_cr": 1324.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 215.48,
-      "prev_close": 221.33,
-      "volume": 4371792,
-      "deliverable_qty": 1256335,
-      "delivery_pct": 28.74
-    },
     {
       "date": "2026-02-11",
       "close": 216.25,
@@ -466,6 +458,14 @@
       "volume": 1662930,
       "deliverable_qty": 657235,
       "delivery_pct": 39.52
+    },
+    {
+      "date": "2026-05-12",
+      "close": 207.02,
+      "prev_close": 221.52,
+      "volume": 484179,
+      "deliverable_qty": 239771,
+      "delivery_pct": 49.52
     }
   ],
   "news": [
@@ -594,41 +594,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Shanti Gold International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHANTIGOLD_11022026174227_Earnings_Call_Audio_Link.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:57:29",
-      "an_dt": "10-Feb-2026 13:57:29",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Shanti Gold International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHANTIGOLD_10022026135720_Monitoring_Agency_Report_Q3.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:16:54",
-      "an_dt": "10-Feb-2026 13:16:54",
-      "desc": "Press Release",
-      "sm_name": "Shanti Gold International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHANTIGOLD_10022026131644_Press_Release_Financials.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:12:10",
-      "an_dt": "10-Feb-2026 13:12:10",
-      "desc": "Investor Presentation",
-      "sm_name": "Shanti Gold International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHANTIGOLD_10022026131152_Investor_Presentation_Q3.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 12:00:17",
-      "an_dt": "10-Feb-2026 12:00:17",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Shanti Gold International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHANTIGOLD_10022026115854_OutcomeBoardMeeting10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 11:54:36",
-      "an_dt": "10-Feb-2026 11:54:36",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Shanti Gold International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHANTIGOLD_10022026115211_OutcomeBoardMeeting10022026.pdf"
     }
   ]
 }

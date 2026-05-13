@@ -8,17 +8,9 @@
   "price": 544.4,
   "market_cap_cr": 2091.53,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 574.65,
-      "prev_close": 580.35,
-      "volume": 13045,
-      "deliverable_qty": 9090,
-      "delivery_pct": 69.68
-    },
     {
       "date": "2026-02-11",
       "close": 569.65,
@@ -466,6 +458,14 @@
       "volume": 22342,
       "deliverable_qty": 13351,
       "delivery_pct": 59.76
+    },
+    {
+      "date": "2026-05-12",
+      "close": 517.7,
+      "prev_close": 544.4,
+      "volume": 23450,
+      "deliverable_qty": 13565,
+      "delivery_pct": 57.85
     }
   ],
   "news": [
@@ -496,13 +496,6 @@
       "desc": "Trading Window",
       "sm_name": "TCI Express Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TCIEXP_24032026140221_StockExchangeIntimationTradingQ4_25-26.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:24:29",
-      "an_dt": "10-Feb-2026 13:24:29",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "TCI Express Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TCIEXP_10022026132422_uploding.pdf"
     }
   ]
 }

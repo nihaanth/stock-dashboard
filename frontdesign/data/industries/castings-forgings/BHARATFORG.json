@@ -8,17 +8,9 @@
   "price": 1987.0,
   "market_cap_cr": 94996.21,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1614.0,
-      "prev_close": 1590.4,
-      "volume": 918399,
-      "deliverable_qty": 463148,
-      "delivery_pct": 50.43
-    },
     {
       "date": "2026-02-11",
       "close": 1676.4,
@@ -466,6 +458,14 @@
       "volume": 1307321,
       "deliverable_qty": 548199,
       "delivery_pct": 41.93
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1913.0,
+      "prev_close": 1987.0,
+      "volume": 1099257,
+      "deliverable_qty": 572858,
+      "delivery_pct": 52.11
     }
   ],
   "news": [
@@ -818,13 +818,6 @@
       "desc": "Dividend",
       "sm_name": "Bharat Forge Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANILSHINDE_12022026131841_SEIntimationOutcomeofBoardMeeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 11:21:36",
-      "an_dt": "10-Feb-2026 11:21:36",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Bharat Forge Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANILSHINDE_10022026112126_SEIntimationNewspaperPublication-signed.pdf"
     }
   ]
 }

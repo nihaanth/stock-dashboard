@@ -8,17 +8,9 @@
   "price": 156.66,
   "market_cap_cr": 4466.76,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 141.51,
-      "prev_close": 135.17,
-      "volume": 1952123,
-      "deliverable_qty": 754762,
-      "delivery_pct": 38.66
-    },
     {
       "date": "2026-02-11",
       "close": 139.54,
@@ -466,9 +458,24 @@
       "volume": 2187277,
       "deliverable_qty": 840871,
       "delivery_pct": 38.44
+    },
+    {
+      "date": "2026-05-12",
+      "close": 149.09,
+      "prev_close": 156.66,
+      "volume": 1594293,
+      "deliverable_qty": 694701,
+      "delivery_pct": 43.57
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 17:32:29",
+      "an_dt": "12-May-2026 17:32:29",
+      "desc": "General Updates",
+      "sm_name": "Hemisphere Properties India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEMIPROP_12052026172417_r30.pdf"
+    },
     {
       "sort_date": "2026-04-22 16:02:37",
       "an_dt": "22-Apr-2026 16:02:37",

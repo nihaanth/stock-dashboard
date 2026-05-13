@@ -8,17 +8,9 @@
   "price": 4991.4,
   "market_cap_cr": 138361.61,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 4418.3,
-      "prev_close": 4427.5,
-      "volume": 660042,
-      "deliverable_qty": 387626,
-      "delivery_pct": 58.73
-    },
     {
       "date": "2026-02-11",
       "close": 4363.2,
@@ -466,6 +458,14 @@
       "volume": 477092,
       "deliverable_qty": 261907,
       "delivery_pct": 54.9
+    },
+    {
+      "date": "2026-05-12",
+      "close": 5160.0,
+      "prev_close": 5238.5,
+      "volume": 403954,
+      "deliverable_qty": 241866,
+      "delivery_pct": 59.87
     }
   ],
   "news": [
@@ -594,13 +594,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Cummins India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CUMMINSIND_12022026164910_SEintimtionScheduleofAnalystscall.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:18:00",
-      "an_dt": "10-Feb-2026 18:18:00",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Cummins India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CUMMINSIND_10022026181728_SEintimationTranscriptQ3CallFinal.pdf"
     }
   ]
 }

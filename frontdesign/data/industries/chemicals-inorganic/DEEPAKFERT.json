@@ -8,17 +8,9 @@
   "price": 1277.8,
   "market_cap_cr": 16146.96,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1069.5,
-      "prev_close": 1078.6,
-      "volume": 289143,
-      "deliverable_qty": 107360,
-      "delivery_pct": 37.13
-    },
     {
       "date": "2026-02-11",
       "close": 1061.9,
@@ -466,9 +458,24 @@
       "volume": 335970,
       "deliverable_qty": 140974,
       "delivery_pct": 41.96
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1231.9,
+      "prev_close": 1277.8,
+      "volume": 367597,
+      "deliverable_qty": 149546,
+      "delivery_pct": 40.68
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 10:57:26",
+      "an_dt": "12-May-2026 10:57:26",
+      "desc": "Action(s) taken or orders passed",
+      "sm_name": "Deepak Fertilizers and Petrochemicals Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DEEPAKFERT_12052026105703_Intimation_to_SE_VAT.pdf"
+    },
     {
       "sort_date": "2026-05-06 23:02:25",
       "an_dt": "06-May-2026 23:02:25",
@@ -615,13 +622,6 @@
       "desc": "Action(s) taken or orders passed",
       "sm_name": "Deepak Fertilizers and Petrochemicals Corporation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DEEPAKFERT1_12032026112254_Int_to_SE_IT_DFPCL____11032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:47:06",
-      "an_dt": "10-Feb-2026 17:47:06",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Deepak Fertilizers and Petrochemicals Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DEEPAKFERT_10022026174635_Newspaper_Publication.pdf"
     }
   ]
 }

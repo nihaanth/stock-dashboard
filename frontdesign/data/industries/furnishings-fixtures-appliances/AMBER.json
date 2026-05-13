@@ -8,17 +8,9 @@
   "price": 7178.5,
   "market_cap_cr": 25262.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 7510.5,
-      "prev_close": 7048.0,
-      "volume": 1658147,
-      "deliverable_qty": 437529,
-      "delivery_pct": 26.39
-    },
     {
       "date": "2026-02-11",
       "close": 7696.0,
@@ -466,6 +458,14 @@
       "volume": 311361,
       "deliverable_qty": 87707,
       "delivery_pct": 28.17
+    },
+    {
+      "date": "2026-05-12",
+      "close": 8163.5,
+      "prev_close": 8539.5,
+      "volume": 295005,
+      "deliverable_qty": 106129,
+      "delivery_pct": 35.98
     }
   ],
   "news": [
@@ -699,41 +699,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Amber Enterprises India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMBER_11022026111546_SE_Intimation_Newspaper_Advertisement_11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 20:52:04",
-      "an_dt": "10-Feb-2026 20:52:04",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Amber Enterprises India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMBER_10022026205148_SE_Intimation_Audio_Recording_Earnings_Call.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 01:38:23",
-      "an_dt": "10-Feb-2026 01:38:23",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Amber Enterprises India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMBER_10022026013813_SE_Intimation_Monitoring_Agency_Report_31122025.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 01:06:03",
-      "an_dt": "10-Feb-2026 01:06:03",
-      "desc": "Press Release",
-      "sm_name": "Amber Enterprises India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMBER_10022026010430_PressReleaseQ3FY2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 00:58:01",
-      "an_dt": "10-Feb-2026 00:58:01",
-      "desc": "Investor Presentation",
-      "sm_name": "Amber Enterprises India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMBER_10022026005550_InvestorPresentationQ3FY2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 00:22:58",
-      "an_dt": "10-Feb-2026 00:22:58",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Amber Enterprises India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMBER_10022026002126_SE_Intimation_Outcome_of_Board_Meeting.pdf"
     }
   ]
 }

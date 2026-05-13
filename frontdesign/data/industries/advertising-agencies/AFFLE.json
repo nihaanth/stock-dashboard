@@ -8,17 +8,9 @@
   "price": 1420.0,
   "market_cap_cr": 19970.97,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1664.1,
-      "prev_close": 1649.8,
-      "volume": 174729,
-      "deliverable_qty": 100605,
-      "delivery_pct": 57.58
-    },
     {
       "date": "2026-02-11",
       "close": 1650.3,
@@ -466,9 +458,31 @@
       "volume": 8858170,
       "deliverable_qty": 792671,
       "delivery_pct": 8.95
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1585.3,
+      "prev_close": 1637.5,
+      "volume": 684598,
+      "deliverable_qty": 200641,
+      "delivery_pct": 29.31
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 13:39:43",
+      "an_dt": "12-May-2026 13:39:43",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Affle 3i Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFFLE_12052026133845_Submission_of_newspaper_adv12052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 10:49:47",
+      "an_dt": "12-May-2026 10:49:47",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Affle 3i Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFFLE_12052026104742_Monitoring_Agency_Report_31122026.pdf"
+    },
     {
       "sort_date": "2026-05-11 15:55:20",
       "an_dt": "11-May-2026 15:55:20",

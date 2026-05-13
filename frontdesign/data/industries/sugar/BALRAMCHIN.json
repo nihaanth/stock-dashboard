@@ -8,17 +8,9 @@
   "price": 525.4,
   "market_cap_cr": 10610.48,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 467.0,
-      "prev_close": 453.45,
-      "volume": 1894550,
-      "deliverable_qty": 443232,
-      "delivery_pct": 23.4
-    },
     {
       "date": "2026-02-11",
       "close": 461.2,
@@ -466,9 +458,24 @@
       "volume": 620838,
       "deliverable_qty": 229066,
       "delivery_pct": 36.9
+    },
+    {
+      "date": "2026-05-12",
+      "close": 534.15,
+      "prev_close": 525.4,
+      "volume": 965462,
+      "deliverable_qty": 437226,
+      "delivery_pct": 45.29
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:16:57",
+      "an_dt": "12-May-2026 18:16:57",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Balrampur Chini Mills Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNILBCML_12052026181644_SE_Intimation_InvestorMeet_120526.pdf"
+    },
     {
       "sort_date": "2026-05-07 20:23:11",
       "an_dt": "07-May-2026 20:23:11",
@@ -685,34 +692,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Balrampur Chini Mills Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNILBCML_11022026191140_BCML_NewspaperAdvertisement_FinancialResults.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:49:12",
-      "an_dt": "10-Feb-2026 17:49:12",
-      "desc": "Press Release",
-      "sm_name": "Balrampur Chini Mills Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNILBCML_10022026174851_BCML_Pressrelease_100226.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:11:37",
-      "an_dt": "10-Feb-2026 16:11:37",
-      "desc": "Updates",
-      "sm_name": "Balrampur Chini Mills Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNILBCML_10022026161130_BCML_Outcome_BM_10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:02:31",
-      "an_dt": "10-Feb-2026 16:02:31",
-      "desc": "Investor Presentation",
-      "sm_name": "Balrampur Chini Mills Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNILBCML_10022026160218_BCML_ResultPresentation_10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 15:08:48",
-      "an_dt": "10-Feb-2026 15:08:48",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Balrampur Chini Mills Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNILBCML_10022026150554_BCML_Outcome_BM_10022026.pdf"
     }
   ]
 }

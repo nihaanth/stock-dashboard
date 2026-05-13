@@ -8,17 +8,9 @@
   "price": 555.9,
   "market_cap_cr": 8494.12,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 554.35,
-      "prev_close": 556.55,
-      "volume": 91525,
-      "deliverable_qty": 38369,
-      "delivery_pct": 41.92
-    },
     {
       "date": "2026-02-11",
       "close": 574.75,
@@ -466,6 +458,14 @@
       "volume": 55241,
       "deliverable_qty": 26525,
       "delivery_pct": 48.02
+    },
+    {
+      "date": "2026-05-12",
+      "close": 555.15,
+      "prev_close": 555.9,
+      "volume": 126774,
+      "deliverable_qty": 69654,
+      "delivery_pct": 54.94
     }
   ],
   "news": [
@@ -622,13 +622,6 @@
       "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
       "sm_name": "Varroc Engineering Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_11022026133728_Reg30Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 09:49:27",
-      "an_dt": "10-Feb-2026 09:49:27",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Varroc Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_10022026094842_IntimationofTranscript.pdf"
     }
   ]
 }

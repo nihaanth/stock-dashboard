@@ -8,17 +8,9 @@
   "price": 1196.6,
   "market_cap_cr": 76603.96,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1161.3,
-      "prev_close": 1179.9,
-      "volume": 4291123,
-      "deliverable_qty": 2084759,
-      "delivery_pct": 48.58
-    },
     {
       "date": "2026-02-11",
       "close": 1160.0,
@@ -466,9 +458,24 @@
       "volume": 1767792,
       "deliverable_qty": 600262,
       "delivery_pct": 33.96
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1154.6,
+      "prev_close": 1196.6,
+      "volume": 1533249,
+      "deliverable_qty": 567144,
+      "delivery_pct": 36.99
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 16:34:07",
+      "an_dt": "12-May-2026 16:34:07",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "One 97 Communications Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PAYTM_12052026163142_SEDisclosureTranscriptofearningsconferencecall.pdf"
+    },
     {
       "sort_date": "2026-05-07 16:52:55",
       "an_dt": "07-May-2026 16:52:55",
@@ -636,13 +643,6 @@
       "desc": "General Updates",
       "sm_name": "One 97 Communications Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PAYTM_13022026164251_SE_Discl_Update_13022026_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 14:49:23",
-      "an_dt": "10-Feb-2026 14:49:23",
-      "desc": "Granting/withdrawal/surrender/cancellation/suspension of key licenses/ regulatory approvals",
-      "sm_name": "One 97 Communications Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PAYTM_10022026144831_SE_Disclosure_PIBPL_License_Renewal_sd.pdf"
     }
   ]
 }

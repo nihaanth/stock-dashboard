@@ -8,17 +8,9 @@
   "price": 380.3,
   "market_cap_cr": 4753.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 243.9,
-      "prev_close": 246.75,
-      "volume": 160232,
-      "deliverable_qty": 84418,
-      "delivery_pct": 52.68
-    },
     {
       "date": "2026-02-11",
       "close": 246.65,
@@ -466,6 +458,14 @@
       "volume": 2520250,
       "deliverable_qty": 547979,
       "delivery_pct": 21.74
+    },
+    {
+      "date": "2026-05-12",
+      "close": 365.8,
+      "prev_close": 380.3,
+      "volume": 623108,
+      "deliverable_qty": 289927,
+      "delivery_pct": 46.53
     }
   ],
   "news": [
@@ -580,13 +580,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Agi Infra Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AGIINFRA_12022026105305_NewspapersCuttings.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:30:47",
-      "an_dt": "10-Feb-2026 18:30:47",
-      "desc": "Investor Presentation",
-      "sm_name": "Agi Infra Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AGIINFRA_10022026182756_InvestorPresentation31122025.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 326.65,
   "market_cap_cr": 12013.69,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 345.65,
-      "prev_close": 340.7,
-      "volume": 338739,
-      "deliverable_qty": 207809,
-      "delivery_pct": 61.35
-    },
     {
       "date": "2026-02-11",
       "close": 342.1,
@@ -466,6 +458,14 @@
       "volume": 482766,
       "deliverable_qty": 221989,
       "delivery_pct": 45.98
+    },
+    {
+      "date": "2026-05-12",
+      "close": 335.1,
+      "prev_close": 326.65,
+      "volume": 11906389,
+      "deliverable_qty": 982396,
+      "delivery_pct": 8.25
     }
   ],
   "news": [
@@ -650,55 +650,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Afcons Infrastructure Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_11022026130022_Afcons_Intimation_Newspaper_publicationdated10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 20:32:17",
-      "an_dt": "10-Feb-2026 20:32:17",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Afcons Infrastructure Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_10022026203210_Afcons_MAR_31122025.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 20:26:45",
-      "an_dt": "10-Feb-2026 20:26:45",
-      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "sm_name": "Afcons Infrastructure Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_10022026202635_Afcons_StatementDec31__2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:58:43",
-      "an_dt": "10-Feb-2026 19:58:43",
-      "desc": "Shareholders meeting",
-      "sm_name": "Afcons Infrastructure Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_10022026195748_Afcons_Intimation_of_PostalBallotresult10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:55:39",
-      "an_dt": "10-Feb-2026 18:55:39",
-      "desc": "Investor Presentation",
-      "sm_name": "Afcons Infrastructure Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_10022026185503_Afcons_Investor_Presenation_date10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:52:57",
-      "an_dt": "10-Feb-2026 18:52:57",
-      "desc": "Press Release",
-      "sm_name": "Afcons Infrastructure Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_10022026185202_Afcons_Press_Release_date10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:30:29",
-      "an_dt": "10-Feb-2026 18:30:29",
-      "desc": "General Updates",
-      "sm_name": "Afcons Infrastructure Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_10022026182946_Afcons_Outcome_of_the_Board_meetingdate10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:18:52",
-      "an_dt": "10-Feb-2026 18:18:52",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Afcons Infrastructure Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_10022026181730_Afcons_Outcome_of_the_Board_meetingdate10022026.pdf"
     }
   ]
 }

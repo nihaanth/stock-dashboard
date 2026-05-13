@@ -8,17 +8,9 @@
   "price": 256.3,
   "market_cap_cr": 2466.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 264.69,
-      "prev_close": 259.8,
-      "volume": 563537,
-      "deliverable_qty": 232800,
-      "delivery_pct": 41.31
-    },
     {
       "date": "2026-02-11",
       "close": 265.42,
@@ -466,6 +458,14 @@
       "volume": 583462,
       "deliverable_qty": 183316,
       "delivery_pct": 31.42
+    },
+    {
+      "date": "2026-05-12",
+      "close": 243.8,
+      "prev_close": 256.3,
+      "volume": 758502,
+      "deliverable_qty": 279475,
+      "delivery_pct": 36.85
     }
   ],
   "news": [
@@ -594,20 +594,6 @@
       "desc": "Monitoring Agency Report",
       "sm_name": "EPACK Durable Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EPACKNSE_14022026115543_Monitoring_Agency_report_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 15:50:38",
-      "an_dt": "10-Feb-2026 15:50:38",
-      "desc": "Press Release",
-      "sm_name": "EPACK Durable Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EPACKNSE_10022026155024_Intimation_EMTPL.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 15:45:31",
-      "an_dt": "10-Feb-2026 15:45:31",
-      "desc": "Capacity addition",
-      "sm_name": "EPACK Durable Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EPACKNSE_10022026154517_Intimation_EMTPL.pdf"
     }
   ]
 }

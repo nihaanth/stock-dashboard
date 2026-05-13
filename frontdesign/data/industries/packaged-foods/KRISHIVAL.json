@@ -8,17 +8,9 @@
   "price": 321.0,
   "market_cap_cr": 822.67,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 350.0,
-      "prev_close": 336.95,
-      "volume": 92577,
-      "deliverable_qty": 74287,
-      "delivery_pct": 80.24
-    },
     {
       "date": "2026-02-11",
       "close": 342.2,
@@ -466,6 +458,14 @@
       "volume": 4264,
       "deliverable_qty": 4160,
       "delivery_pct": 97.56
+    },
+    {
+      "date": "2026-05-12",
+      "close": 368.6,
+      "prev_close": 367.55,
+      "volume": 4822,
+      "deliverable_qty": 4253,
+      "delivery_pct": 88.2
     }
   ],
   "news": [
@@ -678,20 +678,6 @@
       "desc": "Press Release",
       "sm_name": "Krishival Foods Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMPYREAN_11022026085355_Pressreleasesigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:31:16",
-      "an_dt": "10-Feb-2026 17:31:16",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Krishival Foods Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMPYREAN_10022026173104_OutcomeDSC.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:27:19",
-      "an_dt": "10-Feb-2026 17:27:19",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Krishival Foods Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMPYREAN_10022026172617_OutcomeDSC.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 316.65,
   "market_cap_cr": 4957.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 277.85,
-      "prev_close": 274.2,
-      "volume": 44210,
-      "deliverable_qty": 22894,
-      "delivery_pct": 51.78
-    },
     {
       "date": "2026-02-11",
       "close": 277.75,
@@ -466,6 +458,14 @@
       "volume": 810821,
       "deliverable_qty": 760189,
       "delivery_pct": 93.76
+    },
+    {
+      "date": "2026-05-12",
+      "close": 298.55,
+      "prev_close": 316.65,
+      "volume": 100778,
+      "deliverable_qty": 50806,
+      "delivery_pct": 50.41
     }
   ],
   "news": [
@@ -622,20 +622,6 @@
       "desc": "Updates",
       "sm_name": "Bansal Wire Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANSALWIRE_16022026184905_Intimation_of_PIT_Violation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:58:57",
-      "an_dt": "10-Feb-2026 19:58:57",
-      "desc": "Agreements",
-      "sm_name": "Bansal Wire Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANSALWIRE_10022026195849_Intimation_PLI_Scheme.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:50:53",
-      "an_dt": "10-Feb-2026 17:50:53",
-      "desc": "Action(s) taken or orders passed",
-      "sm_name": "Bansal Wire Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANSALWIRE_10022026174859_Regulation_30_Intimation_GST.pdf"
     }
   ]
 }

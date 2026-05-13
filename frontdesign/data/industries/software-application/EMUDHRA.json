@@ -8,17 +8,9 @@
   "price": 501.25,
   "market_cap_cr": 4112.43,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 516.6,
-      "prev_close": 508.15,
-      "volume": 100000,
-      "deliverable_qty": 45627,
-      "delivery_pct": 45.63
-    },
     {
       "date": "2026-02-11",
       "close": 513.0,
@@ -466,9 +458,24 @@
       "volume": 107282,
       "deliverable_qty": 52898,
       "delivery_pct": 49.31
+    },
+    {
+      "date": "2026-05-12",
+      "close": 471.2,
+      "prev_close": 501.25,
+      "volume": 163066,
+      "deliverable_qty": 68786,
+      "delivery_pct": 42.18
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 17:53:40",
+      "an_dt": "12-May-2026 17:53:40",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "eMudhra Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMUDHRA2008_12052026175319_Transcript.pdf"
+    },
     {
       "sort_date": "2026-05-08 12:08:15",
       "an_dt": "08-May-2026 12:08:15",
@@ -762,13 +769,6 @@
       "desc": "Press Release",
       "sm_name": "eMudhra Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMUDHRA2008_12022026174718_Press_Release_1_1.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 12:02:48",
-      "an_dt": "10-Feb-2026 12:02:48",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "eMudhra Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMUDHRA2008_10022026120223_Newspaper_Advt.pdf"
     }
   ]
 }

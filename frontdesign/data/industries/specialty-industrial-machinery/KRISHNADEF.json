@@ -8,17 +8,9 @@
   "price": 1281.1,
   "market_cap_cr": 1801.1,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 976.8,
-      "prev_close": 986.6,
-      "volume": 102984,
-      "deliverable_qty": 38501,
-      "delivery_pct": 37.39
-    },
     {
       "date": "2026-02-11",
       "close": 971.2,
@@ -466,9 +458,31 @@
       "volume": 395458,
       "deliverable_qty": 158713,
       "delivery_pct": 40.13
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1154.0,
+      "prev_close": 1281.1,
+      "volume": 233327,
+      "deliverable_qty": 110579,
+      "delivery_pct": 47.39
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 16:39:42",
+      "an_dt": "12-May-2026 16:39:42",
+      "desc": "Acquisition",
+      "sm_name": "Krishna Defence and Allied Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KRISHNA_12052026163908_Regulation_30_Acquistion_v2.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 16:37:24",
+      "an_dt": "12-May-2026 16:37:24",
+      "desc": "Agreements",
+      "sm_name": "Krishna Defence and Allied Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KRISHNA_12052026163645_Regulation_30_AgreementV1.pdf"
+    },
     {
       "sort_date": "2026-05-04 13:11:35",
       "an_dt": "04-May-2026 13:11:35",

@@ -8,17 +8,9 @@
   "price": 648.5,
   "market_cap_cr": 8689.85,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 547.15,
-      "prev_close": 541.7,
-      "volume": 103032,
-      "deliverable_qty": 53297,
-      "delivery_pct": 51.73
-    },
     {
       "date": "2026-02-11",
       "close": 546.7,
@@ -466,6 +458,14 @@
       "volume": 86026,
       "deliverable_qty": 48213,
       "delivery_pct": 56.04
+    },
+    {
+      "date": "2026-05-12",
+      "close": 641.4,
+      "prev_close": 648.5,
+      "volume": 350540,
+      "deliverable_qty": 139510,
+      "delivery_pct": 39.8
     }
   ],
   "news": [
@@ -531,13 +531,6 @@
       "desc": "Credit Rating",
       "sm_name": "Maharashtra Seamless Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAHSEAMLES_02032026165430_RatingUpdate020326.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 12:02:41",
-      "an_dt": "10-Feb-2026 12:02:41",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Maharashtra Seamless Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAHSEAMLES_10022026120159_MSLNewspaperPostalBallot2026.pdf"
     }
   ]
 }

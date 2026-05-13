@@ -8,17 +8,9 @@
   "price": 625.05,
   "market_cap_cr": 1117.56,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 639.4,
-      "prev_close": 629.5,
-      "volume": 5418,
-      "deliverable_qty": 3414,
-      "delivery_pct": 63.01
-    },
     {
       "date": "2026-02-11",
       "close": 634.2,
@@ -466,9 +458,24 @@
       "volume": 69553,
       "deliverable_qty": 18541,
       "delivery_pct": 26.66
+    },
+    {
+      "date": "2026-05-12",
+      "close": 708.6,
+      "prev_close": 620.55,
+      "volume": 4911028,
+      "deliverable_qty": 223885,
+      "delivery_pct": 4.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 17:01:49",
+      "an_dt": "12-May-2026 17:01:49",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Butterfly Gandhimathi Appliances Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BUTTERFLY_12052026170134_SEIntimationNewspaper.pdf"
+    },
     {
       "sort_date": "2026-05-11 21:57:56",
       "an_dt": "11-May-2026 21:57:56",

@@ -8,17 +8,9 @@
   "price": 296.05,
   "market_cap_cr": 3260.02,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 410.0,
-      "prev_close": 400.4,
-      "volume": 35314,
-      "deliverable_qty": 16244,
-      "delivery_pct": 46.0
-    },
     {
       "date": "2026-02-11",
       "close": 413.15,
@@ -466,6 +458,14 @@
       "volume": 95123,
       "deliverable_qty": 38972,
       "delivery_pct": 40.97
+    },
+    {
+      "date": "2026-05-12",
+      "close": 331.5,
+      "prev_close": 348.45,
+      "volume": 84088,
+      "deliverable_qty": 35440,
+      "delivery_pct": 42.15
     }
   ],
   "news": [
@@ -629,27 +629,6 @@
       "desc": "Trading Window",
       "sm_name": "Shoppers Stop Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHOPERSTOP_24032026143313_TWC31032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:03:54",
-      "an_dt": "10-Feb-2026 18:03:54",
-      "desc": "Change in Management",
-      "sm_name": "Shoppers Stop Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHOPERSTOP_10022026180001_SEOutcomeCFO.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:03:54",
-      "an_dt": "10-Feb-2026 18:03:54",
-      "desc": "Appointment",
-      "sm_name": "Shoppers Stop Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHOPERSTOP_10022026175940_SEOutcomeCFO.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:03:54",
-      "an_dt": "10-Feb-2026 18:03:54",
-      "desc": "Resignation",
-      "sm_name": "Shoppers Stop Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHOPERSTOP_10022026175639_SEOutcomeCFO.pdf"
     }
   ]
 }

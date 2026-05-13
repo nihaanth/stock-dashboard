@@ -8,17 +8,9 @@
   "price": 561.0,
   "market_cap_cr": 4449.39,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 587.5,
-      "prev_close": 597.2,
-      "volume": 141784,
-      "deliverable_qty": 65257,
-      "delivery_pct": 46.03
-    },
     {
       "date": "2026-02-11",
       "close": 577.55,
@@ -466,9 +458,24 @@
       "volume": 26861,
       "deliverable_qty": 8651,
       "delivery_pct": 32.21
+    },
+    {
+      "date": "2026-05-12",
+      "close": 533.3,
+      "prev_close": 561.0,
+      "volume": 43558,
+      "deliverable_qty": 20730,
+      "delivery_pct": 47.59
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 14:44:16",
+      "an_dt": "12-May-2026 14:44:16",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Capillary Technologies India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPILLARY12_12052026144407_Transcript.pdf"
+    },
     {
       "sort_date": "2026-05-07 17:33:04",
       "an_dt": "07-May-2026 17:33:04",
@@ -678,13 +685,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Capillary Technologies India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPILLARY12_11022026164252_Newspaper_publication_intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:14:38",
-      "an_dt": "10-Feb-2026 16:14:38",
-      "desc": "Shareholders meeting",
-      "sm_name": "Capillary Technologies India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPILLARY12_10022026161429_Intimation_Postal_Ballot_Notice.pdf"
     }
   ]
 }

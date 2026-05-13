@@ -8,17 +8,9 @@
   "price": 657.5,
   "market_cap_cr": 26309.14,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 649.85,
-      "prev_close": 646.65,
-      "volume": 1038979,
-      "deliverable_qty": 527871,
-      "delivery_pct": 50.81
-    },
     {
       "date": "2026-02-11",
       "close": 683.75,
@@ -466,9 +458,24 @@
       "volume": 3419306,
       "deliverable_qty": 1432686,
       "delivery_pct": 41.9
+    },
+    {
+      "date": "2026-05-12",
+      "close": 750.1,
+      "prev_close": 777.85,
+      "volume": 852651,
+      "deliverable_qty": 471705,
+      "delivery_pct": 55.32
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 20:26:17",
+      "an_dt": "12-May-2026 20:26:17",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Krishna Institute of Medical Sciences Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KIMS_12052026202603_Investor_call.pdf"
+    },
     {
       "sort_date": "2026-05-08 19:39:26",
       "an_dt": "08-May-2026 19:39:26",

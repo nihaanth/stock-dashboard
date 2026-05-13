@@ -8,17 +8,9 @@
   "price": 352.95,
   "market_cap_cr": 92491.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 353.75,
-      "prev_close": 352.9,
-      "volume": 5675126,
-      "deliverable_qty": 2788407,
-      "delivery_pct": 49.13
-    },
     {
       "date": "2026-02-11",
       "close": 344.25,
@@ -466,9 +458,24 @@
       "volume": 3130787,
       "deliverable_qty": 1487554,
       "delivery_pct": 47.51
+    },
+    {
+      "date": "2026-05-12",
+      "close": 341.2,
+      "prev_close": 352.95,
+      "volume": 2271761,
+      "deliverable_qty": 934946,
+      "delivery_pct": 41.16
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 16:21:06",
+      "an_dt": "12-May-2026 16:21:06",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Aditya Birla Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABCAPITAL_12052026162016_ESOPse12May2026signed.pdf"
+    },
     {
       "sort_date": "2026-05-11 20:35:27",
       "an_dt": "11-May-2026 20:35:27",
@@ -797,13 +804,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Aditya Birla Capital Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABCAPITAL_20022026160514_ABCLIntimation_of_Meet_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 18:43:14",
-      "an_dt": "10-Feb-2026 18:43:14",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Aditya Birla Capital Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABCAPITAL_10022026184149_ESOP10feb2026signed.pdf"
     }
   ]
 }

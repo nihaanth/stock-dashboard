@@ -8,17 +8,9 @@
   "price": 505.2,
   "market_cap_cr": 7824.23,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 328.8,
-      "prev_close": 349.65,
-      "volume": 2128173,
-      "deliverable_qty": 918465,
-      "delivery_pct": 43.16
-    },
     {
       "date": "2026-02-11",
       "close": 335.3,
@@ -466,6 +458,14 @@
       "volume": 4866752,
       "deliverable_qty": 1653483,
       "delivery_pct": 33.98
+    },
+    {
+      "date": "2026-05-12",
+      "close": 475.8,
+      "prev_close": 505.2,
+      "volume": 2107709,
+      "deliverable_qty": 956455,
+      "delivery_pct": 45.38
     }
   ],
   "news": [
@@ -566,27 +566,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "SKY GOLD AND DIAMONDS LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SKYGOLD_11022026184131_Outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:11:22",
-      "an_dt": "10-Feb-2026 19:11:22",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "SKY GOLD AND DIAMONDS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SKYGOLD_10022026191038_EarningCallAudio.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:27:24",
-      "an_dt": "10-Feb-2026 13:27:24",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "SKY GOLD AND DIAMONDS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SKYGOLD_10022026132644_NewspaperPublication.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 11:31:12",
-      "an_dt": "10-Feb-2026 11:31:12",
-      "desc": "Investor Presentation",
-      "sm_name": "SKY GOLD AND DIAMONDS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SKYGOLD_10022026113054_InvestorsPresentation.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 293.85,
   "market_cap_cr": 1319.67,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 276.55,
-      "prev_close": 262.1,
-      "volume": 472400,
-      "deliverable_qty": 139461,
-      "delivery_pct": 29.52
-    },
     {
       "date": "2026-02-11",
       "close": 285.05,
@@ -466,6 +458,14 @@
       "volume": 77982,
       "deliverable_qty": 42379,
       "delivery_pct": 54.34
+    },
+    {
+      "date": "2026-05-12",
+      "close": 284.65,
+      "prev_close": 293.85,
+      "volume": 127012,
+      "deliverable_qty": 47359,
+      "delivery_pct": 37.29
     }
   ],
   "news": [

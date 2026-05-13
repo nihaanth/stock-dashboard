@@ -8,17 +8,9 @@
   "price": 1171.3,
   "market_cap_cr": 12235.22,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1178.4,
-      "prev_close": 1169.7,
-      "volume": 143970,
-      "deliverable_qty": 81630,
-      "delivery_pct": 56.7
-    },
     {
       "date": "2026-02-11",
       "close": 1177.3,
@@ -466,9 +458,24 @@
       "volume": 210425,
       "deliverable_qty": 100646,
       "delivery_pct": 47.83
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1108.2,
+      "prev_close": 1171.3,
+      "volume": 274406,
+      "deliverable_qty": 133543,
+      "delivery_pct": 48.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 21:46:57",
+      "an_dt": "12-May-2026 21:46:57",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Home First Finance Company India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HOMEFIRST_12052026214649_HomeFirst_Transcript_FY26.pdf"
+    },
     {
       "sort_date": "2026-05-10 11:14:45",
       "an_dt": "10-May-2026 11:14:45",

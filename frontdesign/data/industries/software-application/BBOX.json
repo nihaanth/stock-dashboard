@@ -8,17 +8,9 @@
   "price": 788.1,
   "market_cap_cr": 13988.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 568.35,
-      "prev_close": 571.15,
-      "volume": 493370,
-      "deliverable_qty": 213484,
-      "delivery_pct": 43.27
-    },
     {
       "date": "2026-02-11",
       "close": 582.15,
@@ -466,9 +458,38 @@
       "volume": 2113955,
       "deliverable_qty": 490219,
       "delivery_pct": 23.19
+    },
+    {
+      "date": "2026-05-12",
+      "close": 829.15,
+      "prev_close": 788.1,
+      "volume": 10494889,
+      "deliverable_qty": 1146215,
+      "delivery_pct": 10.92
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 17:40:35",
+      "an_dt": "12-May-2026 17:40:35",
+      "desc": "Price movement",
+      "sm_name": "Black Box Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBOX_12052026174026_NSE_Reply_letter.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 12:11:40",
+      "an_dt": "12-May-2026 12:11:40",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Black Box Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBOX_12052026121120_SE_Intimation_Capital_market_day_invitation.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 11:51:20",
+      "an_dt": "12-May-2026 11:51:20",
+      "desc": "Spurt in Volume",
+      "sm_name": "Black Box Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBOX_12052026115104_NSE_Reply_letter.pdf"
+    },
     {
       "sort_date": "2026-05-11 18:44:14",
       "an_dt": "11-May-2026 18:44:14",

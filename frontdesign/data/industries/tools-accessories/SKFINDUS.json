@@ -8,17 +8,9 @@
   "price": 2107.6,
   "market_cap_cr": 10419.55,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 2487.3,
-      "prev_close": 2474.6,
-      "volume": 6818,
-      "deliverable_qty": 3526,
-      "delivery_pct": 51.72
-    },
     {
       "date": "2026-02-11",
       "close": 2484.3,
@@ -466,9 +458,38 @@
       "volume": 35737,
       "deliverable_qty": 22598,
       "delivery_pct": 63.23
+    },
+    {
+      "date": "2026-05-12",
+      "close": 2038.2,
+      "prev_close": 2107.6,
+      "volume": 17438,
+      "deliverable_qty": 10353,
+      "delivery_pct": 59.37
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 23:43:10",
+      "an_dt": "12-May-2026 23:43:10",
+      "desc": "Updates",
+      "sm_name": "SKF India (Industrial) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SKFINDUS25_12052026234207_NSE.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 23:33:05",
+      "an_dt": "12-May-2026 23:33:05",
+      "desc": "Dividend",
+      "sm_name": "SKF India (Industrial) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SKFINDUS25_12052026233147_NSE.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 23:33:05",
+      "an_dt": "12-May-2026 23:33:05",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "SKF India (Industrial) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SKFINDUS25_12052026233140_NSE.pdf"
+    },
     {
       "sort_date": "2026-05-08 11:55:58",
       "an_dt": "08-May-2026 11:55:58",

@@ -8,17 +8,9 @@
   "price": 467.75,
   "market_cap_cr": 3082.24,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 392.05,
-      "prev_close": 389.2,
-      "volume": 104002,
-      "deliverable_qty": 62332,
-      "delivery_pct": 59.93
-    },
     {
       "date": "2026-02-11",
       "close": 392.5,
@@ -466,6 +458,14 @@
       "volume": 570751,
       "deliverable_qty": 343108,
       "delivery_pct": 60.12
+    },
+    {
+      "date": "2026-05-12",
+      "close": 575.6,
+      "prev_close": 573.5,
+      "volume": 371603,
+      "deliverable_qty": 166959,
+      "delivery_pct": 44.93
     }
   ],
   "news": [
@@ -615,13 +615,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "SG Finserve Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGFINSERVE_11022026113902_Intimation_Newspaper.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:07:29",
-      "an_dt": "10-Feb-2026 17:07:29",
-      "desc": "Shareholders meeting",
-      "sm_name": "SG Finserve Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGFINSERVE_10022026170647_Postal_Ballot_Notice_Intimation.pdf"
     }
   ]
 }

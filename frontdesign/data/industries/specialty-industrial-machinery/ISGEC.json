@@ -8,17 +8,9 @@
   "price": 1093.9,
   "market_cap_cr": 8043.39,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 931.0,
-      "prev_close": 788.55,
-      "volume": 2053135,
-      "deliverable_qty": 326574,
-      "delivery_pct": 15.91
-    },
     {
       "date": "2026-02-11",
       "close": 914.65,
@@ -466,6 +458,14 @@
       "volume": 57320,
       "deliverable_qty": 27527,
       "delivery_pct": 48.02
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1054.0,
+      "prev_close": 1093.9,
+      "volume": 53331,
+      "deliverable_qty": 26178,
+      "delivery_pct": 49.09
     }
   ],
   "news": [
@@ -615,27 +615,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Isgec Heavy Engineering Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ISGEC_11022026171012_Signed_Intimation_Newspaper_Publication_Hindi_11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:28:35",
-      "an_dt": "10-Feb-2026 19:28:35",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Isgec Heavy Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ISGEC_10022026192747_NEW_Signed_Intimation_Audio_Call.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 15:14:49",
-      "an_dt": "10-Feb-2026 15:14:49",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Isgec Heavy Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ISGEC_10022026151428_Signed_Intimation_Newspaper_UFR_10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 13:08:09",
-      "an_dt": "10-Feb-2026 13:08:09",
-      "desc": "Investor Presentation",
-      "sm_name": "Isgec Heavy Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ISGEC_10022026130737_Signed_Intimation_Investor_Presentation_10022026.pdf"
     }
   ]
 }

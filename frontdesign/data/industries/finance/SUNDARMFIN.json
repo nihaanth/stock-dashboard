@@ -8,17 +8,9 @@
   "price": 4709.8,
   "market_cap_cr": 51908.13,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 5321.0,
-      "prev_close": 5451.0,
-      "volume": 48859,
-      "deliverable_qty": 22959,
-      "delivery_pct": 46.99
-    },
     {
       "date": "2026-02-11",
       "close": 5362.0,
@@ -466,6 +458,14 @@
       "volume": 52941,
       "deliverable_qty": 31311,
       "delivery_pct": 59.14
+    },
+    {
+      "date": "2026-05-12",
+      "close": 4599.2,
+      "prev_close": 4709.8,
+      "volume": 57548,
+      "deliverable_qty": 33855,
+      "delivery_pct": 58.83
     }
   ],
   "news": [
@@ -559,20 +559,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Sundaram Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNDARMFIN_11022026172341_newspaperad.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 22:08:36",
-      "an_dt": "10-Feb-2026 22:08:36",
-      "desc": "Shareholders meeting",
-      "sm_name": "Sundaram Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNDARMFIN_10022026220642_sflpostalballotnoticeforupload.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:15:56",
-      "an_dt": "10-Feb-2026 19:15:56",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Sundaram Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNDARMFIN_10022026191433_SdInvestor_meetPhilips.pdf"
     }
   ]
 }

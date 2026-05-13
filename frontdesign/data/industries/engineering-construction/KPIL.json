@@ -8,17 +8,9 @@
   "price": 1262.1,
   "market_cap_cr": 21553.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1138.1,
-      "prev_close": 1121.9,
-      "volume": 305935,
-      "deliverable_qty": 216222,
-      "delivery_pct": 70.68
-    },
     {
       "date": "2026-02-11",
       "close": 1136.6,
@@ -466,9 +458,24 @@
       "volume": 61921,
       "deliverable_qty": 32058,
       "delivery_pct": 51.77
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1232.6,
+      "prev_close": 1262.1,
+      "volume": 157845,
+      "deliverable_qty": 87550,
+      "delivery_pct": 55.47
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 13:36:16",
+      "an_dt": "12-May-2026 13:36:16",
+      "desc": "Action(s) taken or orders passed",
+      "sm_name": "Kalpataru Projects International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KALPATPOWR_12052026133609_SEIntimation_12052026.pdf"
+    },
     {
       "sort_date": "2026-05-08 16:25:35",
       "an_dt": "08-May-2026 16:25:35",
@@ -608,13 +615,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Kalpataru Projects International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KALPATPOWR_17022026161544_SEIntimationInvestorAnalystMeeting25022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 15:39:12",
-      "an_dt": "10-Feb-2026 15:39:12",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Kalpataru Projects International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KALPATPOWER_10022026153655_SEIntimationTranscriptConferenceConcallQ32026.pdf"
     }
   ]
 }

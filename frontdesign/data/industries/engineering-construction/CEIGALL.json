@@ -8,17 +8,9 @@
   "price": 366.7,
   "market_cap_cr": 6388.09,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 295.45,
-      "prev_close": 286.3,
-      "volume": 1983590,
-      "deliverable_qty": 508714,
-      "delivery_pct": 25.65
-    },
     {
       "date": "2026-02-11",
       "close": 296.55,
@@ -466,9 +458,24 @@
       "volume": 427218,
       "deliverable_qty": 193016,
       "delivery_pct": 45.18
+    },
+    {
+      "date": "2026-05-12",
+      "close": 350.8,
+      "prev_close": 366.7,
+      "volume": 335319,
+      "deliverable_qty": 171183,
+      "delivery_pct": 51.05
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 17:55:22",
+      "an_dt": "12-May-2026 17:55:22",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Ceigall India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ceigall_12052026175500_Earning_Call_07052026.pdf"
+    },
     {
       "sort_date": "2026-05-08 12:58:35",
       "an_dt": "08-May-2026 12:58:35",
@@ -860,27 +867,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Ceigall India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ceigall_11022026223052_Investor_Meet_11022026_1.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 17:35:09",
-      "an_dt": "10-Feb-2026 17:35:09",
-      "desc": "Updates",
-      "sm_name": "Ceigall India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ceigall_10022026173409_Code_of_conduct_Violiation_SEBI_PIT__10022026_FINAL.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 14:25:18",
-      "an_dt": "10-Feb-2026 14:25:18",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Ceigall India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ceigall_10022026142425_Newspaper_Publication_10022026_Final.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 08:40:02",
-      "an_dt": "10-Feb-2026 08:40:02",
-      "desc": "Press Release",
-      "sm_name": "Ceigall India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ceigall_10022026083838_Press_Release_10022026_final.pdf"
     }
   ]
 }

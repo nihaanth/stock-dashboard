@@ -8,17 +8,9 @@
   "price": 9065.5,
   "market_cap_cr": 136481.56,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 7742.5,
-      "prev_close": 7788.0,
-      "volume": 131347,
-      "deliverable_qty": 68961,
-      "delivery_pct": 52.5
-    },
     {
       "date": "2026-02-11",
       "close": 7814.0,
@@ -466,6 +458,14 @@
       "volume": 261216,
       "deliverable_qty": 102060,
       "delivery_pct": 39.07
+    },
+    {
+      "date": "2026-05-12",
+      "close": 9021.5,
+      "prev_close": 9065.5,
+      "volume": 617924,
+      "deliverable_qty": 305034,
+      "delivery_pct": 49.36
     }
   ],
   "news": [
@@ -748,13 +748,6 @@
       "desc": "General Updates",
       "sm_name": "Polycab India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/POLYCAB_12022026095430_Intimationtostockexchange.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 12:32:33",
-      "an_dt": "10-Feb-2026 12:32:33",
-      "desc": "General Updates",
-      "sm_name": "Polycab India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POLYCAB_10022026123221_Intimationtostockexchange.pdf"
     }
   ]
 }

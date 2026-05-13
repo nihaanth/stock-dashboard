@@ -8,17 +8,9 @@
   "price": 300.45,
   "market_cap_cr": 3012.99,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 317.1,
-      "prev_close": 313.4,
-      "volume": 40449,
-      "deliverable_qty": 16966,
-      "delivery_pct": 41.94
-    },
     {
       "date": "2026-02-11",
       "close": 314.5,
@@ -466,6 +458,14 @@
       "volume": 114679,
       "deliverable_qty": 48411,
       "delivery_pct": 42.21
+    },
+    {
+      "date": "2026-05-12",
+      "close": 296.45,
+      "prev_close": 300.45,
+      "volume": 80809,
+      "deliverable_qty": 38206,
+      "delivery_pct": 47.28
     }
   ],
   "news": [
@@ -566,13 +566,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Gufic Biosciences Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GUFIC_13022026215636_finalintimationoutcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:06:21",
-      "an_dt": "10-Feb-2026 19:06:21",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Gufic Biosciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GUFIC_10022026190516_FinalintimationEarningsCall.pdf"
     }
   ]
 }

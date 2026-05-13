@@ -8,17 +8,9 @@
   "price": 422.05,
   "market_cap_cr": 6875.97,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 382.0,
-      "prev_close": 376.65,
-      "volume": 2411535,
-      "deliverable_qty": 721643,
-      "delivery_pct": 29.92
-    },
     {
       "date": "2026-02-11",
       "close": 397.35,
@@ -466,6 +458,14 @@
       "volume": 612700,
       "deliverable_qty": 156881,
       "delivery_pct": 25.6
+    },
+    {
+      "date": "2026-05-12",
+      "close": 412.1,
+      "prev_close": 422.05,
+      "volume": 644636,
+      "deliverable_qty": 167526,
+      "delivery_pct": 25.99
     }
   ],
   "news": [
@@ -559,20 +559,6 @@
       "desc": "Agreements",
       "sm_name": "Shreeji Shipping Global Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHREEJI_11022026224658_Regulation_30.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 21:10:55",
-      "an_dt": "10-Feb-2026 21:10:55",
-      "desc": "Resignation of Independent director",
-      "sm_name": "Shreeji Shipping Global Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHREEJISPG_ROID_78970_KMP_Doc.zip"
-    },
-    {
-      "sort_date": "2026-02-10 20:58:29",
-      "an_dt": "10-Feb-2026 20:58:29",
-      "desc": "Resignation",
-      "sm_name": "Shreeji Shipping Global Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHREEJI_10022026205647_Regulation_30.pdf"
     }
   ]
 }

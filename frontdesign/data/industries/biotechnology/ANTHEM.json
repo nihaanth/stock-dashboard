@@ -8,17 +8,9 @@
   "price": 784.2,
   "market_cap_cr": 44049.6,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 676.7,
-      "prev_close": 674.9,
-      "volume": 249764,
-      "deliverable_qty": 114706,
-      "delivery_pct": 45.93
-    },
     {
       "date": "2026-02-11",
       "close": 692.15,
@@ -466,9 +458,24 @@
       "volume": 389815,
       "deliverable_qty": 243851,
       "delivery_pct": 62.56
+    },
+    {
+      "date": "2026-05-12",
+      "close": 799.05,
+      "prev_close": 784.2,
+      "volume": 696432,
+      "deliverable_qty": 309812,
+      "delivery_pct": 44.49
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 19:29:56",
+      "an_dt": "12-May-2026 19:29:56",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Anthem Biosciences Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COMPLIANCE_ABL1_12052026192943_Investor_Call_Intimation_Q4_Signed.pdf"
+    },
     {
       "sort_date": "2026-04-22 18:17:32",
       "an_dt": "22-Apr-2026 18:17:32",

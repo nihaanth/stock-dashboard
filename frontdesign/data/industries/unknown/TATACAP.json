@@ -8,17 +8,9 @@
   "price": 314.95,
   "market_cap_cr": 132804.75,
   "industry_source": "webarchive",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 354.95,
-      "prev_close": 351.15,
-      "volume": 2242653,
-      "deliverable_qty": 1489513,
-      "delivery_pct": 66.42
-    },
     {
       "date": "2026-02-11",
       "close": 357.6,
@@ -466,9 +458,31 @@
       "volume": 1288991,
       "deliverable_qty": 938896,
       "delivery_pct": 72.84
+    },
+    {
+      "date": "2026-05-12",
+      "close": 309.45,
+      "prev_close": 314.95,
+      "volume": 1064020,
+      "deliverable_qty": 652617,
+      "delivery_pct": 61.34
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 16:13:05",
+      "an_dt": "12-May-2026 16:13:05",
+      "desc": "Allotment of Securities",
+      "sm_name": "Tata Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATACAPITAL_12052026161209_Intimation_to_NSE_Letter_TCFSL_NCD_J_Series_FY_2022_23_Reissue_No_5.pdf"
+    },
+    {
+      "sort_date": "2026-05-12 16:02:23",
+      "an_dt": "12-May-2026 16:02:23",
+      "desc": "Allotment of Securities",
+      "sm_name": "Tata Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATACAPITAL_12052026155926_Intimation_to_NSE_Letter_TCL_Secured_NCD_A_FY_2026_27_VIS_M.pdf"
+    },
     {
       "sort_date": "2026-05-09 16:44:48",
       "an_dt": "09-May-2026 16:44:48",
@@ -643,13 +657,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Tata Capital Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATACAPITAL_12022026113443_ScheduleofAnalystMeetFebruary2026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:32:28",
-      "an_dt": "10-Feb-2026 16:32:28",
-      "desc": "Allotment of Securities",
-      "sm_name": "Tata Capital Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATACAPITAL_10022026162629_Intimation_to_NSE_Letter_TCL_NCD_N_Series_FY_2022_23_Re_No_3.pdf"
     }
   ]
 }

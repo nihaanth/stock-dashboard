@@ -8,17 +8,9 @@
   "price": 836.1,
   "market_cap_cr": 9095.52,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 762.05,
-      "prev_close": 750.05,
-      "volume": 228037,
-      "deliverable_qty": 129188,
-      "delivery_pct": 56.65
-    },
     {
       "date": "2026-02-11",
       "close": 759.65,
@@ -466,6 +458,14 @@
       "volume": 81793,
       "deliverable_qty": 51305,
       "delivery_pct": 62.73
+    },
+    {
+      "date": "2026-05-12",
+      "close": 831.8,
+      "prev_close": 836.1,
+      "volume": 89872,
+      "deliverable_qty": 62862,
+      "delivery_pct": 69.95
     }
   ],
   "news": [
@@ -615,13 +615,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "India Shelter Finance Corporation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ISFC2010_12022026174219_Earnings_call_Transcript_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 16:41:24",
-      "an_dt": "10-Feb-2026 16:41:24",
-      "desc": "General Updates",
-      "sm_name": "India Shelter Finance Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ISFC2010_10022026163902_Intimation_of_Stock_exchange_Application.pdf"
     }
   ]
 }

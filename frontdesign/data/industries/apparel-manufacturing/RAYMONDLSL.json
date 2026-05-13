@@ -8,17 +8,9 @@
   "price": 794.65,
   "market_cap_cr": 4852.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 1019.9,
-      "prev_close": 1036.2,
-      "volume": 70185,
-      "deliverable_qty": 34059,
-      "delivery_pct": 48.53
-    },
     {
       "date": "2026-02-11",
       "close": 991.7,
@@ -466,6 +458,14 @@
       "volume": 175841,
       "deliverable_qty": 88578,
       "delivery_pct": 50.37
+    },
+    {
+      "date": "2026-05-12",
+      "close": 780.05,
+      "prev_close": 762.35,
+      "volume": 329705,
+      "deliverable_qty": 89555,
+      "delivery_pct": 27.16
     }
   ],
   "news": [
@@ -601,13 +601,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Raymond Lifestyle Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RLL_18022026184336_SEintimationInvestormeetsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 15:27:15",
-      "an_dt": "10-Feb-2026 15:27:15",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Raymond Lifestyle Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RLL_10022026152633_RLLSEintimationInvestormeetsigned.pdf"
     }
   ]
 }

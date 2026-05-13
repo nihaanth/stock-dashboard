@@ -8,17 +8,9 @@
   "price": 292.95,
   "market_cap_cr": 4152.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 342.35,
-      "prev_close": 351.95,
-      "volume": 117135,
-      "deliverable_qty": 60726,
-      "delivery_pct": 51.84
-    },
     {
       "date": "2026-02-11",
       "close": 330.4,
@@ -466,9 +458,24 @@
       "volume": 67318,
       "deliverable_qty": 28911,
       "delivery_pct": 42.95
+    },
+    {
+      "date": "2026-05-12",
+      "close": 285.0,
+      "prev_close": 292.95,
+      "volume": 76132,
+      "deliverable_qty": 36638,
+      "delivery_pct": 48.12
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 18:24:46",
+      "an_dt": "12-May-2026 18:24:46",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "PDS Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_12052026182429_Ltr_IntimationofConCall_12052026_sd.pdf"
+    },
     {
       "sort_date": "2026-04-22 21:07:13",
       "an_dt": "22-Apr-2026 21:07:13",
@@ -650,48 +657,6 @@
       "desc": "Corrigendum",
       "sm_name": "PDS Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_11022026104909_Ltr_InvestorPPT_11022026_Revised.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 20:45:59",
-      "an_dt": "10-Feb-2026 20:45:59",
-      "desc": "Press Release",
-      "sm_name": "PDS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_10022026204550_Ltr_Press_Release_10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 20:44:08",
-      "an_dt": "10-Feb-2026 20:44:08",
-      "desc": "Investor Presentation",
-      "sm_name": "PDS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_10022026204354_Ltr_InvestorPPT_10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 20:42:32",
-      "an_dt": "10-Feb-2026 20:42:32",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "PDS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_10022026204223_Ltr_MonitoringAgencyReport_10022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 20:40:21",
-      "an_dt": "10-Feb-2026 20:40:21",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "PDS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_10022026203815_Ltr_BoardMeetingOutcome_10022026_SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 20:33:29",
-      "an_dt": "10-Feb-2026 20:33:29",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "PDS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_10022026203315_Ltr_BoardMeetingOutcome_10022026_SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 19:23:46",
-      "an_dt": "10-Feb-2026 19:23:46",
-      "desc": "Allotment of Securities",
-      "sm_name": "PDS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_10022026192133_Ltr_AllotofESOP_10022026_sd.pdf"
     }
   ]
 }

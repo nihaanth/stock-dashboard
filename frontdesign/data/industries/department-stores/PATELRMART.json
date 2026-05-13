@@ -8,17 +8,9 @@
   "price": 183.39,
   "market_cap_cr": 612.53,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 209.35,
-      "prev_close": 209.03,
-      "volume": 119068,
-      "deliverable_qty": 80949,
-      "delivery_pct": 67.99
-    },
     {
       "date": "2026-02-11",
       "close": 206.46,
@@ -466,6 +458,14 @@
       "volume": 47520,
       "deliverable_qty": 19792,
       "delivery_pct": 41.65
+    },
+    {
+      "date": "2026-05-12",
+      "close": 201.34,
+      "prev_close": 207.91,
+      "volume": 62029,
+      "deliverable_qty": 41813,
+      "delivery_pct": 67.41
     }
   ],
   "news": [
@@ -573,20 +573,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Patel Retail Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PATEL_11022026155911_PRLPresentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 12:51:53",
-      "an_dt": "10-Feb-2026 12:51:53",
-      "desc": "General Updates",
-      "sm_name": "Patel Retail Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PATEL_10022026124403_PRL_Postal_Ballot_Newspapers_Publications.pdf"
-    },
-    {
-      "sort_date": "2026-02-10 11:37:13",
-      "an_dt": "10-Feb-2026 11:37:13",
-      "desc": "General Updates",
-      "sm_name": "Patel Retail Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PATEL_10022026113655_PRLPresentation_-_recording.pdf"
     }
   ]
 }

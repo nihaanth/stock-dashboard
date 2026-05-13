@@ -8,17 +8,9 @@
   "price": 314.85,
   "market_cap_cr": 1259.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-11",
+  "as_of": "2026-05-12",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-10",
-      "close": 311.0,
-      "prev_close": 304.6,
-      "volume": 462942,
-      "deliverable_qty": 133121,
-      "delivery_pct": 28.76
-    },
     {
       "date": "2026-02-11",
       "close": 295.1,
@@ -466,9 +458,24 @@
       "volume": 137350,
       "deliverable_qty": 57029,
       "delivery_pct": 41.52
+    },
+    {
+      "date": "2026-05-12",
+      "close": 302.9,
+      "prev_close": 314.85,
+      "volume": 180157,
+      "deliverable_qty": 78925,
+      "delivery_pct": 43.81
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-12 11:39:17",
+      "an_dt": "12-May-2026 11:39:17",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Quadrant Future Tek Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/QUADRANT_12052026113907_Intimation_QFTL.pdf"
+    },
     {
       "sort_date": "2026-04-15 20:32:24",
       "an_dt": "15-Apr-2026 20:32:24",
