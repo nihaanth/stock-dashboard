@@ -8,17 +8,9 @@
   "price": 494.5,
   "market_cap_cr": 1545.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 373.0,
-      "prev_close": 369.75,
-      "volume": 906533,
-      "deliverable_qty": 168389,
-      "delivery_pct": 18.58
-    },
     {
       "date": "2026-02-12",
       "close": 443.6,
@@ -466,6 +458,14 @@
       "volume": 942773,
       "deliverable_qty": 282863,
       "delivery_pct": 30.0
+    },
+    {
+      "date": "2026-05-13",
+      "close": 462.05,
+      "prev_close": 458.2,
+      "volume": 427686,
+      "deliverable_qty": 126978,
+      "delivery_pct": 29.69
     }
   ],
   "news": [
@@ -489,13 +489,6 @@
       "desc": "Investor Presentation",
       "sm_name": "Apex Frozen Foods Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/APEX_13022026151339_APEX-Q3FY26_Result_presentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:15:18",
-      "an_dt": "11-Feb-2026 17:15:18",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Apex Frozen Foods Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APEX_11022026171317_outcome_of_BM11022026.pdf"
     }
   ]
 }

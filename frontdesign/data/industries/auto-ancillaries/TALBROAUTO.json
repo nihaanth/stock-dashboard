@@ -8,17 +8,9 @@
   "price": 265.8,
   "market_cap_cr": 1640.73,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 286.2,
-      "prev_close": 286.4,
-      "volume": 141758,
-      "deliverable_qty": 52093,
-      "delivery_pct": 36.75
-    },
     {
       "date": "2026-02-12",
       "close": 283.95,
@@ -466,9 +458,24 @@
       "volume": 120151,
       "deliverable_qty": 62565,
       "delivery_pct": 52.07
+    },
+    {
+      "date": "2026-05-13",
+      "close": 333.7,
+      "prev_close": 312.75,
+      "volume": 422202,
+      "deliverable_qty": 142188,
+      "delivery_pct": 33.68
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 15:44:17",
+      "an_dt": "13-May-2026 15:44:17",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Talbros Automotive Components Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TALBROAUTO_13052026154355_AnalystMeetSigned.pdf"
+    },
     {
       "sort_date": "2026-05-11 12:33:13",
       "an_dt": "11-May-2026 12:33:13",
@@ -587,41 +594,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Talbros Automotive Components Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TALBROAUTO_12022026122851_NewspaperPubmergedsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:55:55",
-      "an_dt": "11-Feb-2026 17:55:55",
-      "desc": "Updates",
-      "sm_name": "Talbros Automotive Components Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TALBROAUTO_11022026175546_OutcomeIntimationsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:31:27",
-      "an_dt": "11-Feb-2026 17:31:27",
-      "desc": "Investor Presentation",
-      "sm_name": "Talbros Automotive Components Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TALBROAUTO_11022026173110_IPresentationmergedsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:24:32",
-      "an_dt": "11-Feb-2026 17:24:32",
-      "desc": "Press Release",
-      "sm_name": "Talbros Automotive Components Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TALBROAUTO_11022026172423_PressReleasemergedsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:13:19",
-      "an_dt": "11-Feb-2026 17:13:19",
-      "desc": "Change in Management",
-      "sm_name": "Talbros Automotive Components Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TALBROAUTO_11022026171304_ChangeinManagementsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:51:48",
-      "an_dt": "11-Feb-2026 16:51:48",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Talbros Automotive Components Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TALBROAUTO_11022026164607_OutcomeIntimationsigned.pdf"
     }
   ]
 }

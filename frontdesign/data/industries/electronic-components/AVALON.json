@@ -8,17 +8,9 @@
   "price": 1044.75,
   "market_cap_cr": 6975.39,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 1053.3,
-      "prev_close": 1053.9,
-      "volume": 89594,
-      "deliverable_qty": 38178,
-      "delivery_pct": 42.61
-    },
     {
       "date": "2026-02-12",
       "close": 1078.75,
@@ -466,9 +458,24 @@
       "volume": 373528,
       "deliverable_qty": 178151,
       "delivery_pct": 47.69
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1292.6,
+      "prev_close": 1291.2,
+      "volume": 351808,
+      "deliverable_qty": 171445,
+      "delivery_pct": 48.73
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 19:07:33",
+      "an_dt": "13-May-2026 19:07:33",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Avalon Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVALON2022_13052026190725_Q4FY26_Transcript.pdf"
+    },
     {
       "sort_date": "2026-05-07 20:48:00",
       "an_dt": "07-May-2026 20:48:00",
@@ -538,13 +545,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Avalon Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVALON2022_12032026111826_Intimationof24thESOPAllotment.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:23:27",
-      "an_dt": "11-Feb-2026 19:23:27",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Avalon Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVALON2022_11022026192304_ATL_Q3FY26_Earnings_Call_-_Transcript.pdf"
     }
   ]
 }

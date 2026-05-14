@@ -8,17 +8,9 @@
   "price": 1886.4,
   "market_cap_cr": 38312.76,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 1864.6,
-      "prev_close": 1794.0,
-      "volume": 517163,
-      "deliverable_qty": 208586,
-      "delivery_pct": 40.33
-    },
     {
       "date": "2026-02-12",
       "close": 1864.9,
@@ -466,6 +458,14 @@
       "volume": 307391,
       "deliverable_qty": 178271,
       "delivery_pct": 57.99
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1824.1,
+      "prev_close": 1846.6,
+      "volume": 236639,
+      "deliverable_qty": 121210,
+      "delivery_pct": 51.22
     }
   ],
   "news": [
@@ -657,13 +657,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Narayana Hrudayalaya Ltd.",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Narayana_13022026181017_Final_Outcome_of_BM__1_.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 13:14:46",
-      "an_dt": "11-Feb-2026 13:14:46",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Narayana Hrudayalaya Ltd.",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Narayana_11022026131253_NHL_Investor_Meeting_Intimation__1_.pdf"
     }
   ]
 }

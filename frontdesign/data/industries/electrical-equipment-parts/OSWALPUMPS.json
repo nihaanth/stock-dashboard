@@ -8,17 +8,9 @@
   "price": 420.8,
   "market_cap_cr": 4797.33,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 356.75,
-      "prev_close": 377.9,
-      "volume": 1795842,
-      "deliverable_qty": 981962,
-      "delivery_pct": 54.68
-    },
     {
       "date": "2026-02-12",
       "close": 350.85,
@@ -466,9 +458,24 @@
       "volume": 864490,
       "deliverable_qty": 578814,
       "delivery_pct": 66.95
+    },
+    {
+      "date": "2026-05-13",
+      "close": 391.95,
+      "prev_close": 399.8,
+      "volume": 522015,
+      "deliverable_qty": 219223,
+      "delivery_pct": 42.0
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 21:08:46",
+      "an_dt": "13-May-2026 21:08:46",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Oswal Pumps Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OSWALPUMPS_13052026210702_SELetterEarningCallIntimationOPL13052026.pdf"
+    },
     {
       "sort_date": "2026-05-08 16:54:26",
       "an_dt": "08-May-2026 16:54:26",

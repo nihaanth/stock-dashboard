@@ -8,17 +8,9 @@
   "price": 788.1,
   "market_cap_cr": 13988.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 582.15,
-      "prev_close": 568.35,
-      "volume": 653829,
-      "deliverable_qty": 306991,
-      "delivery_pct": 46.95
-    },
     {
       "date": "2026-02-12",
       "close": 577.75,
@@ -466,9 +458,31 @@
       "volume": 10494889,
       "deliverable_qty": 1146215,
       "delivery_pct": 10.92
+    },
+    {
+      "date": "2026-05-13",
+      "close": 824.9,
+      "prev_close": 829.15,
+      "volume": 1717191,
+      "deliverable_qty": 383947,
+      "delivery_pct": 22.36
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 08:12:16",
+      "an_dt": "13-May-2026 08:12:16",
+      "desc": "Press Release",
+      "sm_name": "Black Box Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBOX_13052026081146_SE_PR_AcquistionCompletion.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 08:01:14",
+      "an_dt": "13-May-2026 08:01:14",
+      "desc": "General Updates",
+      "sm_name": "Black Box Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBOX_13052026080043_SE_Acq_Completion.pdf"
+    },
     {
       "sort_date": "2026-05-12 17:40:35",
       "an_dt": "12-May-2026 17:40:35",
@@ -629,20 +643,6 @@
       "desc": "General Updates",
       "sm_name": "Black Box Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBOX_12022026082700_SE_Intimation_Acquisition.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 23:09:11",
-      "an_dt": "11-Feb-2026 23:09:11",
-      "desc": "Allotment of Securities",
-      "sm_name": "Black Box Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBOX_11022026230854_SE_Allotment_final.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 23:00:31",
-      "an_dt": "11-Feb-2026 23:00:31",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Black Box Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBOX_11022026225812_SE_Intimation_Outcome.pdf"
     }
   ]
 }

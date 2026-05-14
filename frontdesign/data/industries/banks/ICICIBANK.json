@@ -8,17 +8,9 @@
   "price": 1351.1,
   "market_cap_cr": 967549.49,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 1406.1,
-      "prev_close": 1406.5,
-      "volume": 8551341,
-      "deliverable_qty": 5235374,
-      "delivery_pct": 61.22
-    },
     {
       "date": "2026-02-12",
       "close": 1430.0,
@@ -466,6 +458,14 @@
       "volume": 21110708,
       "deliverable_qty": 8970204,
       "delivery_pct": 42.49
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1235.6,
+      "prev_close": 1240.3,
+      "volume": 19490295,
+      "deliverable_qty": 12949692,
+      "delivery_pct": 66.44
     }
   ],
   "news": [
@@ -846,13 +846,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "ICICI Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_13022026114816_Lettertoexchange.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 21:00:13",
-      "an_dt": "11-Feb-2026 21:00:13",
-      "desc": "General Updates",
-      "sm_name": "ICICI Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_11022026205922_BSENSE.pdf"
     }
   ]
 }

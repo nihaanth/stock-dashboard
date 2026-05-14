@@ -8,17 +8,9 @@
   "price": 830.5,
   "market_cap_cr": 23106.87,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 905.15,
-      "prev_close": 902.8,
-      "volume": 174377,
-      "deliverable_qty": 88376,
-      "delivery_pct": 50.68
-    },
     {
       "date": "2026-02-12",
       "close": 896.15,
@@ -466,6 +458,14 @@
       "volume": 833916,
       "deliverable_qty": 453829,
       "delivery_pct": 54.42
+    },
+    {
+      "date": "2026-05-13",
+      "close": 865.2,
+      "prev_close": 843.65,
+      "volume": 817469,
+      "deliverable_qty": 399981,
+      "delivery_pct": 48.93
     }
   ],
   "news": [
@@ -671,13 +671,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Shyam Metalics and Energy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHYAMMETL_12022026143953_newspaperpublication.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:35:00",
-      "an_dt": "11-Feb-2026 16:35:00",
-      "desc": "Shareholders meeting",
-      "sm_name": "Shyam Metalics and Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHYAMMETL_11022026163453_noticeofpostalballot.pdf"
     }
   ]
 }

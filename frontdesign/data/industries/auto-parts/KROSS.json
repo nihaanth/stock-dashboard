@@ -8,17 +8,9 @@
   "price": 224.73,
   "market_cap_cr": 1449.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 207.81,
-      "prev_close": 211.05,
-      "volume": 176518,
-      "deliverable_qty": 61476,
-      "delivery_pct": 34.83
-    },
     {
       "date": "2026-02-12",
       "close": 217.26,
@@ -466,9 +458,31 @@
       "volume": 759606,
       "deliverable_qty": 333897,
       "delivery_pct": 43.96
+    },
+    {
+      "date": "2026-05-13",
+      "close": 208.01,
+      "prev_close": 203.08,
+      "volume": 9659053,
+      "deliverable_qty": 966877,
+      "delivery_pct": 10.01
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 17:48:21",
+      "an_dt": "13-May-2026 17:48:21",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Kross Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/8910457293_13052026174735_Reg_30_13052026_Outcome_Audio.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 13:29:27",
+      "an_dt": "13-May-2026 13:29:27",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Kross Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/8910457293_13052026132827_Reg47_Newspaper_Publication_31032026.pdf"
+    },
     {
       "sort_date": "2026-05-12 20:43:19",
       "an_dt": "12-May-2026 20:43:19",

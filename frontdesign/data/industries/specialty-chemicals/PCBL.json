@@ -8,17 +8,9 @@
   "price": 294.15,
   "market_cap_cr": 11573.7,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 319.05,
-      "prev_close": 293.85,
-      "volume": 55823807,
-      "deliverable_qty": 3604188,
-      "delivery_pct": 6.46
-    },
     {
       "date": "2026-02-12",
       "close": 314.85,
@@ -466,9 +458,24 @@
       "volume": 915350,
       "deliverable_qty": 397835,
       "delivery_pct": 43.46
+    },
+    {
+      "date": "2026-05-13",
+      "close": 282.7,
+      "prev_close": 277.95,
+      "volume": 666619,
+      "deliverable_qty": 222865,
+      "delivery_pct": 33.43
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 10:18:26",
+      "an_dt": "13-May-2026 10:18:26",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "PCBL Chemical Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PCBL_13052026101743_Monitoringagencyreport.pdf"
+    },
     {
       "sort_date": "2026-05-08 19:47:28",
       "an_dt": "08-May-2026 19:47:28",
@@ -636,13 +643,6 @@
       "desc": "Credit Rating",
       "sm_name": "PCBL Chemical Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PCBL_12022026184110_CreditRatingIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 12:43:38",
-      "an_dt": "11-Feb-2026 12:43:38",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "PCBL Chemical Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PCBL_11022026124320_IntimationofMonitoringAgencyReportforquarterended31122025.pdf"
     }
   ]
 }

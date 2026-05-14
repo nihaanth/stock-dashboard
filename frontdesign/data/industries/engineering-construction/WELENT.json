@@ -8,17 +8,9 @@
   "price": 511.85,
   "market_cap_cr": 6941.39,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 507.45,
-      "prev_close": 516.2,
-      "volume": 294551,
-      "deliverable_qty": 215540,
-      "delivery_pct": 73.18
-    },
     {
       "date": "2026-02-12",
       "close": 505.15,
@@ -466,6 +458,14 @@
       "volume": 175648,
       "deliverable_qty": 90926,
       "delivery_pct": 51.77
+    },
+    {
+      "date": "2026-05-13",
+      "close": 503.2,
+      "prev_close": 488.35,
+      "volume": 130498,
+      "deliverable_qty": 55848,
+      "delivery_pct": 42.8
     }
   ],
   "news": [
@@ -559,13 +559,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Welspun Enterprises Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WELENT_04032026203145_InvestorcallIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:39:39",
-      "an_dt": "11-Feb-2026 17:39:39",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Welspun Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WELENT_11022026173911_Intimation.pdf"
     }
   ]
 }

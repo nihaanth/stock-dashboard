@@ -8,17 +8,9 @@
   "price": 623.75,
   "market_cap_cr": 7700.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 594.65,
-      "prev_close": 569.3,
-      "volume": 223013,
-      "deliverable_qty": 87502,
-      "delivery_pct": 39.24
-    },
     {
       "date": "2026-02-12",
       "close": 581.5,
@@ -466,9 +458,31 @@
       "volume": 469785,
       "deliverable_qty": 138417,
       "delivery_pct": 29.46
+    },
+    {
+      "date": "2026-05-13",
+      "close": 560.0,
+      "prev_close": 597.5,
+      "volume": 261126,
+      "deliverable_qty": 135585,
+      "delivery_pct": 51.92
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 17:44:15",
+      "an_dt": "13-May-2026 17:44:15",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Archean Chemical Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARCHEAN_13052026174346_Intimation-Newspaper.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 17:27:49",
+      "an_dt": "13-May-2026 17:27:49",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Archean Chemical Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARCHEAN_13052026172726_Intimation_Recording.pdf"
+    },
     {
       "sort_date": "2026-05-12 23:31:32",
       "an_dt": "12-May-2026 23:31:32",
@@ -608,20 +622,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Archean Chemical Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARCHEAN_19022026115402_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:22:57",
-      "an_dt": "11-Feb-2026 18:22:57",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Archean Chemical Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARCHEAN_11022026182127_Intimation-NewspaperAdvt.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 10:15:23",
-      "an_dt": "11-Feb-2026 10:15:23",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Archean Chemical Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARCHEAN_11022026101511_Intimation_Transcript.pdf"
     }
   ]
 }

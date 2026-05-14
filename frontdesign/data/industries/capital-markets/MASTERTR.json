@@ -8,17 +8,9 @@
   "price": 87.79,
   "market_cap_cr": 1079.96,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 90.91,
-      "prev_close": 92.28,
-      "volume": 81349,
-      "deliverable_qty": 39999,
-      "delivery_pct": 49.17
-    },
     {
       "date": "2026-02-12",
       "close": 90.66,
@@ -466,6 +458,14 @@
       "volume": 391075,
       "deliverable_qty": 85924,
       "delivery_pct": 21.97
+    },
+    {
+      "date": "2026-05-13",
+      "close": 87.7,
+      "prev_close": 83.29,
+      "volume": 482596,
+      "deliverable_qty": 84809,
+      "delivery_pct": 17.57
     }
   ],
   "news": [
@@ -566,13 +566,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Master Trust Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASTERTRUSTNSE_13022026103738_Publication_merged.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:16:28",
-      "an_dt": "11-Feb-2026 17:16:28",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Master Trust Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASTERTRUSTNSE_11022026171602_RESULTS_-_MTL_-_31122025.pdf"
     }
   ]
 }

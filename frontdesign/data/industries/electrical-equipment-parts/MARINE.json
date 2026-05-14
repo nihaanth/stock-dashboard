@@ -8,17 +8,9 @@
   "price": 192.01,
   "market_cap_cr": 2547.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 194.6,
-      "prev_close": 195.53,
-      "volume": 168385,
-      "deliverable_qty": 94448,
-      "delivery_pct": 56.09
-    },
     {
       "date": "2026-02-12",
       "close": 188.21,
@@ -466,6 +458,14 @@
       "volume": 613717,
       "deliverable_qty": 349494,
       "delivery_pct": 56.95
+    },
+    {
+      "date": "2026-05-13",
+      "close": 221.41,
+      "prev_close": 217.88,
+      "volume": 334921,
+      "deliverable_qty": 147436,
+      "delivery_pct": 44.02
     }
   ],
   "news": [
@@ -601,20 +601,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "Marine Electricals (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARINE_12022026093329_Signed_Regulation_30.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:58:33",
-      "an_dt": "11-Feb-2026 19:58:33",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Marine Electricals (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARINE_11022026195752_Signed__3_Uploading_ICRA_Monitoring_Agency_Report_for_December_2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:42:57",
-      "an_dt": "11-Feb-2026 19:42:57",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Marine Electricals (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARINE_11022026193942_Signed_Regulation_30_outcome.pdf"
     }
   ]
 }

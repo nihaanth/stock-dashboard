@@ -8,17 +8,9 @@
   "price": 1490.4,
   "market_cap_cr": 101164.24,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 1518.8,
-      "prev_close": 1542.1,
-      "volume": 440348,
-      "deliverable_qty": 229877,
-      "delivery_pct": 52.2
-    },
     {
       "date": "2026-02-12",
       "close": 1469.0,
@@ -466,9 +458,24 @@
       "volume": 669259,
       "deliverable_qty": 430430,
       "delivery_pct": 64.31
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1526.2,
+      "prev_close": 1495.3,
+      "volume": 654322,
+      "deliverable_qty": 451883,
+      "delivery_pct": 69.06
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 17:44:45",
+      "an_dt": "13-May-2026 17:44:45",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "LG Electronics India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LGEINDIA_13052026173214_Intimation_of_Earning_Call.pdf"
+    },
     {
       "sort_date": "2026-05-06 14:09:15",
       "an_dt": "06-May-2026 14:09:15",
@@ -587,27 +594,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "LG Electronics India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LGEINDIA_12022026144923_Newspaper_Publication.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:42:40",
-      "an_dt": "11-Feb-2026 19:42:40",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "LG Electronics India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LGEINDIA_11022026194131_Investor_Presentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:13:26",
-      "an_dt": "11-Feb-2026 19:13:26",
-      "desc": "Press Release",
-      "sm_name": "LG Electronics India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LGEINDIA_11022026191207_Press_Release.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:55:56",
-      "an_dt": "11-Feb-2026 18:55:56",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "LG Electronics India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LGEINDIA_11022026185154_OutcomeofBM11022026.pdf"
     }
   ]
 }

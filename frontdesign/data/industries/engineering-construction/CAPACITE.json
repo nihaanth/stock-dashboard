@@ -8,17 +8,9 @@
   "price": 245.55,
   "market_cap_cr": 2077.45,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 253.86,
-      "prev_close": 252.21,
-      "volume": 368656,
-      "deliverable_qty": 232488,
-      "delivery_pct": 63.06
-    },
     {
       "date": "2026-02-12",
       "close": 264.63,
@@ -466,6 +458,14 @@
       "volume": 378083,
       "deliverable_qty": 128040,
       "delivery_pct": 33.87
+    },
+    {
+      "date": "2026-05-13",
+      "close": 237.0,
+      "prev_close": 236.65,
+      "volume": 200658,
+      "deliverable_qty": 79245,
+      "delivery_pct": 39.49
     }
   ],
   "news": [
@@ -594,27 +594,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Capacit'e Infraprojects Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPACITE_12022026142122_SEIntimationQ3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:02:49",
-      "an_dt": "11-Feb-2026 17:02:49",
-      "desc": "Investor Presentation",
-      "sm_name": "Capacit'e Infraprojects Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPACITE_11022026170209_InvestorPresentationQ3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:51:50",
-      "an_dt": "11-Feb-2026 16:51:50",
-      "desc": "Press Release",
-      "sm_name": "Capacit'e Infraprojects Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPACITE_11022026165134_PressReleaseQ3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:44:19",
-      "an_dt": "11-Feb-2026 15:44:19",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Capacit'e Infraprojects Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPACITE_11022026154211_BMOutcome11022026.pdf"
     }
   ]
 }

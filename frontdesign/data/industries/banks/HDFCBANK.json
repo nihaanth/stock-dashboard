@@ -8,17 +8,9 @@
   "price": 794.7,
   "market_cap_cr": 1223302.42,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 927.1,
-      "prev_close": 932.4,
-      "volume": 24869804,
-      "deliverable_qty": 16876206,
-      "delivery_pct": 67.86
-    },
     {
       "date": "2026-02-12",
       "close": 920.6,
@@ -466,9 +458,24 @@
       "volume": 43937132,
       "deliverable_qty": 19036053,
       "delivery_pct": 43.33
+    },
+    {
+      "date": "2026-05-13",
+      "close": 749.6,
+      "prev_close": 750.45,
+      "volume": 28960919,
+      "deliverable_qty": 15486806,
+      "delivery_pct": 53.47
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 17:05:36",
+      "an_dt": "13-May-2026 17:05:36",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "HDFC Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HDFCBANK_13052026165934_SE_Dividend_TDS_newspaper_Adv_2026.pdf"
+    },
     {
       "sort_date": "2026-05-06 22:15:29",
       "an_dt": "06-May-2026 22:15:29",
@@ -783,20 +790,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "HDFC Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HDFCBANK_12022026160029_SE_Intimation-_Newspaper_Postal_Ballot.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 22:43:01",
-      "an_dt": "11-Feb-2026 22:43:01",
-      "desc": "Updates",
-      "sm_name": "HDFC Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HDFCBANK_11022026223900_RBIapproval_MajorshareholderICICI.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:41:55",
-      "an_dt": "11-Feb-2026 15:41:55",
-      "desc": "Shareholders meeting",
-      "sm_name": "HDFC Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HDFCBANK_11022026153606_SE_Intimation-_Postal_Ballot.pdf"
     }
   ]
 }

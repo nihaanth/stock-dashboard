@@ -8,17 +8,9 @@
   "price": 615.95,
   "market_cap_cr": 31077.24,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 455.3,
-      "prev_close": 460.7,
-      "volume": 479893,
-      "deliverable_qty": 183251,
-      "delivery_pct": 38.19
-    },
     {
       "date": "2026-02-12",
       "close": 452.25,
@@ -466,9 +458,24 @@
       "volume": 19156210,
       "deliverable_qty": 1465181,
       "delivery_pct": 7.65
+    },
+    {
+      "date": "2026-05-13",
+      "close": 618.7,
+      "prev_close": 607.7,
+      "volume": 13151585,
+      "deliverable_qty": 2900720,
+      "delivery_pct": 22.06
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 13:36:24",
+      "an_dt": "13-May-2026 13:36:24",
+      "desc": "Credit Rating",
+      "sm_name": "Himadri Speciality Chemical Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HSCL_13052026133616_HSCLESGRatingbyICRA.pdf"
+    },
     {
       "sort_date": "2026-05-11 20:14:31",
       "an_dt": "11-May-2026 20:14:31",
@@ -671,13 +678,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Himadri Speciality Chemical Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HSCL_13022026160859_Intimation_newspaper_publication.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:44:05",
-      "an_dt": "11-Feb-2026 16:44:05",
-      "desc": "Acquisition",
-      "sm_name": "Himadri Speciality Chemical Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HSCL_11022026164346_UpdateonAcquisitionofHPL.pdf"
     }
   ]
 }

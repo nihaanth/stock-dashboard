@@ -8,17 +8,9 @@
   "price": 115.41,
   "market_cap_cr": 3407.53,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 95.71,
-      "prev_close": 97.51,
-      "volume": 455466,
-      "deliverable_qty": 240869,
-      "delivery_pct": 52.88
-    },
     {
       "date": "2026-02-12",
       "close": 98.5,
@@ -466,6 +458,14 @@
       "volume": 5963076,
       "deliverable_qty": 2515412,
       "delivery_pct": 42.18
+    },
+    {
+      "date": "2026-05-13",
+      "close": 113.99,
+      "prev_close": 113.82,
+      "volume": 2618609,
+      "deliverable_qty": 1037039,
+      "delivery_pct": 39.6
     }
   ],
   "news": [
@@ -650,13 +650,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Sambhv Steel Tubes Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAMBHAV2024_17022026185336_Postal_ballot_Exchange.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:36:31",
-      "an_dt": "11-Feb-2026 16:36:31",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Sambhv Steel Tubes Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAMBHAV2024_11022026163553_Investor_meet.pdf"
     }
   ]
 }

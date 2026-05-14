@@ -8,17 +8,9 @@
   "price": 217.32,
   "market_cap_cr": 869.57,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 229.0,
-      "prev_close": 232.41,
-      "volume": 38372,
-      "deliverable_qty": 20592,
-      "delivery_pct": 53.66
-    },
     {
       "date": "2026-02-12",
       "close": 212.94,
@@ -466,9 +458,24 @@
       "volume": 28181,
       "deliverable_qty": 14554,
       "delivery_pct": 51.64
+    },
+    {
+      "date": "2026-05-13",
+      "close": 212.09,
+      "prev_close": 208.76,
+      "volume": 24302,
+      "deliverable_qty": 11067,
+      "delivery_pct": 45.54
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 15:51:16",
+      "an_dt": "13-May-2026 15:51:16",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "Heranba Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HERANBA_13052026154546_IBC_Intimation_Final_to_Upload.pdf"
+    },
     {
       "sort_date": "2026-05-07 13:04:30",
       "an_dt": "07-May-2026 13:04:30",
@@ -573,27 +580,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Heranba Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HERANBA_13022026123935_Newspaper_Adv_HIL.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:41:25",
-      "an_dt": "11-Feb-2026 19:41:25",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Heranba Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HERANBA_11022026193833_Outcome_HIL.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:35:05",
-      "an_dt": "11-Feb-2026 18:35:05",
-      "desc": "Appointment",
-      "sm_name": "Heranba Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HERANBA_11022026183444_Stock_Exchange-Internal_Auditor_Final_to_Upload.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:13:07",
-      "an_dt": "11-Feb-2026 18:13:07",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Heranba Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HERANBA_11022026181231_Outcome_of_BM_Final_to_Upload.pdf"
     }
   ]
 }

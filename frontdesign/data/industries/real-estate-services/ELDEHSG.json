@@ -8,17 +8,9 @@
   "price": 866.65,
   "market_cap_cr": 852.18,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 933.55,
-      "prev_close": 893.75,
-      "volume": 38232,
-      "deliverable_qty": 7213,
-      "delivery_pct": 18.87
-    },
     {
       "date": "2026-02-12",
       "close": 958.6,
@@ -466,6 +458,14 @@
       "volume": 1867,
       "deliverable_qty": 1221,
       "delivery_pct": 65.4
+    },
+    {
+      "date": "2026-05-13",
+      "close": 820.25,
+      "prev_close": 814.1,
+      "volume": 369,
+      "deliverable_qty": 255,
+      "delivery_pct": 69.11
     }
   ],
   "news": [
@@ -489,27 +489,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Eldeco Housing And Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELDECO_13022026175920_IntimationtoSEEarningsCallTranscript.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:47:05",
-      "an_dt": "11-Feb-2026 19:47:05",
-      "desc": "Updates",
-      "sm_name": "Eldeco Housing And Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELDECO_11022026194623_Disclosure_under_Reg_30-On_the_date_of_execution_of_agreement.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:06:29",
-      "an_dt": "11-Feb-2026 18:06:29",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Eldeco Housing And Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELDECO_11022026180602_11022026EarningsCallAudioRecordingQ3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 10:54:24",
-      "an_dt": "11-Feb-2026 10:54:24",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Eldeco Housing And Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELDECO_11022026105412_IntimationSENewspaperAdvertisementFinancialResults.pdf"
     }
   ]
 }

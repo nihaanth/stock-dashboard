@@ -8,17 +8,9 @@
   "price": 229.51,
   "market_cap_cr": 11135.14,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 275.4,
-      "prev_close": 283.45,
-      "volume": 924576,
-      "deliverable_qty": 468984,
-      "delivery_pct": 50.72
-    },
     {
       "date": "2026-02-12",
       "close": 267.8,
@@ -466,9 +458,24 @@
       "volume": 7156174,
       "deliverable_qty": 748093,
       "delivery_pct": 10.45
+    },
+    {
+      "date": "2026-05-13",
+      "close": 236.04,
+      "prev_close": 235.48,
+      "volume": 647154,
+      "deliverable_qty": 233526,
+      "delivery_pct": 36.09
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 23:24:21",
+      "an_dt": "13-May-2026 23:24:21",
+      "desc": "Allotment of Securities",
+      "sm_name": "Brainbees Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BRAINBEES_13052026232402_ESOPexercisedisclosureMay132026.pdf"
+    },
     {
       "sort_date": "2026-05-05 21:11:29",
       "an_dt": "05-May-2026 21:11:29",

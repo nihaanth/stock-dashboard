@@ -8,17 +8,9 @@
   "price": 435.45,
   "market_cap_cr": 4064.89,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 319.2,
-      "prev_close": 325.2,
-      "volume": 74458,
-      "deliverable_qty": 30054,
-      "delivery_pct": 40.36
-    },
     {
       "date": "2026-02-12",
       "close": 323.15,
@@ -466,6 +458,14 @@
       "volume": 164572,
       "deliverable_qty": 90113,
       "delivery_pct": 54.76
+    },
+    {
+      "date": "2026-05-13",
+      "close": 420.4,
+      "prev_close": 423.35,
+      "volume": 146799,
+      "deliverable_qty": 65213,
+      "delivery_pct": 44.42
     }
   ],
   "news": [
@@ -573,13 +573,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Ram Ratna Wires Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAMRATNA_13022026112755_Newspaper_Adv_Special_Window.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:11:20",
-      "an_dt": "11-Feb-2026 19:11:20",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Ram Ratna Wires Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAMRATNA_11022026191021_SE_Intimation_Investor_meet.pdf"
     }
   ]
 }

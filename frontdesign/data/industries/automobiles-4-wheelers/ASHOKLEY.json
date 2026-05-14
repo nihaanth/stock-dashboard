@@ -8,17 +8,9 @@
   "price": 161.52,
   "market_cap_cr": 94874.5,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 206.35,
-      "prev_close": 209.73,
-      "volume": 53661132,
-      "deliverable_qty": 13299833,
-      "delivery_pct": 24.78
-    },
     {
       "date": "2026-02-12",
       "close": 211.02,
@@ -466,6 +458,14 @@
       "volume": 15383319,
       "deliverable_qty": 7132543,
       "delivery_pct": 46.37
+    },
+    {
+      "date": "2026-05-13",
+      "close": 153.21,
+      "prev_close": 155.95,
+      "volume": 25946243,
+      "deliverable_qty": 13426202,
+      "delivery_pct": 51.75
     }
   ],
   "news": [
@@ -601,20 +601,6 @@
       "desc": "Rumour Verification - Regulation 30(11)",
       "sm_name": "Ashok Leyland Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASHOKLEY_12022026100639_79ALRumourverification12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:06:13",
-      "an_dt": "11-Feb-2026 16:06:13",
-      "desc": "News Verification",
-      "sm_name": "Ashok Leyland Limited",
-      "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-02-11 13:45:29",
-      "an_dt": "11-Feb-2026 13:45:29",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Ashok Leyland Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASHOKLEY_11022026134239_ALUFRQEDec312025.pdf"
     }
   ]
 }

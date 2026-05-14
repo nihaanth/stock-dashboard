@@ -8,17 +8,9 @@
   "price": 104.57,
   "market_cap_cr": 1182.53,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 80.76,
-      "prev_close": 82.13,
-      "volume": 153507,
-      "deliverable_qty": 62445,
-      "delivery_pct": 40.68
-    },
     {
       "date": "2026-02-12",
       "close": 80.0,
@@ -466,9 +458,45 @@
       "volume": 400540,
       "deliverable_qty": 250554,
       "delivery_pct": 62.55
+    },
+    {
+      "date": "2026-05-13",
+      "close": 102.21,
+      "prev_close": 101.93,
+      "volume": 435401,
+      "deliverable_qty": 217170,
+      "delivery_pct": 49.88
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 19:41:45",
+      "an_dt": "13-May-2026 19:41:45",
+      "desc": "Change in Management",
+      "sm_name": "Aeroflex Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATINDUSTRIES_13052026194131_outcomeofbm.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 19:17:27",
+      "an_dt": "13-May-2026 19:17:27",
+      "desc": "Investor Presentation",
+      "sm_name": "Aeroflex Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATINDUSTRIES_13052026191714_intimationfinalsigned.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 18:52:29",
+      "an_dt": "13-May-2026 18:52:29",
+      "desc": "Dividend",
+      "sm_name": "Aeroflex Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATINDUSTRIES_13052026185134_outcomeofbm.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 18:46:24",
+      "an_dt": "13-May-2026 18:46:24",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Aeroflex Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATINDUSTRIES_13052026184609_outcomefinalsigned.pdf"
+    },
     {
       "sort_date": "2026-05-07 12:36:27",
       "an_dt": "07-May-2026 12:36:27",

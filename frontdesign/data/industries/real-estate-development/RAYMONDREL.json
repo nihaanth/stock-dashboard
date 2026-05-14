@@ -8,17 +8,9 @@
   "price": 589.6,
   "market_cap_cr": 3923.87,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 467.55,
-      "prev_close": 478.05,
-      "volume": 108790,
-      "deliverable_qty": 68244,
-      "delivery_pct": 62.73
-    },
     {
       "date": "2026-02-12",
       "close": 460.45,
@@ -466,9 +458,24 @@
       "volume": 987650,
       "deliverable_qty": 362168,
       "delivery_pct": 36.67
+    },
+    {
+      "date": "2026-05-13",
+      "close": 574.15,
+      "prev_close": 567.2,
+      "volume": 1029209,
+      "deliverable_qty": 281673,
+      "delivery_pct": 27.37
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 17:03:14",
+      "an_dt": "13-May-2026 17:03:14",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Raymond Realty Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RRL_13052026170304_SE_Intimation_Transcript.pdf"
+    },
     {
       "sort_date": "2026-05-12 20:20:40",
       "an_dt": "12-May-2026 20:20:40",

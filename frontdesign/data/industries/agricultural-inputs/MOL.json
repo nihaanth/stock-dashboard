@@ -8,17 +8,9 @@
   "price": 56.39,
   "market_cap_cr": 1434.08,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 56.17,
-      "prev_close": 56.91,
-      "volume": 683398,
-      "deliverable_qty": 269724,
-      "delivery_pct": 39.47
-    },
     {
       "date": "2026-02-12",
       "close": 55.82,
@@ -466,9 +458,24 @@
       "volume": 626452,
       "deliverable_qty": 322640,
       "delivery_pct": 51.5
+    },
+    {
+      "date": "2026-05-13",
+      "close": 54.03,
+      "prev_close": 53.41,
+      "volume": 779675,
+      "deliverable_qty": 309979,
+      "delivery_pct": 39.76
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 14:49:03",
+      "an_dt": "13-May-2026 14:49:03",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Meghmani Organics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOL_13052026144726_ErningsCallFY26.pdf"
+    },
     {
       "sort_date": "2026-05-05 18:11:02",
       "an_dt": "05-May-2026 18:11:02",

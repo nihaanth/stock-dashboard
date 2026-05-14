@@ -8,17 +8,9 @@
   "price": 351.6,
   "market_cap_cr": 1952.46,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 370.45,
-      "prev_close": 374.75,
-      "volume": 134636,
-      "deliverable_qty": 81152,
-      "delivery_pct": 60.28
-    },
     {
       "date": "2026-02-12",
       "close": 351.1,
@@ -466,6 +458,14 @@
       "volume": 215516,
       "deliverable_qty": 101587,
       "delivery_pct": 47.14
+    },
+    {
+      "date": "2026-05-13",
+      "close": 334.45,
+      "prev_close": 332.4,
+      "volume": 139934,
+      "deliverable_qty": 48478,
+      "delivery_pct": 34.64
     }
   ],
   "news": [
@@ -671,13 +671,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "EMS Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMSLIMITED_13022026174330_Outcome_of_Board_Meeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:23:35",
-      "an_dt": "11-Feb-2026 18:23:35",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "EMS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMSLIMITED_11022026182232_Intimation_Earnings_CallQ3FY26.pdf"
     }
   ]
 }

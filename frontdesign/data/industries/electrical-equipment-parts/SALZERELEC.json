@@ -8,17 +8,9 @@
   "price": 772.05,
   "market_cap_cr": 1365.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 666.3,
-      "prev_close": 666.3,
-      "volume": 177402,
-      "deliverable_qty": 47453,
-      "delivery_pct": 26.75
-    },
     {
       "date": "2026-02-12",
       "close": 663.7,
@@ -466,6 +458,14 @@
       "volume": 234532,
       "deliverable_qty": 96114,
       "delivery_pct": 40.98
+    },
+    {
+      "date": "2026-05-13",
+      "close": 716.8,
+      "prev_close": 715.0,
+      "volume": 95084,
+      "deliverable_qty": 33777,
+      "delivery_pct": 35.52
     }
   ],
   "news": [
@@ -566,48 +566,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Salzer Electronics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SALZERELEC_12022026132140_DisclosureUnder30.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 21:23:45",
-      "an_dt": "11-Feb-2026 21:23:45",
-      "desc": "General Updates",
-      "sm_name": "Salzer Electronics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SALZERELEC_11022026212303_Intimation_of_re-appointment_of_MD.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 21:13:33",
-      "an_dt": "11-Feb-2026 21:13:33",
-      "desc": "General Updates",
-      "sm_name": "Salzer Electronics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SALZERELEC_11022026211242_OutcomeOfBM11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 21:02:41",
-      "an_dt": "11-Feb-2026 21:02:41",
-      "desc": "Investor Presentation",
-      "sm_name": "Salzer Electronics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SALZERELEC_11022026210218_PresentatinOnResultsOfQ3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 20:53:57",
-      "an_dt": "11-Feb-2026 20:53:57",
-      "desc": "Press Release",
-      "sm_name": "Salzer Electronics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SALZERELEC_11022026205346_MediaReleaseQ3M9FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:33:49",
-      "an_dt": "11-Feb-2026 16:33:49",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Salzer Electronics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SALZERELEC_11022026163337_OutcomeOfBM11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:32:45",
-      "an_dt": "11-Feb-2026 16:32:45",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Salzer Electronics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SALZERELEC_11022026162841_OutcomeOfBM11022026.pdf"
     }
   ]
 }

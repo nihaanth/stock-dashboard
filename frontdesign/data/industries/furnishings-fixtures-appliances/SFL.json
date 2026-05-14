@@ -8,17 +8,9 @@
   "price": 581.7,
   "market_cap_cr": 6323.71,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 608.1,
-      "prev_close": 612.95,
-      "volume": 69415,
-      "deliverable_qty": 32717,
-      "delivery_pct": 47.13
-    },
     {
       "date": "2026-02-12",
       "close": 591.2,
@@ -466,9 +458,24 @@
       "volume": 146834,
       "deliverable_qty": 72839,
       "delivery_pct": 49.61
+    },
+    {
+      "date": "2026-05-13",
+      "close": 540.4,
+      "prev_close": 556.65,
+      "volume": 149272,
+      "deliverable_qty": 71684,
+      "delivery_pct": 48.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 17:44:40",
+      "an_dt": "13-May-2026 17:44:40",
+      "desc": "Appointment",
+      "sm_name": "Sheela Foam Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SFL_13052026174432_Reg_30_Director_disclosure.pdf"
+    },
     {
       "sort_date": "2026-05-11 16:53:52",
       "an_dt": "11-May-2026 16:53:52",

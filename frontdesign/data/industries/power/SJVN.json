@@ -8,17 +8,9 @@
   "price": 77.37,
   "market_cap_cr": 30404.82,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 77.38,
-      "prev_close": 72.8,
-      "volume": 26862506,
-      "deliverable_qty": 5210508,
-      "delivery_pct": 19.4
-    },
     {
       "date": "2026-02-12",
       "close": 78.98,
@@ -466,9 +458,24 @@
       "volume": 3331792,
       "deliverable_qty": 1500265,
       "delivery_pct": 45.03
+    },
+    {
+      "date": "2026-05-13",
+      "close": 75.7,
+      "prev_close": 74.25,
+      "volume": 2753584,
+      "deliverable_qty": 980141,
+      "delivery_pct": 35.6
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 15:15:28",
+      "an_dt": "13-May-2026 15:15:28",
+      "desc": "Appointment",
+      "sm_name": "SJVN Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SJVN_13052026151510_sa-2.pdf"
+    },
     {
       "sort_date": "2026-05-11 16:27:39",
       "an_dt": "11-May-2026 16:27:39",
@@ -594,41 +601,6 @@
       "desc": "Updates",
       "sm_name": "SJVN Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SJVN_17022026182523_1.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:05:22",
-      "an_dt": "11-Feb-2026 15:05:22",
-      "desc": "Dividend",
-      "sm_name": "SJVN Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SJVN_11022026150506_1.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:03:52",
-      "an_dt": "11-Feb-2026 15:03:52",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "SJVN Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SJVN_11022026150243_1.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:01:14",
-      "an_dt": "11-Feb-2026 15:01:14",
-      "desc": "Record Date",
-      "sm_name": "SJVN Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SJVN_11022026150048_1.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:58:17",
-      "an_dt": "11-Feb-2026 14:58:17",
-      "desc": "Dividend",
-      "sm_name": "SJVN Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SJVN_11022026145738_1.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:53:37",
-      "an_dt": "11-Feb-2026 14:53:37",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "SJVN Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SJVN_11022026145322_1.pdf"
     }
   ]
 }

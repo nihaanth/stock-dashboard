@@ -8,17 +8,9 @@
   "price": 61.8,
   "market_cap_cr": 687.84,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 71.44,
-      "prev_close": 72.89,
-      "volume": 50896,
-      "deliverable_qty": 35062,
-      "delivery_pct": 68.89
-    },
     {
       "date": "2026-02-12",
       "close": 68.97,
@@ -466,9 +458,24 @@
       "volume": 265613,
       "deliverable_qty": 127274,
       "delivery_pct": 47.92
+    },
+    {
+      "date": "2026-05-13",
+      "close": 61.89,
+      "prev_close": 61.38,
+      "volume": 78328,
+      "deliverable_qty": 38619,
+      "delivery_pct": 49.3
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 13:40:43",
+      "an_dt": "13-May-2026 13:40:43",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Saurashtra Cement Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Saurashtra_13052026134022_Newspaper_Advertisement_-_March_2026.pdf"
+    },
     {
       "sort_date": "2026-05-12 14:17:58",
       "an_dt": "12-May-2026 14:17:58",
@@ -545,13 +552,6 @@
       "desc": "Trading Window",
       "sm_name": "Saurashtra Cement Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Saurashtra_27032026161908_Lettertoseclosureoftradingwindow142026__1_.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:32:53",
-      "an_dt": "11-Feb-2026 14:32:53",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Saurashtra Cement Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Saurashtra_11022026143238_LettertoSEnewspaperscuttings1122026__3_.pdf"
     }
   ]
 }

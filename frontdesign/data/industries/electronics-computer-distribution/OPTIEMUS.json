@@ -8,17 +8,9 @@
   "price": 430.15,
   "market_cap_cr": 3814.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 429.4,
-      "prev_close": 443.15,
-      "volume": 79451,
-      "deliverable_qty": 30855,
-      "delivery_pct": 38.84
-    },
     {
       "date": "2026-02-12",
       "close": 425.65,
@@ -466,6 +458,14 @@
       "volume": 209764,
       "deliverable_qty": 117588,
       "delivery_pct": 56.06
+    },
+    {
+      "date": "2026-05-13",
+      "close": 424.3,
+      "prev_close": 420.2,
+      "volume": 69607,
+      "deliverable_qty": 28925,
+      "delivery_pct": 41.55
     }
   ],
   "news": [
@@ -580,13 +580,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Optiemus Infracom Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/OPTIEMUS_13022026155906_OILUAFR31122025.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:17:15",
-      "an_dt": "11-Feb-2026 15:17:15",
-      "desc": "Updates",
-      "sm_name": "Optiemus Infracom Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OPTIEMUS_11022026151704_OILReportOnTransferRequestOfPhysicalSharesUnderSpecialWindow11022026.pdf"
     }
   ]
 }

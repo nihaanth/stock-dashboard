@@ -8,17 +8,9 @@
   "price": 1198.8,
   "market_cap_cr": 12541.39,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 1244.8,
-      "prev_close": 1282.3,
-      "volume": 102144,
-      "deliverable_qty": 35550,
-      "delivery_pct": 34.8
-    },
     {
       "date": "2026-02-12",
       "close": 1228.9,
@@ -466,6 +458,14 @@
       "volume": 200225,
       "deliverable_qty": 104983,
       "delivery_pct": 52.43
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1131.0,
+      "prev_close": 1127.2,
+      "volume": 104571,
+      "deliverable_qty": 39691,
+      "delivery_pct": 37.96
     }
   ],
   "news": [
@@ -538,34 +538,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Concord Biotech Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CONCORD_12022026182054_Newspaper_Publication_Q326.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 23:06:28",
-      "an_dt": "11-Feb-2026 23:06:28",
-      "desc": "Investor Presentation",
-      "sm_name": "Concord Biotech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CONCORD_11022026230544_Investor_Presentation_Q3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 20:46:16",
-      "an_dt": "11-Feb-2026 20:46:16",
-      "desc": "General Updates",
-      "sm_name": "Concord Biotech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CONCORD_11022026204607_Materiality_of_Event.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 20:25:47",
-      "an_dt": "11-Feb-2026 20:25:47",
-      "desc": "Change in Company Secretary/Compliance Officer",
-      "sm_name": "Concord Biotech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CONCORD_11022026202528_Appointment_of_CS.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:27:38",
-      "an_dt": "11-Feb-2026 19:27:38",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Concord Biotech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CONCORD_11022026191732_Outcome.pdf"
     }
   ]
 }

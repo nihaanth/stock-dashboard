@@ -8,17 +8,9 @@
   "price": 163.1,
   "market_cap_cr": 7146.77,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 217.07,
-      "prev_close": 217.87,
-      "volume": 681542,
-      "deliverable_qty": 389959,
-      "delivery_pct": 57.22
-    },
     {
       "date": "2026-02-12",
       "close": 211.92,
@@ -466,9 +458,24 @@
       "volume": 1241136,
       "deliverable_qty": 630942,
       "delivery_pct": 50.84
+    },
+    {
+      "date": "2026-05-13",
+      "close": 164.43,
+      "prev_close": 156.8,
+      "volume": 1266895,
+      "deliverable_qty": 503615,
+      "delivery_pct": 39.75
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 12:25:56",
+      "an_dt": "13-May-2026 12:25:56",
+      "desc": "Updates",
+      "sm_name": "Le Travenues Technology Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IXIGO_13052026122522_Announcement_MediaRelease_ixigo_13052026.pdf"
+    },
     {
       "sort_date": "2026-05-08 10:56:13",
       "an_dt": "08-May-2026 10:56:13",
@@ -783,20 +790,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Le Travenues Technology Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IXIGO_12022026193123_Announcement_Reg_30_Outcome_of_Analysts_Investors_Meetings_12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:46:30",
-      "an_dt": "11-Feb-2026 19:46:30",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Le Travenues Technology Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IXIGO_11022026194611_Announcement_Reg_30_Outcome_of_Analysts_Investors_Meetings_11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 10:45:27",
-      "an_dt": "11-Feb-2026 10:45:27",
-      "desc": "Updates",
-      "sm_name": "Le Travenues Technology Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IXIGO_11022026104517_Announcement_Media_Release_ixigo_cabs_11022026.pdf"
     }
   ]
 }

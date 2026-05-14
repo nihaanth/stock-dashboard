@@ -8,17 +8,9 @@
   "price": 94.28,
   "market_cap_cr": 2005.26,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 48.4,
-      "prev_close": 48.69,
-      "volume": 429895,
-      "deliverable_qty": 210410,
-      "delivery_pct": 48.94
-    },
     {
       "date": "2026-02-12",
       "close": 47.35,
@@ -466,9 +458,24 @@
       "volume": 6003048,
       "deliverable_qty": 1898371,
       "delivery_pct": 31.62
+    },
+    {
+      "date": "2026-05-13",
+      "close": 92.98,
+      "prev_close": 93.73,
+      "volume": 17250907,
+      "deliverable_qty": 4496573,
+      "delivery_pct": 26.07
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 09:43:30",
+      "an_dt": "13-May-2026 09:43:30",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Vidya Wires Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIDYAWIRES_ROID_85553_KMP_Doc.zip"
+    },
     {
       "sort_date": "2026-05-12 20:01:43",
       "an_dt": "12-May-2026 20:01:43",
@@ -566,13 +573,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Vidya Wires Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIDYAWIRESLTD_25022026165742_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:56:08",
-      "an_dt": "11-Feb-2026 17:56:08",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Vidya Wires Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIDYAWIRESLTD_11022026175557_Submission.pdf"
     }
   ]
 }

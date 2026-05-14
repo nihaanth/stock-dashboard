@@ -8,17 +8,9 @@
   "price": 456.0,
   "market_cap_cr": 74173.31,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 479.25,
-      "prev_close": 488.85,
-      "volume": 8900941,
-      "deliverable_qty": 5152490,
-      "delivery_pct": 57.89
-    },
     {
       "date": "2026-02-12",
       "close": 474.85,
@@ -466,9 +458,38 @@
       "volume": 31731906,
       "deliverable_qty": 7964594,
       "delivery_pct": 25.1
+    },
+    {
+      "date": "2026-05-13",
+      "close": 507.1,
+      "prev_close": 490.95,
+      "volume": 10297489,
+      "deliverable_qty": 2708382,
+      "delivery_pct": 26.3
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 18:06:40",
+      "an_dt": "13-May-2026 18:06:40",
+      "desc": "Dividend",
+      "sm_name": "Oil India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OIL_13052026180557_Dividendsigned.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 17:59:40",
+      "an_dt": "13-May-2026 17:59:40",
+      "desc": "Press Release",
+      "sm_name": "Oil India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OIL_13052026175804_PressReleasesigned.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 17:50:00",
+      "an_dt": "13-May-2026 17:50:00",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Oil India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OIL_13052026174842_Outcomesigned.pdf"
+    },
     {
       "sort_date": "2026-05-05 13:22:08",
       "an_dt": "05-May-2026 13:22:08",
@@ -594,13 +615,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Oil India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/OIL_17022026161855_TranscriptConCall_Final_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:31:22",
-      "an_dt": "11-Feb-2026 18:31:22",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Oil India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OIL_11022026183058_CONCALLQ326AUDIOSIGNED.pdf"
     }
   ]
 }

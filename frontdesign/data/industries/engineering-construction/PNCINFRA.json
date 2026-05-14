@@ -8,17 +8,9 @@
   "price": 221.91,
   "market_cap_cr": 5692.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 223.69,
-      "prev_close": 231.96,
-      "volume": 317212,
-      "deliverable_qty": 181658,
-      "delivery_pct": 57.27
-    },
     {
       "date": "2026-02-12",
       "close": 220.16,
@@ -466,9 +458,24 @@
       "volume": 562595,
       "deliverable_qty": 352757,
       "delivery_pct": 62.7
+    },
+    {
+      "date": "2026-05-13",
+      "close": 220.51,
+      "prev_close": 218.75,
+      "volume": 291163,
+      "deliverable_qty": 121310,
+      "delivery_pct": 41.66
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 15:31:07",
+      "an_dt": "13-May-2026 15:31:07",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "PNC Infratech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNCINFRA_13052026153030_Libidder13052026.pdf"
+    },
     {
       "sort_date": "2026-05-12 19:40:33",
       "an_dt": "12-May-2026 19:40:33",
@@ -622,13 +629,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "PNC Infratech Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNCINFRA_15022026205447_Investormeet15022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:07:05",
-      "an_dt": "11-Feb-2026 15:07:05",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "PNC Infratech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNCINFRA_11022026150656_NewspaperAd11022026.pdf"
     }
   ]
 }

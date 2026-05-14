@@ -8,17 +8,9 @@
   "price": 1853.3,
   "market_cap_cr": 14087.25,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 1746.7,
-      "prev_close": 1731.7,
-      "volume": 54196,
-      "deliverable_qty": 23491,
-      "delivery_pct": 43.34
-    },
     {
       "date": "2026-02-12",
       "close": 1736.8,
@@ -466,6 +458,14 @@
       "volume": 69891,
       "deliverable_qty": 41661,
       "delivery_pct": 59.61
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1841.8,
+      "prev_close": 1815.0,
+      "volume": 65257,
+      "deliverable_qty": 29719,
+      "delivery_pct": 45.54
     }
   ],
   "news": [
@@ -524,13 +524,6 @@
       "desc": "Press Release",
       "sm_name": "Caplin Point Laboratories Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPLINPOINT_24022026123910_Press_release_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 21:39:15",
-      "an_dt": "11-Feb-2026 21:39:15",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Caplin Point Laboratories Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPLINPOINT_11022026213703_SE_Transcript.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 6520.0,
   "market_cap_cr": 20055.25,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 3551.8,
-      "prev_close": 3637.4,
-      "volume": 417447,
-      "deliverable_qty": 114950,
-      "delivery_pct": 27.54
-    },
     {
       "date": "2026-02-12",
       "close": 3560.6,
@@ -466,9 +458,31 @@
       "volume": 679655,
       "deliverable_qty": 152604,
       "delivery_pct": 22.45
+    },
+    {
+      "date": "2026-05-13",
+      "close": 6763.5,
+      "prev_close": 6248.5,
+      "volume": 4519966,
+      "deliverable_qty": 579175,
+      "delivery_pct": 12.81
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 14:11:32",
+      "an_dt": "13-May-2026 14:11:32",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Mtar Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MTARTECH_13052026141120_Audio_Recordings.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 00:42:42",
+      "an_dt": "13-May-2026 00:42:42",
+      "desc": "Investor Presentation",
+      "sm_name": "Mtar Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MTARTECH_13052026004231_MTAR_Q4_FY26_IP_Final.pdf"
+    },
     {
       "sort_date": "2026-05-12 19:21:45",
       "an_dt": "12-May-2026 19:21:45",

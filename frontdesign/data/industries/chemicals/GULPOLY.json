@@ -8,17 +8,9 @@
   "price": 192.65,
   "market_cap_cr": 1197.96,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 163.7,
-      "prev_close": 145.44,
-      "volume": 2190934,
-      "deliverable_qty": 676845,
-      "delivery_pct": 30.89
-    },
     {
       "date": "2026-02-12",
       "close": 162.87,
@@ -466,9 +458,24 @@
       "volume": 341303,
       "deliverable_qty": 137090,
       "delivery_pct": 40.17
+    },
+    {
+      "date": "2026-05-13",
+      "close": 191.62,
+      "prev_close": 186.1,
+      "volume": 370793,
+      "deliverable_qty": 132188,
+      "delivery_pct": 35.65
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 18:46:32",
+      "an_dt": "13-May-2026 18:46:32",
+      "desc": "Awarding of order(s)/contract(s)",
+      "sm_name": "Gulshan Polyols Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GULPOLY_13052026184622_Intimation13052026.pdf"
+    },
     {
       "sort_date": "2026-05-06 18:32:37",
       "an_dt": "06-May-2026 18:32:37",
@@ -580,20 +587,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Gulshan Polyols Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GULPOLY_12022026153714_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:28:46",
-      "an_dt": "11-Feb-2026 16:28:46",
-      "desc": "Updates",
-      "sm_name": "Gulshan Polyols Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GULPOLY_11022026162837_INTIMATION.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 11:44:27",
-      "an_dt": "11-Feb-2026 11:44:27",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Gulshan Polyols Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GULPOLY_11022026114310_Intimation.pdf"
     }
   ]
 }

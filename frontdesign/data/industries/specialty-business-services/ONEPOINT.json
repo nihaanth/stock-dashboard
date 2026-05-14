@@ -8,17 +8,9 @@
   "price": 60.8,
   "market_cap_cr": 1595.98,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 49.09,
-      "prev_close": 49.62,
-      "volume": 476796,
-      "deliverable_qty": 238653,
-      "delivery_pct": 50.05
-    },
     {
       "date": "2026-02-12",
       "close": 48.61,
@@ -466,6 +458,14 @@
       "volume": 1599698,
       "deliverable_qty": 838512,
       "delivery_pct": 52.42
+    },
+    {
+      "date": "2026-05-13",
+      "close": 61.14,
+      "prev_close": 60.34,
+      "volume": 2124909,
+      "deliverable_qty": 1138104,
+      "delivery_pct": 53.56
     }
   ],
   "news": [
@@ -594,27 +594,6 @@
       "desc": "Investor Presentation",
       "sm_name": "One Point One Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ONEPOINT_12022026112943_ONEPOINTONE.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 23:37:49",
-      "an_dt": "11-Feb-2026 23:37:49",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "One Point One Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ONEPOINT_11022026233709_ONEPOINT.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 13:05:08",
-      "an_dt": "11-Feb-2026 13:05:08",
-      "desc": "Press Release",
-      "sm_name": "One Point One Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ONEPOINT_11022026130442_ONEPOINT.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 12:47:10",
-      "an_dt": "11-Feb-2026 12:47:10",
-      "desc": "Investor Presentation",
-      "sm_name": "One Point One Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ONEPOINT_11022026124608_ONEPOINT.pdf"
     }
   ]
 }

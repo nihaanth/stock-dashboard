@@ -8,17 +8,9 @@
   "price": 77.66,
   "market_cap_cr": 78009.74,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 77.58,
-      "prev_close": 76.95,
-      "volume": 13906623,
-      "deliverable_qty": 7343076,
-      "delivery_pct": 52.8
-    },
     {
       "date": "2026-02-12",
       "close": 76.5,
@@ -466,9 +458,24 @@
       "volume": 11491788,
       "deliverable_qty": 4247767,
       "delivery_pct": 36.96
+    },
+    {
+      "date": "2026-05-13",
+      "close": 78.14,
+      "prev_close": 76.77,
+      "volume": 11438834,
+      "deliverable_qty": 4803436,
+      "delivery_pct": 41.99
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 18:02:47",
+      "an_dt": "13-May-2026 18:02:47",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "NHPC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NHPC_13052026180154_STX_Concall_update_.pdf"
+    },
     {
       "sort_date": "2026-05-11 18:34:56",
       "an_dt": "11-May-2026 18:34:56",
@@ -636,13 +643,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "NHPC Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NHPC_12022026183633_STX_Transcript_Concall_12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:26:51",
-      "an_dt": "11-Feb-2026 18:26:51",
-      "desc": "General Updates",
-      "sm_name": "NHPC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NHPC_11022026182633_STX_ESG_Rating_SES.pdf"
     }
   ]
 }

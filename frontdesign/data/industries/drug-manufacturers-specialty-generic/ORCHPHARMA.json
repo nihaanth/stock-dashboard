@@ -8,17 +8,9 @@
   "price": 720.05,
   "market_cap_cr": 3652.03,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 689.8,
-      "prev_close": 688.55,
-      "volume": 44956,
-      "deliverable_qty": 28619,
-      "delivery_pct": 63.66
-    },
     {
       "date": "2026-02-12",
       "close": 672.2,
@@ -466,6 +458,14 @@
       "volume": 111632,
       "deliverable_qty": 62977,
       "delivery_pct": 56.41
+    },
+    {
+      "date": "2026-05-13",
+      "close": 695.55,
+      "prev_close": 708.65,
+      "volume": 100374,
+      "deliverable_qty": 59545,
+      "delivery_pct": 59.32
     }
   ],
   "news": [
@@ -531,34 +531,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Orchid Pharma Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORCHPHARMA_12022026183145_Stx_ltr_recording.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:32:22",
-      "an_dt": "11-Feb-2026 19:32:22",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Orchid Pharma Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORCHPHARMA_11022026193155_Stx_MAR.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:13:07",
-      "an_dt": "11-Feb-2026 19:13:07",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Orchid Pharma Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORCHPHARMA_11022026191246_Stx_Ltr_presentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:46:09",
-      "an_dt": "11-Feb-2026 17:46:09",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Orchid Pharma Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORCHPHARMA_11022026174542_Stx_ltr_outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:42:05",
-      "an_dt": "11-Feb-2026 17:42:05",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Orchid Pharma Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORCHPHARMA_11022026173906_Stx_ltr_outcome.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 846.65,
   "market_cap_cr": 22059.43,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 854.9,
-      "prev_close": 854.75,
-      "volume": 1062969,
-      "deliverable_qty": 644359,
-      "delivery_pct": 60.62
-    },
     {
       "date": "2026-02-12",
       "close": 852.85,
@@ -466,9 +458,24 @@
       "volume": 1525808,
       "deliverable_qty": 915261,
       "delivery_pct": 59.99
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1062.9,
+      "prev_close": 1057.7,
+      "volume": 907690,
+      "deliverable_qty": 449206,
+      "delivery_pct": 49.49
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 15:51:33",
+      "an_dt": "13-May-2026 15:51:33",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "PNB Housing Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNBHOUSING_13052026154934_Regulation_30_Allotment_of_Equity_Shares__May_26_sd.pdf"
+    },
     {
       "sort_date": "2026-05-07 21:35:18",
       "an_dt": "07-May-2026 21:35:18",
@@ -657,13 +664,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "PNB Housing Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNBHOUSING_18022026164534_PNB_Housing_Intimation_on_meeting_with_Investors.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:09:36",
-      "an_dt": "11-Feb-2026 14:09:36",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "PNB Housing Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNBHOUSING_11022026140757_PostalBallotNewspaperPublicationsd.pdf"
     }
   ]
 }

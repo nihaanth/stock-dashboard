@@ -8,17 +8,9 @@
   "price": 201.08,
   "market_cap_cr": 1069.87,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 208.42,
-      "prev_close": 218.42,
-      "volume": 109926,
-      "deliverable_qty": 81274,
-      "delivery_pct": 73.94
-    },
     {
       "date": "2026-02-12",
       "close": 201.02,
@@ -466,6 +458,14 @@
       "volume": 69512,
       "deliverable_qty": 39466,
       "delivery_pct": 56.78
+    },
+    {
+      "date": "2026-05-13",
+      "close": 216.84,
+      "prev_close": 214.7,
+      "volume": 64394,
+      "deliverable_qty": 34829,
+      "delivery_pct": 54.09
     }
   ],
   "news": [
@@ -538,13 +538,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Tarsons Products Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TARSONS_06032026155543_Postal_ballot_intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:41:55",
-      "an_dt": "11-Feb-2026 17:41:55",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Tarsons Products Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TARSONS_11022026174126_SE_Intimation_TranscriptQ3FY26.pdf"
     }
   ]
 }

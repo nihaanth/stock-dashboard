@@ -8,17 +8,9 @@
   "price": 67.78,
   "market_cap_cr": 1032.18,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 67.36,
-      "prev_close": 71.04,
-      "volume": 175518,
-      "deliverable_qty": 74265,
-      "delivery_pct": 42.31
-    },
     {
       "date": "2026-02-12",
       "close": 66.97,
@@ -466,6 +458,14 @@
       "volume": 44932,
       "deliverable_qty": 24039,
       "delivery_pct": 53.5
+    },
+    {
+      "date": "2026-05-13",
+      "close": 66.43,
+      "prev_close": 66.57,
+      "volume": 33151,
+      "deliverable_qty": 18764,
+      "delivery_pct": 56.6
     }
   ],
   "news": [
@@ -489,27 +489,6 @@
       "desc": "Updates",
       "sm_name": "AVT Natural Products Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVTNPL_27022026171114_AVTNPL_FINRES31122025.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:49:13",
-      "an_dt": "11-Feb-2026 16:49:13",
-      "desc": "Record Date",
-      "sm_name": "AVT Natural Products Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVTNPL_11022026164738_Intimation_of_Record_Date_for_Interim_Dividend-signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:44:44",
-      "an_dt": "11-Feb-2026 16:44:44",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "AVT Natural Products Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVTNPL_11022026164302_AVTNPLQ3FINANCIALRESULTSOUTCOMEOFBOARDMEETING.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:12:05",
-      "an_dt": "11-Feb-2026 14:12:05",
-      "desc": "Dividend",
-      "sm_name": "AVT Natural Products Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVTNPL_11022026141109_AVTNPLQ3FINANCIALRESULTSOUTCOMEOFBOARDMEETING.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 205.2,
   "market_cap_cr": 9861.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 226.15,
-      "prev_close": 228.34,
-      "volume": 593814,
-      "deliverable_qty": 233974,
-      "delivery_pct": 39.4
-    },
     {
       "date": "2026-02-12",
       "close": 222.65,
@@ -466,6 +458,14 @@
       "volume": 605310,
       "deliverable_qty": 313628,
       "delivery_pct": 51.81
+    },
+    {
+      "date": "2026-05-13",
+      "close": 212.69,
+      "prev_close": 211.8,
+      "volume": 364339,
+      "deliverable_qty": 156178,
+      "delivery_pct": 42.87
     }
   ],
   "news": [
@@ -629,13 +629,6 @@
       "desc": "Change in Management",
       "sm_name": "RITES Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RITES_13022026103546_IntimationSigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:59:11",
-      "an_dt": "11-Feb-2026 16:59:11",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "RITES Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RITES_11022026165853_InvestorsMeetTranscriptSigned.pdf"
     }
   ]
 }

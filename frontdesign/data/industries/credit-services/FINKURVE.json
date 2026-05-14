@@ -8,17 +8,9 @@
   "price": 63.16,
   "market_cap_cr": 886.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 92.94,
-      "prev_close": 93.46,
-      "volume": 32139,
-      "deliverable_qty": 4934,
-      "delivery_pct": 15.35
-    },
     {
       "date": "2026-02-12",
       "close": 87.97,
@@ -466,9 +458,24 @@
       "volume": 85492,
       "deliverable_qty": 59477,
       "delivery_pct": 69.57
+    },
+    {
+      "date": "2026-05-13",
+      "close": 70.23,
+      "prev_close": 67.1,
+      "volume": 70450,
+      "deliverable_qty": 56988,
+      "delivery_pct": 80.89
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 12:11:25",
+      "an_dt": "13-May-2026 12:11:25",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_13052026121108_Board_Meeting_Outcome_to_upload.pdf"
+    },
     {
       "sort_date": "2026-05-09 17:08:07",
       "an_dt": "09-May-2026 17:08:07",
@@ -706,20 +713,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Finkurve Financial Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_13022026155537_transcript_to_be_uploaded.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 13:19:02",
-      "an_dt": "11-Feb-2026 13:19:02",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Finkurve Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_11022026131850_MA_report_to_be_uploaded.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 12:42:24",
-      "an_dt": "11-Feb-2026 12:42:24",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Finkurve Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_11022026124206_Board_Meeting_Outcome.pdf"
     }
   ]
 }

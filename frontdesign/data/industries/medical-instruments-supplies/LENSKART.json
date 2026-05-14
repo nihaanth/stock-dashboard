@@ -8,17 +8,9 @@
   "price": 549.2,
   "market_cap_cr": 94964.13,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 467.6,
-      "prev_close": 475.4,
-      "volume": 1618039,
-      "deliverable_qty": 864465,
-      "delivery_pct": 53.43
-    },
     {
       "date": "2026-02-12",
       "close": 513.0,
@@ -466,6 +458,14 @@
       "volume": 7867865,
       "deliverable_qty": 5038784,
       "delivery_pct": 64.04
+    },
+    {
+      "date": "2026-05-13",
+      "close": 476.95,
+      "prev_close": 475.95,
+      "volume": 7106499,
+      "deliverable_qty": 4217861,
+      "delivery_pct": 59.35
     }
   ],
   "news": [
@@ -573,41 +573,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Lenskart Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LENSKART_12022026001620_Reg30_-_Audio_Recording_FR_-_SE_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:17:40",
-      "an_dt": "11-Feb-2026 16:17:40",
-      "desc": "General Updates",
-      "sm_name": "Lenskart Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LENSKART_11022026161726_Reg30_-_Shareholders_Letter_-_SE_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:49:41",
-      "an_dt": "11-Feb-2026 15:49:41",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Lenskart Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LENSKART_11022026154930_Reg30_-_Outcome_BM_-_SE_Intimation_Financials.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:48:16",
-      "an_dt": "11-Feb-2026 15:48:16",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Lenskart Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LENSKART_11022026154802_Reg30_-_Outcome_BM_-_SE_Intimation_ESOP_Acquisition.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:46:37",
-      "an_dt": "11-Feb-2026 15:46:37",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Lenskart Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LENSKART_11022026154512_Reg30_-_Outcome_BM_-_SE_Intimation_ESOP_Acquisition.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:34:08",
-      "an_dt": "11-Feb-2026 15:34:08",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Lenskart Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LENSKART_11022026153141_Reg30_-_Outcome_BM_-_SE_Intimation_Financials.pdf"
     }
   ]
 }

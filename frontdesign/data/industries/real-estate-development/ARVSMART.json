@@ -8,17 +8,9 @@
   "price": 626.1,
   "market_cap_cr": 2871.73,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 581.2,
-      "prev_close": 604.55,
-      "volume": 29469,
-      "deliverable_qty": 14725,
-      "delivery_pct": 49.97
-    },
     {
       "date": "2026-02-12",
       "close": 570.75,
@@ -466,6 +458,14 @@
       "volume": 48618,
       "deliverable_qty": 26148,
       "delivery_pct": 53.78
+    },
+    {
+      "date": "2026-05-13",
+      "close": 593.05,
+      "prev_close": 592.25,
+      "volume": 19364,
+      "deliverable_qty": 10259,
+      "delivery_pct": 52.98
     }
   ],
   "news": [
@@ -601,27 +601,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Arvind SmartSpaces Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_13022026172802_PostalBallotNoticetoSE.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:20:10",
-      "an_dt": "11-Feb-2026 18:20:10",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Arvind SmartSpaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_11022026182002_ASLOutcomeOfConcallAudioRecording.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 11:22:42",
-      "an_dt": "11-Feb-2026 11:22:42",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Arvind SmartSpaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_11022026112233_IntimationScheduleOfAnalystMeet110202026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 11:10:45",
-      "an_dt": "11-Feb-2026 11:10:45",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Arvind SmartSpaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_11022026111036_NewspaperResultsQ3FY26.pdf"
     }
   ]
 }

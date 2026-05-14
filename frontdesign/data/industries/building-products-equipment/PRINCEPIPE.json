@@ -8,17 +8,9 @@
   "price": 240.37,
   "market_cap_cr": 2658.07,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 271.67,
-      "prev_close": 259.31,
-      "volume": 1476004,
-      "deliverable_qty": 232802,
-      "delivery_pct": 15.77
-    },
     {
       "date": "2026-02-12",
       "close": 271.75,
@@ -466,6 +458,14 @@
       "volume": 220430,
       "deliverable_qty": 116811,
       "delivery_pct": 52.99
+    },
+    {
+      "date": "2026-05-13",
+      "close": 246.05,
+      "prev_close": 241.1,
+      "volume": 96860,
+      "deliverable_qty": 42902,
+      "delivery_pct": 44.29
     }
   ],
   "news": [
@@ -517,20 +517,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Prince Pipes And Fittings Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRINCEPIPE_17022026170654_SE.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:14:04",
-      "an_dt": "11-Feb-2026 16:14:04",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Prince Pipes And Fittings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRINCEPIPE_11022026161157_SE.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:06:07",
-      "an_dt": "11-Feb-2026 16:06:07",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Prince Pipes And Fittings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRINCEPIPE_11022026160524_SE_1.pdf"
     }
   ]
 }

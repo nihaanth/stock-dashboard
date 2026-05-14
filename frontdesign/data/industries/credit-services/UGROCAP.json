@@ -8,17 +8,9 @@
   "price": 100.73,
   "market_cap_cr": 1539.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 135.65,
-      "prev_close": 135.22,
-      "volume": 331152,
-      "deliverable_qty": 168710,
-      "delivery_pct": 50.95
-    },
     {
       "date": "2026-02-12",
       "close": 135.08,
@@ -466,6 +458,14 @@
       "volume": 267637,
       "deliverable_qty": 115541,
       "delivery_pct": 43.17
+    },
+    {
+      "date": "2026-05-13",
+      "close": 99.33,
+      "prev_close": 99.66,
+      "volume": 181840,
+      "deliverable_qty": 74254,
+      "delivery_pct": 40.83
     }
   ],
   "news": [
@@ -769,20 +769,6 @@
       "desc": "Monitoring Agency Report",
       "sm_name": "Ugro Capital Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_13022026114253_IntimationofMonitoringAgencyreport31122025.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:16:31",
-      "an_dt": "11-Feb-2026 19:16:31",
-      "desc": "Allotment of Securities",
-      "sm_name": "Ugro Capital Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_11022026191600_DisclosureunderReg30AllotmentofSecurities.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:06:13",
-      "an_dt": "11-Feb-2026 19:06:13",
-      "desc": "Suspension of Trading",
-      "sm_name": "Ugro Capital Limited",
-      "attchmntFile": "-"
     }
   ]
 }

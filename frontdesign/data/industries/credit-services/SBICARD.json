@@ -8,17 +8,9 @@
   "price": 641.5,
   "market_cap_cr": 61045.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 768.85,
-      "prev_close": 765.9,
-      "volume": 1417949,
-      "deliverable_qty": 888062,
-      "delivery_pct": 62.63
-    },
     {
       "date": "2026-02-12",
       "close": 772.8,
@@ -466,9 +458,24 @@
       "volume": 1923654,
       "deliverable_qty": 1200691,
       "delivery_pct": 62.42
+    },
+    {
+      "date": "2026-05-13",
+      "close": 634.15,
+      "prev_close": 625.1,
+      "volume": 1997260,
+      "deliverable_qty": 970081,
+      "delivery_pct": 48.57
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 18:20:22",
+      "an_dt": "13-May-2026 18:20:22",
+      "desc": "Updates",
+      "sm_name": "SBI Cards and Payment Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBICPSL_13052026181953_SEFilingASCR2026.pdf"
+    },
     {
       "sort_date": "2026-05-02 19:53:12",
       "an_dt": "02-May-2026 19:53:12",

@@ -8,17 +8,9 @@
   "price": 515.65,
   "market_cap_cr": 16283.79,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 497.5,
-      "prev_close": 495.2,
-      "volume": 245157,
-      "deliverable_qty": 121682,
-      "delivery_pct": 49.63
-    },
     {
       "date": "2026-02-12",
       "close": 512.25,
@@ -466,9 +458,24 @@
       "volume": 340524,
       "deliverable_qty": 220044,
       "delivery_pct": 64.62
+    },
+    {
+      "date": "2026-05-13",
+      "close": 518.5,
+      "prev_close": 522.95,
+      "volume": 155832,
+      "deliverable_qty": 78124,
+      "delivery_pct": 50.13
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 17:19:32",
+      "an_dt": "13-May-2026 17:19:32",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Elgi Equipments Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELGIEQUIP_13052026171836_InvestorConcallPriorintimationMay2026.pdf"
+    },
     {
       "sort_date": "2026-05-07 19:04:40",
       "an_dt": "07-May-2026 19:04:40",
@@ -650,27 +657,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Elgi Equipments Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELGIEQUIP_12022026093813_IntimationPresentation12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:27:35",
-      "an_dt": "11-Feb-2026 17:27:35",
-      "desc": "General Updates",
-      "sm_name": "Elgi Equipments Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELGIEQUIP_11022026172724_REG305EEL11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:18:53",
-      "an_dt": "11-Feb-2026 17:18:53",
-      "desc": "Press Release",
-      "sm_name": "Elgi Equipments Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELGIEQUIP_11022026171830_Pressrelease31122025.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:04:13",
-      "an_dt": "11-Feb-2026 17:04:13",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Elgi Equipments Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELGIEQUIP_11022026170251_EELBMOutcome31122025.pdf"
     }
   ]
 }

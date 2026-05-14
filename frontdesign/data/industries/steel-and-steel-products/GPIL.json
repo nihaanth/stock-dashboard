@@ -8,17 +8,9 @@
   "price": 289.1,
   "market_cap_cr": 18758.68,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 258.21,
-      "prev_close": 260.21,
-      "volume": 1193942,
-      "deliverable_qty": 609248,
-      "delivery_pct": 51.03
-    },
     {
       "date": "2026-02-12",
       "close": 265.4,
@@ -466,9 +458,24 @@
       "volume": 2287551,
       "deliverable_qty": 1099437,
       "delivery_pct": 48.06
+    },
+    {
+      "date": "2026-05-13",
+      "close": 290.0,
+      "prev_close": 282.3,
+      "volume": 2569171,
+      "deliverable_qty": 1216238,
+      "delivery_pct": 47.34
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 16:57:49",
+      "an_dt": "13-May-2026 16:57:49",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Godawari Power And Ispat limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPIL_13052026165720_GPILNSEBSEMAREPORT1302026.pdf"
+    },
     {
       "sort_date": "2026-05-07 12:57:58",
       "an_dt": "07-May-2026 12:57:58",
@@ -741,13 +748,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Godawari Power And Ispat limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPIL_12022026154829_GPILNSEBSENOTICEOFEGM12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:17:32",
-      "an_dt": "11-Feb-2026 17:17:32",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Godawari Power And Ispat limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPIL_11022026171710_GPILNSEBSETRANSCRIPTOFCONFERENCECALL11022026.pdf"
     }
   ]
 }

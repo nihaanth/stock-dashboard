@@ -8,17 +8,9 @@
   "price": 366.4,
   "market_cap_cr": 2537.81,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 211.76,
-      "prev_close": 215.18,
-      "volume": 58970,
-      "deliverable_qty": 25227,
-      "delivery_pct": 42.78
-    },
     {
       "date": "2026-02-12",
       "close": 211.36,
@@ -466,6 +458,14 @@
       "volume": 814571,
       "deliverable_qty": 300699,
       "delivery_pct": 36.92
+    },
+    {
+      "date": "2026-05-13",
+      "close": 494.8,
+      "prev_close": 490.45,
+      "volume": 474412,
+      "deliverable_qty": 203009,
+      "delivery_pct": 42.79
     }
   ],
   "news": [
@@ -601,20 +601,6 @@
       "desc": "Awarding of order(s)/contract(s)",
       "sm_name": "DEE Development Engineers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DDEL_20022026124302_BSENSESIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:31:29",
-      "an_dt": "11-Feb-2026 16:31:29",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "DEE Development Engineers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DDEL_11022026163106_NSEBSESIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:33:44",
-      "an_dt": "11-Feb-2026 14:33:44",
-      "desc": "General Updates",
-      "sm_name": "DEE Development Engineers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DDEL_11022026143313_NSEBSESIGNED.pdf"
     }
   ]
 }

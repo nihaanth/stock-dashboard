@@ -8,17 +8,9 @@
   "price": 3575.1,
   "market_cap_cr": 14422.5,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 4065.6,
-      "prev_close": 4006.7,
-      "volume": 225030,
-      "deliverable_qty": 105214,
-      "delivery_pct": 46.76
-    },
     {
       "date": "2026-02-12",
       "close": 3988.0,
@@ -466,6 +458,14 @@
       "volume": 173636,
       "deliverable_qty": 87094,
       "delivery_pct": 50.16
+    },
+    {
+      "date": "2026-05-13",
+      "close": 3202.8,
+      "prev_close": 3142.8,
+      "volume": 145777,
+      "deliverable_qty": 55935,
+      "delivery_pct": 38.37
     }
   ],
   "news": [
@@ -734,20 +734,6 @@
       "desc": "Loss of Share Certificates",
       "sm_name": "CEAT Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CEATLTD_12022026154445_SELetterLossSC12Feb2026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:29:40",
-      "an_dt": "11-Feb-2026 18:29:40",
-      "desc": "Issue of Duplicate Share Certificate",
-      "sm_name": "CEAT Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CEATLTD_11022026182933_SELetterDuplicateSC11022026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:20:45",
-      "an_dt": "11-Feb-2026 18:20:45",
-      "desc": "Loss of Share Certificates",
-      "sm_name": "CEAT Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CEATLTD_11022026182039_SELetterLossSC11Feb2026signed.pdf"
     }
   ]
 }

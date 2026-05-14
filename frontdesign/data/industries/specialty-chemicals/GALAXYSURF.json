@@ -8,17 +8,9 @@
   "price": 1876.3,
   "market_cap_cr": 6652.38,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 1924.9,
-      "prev_close": 1946.6,
-      "volume": 4836,
-      "deliverable_qty": 2741,
-      "delivery_pct": 56.68
-    },
     {
       "date": "2026-02-12",
       "close": 1870.0,
@@ -466,9 +458,24 @@
       "volume": 15199,
       "deliverable_qty": 8074,
       "delivery_pct": 53.12
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1848.2,
+      "prev_close": 1871.3,
+      "volume": 7732,
+      "deliverable_qty": 4119,
+      "delivery_pct": 53.27
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 19:43:13",
+      "an_dt": "13-May-2026 19:43:13",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Galaxy Surfactants Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GALAXYSURF_13052026194256_grantintimationds.pdf"
+    },
     {
       "sort_date": "2026-05-07 16:08:29",
       "an_dt": "07-May-2026 16:08:29",

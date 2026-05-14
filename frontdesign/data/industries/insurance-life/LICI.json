@@ -8,17 +8,9 @@
   "price": 803.65,
   "market_cap_cr": 508308.44,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 875.3,
-      "prev_close": 891.7,
-      "volume": 2030353,
-      "deliverable_qty": 702665,
-      "delivery_pct": 34.61
-    },
     {
       "date": "2026-02-12",
       "close": 880.95,
@@ -466,9 +458,24 @@
       "volume": 1434407,
       "deliverable_qty": 707831,
       "delivery_pct": 49.35
+    },
+    {
+      "date": "2026-05-13",
+      "close": 787.05,
+      "prev_close": 780.75,
+      "volume": 882880,
+      "deliverable_qty": 304760,
+      "delivery_pct": 34.52
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 23:13:23",
+      "an_dt": "13-May-2026 23:13:23",
+      "desc": "Change in Management",
+      "sm_name": "Life Insurance Corporation Of India",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LIC_BOARD_13052026231314_Intimation_GND_13052026.pdf"
+    },
     {
       "sort_date": "2026-05-06 16:54:46",
       "an_dt": "06-May-2026 16:54:46",

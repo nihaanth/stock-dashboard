@@ -8,17 +8,9 @@
   "price": 384.05,
   "market_cap_cr": 2868.92,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 418.75,
-      "prev_close": 425.65,
-      "volume": 144000,
-      "deliverable_qty": 79989,
-      "delivery_pct": 55.55
-    },
     {
       "date": "2026-02-12",
       "close": 416.25,
@@ -466,6 +458,14 @@
       "volume": 440246,
       "deliverable_qty": 174214,
       "delivery_pct": 39.57
+    },
+    {
+      "date": "2026-05-13",
+      "close": 398.8,
+      "prev_close": 389.0,
+      "volume": 171160,
+      "deliverable_qty": 84027,
+      "delivery_pct": 49.09
     }
   ],
   "news": [
@@ -657,13 +657,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Medi Assist Healthcare Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDIASSIST_12022026174256_MAHS_transcript_feb26-signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 13:55:07",
-      "an_dt": "11-Feb-2026 13:55:07",
-      "desc": "Updates",
-      "sm_name": "Medi Assist Healthcare Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDIASSIST_11022026135452_SE_intimation_on_submission_of_reclassification_application.pdf"
     }
   ]
 }

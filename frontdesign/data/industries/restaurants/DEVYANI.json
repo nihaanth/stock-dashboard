@@ -8,17 +8,9 @@
   "price": 116.04,
   "market_cap_cr": 14307.03,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 135.52,
-      "prev_close": 136.75,
-      "volume": 2109266,
-      "deliverable_qty": 908627,
-      "delivery_pct": 43.08
-    },
     {
       "date": "2026-02-12",
       "close": 133.89,
@@ -466,6 +458,14 @@
       "volume": 1942929,
       "deliverable_qty": 817018,
       "delivery_pct": 42.05
+    },
+    {
+      "date": "2026-05-13",
+      "close": 118.46,
+      "prev_close": 114.08,
+      "volume": 3156181,
+      "deliverable_qty": 1103238,
+      "delivery_pct": 34.95
     }
   ],
   "news": [
@@ -566,13 +566,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Devyani International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DEVYANI_19022026155054_SE_Intimation_-_Investor_ConferenceSd.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:51:46",
-      "an_dt": "11-Feb-2026 17:51:46",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Devyani International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DEVYANI_11022026175100_DIL_Transcript_DSC.pdf"
     }
   ]
 }

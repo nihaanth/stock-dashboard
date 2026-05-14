@@ -8,17 +8,9 @@
   "price": 889.1,
   "market_cap_cr": 12492.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 983.55,
-      "prev_close": 950.4,
-      "volume": 359713,
-      "deliverable_qty": 39508,
-      "delivery_pct": 10.98
-    },
     {
       "date": "2026-02-12",
       "close": 982.9,
@@ -466,9 +458,59 @@
       "volume": 186944,
       "deliverable_qty": 25542,
       "delivery_pct": 13.66
+    },
+    {
+      "date": "2026-05-13",
+      "close": 896.65,
+      "prev_close": 858.95,
+      "volume": 383134,
+      "deliverable_qty": 127039,
+      "delivery_pct": 33.16
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 20:54:52",
+      "an_dt": "13-May-2026 20:54:52",
+      "desc": "Investor Presentation",
+      "sm_name": "Signatureglobal (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLOBAL_13052026205422_pptsigned.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 20:44:37",
+      "an_dt": "13-May-2026 20:44:37",
+      "desc": "Press Release",
+      "sm_name": "Signatureglobal (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLOBAL_13052026204425_prsigned.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 20:39:28",
+      "an_dt": "13-May-2026 20:39:28",
+      "desc": "Updates",
+      "sm_name": "Signatureglobal (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLOBAL_13052026203920_kpisigned.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 20:23:18",
+      "an_dt": "13-May-2026 20:23:18",
+      "desc": "Change in Director(s)",
+      "sm_name": "Signatureglobal (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLOBAL_13052026202303_bmoutcomesigned.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 20:21:48",
+      "an_dt": "13-May-2026 20:21:48",
+      "desc": "Change in Auditors",
+      "sm_name": "Signatureglobal (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLOBAL_13052026202130_bmoutcomesigned.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 20:09:20",
+      "an_dt": "13-May-2026 20:09:20",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Signatureglobal (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLOBAL_13052026200824_bmoutcomesigned.pdf"
+    },
     {
       "sort_date": "2026-05-09 15:37:12",
       "an_dt": "09-May-2026 15:37:12",
@@ -622,13 +664,6 @@
       "desc": "Agreements",
       "sm_name": "Signatureglobal (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLOBAL_14022026113859_outcome14febsign.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 13:23:32",
-      "an_dt": "11-Feb-2026 13:23:32",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Signatureglobal (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLOBAL_11022026132310_transcriptsigned.pdf"
     }
   ]
 }

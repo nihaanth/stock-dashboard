@@ -8,17 +8,9 @@
   "price": 2500.2,
   "market_cap_cr": 342763.48,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 2234.4,
-      "prev_close": 2228.4,
-      "volume": 682320,
-      "deliverable_qty": 263783,
-      "delivery_pct": 38.66
-    },
     {
       "date": "2026-02-12",
       "close": 2211.8,
@@ -466,9 +458,24 @@
       "volume": 1459022,
       "deliverable_qty": 498271,
       "delivery_pct": 34.15
+    },
+    {
+      "date": "2026-05-13",
+      "close": 2498.0,
+      "prev_close": 2405.2,
+      "volume": 2036291,
+      "deliverable_qty": 663308,
+      "delivery_pct": 32.57
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 18:51:40",
+      "an_dt": "13-May-2026 18:51:40",
+      "desc": "Committee Meeting Updates",
+      "sm_name": "Adani Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADANIENT_13052026185124_outcomeofRIcommittee13052026.pdf"
+    },
     {
       "sort_date": "2026-05-12 18:23:19",
       "an_dt": "12-May-2026 18:23:19",
@@ -825,20 +832,6 @@
       "desc": "Incorporation",
       "sm_name": "Adani Enterprises Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/nishant_joshi_adani_com_13022026180704_AELintimationACX.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 20:39:42",
-      "an_dt": "11-Feb-2026 20:39:42",
-      "desc": "Suspension of Trading",
-      "sm_name": "Adani Enterprises Limited",
-      "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-02-11 20:24:56",
-      "an_dt": "11-Feb-2026 20:24:56",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Adani Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/kuntal_chandya_adani_com_11022026202430_AELIntimation11022026.pdf"
     }
   ]
 }

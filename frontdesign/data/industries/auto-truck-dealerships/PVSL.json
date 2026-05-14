@@ -8,17 +8,9 @@
   "price": 107.61,
   "market_cap_cr": 766.16,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 112.94,
-      "prev_close": 121.01,
-      "volume": 119385,
-      "deliverable_qty": 75816,
-      "delivery_pct": 63.51
-    },
     {
       "date": "2026-02-12",
       "close": 109.16,
@@ -466,6 +458,14 @@
       "volume": 25234,
       "deliverable_qty": 14652,
       "delivery_pct": 58.06
+    },
+    {
+      "date": "2026-05-13",
+      "close": 104.91,
+      "prev_close": 103.7,
+      "volume": 48399,
+      "deliverable_qty": 20133,
+      "delivery_pct": 41.6
     }
   ],
   "news": [
@@ -741,20 +741,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Popular Vehicles and Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/9072530155_18022026182254_DisclosuretranscriptFINALSD.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:40:38",
-      "an_dt": "11-Feb-2026 17:40:38",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Popular Vehicles and Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9072530155_11022026174012_DisclosureonaudiorecordingSD.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 13:04:56",
-      "an_dt": "11-Feb-2026 13:04:56",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Popular Vehicles and Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9072530155_11022026130357_DisclosureNWS-FinalSD.pdf"
     }
   ]
 }

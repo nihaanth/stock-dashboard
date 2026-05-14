@@ -8,17 +8,9 @@
   "price": 387.15,
   "market_cap_cr": 1662.07,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 450.85,
-      "prev_close": 445.35,
-      "volume": 115403,
-      "deliverable_qty": 60506,
-      "delivery_pct": 52.43
-    },
     {
       "date": "2026-02-12",
       "close": 442.6,
@@ -466,6 +458,14 @@
       "volume": 142654,
       "deliverable_qty": 73398,
       "delivery_pct": 51.45
+    },
+    {
+      "date": "2026-05-13",
+      "close": 386.8,
+      "prev_close": 384.75,
+      "volume": 97423,
+      "deliverable_qty": 51164,
+      "delivery_pct": 52.52
     }
   ],
   "news": [
@@ -524,13 +524,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "GNA Axles Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GNA_14032026162426_SCRREPORTLETTER.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 12:44:33",
-      "an_dt": "11-Feb-2026 12:44:33",
-      "desc": "Shareholders meeting",
-      "sm_name": "GNA Axles Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GNA_11022026124421_POSTALBALLOTINTIMATION.pdf"
     }
   ]
 }

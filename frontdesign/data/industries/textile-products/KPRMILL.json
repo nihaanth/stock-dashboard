@@ -8,17 +8,9 @@
   "price": 937.6,
   "market_cap_cr": 32114.91,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 907.45,
-      "prev_close": 950.75,
-      "volume": 702315,
-      "deliverable_qty": 308487,
-      "delivery_pct": 43.92
-    },
     {
       "date": "2026-02-12",
       "close": 897.8,
@@ -466,9 +458,24 @@
       "volume": 529211,
       "deliverable_qty": 130429,
       "delivery_pct": 24.65
+    },
+    {
+      "date": "2026-05-13",
+      "close": 915.05,
+      "prev_close": 921.45,
+      "volume": 255375,
+      "deliverable_qty": 86174,
+      "delivery_pct": 33.74
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 17:06:10",
+      "an_dt": "13-May-2026 17:06:10",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "K.P.R. Mill Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KPRMILL_13052026170529_NewspaperAdvertisment.pdf"
+    },
     {
       "sort_date": "2026-05-12 13:45:00",
       "an_dt": "12-May-2026 13:45:00",
@@ -559,13 +566,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "K.P.R. Mill Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KPRMILL_12022026170913_ANALYST_MEET_INTIMATION.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:00:42",
-      "an_dt": "11-Feb-2026 18:00:42",
-      "desc": "Investor Presentation",
-      "sm_name": "K.P.R. Mill Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KPRMILL_11022026180010_Investor_Presentation_31122025_SD.pdf"
     }
   ]
 }

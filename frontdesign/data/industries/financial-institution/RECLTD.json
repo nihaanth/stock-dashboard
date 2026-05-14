@@ -8,17 +8,9 @@
   "price": 351.55,
   "market_cap_cr": 92570.98,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 353.95,
-      "prev_close": 355.8,
-      "volume": 8989825,
-      "deliverable_qty": 5229423,
-      "delivery_pct": 58.17
-    },
     {
       "date": "2026-02-12",
       "close": 350.7,
@@ -466,6 +458,14 @@
       "volume": 5222169,
       "deliverable_qty": 2395605,
       "delivery_pct": 45.87
+    },
+    {
+      "date": "2026-05-13",
+      "close": 346.55,
+      "prev_close": 344.35,
+      "volume": 4765260,
+      "deliverable_qty": 2132402,
+      "delivery_pct": 44.75
     }
   ],
   "news": [
@@ -650,13 +650,6 @@
       "desc": "General Updates",
       "sm_name": "REC Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RECLTD_12022026164041_Signed_Intimation_of_sale_and_transfer_SPV.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 13:09:39",
-      "an_dt": "11-Feb-2026 13:09:39",
-      "desc": "Change in Management",
-      "sm_name": "REC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RECLTD_11022026130907_Signed_Intimation_regarding_change_in_Senior_Management.pdf"
     }
   ]
 }

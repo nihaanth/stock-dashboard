@@ -8,17 +8,9 @@
   "price": 537.25,
   "market_cap_cr": 3241.52,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 527.2,
-      "prev_close": 563.45,
-      "volume": 1597938,
-      "deliverable_qty": 522435,
-      "delivery_pct": 32.69
-    },
     {
       "date": "2026-02-12",
       "close": 529.9,
@@ -466,6 +458,14 @@
       "volume": 175694,
       "deliverable_qty": 83639,
       "delivery_pct": 47.6
+    },
+    {
+      "date": "2026-05-13",
+      "close": 514.05,
+      "prev_close": 505.95,
+      "volume": 140787,
+      "deliverable_qty": 42429,
+      "delivery_pct": 30.14
     }
   ],
   "news": [
@@ -524,27 +524,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Sandhar Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANDHAR_12022026124049_STL_Newspaper_Publication_Results_11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:57:52",
-      "an_dt": "11-Feb-2026 16:57:52",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Sandhar Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANDHAR_11022026165632_STL_Conference_Call_Intimation_11_Feb__2026_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:31:22",
-      "an_dt": "11-Feb-2026 14:31:22",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Sandhar Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANDHAR_11022026142840_STL_outcome_BM_11_02_2026_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:27:12",
-      "an_dt": "11-Feb-2026 14:27:12",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Sandhar Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANDHAR_11022026142652_STL_outcome_BM_11_02_2026_signed.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 98.62,
   "market_cap_cr": 586.84,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 118.6,
-      "prev_close": 116.76,
-      "volume": 23967,
-      "deliverable_qty": 18470,
-      "delivery_pct": 77.06
-    },
     {
       "date": "2026-02-12",
       "close": 111.75,
@@ -466,6 +458,14 @@
       "volume": 83317,
       "deliverable_qty": 52805,
       "delivery_pct": 63.38
+    },
+    {
+      "date": "2026-05-13",
+      "close": 97.05,
+      "prev_close": 99.06,
+      "volume": 122537,
+      "deliverable_qty": 80771,
+      "delivery_pct": 65.92
     }
   ],
   "news": [
@@ -531,20 +531,6 @@
       "desc": "Investor Presentation",
       "sm_name": "Linc Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIPANKARDE_12022026145630_Earnings_Presentation_Q3_2526_S.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 20:09:50",
-      "an_dt": "11-Feb-2026 20:09:50",
-      "desc": "Press Release",
-      "sm_name": "Linc Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIPANKARDE_11022026200846_Press_Release_Q3_2526_S.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:39:26",
-      "an_dt": "11-Feb-2026 19:39:26",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Linc Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIPANKARDE_11022026193555_UFR_Q3_2526_S.pdf"
     }
   ]
 }

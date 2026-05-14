@@ -8,17 +8,9 @@
   "price": 689.2,
   "market_cap_cr": 2107.78,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 650.05,
-      "prev_close": 645.25,
-      "volume": 9489,
-      "deliverable_qty": 5872,
-      "delivery_pct": 61.88
-    },
     {
       "date": "2026-02-12",
       "close": 657.85,
@@ -466,9 +458,24 @@
       "volume": 34408,
       "deliverable_qty": 23061,
       "delivery_pct": 67.02
+    },
+    {
+      "date": "2026-05-13",
+      "close": 694.4,
+      "prev_close": 718.65,
+      "volume": 19120,
+      "deliverable_qty": 10240,
+      "delivery_pct": 53.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 17:08:32",
+      "an_dt": "13-May-2026 17:08:32",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Divgi Torqtransfer Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIVGITTS_13052026170823_DTTS_MA_Report_FinalSubmission_signed.pdf"
+    },
     {
       "sort_date": "2026-04-13 15:41:57",
       "an_dt": "13-Apr-2026 15:41:57",
@@ -594,13 +601,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Divgi Torqtransfer Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIVGITTS_12022026181213_DTTS_BM_Outcome_FinalSubmission_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:23:24",
-      "an_dt": "11-Feb-2026 18:23:24",
-      "desc": "Press Release",
-      "sm_name": "Divgi Torqtransfer Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIVGITTS_11022026182312_2_DTTS_PressRelease_MM_BusinessAward_110226_Final_signed.pdf"
     }
   ]
 }

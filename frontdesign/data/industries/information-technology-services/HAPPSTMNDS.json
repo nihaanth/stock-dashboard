@@ -8,17 +8,9 @@
   "price": 380.3,
   "market_cap_cr": 5714.46,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 392.55,
-      "prev_close": 393.6,
-      "volume": 356587,
-      "deliverable_qty": 157916,
-      "delivery_pct": 44.29
-    },
     {
       "date": "2026-02-12",
       "close": 380.7,
@@ -466,6 +458,14 @@
       "volume": 846073,
       "deliverable_qty": 377478,
       "delivery_pct": 44.62
+    },
+    {
+      "date": "2026-05-13",
+      "close": 353.9,
+      "prev_close": 359.95,
+      "volume": 547578,
+      "deliverable_qty": 183372,
+      "delivery_pct": 33.49
     }
   ],
   "news": [
@@ -552,20 +552,6 @@
       "desc": "Updates",
       "sm_name": "Happiest Minds Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/suhask_13022026184021_EarningsCallTranscirpt13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:20:08",
-      "an_dt": "11-Feb-2026 19:20:08",
-      "desc": "Updates",
-      "sm_name": "Happiest Minds Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/suhask_11022026191948_Communicationtoshareholders11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:21:13",
-      "an_dt": "11-Feb-2026 17:21:13",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Happiest Minds Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/suhask_11022026172042_Reg47NewspaperPublication11022026.pdf"
     }
   ]
 }

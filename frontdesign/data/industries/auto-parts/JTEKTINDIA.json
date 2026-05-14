@@ -8,17 +8,9 @@
   "price": 141.82,
   "market_cap_cr": 3934.04,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 145.09,
-      "prev_close": 151.87,
-      "volume": 680990,
-      "deliverable_qty": 154722,
-      "delivery_pct": 22.72
-    },
     {
       "date": "2026-02-12",
       "close": 142.35,
@@ -466,6 +458,14 @@
       "volume": 107324,
       "deliverable_qty": 62040,
       "delivery_pct": 57.81
+    },
+    {
+      "date": "2026-05-13",
+      "close": 136.82,
+      "prev_close": 135.59,
+      "volume": 129812,
+      "deliverable_qty": 63014,
+      "delivery_pct": 48.54
     }
   ],
   "news": [
@@ -531,27 +531,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Jtekt India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JTEKTINDIA_12022026104937_Financial_Results_Newspaper.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:11:45",
-      "an_dt": "11-Feb-2026 14:11:45",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Jtekt India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JTEKTINDIA_11022026141132_Monitoring_Agency_Report.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:02:49",
-      "an_dt": "11-Feb-2026 14:02:49",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Jtekt India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JTEKTINDIA_11022026140221_Financial_Results.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:00:34",
-      "an_dt": "11-Feb-2026 14:00:34",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Jtekt India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JTEKTINDIA_11022026135338_Financial_Results.pdf"
     }
   ]
 }

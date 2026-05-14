@@ -8,17 +8,9 @@
   "price": 1093.9,
   "market_cap_cr": 8043.39,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 914.65,
-      "prev_close": 931.0,
-      "volume": 482290,
-      "deliverable_qty": 103980,
-      "delivery_pct": 21.56
-    },
     {
       "date": "2026-02-12",
       "close": 886.95,
@@ -466,6 +458,14 @@
       "volume": 53331,
       "deliverable_qty": 26178,
       "delivery_pct": 49.09
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1061.8,
+      "prev_close": 1054.0,
+      "volume": 27380,
+      "deliverable_qty": 12593,
+      "delivery_pct": 45.99
     }
   ],
   "news": [
@@ -608,13 +608,6 @@
       "desc": "Change in Management",
       "sm_name": "Isgec Heavy Engineering Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ISGEC_16022026114316_Signed_Intimation_Change_in_Mgt_Anup_Bhargava_16022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:10:29",
-      "an_dt": "11-Feb-2026 17:10:29",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Isgec Heavy Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ISGEC_11022026171012_Signed_Intimation_Newspaper_Publication_Hindi_11022026.pdf"
     }
   ]
 }

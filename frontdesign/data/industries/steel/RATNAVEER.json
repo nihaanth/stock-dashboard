@@ -8,17 +8,9 @@
   "price": 177.92,
   "market_cap_cr": 1207.55,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 151.02,
-      "prev_close": 153.15,
-      "volume": 340001,
-      "deliverable_qty": 160274,
-      "delivery_pct": 47.14
-    },
     {
       "date": "2026-02-12",
       "close": 152.04,
@@ -466,9 +458,24 @@
       "volume": 1580959,
       "deliverable_qty": 805175,
       "delivery_pct": 50.93
+    },
+    {
+      "date": "2026-05-13",
+      "close": 178.36,
+      "prev_close": 167.32,
+      "volume": 6062312,
+      "deliverable_qty": 1616935,
+      "delivery_pct": 26.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 00:55:56",
+      "an_dt": "13-May-2026 00:55:56",
+      "desc": "Appointment",
+      "sm_name": "Ratnaveer Precision Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RATNAVEER_13052026005545_Appointment_of_Independent_Director_Final_signed.pdf"
+    },
     {
       "sort_date": "2026-05-12 23:53:10",
       "an_dt": "12-May-2026 23:53:10",

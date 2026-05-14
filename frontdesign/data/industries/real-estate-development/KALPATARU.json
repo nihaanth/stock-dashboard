@@ -8,17 +8,9 @@
   "price": 302.8,
   "market_cap_cr": 6235.08,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 332.95,
-      "prev_close": 333.75,
-      "volume": 23055,
-      "deliverable_qty": 11630,
-      "delivery_pct": 50.44
-    },
     {
       "date": "2026-02-12",
       "close": 350.5,
@@ -466,9 +458,38 @@
       "volume": 573412,
       "deliverable_qty": 298564,
       "delivery_pct": 52.07
+    },
+    {
+      "date": "2026-05-13",
+      "close": 346.1,
+      "prev_close": 379.25,
+      "volume": 3118153,
+      "deliverable_qty": 513344,
+      "delivery_pct": 16.46
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 18:35:23",
+      "an_dt": "13-May-2026 18:35:23",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Kalpataru Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IMREVATINAIR_13052026183454_Intimation_of_Newspaper_Publication_final.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 18:24:31",
+      "an_dt": "13-May-2026 18:24:31",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Kalpataru Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IMREVATINAIR_13052026182419_KL_Audio_Recording_of_earning_call.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 18:07:22",
+      "an_dt": "13-May-2026 18:07:22",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Kalpataru Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IMREVATINAIR_13052026180703_KL_Earning_Call_Outcome.pdf"
+    },
     {
       "sort_date": "2026-05-12 21:38:19",
       "an_dt": "12-May-2026 21:38:19",

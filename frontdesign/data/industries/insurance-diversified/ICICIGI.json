@@ -8,17 +8,9 @@
   "price": 1782.2,
   "market_cap_cr": 88853.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 1931.7,
-      "prev_close": 1909.6,
-      "volume": 577577,
-      "deliverable_qty": 360092,
-      "delivery_pct": 62.35
-    },
     {
       "date": "2026-02-12",
       "close": 1919.8,
@@ -466,9 +458,24 @@
       "volume": 837247,
       "deliverable_qty": 596129,
       "delivery_pct": 71.2
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1804.2,
+      "prev_close": 1782.8,
+      "volume": 604280,
+      "deliverable_qty": 365722,
+      "delivery_pct": 60.52
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 20:44:09",
+      "an_dt": "13-May-2026 20:44:09",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Lombard General Insurance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIGI_13052026204238_ESOSIntimationMayII.pdf"
+    },
     {
       "sort_date": "2026-05-12 11:45:42",
       "an_dt": "12-May-2026 11:45:42",
@@ -727,13 +734,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "ICICI Lombard General Insurance Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIGI_13022026080726_ESOSIntimationFebII.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:54:50",
-      "an_dt": "11-Feb-2026 18:54:50",
-      "desc": "General Updates",
-      "sm_name": "ICICI Lombard General Insurance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIGI_11022026185003_ScheduleofAnalystMeetPreIntimation11020226.pdf"
     }
   ]
 }

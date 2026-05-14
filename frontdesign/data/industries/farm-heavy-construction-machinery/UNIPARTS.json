@@ -8,17 +8,9 @@
   "price": 496.5,
   "market_cap_cr": 2241.78,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 513.4,
-      "prev_close": 524.25,
-      "volume": 77597,
-      "deliverable_qty": 43777,
-      "delivery_pct": 56.42
-    },
     {
       "date": "2026-02-12",
       "close": 516.65,
@@ -466,6 +458,14 @@
       "volume": 116680,
       "deliverable_qty": 75989,
       "delivery_pct": 65.13
+    },
+    {
+      "date": "2026-05-13",
+      "close": 537.7,
+      "prev_close": 537.55,
+      "volume": 96739,
+      "deliverable_qty": 61917,
+      "delivery_pct": 64.0
     }
   ],
   "news": [
@@ -531,13 +531,6 @@
       "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
       "sm_name": "Uniparts India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Earth_2018_12022026183539_Intimationdated12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 11:02:14",
-      "an_dt": "11-Feb-2026 11:02:14",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Uniparts India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Earth_2018_11022026110206_Q325Newpaperpublicationofresults.pdf"
     }
   ]
 }

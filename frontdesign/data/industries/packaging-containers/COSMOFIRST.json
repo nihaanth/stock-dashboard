@@ -8,17 +8,9 @@
   "price": 779.5,
   "market_cap_cr": 2023.44,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 663.35,
-      "prev_close": 660.1,
-      "volume": 288623,
-      "deliverable_qty": 121368,
-      "delivery_pct": 42.05
-    },
     {
       "date": "2026-02-12",
       "close": 700.0,
@@ -466,6 +458,14 @@
       "volume": 83404,
       "deliverable_qty": 43547,
       "delivery_pct": 52.21
+    },
+    {
+      "date": "2026-05-13",
+      "close": 763.75,
+      "prev_close": 762.85,
+      "volume": 81210,
+      "deliverable_qty": 43473,
+      "delivery_pct": 53.53
     }
   ],
   "news": [
@@ -573,27 +573,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "COSMO FIRST LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSMOFILMS_12022026115550_Newspaper_Publication.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:33:31",
-      "an_dt": "11-Feb-2026 17:33:31",
-      "desc": "Press Release",
-      "sm_name": "COSMO FIRST LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSMOFILMS_11022026173240_Intimation_PressRelease.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:23:33",
-      "an_dt": "11-Feb-2026 17:23:33",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "COSMO FIRST LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSMOFILMS_11022026172215_Outcome_11022025.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:19:36",
-      "an_dt": "11-Feb-2026 17:19:36",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "COSMO FIRST LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSMOFILMS_11022026171832_Outcome_11022025.pdf"
     }
   ]
 }

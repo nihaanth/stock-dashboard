@@ -8,17 +8,9 @@
   "price": 343.85,
   "market_cap_cr": 2388.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 362.85,
-      "prev_close": 393.3,
-      "volume": 816171,
-      "deliverable_qty": 264615,
-      "delivery_pct": 32.42
-    },
     {
       "date": "2026-02-12",
       "close": 337.05,
@@ -466,6 +458,14 @@
       "volume": 91107,
       "deliverable_qty": 44840,
       "delivery_pct": 49.22
+    },
+    {
+      "date": "2026-05-13",
+      "close": 341.05,
+      "prev_close": 327.05,
+      "volume": 110647,
+      "deliverable_qty": 43890,
+      "delivery_pct": 39.67
     }
   ],
   "news": [
@@ -510,13 +510,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "HLE Glascoat Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HLEGLASCOAT_13022026160752_NEWSPAPERADVERTISEMENT_UFRQ32025_26_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 10:58:20",
-      "an_dt": "11-Feb-2026 10:58:20",
-      "desc": "Press Release",
-      "sm_name": "HLE Glascoat Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HLEGLASCOAT_11022026105207_HGL_Investor_Release_Q3FY26.pdf"
     }
   ]
 }

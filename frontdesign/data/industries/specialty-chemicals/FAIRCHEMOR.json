@@ -8,17 +8,9 @@
   "price": 605.85,
   "market_cap_cr": 763.12,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 636.3,
-      "prev_close": 648.35,
-      "volume": 9622,
-      "deliverable_qty": 7671,
-      "delivery_pct": 79.72
-    },
     {
       "date": "2026-02-12",
       "close": 662.7,
@@ -466,6 +458,14 @@
       "volume": 30269,
       "deliverable_qty": 24465,
       "delivery_pct": 80.83
+    },
+    {
+      "date": "2026-05-13",
+      "close": 606.5,
+      "prev_close": 590.4,
+      "volume": 6926,
+      "deliverable_qty": 2910,
+      "delivery_pct": 42.02
     }
   ],
   "news": [
@@ -573,13 +573,6 @@
       "desc": "Trading Window",
       "sm_name": "Fairchem Organics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FAIRCHEMOR_23032026132153_Intimation_Trading_Window_Closure_23032026_F.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 13:49:37",
-      "an_dt": "11-Feb-2026 13:49:37",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Fairchem Organics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FAIRCHEMOR_11022026134930_Transcript_Concall_09022026.pdf"
     }
   ]
 }

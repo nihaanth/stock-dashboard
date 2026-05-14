@@ -8,17 +8,9 @@
   "price": 166.73,
   "market_cap_cr": 26859.74,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 168.26,
-      "prev_close": 166.69,
-      "volume": 19816201,
-      "deliverable_qty": 12238577,
-      "delivery_pct": 61.76
-    },
     {
       "date": "2026-02-12",
       "close": 169.54,
@@ -466,9 +458,24 @@
       "volume": 11160160,
       "deliverable_qty": 4857094,
       "delivery_pct": 43.52
+    },
+    {
+      "date": "2026-05-13",
+      "close": 194.88,
+      "prev_close": 196.07,
+      "volume": 11577289,
+      "deliverable_qty": 4738457,
+      "delivery_pct": 40.93
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 19:20:38",
+      "an_dt": "13-May-2026 19:20:38",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Bandhan Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANDHANBNK_13052026192008_SE_IntimationESOPAllotmentMay2026.pdf"
+    },
     {
       "sort_date": "2026-05-07 18:37:18",
       "an_dt": "07-May-2026 18:37:18",
@@ -755,20 +762,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Bandhan Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANDHANBNK_12022026173407_SE_Disclosure_BM_Outcome_120226_ID_CIV_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 20:15:50",
-      "an_dt": "11-Feb-2026 20:15:50",
-      "desc": "General Updates",
-      "sm_name": "Bandhan Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANDHANBNK_11022026201500_SE_Disclosure_Investors_Conferences_Outcome_11022026_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 20:01:18",
-      "an_dt": "11-Feb-2026 20:01:18",
-      "desc": "General Updates",
-      "sm_name": "Bandhan Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANDHANBNK_11022026195935_SE_Disclosure_RBI_Approval_ICICIPruAMC_Acquisition_11022026_sd.pdf"
     }
   ]
 }

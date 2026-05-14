@@ -8,17 +8,9 @@
   "price": 4211.6,
   "market_cap_cr": 65828.85,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 3814.4,
-      "prev_close": 3961.4,
-      "volume": 61515,
-      "deliverable_qty": 29024,
-      "delivery_pct": 47.18
-    },
     {
       "date": "2026-02-12",
       "close": 3806.0,
@@ -466,9 +458,24 @@
       "volume": 58680,
       "deliverable_qty": 34434,
       "delivery_pct": 58.68
+    },
+    {
+      "date": "2026-05-13",
+      "close": 4110.4,
+      "prev_close": 4082.3,
+      "volume": 60369,
+      "deliverable_qty": 30419,
+      "delivery_pct": 50.39
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 09:42:35",
+      "an_dt": "13-May-2026 09:42:35",
+      "desc": "Press Release",
+      "sm_name": "Schaeffler India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SCHAEFFLERUSER1_13052026094226_Schaeffler_Reg30_PressRelease_May132026.pdf"
+    },
     {
       "sort_date": "2026-05-06 14:24:26",
       "an_dt": "06-May-2026 14:24:26",

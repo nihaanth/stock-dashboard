@@ -8,17 +8,9 @@
   "price": 424.45,
   "market_cap_cr": 1762.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 458.7,
-      "prev_close": 441.85,
-      "volume": 268379,
-      "deliverable_qty": 76537,
-      "delivery_pct": 28.52
-    },
     {
       "date": "2026-02-12",
       "close": 426.8,
@@ -466,6 +458,14 @@
       "volume": 43017,
       "deliverable_qty": 25140,
       "delivery_pct": 58.44
+    },
+    {
+      "date": "2026-05-13",
+      "close": 369.25,
+      "prev_close": 371.85,
+      "volume": 74545,
+      "deliverable_qty": 50179,
+      "delivery_pct": 67.31
     }
   ],
   "news": [
@@ -531,13 +531,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Landmark Cars Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LANDMARK_12022026124414_NewspaperAdDecember312025.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:09:45",
-      "an_dt": "11-Feb-2026 14:09:45",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Landmark Cars Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LANDMARK_11022026140727_OutcomeEarningCall11022026.pdf"
     }
   ]
 }

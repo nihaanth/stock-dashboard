@@ -8,17 +8,9 @@
   "price": 672.45,
   "market_cap_cr": 15704.51,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 774.05,
-      "prev_close": 774.05,
-      "volume": 21847,
-      "deliverable_qty": 11516,
-      "delivery_pct": 52.71
-    },
     {
       "date": "2026-02-12",
       "close": 767.05,
@@ -466,9 +458,31 @@
       "volume": 536213,
       "deliverable_qty": 349202,
       "delivery_pct": 65.12
+    },
+    {
+      "date": "2026-05-13",
+      "close": 667.05,
+      "prev_close": 671.8,
+      "volume": 93102,
+      "deliverable_qty": 37284,
+      "delivery_pct": 40.05
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 19:40:12",
+      "an_dt": "13-May-2026 19:40:12",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Ventive Hospitality Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VENTIVE_13052026193906_VHL_Intimation_Audio_call_recording.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 16:51:21",
+      "an_dt": "13-May-2026 16:51:21",
+      "desc": "General Updates",
+      "sm_name": "Ventive Hospitality Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VENTIVE_13052026165112_VHL_Intimation_for_KPI_May_2026.pdf"
+    },
     {
       "sort_date": "2026-05-12 21:48:00",
       "an_dt": "12-May-2026 21:48:00",

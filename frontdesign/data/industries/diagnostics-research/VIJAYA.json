@@ -8,17 +8,9 @@
   "price": 1342.6,
   "market_cap_cr": 13814.92,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 1014.5,
-      "prev_close": 1021.8,
-      "volume": 42212,
-      "deliverable_qty": 17434,
-      "delivery_pct": 41.3
-    },
     {
       "date": "2026-02-12",
       "close": 994.55,
@@ -466,9 +458,24 @@
       "volume": 467396,
       "deliverable_qty": 221378,
       "delivery_pct": 47.36
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1292.0,
+      "prev_close": 1279.2,
+      "volume": 148669,
+      "deliverable_qty": 59250,
+      "delivery_pct": 39.85
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 11:29:01",
+      "an_dt": "13-May-2026 11:29:01",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Vijaya Diagnostic Centre Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIJAYA_13052026112843_VDCL_Earning_Transcript_08052026_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-12 12:47:04",
       "an_dt": "12-May-2026 12:47:04",

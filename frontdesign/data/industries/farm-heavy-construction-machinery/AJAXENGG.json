@@ -8,17 +8,9 @@
   "price": 534.6,
   "market_cap_cr": 6116.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 514.35,
-      "prev_close": 532.75,
-      "volume": 116936,
-      "deliverable_qty": 85077,
-      "delivery_pct": 72.76
-    },
     {
       "date": "2026-02-12",
       "close": 498.8,
@@ -466,9 +458,24 @@
       "volume": 218299,
       "deliverable_qty": 163444,
       "delivery_pct": 74.87
+    },
+    {
+      "date": "2026-05-13",
+      "close": 524.0,
+      "prev_close": 519.1,
+      "volume": 96678,
+      "deliverable_qty": 65955,
+      "delivery_pct": 68.22
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 20:27:36",
+      "an_dt": "13-May-2026 20:27:36",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Ajax Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AJAX123_13052026202722_Intimationofearningscall.pdf"
+    },
     {
       "sort_date": "2026-04-09 17:56:14",
       "an_dt": "09-Apr-2026 17:56:14",

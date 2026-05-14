@@ -8,17 +8,9 @@
   "price": 151.48,
   "market_cap_cr": 2449.68,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 192.99,
-      "prev_close": 191.73,
-      "volume": 694247,
-      "deliverable_qty": 370549,
-      "delivery_pct": 53.37
-    },
     {
       "date": "2026-02-12",
       "close": 189.86,
@@ -466,6 +458,14 @@
       "volume": 791284,
       "deliverable_qty": 441242,
       "delivery_pct": 55.76
+    },
+    {
+      "date": "2026-05-13",
+      "close": 208.09,
+      "prev_close": 202.75,
+      "volume": 425338,
+      "deliverable_qty": 230255,
+      "delivery_pct": 54.13
     }
   ],
   "news": [
@@ -692,13 +692,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Fusion Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FUSIONHO_12022026131334_newspaper_advertisement_upload_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:09:56",
-      "an_dt": "11-Feb-2026 15:09:56",
-      "desc": "General Updates",
-      "sm_name": "Fusion Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FUSIONHO_11022026150948_intimation.pdf"
     }
   ]
 }

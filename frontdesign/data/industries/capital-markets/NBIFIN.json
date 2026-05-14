@@ -8,17 +8,9 @@
   "price": 2053.3,
   "market_cap_cr": 606.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 1980.3,
-      "prev_close": 1966.2,
-      "volume": 165,
-      "deliverable_qty": 140,
-      "delivery_pct": 84.85
-    },
     {
       "date": "2026-02-12",
       "close": 1970.0,
@@ -466,9 +458,38 @@
       "volume": 928,
       "deliverable_qty": 707,
       "delivery_pct": 76.19
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1952.2,
+      "prev_close": 2020.4,
+      "volume": 995,
+      "deliverable_qty": 616,
+      "delivery_pct": 61.91
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 16:32:18",
+      "an_dt": "13-May-2026 16:32:18",
+      "desc": "Shareholders meeting",
+      "sm_name": "N. B. I. Industrial Finance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NBIFIN_13052026163102_NBI_March26_Result.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 16:25:32",
+      "an_dt": "13-May-2026 16:25:32",
+      "desc": "Dividend",
+      "sm_name": "N. B. I. Industrial Finance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NBIFIN_13052026162411_NBI_March26_Result.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 15:30:24",
+      "an_dt": "13-May-2026 15:30:24",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "N. B. I. Industrial Finance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NBIFIN_13052026152637_NBI_March26_Result.pdf"
+    },
     {
       "sort_date": "2026-04-09 17:14:10",
       "an_dt": "09-Apr-2026 17:14:10",

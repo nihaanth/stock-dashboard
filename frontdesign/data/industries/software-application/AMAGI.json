@@ -8,17 +8,9 @@
   "price": 349.55,
   "market_cap_cr": 7562.13,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 409.5,
-      "prev_close": 416.8,
-      "volume": 711277,
-      "deliverable_qty": 276223,
-      "delivery_pct": 38.83
-    },
     {
       "date": "2026-02-12",
       "close": 386.3,
@@ -466,9 +458,24 @@
       "volume": 109545,
       "deliverable_qty": 62595,
       "delivery_pct": 57.14
+    },
+    {
+      "date": "2026-05-13",
+      "close": 404.25,
+      "prev_close": 409.55,
+      "volume": 147209,
+      "deliverable_qty": 83314,
+      "delivery_pct": 56.6
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 14:51:29",
+      "an_dt": "13-May-2026 14:51:29",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Amagi Media Labs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMAGI_13052026145113_MonitoringAgencyReport.pdf"
+    },
     {
       "sort_date": "2026-05-12 17:01:12",
       "an_dt": "12-May-2026 17:01:12",
@@ -657,34 +664,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Amagi Media Labs Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMAGI_12022026154205_NewspaperAd.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:09:00",
-      "an_dt": "11-Feb-2026 18:09:00",
-      "desc": "General Updates",
-      "sm_name": "Amagi Media Labs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMAGI_11022026180817_ShareholdersLetter.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:02:53",
-      "an_dt": "11-Feb-2026 18:02:53",
-      "desc": "Investor Presentation",
-      "sm_name": "Amagi Media Labs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMAGI_11022026180136_InvestorPresentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:56:54",
-      "an_dt": "11-Feb-2026 17:56:54",
-      "desc": "Press Release",
-      "sm_name": "Amagi Media Labs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMAGI_11022026175628_PressRelease.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:46:29",
-      "an_dt": "11-Feb-2026 17:46:29",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Amagi Media Labs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMAGI_11022026174440_OutcomeofBM.pdf"
     }
   ]
 }

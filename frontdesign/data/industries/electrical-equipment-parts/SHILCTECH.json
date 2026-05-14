@@ -8,17 +8,9 @@
   "price": 4620.2,
   "market_cap_cr": 5285.6,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 4024.8,
-      "prev_close": 4125.1,
-      "volume": 20297,
-      "deliverable_qty": 11049,
-      "delivery_pct": 54.44
-    },
     {
       "date": "2026-02-12",
       "close": 3928.3,
@@ -466,9 +458,24 @@
       "volume": 30555,
       "deliverable_qty": 15900,
       "delivery_pct": 52.04
+    },
+    {
+      "date": "2026-05-13",
+      "close": 4179.0,
+      "prev_close": 4182.0,
+      "volume": 25914,
+      "deliverable_qty": 8372,
+      "delivery_pct": 32.31
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 11:47:43",
+      "an_dt": "13-May-2026 11:47:43",
+      "desc": "Action(s) taken or orders passed",
+      "sm_name": "Shilchar Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHILCHARTECH_13052026114733_BSENSE_Disclosure_Appeal.pdf"
+    },
     {
       "sort_date": "2026-05-11 10:02:43",
       "an_dt": "11-May-2026 10:02:43",

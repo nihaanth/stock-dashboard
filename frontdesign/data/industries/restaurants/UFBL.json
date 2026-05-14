@@ -8,17 +8,9 @@
   "price": 292.16,
   "market_cap_cr": 1141.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 258.61,
-      "prev_close": 260.14,
-      "volume": 152083,
-      "deliverable_qty": 111242,
-      "delivery_pct": 73.15
-    },
     {
       "date": "2026-02-12",
       "close": 260.33,
@@ -466,9 +458,24 @@
       "volume": 75446,
       "deliverable_qty": 49843,
       "delivery_pct": 66.06
+    },
+    {
+      "date": "2026-05-13",
+      "close": 349.25,
+      "prev_close": 347.05,
+      "volume": 41147,
+      "deliverable_qty": 25310,
+      "delivery_pct": 61.51
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 19:47:24",
+      "an_dt": "13-May-2026 19:47:24",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "United Foodbrands Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BARBEQUE_13052026194710_EarningsConCallIntimationQ4FY26.pdf"
+    },
     {
       "sort_date": "2026-04-14 12:04:22",
       "an_dt": "14-Apr-2026 12:04:22",
@@ -573,13 +580,6 @@
       "desc": "Updates",
       "sm_name": "United Foodbrands Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BARBEQUE_13022026172317_ClarificationonMediaReportsCCPAServiceCharge.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:25:38",
-      "an_dt": "11-Feb-2026 18:25:38",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "United Foodbrands Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BARBEQUE_11022026182459_IntimationofScheduleofInvestorsMeet.pdf"
     }
   ]
 }

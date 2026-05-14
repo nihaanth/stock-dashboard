@@ -8,17 +8,9 @@
   "price": 424.35,
   "market_cap_cr": 2681.63,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 408.0,
-      "prev_close": 404.9,
-      "volume": 30196,
-      "deliverable_qty": 20666,
-      "delivery_pct": 68.44
-    },
     {
       "date": "2026-02-12",
       "close": 406.65,
@@ -466,9 +458,24 @@
       "volume": 92093,
       "deliverable_qty": 58124,
       "delivery_pct": 63.11
+    },
+    {
+      "date": "2026-05-13",
+      "close": 399.6,
+      "prev_close": 410.1,
+      "volume": 112124,
+      "deliverable_qty": 59031,
+      "delivery_pct": 52.65
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 14:15:07",
+      "an_dt": "13-May-2026 14:15:07",
+      "desc": "Updates",
+      "sm_name": "Jash Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JASH_13052026141422_CAJASHMAY2026.pdf"
+    },
     {
       "sort_date": "2026-05-12 17:59:40",
       "an_dt": "12-May-2026 17:59:40",

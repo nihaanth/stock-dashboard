@@ -8,17 +8,9 @@
   "price": 742.85,
   "market_cap_cr": 6734.51,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 749.85,
-      "prev_close": 764.4,
-      "volume": 178515,
-      "deliverable_qty": 103863,
-      "delivery_pct": 58.18
-    },
     {
       "date": "2026-02-12",
       "close": 710.85,
@@ -466,6 +458,14 @@
       "volume": 146504,
       "deliverable_qty": 65421,
       "delivery_pct": 44.65
+    },
+    {
+      "date": "2026-05-13",
+      "close": 706.6,
+      "prev_close": 712.7,
+      "volume": 169229,
+      "deliverable_qty": 76823,
+      "delivery_pct": 45.4
     }
   ],
   "news": [
@@ -524,13 +524,6 @@
       "desc": "General Updates",
       "sm_name": "Aarti Pharmalabs Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AARTIPHARMA_13022026145129_APL_Clarification_Regarding_Disclosuresigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 12:48:12",
-      "an_dt": "11-Feb-2026 12:48:12",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Aarti Pharmalabs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AARTIPHARMA_11022026124756_AARTIPHARMsigned.pdf"
     }
   ]
 }

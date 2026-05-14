@@ -8,17 +8,9 @@
   "price": 218.56,
   "market_cap_cr": 7919.09,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 236.41,
-      "prev_close": 226.16,
-      "volume": 3413866,
-      "deliverable_qty": 813153,
-      "delivery_pct": 23.82
-    },
     {
       "date": "2026-02-12",
       "close": 234.8,
@@ -466,9 +458,24 @@
       "volume": 1757917,
       "deliverable_qty": 853118,
       "delivery_pct": 48.53
+    },
+    {
+      "date": "2026-05-13",
+      "close": 207.13,
+      "prev_close": 205.77,
+      "volume": 1432258,
+      "deliverable_qty": 552914,
+      "delivery_pct": 38.6
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 18:14:08",
+      "an_dt": "13-May-2026 18:14:08",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Vikram Solar Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VSLCS_13052026181315_VSLEarningsCallTranscriptQ4andFY26.pdf"
+    },
     {
       "sort_date": "2026-05-12 18:36:37",
       "an_dt": "12-May-2026 18:36:37",
@@ -657,13 +664,6 @@
       "desc": "Spurt in Volume",
       "sm_name": "Vikram Solar Limited",
       "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-02-11 23:11:36",
-      "an_dt": "11-Feb-2026 23:11:36",
-      "desc": "General Updates",
-      "sm_name": "Vikram Solar Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VSLCS_11022026230743_VSLIntimationforexecutionofWCCA11022026.pdf"
     }
   ]
 }

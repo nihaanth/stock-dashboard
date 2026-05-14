@@ -8,17 +8,9 @@
   "price": 888.75,
   "market_cap_cr": 29933.53,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 1015.95,
-      "prev_close": 1039.1,
-      "volume": 42153,
-      "deliverable_qty": 23081,
-      "delivery_pct": 54.76
-    },
     {
       "date": "2026-02-12",
       "close": 1011.2,
@@ -466,6 +458,14 @@
       "volume": 147391,
       "deliverable_qty": 43045,
       "delivery_pct": 29.2
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1073.15,
+      "prev_close": 1091.15,
+      "volume": 106848,
+      "deliverable_qty": 30816,
+      "delivery_pct": 28.84
     }
   ],
   "news": [
@@ -580,27 +580,6 @@
       "desc": "Spurt in Volume",
       "sm_name": "Godrej Industries Limited",
       "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-02-11 17:15:12",
-      "an_dt": "11-Feb-2026 17:15:12",
-      "desc": "General Updates",
-      "sm_name": "Godrej Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Anupama_11022026171458_PerformanceUpdate11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:12:49",
-      "an_dt": "11-Feb-2026 17:12:49",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Godrej Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Anupama_11022026171030_GILBSENSEFULLOUTCOME11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:09:23",
-      "an_dt": "11-Feb-2026 17:09:23",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Godrej Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Anupama_11022026170424_GILBSENSEFULLOUTCOME11022026.pdf"
     }
   ]
 }

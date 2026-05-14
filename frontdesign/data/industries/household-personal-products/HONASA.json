@@ -8,17 +8,9 @@
   "price": 352.95,
   "market_cap_cr": 11487.94,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 291.95,
-      "prev_close": 296.6,
-      "volume": 627666,
-      "deliverable_qty": 351105,
-      "delivery_pct": 55.94
-    },
     {
       "date": "2026-02-12",
       "close": 299.25,
@@ -466,9 +458,24 @@
       "volume": 418365,
       "deliverable_qty": 214360,
       "delivery_pct": 51.24
+    },
+    {
+      "date": "2026-05-13",
+      "close": 347.1,
+      "prev_close": 348.15,
+      "volume": 920906,
+      "deliverable_qty": 671290,
+      "delivery_pct": 72.89
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 17:02:05",
+      "an_dt": "13-May-2026 17:02:05",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Honasa Consumer Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HONASA16_13052026165923_ConferenceCallQ4.pdf"
+    },
     {
       "sort_date": "2026-05-11 19:31:56",
       "an_dt": "11-May-2026 19:31:56",

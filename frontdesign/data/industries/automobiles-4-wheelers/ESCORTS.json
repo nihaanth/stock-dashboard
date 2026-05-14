@@ -8,17 +8,9 @@
   "price": 2966.7,
   "market_cap_cr": 32641.83,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 3695.0,
-      "prev_close": 3823.6,
-      "volume": 229437,
-      "deliverable_qty": 107158,
-      "delivery_pct": 46.7
-    },
     {
       "date": "2026-02-12",
       "close": 3635.8,
@@ -466,9 +458,24 @@
       "volume": 153219,
       "deliverable_qty": 76334,
       "delivery_pct": 49.82
+    },
+    {
+      "date": "2026-05-13",
+      "close": 2982.7,
+      "prev_close": 2960.7,
+      "volume": 127451,
+      "deliverable_qty": 62996,
+      "delivery_pct": 49.43
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 17:06:30",
+      "an_dt": "13-May-2026 17:06:30",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Escorts Kubota Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ESCORTS2_13052026170555_EKL_2026_05_13__Intimation_Investor_Meet_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-11 15:40:58",
       "an_dt": "11-May-2026 15:40:58",
@@ -839,20 +846,6 @@
       "desc": "Updates",
       "sm_name": "Escorts Kubota Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ESCORTS2_12022026120229_EKL_2026_02_12_Investment_in_EKFL_SIGN.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:55:37",
-      "an_dt": "11-Feb-2026 17:55:37",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Escorts Kubota Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ESCORTS2_11022026175254_EKL_2026_02_11_Newspapers_Publication_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 10:13:07",
-      "an_dt": "11-Feb-2026 10:13:07",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Escorts Kubota Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ESCORTS2_11022026100856_EKL_2026-02-11_Revised_PPT_SIGNED.pdf"
     }
   ]
 }

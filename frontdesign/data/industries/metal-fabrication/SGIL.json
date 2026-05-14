@@ -8,17 +8,9 @@
   "price": 602.5,
   "market_cap_cr": 935.98,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 458.65,
-      "prev_close": 543.0,
-      "volume": 244165,
-      "deliverable_qty": 103780,
-      "delivery_pct": 42.5
-    },
     {
       "date": "2026-02-12",
       "close": 491.1,
@@ -466,9 +458,24 @@
       "volume": 21625,
       "deliverable_qty": 13865,
       "delivery_pct": 64.12
+    },
+    {
+      "date": "2026-05-13",
+      "close": 565.0,
+      "prev_close": 571.85,
+      "volume": 6255,
+      "deliverable_qty": 2485,
+      "delivery_pct": 39.73
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 07:59:08",
+      "an_dt": "13-May-2026 07:59:08",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Synergy Green Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGIL_13052026075853_Invitation_to_Investors_Meet.pdf"
+    },
     {
       "sort_date": "2026-04-20 10:49:02",
       "an_dt": "20-Apr-2026 10:49:02",
@@ -524,34 +531,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Synergy Green Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGIL_12022026114223_Outcome_investors_Meet.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:54:02",
-      "an_dt": "11-Feb-2026 14:54:02",
-      "desc": "Investor Presentation",
-      "sm_name": "Synergy Green Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGIL_11022026145353_Investors_Presentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:45:03",
-      "an_dt": "11-Feb-2026 14:45:03",
-      "desc": "Updates",
-      "sm_name": "Synergy Green Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGIL_11022026144452_Investors_Note_Q3.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:42:38",
-      "an_dt": "11-Feb-2026 14:42:38",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Synergy Green Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGIL_11022026144010_Outcome_of_BM_11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:35:45",
-      "an_dt": "11-Feb-2026 14:35:45",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Synergy Green Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGIL_11022026143529_Outcome_of_BM_11022026.pdf"
     }
   ]
 }

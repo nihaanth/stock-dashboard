@@ -8,17 +8,9 @@
   "price": 391.05,
   "market_cap_cr": 68605.81,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 393.25,
-      "prev_close": 398.35,
-      "volume": 506237,
-      "deliverable_qty": 261866,
-      "delivery_pct": 51.73
-    },
     {
       "date": "2026-02-12",
       "close": 392.85,
@@ -466,6 +458,14 @@
       "volume": 390418,
       "deliverable_qty": 205985,
       "delivery_pct": 52.76
+    },
+    {
+      "date": "2026-05-13",
+      "close": 384.85,
+      "prev_close": 382.4,
+      "volume": 301885,
+      "deliverable_qty": 160523,
+      "delivery_pct": 53.17
     }
   ],
   "news": [
@@ -531,13 +531,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "General Insurance Corporation of India",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GICRE_16022026143513_SEintimationTranscriptofInvestorcall11thfeb2026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:59:28",
-      "an_dt": "11-Feb-2026 17:59:28",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "General Insurance Corporation of India",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GICRE_11022026175920_IntimationofAudioRecordingQ320252026signed.pdf"
     }
   ]
 }

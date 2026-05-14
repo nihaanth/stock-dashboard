@@ -8,17 +8,9 @@
   "price": 171.88,
   "market_cap_cr": 3643.82,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 181.88,
-      "prev_close": 177.68,
-      "volume": 130956,
-      "deliverable_qty": 51374,
-      "delivery_pct": 39.23
-    },
     {
       "date": "2026-02-12",
       "close": 182.41,
@@ -466,9 +458,24 @@
       "volume": 22151,
       "deliverable_qty": 12923,
       "delivery_pct": 58.34
+    },
+    {
+      "date": "2026-05-13",
+      "close": 159.41,
+      "prev_close": 163.58,
+      "volume": 38496,
+      "deliverable_qty": 20011,
+      "delivery_pct": 51.98
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 21:56:11",
+      "an_dt": "13-May-2026 21:56:11",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Indiqube Spaces Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIQUBE_13052026215450_Indiqube_MA.pdf"
+    },
     {
       "sort_date": "2026-04-15 16:37:42",
       "an_dt": "15-Apr-2026 16:37:42",
@@ -594,20 +601,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Indiqube Spaces Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIQUBE_13022026173041_Intimation_Transcript_Earnings_Call.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 21:02:03",
-      "an_dt": "11-Feb-2026 21:02:03",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Indiqube Spaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIQUBE_11022026210150_Intimation-Audio_Recording_Q3_earnings_call.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:52:13",
-      "an_dt": "11-Feb-2026 15:52:13",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Indiqube Spaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIQUBE_11022026155131_Intimation_-_Newspaper_Publication_Fin_Results_11022026__pdf.pdf"
     }
   ]
 }

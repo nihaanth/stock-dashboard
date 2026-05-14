@@ -8,17 +8,9 @@
   "price": 145.05,
   "market_cap_cr": 16622.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 148.35,
-      "prev_close": 147.23,
-      "volume": 3879110,
-      "deliverable_qty": 1785299,
-      "delivery_pct": 46.02
-    },
     {
       "date": "2026-02-12",
       "close": 146.78,
@@ -466,9 +458,24 @@
       "volume": 10465750,
       "deliverable_qty": 4902448,
       "delivery_pct": 46.84
+    },
+    {
+      "date": "2026-05-13",
+      "close": 139.99,
+      "prev_close": 139.41,
+      "volume": 13482687,
+      "deliverable_qty": 6538429,
+      "delivery_pct": 48.49
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 08:49:13",
+      "an_dt": "13-May-2026 08:49:13",
+      "desc": "Credit Rating- Revision",
+      "sm_name": "Sammaan Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IHFL_13052026084823_SCL_Intimation_Credit_Ratings_Upgrade_13May2026.pdf"
+    },
     {
       "sort_date": "2026-05-09 10:47:59",
       "an_dt": "09-May-2026 10:47:59",

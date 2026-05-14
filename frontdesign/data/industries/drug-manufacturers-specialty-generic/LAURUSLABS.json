@@ -8,17 +8,9 @@
   "price": 1266.8,
   "market_cap_cr": 68405.51,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 1013.65,
-      "prev_close": 966.35,
-      "volume": 2286558,
-      "deliverable_qty": 923251,
-      "delivery_pct": 40.38
-    },
     {
       "date": "2026-02-12",
       "close": 1018.6,
@@ -466,9 +458,24 @@
       "volume": 2330669,
       "deliverable_qty": 1149617,
       "delivery_pct": 49.33
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1280.5,
+      "prev_close": 1268.0,
+      "volume": 3171882,
+      "deliverable_qty": 1313085,
+      "delivery_pct": 41.4
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 15:11:01",
+      "an_dt": "13-May-2026 15:11:01",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Laurus Labs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LAURUSLABS_13052026151014_NewsPubIEPF13052026.pdf"
+    },
     {
       "sort_date": "2026-05-08 10:27:05",
       "an_dt": "08-May-2026 10:27:05",

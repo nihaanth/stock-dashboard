@@ -8,17 +8,9 @@
   "price": 1760.0,
   "market_cap_cr": 1015.24,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 1708.1,
-      "prev_close": 1782.8,
-      "volume": 19757,
-      "deliverable_qty": 8289,
-      "delivery_pct": 41.95
-    },
     {
       "date": "2026-02-12",
       "close": 1680.0,
@@ -466,9 +458,24 @@
       "volume": 19411,
       "deliverable_qty": 12755,
       "delivery_pct": 65.71
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1587.9,
+      "prev_close": 1561.7,
+      "volume": 23121,
+      "deliverable_qty": 13243,
+      "delivery_pct": 57.28
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 16:31:49",
+      "an_dt": "13-May-2026 16:31:49",
+      "desc": "Updates",
+      "sm_name": "Eimco Elecon (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIMCOELECO_13052026163139_IEPF_Letter13052026.pdf"
+    },
     {
       "sort_date": "2026-04-20 17:29:33",
       "an_dt": "20-Apr-2026 17:29:33",
@@ -531,13 +538,6 @@
       "desc": "Trading Window",
       "sm_name": "Eimco Elecon (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIMCOELECO_31032026174750_CTW31032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:22:53",
-      "an_dt": "11-Feb-2026 15:22:53",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Eimco Elecon (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIMCOELECO_11022026152221_NP11022026.pdf"
     }
   ]
 }

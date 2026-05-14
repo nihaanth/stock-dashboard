@@ -8,17 +8,9 @@
   "price": 994.9,
   "market_cap_cr": 9626.71,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 974.65,
-      "prev_close": 1000.45,
-      "volume": 135748,
-      "deliverable_qty": 58471,
-      "delivery_pct": 43.07
-    },
     {
       "date": "2026-02-12",
       "close": 978.5,
@@ -466,9 +458,24 @@
       "volume": 330269,
       "deliverable_qty": 169733,
       "delivery_pct": 51.39
+    },
+    {
+      "date": "2026-05-13",
+      "close": 943.5,
+      "prev_close": 936.2,
+      "volume": 123293,
+      "deliverable_qty": 59371,
+      "delivery_pct": 48.15
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 17:59:23",
+      "an_dt": "13-May-2026 17:59:23",
+      "desc": "General Updates",
+      "sm_name": "G R Infraprojects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRINFRA_13052026175904_GRIL_INTIMATION_13052026.pdf"
+    },
     {
       "sort_date": "2026-05-12 18:21:19",
       "an_dt": "12-May-2026 18:21:19",
@@ -741,20 +748,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "G R Infraprojects Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRINFRA_12022026150134_Transcript_Cover_page.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 12:54:55",
-      "an_dt": "11-Feb-2026 12:54:55",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "G R Infraprojects Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRINFRA_11022026125435_L1Intimation_railway.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 12:51:42",
-      "an_dt": "11-Feb-2026 12:51:42",
-      "desc": "General Updates",
-      "sm_name": "G R Infraprojects Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRINFRA_11022026125130_L1Intimation_railway.pdf"
     }
   ]
 }

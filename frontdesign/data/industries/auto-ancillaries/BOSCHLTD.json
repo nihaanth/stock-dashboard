@@ -8,17 +8,9 @@
   "price": 36615.0,
   "market_cap_cr": 108021.99,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 36570.0,
-      "prev_close": 35575.0,
-      "volume": 24918,
-      "deliverable_qty": 6036,
-      "delivery_pct": 24.22
-    },
     {
       "date": "2026-02-12",
       "close": 36495.0,
@@ -466,6 +458,14 @@
       "volume": 17005,
       "deliverable_qty": 4623,
       "delivery_pct": 27.19
+    },
+    {
+      "date": "2026-05-13",
+      "close": 36315.0,
+      "prev_close": 36510.0,
+      "volume": 19079,
+      "deliverable_qty": 6940,
+      "delivery_pct": 36.38
     }
   ],
   "news": [
@@ -608,13 +608,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Bosch Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BOSCHLTD2025_16022026181912_LettertoexchangenewspaperAD14feb26.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:29:08",
-      "an_dt": "11-Feb-2026 18:29:08",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Bosch Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BOSCHLTD2024_11022026182849_L2SETranscript.pdf"
     }
   ]
 }

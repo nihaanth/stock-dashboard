@@ -8,17 +8,9 @@
   "price": 326.65,
   "market_cap_cr": 12013.69,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 342.1,
-      "prev_close": 345.65,
-      "volume": 999561,
-      "deliverable_qty": 379715,
-      "delivery_pct": 37.99
-    },
     {
       "date": "2026-02-12",
       "close": 337.6,
@@ -466,9 +458,24 @@
       "volume": 11906389,
       "deliverable_qty": 982396,
       "delivery_pct": 8.25
+    },
+    {
+      "date": "2026-05-13",
+      "close": 333.95,
+      "prev_close": 335.1,
+      "volume": 946940,
+      "deliverable_qty": 221045,
+      "delivery_pct": 23.34
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 18:18:21",
+      "an_dt": "13-May-2026 18:18:21",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Afcons Infrastructure Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_13052026181745_Afcons_Intimation_of_Earnings_Conference_Call_date_13052026.pdf"
+    },
     {
       "sort_date": "2026-05-11 15:37:41",
       "an_dt": "11-May-2026 15:37:41",
@@ -636,20 +643,6 @@
       "desc": "General Updates",
       "sm_name": "Afcons Infrastructure Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_12022026105720_Afcons_Intimationofsubmissionofapplication.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:43:12",
-      "an_dt": "11-Feb-2026 16:43:12",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Afcons Infrastructure Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_11022026164254_Afcons_EarningsCall_11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 13:00:29",
-      "an_dt": "11-Feb-2026 13:00:29",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Afcons Infrastructure Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_11022026130022_Afcons_Intimation_Newspaper_publicationdated10022026.pdf"
     }
   ]
 }

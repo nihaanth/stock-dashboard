@@ -8,17 +8,9 @@
   "price": 28325.0,
   "market_cap_cr": 126344.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 22731.0,
-      "prev_close": 22457.0,
-      "volume": 124466,
-      "deliverable_qty": 40437,
-      "delivery_pct": 32.49
-    },
     {
       "date": "2026-02-12",
       "close": 22702.0,
@@ -466,9 +458,31 @@
       "volume": 115794,
       "deliverable_qty": 41449,
       "delivery_pct": 35.8
+    },
+    {
+      "date": "2026-05-13",
+      "close": 31745.0,
+      "prev_close": 32265.0,
+      "volume": 115951,
+      "deliverable_qty": 48801,
+      "delivery_pct": 42.09
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 19:23:31",
+      "an_dt": "13-May-2026 19:23:31",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Hitachi Energy India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HitachiEnergy_13052026192234_MAreport.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 19:20:20",
+      "an_dt": "13-May-2026 19:20:20",
+      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
+      "sm_name": "Hitachi Energy India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HitachiEnergy_13052026192005_StatementofDeviation.pdf"
+    },
     {
       "sort_date": "2026-04-16 22:08:30",
       "an_dt": "16-Apr-2026 22:08:30",

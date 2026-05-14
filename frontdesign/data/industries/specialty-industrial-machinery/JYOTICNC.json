@@ -8,17 +8,9 @@
   "price": 698.95,
   "market_cap_cr": 15895.74,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 863.0,
-      "prev_close": 825.65,
-      "volume": 2502093,
-      "deliverable_qty": 372249,
-      "delivery_pct": 14.88
-    },
     {
       "date": "2026-02-12",
       "close": 852.3,
@@ -466,6 +458,14 @@
       "volume": 425406,
       "deliverable_qty": 213055,
       "delivery_pct": 50.08
+    },
+    {
+      "date": "2026-05-13",
+      "close": 726.2,
+      "prev_close": 726.0,
+      "volume": 539947,
+      "deliverable_qty": 291387,
+      "delivery_pct": 53.97
     }
   ],
   "news": [
@@ -594,20 +594,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Jyoti CNC Automation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_18022026144509_BSEnseJCALTranscriptQ3FY202526.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 20:10:36",
-      "an_dt": "11-Feb-2026 20:10:36",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Jyoti CNC Automation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_11022026201022_EarningCallRecordingIntimationJCAL11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:14:51",
-      "an_dt": "11-Feb-2026 16:14:51",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Jyoti CNC Automation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_11022026161443_BSEnseIntimationNEWSpaperResultsJCALdec2025.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 1401.3,
   "market_cap_cr": 51366.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 1282.6,
-      "prev_close": 1300.0,
-      "volume": 1106168,
-      "deliverable_qty": 365852,
-      "delivery_pct": 33.07
-    },
     {
       "date": "2026-02-12",
       "close": 1271.6,
@@ -466,6 +458,14 @@
       "volume": 1280176,
       "deliverable_qty": 503506,
       "delivery_pct": 39.33
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1360.3,
+      "prev_close": 1334.2,
+      "volume": 1009976,
+      "deliverable_qty": 277432,
+      "delivery_pct": 27.47
     }
   ],
   "news": [
@@ -559,13 +559,6 @@
       "desc": "Change in Management",
       "sm_name": "Bharat Dynamics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BDL_24022026105926_CovID24022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 20:23:27",
-      "an_dt": "11-Feb-2026 20:23:27",
-      "desc": "General Updates",
-      "sm_name": "Bharat Dynamics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BDL_11022026202311_BDLSE11022026.pdf"
     }
   ]
 }

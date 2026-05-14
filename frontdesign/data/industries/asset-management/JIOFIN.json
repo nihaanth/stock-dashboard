@@ -8,17 +8,9 @@
   "price": 237.68,
   "market_cap_cr": 151001.47,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 270.3,
-      "prev_close": 270.2,
-      "volume": 6544008,
-      "deliverable_qty": 3170358,
-      "delivery_pct": 48.45
-    },
     {
       "date": "2026-02-12",
       "close": 267.55,
@@ -466,9 +458,31 @@
       "volume": 21663715,
       "deliverable_qty": 10982946,
       "delivery_pct": 50.7
+    },
+    {
+      "date": "2026-05-13",
+      "close": 231.45,
+      "prev_close": 230.47,
+      "volume": 13708347,
+      "deliverable_qty": 5169725,
+      "delivery_pct": 37.71
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 15:34:18",
+      "an_dt": "13-May-2026 15:34:18",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Jio Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_13052026152907_Analystmeetintimation.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 15:22:11",
+      "an_dt": "13-May-2026 15:22:11",
+      "desc": "Acquisition",
+      "sm_name": "Jio Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_13052026152153_JFSL.pdf"
+    },
     {
       "sort_date": "2026-05-12 17:38:17",
       "an_dt": "12-May-2026 17:38:17",
@@ -657,13 +671,6 @@
       "desc": "Change in Management",
       "sm_name": "Jio Financial Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JIOFIN_17022026132959_JFSL.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 11:03:28",
-      "an_dt": "11-Feb-2026 11:03:28",
-      "desc": "Press Release",
-      "sm_name": "Jio Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_11022026110322_JFSL.pdf"
     }
   ]
 }

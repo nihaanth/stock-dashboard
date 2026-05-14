@@ -8,17 +8,9 @@
   "price": 438.75,
   "market_cap_cr": 3088.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 502.0,
-      "prev_close": 501.2,
-      "volume": 343883,
-      "deliverable_qty": 237595,
-      "delivery_pct": 69.09
-    },
     {
       "date": "2026-02-12",
       "close": 486.8,
@@ -466,6 +458,14 @@
       "volume": 147545,
       "deliverable_qty": 81331,
       "delivery_pct": 55.12
+    },
+    {
+      "date": "2026-05-13",
+      "close": 431.2,
+      "prev_close": 425.3,
+      "volume": 126027,
+      "deliverable_qty": 53418,
+      "delivery_pct": 42.39
     }
   ],
   "news": [
@@ -559,34 +559,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Mstc Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MSTCLTD_12022026131906_SE710.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:53:53",
-      "an_dt": "11-Feb-2026 18:53:53",
-      "desc": "Investor Presentation",
-      "sm_name": "Mstc Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MSTCLTD_11022026185338_SE709.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:49:51",
-      "an_dt": "11-Feb-2026 18:49:51",
-      "desc": "Record Date",
-      "sm_name": "Mstc Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MSTCLTD_11022026184935_SE708.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:48:33",
-      "an_dt": "11-Feb-2026 18:48:33",
-      "desc": "Dividend",
-      "sm_name": "Mstc Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MSTCLTD_11022026184815_SE708.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:20:45",
-      "an_dt": "11-Feb-2026 18:20:45",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Mstc Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MSTCLTD_11022026181924_SE708.pdf"
     }
   ]
 }

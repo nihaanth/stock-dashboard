@@ -8,17 +8,9 @@
   "price": 759.5,
   "market_cap_cr": 16632.6,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 878.7,
-      "prev_close": 882.35,
-      "volume": 48691,
-      "deliverable_qty": 31074,
-      "delivery_pct": 63.82
-    },
     {
       "date": "2026-02-12",
       "close": 877.1,
@@ -466,6 +458,14 @@
       "volume": 41129,
       "deliverable_qty": 19918,
       "delivery_pct": 48.43
+    },
+    {
+      "date": "2026-05-13",
+      "close": 744.0,
+      "prev_close": 759.15,
+      "volume": 260708,
+      "deliverable_qty": 179877,
+      "delivery_pct": 69.0
     }
   ],
   "news": [
@@ -594,13 +594,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Chalet Hotels Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CHALET_12022026194839_Regulation30InvestorConferenceIntimation12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 20:50:12",
-      "an_dt": "11-Feb-2026 20:50:12",
-      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-      "sm_name": "Chalet Hotels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CHALET_11022026203835_BengaluruPropertyTax11022026.pdf"
     }
   ]
 }

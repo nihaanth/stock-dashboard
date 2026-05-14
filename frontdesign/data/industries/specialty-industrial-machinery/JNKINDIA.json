@@ -8,17 +8,9 @@
   "price": 370.3,
   "market_cap_cr": 2071.97,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 253.41,
-      "prev_close": 254.3,
-      "volume": 446207,
-      "deliverable_qty": 137348,
-      "delivery_pct": 30.78
-    },
     {
       "date": "2026-02-12",
       "close": 242.22,
@@ -466,6 +458,14 @@
       "volume": 126225,
       "deliverable_qty": 77566,
       "delivery_pct": 61.45
+    },
+    {
+      "date": "2026-05-13",
+      "close": 340.4,
+      "prev_close": 351.65,
+      "volume": 214972,
+      "deliverable_qty": 102509,
+      "delivery_pct": 47.68
     }
   ],
   "news": [
@@ -524,13 +524,6 @@
       "desc": "Monitoring Agency Report",
       "sm_name": "JNK India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JNKINDIA23_13022026161853_JNK_Monitoring_Agency_Covering_letter_with_report.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:49:28",
-      "an_dt": "11-Feb-2026 15:49:28",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "JNK India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JNKINDIA23_11022026154919_newspaper_adv_covering_letter.pdf"
     }
   ]
 }

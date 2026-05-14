@@ -1,11 +1,21 @@
 {
   "all_time": {
-    "days": 2,
-    "total_calls": 652,
-    "correct": 107,
-    "accuracy_pct": 16.4
+    "days": 3,
+    "total_calls": 951,
+    "correct": 277,
+    "accuracy_pct": 29.1
   },
   "dates": [
+    {
+      "date": "2026-05-12",
+      "result_date": "2026-05-13",
+      "mode": "post_mortem",
+      "total": 299,
+      "correct": 170,
+      "accuracy_pct": 56.9,
+      "file": "predictions_2026-05-12.json",
+      "page": "d/2026-05-12.html"
+    },
     {
       "date": "2026-05-11",
       "result_date": "2026-05-12",

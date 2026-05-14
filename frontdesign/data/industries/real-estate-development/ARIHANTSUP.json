@@ -8,17 +8,9 @@
   "price": 267.5,
   "market_cap_cr": 1156.94,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 281.15,
-      "prev_close": 283.15,
-      "volume": 43458,
-      "deliverable_qty": 15028,
-      "delivery_pct": 34.58
-    },
     {
       "date": "2026-02-12",
       "close": 282.35,
@@ -466,9 +458,31 @@
       "volume": 22595,
       "deliverable_qty": 13355,
       "delivery_pct": 59.11
+    },
+    {
+      "date": "2026-05-13",
+      "close": 255.7,
+      "prev_close": 255.9,
+      "volume": 23057,
+      "deliverable_qty": 16240,
+      "delivery_pct": 70.43
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 18:06:30",
+      "an_dt": "13-May-2026 18:06:30",
+      "desc": "General Updates",
+      "sm_name": "Arihant Superstructures Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARIHANTSUP_13052026180621_ASL_Intimation_of_reconstitution_of_committees_13052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 15:18:55",
+      "an_dt": "13-May-2026 15:18:55",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Arihant Superstructures Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARIHANTSUP_13052026151839_ASL_Intimation_for_Earning_Call_18052026.pdf"
+    },
     {
       "sort_date": "2026-05-07 17:52:25",
       "an_dt": "07-May-2026 17:52:25",
@@ -545,34 +559,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Arihant Superstructures Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARIHANTSUP_13022026152100_ASL_Audio_Recordings_of_the_Earnings_call_12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:50:10",
-      "an_dt": "11-Feb-2026 16:50:10",
-      "desc": "Press Release",
-      "sm_name": "Arihant Superstructures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARIHANTSUP_11022026165003_ASL_Press_Release_and_Investor_Presentation_11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:48:27",
-      "an_dt": "11-Feb-2026 16:48:27",
-      "desc": "Investor Presentation",
-      "sm_name": "Arihant Superstructures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARIHANTSUP_11022026164816_ASL_Press_Release_and_Investor_Presentation_11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:46:25",
-      "an_dt": "11-Feb-2026 16:46:25",
-      "desc": "Press Release",
-      "sm_name": "Arihant Superstructures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARIHANTSUP_11022026164616_ASL_Newspaper_advertisement_11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 11:59:47",
-      "an_dt": "11-Feb-2026 11:59:47",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Arihant Superstructures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARIHANTSUP_11022026115923_ASL_Newspaper_advertisement_11022026.pdf"
     }
   ]
 }

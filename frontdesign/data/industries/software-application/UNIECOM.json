@@ -8,17 +8,9 @@
   "price": 91.66,
   "market_cap_cr": 1030.17,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 102.92,
-      "prev_close": 103.22,
-      "volume": 134608,
-      "deliverable_qty": 78615,
-      "delivery_pct": 58.4
-    },
     {
       "date": "2026-02-12",
       "close": 99.62,
@@ -466,6 +458,14 @@
       "volume": 453832,
       "deliverable_qty": 218591,
       "delivery_pct": 48.17
+    },
+    {
+      "date": "2026-05-13",
+      "close": 89.05,
+      "prev_close": 87.64,
+      "volume": 433112,
+      "deliverable_qty": 154341,
+      "delivery_pct": 35.64
     }
   ],
   "news": [
@@ -629,13 +629,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Unicommerce Esolutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNICOMMERCE_14022026184339_OutcomeBM.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 22:25:34",
-      "an_dt": "11-Feb-2026 22:25:34",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Unicommerce Esolutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNICOMMERCE_11022026222506_Unicommerce_eSolutions_Limited_Earnings_Call_Invite_-_Q3FY26.pdf"
     }
   ]
 }

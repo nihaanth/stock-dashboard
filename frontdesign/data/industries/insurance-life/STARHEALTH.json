@@ -8,17 +8,9 @@
   "price": 515.95,
   "market_cap_cr": 30358.68,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 480.4,
-      "prev_close": 468.75,
-      "volume": 890941,
-      "deliverable_qty": 390839,
-      "delivery_pct": 43.87
-    },
     {
       "date": "2026-02-12",
       "close": 480.6,
@@ -466,9 +458,31 @@
       "volume": 329832,
       "deliverable_qty": 208531,
       "delivery_pct": 63.22
+    },
+    {
+      "date": "2026-05-13",
+      "close": 507.35,
+      "prev_close": 511.2,
+      "volume": 285688,
+      "deliverable_qty": 153788,
+      "delivery_pct": 53.83
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 19:35:11",
+      "an_dt": "13-May-2026 19:35:11",
+      "desc": "Shareholders meeting",
+      "sm_name": "Star Health and Allied Insurance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STARHEALTH_13052026193440_SE_intimation_PB_Notice_13052026_SD.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 18:42:58",
+      "an_dt": "13-May-2026 18:42:58",
+      "desc": "Shareholders meeting",
+      "sm_name": "Star Health and Allied Insurance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STARHEALTH_13052026184009_SE_intimation_PB_Notice_13052026_SD.pdf"
+    },
     {
       "sort_date": "2026-05-05 15:30:19",
       "an_dt": "05-May-2026 15:30:19",
@@ -685,13 +699,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Star Health and Allied Insurance Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/STARHEALTH_18022026151729_AnalystMeet24Feb2026Single.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:14:14",
-      "an_dt": "11-Feb-2026 18:14:14",
-      "desc": "Appointment",
-      "sm_name": "Star Health and Allied Insurance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STARHEALTH_11022026175712_Intimation_for_appointment_of_WTD.pdf"
     }
   ]
 }

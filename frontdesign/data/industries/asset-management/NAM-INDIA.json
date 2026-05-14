@@ -8,17 +8,9 @@
   "price": 1065.6,
   "market_cap_cr": 68016.12,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 950.25,
-      "prev_close": 910.9,
-      "volume": 1231395,
-      "deliverable_qty": 634149,
-      "delivery_pct": 51.5
-    },
     {
       "date": "2026-02-12",
       "close": 965.45,
@@ -466,6 +458,14 @@
       "volume": 1018963,
       "deliverable_qty": 482890,
       "delivery_pct": 47.39
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1059.6,
+      "prev_close": 1038.1,
+      "volume": 1591692,
+      "deliverable_qty": 912163,
+      "delivery_pct": 57.31
     }
   ],
   "news": [
@@ -748,20 +748,6 @@
       "desc": "Credit Rating",
       "sm_name": "Nippon Life India Asset Management Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RNLAM_17022026172528_SE_intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:11:45",
-      "an_dt": "11-Feb-2026 18:11:45",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Nippon Life India Asset Management Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RNLAM_11022026181122_SE_Intimation_February_24.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:01:21",
-      "an_dt": "11-Feb-2026 18:01:21",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Nippon Life India Asset Management Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RNLAM_11022026180100_Disclosure.pdf"
     }
   ]
 }

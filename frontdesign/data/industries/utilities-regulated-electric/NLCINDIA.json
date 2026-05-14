@@ -8,17 +8,9 @@
   "price": 329.7,
   "market_cap_cr": 45717.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 256.8,
-      "prev_close": 258.35,
-      "volume": 1026566,
-      "deliverable_qty": 450623,
-      "delivery_pct": 43.9
-    },
     {
       "date": "2026-02-12",
       "close": 259.65,
@@ -466,9 +458,45 @@
       "volume": 4822479,
       "deliverable_qty": 2181193,
       "delivery_pct": 45.23
+    },
+    {
+      "date": "2026-05-13",
+      "close": 325.7,
+      "prev_close": 308.1,
+      "volume": 5353741,
+      "deliverable_qty": 2291679,
+      "delivery_pct": 42.81
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 21:22:34",
+      "an_dt": "13-May-2026 21:22:34",
+      "desc": "Press Release",
+      "sm_name": "NLC India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLCINDIA_13052026212209_PressRelease13052026_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 20:32:32",
+      "an_dt": "13-May-2026 20:32:32",
+      "desc": "Updates",
+      "sm_name": "NLC India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLCINDIA_13052026202847_FInancialResults31032026_compressed.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 20:15:07",
+      "an_dt": "13-May-2026 20:15:07",
+      "desc": "Dividend",
+      "sm_name": "NLC India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLCINDIA_13052026201001_FInancialResults31032026_compressed.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 20:15:07",
+      "an_dt": "13-May-2026 20:15:07",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "NLC India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLCINDIA_13052026200821_FInancialResults31032026_compressed.pdf"
+    },
     {
       "sort_date": "2026-05-04 19:08:06",
       "an_dt": "04-May-2026 19:08:06",
@@ -678,13 +706,6 @@
       "desc": "General Updates",
       "sm_name": "NLC India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLCINDIA_14022026163527_Press_Release_14_02_2026_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:19:05",
-      "an_dt": "11-Feb-2026 19:19:05",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "NLC India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLCINDIA_11022026191806_NewspaperPublication11022026.pdf"
     }
   ]
 }

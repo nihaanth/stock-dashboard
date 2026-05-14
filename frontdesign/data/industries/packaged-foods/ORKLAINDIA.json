@@ -8,17 +8,9 @@
   "price": 644.55,
   "market_cap_cr": 8829.64,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 567.1,
-      "prev_close": 586.95,
-      "volume": 148444,
-      "deliverable_qty": 82488,
-      "delivery_pct": 55.57
-    },
     {
       "date": "2026-02-12",
       "close": 556.8,
@@ -466,6 +458,14 @@
       "volume": 34417,
       "deliverable_qty": 21855,
       "delivery_pct": 63.5
+    },
+    {
+      "date": "2026-05-13",
+      "close": 627.95,
+      "prev_close": 639.2,
+      "volume": 35443,
+      "deliverable_qty": 18160,
+      "delivery_pct": 51.24
     }
   ],
   "news": [
@@ -566,41 +566,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Orkla India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORKLA2025_12022026182430_SIGNEDSEIntimationNewspaper.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 21:08:42",
-      "an_dt": "11-Feb-2026 21:08:42",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Orkla India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORKLA2025_11022026210833_SIGNEDRecordingIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:27:14",
-      "an_dt": "11-Feb-2026 16:27:14",
-      "desc": "Press Release",
-      "sm_name": "Orkla India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORKLA2025_11022026162651_SIGNEDPRIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:22:42",
-      "an_dt": "11-Feb-2026 16:22:42",
-      "desc": "Investor Presentation",
-      "sm_name": "Orkla India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORKLA2025_11022026162202_SIGNEDEARNINGSPPTlIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:19:25",
-      "an_dt": "11-Feb-2026 16:19:25",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Orkla India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORKLA2025_11022026161649_SIGNEDBMOutcomeQ3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:12:15",
-      "an_dt": "11-Feb-2026 16:12:15",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Orkla India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORKLA2025_11022026161141_SIGNEDBMOutcomeQ3FY26.pdf"
     }
   ]
 }

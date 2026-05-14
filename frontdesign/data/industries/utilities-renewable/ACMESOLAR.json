@@ -8,17 +8,9 @@
   "price": 284.05,
   "market_cap_cr": 17193.45,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 228.74,
-      "prev_close": 236.85,
-      "volume": 801772,
-      "deliverable_qty": 368344,
-      "delivery_pct": 45.94
-    },
     {
       "date": "2026-02-12",
       "close": 223.96,
@@ -466,9 +458,24 @@
       "volume": 1519744,
       "deliverable_qty": 551803,
       "delivery_pct": 36.31
+    },
+    {
+      "date": "2026-05-13",
+      "close": 282.55,
+      "prev_close": 283.8,
+      "volume": 1030716,
+      "deliverable_qty": 426093,
+      "delivery_pct": 41.34
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 18:28:53",
+      "an_dt": "13-May-2026 18:28:53",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_13052026182756_NPAD.pdf"
+    },
     {
       "sort_date": "2026-05-12 21:13:25",
       "an_dt": "12-May-2026 21:13:25",

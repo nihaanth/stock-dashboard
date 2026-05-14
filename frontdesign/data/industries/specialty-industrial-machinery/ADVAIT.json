@@ -8,17 +8,9 @@
   "price": 2027.1,
   "market_cap_cr": 2216.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 1790.2,
-      "prev_close": 1633.1,
-      "volume": 133115,
-      "deliverable_qty": 47074,
-      "delivery_pct": 35.36
-    },
     {
       "date": "2026-02-12",
       "close": 1785.3,
@@ -466,6 +458,14 @@
       "volume": 49062,
       "deliverable_qty": 25697,
       "delivery_pct": 52.38
+    },
+    {
+      "date": "2026-05-13",
+      "close": 2009.3,
+      "prev_close": 1908.6,
+      "volume": 69523,
+      "deliverable_qty": 27640,
+      "delivery_pct": 39.76
     }
   ],
   "news": [
@@ -615,34 +615,6 @@
       "desc": "Updates",
       "sm_name": "Advait Energy Transitions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_12022026151919_SEL1intimaiton12022026s.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 20:22:28",
-      "an_dt": "11-Feb-2026 20:22:28",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Advait Energy Transitions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_11022026201832_AETLBMOutcome11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:44:45",
-      "an_dt": "11-Feb-2026 19:44:45",
-      "desc": "Investor Presentation",
-      "sm_name": "Advait Energy Transitions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_11022026194433_AETLSEIP31122025.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:28:56",
-      "an_dt": "11-Feb-2026 17:28:56",
-      "desc": "Updates",
-      "sm_name": "Advait Energy Transitions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_11022026172827_SoD31122025s.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:07:19",
-      "an_dt": "11-Feb-2026 15:07:19",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Advait Energy Transitions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_11022026150522_AETLBMOutcome11022026.pdf"
     }
   ]
 }

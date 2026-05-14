@@ -8,17 +8,9 @@
   "price": 366.7,
   "market_cap_cr": 6388.09,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 296.55,
-      "prev_close": 295.45,
-      "volume": 305674,
-      "deliverable_qty": 140409,
-      "delivery_pct": 45.93
-    },
     {
       "date": "2026-02-12",
       "close": 299.3,
@@ -466,9 +458,38 @@
       "volume": 335319,
       "deliverable_qty": 171183,
       "delivery_pct": 51.05
+    },
+    {
+      "date": "2026-05-13",
+      "close": 349.2,
+      "prev_close": 350.8,
+      "volume": 538668,
+      "deliverable_qty": 160837,
+      "delivery_pct": 29.86
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 13:02:31",
+      "an_dt": "13-May-2026 13:02:31",
+      "desc": "General Updates",
+      "sm_name": "Ceigall India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ceigall_13052026130221_Intimation_Ayodhya_Milestone_II.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 12:05:09",
+      "an_dt": "13-May-2026 12:05:09",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "Ceigall India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ceigall_13052026120454_L1_Intimation_Solar-BESS-III_50MW_.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 11:56:40",
+      "an_dt": "13-May-2026 11:56:40",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "Ceigall India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ceigall_13052026115629_L1_Intimation_Solar-BESS-II.pdf"
+    },
     {
       "sort_date": "2026-05-12 17:55:22",
       "an_dt": "12-May-2026 17:55:22",
@@ -860,13 +881,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "Ceigall India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ceigall_12022026082145_LOA_12022026_Final_Bihar.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 22:32:56",
-      "an_dt": "11-Feb-2026 22:32:56",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Ceigall India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ceigall_11022026223052_Investor_Meet_11022026_1.pdf"
     }
   ]
 }

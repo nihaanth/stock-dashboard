@@ -8,17 +8,9 @@
   "price": 101.91,
   "market_cap_cr": 1365.68,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 144.97,
-      "prev_close": 147.85,
-      "volume": 109471,
-      "deliverable_qty": 38144,
-      "delivery_pct": 34.84
-    },
     {
       "date": "2026-02-12",
       "close": 147.27,
@@ -466,6 +458,14 @@
       "volume": 300459,
       "deliverable_qty": 88276,
       "delivery_pct": 29.38
+    },
+    {
+      "date": "2026-05-13",
+      "close": 99.61,
+      "prev_close": 101.39,
+      "volume": 290110,
+      "deliverable_qty": 71551,
+      "delivery_pct": 24.66
     }
   ],
   "news": [
@@ -587,34 +587,6 @@
       "desc": "General Updates",
       "sm_name": "Wonder Electricals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WFL_12022026150145_PRESSRELEASEWonder12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 13:55:34",
-      "an_dt": "11-Feb-2026 13:55:34",
-      "desc": "Appointment",
-      "sm_name": "Wonder Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WFL_11022026135518_Outcomeboardmeeting11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 13:53:35",
-      "an_dt": "11-Feb-2026 13:53:35",
-      "desc": "Record Date",
-      "sm_name": "Wonder Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WFL_11022026135301_Outcomeboardmeeting11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 13:47:15",
-      "an_dt": "11-Feb-2026 13:47:15",
-      "desc": "Dividend",
-      "sm_name": "Wonder Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WFL_11022026134658_Outcomeboardmeeting11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 13:43:40",
-      "an_dt": "11-Feb-2026 13:43:40",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Wonder Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WFL_11022026134013_Outcomeboardmeeting11022026.pdf"
     }
   ]
 }

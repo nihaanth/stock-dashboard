@@ -8,17 +8,9 @@
   "price": 152.31,
   "market_cap_cr": 14324.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 156.43,
-      "prev_close": 159.67,
-      "volume": 2388907,
-      "deliverable_qty": 1030281,
-      "delivery_pct": 43.13
-    },
     {
       "date": "2026-02-12",
       "close": 154.47,
@@ -466,6 +458,14 @@
       "volume": 3329344,
       "deliverable_qty": 1268848,
       "delivery_pct": 38.11
+    },
+    {
+      "date": "2026-05-13",
+      "close": 145.65,
+      "prev_close": 143.96,
+      "volume": 2807630,
+      "deliverable_qty": 717705,
+      "delivery_pct": 25.56
     }
   ],
   "news": [
@@ -594,41 +594,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Ircon International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCON_12022026113145_NewspaperIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:05:51",
-      "an_dt": "11-Feb-2026 18:05:51",
-      "desc": "Press Release",
-      "sm_name": "Ircon International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCON_11022026180543_Pressrelease.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:03:57",
-      "an_dt": "11-Feb-2026 18:03:57",
-      "desc": "Investor Presentation",
-      "sm_name": "Ircon International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCON_11022026180347_IntimationInvestorPresentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:23:12",
-      "an_dt": "11-Feb-2026 17:23:12",
-      "desc": "Dividend",
-      "sm_name": "Ircon International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCON_11022026172231_OutcomeBOD11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:20:01",
-      "an_dt": "11-Feb-2026 17:20:01",
-      "desc": "Record Date",
-      "sm_name": "Ircon International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCON_11022026171947_OutcomeBOD11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:07:46",
-      "an_dt": "11-Feb-2026 17:07:46",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Ircon International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCON_11022026170618_OutcomeBOD11022026.pdf"
     }
   ]
 }

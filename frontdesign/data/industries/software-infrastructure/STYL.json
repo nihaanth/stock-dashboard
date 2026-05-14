@@ -8,17 +8,9 @@
   "price": 230.04,
   "market_cap_cr": 3722.18,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 272.58,
-      "prev_close": 270.02,
-      "volume": 62676,
-      "deliverable_qty": 34247,
-      "delivery_pct": 54.64
-    },
     {
       "date": "2026-02-12",
       "close": 265.9,
@@ -466,9 +458,24 @@
       "volume": 117830,
       "deliverable_qty": 62979,
       "delivery_pct": 53.45
+    },
+    {
+      "date": "2026-05-13",
+      "close": 255.01,
+      "prev_close": 255.92,
+      "volume": 61657,
+      "deliverable_qty": 29855,
+      "delivery_pct": 48.42
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 19:20:44",
+      "an_dt": "13-May-2026 19:20:44",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Seshaasai Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SESHTECH2024_13052026192028_Seshaasai_Technologies_Limited_Investor_meet_intimation_signed.pdf"
+    },
     {
       "sort_date": "2026-04-13 17:38:56",
       "an_dt": "13-Apr-2026 17:38:56",

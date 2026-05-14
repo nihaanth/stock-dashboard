@@ -8,17 +8,9 @@
   "price": 875.75,
   "market_cap_cr": 10509.3,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 885.45,
-      "prev_close": 894.6,
-      "volume": 90252,
-      "deliverable_qty": 57853,
-      "delivery_pct": 64.1
-    },
     {
       "date": "2026-02-12",
       "close": 854.7,
@@ -466,9 +458,24 @@
       "volume": 131267,
       "deliverable_qty": 94088,
       "delivery_pct": 71.68
+    },
+    {
+      "date": "2026-05-13",
+      "close": 889.6,
+      "prev_close": 868.9,
+      "volume": 125319,
+      "deliverable_qty": 82882,
+      "delivery_pct": 66.14
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 16:33:48",
+      "an_dt": "13-May-2026 16:33:48",
+      "desc": "General Updates",
+      "sm_name": "Medplus Health Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDPLUS_13052026163323_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-12 18:33:38",
       "an_dt": "12-May-2026 18:33:38",

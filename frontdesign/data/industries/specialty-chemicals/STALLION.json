@@ -8,17 +8,9 @@
   "price": 140.81,
   "market_cap_cr": 1634.6,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 167.42,
-      "prev_close": 187.88,
-      "volume": 2108589,
-      "deliverable_qty": 869302,
-      "delivery_pct": 41.23
-    },
     {
       "date": "2026-02-12",
       "close": 173.85,
@@ -466,9 +458,24 @@
       "volume": 945579,
       "deliverable_qty": 426824,
       "delivery_pct": 45.14
+    },
+    {
+      "date": "2026-05-13",
+      "close": 139.96,
+      "prev_close": 147.29,
+      "volume": 3123246,
+      "deliverable_qty": 1088765,
+      "delivery_pct": 34.86
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 13:34:34",
+      "an_dt": "13-May-2026 13:34:34",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Stallion India Fluorochemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STALLION_13052026133120_OutcomeforuploadingSigned.pdf"
+    },
     {
       "sort_date": "2026-05-12 16:25:12",
       "an_dt": "12-May-2026 16:25:12",
@@ -622,13 +629,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Stallion India Fluorochemicals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/STALLION_12022026135256_OutcomeSigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 12:19:00",
-      "an_dt": "11-Feb-2026 12:19:00",
-      "desc": "Press Release",
-      "sm_name": "Stallion India Fluorochemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STALLION_11022026121851_PressReleaseforSubsidyfromRajGovtSigned.pdf"
     }
   ]
 }

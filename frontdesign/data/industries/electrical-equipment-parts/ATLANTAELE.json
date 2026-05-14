@@ -8,17 +8,9 @@
   "price": 1728.4,
   "market_cap_cr": 13290.81,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 891.75,
-      "prev_close": 902.45,
-      "volume": 36672,
-      "deliverable_qty": 16711,
-      "delivery_pct": 45.57
-    },
     {
       "date": "2026-02-12",
       "close": 897.15,
@@ -418,6 +410,14 @@
       "volume": 436549,
       "deliverable_qty": 243818,
       "delivery_pct": 55.85
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1811.3,
+      "prev_close": 1814.8,
+      "volume": 198133,
+      "deliverable_qty": 108880,
+      "delivery_pct": 54.95
     }
   ],
   "news": [
@@ -574,20 +574,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Atlanta Electricals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ATLANTAIPO123_13022026173300_Intimation_Schedule_of_Meet_18022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:14:10",
-      "an_dt": "11-Feb-2026 16:14:10",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Atlanta Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ATLANTAIPO123_11022026161347_Intimation_Investor_Meet_17022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:45:12",
-      "an_dt": "11-Feb-2026 14:45:12",
-      "desc": "Credit Rating",
-      "sm_name": "Atlanta Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ATLANTAIPO123_11022026144115_Intimation_Letter_Credit_Rating_Update.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 135.44,
   "market_cap_cr": 7346.36,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 129.12,
-      "prev_close": 127.78,
-      "volume": 3895670,
-      "deliverable_qty": 1048149,
-      "delivery_pct": 26.91
-    },
     {
       "date": "2026-02-12",
       "close": 131.57,
@@ -466,6 +458,14 @@
       "volume": 2390718,
       "deliverable_qty": 888931,
       "delivery_pct": 37.18
+    },
+    {
+      "date": "2026-05-13",
+      "close": 129.21,
+      "prev_close": 129.06,
+      "volume": 2358898,
+      "deliverable_qty": 938774,
+      "delivery_pct": 39.8
     }
   ],
   "news": [
@@ -573,27 +573,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Valor Estate Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DBR_13022026131800_SE_Intimation_newspaper_adv.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 20:47:31",
-      "an_dt": "11-Feb-2026 20:47:31",
-      "desc": "Appointment",
-      "sm_name": "Valor Estate Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DBR_11022026204720_NSE.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 20:45:07",
-      "an_dt": "11-Feb-2026 20:45:07",
-      "desc": "Cessation",
-      "sm_name": "Valor Estate Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DBR_11022026204445_NSE.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 20:12:28",
-      "an_dt": "11-Feb-2026 20:12:28",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Valor Estate Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DBR_11022026200806_Outcome_of_the_BM_11022026.pdf"
     }
   ]
 }

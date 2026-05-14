@@ -8,17 +8,9 @@
   "price": 251.6,
   "market_cap_cr": 9515.05,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 205.56,
-      "prev_close": 206.7,
-      "volume": 4294310,
-      "deliverable_qty": 1876000,
-      "delivery_pct": 43.69
-    },
     {
       "date": "2026-02-12",
       "close": 201.23,
@@ -466,6 +458,14 @@
       "volume": 2418566,
       "deliverable_qty": 1141253,
       "delivery_pct": 47.19
+    },
+    {
+      "date": "2026-05-13",
+      "close": 248.8,
+      "prev_close": 247.05,
+      "volume": 1662222,
+      "deliverable_qty": 769872,
+      "delivery_pct": 46.32
     }
   ],
   "news": [
@@ -622,20 +622,6 @@
       "desc": "Press Release",
       "sm_name": "The Karnataka Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KTKBANK_16022026121519_PRFINALF.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:40:37",
-      "an_dt": "11-Feb-2026 17:40:37",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "The Karnataka Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KTKBANK_11022026174009_concalloutcomedec.zip"
-    },
-    {
-      "sort_date": "2026-02-11 15:03:31",
-      "an_dt": "11-Feb-2026 15:03:31",
-      "desc": "Strikes/Lockouts/Disturbances",
-      "sm_name": "The Karnataka Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KTKBANK_11022026150100_bsensestrikenotificationsd.pdf"
     }
   ]
 }

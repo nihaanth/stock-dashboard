@@ -8,17 +8,9 @@
   "price": 292.95,
   "market_cap_cr": 4152.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 330.4,
-      "prev_close": 342.35,
-      "volume": 66858,
-      "deliverable_qty": 36294,
-      "delivery_pct": 54.29
-    },
     {
       "date": "2026-02-12",
       "close": 318.5,
@@ -466,6 +458,14 @@
       "volume": 76132,
       "deliverable_qty": 36638,
       "delivery_pct": 48.12
+    },
+    {
+      "date": "2026-05-13",
+      "close": 280.9,
+      "prev_close": 285.0,
+      "volume": 31090,
+      "deliverable_qty": 17464,
+      "delivery_pct": 56.17
     }
   ],
   "news": [
@@ -629,34 +629,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "PDS Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_12022026160743_Ltr_PostalBallot_Notice_12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:40:00",
-      "an_dt": "11-Feb-2026 18:40:00",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "PDS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_11022026183952_Ltr_InvestorMeet_11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:35:04",
-      "an_dt": "11-Feb-2026 18:35:04",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "PDS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_11022026183419_Ltr_IntimationofConCallAudio_11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 11:02:03",
-      "an_dt": "11-Feb-2026 11:02:03",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "PDS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_11022026110125_Ltr_NewspaperAdvt_11022026_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 10:49:18",
-      "an_dt": "11-Feb-2026 10:49:18",
-      "desc": "Corrigendum",
-      "sm_name": "PDS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_11022026104909_Ltr_InvestorPPT_11022026_Revised.pdf"
     }
   ]
 }

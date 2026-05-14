@@ -8,17 +8,9 @@
   "price": 660.45,
   "market_cap_cr": 16559.89,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 666.5,
-      "prev_close": 674.15,
-      "volume": 256875,
-      "deliverable_qty": 165154,
-      "delivery_pct": 64.29
-    },
     {
       "date": "2026-02-12",
       "close": 654.3,
@@ -466,6 +458,14 @@
       "volume": 190675,
       "deliverable_qty": 132156,
       "delivery_pct": 69.31
+    },
+    {
+      "date": "2026-05-13",
+      "close": 648.35,
+      "prev_close": 658.2,
+      "volume": 85783,
+      "deliverable_qty": 37544,
+      "delivery_pct": 43.77
     }
   ],
   "news": [
@@ -608,20 +608,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Bikaji Foods International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIKAJIFOODS_17022026163117_112.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:01:29",
-      "an_dt": "11-Feb-2026 18:01:29",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Bikaji Foods International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIKAJIFOODS_11022026175919_111.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:54:42",
-      "an_dt": "11-Feb-2026 17:54:42",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Bikaji Foods International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIKAJIFOODS_11022026175417_110.pdf"
     }
   ]
 }

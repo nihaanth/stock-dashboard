@@ -8,17 +8,9 @@
   "price": 122.41,
   "market_cap_cr": 583.53,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 110.24,
-      "prev_close": 114.72,
-      "volume": 88175,
-      "deliverable_qty": 65216,
-      "delivery_pct": 73.96
-    },
     {
       "date": "2026-02-12",
       "close": 110.18,
@@ -466,9 +458,24 @@
       "volume": 10125,
       "deliverable_qty": 8791,
       "delivery_pct": 86.82
+    },
+    {
+      "date": "2026-05-13",
+      "close": 116.92,
+      "prev_close": 120.47,
+      "volume": 16244,
+      "deliverable_qty": 12274,
+      "delivery_pct": 75.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 22:19:59",
+      "an_dt": "13-May-2026 22:19:59",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Entertainment Network (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENIL_13052026221946_ENILQ4FY26EarningsConferenceCall.pdf"
+    },
     {
       "sort_date": "2026-04-29 17:23:57",
       "an_dt": "29-Apr-2026 17:23:57",
@@ -531,20 +538,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Entertainment Network (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENIL_12022026142841_ENIL20260210Reg33ResultsNewspapers.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:08:45",
-      "an_dt": "11-Feb-2026 19:08:45",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Entertainment Network (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENIL_11022026190830_ENIL20260211EarningsCallAudioRecordingQ3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:11:25",
-      "an_dt": "11-Feb-2026 15:11:25",
-      "desc": "Investor Presentation",
-      "sm_name": "Entertainment Network (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENIL_11022026151112_ENIL20260211InvestorPPTQ3FY26.pdf"
     }
   ]
 }

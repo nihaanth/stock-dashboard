@@ -8,17 +8,9 @@
   "price": 1021.4,
   "market_cap_cr": 76437.37,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 990.25,
-      "prev_close": 1001.15,
-      "volume": 1582054,
-      "deliverable_qty": 965449,
-      "delivery_pct": 61.03
-    },
     {
       "date": "2026-02-12",
       "close": 1000.6,
@@ -466,9 +458,24 @@
       "volume": 1173051,
       "deliverable_qty": 686660,
       "delivery_pct": 58.54
+    },
+    {
+      "date": "2026-05-13",
+      "close": 994.8,
+      "prev_close": 999.6,
+      "volume": 1163023,
+      "deliverable_qty": 598742,
+      "delivery_pct": 51.48
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 19:00:49",
+      "an_dt": "13-May-2026 19:00:49",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "AU Small Finance Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AUBANK_13052026185901_20260513_Investor_meet_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-07 08:54:24",
       "an_dt": "07-May-2026 08:54:24",

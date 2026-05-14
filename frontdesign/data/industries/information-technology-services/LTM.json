@@ -8,7 +8,7 @@
   "price": 4352.2,
   "market_cap_cr": 129025.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
     {
@@ -370,9 +370,24 @@
       "volume": 582726,
       "deliverable_qty": 280533,
       "delivery_pct": 48.14
+    },
+    {
+      "date": "2026-05-13",
+      "close": 4086.4,
+      "prev_close": 4143.8,
+      "volume": 325724,
+      "deliverable_qty": 151604,
+      "delivery_pct": 46.54
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 10:50:48",
+      "an_dt": "13-May-2026 10:50:48",
+      "desc": "Press Release",
+      "sm_name": "LTM Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LTI_13052026105033_Intimationtostockexchanges.pdf"
+    },
     {
       "sort_date": "2026-05-11 18:50:23",
       "an_dt": "11-May-2026 18:50:23",
@@ -659,41 +674,6 @@
       "desc": "Press Release",
       "sm_name": "LTIMindtree Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LTI_16022026133418_stockexchangelettersigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:40:03",
-      "an_dt": "11-Feb-2026 16:40:03",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "LTIMindtree Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LTI_11022026163954_Stockexchangeintimationadvt.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:10:40",
-      "an_dt": "11-Feb-2026 16:10:40",
-      "desc": "Shareholders meeting",
-      "sm_name": "LTIMindtree Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LTI_11022026161029_Stockexchangeintimationpb.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:07:06",
-      "an_dt": "11-Feb-2026 15:07:06",
-      "desc": "Updates",
-      "sm_name": "LTIMindtree Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LTI_11022026150653_SEIntimationBoard_resolution.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:03:39",
-      "an_dt": "11-Feb-2026 15:03:39",
-      "desc": "Press Release",
-      "sm_name": "LTIMindtree Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LTI_11022026150327_SEIntimationBoard_resolution.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:58:42",
-      "an_dt": "11-Feb-2026 14:58:42",
-      "desc": "Name Change",
-      "sm_name": "LTIMindtree Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LTI_11022026145525_SEIntimationBoard_resolution.pdf"
     }
   ]
 }

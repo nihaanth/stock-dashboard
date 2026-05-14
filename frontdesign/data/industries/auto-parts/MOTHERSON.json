@@ -8,17 +8,9 @@
   "price": 119.11,
   "market_cap_cr": 125437.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 130.17,
-      "prev_close": 129.43,
-      "volume": 58063031,
-      "deliverable_qty": 13295406,
-      "delivery_pct": 22.9
-    },
     {
       "date": "2026-02-12",
       "close": 132.74,
@@ -466,6 +458,14 @@
       "volume": 20474526,
       "deliverable_qty": 9181088,
       "delivery_pct": 44.84
+    },
+    {
+      "date": "2026-05-13",
+      "close": 126.32,
+      "prev_close": 124.26,
+      "volume": 15031563,
+      "deliverable_qty": 6795283,
+      "delivery_pct": 45.21
     }
   ],
   "news": [
@@ -783,13 +783,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Samvardhana Motherson International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOTHERSON_16022026185646_SE_Disclosure_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:11:54",
-      "an_dt": "11-Feb-2026 16:11:54",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Samvardhana Motherson International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOTHERSON_11022026161146_SE_Disclosure_Newspaper_Q3_Results.pdf"
     }
   ]
 }

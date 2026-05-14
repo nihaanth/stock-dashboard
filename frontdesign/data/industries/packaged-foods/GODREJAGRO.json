@@ -8,17 +8,9 @@
   "price": 587.2,
   "market_cap_cr": 11303.44,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 591.3,
-      "prev_close": 595.35,
-      "volume": 180886,
-      "deliverable_qty": 80167,
-      "delivery_pct": 44.32
-    },
     {
       "date": "2026-02-12",
       "close": 633.0,
@@ -466,6 +458,14 @@
       "volume": 98597,
       "deliverable_qty": 57189,
       "delivery_pct": 58.0
+    },
+    {
+      "date": "2026-05-13",
+      "close": 563.25,
+      "prev_close": 572.85,
+      "volume": 110070,
+      "deliverable_qty": 55524,
+      "delivery_pct": 50.44
     }
   ],
   "news": [
@@ -734,13 +734,6 @@
       "desc": "Action(s) taken or orders passed",
       "sm_name": "Godrej Agrovet Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GODREJAGRO_24022026221110_BSENSEGAVLREG24022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 13:42:42",
-      "an_dt": "11-Feb-2026 13:42:42",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Godrej Agrovet Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GODREJAGRO_11022026134230_BSENSECONCALLTRANSCRIPT04022026.pdf"
     }
   ]
 }

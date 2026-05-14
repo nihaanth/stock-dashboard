@@ -8,17 +8,9 @@
   "price": 1788.3,
   "market_cap_cr": 285680.44,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 2027.0,
-      "prev_close": 2027.9,
-      "volume": 538669,
-      "deliverable_qty": 258154,
-      "delivery_pct": 47.92
-    },
     {
       "date": "2026-02-12",
       "close": 2037.1,
@@ -466,6 +458,14 @@
       "volume": 1041932,
       "deliverable_qty": 509016,
       "delivery_pct": 48.85
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1728.9,
+      "prev_close": 1744.8,
+      "volume": 666278,
+      "deliverable_qty": 303053,
+      "delivery_pct": 45.48
     }
   ],
   "news": [
@@ -615,13 +615,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Bajaj Finserv Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/walimbelk_17022026183603_BFS_ESOP_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:22:47",
-      "an_dt": "11-Feb-2026 19:22:47",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Bajaj Finserv Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/walimbelk_11022026192236_BFSCALLTRANSCRIPTQ3FY26.pdf"
     }
   ]
 }

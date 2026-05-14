@@ -8,17 +8,9 @@
   "price": 122.59,
   "market_cap_cr": 12726.93,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 122.87,
-      "prev_close": 126.18,
-      "volume": 10327497,
-      "deliverable_qty": 5435355,
-      "delivery_pct": 52.63
-    },
     {
       "date": "2026-02-12",
       "close": 123.38,
@@ -466,9 +458,31 @@
       "volume": 46622568,
       "deliverable_qty": 7284806,
       "delivery_pct": 15.63
+    },
+    {
+      "date": "2026-05-13",
+      "close": 126.2,
+      "prev_close": 127.63,
+      "volume": 11537671,
+      "deliverable_qty": 3827865,
+      "delivery_pct": 33.18
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 18:19:24",
+      "an_dt": "13-May-2026 18:19:24",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Paradeep Phosphates Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PPLTD_13052026181857_Audiointimation1305026.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 18:10:39",
+      "an_dt": "13-May-2026 18:10:39",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Paradeep Phosphates Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PPLTD_13052026180959_NewspaperIntimationQ4FY2026.pdf"
+    },
     {
       "sort_date": "2026-05-12 18:33:14",
       "an_dt": "12-May-2026 18:33:14",

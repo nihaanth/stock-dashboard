@@ -8,17 +8,9 @@
   "price": 320.35,
   "market_cap_cr": 798.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 255.63,
-      "prev_close": 243.49,
-      "volume": 46296,
-      "deliverable_qty": 33039,
-      "delivery_pct": 71.36
-    },
     {
       "date": "2026-02-12",
       "close": 256.16,
@@ -466,9 +458,24 @@
       "volume": 133556,
       "deliverable_qty": 75803,
       "delivery_pct": 56.76
+    },
+    {
+      "date": "2026-05-13",
+      "close": 295.55,
+      "prev_close": 306.4,
+      "volume": 85130,
+      "deliverable_qty": 41706,
+      "delivery_pct": 48.99
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 15:06:16",
+      "an_dt": "13-May-2026 15:06:16",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "DMCC SPECIALITY CHEMICALS LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYUSHI_13052026150537_DMCC_Q4FY26_ConCall_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-04 18:18:44",
       "an_dt": "04-May-2026 18:18:44",
@@ -531,13 +538,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "DMCC SPECIALITY CHEMICALS LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYUSHI_12022026142844_DMCC_Adv_12022026sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:03:35",
-      "an_dt": "11-Feb-2026 16:03:35",
-      "desc": "Shareholders meeting",
-      "sm_name": "DMCC SPECIALITY CHEMICALS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYUSHI_11022026160318_DMCCPBNotice11022026.pdf"
     }
   ]
 }

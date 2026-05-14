@@ -8,17 +8,9 @@
   "price": 242.78,
   "market_cap_cr": 11850.88,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 143.7,
-      "prev_close": 157.48,
-      "volume": 31538907,
-      "deliverable_qty": 10780658,
-      "delivery_pct": 34.18
-    },
     {
       "date": "2026-02-12",
       "close": 154.53,
@@ -466,9 +458,24 @@
       "volume": 18342759,
       "deliverable_qty": 8335213,
       "delivery_pct": 45.44
+    },
+    {
+      "date": "2026-05-13",
+      "close": 405.15,
+      "prev_close": 398.3,
+      "volume": 6308634,
+      "deliverable_qty": 3022709,
+      "delivery_pct": 47.91
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 19:31:04",
+      "an_dt": "13-May-2026 19:31:04",
+      "desc": "Action(s) taken or orders passed",
+      "sm_name": "Sterlite Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STLTECH_13052026193016_SE_Intimation_NFS_Multiple_Ducting_matter-_GSB_signed.pdf"
+    },
     {
       "sort_date": "2026-05-05 19:00:26",
       "an_dt": "05-May-2026 19:00:26",

@@ -8,17 +8,9 @@
   "price": 285.9,
   "market_cap_cr": 1503.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 361.8,
-      "prev_close": 374.75,
-      "volume": 250542,
-      "deliverable_qty": 161488,
-      "delivery_pct": 64.46
-    },
     {
       "date": "2026-02-12",
       "close": 349.5,
@@ -466,6 +458,14 @@
       "volume": 95621,
       "deliverable_qty": 48641,
       "delivery_pct": 50.87
+    },
+    {
+      "date": "2026-05-13",
+      "close": 273.3,
+      "prev_close": 272.0,
+      "volume": 51954,
+      "deliverable_qty": 20728,
+      "delivery_pct": 39.9
     }
   ],
   "news": [
@@ -615,13 +615,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Go Fashion (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOCOLORS_13022026183234_NewspaperPublicationfinalupload.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:49:19",
-      "an_dt": "11-Feb-2026 17:49:19",
-      "desc": "Buyback",
-      "sm_name": "Go Fashion (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOCOLORS_11022026174907_LetterofofferBuybackFinalUpload.pdf"
     }
   ]
 }

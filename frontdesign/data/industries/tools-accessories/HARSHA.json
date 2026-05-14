@@ -8,17 +8,9 @@
   "price": 410.85,
   "market_cap_cr": 3740.55,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 385.8,
-      "prev_close": 397.7,
-      "volume": 38882,
-      "deliverable_qty": 27114,
-      "delivery_pct": 69.73
-    },
     {
       "date": "2026-02-12",
       "close": 386.3,
@@ -466,6 +458,14 @@
       "volume": 316308,
       "deliverable_qty": 118250,
       "delivery_pct": 37.38
+    },
+    {
+      "date": "2026-05-13",
+      "close": 406.25,
+      "prev_close": 412.25,
+      "volume": 153283,
+      "deliverable_qty": 71282,
+      "delivery_pct": 46.5
     }
   ],
   "news": [
@@ -573,13 +573,6 @@
       "desc": "Trading Window",
       "sm_name": "Harsha Engineers International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Harsha_24032026162325_TradingWindowClosureQ4FY2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 11:10:05",
-      "an_dt": "11-Feb-2026 11:10:05",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Harsha Engineers International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Harsha_11022026110945_HEIL_EarningTranscript_.pdf"
     }
   ]
 }

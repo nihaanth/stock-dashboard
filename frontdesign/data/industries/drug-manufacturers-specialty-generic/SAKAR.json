@@ -8,17 +8,9 @@
   "price": 529.6,
   "market_cap_cr": 1162.47,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 469.8,
-      "prev_close": 463.75,
-      "volume": 125092,
-      "deliverable_qty": 58984,
-      "delivery_pct": 47.15
-    },
     {
       "date": "2026-02-12",
       "close": 474.85,
@@ -466,9 +458,31 @@
       "volume": 936526,
       "deliverable_qty": 245446,
       "delivery_pct": 26.21
+    },
+    {
+      "date": "2026-05-13",
+      "close": 599.45,
+      "prev_close": 569.65,
+      "volume": 482029,
+      "deliverable_qty": 133464,
+      "delivery_pct": 27.69
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 21:15:12",
+      "an_dt": "13-May-2026 21:15:12",
+      "desc": "Investor Presentation",
+      "sm_name": "Sakar Healthcare Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAKAR_13052026211423_Announcement_-_Investor_Presentation.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 09:13:14",
+      "an_dt": "13-May-2026 09:13:14",
+      "desc": "Press Release",
+      "sm_name": "Sakar Healthcare Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAKAR_13052026091257_Announcement_-_Media_Release.pdf"
+    },
     {
       "sort_date": "2026-05-12 13:40:20",
       "an_dt": "12-May-2026 13:40:20",
@@ -552,13 +566,6 @@
       "desc": "Clarification - Financial Results",
       "sm_name": "Sakar Healthcare Limited",
       "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-02-11 16:17:11",
-      "an_dt": "11-Feb-2026 16:17:11",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Sakar Healthcare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAKAR_11022026161650_Announcement_-_Audio_Recording.pdf"
     }
   ]
 }

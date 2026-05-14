@@ -8,17 +8,9 @@
   "price": 280.5,
   "market_cap_cr": 27113.66,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 319.0,
-      "prev_close": 325.5,
-      "volume": 1887341,
-      "deliverable_qty": 1059474,
-      "delivery_pct": 56.14
-    },
     {
       "date": "2026-02-12",
       "close": 318.85,
@@ -466,9 +458,24 @@
       "volume": 6411205,
       "deliverable_qty": 3029828,
       "delivery_pct": 47.26
+    },
+    {
+      "date": "2026-05-13",
+      "close": 280.2,
+      "prev_close": 283.9,
+      "volume": 4515178,
+      "deliverable_qty": 2243857,
+      "delivery_pct": 49.7
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 15:09:02",
+      "an_dt": "13-May-2026 15:09:02",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Karur Vysya Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KARURVYSYA_13052026150853_NSE_BSE_IEPF_Intimation_DSC.pdf"
+    },
     {
       "sort_date": "2026-05-12 16:14:06",
       "an_dt": "12-May-2026 16:14:06",
@@ -713,27 +720,6 @@
       "desc": "Press Release",
       "sm_name": "Karur Vysya Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KARURVYSYA_18022026193525_Intimation_19_02_2026_DSC.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:03:48",
-      "an_dt": "11-Feb-2026 19:03:48",
-      "desc": "Updates",
-      "sm_name": "Karur Vysya Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KARURVYSYA_11022026190137_Approval_intimation_DSC.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:39:01",
-      "an_dt": "11-Feb-2026 15:39:01",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Karur Vysya Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KARURVYSYA_11022026153830_Investor_meet_26_02_2026_DSC.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:36:18",
-      "an_dt": "11-Feb-2026 15:36:18",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Karur Vysya Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KARURVYSYA_11022026153530_Investor_meet_25_02_2026_DSC.pdf"
     }
   ]
 }

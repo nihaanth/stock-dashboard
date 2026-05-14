@@ -8,17 +8,9 @@
   "price": 503.35,
   "market_cap_cr": 856.66,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 466.25,
-      "prev_close": 462.85,
-      "volume": 24900,
-      "deliverable_qty": 13414,
-      "delivery_pct": 53.87
-    },
     {
       "date": "2026-02-12",
       "close": 467.1,
@@ -466,6 +458,14 @@
       "volume": 5476,
       "deliverable_qty": 3310,
       "delivery_pct": 60.45
+    },
+    {
+      "date": "2026-05-13",
+      "close": 473.15,
+      "prev_close": 482.25,
+      "volume": 10993,
+      "deliverable_qty": 7552,
+      "delivery_pct": 68.7
     }
   ],
   "news": [
@@ -573,20 +573,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "N R Agarwal Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NRAIL_12022026122733_NewspaperPublication11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:51:20",
-      "an_dt": "11-Feb-2026 16:51:20",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "N R Agarwal Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NRAIL_11022026164846_OutcomeofBoardMeeting11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:45:08",
-      "an_dt": "11-Feb-2026 16:45:08",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "N R Agarwal Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NRAIL_11022026164450_OutcomeofBoardMeeting11022026.pdf"
     }
   ]
 }

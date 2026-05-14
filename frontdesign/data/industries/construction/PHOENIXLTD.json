@@ -8,17 +8,9 @@
   "price": 1810.9,
   "market_cap_cr": 64765.11,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 1784.0,
-      "prev_close": 1758.7,
-      "volume": 603769,
-      "deliverable_qty": 356873,
-      "delivery_pct": 59.11
-    },
     {
       "date": "2026-02-12",
       "close": 1779.0,
@@ -466,9 +458,24 @@
       "volume": 641361,
       "deliverable_qty": 346358,
       "delivery_pct": 54.0
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1738.4,
+      "prev_close": 1731.0,
+      "volume": 330371,
+      "deliverable_qty": 181649,
+      "delivery_pct": 54.98
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 18:42:36",
+      "an_dt": "13-May-2026 18:42:36",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "The Phoenix Mills Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PHOENIXLTD_13052026184223_PMLAnalystsInvestormeetoutcome13052026.pdf"
+    },
     {
       "sort_date": "2026-05-08 15:10:45",
       "an_dt": "08-May-2026 15:10:45",
@@ -699,20 +706,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "The Phoenix Mills Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PHOENIXLTD5_19022026161818_February_24_2026_Intimation_of_Investor_meet.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:55:03",
-      "an_dt": "11-Feb-2026 18:55:03",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "The Phoenix Mills Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PHOENIXLTD_11022026185351_PMLAnalystsInvestormeetoutcome11022026_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:42:43",
-      "an_dt": "11-Feb-2026 18:42:43",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "The Phoenix Mills Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PHOENIXLTD_11022026184208_PML_newspaperintimation_11022026_sd.pdf"
     }
   ]
 }

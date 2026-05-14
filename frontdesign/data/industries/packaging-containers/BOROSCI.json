@@ -8,17 +8,9 @@
   "price": 118.5,
   "market_cap_cr": 1054.02,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 105.5,
-      "prev_close": 106.19,
-      "volume": 42509,
-      "deliverable_qty": 28046,
-      "delivery_pct": 65.98
-    },
     {
       "date": "2026-02-12",
       "close": 116.55,
@@ -466,6 +458,14 @@
       "volume": 49308,
       "deliverable_qty": 23850,
       "delivery_pct": 48.37
+    },
+    {
+      "date": "2026-05-13",
+      "close": 113.04,
+      "prev_close": 113.81,
+      "volume": 48358,
+      "deliverable_qty": 28467,
+      "delivery_pct": 58.87
     }
   ],
   "news": [
@@ -496,27 +496,6 @@
       "desc": "General Updates",
       "sm_name": "Borosil Scientific Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BOROSCI_13022026150200_investor_presentation_dec_2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:40:58",
-      "an_dt": "11-Feb-2026 17:40:58",
-      "desc": "Options to purchase securities",
-      "sm_name": "Borosil Scientific Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BOROSCI_11022026173913_BSLESOPAllotmentIntimationsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:46:36",
-      "an_dt": "11-Feb-2026 16:46:36",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Borosil Scientific Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BOROSCI_11022026164420_OutcomeofBMsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:37:47",
-      "an_dt": "11-Feb-2026 16:37:47",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Borosil Scientific Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BOROSCI_11022026163647_OutcomeofBMsigned.pdf"
     }
   ]
 }

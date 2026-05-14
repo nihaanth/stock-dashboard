@@ -8,17 +8,9 @@
   "price": 92.95,
   "market_cap_cr": 4330.11,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 115.04,
-      "prev_close": 115.09,
-      "volume": 592570,
-      "deliverable_qty": 318730,
-      "delivery_pct": 53.79
-    },
     {
       "date": "2026-02-12",
       "close": 112.88,
@@ -466,9 +458,24 @@
       "volume": 1510123,
       "deliverable_qty": 789641,
       "delivery_pct": 52.29
+    },
+    {
+      "date": "2026-05-13",
+      "close": 95.66,
+      "prev_close": 93.43,
+      "volume": 4143665,
+      "deliverable_qty": 2085854,
+      "delivery_pct": 50.34
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 18:38:07",
+      "an_dt": "13-May-2026 18:38:07",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Thomas Cook  (India)  Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THOMASCOOK_13052026183459_Audio.pdf"
+    },
     {
       "sort_date": "2026-05-12 23:43:43",
       "an_dt": "12-May-2026 23:43:43",
@@ -930,20 +937,6 @@
       "desc": "Press Release",
       "sm_name": "Thomas Cook  (India)  Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/THOMASCOOK_12022026121922_SEINTIMATION_PRESSRELEASE_12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:20:06",
-      "an_dt": "11-Feb-2026 19:20:06",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Thomas Cook  (India)  Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THOMASCOOK_11022026191859_Newspaper_Pulication-Special_Window.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:13:48",
-      "an_dt": "11-Feb-2026 19:13:48",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Thomas Cook  (India)  Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THOMASCOOK_11022026190653_Neaspaper_Publication-Post_Dispatch_of_Notice.pdf"
     }
   ]
 }

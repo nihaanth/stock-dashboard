@@ -8,17 +8,9 @@
   "price": 174.69,
   "market_cap_cr": 1319.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 191.68,
-      "prev_close": 191.43,
-      "volume": 910636,
-      "deliverable_qty": 447777,
-      "delivery_pct": 49.17
-    },
     {
       "date": "2026-02-12",
       "close": 193.76,
@@ -466,9 +458,31 @@
       "volume": 114699,
       "deliverable_qty": 77231,
       "delivery_pct": 67.33
+    },
+    {
+      "date": "2026-05-13",
+      "close": 169.84,
+      "prev_close": 172.91,
+      "volume": 168057,
+      "deliverable_qty": 91205,
+      "delivery_pct": 54.27
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 19:05:01",
+      "an_dt": "13-May-2026 19:05:01",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Huhtamaki India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUHTAMAKI_13052026190444_HIL_InvestorCallrecording_13May26.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 12:24:50",
+      "an_dt": "13-May-2026 12:24:50",
+      "desc": "Investor Presentation",
+      "sm_name": "Huhtamaki India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUHTAMAKI_13052026122442_HIL_InvestorPresentation_May26.pdf"
+    },
     {
       "sort_date": "2026-05-12 20:50:42",
       "an_dt": "12-May-2026 20:50:42",

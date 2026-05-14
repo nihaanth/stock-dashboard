@@ -8,17 +8,9 @@
   "price": 2363.3,
   "market_cap_cr": 2906.69,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 2513.0,
-      "prev_close": 2577.8,
-      "volume": 30059,
-      "deliverable_qty": 12396,
-      "delivery_pct": 41.24
-    },
     {
       "date": "2026-02-12",
       "close": 2384.1,
@@ -466,6 +458,14 @@
       "volume": 54570,
       "deliverable_qty": 13774,
       "delivery_pct": 25.24
+    },
+    {
+      "date": "2026-05-13",
+      "close": 2301.1,
+      "prev_close": 2286.0,
+      "volume": 9992,
+      "deliverable_qty": 5233,
+      "delivery_pct": 52.37
     }
   ],
   "news": [
@@ -503,27 +503,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "KDDL Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KDDL_12022026173740_SA-NP.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:39:35",
-      "an_dt": "11-Feb-2026 14:39:35",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "KDDL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KDDL_11022026143858_CL.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:30:01",
-      "an_dt": "11-Feb-2026 14:30:01",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "KDDL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KDDL_11022026142800_CL.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:27:08",
-      "an_dt": "11-Feb-2026 14:27:08",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "KDDL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KDDL_11022026142549_CL.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 90.56,
   "market_cap_cr": 1042.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 91.3,
-      "prev_close": 86.88,
-      "volume": 4496246,
-      "deliverable_qty": 1113656,
-      "delivery_pct": 24.77
-    },
     {
       "date": "2026-02-12",
       "close": 93.05,
@@ -466,9 +458,24 @@
       "volume": 703521,
       "deliverable_qty": 365782,
       "delivery_pct": 51.99
+    },
+    {
+      "date": "2026-05-13",
+      "close": 87.8,
+      "prev_close": 84.69,
+      "volume": 942721,
+      "deliverable_qty": 412507,
+      "delivery_pct": 43.76
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 20:03:17",
+      "an_dt": "13-May-2026 20:03:17",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Excelsoft Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXCELSOFT_13052026200305_Monitoring_agency_reportsd.pdf"
+    },
     {
       "sort_date": "2026-04-30 13:22:17",
       "an_dt": "30-Apr-2026 13:22:17",

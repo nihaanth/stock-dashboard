@@ -8,17 +8,9 @@
   "price": 1231.3,
   "market_cap_cr": 41348.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 1520.4,
-      "prev_close": 1551.0,
-      "volume": 1685032,
-      "deliverable_qty": 889986,
-      "delivery_pct": 52.82
-    },
     {
       "date": "2026-02-12",
       "close": 1421.5,
@@ -466,6 +458,14 @@
       "volume": 4590660,
       "deliverable_qty": 2267365,
       "delivery_pct": 49.39
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1297.1,
+      "prev_close": 1320.4,
+      "volume": 2151407,
+      "deliverable_qty": 916471,
+      "delivery_pct": 42.6
     }
   ],
   "news": [
@@ -717,7 +717,7 @@
     {
       "sort_date": "2026-03-20 11:15:16",
       "an_dt": "20-Mar-2026 11:15:16",
-      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
+      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
       "sm_name": "Coforge Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/COFORGE_20032026111503_Intimation_for_RTA_Change.pdf"
     },
@@ -776,13 +776,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Coforge Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/COFORGE_16022026225632_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 11:01:47",
-      "an_dt": "11-Feb-2026 11:01:47",
-      "desc": "Press Release",
-      "sm_name": "Coforge Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COFORGE_11022026110126_PR_Intimation.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 1281.1,
   "market_cap_cr": 1801.1,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 971.2,
-      "prev_close": 976.8,
-      "volume": 48451,
-      "deliverable_qty": 24103,
-      "delivery_pct": 49.75
-    },
     {
       "date": "2026-02-12",
       "close": 986.2,
@@ -466,9 +458,24 @@
       "volume": 233327,
       "deliverable_qty": 110579,
       "delivery_pct": 47.39
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1158.1,
+      "prev_close": 1154.0,
+      "volume": 107742,
+      "deliverable_qty": 38630,
+      "delivery_pct": 35.85
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 19:51:26",
+      "an_dt": "13-May-2026 19:51:26",
+      "desc": "Retirement",
+      "sm_name": "Krishna Defence and Allied Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KRISHNA_13052026195108_RetirementMaroli.pdf"
+    },
     {
       "sort_date": "2026-05-12 16:39:42",
       "an_dt": "12-May-2026 16:39:42",

@@ -8,17 +8,9 @@
   "price": 2628.9,
   "market_cap_cr": 36978.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 2607.1,
-      "prev_close": 2519.8,
-      "volume": 153577,
-      "deliverable_qty": 79412,
-      "delivery_pct": 51.71
-    },
     {
       "date": "2026-02-12",
       "close": 2557.6,
@@ -466,6 +458,14 @@
       "volume": 202907,
       "deliverable_qty": 103322,
       "delivery_pct": 50.92
+    },
+    {
+      "date": "2026-05-13",
+      "close": 2529.7,
+      "prev_close": 2578.8,
+      "volume": 109525,
+      "deliverable_qty": 46225,
+      "delivery_pct": 42.2
     }
   ],
   "news": [
@@ -608,13 +608,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Endurance Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENDURANCE_12022026194558_Outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 13:05:51",
-      "an_dt": "11-Feb-2026 13:05:51",
-      "desc": "Agreements",
-      "sm_name": "Endurance Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENDURANCE_11022026130410_2026_02_11_-_Letter_SEs_promoter_agreement.pdf"
     }
   ]
 }

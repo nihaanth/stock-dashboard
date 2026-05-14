@@ -8,17 +8,9 @@
   "price": 163.81,
   "market_cap_cr": 125046.1,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 180.33,
-      "prev_close": 179.26,
-      "volume": 10157636,
-      "deliverable_qty": 4536023,
-      "delivery_pct": 44.66
-    },
     {
       "date": "2026-02-12",
       "close": 181.0,
@@ -466,6 +458,14 @@
       "volume": 11408910,
       "deliverable_qty": 5513901,
       "delivery_pct": 48.33
+    },
+    {
+      "date": "2026-05-13",
+      "close": 162.46,
+      "prev_close": 162.19,
+      "volume": 11841874,
+      "deliverable_qty": 5351327,
+      "delivery_pct": 45.19
     }
   ],
   "news": [
@@ -755,20 +755,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Union Bank of India",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIONBANK_12022026180044_12022026_Outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:16:21",
-      "an_dt": "11-Feb-2026 16:16:21",
-      "desc": "General Updates",
-      "sm_name": "Union Bank of India",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIONBANK_11022026161506_UBI_SELetter_11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:48:31",
-      "an_dt": "11-Feb-2026 14:48:31",
-      "desc": "General Updates",
-      "sm_name": "Union Bank of India",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIONBANK_11022026144559_UBI_Notice_of_Strike.pdf"
     }
   ]
 }

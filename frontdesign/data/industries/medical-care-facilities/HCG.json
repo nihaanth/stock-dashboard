@@ -8,17 +8,9 @@
   "price": 550.65,
   "market_cap_cr": 8221.33,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 611.45,
-      "prev_close": 585.55,
-      "volume": 216084,
-      "deliverable_qty": 106434,
-      "delivery_pct": 49.26
-    },
     {
       "date": "2026-02-12",
       "close": 595.05,
@@ -466,9 +458,24 @@
       "volume": 92906,
       "deliverable_qty": 47884,
       "delivery_pct": 51.54
+    },
+    {
+      "date": "2026-05-13",
+      "close": 608.3,
+      "prev_close": 606.35,
+      "volume": 113012,
+      "deliverable_qty": 54580,
+      "delivery_pct": 48.3
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 13:23:29",
+      "an_dt": "13-May-2026 13:23:29",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Healthcare Global Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HCG2_13052026132309_Monitoring_Agency_Report_12_May_2026.pdf"
+    },
     {
       "sort_date": "2026-05-07 12:16:03",
       "an_dt": "07-May-2026 12:16:03",

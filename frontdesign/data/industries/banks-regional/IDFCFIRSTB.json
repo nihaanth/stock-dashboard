@@ -8,17 +8,9 @@
   "price": 64.86,
   "market_cap_cr": 55793.91,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 82.56,
-      "prev_close": 83.77,
-      "volume": 21018851,
-      "deliverable_qty": 11464580,
-      "delivery_pct": 54.54
-    },
     {
       "date": "2026-02-12",
       "close": 82.15,
@@ -466,6 +458,14 @@
       "volume": 16597687,
       "deliverable_qty": 7181314,
       "delivery_pct": 43.27
+    },
+    {
+      "date": "2026-05-13",
+      "close": 68.3,
+      "prev_close": 67.68,
+      "volume": 16610311,
+      "deliverable_qty": 7128123,
+      "delivery_pct": 42.91
     }
   ],
   "news": [
@@ -706,13 +706,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "IDFC First Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IDFCFIRSTB_14022026140642_ESOP_Allotment_February_2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:03:36",
-      "an_dt": "11-Feb-2026 19:03:36",
-      "desc": "General Updates",
-      "sm_name": "IDFC First Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IDFCFIRSTB_11022026190246_IDFCFIRSTB_RBI_Approval_Acquisition_by_major_shareholders.pdf"
     }
   ]
 }

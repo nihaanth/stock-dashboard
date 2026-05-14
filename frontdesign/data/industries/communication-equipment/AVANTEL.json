@@ -8,17 +8,9 @@
   "price": 166.33,
   "market_cap_cr": 4419.57,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 154.13,
-      "prev_close": 150.34,
-      "volume": 5098670,
-      "deliverable_qty": 1331129,
-      "delivery_pct": 26.11
-    },
     {
       "date": "2026-02-12",
       "close": 151.31,
@@ -466,6 +458,14 @@
       "volume": 3651144,
       "deliverable_qty": 1397114,
       "delivery_pct": 38.27
+    },
+    {
+      "date": "2026-05-13",
+      "close": 156.05,
+      "prev_close": 157.01,
+      "volume": 1781833,
+      "deliverable_qty": 681581,
+      "delivery_pct": 38.25
     }
   ],
   "news": [
@@ -664,13 +664,6 @@
       "desc": "Resignation",
       "sm_name": "Avantel Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVANTEL_21022026202251_Intimation21022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 12:04:10",
-      "an_dt": "11-Feb-2026 12:04:10",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "Avantel Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVANTEL_11022026120121_Intimation11022026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 1023.5,
   "market_cap_cr": 228870.27,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 965.95,
-      "prev_close": 968.9,
-      "volume": 6275356,
-      "deliverable_qty": 3592368,
-      "delivery_pct": 57.25
-    },
     {
       "date": "2026-02-12",
       "close": 964.4,
@@ -466,9 +458,38 @@
       "volume": 4323348,
       "deliverable_qty": 2089150,
       "delivery_pct": 48.32
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1073.1,
+      "prev_close": 1041.4,
+      "volume": 5341453,
+      "deliverable_qty": 2266197,
+      "delivery_pct": 42.43
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 13:49:10",
+      "an_dt": "13-May-2026 13:49:10",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Hindalco Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_13052026134811_Reg47_SN_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 10:16:15",
+      "an_dt": "13-May-2026 10:16:15",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Hindalco Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_13052026101226_Hindalco_Earnings_call_intimation_Q4FY26_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 10:08:40",
+      "an_dt": "13-May-2026 10:08:40",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Hindalco Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_13052026100636_Novelis_Earnings_call_intimation_Q4FY26_signed.pdf"
+    },
     {
       "sort_date": "2026-05-12 12:47:44",
       "an_dt": "12-May-2026 12:47:44",
@@ -615,34 +636,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Hindalco Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_12022026165950_BM_Outcome_12022026_merged_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:39:22",
-      "an_dt": "11-Feb-2026 18:39:22",
-      "desc": "Acquisition",
-      "sm_name": "Hindalco Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_11022026183905_Reg30_Acquisition_by_SDS_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 18:17:24",
-      "an_dt": "11-Feb-2026 18:17:24",
-      "desc": "Disruption of Operations",
-      "sm_name": "Hindalco Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_11022026181619_Reg30_FireIncident_Novelis_Merged_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:50:37",
-      "an_dt": "11-Feb-2026 17:50:37",
-      "desc": "Investor Presentation",
-      "sm_name": "Hindalco Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_11022026174601_Novelis_Merged_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 17:43:09",
-      "an_dt": "11-Feb-2026 17:43:09",
-      "desc": "Press Release",
-      "sm_name": "Hindalco Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_11022026174256_Novelis_Merged_Signed.pdf"
     }
   ]
 }

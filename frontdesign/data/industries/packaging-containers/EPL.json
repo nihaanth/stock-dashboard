@@ -8,17 +8,9 @@
   "price": 236.75,
   "market_cap_cr": 7581.93,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 221.89,
-      "prev_close": 222.95,
-      "volume": 211767,
-      "deliverable_qty": 108932,
-      "delivery_pct": 51.44
-    },
     {
       "date": "2026-02-12",
       "close": 220.65,
@@ -466,9 +458,24 @@
       "volume": 567197,
       "deliverable_qty": 349083,
       "delivery_pct": 61.55
+    },
+    {
+      "date": "2026-05-13",
+      "close": 230.76,
+      "prev_close": 228.31,
+      "volume": 1243538,
+      "deliverable_qty": 490510,
+      "delivery_pct": 39.44
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 18:54:23",
+      "an_dt": "13-May-2026 18:54:23",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "EPL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Sonia_Gupte_13052026185415_SEintimationAllotmentSd.pdf"
+    },
     {
       "sort_date": "2026-05-08 17:02:49",
       "an_dt": "08-May-2026 17:02:49",

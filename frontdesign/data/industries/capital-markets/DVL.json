@@ -8,17 +8,9 @@
   "price": 255.16,
   "market_cap_cr": 893.69,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 264.55,
-      "prev_close": 267.6,
-      "volume": 15759,
-      "deliverable_qty": 9599,
-      "delivery_pct": 60.91
-    },
     {
       "date": "2026-02-12",
       "close": 257.8,
@@ -466,6 +458,14 @@
       "volume": 19408,
       "deliverable_qty": 15289,
       "delivery_pct": 78.78
+    },
+    {
+      "date": "2026-05-13",
+      "close": 242.71,
+      "prev_close": 245.16,
+      "volume": 7311,
+      "deliverable_qty": 5233,
+      "delivery_pct": 71.58
     }
   ],
   "news": [
@@ -496,27 +496,6 @@
       "desc": "Dividend",
       "sm_name": "Dhunseri Ventures Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DVL_20022026131527_Outcome20022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:07:26",
-      "an_dt": "11-Feb-2026 16:07:26",
-      "desc": "Trading Window",
-      "sm_name": "Dhunseri Ventures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DVL_11022026160708_Prior_intimation_of_Interim_Dividend.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:13:50",
-      "an_dt": "11-Feb-2026 15:13:50",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Dhunseri Ventures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DVL_11022026151146_Outcome11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:09:35",
-      "an_dt": "11-Feb-2026 15:09:35",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Dhunseri Ventures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DVL_11022026150901_Outcome11022026.pdf"
     }
   ]
 }

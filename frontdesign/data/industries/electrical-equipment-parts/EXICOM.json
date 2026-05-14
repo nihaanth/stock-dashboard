@@ -8,17 +8,9 @@
   "price": 113.6,
   "market_cap_cr": 1581.43,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 101.49,
-      "prev_close": 104.87,
-      "volume": 184578,
-      "deliverable_qty": 88133,
-      "delivery_pct": 47.75
-    },
     {
       "date": "2026-02-12",
       "close": 100.25,
@@ -466,9 +458,31 @@
       "volume": 610976,
       "deliverable_qty": 270541,
       "delivery_pct": 44.28
+    },
+    {
+      "date": "2026-05-13",
+      "close": 114.28,
+      "prev_close": 113.99,
+      "volume": 350630,
+      "deliverable_qty": 128994,
+      "delivery_pct": 36.79
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 17:39:50",
+      "an_dt": "13-May-2026 17:39:50",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Exicom Tele-Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXICOM_13052026173705_Intimation_MA_Final.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 10:40:08",
+      "an_dt": "13-May-2026 10:40:08",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Exicom Tele-Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXICOM_13052026103516_Investor_Call-signed.pdf"
+    },
     {
       "sort_date": "2026-04-22 17:29:29",
       "an_dt": "22-Apr-2026 17:29:29",

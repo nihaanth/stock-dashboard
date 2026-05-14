@@ -8,17 +8,9 @@
   "price": 444.55,
   "market_cap_cr": 19404.61,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 500.9,
-      "prev_close": 499.1,
-      "volume": 1157236,
-      "deliverable_qty": 1012196,
-      "delivery_pct": 87.47
-    },
     {
       "date": "2026-02-12",
       "close": 495.35,
@@ -466,9 +458,24 @@
       "volume": 222904,
       "deliverable_qty": 98614,
       "delivery_pct": 44.24
+    },
+    {
+      "date": "2026-05-13",
+      "close": 428.9,
+      "prev_close": 432.4,
+      "volume": 229655,
+      "deliverable_qty": 104186,
+      "delivery_pct": 45.37
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 18:17:18",
+      "an_dt": "13-May-2026 18:17:18",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Emami Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMAMILTD2_13052026181642_Investors_Conference_Meet_360_One_Capital_signed.pdf"
+    },
     {
       "sort_date": "2026-05-07 17:35:41",
       "an_dt": "07-May-2026 17:35:41",

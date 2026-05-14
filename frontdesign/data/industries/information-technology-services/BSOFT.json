@@ -8,17 +8,9 @@
   "price": 365.05,
   "market_cap_cr": 10202.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 465.05,
-      "prev_close": 465.5,
-      "volume": 1291298,
-      "deliverable_qty": 573544,
-      "delivery_pct": 44.42
-    },
     {
       "date": "2026-02-12",
       "close": 433.85,
@@ -466,9 +458,24 @@
       "volume": 2522167,
       "deliverable_qty": 1146480,
       "delivery_pct": 45.46
+    },
+    {
+      "date": "2026-05-13",
+      "close": 318.7,
+      "prev_close": 331.6,
+      "volume": 2312907,
+      "deliverable_qty": 988360,
+      "delivery_pct": 42.73
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 11:59:32",
+      "an_dt": "13-May-2026 11:59:32",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "BIRLASOFT LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BSOFT_13052026115606_SEIntimationTranscript.pdf"
+    },
     {
       "sort_date": "2026-05-07 13:09:29",
       "an_dt": "07-May-2026 13:09:29",

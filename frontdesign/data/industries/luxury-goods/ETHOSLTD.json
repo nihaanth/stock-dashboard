@@ -8,17 +8,9 @@
   "price": 2359.6,
   "market_cap_cr": 6313.75,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 2546.3,
-      "prev_close": 2569.1,
-      "volume": 10770,
-      "deliverable_qty": 4844,
-      "delivery_pct": 44.98
-    },
     {
       "date": "2026-02-12",
       "close": 2524.7,
@@ -466,9 +458,31 @@
       "volume": 282504,
       "deliverable_qty": 30403,
       "delivery_pct": 10.76
+    },
+    {
+      "date": "2026-05-13",
+      "close": 2317.2,
+      "prev_close": 2361.3,
+      "volume": 42712,
+      "deliverable_qty": 15846,
+      "delivery_pct": 37.1
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 15:09:43",
+      "an_dt": "13-May-2026 15:09:43",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Ethos Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ETHOS_13052026150933_Newspaper_Publication.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 15:07:54",
+      "an_dt": "13-May-2026 15:07:54",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Ethos Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ETHOS_13052026150701_Monitoring_Agency_Report_Rights_Issue.pdf"
+    },
     {
       "sort_date": "2026-05-12 15:51:08",
       "an_dt": "12-May-2026 15:51:08",

@@ -8,17 +8,9 @@
   "price": 324.85,
   "market_cap_cr": 4049.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 306.25,
-      "prev_close": 308.45,
-      "volume": 48697,
-      "deliverable_qty": 33889,
-      "delivery_pct": 69.59
-    },
     {
       "date": "2026-02-12",
       "close": 303.1,
@@ -466,9 +458,24 @@
       "volume": 266244,
       "deliverable_qty": 126584,
       "delivery_pct": 47.54
+    },
+    {
+      "date": "2026-05-13",
+      "close": 296.25,
+      "prev_close": 314.05,
+      "volume": 862157,
+      "deliverable_qty": 310907,
+      "delivery_pct": 36.06
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 15:35:24",
+      "an_dt": "13-May-2026 15:35:24",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Gopal Snacks Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOPALSNACKS_13052026153507_OutcomeIEC.pdf"
+    },
     {
       "sort_date": "2026-05-12 18:41:52",
       "an_dt": "12-May-2026 18:41:52",
@@ -601,20 +608,6 @@
       "desc": "General Updates",
       "sm_name": "Gopal Snacks Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOPALSNACKS_12022026182413_GSTupdate12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:57:10",
-      "an_dt": "11-Feb-2026 16:57:10",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Gopal Snacks Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOPALSNACKS_11022026165659_Reg30NRC.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:53:57",
-      "an_dt": "11-Feb-2026 16:53:57",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Gopal Snacks Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOPALSNACKS_11022026165345_Reg30NRC.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 170.61,
   "market_cap_cr": 1620.55,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 152.47,
-      "prev_close": 155.52,
-      "volume": 182587,
-      "deliverable_qty": 81086,
-      "delivery_pct": 44.41
-    },
     {
       "date": "2026-02-12",
       "close": 157.9,
@@ -466,6 +458,14 @@
       "volume": 414475,
       "deliverable_qty": 198055,
       "delivery_pct": 47.78
+    },
+    {
+      "date": "2026-05-13",
+      "close": 157.8,
+      "prev_close": 158.14,
+      "volume": 195598,
+      "deliverable_qty": 63487,
+      "delivery_pct": 32.46
     }
   ],
   "news": [
@@ -552,20 +552,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Precision Camshafts Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRECAMS_13022026121843_SE_Intimation-Newspaper_Publication.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:31:18",
-      "an_dt": "11-Feb-2026 16:31:18",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Precision Camshafts Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRECAMS_11022026162934_PCL_-_Outcome_and_Results.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 16:26:46",
-      "an_dt": "11-Feb-2026 16:26:46",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Precision Camshafts Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRECAMS_11022026162619_PCL_-_Outcome_and_Results.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 499.8,
   "market_cap_cr": 9670.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 532.9,
-      "prev_close": 530.15,
-      "volume": 167287,
-      "deliverable_qty": 106955,
-      "delivery_pct": 63.94
-    },
     {
       "date": "2026-02-12",
       "close": 532.15,
@@ -466,9 +458,24 @@
       "volume": 207833,
       "deliverable_qty": 117069,
       "delivery_pct": 56.33
+    },
+    {
+      "date": "2026-05-13",
+      "close": 516.4,
+      "prev_close": 499.5,
+      "volume": 104365,
+      "deliverable_qty": 47859,
+      "delivery_pct": 45.86
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 12:21:09",
+      "an_dt": "13-May-2026 12:21:09",
+      "desc": "Updates",
+      "sm_name": "Eureka Forbes Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHILPAJAIN_13052026122057_Signed.pdf"
+    },
     {
       "sort_date": "2026-04-13 13:04:59",
       "an_dt": "13-Apr-2026 13:04:59",
@@ -496,13 +503,6 @@
       "desc": "Updates",
       "sm_name": "Eureka Forbes Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHILPAJAIN_20022026153215_Intimation_-_Analyst_Call_-_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 19:54:10",
-      "an_dt": "11-Feb-2026 19:54:10",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Eureka Forbes Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHILPAJAIN_11022026195338_Transcript_Signed_Upload.pdf"
     }
   ]
 }

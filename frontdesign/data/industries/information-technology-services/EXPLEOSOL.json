@@ -8,17 +8,9 @@
   "price": 878.25,
   "market_cap_cr": 1363.02,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 882.5,
-      "prev_close": 892.55,
-      "volume": 6283,
-      "deliverable_qty": 4468,
-      "delivery_pct": 71.11
-    },
     {
       "date": "2026-02-12",
       "close": 844.45,
@@ -466,9 +458,52 @@
       "volume": 833353,
       "deliverable_qty": 84400,
       "delivery_pct": 10.13
+    },
+    {
+      "date": "2026-05-13",
+      "close": 883.4,
+      "prev_close": 885.75,
+      "volume": 100228,
+      "deliverable_qty": 28938,
+      "delivery_pct": 28.87
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 22:46:30",
+      "an_dt": "13-May-2026 22:46:30",
+      "desc": "Press Release",
+      "sm_name": "Expleo Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SQS_13052026224553_PressReleaseIntimation13052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 22:35:42",
+      "an_dt": "13-May-2026 22:35:42",
+      "desc": "Investor Presentation",
+      "sm_name": "Expleo Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SQS_13052026223501_SubmissionofEarningsPresentation13052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 17:26:20",
+      "an_dt": "13-May-2026 17:26:20",
+      "desc": "Other Restructuring",
+      "sm_name": "Expleo Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SQS_13052026172523_FormationandInvestmentintheSubsidiaryinGiftCity13052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 17:08:45",
+      "an_dt": "13-May-2026 17:08:45",
+      "desc": "Appointment",
+      "sm_name": "Expleo Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SQS_13052026170618_InitimationregardingappointmentofInternalauditors.pdf"
+    },
+    {
+      "sort_date": "2026-05-13 16:40:31",
+      "an_dt": "13-May-2026 16:40:31",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Expleo Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SQS_13052026163929_BoardMeetingOutcome13May2026.pdf"
+    },
     {
       "sort_date": "2026-05-11 15:25:59",
       "an_dt": "11-May-2026 15:25:59",
@@ -517,13 +552,6 @@
       "desc": "General Updates",
       "sm_name": "Expleo Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SQS_18022026204400_IntimationforclosureofCoimbatoreCompetenceCentre.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:20:40",
-      "an_dt": "11-Feb-2026 15:20:40",
-      "desc": "Action(s) initiated or orders passed",
-      "sm_name": "Expleo Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SQS_11022026152028_IntimationunderRegulation30readwithClause_20.pdf"
     }
   ]
 }

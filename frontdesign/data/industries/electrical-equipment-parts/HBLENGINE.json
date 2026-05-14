@@ -8,17 +8,9 @@
   "price": 829.7,
   "market_cap_cr": 22998.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 772.4,
-      "prev_close": 780.3,
-      "volume": 5681063,
-      "deliverable_qty": 1276975,
-      "delivery_pct": 22.48
-    },
     {
       "date": "2026-02-12",
       "close": 776.95,
@@ -466,6 +458,14 @@
       "volume": 1867159,
       "deliverable_qty": 915846,
       "delivery_pct": 49.05
+    },
+    {
+      "date": "2026-05-13",
+      "close": 783.6,
+      "prev_close": 782.25,
+      "volume": 1369383,
+      "deliverable_qty": 570529,
+      "delivery_pct": 41.66
     }
   ],
   "news": [
@@ -510,13 +510,6 @@
       "desc": "Credit Rating- Revision",
       "sm_name": "HBL Engineering Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HBLPOWER_18022026102435_Update_on_credit_rating_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 09:07:26",
-      "an_dt": "11-Feb-2026 09:07:26",
-      "desc": "Awarding of order(s)/contract(s)",
-      "sm_name": "HBL Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HBLPOWER_11022026090713_KavachOrderFebruary.pdf"
     }
   ]
 }

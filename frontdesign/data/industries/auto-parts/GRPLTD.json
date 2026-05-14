@@ -8,17 +8,9 @@
   "price": 1844.1,
   "market_cap_cr": 983.52,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 1789.7,
-      "prev_close": 1791.4,
-      "volume": 2557,
-      "deliverable_qty": 1766,
-      "delivery_pct": 69.07
-    },
     {
       "date": "2026-02-12",
       "close": 1803.3,
@@ -466,6 +458,14 @@
       "volume": 3993,
       "deliverable_qty": 2701,
       "delivery_pct": 67.64
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1792.5,
+      "prev_close": 1794.7,
+      "volume": 2241,
+      "deliverable_qty": 1434,
+      "delivery_pct": 63.99
     }
   ],
   "news": [
@@ -524,13 +524,6 @@
       "desc": "Investor Presentation",
       "sm_name": "GRP Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRPLTD_12022026193200_GRP_-_Q3FY26_Investor_Presentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 13:14:31",
-      "an_dt": "11-Feb-2026 13:14:31",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "GRP Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRPLTD_11022026131421_StEx_Newspaperpublication.pdf"
     }
   ]
 }

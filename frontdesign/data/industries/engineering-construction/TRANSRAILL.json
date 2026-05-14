@@ -8,17 +8,9 @@
   "price": 548.35,
   "market_cap_cr": 7361.93,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 556.45,
-      "prev_close": 559.5,
-      "volume": 388674,
-      "deliverable_qty": 141278,
-      "delivery_pct": 36.35
-    },
     {
       "date": "2026-02-12",
       "close": 545.4,
@@ -466,9 +458,24 @@
       "volume": 603913,
       "deliverable_qty": 291449,
       "delivery_pct": 48.26
+    },
+    {
+      "date": "2026-05-13",
+      "close": 527.45,
+      "prev_close": 531.35,
+      "volume": 917017,
+      "deliverable_qty": 467140,
+      "delivery_pct": 50.94
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 16:14:25",
+      "an_dt": "13-May-2026 16:14:25",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Transrail Lighting Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRANSRAIL_13052026161233_Reg32MonitoringAgencyReportMar2026.pdf"
+    },
     {
       "sort_date": "2026-04-21 14:33:56",
       "an_dt": "21-Apr-2026 14:33:56",

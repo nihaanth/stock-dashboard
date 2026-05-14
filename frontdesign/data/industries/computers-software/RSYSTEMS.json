@@ -8,17 +8,9 @@
   "price": 306.85,
   "market_cap_cr": 3637.07,
   "industry_source": "webarchive",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 341.4,
-      "prev_close": 345.5,
-      "volume": 369158,
-      "deliverable_qty": 198628,
-      "delivery_pct": 53.81
-    },
     {
       "date": "2026-02-12",
       "close": 323.85,
@@ -466,9 +458,24 @@
       "volume": 554737,
       "deliverable_qty": 202888,
       "delivery_pct": 36.57
+    },
+    {
+      "date": "2026-05-13",
+      "close": 291.2,
+      "prev_close": 294.75,
+      "volume": 463737,
+      "deliverable_qty": 172927,
+      "delivery_pct": 37.29
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-13 20:52:16",
+      "an_dt": "13-May-2026 20:52:16",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "R Systems International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RSYSTEMSPJ_13052026205152_RSYSTEMS.pdf"
+    },
     {
       "sort_date": "2026-05-08 10:06:40",
       "an_dt": "08-May-2026 10:06:40",
@@ -699,20 +706,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "R Systems International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RSYSTEMS_12022026145253_RSYSTEMS.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 14:58:18",
-      "an_dt": "11-Feb-2026 14:58:18",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "R Systems International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RSYSTEMS_11022026145713_Submission_of_Audio_.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 09:34:27",
-      "an_dt": "11-Feb-2026 09:34:27",
-      "desc": "Investor Presentation",
-      "sm_name": "R Systems International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RSYSTEMS_11022026093323_RSYSTEMS.pdf"
     }
   ]
 }

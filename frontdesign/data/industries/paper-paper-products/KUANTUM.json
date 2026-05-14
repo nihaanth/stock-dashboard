@@ -8,17 +8,9 @@
   "price": 78.75,
   "market_cap_cr": 687.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-12",
+  "as_of": "2026-05-13",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-11",
-      "close": 97.13,
-      "prev_close": 89.71,
-      "volume": 270203,
-      "deliverable_qty": 90550,
-      "delivery_pct": 33.51
-    },
     {
       "date": "2026-02-12",
       "close": 97.63,
@@ -466,6 +458,14 @@
       "volume": 89149,
       "deliverable_qty": 65537,
       "delivery_pct": 73.51
+    },
+    {
+      "date": "2026-05-13",
+      "close": 79.54,
+      "prev_close": 76.85,
+      "volume": 90533,
+      "deliverable_qty": 66547,
+      "delivery_pct": 73.51
     }
   ],
   "news": [
@@ -545,13 +545,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Kuantum Papers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KUANTUM_13022026154011_TRANSCRIPTFINAL13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-11 15:47:59",
-      "an_dt": "11-Feb-2026 15:47:59",
-      "desc": "Shareholders meeting",
-      "sm_name": "Kuantum Papers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KUANTUM_11022026154731_POSTALBALLOTNOTICEFORNSEBSE11022026.pdf"
     }
   ]
 }
