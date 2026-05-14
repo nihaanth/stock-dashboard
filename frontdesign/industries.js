@@ -42,9 +42,11 @@ const state = {
     newSeqs: new Set(),        // seq_ids first surfaced since the most recent poll
   },
   afterMarket: {
-    items: [],                 // rolling today + yesterday after-market filings
+    items: [],                 // rolling N-day after-market filings
     tradingDays: [],           // ["YYYY-MM-DD", ...] newest first
     updatedAt: null,
+    selectedDay: null,         // currently viewed day; defaults to most recent
+    selectedSlug: null,        // currently expanded industry tile (null = none)
   },
   newsFilter: { slug: "all", q: "" },
 };
@@ -300,6 +302,12 @@ function renderAfterMarketPage() {
   }
   const todayStr = tradingDays[0] || "";
 
+  // Default selection to the most recent day; reset if stale
+  if (!state.afterMarket.selectedDay || !tradingDays.includes(state.afterMarket.selectedDay)) {
+    state.afterMarket.selectedDay = todayStr;
+  }
+  const selectedDay = state.afterMarket.selectedDay;
+
   const updated = state.afterMarket.updatedAt
     ? state.afterMarket.updatedAt.slice(11, 16)
     : (state.live.polledAt ? state.live.polledAt.slice(11, 16) : "—");
@@ -310,59 +318,102 @@ function renderAfterMarketPage() {
     closed: "Market closed",
   }[marketState] || "Market —";
 
-  // Build day -> industry -> items map
-  const byDay = new Map();
-  for (const day of tradingDays) byDay.set(day, new Map());
+  // Per-day filing counts (for the date strip)
+  const countByDay = new Map();
+  for (const day of tradingDays) countByDay.set(day, 0);
   for (const it of items) {
     const d = (it.sort_date || "").slice(0, 10);
-    const dayMap = byDay.get(d);
-    if (!dayMap) continue;
-    const slug = it.industry_slug || "unknown";
-    if (!dayMap.has(slug)) dayMap.set(slug, []);
-    dayMap.get(slug).push(it);
+    if (countByDay.has(d)) countByDay.set(d, countByDay.get(d) + 1);
   }
 
-  const daysHTML = tradingDays.map((day) => {
-    const groups = [...(byDay.get(day) || new Map()).entries()]
-      .map(([slug, list]) => ({
-        slug,
-        name: state.indexBySlug.get(slug)?.name || slug,
-        items: list.sort((a, b) => (b.sort_date || "").localeCompare(a.sort_date || "")),
-      }))
-      .sort((a, b) => b.items.length - a.items.length);
-    const dayTotal = groups.reduce((n, g) => n + g.items.length, 0);
-    const isToday = day === todayStr;
-    if (groups.length === 0) {
-      return `
-        <section class="news-day">
-          <header class="news-day__head">
-            <h2 class="news-day__title">${esc(formatDayHeading(day, isToday))}</h2>
-            <span class="news-day__count muted">0 filings</span>
-          </header>
-          <p class="ind-empty">No after-market filings recorded for this day.</p>
-        </section>`;
+  // Industry roll-up for the *selected* day
+  const dayItems = items.filter((it) => (it.sort_date || "").slice(0, 10) === selectedDay);
+  const byIndustry = new Map();
+  const companiesByIndustry = new Map();
+  for (const it of dayItems) {
+    const slug = it.industry_slug || "unknown";
+    if (!byIndustry.has(slug)) {
+      byIndustry.set(slug, []);
+      companiesByIndustry.set(slug, new Set());
     }
-    const sectionsHTML = groups.map((g) => `
-      <section class="news-sector">
-        <header class="news-sector__head">
-          <h3 class="news-sector__title">
-            <a href="#/${esc(g.slug)}">${esc(g.name)}</a>
-          </h3>
-          <span class="news-sector__count">${INT.format(g.items.length)}</span>
-        </header>
-        <ol class="news-list-page">
-          ${g.items.map((it) => newsRowHTML(it, { showShortDate: !isToday })).join("")}
-        </ol>
-      </section>
-    `).join("");
+    byIndustry.get(slug).push(it);
+    if (it.symbol) companiesByIndustry.get(slug).add(it.symbol);
+  }
+  const groups = [...byIndustry.entries()]
+    .map(([slug, list]) => ({
+      slug,
+      name: state.indexBySlug.get(slug)?.name || slug,
+      items: list.sort((a, b) => (b.sort_date || "").localeCompare(a.sort_date || "")),
+      uniq: companiesByIndustry.get(slug).size,
+    }))
+    .sort((a, b) => b.items.length - a.items.length || a.name.localeCompare(b.name));
+
+  // Auto-collapse the open tile if it doesn't appear on the chosen day
+  const openSlugs = new Set(groups.map((g) => g.slug));
+  if (state.afterMarket.selectedSlug && !openSlugs.has(state.afterMarket.selectedSlug)) {
+    state.afterMarket.selectedSlug = null;
+  }
+  const selectedSlug = state.afterMarket.selectedSlug;
+
+  const isToday = selectedDay === todayStr;
+  const dayTotal = dayItems.length;
+  const sectorCount = groups.length;
+
+  // ---- Date strip
+  const dayChipsHTML = tradingDays.map((day) => {
+    const n = countByDay.get(day) || 0;
+    const isActive = day === selectedDay;
+    const dLabel = day === todayStr ? "Today" : formatShortDate(day);
+    const yyyy = day.slice(0, 4);
     return `
-      <section class="news-day">
-        <header class="news-day__head">
-          <h2 class="news-day__title">${esc(formatDayHeading(day, isToday))}</h2>
-          <span class="news-day__count muted">${INT.format(dayTotal)} filing${dayTotal === 1 ? "" : "s"} · ${groups.length} sector${groups.length === 1 ? "" : "s"}</span>
+      <button type="button"
+              class="am-day ${isActive ? "am-day--on" : ""}"
+              data-am-day="${esc(day)}">
+        <span class="am-day__label">${esc(dLabel)}</span>
+        <span class="am-day__year">${esc(yyyy)}</span>
+        <span class="am-day__count">${INT.format(n)}</span>
+      </button>`;
+  }).join("");
+
+  // ---- Tile grid (with inline detail drawer after the active tile)
+  const tilesHTML = groups.map((g, idx) => {
+    const active = g.slug === selectedSlug;
+    const tile = `
+      <button type="button"
+              class="am-tile ${active ? "am-tile--on" : ""}"
+              data-am-slug="${esc(g.slug)}"
+              aria-expanded="${active ? "true" : "false"}">
+        <span class="am-tile__rank">${String(idx + 1).padStart(2, "0")}</span>
+        <span class="am-tile__name">${esc(g.name)}</span>
+        <span class="am-tile__meta">
+          <span class="am-tile__count">${INT.format(g.items.length)}</span>
+          <span class="am-tile__unit">filing${g.items.length === 1 ? "" : "s"}</span>
+        </span>
+        <span class="am-tile__sub">${INT.format(g.uniq)} compan${g.uniq === 1 ? "y" : "ies"}</span>
+        <span class="am-tile__caret" aria-hidden="true">${active ? "▾" : "▸"}</span>
+      </button>`;
+
+    if (!active) return tile;
+
+    const detailRows = g.items.map((it) => newsRowHTML(it, { showShortDate: !isToday })).join("");
+    const drawer = `
+      <section class="am-drawer" data-am-drawer>
+        <header class="am-drawer__head">
+          <div class="am-drawer__title">
+            <span class="am-drawer__eyebrow">Filings · ${esc(formatShortDate(selectedDay))}${isToday ? " · Today" : ""}</span>
+            <h3 class="am-drawer__name">
+              <a href="#/${esc(g.slug)}">${esc(g.name)} →</a>
+            </h3>
+          </div>
+          <div class="am-drawer__stats">
+            <span><b>${INT.format(g.items.length)}</b> filings</span>
+            <span><b>${INT.format(g.uniq)}</b> ${g.uniq === 1 ? "company" : "companies"}</span>
+          </div>
+          <button type="button" class="am-drawer__close" data-am-close aria-label="Collapse">✕</button>
         </header>
-        ${sectionsHTML}
+        <ol class="news-list-page am-drawer__list">${detailRows}</ol>
       </section>`;
+    return tile + drawer;
   }).join("");
 
   view.innerHTML = `
@@ -376,8 +427,8 @@ function renderAfterMarketPage() {
         <p class="ind-lede">
           NSE corporate announcements filed after 15:30 IST — board-meeting
           outcomes, quarterly results, dividends, Reg 30 disclosures.
-          Rolling window: today and the most recent prior trading day,
-          grouped by sector. Page updates every 30 seconds.
+          Pick a day, then click a sector tile to read its filings.
+          Page updates every 30 seconds.
         </p>
       </div>
       <aside class="news-headline__meta">
@@ -390,18 +441,64 @@ function renderAfterMarketPage() {
           <span class="news-meta-value">${esc(updated)} IST</span>
         </div>
         <div class="news-meta-row">
-          <span class="news-meta-label">Items</span>
-          <span class="news-meta-value">${INT.format(items.length)}</span>
+          <span class="news-meta-label">In window</span>
+          <span class="news-meta-value">${INT.format(tradingDays.length)} day${tradingDays.length === 1 ? "" : "s"}</span>
         </div>
       </aside>
     </section>
 
-    ${items.length === 0
+    ${tradingDays.length === 0
       ? `<section class="ind-empty">
            No after-market filings yet — the first window opens at 15:30 IST.
          </section>`
-      : daysHTML}
+      : `
+        <section class="am-daystrip" aria-label="Trading day">
+          <span class="am-daystrip__label">Day</span>
+          <div class="am-daystrip__rail" id="amDayRail">
+            ${dayChipsHTML}
+          </div>
+        </section>
+
+        <section class="am-summary">
+          <span class="am-summary__num">${INT.format(dayTotal)}</span>
+          <span class="am-summary__txt">filing${dayTotal === 1 ? "" : "s"} across ${INT.format(sectorCount)} sector${sectorCount === 1 ? "" : "s"} · ${esc(formatShortDate(selectedDay))}${isToday ? " (today)" : ""}</span>
+        </section>
+
+        ${groups.length === 0
+          ? `<section class="ind-empty">
+               No after-market filings recorded for ${esc(formatShortDate(selectedDay))}.
+             </section>`
+          : `<section class="am-grid" id="amGrid">${tilesHTML}</section>`}
+      `}
   `;
+
+  // ---- event delegation
+  view.querySelectorAll("button[data-am-day]").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      state.afterMarket.selectedDay = btn.dataset.amDay;
+      state.afterMarket.selectedSlug = null;
+      renderAfterMarketPage();
+    });
+  });
+  view.querySelectorAll("button[data-am-slug]").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const next = btn.dataset.amSlug;
+      state.afterMarket.selectedSlug = state.afterMarket.selectedSlug === next ? null : next;
+      renderAfterMarketPage();
+      // After re-render, scroll the open drawer into view
+      requestAnimationFrame(() => {
+        const drawer = view.querySelector("[data-am-drawer]");
+        if (drawer) drawer.scrollIntoView({ block: "nearest", behavior: "smooth" });
+      });
+    });
+  });
+  view.querySelectorAll("[data-am-close]").forEach((btn) => {
+    btn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      state.afterMarket.selectedSlug = null;
+      renderAfterMarketPage();
+    });
+  });
 }
 
 function newsRowHTML(it, opts = {}) {

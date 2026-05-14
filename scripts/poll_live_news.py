@@ -34,9 +34,10 @@ ROOT = Path(__file__).resolve().parent.parent
 INDUSTRIES_INDEX = ROOT / "frontdesign" / "data" / "industries" / "industries.json"
 DEFAULT_OUT = ROOT / "frontdesign" / "data" / "industries" / "_live_news.json"
 DEFAULT_AFTER_MARKET_OUT = ROOT / "frontdesign" / "data" / "_after_market_news.json"
+DEFAULT_HISTORY_OUT = ROOT / "frontdesign" / "data" / "_news_history.json"
 
 AFTER_MARKET_CUTOFF = "15:30"  # IST — anything at/after this on the trading day is "after-market"
-AFTER_MARKET_KEEP_DAYS = 2     # rolling window: today + most recent prior day
+AFTER_MARKET_KEEP_DAYS = 14    # rolling window: ~3 trading weeks of after-market history
 
 NSE_API = "https://www.nseindia.com/api/corporate-announcements"
 HEADERS = {
@@ -129,6 +130,56 @@ def update_after_market(path: Path, fresh_items: list[dict], now: datetime) -> i
     return len(merged)
 
 
+def update_history(path: Path, fresh_items: list[dict], now: datetime) -> tuple[int, list[str]]:
+    """Maintain an append-only archive of every announcement we've ever seen.
+
+    Reads any existing file, merges in fresh_items (deduped by seq_id), keeps
+    EVERY day (no pruning), and rewrites. Returns (n_items, trading_days_desc).
+    """
+    existing: list[dict] = []
+    if path.exists():
+        try:
+            prev = json.loads(path.read_text())
+            existing = prev.get("items", []) or []
+        except (json.JSONDecodeError, OSError):
+            existing = []
+
+    seen: set[int] = set()
+    merged: list[dict] = []
+    for it in existing:
+        sid = it.get("seq_id")
+        if sid is None or sid in seen:
+            continue
+        seen.add(int(sid))
+        merged.append(it)
+    for it in fresh_items:
+        sid = it.get("seq_id")
+        if sid is None or sid in seen:
+            continue
+        seen.add(int(sid))
+        merged.append(it)
+
+    merged.sort(key=lambda x: x.get("sort_date") or "", reverse=True)
+
+    trading_days: list[str] = []
+    seen_days: set[str] = set()
+    for it in merged:
+        d = (it.get("sort_date") or "")[:10]
+        if d and d not in seen_days:
+            seen_days.add(d)
+            trading_days.append(d)
+
+    payload = {
+        "updated_at": now.isoformat(timespec="seconds"),
+        "trading_days": trading_days,
+        "n_total": len(merged),
+        "items": merged,
+    }
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2))
+    return len(merged), trading_days
+
+
 def load_previous(out_path: Path, trading_day: str) -> tuple[list[dict], set[int]]:
     """Return (items_today, seen_seq_ids). Rotate if the file is from a prior day."""
     if not out_path.exists():
@@ -214,6 +265,7 @@ def main() -> int:
     p = argparse.ArgumentParser()
     p.add_argument("--out", type=Path, default=DEFAULT_OUT)
     p.add_argument("--after-market-out", type=Path, default=DEFAULT_AFTER_MARKET_OUT)
+    p.add_argument("--history-out", type=Path, default=DEFAULT_HISTORY_OUT)
     p.add_argument("--max-items", type=int, default=200)
     args = p.parse_args()
 
@@ -262,10 +314,11 @@ def main() -> int:
     # the merged list (not just new_items) means a freshly-rotated file gets
     # repopulated from the live ticker without waiting for new arrivals.
     am_total = update_after_market(args.after_market_out, merged, now)
+    hist_total, hist_days = update_history(args.history_out, merged, now)
 
     print(f"[poll] {now.isoformat(timespec='seconds')} state={state} "
           f"fetched={len(fresh)} new={len(new_items)} total={len(merged)} "
-          f"after_market={am_total}")
+          f"after_market={am_total} history={hist_total}/{len(hist_days)}d")
 
     return 0 if new_items else 1
 
