@@ -33,6 +33,10 @@ import requests
 ROOT = Path(__file__).resolve().parent.parent
 INDUSTRIES_INDEX = ROOT / "frontdesign" / "data" / "industries" / "industries.json"
 DEFAULT_OUT = ROOT / "frontdesign" / "data" / "industries" / "_live_news.json"
+DEFAULT_AFTER_MARKET_OUT = ROOT / "frontdesign" / "data" / "_after_market_news.json"
+
+AFTER_MARKET_CUTOFF = "15:30"  # IST — anything at/after this on the trading day is "after-market"
+AFTER_MARKET_KEEP_DAYS = 2     # rolling window: today + most recent prior day
 
 NSE_API = "https://www.nseindia.com/api/corporate-announcements"
 HEADERS = {
@@ -57,6 +61,72 @@ def load_stock_map() -> dict[str, dict]:
                 "name": row.get("name") or sym,
             }
     return out
+
+
+def is_after_market(sort_date: str | None) -> bool:
+    """True if sort_date's HH:MM is >= 15:30 IST. sort_date format: 'YYYY-MM-DD HH:MM:SS'."""
+    if not sort_date or len(sort_date) < 16:
+        return False
+    return sort_date[11:16] >= AFTER_MARKET_CUTOFF
+
+
+def update_after_market(path: Path, fresh_items: list[dict], now: datetime) -> int:
+    """Maintain a rolling N-day cache of after-market filings (sort_date >= 15:30 IST).
+
+    Reads any existing file, merges in the after-market subset of fresh_items
+    (deduped by seq_id), prunes to the last AFTER_MARKET_KEEP_DAYS unique trading
+    days seen in the merged set, and rewrites. Returns the total item count.
+    """
+    existing: list[dict] = []
+    if path.exists():
+        try:
+            prev = json.loads(path.read_text())
+            existing = prev.get("items", []) or []
+        except (json.JSONDecodeError, OSError):
+            existing = []
+
+    seen: set[int] = set()
+    merged: list[dict] = []
+    for it in existing:
+        sid = it.get("seq_id")
+        if sid is None or sid in seen:
+            continue
+        if not is_after_market(it.get("sort_date")):
+            continue
+        seen.add(int(sid))
+        merged.append(it)
+    for it in fresh_items:
+        sid = it.get("seq_id")
+        if sid is None or sid in seen:
+            continue
+        if not is_after_market(it.get("sort_date")):
+            continue
+        seen.add(int(sid))
+        merged.append(it)
+
+    merged.sort(key=lambda x: x.get("sort_date") or "", reverse=True)
+
+    # Keep only items whose date falls in the latest AFTER_MARKET_KEEP_DAYS
+    # unique dates (newest first).
+    unique_days: list[str] = []
+    for it in merged:
+        d = (it.get("sort_date") or "")[:10]
+        if d and d not in unique_days:
+            unique_days.append(d)
+            if len(unique_days) >= AFTER_MARKET_KEEP_DAYS:
+                break
+    keep_set = set(unique_days)
+    merged = [it for it in merged if (it.get("sort_date") or "")[:10] in keep_set]
+
+    payload = {
+        "updated_at": now.isoformat(timespec="seconds"),
+        "trading_days": unique_days,
+        "n_total": len(merged),
+        "items": merged,
+    }
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2))
+    return len(merged)
 
 
 def load_previous(out_path: Path, trading_day: str) -> tuple[list[dict], set[int]]:
@@ -143,6 +213,7 @@ def normalise(rec: dict, stock_map: dict[str, dict]) -> dict | None:
 def main() -> int:
     p = argparse.ArgumentParser()
     p.add_argument("--out", type=Path, default=DEFAULT_OUT)
+    p.add_argument("--after-market-out", type=Path, default=DEFAULT_AFTER_MARKET_OUT)
     p.add_argument("--max-items", type=int, default=200)
     args = p.parse_args()
 
@@ -187,8 +258,14 @@ def main() -> int:
     args.out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text(json.dumps(payload, ensure_ascii=False, indent=2))
 
+    # Update the rolling after-market cache from this poll's merged set. Using
+    # the merged list (not just new_items) means a freshly-rotated file gets
+    # repopulated from the live ticker without waiting for new arrivals.
+    am_total = update_after_market(args.after_market_out, merged, now)
+
     print(f"[poll] {now.isoformat(timespec='seconds')} state={state} "
-          f"fetched={len(fresh)} new={len(new_items)} total={len(merged)}")
+          f"fetched={len(fresh)} new={len(new_items)} total={len(merged)} "
+          f"after_market={am_total}")
 
     return 0 if new_items else 1
 

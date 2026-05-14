@@ -1,12 +1,16 @@
 name: live · NSE announcement poll
 
-# Hits the NSE corporate-announcements API every 5 minutes during the IST
-# trading session, writes frontdesign/data/industries/_live_news.json and
-# commits the diff back to main. Vercel auto-deploys on push.
+# Hits the NSE corporate-announcements API during the IST trading session and
+# the after-market filing window, writes frontdesign/data/industries/_live_news.json
+# (+ _after_market_news.json), and commits the diff back to main. Vercel
+# auto-deploys on push.
 #
-# Schedule: */5 03-10 * * 1-5 UTC = every 5 min between 08:30 and 16:25 IST,
-# Mon-Fri. (NSE market hours are 09:15-15:30 IST; we widen on both ends so
-# preopen disclosures and post-close filings are captured.)
+# Schedule:
+#   */5  03-10 * * 1-5 UTC = every 5 min  between 08:30 and 16:25 IST  (market hours, wider)
+#   */10 11-16 * * 1-5 UTC = every 10 min between 16:30 and 22:25 IST  (after-market filings)
+# NSE market hours are 09:15-15:30 IST. The first window covers preopen + intraday;
+# the second catches board-meeting / Reg 30 disclosures that land post-close
+# (commonly 16:00–21:00 IST).
 #
 # The script self-gates: it still runs outside this window if triggered
 # manually via workflow_dispatch, just classifies market_state as "closed".
@@ -14,6 +18,7 @@ name: live · NSE announcement poll
 on:
   schedule:
     - cron: "*/5 3-10 * * 1-5"
+    - cron: "*/10 11-16 * * 1-5"
   workflow_dispatch:
 
 permissions:
@@ -52,13 +57,14 @@ jobs:
           git config user.name  "stockbot-live[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          FILE=frontdesign/data/industries/_live_news.json
-          if git diff --quiet -- "$FILE"; then
-            echo "no diff in $FILE — skipping commit"
+          FILES=(frontdesign/data/industries/_live_news.json
+                 frontdesign/data/_after_market_news.json)
+          if git diff --quiet -- "${FILES[@]}"; then
+            echo "no diff in live/after-market files — skipping commit"
             exit 0
           fi
 
-          git add "$FILE"
+          git add "${FILES[@]}"
           git commit -m "live: announcements $(TZ=Asia/Kolkata date +%H:%M)"
 
           # Rebase on anything that landed during our run, then push
