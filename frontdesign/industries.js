@@ -73,6 +73,20 @@ async function init() {
   startLivePolling();
 }
 
+// Compute current NSE market state from the user's clock converted to IST.
+// Independent of _live_news.json so the indicator stays accurate even when
+// polling is stalled (GitHub Actions dropping cron, etc.).
+function currentMarketStateIST() {
+  const ist = new Date(new Date().toLocaleString("en-US", { timeZone: "Asia/Kolkata" }));
+  const day = ist.getDay();          // 0=Sun, 6=Sat
+  if (day === 0 || day === 6) return "closed";
+  const minutes = ist.getHours() * 60 + ist.getMinutes();
+  if (minutes < 9 * 60) return "closed";
+  if (minutes < 9 * 60 + 15) return "preopen";
+  if (minutes < 15 * 60 + 30) return "open";
+  return "closed";
+}
+
 // ---------- live polling ----------
 async function pollLive() {
   const bust = Math.floor(Date.now() / 30_000);
@@ -178,7 +192,7 @@ function renderNewsPage() {
   const polled = state.live.polledAt
     ? state.live.polledAt.slice(11, 16)
     : "—";
-  const marketState = state.live.marketState || "";
+  const marketState = currentMarketStateIST();
   const marketLabel = {
     open: "Market open",
     preopen: "Pre-open",
@@ -289,7 +303,7 @@ function renderAfterMarketPage() {
   const updated = state.afterMarket.updatedAt
     ? state.afterMarket.updatedAt.slice(11, 16)
     : (state.live.polledAt ? state.live.polledAt.slice(11, 16) : "—");
-  const marketState = state.live.marketState || "";
+  const marketState = currentMarketStateIST();
   const marketLabel = {
     open: "Market open",
     preopen: "Pre-open",
@@ -431,7 +445,7 @@ function renderLiveTicker() {
     return;
   }
   ticker.hidden = false;
-  ticker.dataset.market = state.live.marketState || "";
+  ticker.dataset.market = currentMarketStateIST();
   list.innerHTML = items.map((it) => {
     const tm = (it.sort_date || "").slice(11, 16);   // HH:MM
     return `
