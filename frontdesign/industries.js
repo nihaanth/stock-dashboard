@@ -15,6 +15,7 @@ const LIVE_URL = "data/industries/_live_news.json";
 // Sibling of latest.json — not under data/industries/ because build_industry_folders.py
 // wipes that directory nightly and would prune the rolling 2-day cache.
 const AFTER_MARKET_URL = "data/_after_market_news.json";
+const HISTORY_URL = "data/_news_history.json";
 const LIVE_POLL_MS = 30_000;
 const LIVE_TICKER_MAX = 8;
 const LIVE_NEW_FADE_MS = 60_000;
@@ -47,6 +48,13 @@ const state = {
     updatedAt: null,
     selectedDay: null,         // currently viewed day; defaults to most recent
     selectedSlug: null,        // currently expanded industry tile (null = none)
+  },
+  history: {
+    items: [],                 // append-only archive of every announcement
+    tradingDays: [],           // ["YYYY-MM-DD", ...] newest first
+    updatedAt: null,
+    selectedDay: null,         // currently viewed day; defaults to most recent non-today
+    selectedSlug: null,
   },
   newsFilter: { slug: "all", q: "" },
 };
@@ -92,9 +100,10 @@ function currentMarketStateIST() {
 // ---------- live polling ----------
 async function pollLive() {
   const bust = Math.floor(Date.now() / 30_000);
-  const [liveRes, afterRes] = await Promise.allSettled([
+  const [liveRes, afterRes, histRes] = await Promise.allSettled([
     fetch(`${LIVE_URL}?t=${bust}`, { cache: "no-store" }),
     fetch(`${AFTER_MARKET_URL}?t=${bust}`, { cache: "no-store" }),
+    fetch(`${HISTORY_URL}?t=${bust}`, { cache: "no-store" }),
   ]);
 
   let firstPoll = state.live.polledAt === null;
@@ -123,6 +132,15 @@ async function pollLive() {
     } catch (e) { /* ignore */ }
   }
 
+  if (histRes.status === "fulfilled" && histRes.value.ok) {
+    try {
+      const h = await histRes.value.json();
+      state.history.items = h.items || [];
+      state.history.tradingDays = h.trading_days || [];
+      state.history.updatedAt = h.updated_at || null;
+    } catch (e) { /* ignore */ }
+  }
+
   renderLiveTicker();
   updateNavNewsBadge();
   if (!firstPoll && newSeqs.length) {
@@ -135,6 +153,9 @@ async function pollLive() {
   }
   if (location.hash === "#/after-market" || location.hash.startsWith("#/after-market")) {
     renderAfterMarketPage();
+  }
+  if (location.hash === "#/yesterday" || location.hash.startsWith("#/yesterday")) {
+    renderYesterdayPage();
   }
   if (newSeqs.length) {
     setTimeout(() => {
@@ -155,6 +176,19 @@ function updateNavNewsBadge() {
     const n = state.afterMarket.items.length;
     afterBadge.hidden = n === 0;
     afterBadge.textContent = String(n);
+  }
+  const ydayBadge = document.getElementById("navYdayBadge");
+  if (ydayBadge) {
+    // Count items from prior trading days only (today doesn't belong on "Yesterday")
+    const days = state.history.tradingDays || [];
+    const todayStr = days[0] || "";
+    let n = 0;
+    for (const it of state.history.items) {
+      const d = (it.sort_date || "").slice(0, 10);
+      if (d && d !== todayStr) n++;
+    }
+    ydayBadge.hidden = n === 0;
+    ydayBadge.textContent = String(n);
   }
 }
 
@@ -501,6 +535,213 @@ function renderAfterMarketPage() {
   });
 }
 
+function renderYesterdayPage() {
+  const view = document.getElementById("indView");
+  const items = state.history.items || [];
+  const tradingDays = (state.history.tradingDays || []).slice();
+  // Defensive: derive trading_days from items if the file omitted them
+  if (tradingDays.length === 0 && items.length) {
+    const seen = new Set();
+    for (const it of items) {
+      const d = (it.sort_date || "").slice(0, 10);
+      if (d) seen.add(d);
+    }
+    tradingDays.push(...[...seen].sort().reverse());
+  }
+  const todayStr = tradingDays[0] || "";
+  // For the "Yesterday" page, prefer the second-most-recent day on first land
+  const defaultDay = tradingDays.length > 1 ? tradingDays[1] : todayStr;
+
+  if (!state.history.selectedDay || !tradingDays.includes(state.history.selectedDay)) {
+    state.history.selectedDay = defaultDay;
+  }
+  const selectedDay = state.history.selectedDay;
+
+  const updated = state.history.updatedAt
+    ? state.history.updatedAt.slice(11, 16)
+    : (state.live.polledAt ? state.live.polledAt.slice(11, 16) : "—");
+  const marketState = currentMarketStateIST();
+  const marketLabel = {
+    open: "Market open",
+    preopen: "Pre-open",
+    closed: "Market closed",
+  }[marketState] || "Market —";
+
+  const countByDay = new Map();
+  for (const day of tradingDays) countByDay.set(day, 0);
+  for (const it of items) {
+    const d = (it.sort_date || "").slice(0, 10);
+    if (countByDay.has(d)) countByDay.set(d, countByDay.get(d) + 1);
+  }
+
+  const dayItems = items.filter((it) => (it.sort_date || "").slice(0, 10) === selectedDay);
+  const byIndustry = new Map();
+  const companiesByIndustry = new Map();
+  for (const it of dayItems) {
+    const slug = it.industry_slug || "unknown";
+    if (!byIndustry.has(slug)) {
+      byIndustry.set(slug, []);
+      companiesByIndustry.set(slug, new Set());
+    }
+    byIndustry.get(slug).push(it);
+    if (it.symbol) companiesByIndustry.get(slug).add(it.symbol);
+  }
+  const groups = [...byIndustry.entries()]
+    .map(([slug, list]) => ({
+      slug,
+      name: state.indexBySlug.get(slug)?.name || slug,
+      items: list.sort((a, b) => (b.sort_date || "").localeCompare(a.sort_date || "")),
+      uniq: companiesByIndustry.get(slug).size,
+    }))
+    .sort((a, b) => b.items.length - a.items.length || a.name.localeCompare(b.name));
+
+  const openSlugs = new Set(groups.map((g) => g.slug));
+  if (state.history.selectedSlug && !openSlugs.has(state.history.selectedSlug)) {
+    state.history.selectedSlug = null;
+  }
+  const selectedSlug = state.history.selectedSlug;
+
+  const isToday = selectedDay === todayStr;
+  const dayTotal = dayItems.length;
+  const sectorCount = groups.length;
+
+  const dayChipsHTML = tradingDays.map((day) => {
+    const n = countByDay.get(day) || 0;
+    const isActive = day === selectedDay;
+    const dLabel = day === todayStr ? "Today" : formatShortDate(day);
+    const yyyy = day.slice(0, 4);
+    return `
+      <button type="button"
+              class="am-day ${isActive ? "am-day--on" : ""}"
+              data-yd-day="${esc(day)}">
+        <span class="am-day__label">${esc(dLabel)}</span>
+        <span class="am-day__year">${esc(yyyy)}</span>
+        <span class="am-day__count">${INT.format(n)}</span>
+      </button>`;
+  }).join("");
+
+  const tilesHTML = groups.map((g, idx) => {
+    const active = g.slug === selectedSlug;
+    const tile = `
+      <button type="button"
+              class="am-tile ${active ? "am-tile--on" : ""}"
+              data-yd-slug="${esc(g.slug)}"
+              aria-expanded="${active ? "true" : "false"}">
+        <span class="am-tile__rank">${String(idx + 1).padStart(2, "0")}</span>
+        <span class="am-tile__name">${esc(g.name)}</span>
+        <span class="am-tile__meta">
+          <span class="am-tile__count">${INT.format(g.items.length)}</span>
+          <span class="am-tile__unit">item${g.items.length === 1 ? "" : "s"}</span>
+        </span>
+        <span class="am-tile__sub">${INT.format(g.uniq)} compan${g.uniq === 1 ? "y" : "ies"}</span>
+        <span class="am-tile__caret" aria-hidden="true">${active ? "▾" : "▸"}</span>
+      </button>`;
+
+    if (!active) return tile;
+
+    const detailRows = g.items.map((it) => newsRowHTML(it, { showShortDate: !isToday })).join("");
+    const drawer = `
+      <section class="am-drawer" data-yd-drawer>
+        <header class="am-drawer__head">
+          <div class="am-drawer__title">
+            <span class="am-drawer__eyebrow">News · ${esc(formatShortDate(selectedDay))}${isToday ? " · Today" : ""}</span>
+            <h3 class="am-drawer__name">
+              <a href="#/${esc(g.slug)}">${esc(g.name)} →</a>
+            </h3>
+          </div>
+          <div class="am-drawer__stats">
+            <span><b>${INT.format(g.items.length)}</b> items</span>
+            <span><b>${INT.format(g.uniq)}</b> ${g.uniq === 1 ? "company" : "companies"}</span>
+          </div>
+          <button type="button" class="am-drawer__close" data-yd-close aria-label="Collapse">✕</button>
+        </header>
+        <ol class="news-list-page am-drawer__list">${detailRows}</ol>
+      </section>`;
+    return tile + drawer;
+  }).join("");
+
+  view.innerHTML = `
+    <nav class="crumbs">
+      <a href="#/">Industries</a> <span>›</span> <span>Yesterday's News</span>
+    </nav>
+
+    <section class="ind-headline news-headline">
+      <div class="news-headline__main">
+        <h1 class="ind-h1">Yesterday's News</h1>
+        <p class="ind-lede">
+          Every NSE announcement we've polled, kept forever. Use the day strip to
+          step back through trading days; click a sector tile to read its filings.
+          Defaults to the most recent prior trading day.
+        </p>
+      </div>
+      <aside class="news-headline__meta">
+        <div class="news-meta-row">
+          <span class="news-meta-dot ${marketState ? `news-meta-dot--${marketState}` : ""}"></span>
+          <span class="news-meta-label">${esc(marketLabel)}</span>
+        </div>
+        <div class="news-meta-row">
+          <span class="news-meta-label">Updated</span>
+          <span class="news-meta-value">${esc(updated)} IST</span>
+        </div>
+        <div class="news-meta-row">
+          <span class="news-meta-label">Archive</span>
+          <span class="news-meta-value">${INT.format(tradingDays.length)} day${tradingDays.length === 1 ? "" : "s"} · ${INT.format(items.length)} items</span>
+        </div>
+      </aside>
+    </section>
+
+    ${tradingDays.length === 0
+      ? `<section class="ind-empty">
+           No history yet — items accumulate as the poller runs.
+         </section>`
+      : `
+        <section class="am-daystrip" aria-label="Trading day">
+          <span class="am-daystrip__label">Day</span>
+          <div class="am-daystrip__rail" id="ydDayRail">
+            ${dayChipsHTML}
+          </div>
+        </section>
+
+        <section class="am-summary">
+          <span class="am-summary__num">${INT.format(dayTotal)}</span>
+          <span class="am-summary__txt">item${dayTotal === 1 ? "" : "s"} across ${INT.format(sectorCount)} sector${sectorCount === 1 ? "" : "s"} · ${esc(formatShortDate(selectedDay))}${isToday ? " (today)" : ""}</span>
+        </section>
+
+        ${groups.length === 0
+          ? `<section class="ind-empty">
+               No items recorded for ${esc(formatShortDate(selectedDay))}.
+             </section>`
+          : `<section class="am-grid" id="ydGrid">${tilesHTML}</section>`}
+      `}
+  `;
+
+  view.querySelectorAll("button[data-yd-day]").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      state.history.selectedDay = btn.dataset.ydDay;
+      state.history.selectedSlug = null;
+      renderYesterdayPage();
+    });
+  });
+  view.querySelectorAll("button[data-yd-slug]").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const next = btn.dataset.ydSlug;
+      state.history.selectedSlug = state.history.selectedSlug === next ? null : next;
+      renderYesterdayPage();
+      requestAnimationFrame(() => {
+        const drawer = view.querySelector("[data-yd-drawer]");
+        if (drawer) drawer.scrollIntoView({ block: "nearest", behavior: "smooth" });
+      });
+    });
+  });
+  view.querySelectorAll("[data-yd-close]").forEach((btn) => {
+    btn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      state.history.selectedSlug = null;
+      renderYesterdayPage();
+    });
+  });
+}
+
 function newsRowHTML(it, opts = {}) {
   const isNew = state.live.newSeqs.has(it.seq_id);
   const tm = (it.sort_date || "").slice(11, 16);
@@ -665,6 +906,13 @@ function route() {
     document.getElementById("indSearch").placeholder =
       "After-market filings, grouped by sector…";
     renderAfterMarketPage();
+  } else if (parts[0] === "yesterday") {
+    state.live.currentSymbol = null;
+    document.getElementById("indSearch").value = "";
+    state.search = "";
+    document.getElementById("indSearch").placeholder =
+      "Yesterday's news, grouped by day and sector…";
+    renderYesterdayPage();
   } else if (parts.length === 1) {
     state.live.currentSymbol = null;
     document.getElementById("indSearch").value = "";

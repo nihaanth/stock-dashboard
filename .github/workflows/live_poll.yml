@@ -58,7 +58,8 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           FILES=(frontdesign/data/industries/_live_news.json
-                 frontdesign/data/_after_market_news.json)
+                 frontdesign/data/_after_market_news.json
+                 frontdesign/data/_news_history.json)
           if git diff --quiet -- "${FILES[@]}"; then
             echo "no diff in live/after-market files — skipping commit"
             exit 0
