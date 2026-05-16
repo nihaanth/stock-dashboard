@@ -8,25 +8,9 @@
   "price": 480.85,
   "market_cap_cr": 7653.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 401.9,
-      "prev_close": 403.75,
-      "volume": 227252,
-      "deliverable_qty": 114070,
-      "delivery_pct": 50.2
-    },
-    {
-      "date": "2026-02-13",
-      "close": 403.1,
-      "prev_close": 401.9,
-      "volume": 220651,
-      "deliverable_qty": 109856,
-      "delivery_pct": 49.79
-    },
     {
       "date": "2026-02-16",
       "close": 406.85,
@@ -466,9 +450,24 @@
       "volume": 459123,
       "deliverable_qty": 182554,
       "delivery_pct": 39.76
+    },
+    {
+      "date": "2026-05-15",
+      "close": 462.15,
+      "prev_close": 471.2,
+      "volume": 232499,
+      "deliverable_qty": 110427,
+      "delivery_pct": 47.5
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 13:09:10",
+      "an_dt": "14-May-2026 13:09:10",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Thyrocare Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THYROCARE_14052026130903_Intimation_Transcript.pdf"
+    },
     {
       "sort_date": "2026-05-12 14:19:22",
       "an_dt": "12-May-2026 14:19:22",

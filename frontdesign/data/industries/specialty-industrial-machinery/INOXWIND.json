@@ -8,25 +8,9 @@
   "price": 99.83,
   "market_cap_cr": 17253.0,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 109.32,
-      "prev_close": 110.42,
-      "volume": 4769914,
-      "deliverable_qty": 1546538,
-      "delivery_pct": 32.42
-    },
-    {
-      "date": "2026-02-13",
-      "close": 106.38,
-      "prev_close": 109.32,
-      "volume": 7857815,
-      "deliverable_qty": 2357965,
-      "delivery_pct": 30.01
-    },
     {
       "date": "2026-02-16",
       "close": 101.19,
@@ -466,9 +450,31 @@
       "volume": 10305169,
       "deliverable_qty": 2527073,
       "delivery_pct": 24.52
+    },
+    {
+      "date": "2026-05-15",
+      "close": 95.53,
+      "prev_close": 97.59,
+      "volume": 5783698,
+      "deliverable_qty": 1936352,
+      "delivery_pct": 33.48
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:43:14",
+      "an_dt": "15-May-2026 17:43:14",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Inox Wind Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INOXWIND_15052026174248_IWL_MA_Report31032026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 20:19:24",
+      "an_dt": "14-May-2026 20:19:24",
+      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
+      "sm_name": "Inox Wind Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INOXWIND_14052026201825_IWL_NilDeviationReport.pdf"
+    },
     {
       "sort_date": "2026-04-17 19:36:00",
       "an_dt": "17-Apr-2026 19:36:00",
@@ -510,55 +516,6 @@
       "desc": "General Updates",
       "sm_name": "Inox Wind Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INOXWIND_18022026185249_IWL_IntimationFor_transmission.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:43:47",
-      "an_dt": "13-Feb-2026 20:43:47",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Inox Wind Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INOXWIND_13022026204302_IWL_EarningCallRecording.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:27:05",
-      "an_dt": "13-Feb-2026 20:27:05",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Inox Wind Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INOXWIND_13022026202651_IWL_MonitoringAReport.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:22:27",
-      "an_dt": "13-Feb-2026 19:22:27",
-      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "sm_name": "Inox Wind Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INOXWIND_13022026192212_IWL_NilDeviationReport.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:43:22",
-      "an_dt": "13-Feb-2026 16:43:22",
-      "desc": "General Updates",
-      "sm_name": "Inox Wind Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INOXWIND_13022026164255_IWL_OutcomeofBM_13022025.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:35:53",
-      "an_dt": "13-Feb-2026 16:35:53",
-      "desc": "Press Release",
-      "sm_name": "Inox Wind Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INOXWIND_13022026163528_IWL_PressRelease13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:29:33",
-      "an_dt": "13-Feb-2026 16:29:33",
-      "desc": "Investor Presentation",
-      "sm_name": "Inox Wind Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INOXWIND_13022026162908_IWL_InvestorPresentation13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:15:23",
-      "an_dt": "13-Feb-2026 16:15:23",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Inox Wind Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INOXWIND_13022026161401_IWL_OutcomeofBM_13022025.pdf"
     }
   ]
 }

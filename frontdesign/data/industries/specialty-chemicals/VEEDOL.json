@@ -8,25 +8,9 @@
   "price": 1506.1,
   "market_cap_cr": 2559.6,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1459.4,
-      "prev_close": 1478.7,
-      "volume": 6834,
-      "deliverable_qty": 4640,
-      "delivery_pct": 67.9
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1442.1,
-      "prev_close": 1459.4,
-      "volume": 8218,
-      "deliverable_qty": 5443,
-      "delivery_pct": 66.23
-    },
     {
       "date": "2026-02-16",
       "close": 1435.1,
@@ -466,6 +450,14 @@
       "volume": 7837,
       "deliverable_qty": 3603,
       "delivery_pct": 45.97
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1432.9,
+      "prev_close": 1457.5,
+      "volume": 4683,
+      "deliverable_qty": 2640,
+      "delivery_pct": 56.37
     }
   ],
   "news": [
@@ -601,20 +593,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Veedol Corporation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VEEDOL1_14022026142013_Intimation_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:32:38",
-      "an_dt": "13-Feb-2026 18:32:38",
-      "desc": "Shareholders meeting",
-      "sm_name": "Veedol Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIDEWATER1_13022026183215_PBnotice13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:27:28",
-      "an_dt": "13-Feb-2026 14:27:28",
-      "desc": "General Updates",
-      "sm_name": "Veedol Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIDEWATER1_13022026142714_StrikeIntimation.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 244.58,
   "market_cap_cr": 2924.87,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 252.45,
-      "prev_close": 247.2,
-      "volume": 137400,
-      "deliverable_qty": 50962,
-      "delivery_pct": 37.09
-    },
-    {
-      "date": "2026-02-13",
-      "close": 253.35,
-      "prev_close": 252.45,
-      "volume": 141347,
-      "deliverable_qty": 81744,
-      "delivery_pct": 57.83
-    },
     {
       "date": "2026-02-16",
       "close": 253.0,
@@ -466,6 +450,14 @@
       "volume": 135232,
       "deliverable_qty": 47686,
       "delivery_pct": 35.26
+    },
+    {
+      "date": "2026-05-15",
+      "close": 227.1,
+      "prev_close": 230.74,
+      "volume": 62549,
+      "deliverable_qty": 33675,
+      "delivery_pct": 53.84
     }
   ],
   "news": [
@@ -538,13 +530,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Borosil Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BOROSIL_05032026123441_SEINTIMATION.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 10:12:54",
-      "an_dt": "13-Feb-2026 10:12:54",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Borosil Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BOROSIL_13022026101236_SEINTIMATIONEarningsCallTranscript.pdf"
     }
   ]
 }

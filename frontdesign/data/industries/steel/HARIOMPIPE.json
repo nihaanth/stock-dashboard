@@ -8,25 +8,9 @@
   "price": 331.0,
   "market_cap_cr": 1025.02,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 381.35,
-      "prev_close": 379.25,
-      "volume": 78412,
-      "deliverable_qty": 31734,
-      "delivery_pct": 40.47
-    },
-    {
-      "date": "2026-02-13",
-      "close": 372.1,
-      "prev_close": 381.35,
-      "volume": 85541,
-      "deliverable_qty": 46093,
-      "delivery_pct": 53.88
-    },
     {
       "date": "2026-02-16",
       "close": 366.85,
@@ -466,6 +450,14 @@
       "volume": 122937,
       "deliverable_qty": 55133,
       "delivery_pct": 44.85
+    },
+    {
+      "date": "2026-05-15",
+      "close": 308.6,
+      "prev_close": 307.25,
+      "volume": 157076,
+      "deliverable_qty": 67316,
+      "delivery_pct": 42.86
     }
   ],
   "news": [
@@ -566,13 +558,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Hariom Pipe Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/hariompipes_27022026172344_Investor_Meet_11032025_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:55:31",
-      "an_dt": "12-Feb-2026 16:55:31",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Hariom Pipe Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/hariompipes_12022026165022_Transcript_09022026_Signed.pdf"
     }
   ]
 }

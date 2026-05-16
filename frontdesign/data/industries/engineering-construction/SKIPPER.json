@@ -8,25 +8,9 @@
   "price": 451.65,
   "market_cap_cr": 5099.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 381.15,
-      "prev_close": 387.65,
-      "volume": 326467,
-      "deliverable_qty": 128947,
-      "delivery_pct": 39.5
-    },
-    {
-      "date": "2026-02-13",
-      "close": 373.8,
-      "prev_close": 381.15,
-      "volume": 178409,
-      "deliverable_qty": 73151,
-      "delivery_pct": 41.0
-    },
     {
       "date": "2026-02-16",
       "close": 369.45,
@@ -466,9 +450,31 @@
       "volume": 882730,
       "deliverable_qty": 345233,
       "delivery_pct": 39.11
+    },
+    {
+      "date": "2026-05-15",
+      "close": 460.2,
+      "prev_close": 457.85,
+      "volume": 1412135,
+      "deliverable_qty": 359845,
+      "delivery_pct": 25.48
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 14:06:35",
+      "an_dt": "15-May-2026 14:06:35",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "Skipper Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/skipper_15052026140626_Intimationforreceiptoforder.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 12:53:49",
+      "an_dt": "15-May-2026 12:53:49",
+      "desc": "Press Release",
+      "sm_name": "Skipper Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/skipper_15052026125340_PRESSRELEASELETTERFINAL.pdf"
+    },
     {
       "sort_date": "2026-05-07 14:58:59",
       "an_dt": "07-May-2026 14:58:59",
@@ -622,20 +628,6 @@
       "desc": "General Updates",
       "sm_name": "Skipper Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/skipper_20032026131406_Incorporation_of_wholly_owned_subsidiary.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:25:50",
-      "an_dt": "13-Feb-2026 17:25:50",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Skipper Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/skipper_13022026172541_MAREPORT.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:30:06",
-      "an_dt": "12-Feb-2026 15:30:06",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Skipper Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/skipper_12022026152954_NewspaperPublicationforRelodgement.pdf"
     }
   ]
 }

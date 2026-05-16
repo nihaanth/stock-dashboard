@@ -8,25 +8,9 @@
   "price": 162.25,
   "market_cap_cr": 22736.04,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 169.61,
-      "prev_close": 176.32,
-      "volume": 5332014,
-      "deliverable_qty": 2617858,
-      "delivery_pct": 49.1
-    },
-    {
-      "date": "2026-02-13",
-      "close": 166.51,
-      "prev_close": 169.61,
-      "volume": 5668937,
-      "deliverable_qty": 2285028,
-      "delivery_pct": 40.31
-    },
     {
       "date": "2026-02-16",
       "close": 171.2,
@@ -466,9 +450,24 @@
       "volume": 1499363,
       "deliverable_qty": 739893,
       "delivery_pct": 49.35
+    },
+    {
+      "date": "2026-05-15",
+      "close": 152.12,
+      "prev_close": 155.71,
+      "volume": 5194963,
+      "deliverable_qty": 2150683,
+      "delivery_pct": 41.4
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 16:30:07",
+      "an_dt": "14-May-2026 16:30:07",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Indraprastha Gas Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGL1_14052026162955_IGLEarningCallIntimation14052026.pdf"
+    },
     {
       "sort_date": "2026-04-22 18:50:45",
       "an_dt": "22-Apr-2026 18:50:45",
@@ -552,20 +551,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Indraprastha Gas Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGL1_14022026112836_EarningCallaudiolinkintimation13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:46:23",
-      "an_dt": "12-Feb-2026 18:46:23",
-      "desc": "Record Date",
-      "sm_name": "Indraprastha Gas Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGL1_12022026184532_IntegratedFinancialsDec2025.PDF"
-    },
-    {
-      "sort_date": "2026-02-12 18:41:49",
-      "an_dt": "12-Feb-2026 18:41:49",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Indraprastha Gas Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGL1_12022026183929_IntegratedFinancialsDec2025.PDF"
     }
   ]
 }

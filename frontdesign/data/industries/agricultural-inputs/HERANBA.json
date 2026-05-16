@@ -8,25 +8,9 @@
   "price": 217.32,
   "market_cap_cr": 869.57,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 212.94,
-      "prev_close": 229.0,
-      "volume": 86695,
-      "deliverable_qty": 46589,
-      "delivery_pct": 53.74
-    },
-    {
-      "date": "2026-02-13",
-      "close": 207.47,
-      "prev_close": 212.94,
-      "volume": 61735,
-      "deliverable_qty": 34648,
-      "delivery_pct": 56.12
-    },
     {
       "date": "2026-02-16",
       "close": 208.01,
@@ -466,6 +450,14 @@
       "volume": 24302,
       "deliverable_qty": 11067,
       "delivery_pct": 45.54
+    },
+    {
+      "date": "2026-05-15",
+      "close": 204.52,
+      "prev_close": 206.83,
+      "volume": 22973,
+      "deliverable_qty": 11828,
+      "delivery_pct": 51.49
     }
   ],
   "news": [
@@ -573,13 +565,6 @@
       "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
       "sm_name": "Heranba Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HERANBA_27022026161249_CA_NCLT_HOPL.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 12:40:10",
-      "an_dt": "13-Feb-2026 12:40:10",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Heranba Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HERANBA_13022026123935_Newspaper_Adv_HIL.pdf"
     }
   ]
 }

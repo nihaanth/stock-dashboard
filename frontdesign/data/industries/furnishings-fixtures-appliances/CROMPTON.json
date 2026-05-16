@@ -8,25 +8,9 @@
   "price": 290.2,
   "market_cap_cr": 18967.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 264.4,
-      "prev_close": 266.04,
-      "volume": 3035533,
-      "deliverable_qty": 1502776,
-      "delivery_pct": 49.51
-    },
-    {
-      "date": "2026-02-13",
-      "close": 267.52,
-      "prev_close": 264.4,
-      "volume": 4504154,
-      "deliverable_qty": 2095531,
-      "delivery_pct": 46.52
-    },
     {
       "date": "2026-02-16",
       "close": 272.66,
@@ -466,9 +450,31 @@
       "volume": 6086493,
       "deliverable_qty": 2158825,
       "delivery_pct": 35.47
+    },
+    {
+      "date": "2026-05-15",
+      "close": 301.95,
+      "prev_close": 288.95,
+      "volume": 18051421,
+      "deliverable_qty": 5580133,
+      "delivery_pct": 30.91
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:03:31",
+      "an_dt": "15-May-2026 19:03:31",
+      "desc": "Action(s) taken or orders passed",
+      "sm_name": "Crompton Greaves Consumer Electricals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Crompton123_15052026190101_IntimationforOrderspassed.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:35:50",
+      "an_dt": "14-May-2026 17:35:50",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Crompton Greaves Consumer Electricals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Crompton123_14052026173543_SEIntimationnewspaperMay2026.pdf"
+    },
     {
       "sort_date": "2026-05-13 23:52:17",
       "an_dt": "13-May-2026 23:52:17",
@@ -776,13 +782,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Crompton Greaves Consumer Electricals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Crompton123_15022026212158_IntimationtoSEPostdispatch.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:42:01",
-      "an_dt": "12-Feb-2026 18:42:01",
-      "desc": "Shareholders meeting",
-      "sm_name": "Crompton Greaves Consumer Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Crompton123_12022026184138_SEIntimationPBNoticeFeb2026.pdf"
     }
   ]
 }

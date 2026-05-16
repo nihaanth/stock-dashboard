@@ -8,25 +8,9 @@
   "price": 332.95,
   "market_cap_cr": 7103.25,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 370.3,
-      "prev_close": 380.65,
-      "volume": 132658,
-      "deliverable_qty": 83178,
-      "delivery_pct": 62.7
-    },
-    {
-      "date": "2026-02-13",
-      "close": 368.9,
-      "prev_close": 370.3,
-      "volume": 106764,
-      "deliverable_qty": 41943,
-      "delivery_pct": 39.29
-    },
     {
       "date": "2026-02-16",
       "close": 364.05,
@@ -466,9 +450,24 @@
       "volume": 272334,
       "deliverable_qty": 146235,
       "delivery_pct": 53.7
+    },
+    {
+      "date": "2026-05-15",
+      "close": 326.45,
+      "prev_close": 323.9,
+      "volume": 132762,
+      "deliverable_qty": 65852,
+      "delivery_pct": 49.6
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:51:05",
+      "an_dt": "14-May-2026 17:51:05",
+      "desc": "Credit Rating- New",
+      "sm_name": "Mahindra Lifespace Developers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAHLIFE1_14052026175049_IntimationofCreditRating.pdf"
+    },
     {
       "sort_date": "2026-05-06 19:38:37",
       "an_dt": "06-May-2026 19:38:37",

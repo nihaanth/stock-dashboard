@@ -8,25 +8,9 @@
   "price": 615.95,
   "market_cap_cr": 31077.24,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 452.25,
-      "prev_close": 455.3,
-      "volume": 390938,
-      "deliverable_qty": 209205,
-      "delivery_pct": 53.51
-    },
-    {
-      "date": "2026-02-13",
-      "close": 450.35,
-      "prev_close": 452.25,
-      "volume": 586000,
-      "deliverable_qty": 183908,
-      "delivery_pct": 31.38
-    },
     {
       "date": "2026-02-16",
       "close": 470.9,
@@ -466,9 +450,52 @@
       "volume": 13151585,
       "deliverable_qty": 2900720,
       "delivery_pct": 22.06
+    },
+    {
+      "date": "2026-05-15",
+      "close": 596.0,
+      "prev_close": 617.05,
+      "volume": 7890942,
+      "deliverable_qty": 1463371,
+      "delivery_pct": 18.54
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:40:40",
+      "an_dt": "15-May-2026 19:40:40",
+      "desc": "Updates",
+      "sm_name": "Himadri Speciality Chemical Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HSCL_15052026194024_BRSRFY202526.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 15:46:22",
+      "an_dt": "15-May-2026 15:46:22",
+      "desc": "Shareholders meeting",
+      "sm_name": "Himadri Speciality Chemical Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HSCL_15052026154505_NoticeAGMandAnnualReport2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 13:59:34",
+      "an_dt": "15-May-2026 13:59:34",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Himadri Speciality Chemical Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HSCL_15052026135926_HSCLNewspaperPublicationAGM2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:02:19",
+      "an_dt": "14-May-2026 17:02:19",
+      "desc": "Updates",
+      "sm_name": "Himadri Speciality Chemical Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HSCL_14052026170207_HSCLAGMRecorddateIntimation2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 16:56:53",
+      "an_dt": "14-May-2026 16:56:53",
+      "desc": "Record Date",
+      "sm_name": "Himadri Speciality Chemical Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HSCL_14052026165553_HSCLAGMRecorddateIntimation2026.pdf"
+    },
     {
       "sort_date": "2026-05-13 13:36:24",
       "an_dt": "13-May-2026 13:36:24",
@@ -671,13 +698,6 @@
       "desc": "Updates",
       "sm_name": "Himadri Speciality Chemical Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HSCL_23022026161359_Stx_changeofnameofWOS.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:09:27",
-      "an_dt": "13-Feb-2026 16:09:27",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Himadri Speciality Chemical Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HSCL_13022026160859_Intimation_newspaper_publication.pdf"
     }
   ]
 }

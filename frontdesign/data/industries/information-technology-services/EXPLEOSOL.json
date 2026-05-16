@@ -8,25 +8,9 @@
   "price": 878.25,
   "market_cap_cr": 1363.02,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 844.45,
-      "prev_close": 882.5,
-      "volume": 32159,
-      "deliverable_qty": 21471,
-      "delivery_pct": 66.77
-    },
-    {
-      "date": "2026-02-13",
-      "close": 852.35,
-      "prev_close": 844.45,
-      "volume": 26895,
-      "deliverable_qty": 18594,
-      "delivery_pct": 69.14
-    },
     {
       "date": "2026-02-16",
       "close": 852.6,
@@ -466,9 +450,31 @@
       "volume": 100228,
       "deliverable_qty": 28938,
       "delivery_pct": 28.87
+    },
+    {
+      "date": "2026-05-15",
+      "close": 885.65,
+      "prev_close": 887.6,
+      "volume": 46717,
+      "deliverable_qty": 24600,
+      "delivery_pct": 52.66
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 18:13:02",
+      "an_dt": "14-May-2026 18:13:02",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Expleo Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SQS_14052026181215_SubmissionofNewspaperAdvertisementCoveringLetterMay142026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:56:19",
+      "an_dt": "14-May-2026 17:56:19",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Expleo Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SQS_14052026175558_AudioRecordingofAnalystMeeting14052026.pdf"
+    },
     {
       "sort_date": "2026-05-13 22:46:30",
       "an_dt": "13-May-2026 22:46:30",

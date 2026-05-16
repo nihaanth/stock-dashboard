@@ -8,25 +8,9 @@
   "price": 104.57,
   "market_cap_cr": 1182.53,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 80.0,
-      "prev_close": 80.76,
-      "volume": 431254,
-      "deliverable_qty": 121351,
-      "delivery_pct": 28.14
-    },
-    {
-      "date": "2026-02-13",
-      "close": 79.25,
-      "prev_close": 80.0,
-      "volume": 166388,
-      "deliverable_qty": 52594,
-      "delivery_pct": 31.61
-    },
     {
       "date": "2026-02-16",
       "close": 79.95,
@@ -466,9 +450,24 @@
       "volume": 435401,
       "deliverable_qty": 217170,
       "delivery_pct": 49.88
+    },
+    {
+      "date": "2026-05-15",
+      "close": 101.74,
+      "prev_close": 101.83,
+      "volume": 340256,
+      "deliverable_qty": 105809,
+      "delivery_pct": 31.1
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 14:30:11",
+      "an_dt": "15-May-2026 14:30:11",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Aeroflex Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATINDUSTRIES_15052026142635_Newspaperpublicationintimation.pdf"
+    },
     {
       "sort_date": "2026-05-13 19:41:45",
       "an_dt": "13-May-2026 19:41:45",
@@ -629,27 +628,6 @@
       "desc": "Updates",
       "sm_name": "Aeroflex Enterprises Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATINDUSTRIES_17022026184340_AELwebsiteandemailupdate.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 13:00:28",
-      "an_dt": "13-Feb-2026 13:00:28",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Aeroflex Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATINDUSTRIES_13022026125931_AELnewspaperpublication.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:13:30",
-      "an_dt": "12-Feb-2026 13:13:30",
-      "desc": "Updates",
-      "sm_name": "Aeroflex Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATINDUSTRIES_12022026131159_aelinvestorpresentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 12:51:32",
-      "an_dt": "12-Feb-2026 12:51:32",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Aeroflex Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATINDUSTRIES_12022026125104_FINALAELOUTCOMEOFBM.pdf"
     }
   ]
 }

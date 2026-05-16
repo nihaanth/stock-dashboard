@@ -8,25 +8,9 @@
   "price": 427.6,
   "market_cap_cr": 2170.97,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 477.9,
-      "prev_close": 473.8,
-      "volume": 52700,
-      "deliverable_qty": 23492,
-      "delivery_pct": 44.58
-    },
-    {
-      "date": "2026-02-13",
-      "close": 466.05,
-      "prev_close": 477.9,
-      "volume": 74270,
-      "deliverable_qty": 37485,
-      "delivery_pct": 50.47
-    },
     {
       "date": "2026-02-16",
       "close": 467.15,
@@ -466,9 +450,24 @@
       "volume": 41253,
       "deliverable_qty": 16498,
       "delivery_pct": 39.99
+    },
+    {
+      "date": "2026-05-15",
+      "close": 413.1,
+      "prev_close": 411.1,
+      "volume": 51419,
+      "deliverable_qty": 22933,
+      "delivery_pct": 44.6
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:15:52",
+      "an_dt": "15-May-2026 17:15:52",
+      "desc": "General Updates",
+      "sm_name": "Rajratan Global Wire Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAJRATAN_15052026171530_20260515IntimationOfLandAcquisition.pdf"
+    },
     {
       "sort_date": "2026-04-29 14:12:19",
       "an_dt": "29-Apr-2026 14:12:19",

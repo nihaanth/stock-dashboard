@@ -8,25 +8,9 @@
   "price": 1196.6,
   "market_cap_cr": 76603.96,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1148.7,
-      "prev_close": 1160.0,
-      "volume": 1573000,
-      "deliverable_qty": 541368,
-      "delivery_pct": 34.42
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1126.3,
-      "prev_close": 1148.7,
-      "volume": 6319748,
-      "deliverable_qty": 3095740,
-      "delivery_pct": 48.99
-    },
     {
       "date": "2026-02-16",
       "close": 1123.1,
@@ -466,6 +450,14 @@
       "volume": 1684507,
       "deliverable_qty": 499500,
       "delivery_pct": 29.65
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1131.2,
+      "prev_close": 1144.6,
+      "volume": 1303265,
+      "deliverable_qty": 468958,
+      "delivery_pct": 35.98
     }
   ],
   "news": [
@@ -636,13 +628,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "One 97 Communications Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PAYTM_03032026113554_Reg30DisclosureAllotmentofshares_03Mar2026_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:44:26",
-      "an_dt": "13-Feb-2026 16:44:26",
-      "desc": "General Updates",
-      "sm_name": "One 97 Communications Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PAYTM_13022026164251_SE_Discl_Update_13022026_Signed.pdf"
     }
   ]
 }

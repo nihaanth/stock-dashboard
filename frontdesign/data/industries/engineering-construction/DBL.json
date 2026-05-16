@@ -8,25 +8,9 @@
   "price": 437.45,
   "market_cap_cr": 7106.15,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 453.4,
-      "prev_close": 453.75,
-      "volume": 155924,
-      "deliverable_qty": 55803,
-      "delivery_pct": 35.79
-    },
-    {
-      "date": "2026-02-13",
-      "close": 431.6,
-      "prev_close": 453.4,
-      "volume": 360425,
-      "deliverable_qty": 157615,
-      "delivery_pct": 43.73
-    },
     {
       "date": "2026-02-16",
       "close": 430.6,
@@ -466,9 +450,52 @@
       "volume": 61327,
       "deliverable_qty": 28962,
       "delivery_pct": 47.23
+    },
+    {
+      "date": "2026-05-15",
+      "close": 441.5,
+      "prev_close": 472.3,
+      "volume": 224198,
+      "deliverable_qty": 73393,
+      "delivery_pct": 32.74
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 20:02:55",
+      "an_dt": "14-May-2026 20:02:55",
+      "desc": "Updates",
+      "sm_name": "Dilip Buildcon Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DBL_14052026200139_FinalIntimationaudiolink.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:37:09",
+      "an_dt": "14-May-2026 17:37:09",
+      "desc": "Press Release",
+      "sm_name": "Dilip Buildcon Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DBL_14052026173704_Finalpressrelease.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 16:01:01",
+      "an_dt": "14-May-2026 16:01:01",
+      "desc": "Updates",
+      "sm_name": "Dilip Buildcon Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DBL_14052026160054_Dividend.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 15:57:55",
+      "an_dt": "14-May-2026 15:57:55",
+      "desc": "Investor Presentation",
+      "sm_name": "Dilip Buildcon Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DBL_14052026155746_Final.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 15:56:05",
+      "an_dt": "14-May-2026 15:56:05",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Dilip Buildcon Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DBL_14052026154454_Finaloutcome.pdf"
+    },
     {
       "sort_date": "2026-05-11 14:05:18",
       "an_dt": "11-May-2026 14:05:18",
@@ -601,20 +628,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Dilip Buildcon Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DBL_14022026180909_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:33:43",
-      "an_dt": "13-Feb-2026 11:33:43",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "Dilip Buildcon Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DBL_13022026113146_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 11:31:20",
-      "an_dt": "12-Feb-2026 11:31:20",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Dilip Buildcon Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DBL_12022026113100_Newspaperintimation.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 102.31,
   "market_cap_cr": 1605.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 166.25,
-      "prev_close": 149.93,
-      "volume": 19167730,
-      "deliverable_qty": 2738346,
-      "delivery_pct": 14.29
-    },
-    {
-      "date": "2026-02-13",
-      "close": 167.01,
-      "prev_close": 166.25,
-      "volume": 9742164,
-      "deliverable_qty": 1040985,
-      "delivery_pct": 10.69
-    },
     {
       "date": "2026-02-16",
       "close": 161.87,
@@ -466,9 +450,24 @@
       "volume": 2269119,
       "deliverable_qty": 679966,
       "delivery_pct": 29.97
+    },
+    {
+      "date": "2026-05-15",
+      "close": 94.46,
+      "prev_close": 94.04,
+      "volume": 1534251,
+      "deliverable_qty": 451835,
+      "delivery_pct": 29.45
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:38:19",
+      "an_dt": "15-May-2026 17:38:19",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Yatra Online Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/YATRA2022_15052026173735_Intimation_Monitor_Agency_Report_Q4_31032026.pdf"
+    },
     {
       "sort_date": "2026-04-24 15:26:09",
       "an_dt": "24-Apr-2026 15:26:09",
@@ -552,20 +551,6 @@
       "desc": "Updates",
       "sm_name": "Yatra Online Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/YATRA2022_18022026203853_DisclosureReg29_2_-THCL_sale_of_shares-18_Feb2026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 12:19:45",
-      "an_dt": "13-Feb-2026 12:19:45",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Yatra Online Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/YATRA2022_13022026121759_Intimation_Newspaper_ClippingsSD.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:52:53",
-      "an_dt": "12-Feb-2026 15:52:53",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Yatra Online Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/YATRA2022_12022026154613_IntimationAudioRecordingSD.pdf"
     }
   ]
 }

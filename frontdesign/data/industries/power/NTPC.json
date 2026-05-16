@@ -8,25 +8,9 @@
   "price": 392.95,
   "market_cap_cr": 381030.52,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 368.25,
-      "prev_close": 368.45,
-      "volume": 6763353,
-      "deliverable_qty": 3681852,
-      "delivery_pct": 54.44
-    },
-    {
-      "date": "2026-02-13",
-      "close": 363.0,
-      "prev_close": 368.25,
-      "volume": 7111972,
-      "deliverable_qty": 5120121,
-      "delivery_pct": 71.99
-    },
     {
       "date": "2026-02-16",
       "close": 369.1,
@@ -466,9 +450,31 @@
       "volume": 12322076,
       "deliverable_qty": 7552390,
       "delivery_pct": 61.29
+    },
+    {
+      "date": "2026-05-15",
+      "close": 395.25,
+      "prev_close": 396.3,
+      "volume": 7107857,
+      "deliverable_qty": 4352412,
+      "delivery_pct": 61.23
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 16:12:32",
+      "an_dt": "15-May-2026 16:12:32",
+      "desc": "Trading Window",
+      "sm_name": "NTPC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NTPC_15052026161150_20260515_STEX_BM_INTIMATION.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 16:01:42",
+      "an_dt": "14-May-2026 16:01:42",
+      "desc": "Updates",
+      "sm_name": "NTPC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NTPC_14052026160127_20260514_STEX_NGELCOD.pdf"
+    },
     {
       "sort_date": "2026-05-07 18:03:16",
       "an_dt": "07-May-2026 18:03:16",

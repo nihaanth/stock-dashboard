@@ -8,25 +8,9 @@
   "price": 1097.7,
   "market_cap_cr": 1130.35,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1438.8,
-      "prev_close": 1389.0,
-      "volume": 102478,
-      "deliverable_qty": 10844,
-      "delivery_pct": 10.58
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1449.5,
-      "prev_close": 1438.8,
-      "volume": 18800,
-      "deliverable_qty": 5287,
-      "delivery_pct": 28.12
-    },
     {
       "date": "2026-02-16",
       "close": 1405.1,
@@ -466,6 +450,14 @@
       "volume": 2626,
       "deliverable_qty": 1076,
       "delivery_pct": 40.97
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1031.2,
+      "prev_close": 1034.8,
+      "volume": 2015,
+      "deliverable_qty": 1099,
+      "delivery_pct": 54.54
     }
   ],
   "news": [
@@ -489,20 +481,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Jindal Photo Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JINDALPHOT_16022026160405_Covering_merged.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:30:30",
-      "an_dt": "13-Feb-2026 19:30:30",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Jindal Photo Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JINDALPHOT_13022026192556_OutcomeBM.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:23:39",
-      "an_dt": "13-Feb-2026 19:23:39",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Jindal Photo Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JINDALPHOT_13022026192316_OutcomeBM.pdf"
     }
   ]
 }

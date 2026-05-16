@@ -8,25 +8,9 @@
   "price": 130.96,
   "market_cap_cr": 17609.68,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 429.25,
-      "prev_close": 433.95,
-      "volume": 2216312,
-      "deliverable_qty": 438943,
-      "delivery_pct": 19.81
-    },
-    {
-      "date": "2026-02-13",
-      "close": 421.0,
-      "prev_close": 429.25,
-      "volume": 2748964,
-      "deliverable_qty": 798079,
-      "delivery_pct": 29.03
-    },
     {
       "date": "2026-02-16",
       "close": 406.25,
@@ -466,9 +450,45 @@
       "volume": 13596211,
       "deliverable_qty": 4793882,
       "delivery_pct": 35.26
+    },
+    {
+      "date": "2026-05-15",
+      "close": 120.36,
+      "prev_close": 123.08,
+      "volume": 11157881,
+      "deliverable_qty": 4167938,
+      "delivery_pct": 37.35
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:51:57",
+      "an_dt": "15-May-2026 19:51:57",
+      "desc": "General Updates",
+      "sm_name": "Cupid Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CUPID_15052026195150_Investor_Presentation.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 19:48:35",
+      "an_dt": "15-May-2026 19:48:35",
+      "desc": "Press Release",
+      "sm_name": "Cupid Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CUPID_15052026194800_Press_Release.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 19:02:45",
+      "an_dt": "15-May-2026 19:02:45",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Cupid Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CUPID_ROID_86239_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-05-15 18:28:49",
+      "an_dt": "15-May-2026 18:28:49",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Cupid Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CUPID_15052026182742_BM_Outcome_FR.pdf"
+    },
     {
       "sort_date": "2026-04-28 19:22:49",
       "an_dt": "28-Apr-2026 19:22:49",
@@ -629,13 +649,6 @@
       "desc": "General Updates",
       "sm_name": "Cupid Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CUPID_18022026164209_General_Updates_Investor_Cautionary_Advisory.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:04:22",
-      "an_dt": "12-Feb-2026 18:04:22",
-      "desc": "General Updates",
-      "sm_name": "Cupid Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CUPID_12022026180414_Intimation_Board_Committee_Reconstitution.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 1844.1,
   "market_cap_cr": 983.52,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1803.3,
-      "prev_close": 1789.7,
-      "volume": 1226,
-      "deliverable_qty": 733,
-      "delivery_pct": 59.79
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1795.9,
-      "prev_close": 1803.3,
-      "volume": 622,
-      "deliverable_qty": 361,
-      "delivery_pct": 58.04
-    },
     {
       "date": "2026-02-16",
       "close": 1831.3,
@@ -466,9 +450,38 @@
       "volume": 2241,
       "deliverable_qty": 1434,
       "delivery_pct": 63.99
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1808.0,
+      "prev_close": 1786.4,
+      "volume": 1439,
+      "deliverable_qty": 888,
+      "delivery_pct": 61.71
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 20:55:19",
+      "an_dt": "15-May-2026 20:55:19",
+      "desc": "Dividend",
+      "sm_name": "GRP Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRPLTD_15052026205342_GRPL_BM_Outcome_150526.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 20:55:19",
+      "an_dt": "15-May-2026 20:55:19",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "GRP Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRPLTD_15052026205020_GRPL_BM_Outcome_150526.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 12:29:54",
+      "an_dt": "14-May-2026 12:29:54",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "GRP Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRPLTD_14052026122924_GRP_Earnings_Call_Invite_18052026.pdf"
+    },
     {
       "sort_date": "2026-05-12 18:33:53",
       "an_dt": "12-May-2026 18:33:53",
@@ -510,20 +523,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "GRP Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRPLTD_20022026185003_SE_Transcript.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:43:46",
-      "an_dt": "13-Feb-2026 18:43:46",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "GRP Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRPLTD_13022026184249_GRP_Audiolink_Q3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:32:18",
-      "an_dt": "12-Feb-2026 19:32:18",
-      "desc": "Investor Presentation",
-      "sm_name": "GRP Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRPLTD_12022026193200_GRP_-_Q3FY26_Investor_Presentation.pdf"
     }
   ]
 }

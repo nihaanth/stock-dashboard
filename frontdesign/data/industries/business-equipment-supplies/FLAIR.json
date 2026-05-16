@@ -8,25 +8,9 @@
   "price": 335.0,
   "market_cap_cr": 3530.75,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 322.4,
-      "prev_close": 309.3,
-      "volume": 569631,
-      "deliverable_qty": 238610,
-      "delivery_pct": 41.89
-    },
-    {
-      "date": "2026-02-13",
-      "close": 323.05,
-      "prev_close": 322.4,
-      "volume": 274669,
-      "deliverable_qty": 160933,
-      "delivery_pct": 58.59
-    },
     {
       "date": "2026-02-16",
       "close": 320.65,
@@ -466,6 +450,14 @@
       "volume": 67281,
       "deliverable_qty": 25495,
       "delivery_pct": 37.89
+    },
+    {
+      "date": "2026-05-15",
+      "close": 334.0,
+      "prev_close": 326.4,
+      "volume": 115555,
+      "deliverable_qty": 42759,
+      "delivery_pct": 37.0
     }
   ],
   "news": [
@@ -531,13 +523,6 @@
       "desc": "General Updates",
       "sm_name": "Flair Writing Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/flair2016_24022026095929_FWIL_Intimation_24_02_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 10:34:26",
-      "an_dt": "12-Feb-2026 10:34:26",
-      "desc": "Reply to Clarification- Financial results",
-      "sm_name": "Flair Writing Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/flair2016_11022026155032_Reply_Letter_to_SE_for_Standalone_Financials.pdf"
     }
   ]
 }

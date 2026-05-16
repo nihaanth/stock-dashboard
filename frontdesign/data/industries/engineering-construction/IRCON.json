@@ -8,25 +8,9 @@
   "price": 152.31,
   "market_cap_cr": 14324.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 154.47,
-      "prev_close": 156.43,
-      "volume": 2580076,
-      "deliverable_qty": 776780,
-      "delivery_pct": 30.11
-    },
-    {
-      "date": "2026-02-13",
-      "close": 152.89,
-      "prev_close": 154.47,
-      "volume": 1429611,
-      "deliverable_qty": 432321,
-      "delivery_pct": 30.24
-    },
     {
       "date": "2026-02-16",
       "close": 153.1,
@@ -466,6 +450,14 @@
       "volume": 2807630,
       "deliverable_qty": 717705,
       "delivery_pct": 25.56
+    },
+    {
+      "date": "2026-05-15",
+      "close": 142.64,
+      "prev_close": 145.64,
+      "volume": 1658820,
+      "deliverable_qty": 540951,
+      "delivery_pct": 32.61
     }
   ],
   "news": [
@@ -566,34 +558,6 @@
       "desc": "General Updates",
       "sm_name": "Ircon International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCON_17022026123136_STXLETTERWAIVERINTIMATION.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:36:54",
-      "an_dt": "13-Feb-2026 16:36:54",
-      "desc": "Appointment",
-      "sm_name": "Ircon International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCON_13022026163645_STXAPPOINTMENTDP.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:34:45",
-      "an_dt": "13-Feb-2026 16:34:45",
-      "desc": "Cessation",
-      "sm_name": "Ircon International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCON_13022026163436_STXAPPOINTMENTDP.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:55:30",
-      "an_dt": "12-Feb-2026 18:55:30",
-      "desc": "Updates",
-      "sm_name": "Ircon International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCON_12022026185521_AppointmentDP12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 11:31:52",
-      "an_dt": "12-Feb-2026 11:31:52",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Ircon International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCON_12022026113145_NewspaperIntimation.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 284.9,
   "market_cap_cr": 11729.08,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 280.45,
-      "prev_close": 284.6,
-      "volume": 699911,
-      "deliverable_qty": 235023,
-      "delivery_pct": 33.58
-    },
-    {
-      "date": "2026-02-13",
-      "close": 269.3,
-      "prev_close": 280.45,
-      "volume": 1252022,
-      "deliverable_qty": 496365,
-      "delivery_pct": 39.65
-    },
     {
       "date": "2026-02-16",
       "close": 283.7,
@@ -466,9 +450,24 @@
       "volume": 745301,
       "deliverable_qty": 283597,
       "delivery_pct": 38.05
+    },
+    {
+      "date": "2026-05-15",
+      "close": 252.9,
+      "prev_close": 260.45,
+      "volume": 1054630,
+      "deliverable_qty": 519697,
+      "delivery_pct": 49.28
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 15:45:31",
+      "an_dt": "15-May-2026 15:45:31",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "BLS International Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLS_15052026154501_Signed_Earning_Calls_invite.pdf"
+    },
     {
       "sort_date": "2026-05-11 20:03:17",
       "an_dt": "11-May-2026 20:03:17",
@@ -486,7 +485,7 @@
     {
       "sort_date": "2026-04-15 19:32:59",
       "an_dt": "15-Apr-2026 19:32:59",
-      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
+      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
       "sm_name": "BLS International Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLS_15042026193245_Update_on_change_in_RTA__Final_15042026.pdf"
     },
@@ -587,13 +586,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "BLS International Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLS_18022026203144_PB_Notice_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:10:57",
-      "an_dt": "12-Feb-2026 18:10:57",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "BLS International Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLS_12022026181041_Earning_call_transcript_final_2026_Signed.pdf"
     }
   ]
 }

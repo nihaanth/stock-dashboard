@@ -8,25 +8,9 @@
   "price": 1535.0,
   "market_cap_cr": 38943.6,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1472.9,
-      "prev_close": 1432.7,
-      "volume": 200360,
-      "deliverable_qty": 65793,
-      "delivery_pct": 32.84
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1485.4,
-      "prev_close": 1472.9,
-      "volume": 408095,
-      "deliverable_qty": 96601,
-      "delivery_pct": 23.67
-    },
     {
       "date": "2026-02-16",
       "close": 1495.1,
@@ -466,6 +450,14 @@
       "volume": 251461,
       "deliverable_qty": 127092,
       "delivery_pct": 50.54
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1605.0,
+      "prev_close": 1583.9,
+      "volume": 1114457,
+      "deliverable_qty": 481975,
+      "delivery_pct": 43.25
     }
   ],
   "news": [
@@ -517,13 +509,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "IPCA Laboratories Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IPCALAB_16022026112116_IpcaNewspaperIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 13:38:28",
-      "an_dt": "13-Feb-2026 13:38:28",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "IPCA Laboratories Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IPCALAB_13022026133701_IpcaQ3Results.pdf"
     }
   ]
 }

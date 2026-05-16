@@ -8,25 +8,9 @@
   "price": 88.65,
   "market_cap_cr": 23935.5,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 100.5,
-      "prev_close": 101.68,
-      "volume": 7260515,
-      "deliverable_qty": 1984047,
-      "delivery_pct": 27.33
-    },
-    {
-      "date": "2026-02-13",
-      "close": 98.08,
-      "prev_close": 100.5,
-      "volume": 9520535,
-      "deliverable_qty": 3470519,
-      "delivery_pct": 36.45
-    },
     {
       "date": "2026-02-16",
       "close": 99.81,
@@ -466,9 +450,24 @@
       "volume": 12838455,
       "deliverable_qty": 4606610,
       "delivery_pct": 35.88
+    },
+    {
+      "date": "2026-05-15",
+      "close": 93.82,
+      "prev_close": 95.49,
+      "volume": 7648496,
+      "deliverable_qty": 2763198,
+      "delivery_pct": 36.13
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 15:34:52",
+      "an_dt": "15-May-2026 15:34:52",
+      "desc": "Updates",
+      "sm_name": "NBCC (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NBCC_15052026153436_Stock_Exchange_Intimation__1_.pdf"
+    },
     {
       "sort_date": "2026-05-13 16:58:22",
       "an_dt": "13-May-2026 16:58:22",
@@ -650,34 +649,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "NBCC (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NBCC_16022026131045_Stock_Exchange_Intimation_newspaper.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:21:16",
-      "an_dt": "13-Feb-2026 20:21:16",
-      "desc": "Trading Window",
-      "sm_name": "NBCC (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NBCC_13022026202105_BoardMeetingIntimation13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:19:27",
-      "an_dt": "13-Feb-2026 20:19:27",
-      "desc": "Record Date",
-      "sm_name": "NBCC (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NBCC_13022026201805_BoardMeetingIntimation13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:18:27",
-      "an_dt": "13-Feb-2026 19:18:27",
-      "desc": "Investor Presentation",
-      "sm_name": "NBCC (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NBCC_13022026191813_Stock_Exchange_Intimation_concal_presentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:50:53",
-      "an_dt": "13-Feb-2026 15:50:53",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "NBCC (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NBCC_13022026154909_BMoutcome13022026.pdf"
     }
   ]
 }

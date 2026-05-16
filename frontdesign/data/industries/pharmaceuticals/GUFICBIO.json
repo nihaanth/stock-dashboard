@@ -8,25 +8,9 @@
   "price": 300.45,
   "market_cap_cr": 3012.99,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 312.65,
-      "prev_close": 314.5,
-      "volume": 21781,
-      "deliverable_qty": 11479,
-      "delivery_pct": 52.7
-    },
-    {
-      "date": "2026-02-13",
-      "close": 309.5,
-      "prev_close": 312.65,
-      "volume": 37740,
-      "deliverable_qty": 15465,
-      "delivery_pct": 40.98
-    },
     {
       "date": "2026-02-16",
       "close": 293.0,
@@ -466,6 +450,14 @@
       "volume": 49614,
       "deliverable_qty": 29724,
       "delivery_pct": 59.91
+    },
+    {
+      "date": "2026-05-15",
+      "close": 282.0,
+      "prev_close": 286.5,
+      "volume": 44946,
+      "deliverable_qty": 21252,
+      "delivery_pct": 47.28
     }
   ],
   "news": [
@@ -538,34 +530,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Gufic Biosciences Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GUFIC_14022026141715_finalnewspaperintimationsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 22:29:45",
-      "an_dt": "13-Feb-2026 22:29:45",
-      "desc": "Acquisition",
-      "sm_name": "Gufic Biosciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GUFIC_13022026222902_finalintimationoutcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 22:25:07",
-      "an_dt": "13-Feb-2026 22:25:07",
-      "desc": "Investor Presentation",
-      "sm_name": "Gufic Biosciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GUFIC_13022026222418_FinalintimationInvestorPresentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 22:07:02",
-      "an_dt": "13-Feb-2026 22:07:02",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Gufic Biosciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GUFIC_13022026220413_finalintimationoutcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:59:46",
-      "an_dt": "13-Feb-2026 21:59:46",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Gufic Biosciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GUFIC_13022026215636_finalintimationoutcome.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 3157.8,
   "market_cap_cr": 112455.74,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 2731.3,
-      "prev_close": 2666.0,
-      "volume": 520833,
-      "deliverable_qty": 231177,
-      "delivery_pct": 44.39
-    },
-    {
-      "date": "2026-02-13",
-      "close": 2740.1,
-      "prev_close": 2731.3,
-      "volume": 1006399,
-      "deliverable_qty": 354887,
-      "delivery_pct": 35.26
-    },
     {
       "date": "2026-02-16",
       "close": 2809.3,
@@ -466,9 +450,52 @@
       "volume": 281115,
       "deliverable_qty": 139405,
       "delivery_pct": 49.59
+    },
+    {
+      "date": "2026-05-15",
+      "close": 3086.1,
+      "prev_close": 3104.8,
+      "volume": 662110,
+      "deliverable_qty": 357423,
+      "delivery_pct": 53.98
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:12:16",
+      "an_dt": "15-May-2026 18:12:16",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Siemens Energy India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENRIN_15052026181118_EarningsCallAudioRecording150526.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 12:31:37",
+      "an_dt": "15-May-2026 12:31:37",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Siemens Energy India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENRIN_15052026123118_NewspaperAD15052026signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 10:42:45",
+      "an_dt": "15-May-2026 10:42:45",
+      "desc": "Investor Presentation",
+      "sm_name": "Siemens Energy India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENRIN_15052026104217_Earningscallpresentation150526.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 18:19:10",
+      "an_dt": "14-May-2026 18:19:10",
+      "desc": "Change in Management",
+      "sm_name": "Siemens Energy India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENRIN_14052026181848_Reg30SMP14052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 18:08:39",
+      "an_dt": "14-May-2026 18:08:39",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Siemens Energy India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENRIN_14052026175711_BMOutcome14052026signed.pdf"
+    },
     {
       "sort_date": "2026-05-12 17:22:48",
       "an_dt": "12-May-2026 17:22:48",
@@ -517,55 +544,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Siemens Energy India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENRIN_14022026120515_Reg47Newspaperpublication.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:37:07",
-      "an_dt": "13-Feb-2026 21:37:07",
-      "desc": "Change in Auditors",
-      "sm_name": "Siemens Energy India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENRIN_13022026213651_AGMProceedings13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:26:42",
-      "an_dt": "13-Feb-2026 21:26:42",
-      "desc": "Shareholders meeting",
-      "sm_name": "Siemens Energy India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENRIN_13022026212628_AGMProceedings13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:21:30",
-      "an_dt": "13-Feb-2026 21:21:30",
-      "desc": "Shareholders meeting",
-      "sm_name": "Siemens Energy India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENRIN_13022026211841_Reg44VRScrutinizersReport.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:35:50",
-      "an_dt": "13-Feb-2026 14:35:50",
-      "desc": "Capacity addition",
-      "sm_name": "Siemens Energy India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENRIN_13022026143539_BMOutcome13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:04:40",
-      "an_dt": "13-Feb-2026 14:04:40",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Siemens Energy India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENRIN_13022026140225_BMOutcome13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 13:59:58",
-      "an_dt": "13-Feb-2026 13:59:58",
-      "desc": "Change in Management",
-      "sm_name": "Siemens Energy India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENRIN_13022026135952_Reg30SM13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 13:57:38",
-      "an_dt": "13-Feb-2026 13:57:38",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Siemens Energy India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENRIN_13022026135723_BMOutcome13022026.pdf"
     }
   ]
 }

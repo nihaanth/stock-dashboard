@@ -8,25 +8,9 @@
   "price": 1294.5,
   "market_cap_cr": 13131.42,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1215.7,
-      "prev_close": 1220.0,
-      "volume": 97059,
-      "deliverable_qty": 59996,
-      "delivery_pct": 61.81
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1186.1,
-      "prev_close": 1215.7,
-      "volume": 92573,
-      "deliverable_qty": 54592,
-      "delivery_pct": 58.97
-    },
     {
       "date": "2026-02-16",
       "close": 1181.5,
@@ -466,9 +450,24 @@
       "volume": 211299,
       "deliverable_qty": 112291,
       "delivery_pct": 53.14
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1336.2,
+      "prev_close": 1316.2,
+      "volume": 181345,
+      "deliverable_qty": 91702,
+      "delivery_pct": 50.57
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 16:23:05",
+      "an_dt": "15-May-2026 16:23:05",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Rainbow Childrens Medicare Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAINBOWUSER_15052026162248_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-08 13:14:14",
       "an_dt": "08-May-2026 13:14:14",
@@ -510,13 +509,6 @@
       "desc": "Trading Window",
       "sm_name": "Rainbow Childrens Medicare Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAINBOWUSER_25032026151008_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 11:05:13",
-      "an_dt": "12-Feb-2026 11:05:13",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Rainbow Childrens Medicare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAINBOWUSER_12022026110505_Intimation.pdf"
     }
   ]
 }

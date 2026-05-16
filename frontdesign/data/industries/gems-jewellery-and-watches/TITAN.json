@@ -8,25 +8,9 @@
   "price": 4439.3,
   "market_cap_cr": 393785.98,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 4275.8,
-      "prev_close": 4249.1,
-      "volume": 998509,
-      "deliverable_qty": 393966,
-      "delivery_pct": 39.46
-    },
-    {
-      "date": "2026-02-13",
-      "close": 4179.2,
-      "prev_close": 4275.8,
-      "volume": 524758,
-      "deliverable_qty": 253518,
-      "delivery_pct": 48.31
-    },
     {
       "date": "2026-02-16",
       "close": 4181.1,
@@ -466,9 +450,24 @@
       "volume": 2841521,
       "deliverable_qty": 1097929,
       "delivery_pct": 38.64
+    },
+    {
+      "date": "2026-05-15",
+      "close": 4169.1,
+      "prev_close": 4135.2,
+      "volume": 901617,
+      "deliverable_qty": 336932,
+      "delivery_pct": 37.37
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 23:31:17",
+      "an_dt": "14-May-2026 23:31:17",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Titan Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TITAN_14052026233103_SEIntimationtranscriptq4.pdf"
+    },
     {
       "sort_date": "2026-05-09 21:56:48",
       "an_dt": "09-May-2026 21:56:48",
@@ -664,13 +663,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Titan Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TITAN_19022026185102_SEintimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:41:27",
-      "an_dt": "13-Feb-2026 21:41:27",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Titan Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TITAN_13022026214102_SEtranscriptQ3.pdf"
     }
   ]
 }

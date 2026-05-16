@@ -8,25 +8,9 @@
   "price": 263.19,
   "market_cap_cr": 1724.1,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 263.71,
-      "prev_close": 265.18,
-      "volume": 42748,
-      "deliverable_qty": 18749,
-      "delivery_pct": 43.86
-    },
-    {
-      "date": "2026-02-13",
-      "close": 258.96,
-      "prev_close": 263.71,
-      "volume": 26528,
-      "deliverable_qty": 12806,
-      "delivery_pct": 48.27
-    },
     {
       "date": "2026-02-16",
       "close": 248.95,
@@ -466,9 +450,24 @@
       "volume": 54843,
       "deliverable_qty": 26177,
       "delivery_pct": 47.73
+    },
+    {
+      "date": "2026-05-15",
+      "close": 238.04,
+      "prev_close": 242.54,
+      "volume": 26270,
+      "deliverable_qty": 18030,
+      "delivery_pct": 68.63
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:59:08",
+      "an_dt": "15-May-2026 17:59:08",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "All Time Plastics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALLTIMEPLASTICSLIMITED_15052026175856_Earnings_Call_Q4-25-05-2026.pdf"
+    },
     {
       "sort_date": "2026-05-13 15:15:35",
       "an_dt": "13-May-2026 15:15:35",

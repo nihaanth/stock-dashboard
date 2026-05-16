@@ -8,25 +8,9 @@
   "price": 1743.7,
   "market_cap_cr": 98092.93,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1225.6,
-      "prev_close": 1222.6,
-      "volume": 257813,
-      "deliverable_qty": 120894,
-      "delivery_pct": 46.89
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1190.4,
-      "prev_close": 1225.6,
-      "volume": 316311,
-      "deliverable_qty": 141189,
-      "delivery_pct": 44.64
-    },
     {
       "date": "2026-02-16",
       "close": 1188.0,
@@ -466,6 +450,14 @@
       "volume": 804023,
       "deliverable_qty": 435289,
       "delivery_pct": 54.14
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1734.0,
+      "prev_close": 1759.0,
+      "volume": 297190,
+      "deliverable_qty": 123868,
+      "delivery_pct": 41.68
     }
   ],
   "news": [
@@ -706,13 +698,6 @@
       "desc": "Acquisition",
       "sm_name": "Lloyds Metals And Energy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LLOYDSME_18022026133759_20260218_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:51:11",
-      "an_dt": "13-Feb-2026 16:51:11",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Lloyds Metals And Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LLOYDSME_13022026164941_Intimation_.pdf"
     }
   ]
 }

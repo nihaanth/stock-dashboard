@@ -8,25 +8,9 @@
   "price": 284.05,
   "market_cap_cr": 17193.45,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 223.96,
-      "prev_close": 228.74,
-      "volume": 257009,
-      "deliverable_qty": 116644,
-      "delivery_pct": 45.39
-    },
-    {
-      "date": "2026-02-13",
-      "close": 224.64,
-      "prev_close": 223.96,
-      "volume": 366314,
-      "deliverable_qty": 153054,
-      "delivery_pct": 41.78
-    },
     {
       "date": "2026-02-16",
       "close": 226.1,
@@ -466,9 +450,31 @@
       "volume": 1030716,
       "deliverable_qty": 426093,
       "delivery_pct": 41.34
+    },
+    {
+      "date": "2026-05-15",
+      "close": 276.0,
+      "prev_close": 283.05,
+      "volume": 630666,
+      "deliverable_qty": 345389,
+      "delivery_pct": 54.77
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:07:24",
+      "an_dt": "15-May-2026 19:07:24",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_15052026185420_intimation.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 19:41:31",
+      "an_dt": "14-May-2026 19:41:31",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_14052026193455_intimation14052026.pdf"
+    },
     {
       "sort_date": "2026-05-13 18:28:53",
       "an_dt": "13-May-2026 18:28:53",
@@ -923,27 +929,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "Acme Solar Holdings Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_19022026084218_Intimation19022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:26:27",
-      "an_dt": "13-Feb-2026 19:26:27",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Acme Solar Holdings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_13022026192056_Intimation_13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:26:27",
-      "an_dt": "13-Feb-2026 19:26:27",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Acme Solar Holdings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_13022026192115_Intimation_13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:26:27",
-      "an_dt": "13-Feb-2026 19:26:27",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Acme Solar Holdings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_13022026191840_Intimation_13022026.pdf"
     }
   ]
 }

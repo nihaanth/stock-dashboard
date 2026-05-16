@@ -8,25 +8,9 @@
   "price": 466.45,
   "market_cap_cr": 23282.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 413.8,
-      "prev_close": 425.75,
-      "volume": 174733,
-      "deliverable_qty": 90539,
-      "delivery_pct": 51.82
-    },
-    {
-      "date": "2026-02-13",
-      "close": 407.05,
-      "prev_close": 413.8,
-      "volume": 289091,
-      "deliverable_qty": 236871,
-      "delivery_pct": 81.94
-    },
     {
       "date": "2026-02-16",
       "close": 408.35,
@@ -466,9 +450,24 @@
       "volume": 485467,
       "deliverable_qty": 258612,
       "delivery_pct": 53.27
+    },
+    {
+      "date": "2026-05-15",
+      "close": 458.75,
+      "prev_close": 453.75,
+      "volume": 227481,
+      "deliverable_qty": 106480,
+      "delivery_pct": 46.81
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 09:03:38",
+      "an_dt": "14-May-2026 09:03:38",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Sumitomo Chemical India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUMICHEM_14052026090241_AnalystMeet.pdf"
+    },
     {
       "sort_date": "2026-04-29 13:17:12",
       "an_dt": "29-Apr-2026 13:17:12",

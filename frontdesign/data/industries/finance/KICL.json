@@ -8,25 +8,9 @@
   "price": 5000.9,
   "market_cap_cr": 2183.05,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 4955.8,
-      "prev_close": 4927.8,
-      "volume": 2401,
-      "deliverable_qty": 1378,
-      "delivery_pct": 57.39
-    },
-    {
-      "date": "2026-02-13",
-      "close": 4899.9,
-      "prev_close": 4955.8,
-      "volume": 2122,
-      "deliverable_qty": 1211,
-      "delivery_pct": 57.07
-    },
     {
       "date": "2026-02-16",
       "close": 4881.4,
@@ -466,6 +450,14 @@
       "volume": 1887,
       "deliverable_qty": 1342,
       "delivery_pct": 71.12
+    },
+    {
+      "date": "2026-05-15",
+      "close": 4811.9,
+      "prev_close": 4872.0,
+      "volume": 903,
+      "deliverable_qty": 430,
+      "delivery_pct": 47.62
     }
   ],
   "news": [
@@ -510,20 +502,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Kalyani Investment Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KICL_16022026105415_101_KICL_BM_Results_NP_16022026_.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 12:57:28",
-      "an_dt": "13-Feb-2026 12:57:28",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Kalyani Investment Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KICL_13022026125613_KICL_BM_Results_13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 12:22:50",
-      "an_dt": "12-Feb-2026 12:22:50",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Kalyani Investment Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KICL_12022026122240_Special_Trading_Window_12022026.pdf"
     }
   ]
 }

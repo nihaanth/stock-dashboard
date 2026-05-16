@@ -8,25 +8,9 @@
   "price": 259.79,
   "market_cap_cr": 11221.13,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 172.23,
-      "prev_close": 170.21,
-      "volume": 3059525,
-      "deliverable_qty": 1571240,
-      "delivery_pct": 51.36
-    },
-    {
-      "date": "2026-02-13",
-      "close": 175.53,
-      "prev_close": 172.23,
-      "volume": 2231981,
-      "deliverable_qty": 1388594,
-      "delivery_pct": 62.21
-    },
     {
       "date": "2026-02-16",
       "close": 175.7,
@@ -466,9 +450,52 @@
       "volume": 1204216,
       "deliverable_qty": 431175,
       "delivery_pct": 35.81
+    },
+    {
+      "date": "2026-05-15",
+      "close": 244.46,
+      "prev_close": 248.58,
+      "volume": 847105,
+      "deliverable_qty": 408523,
+      "delivery_pct": 48.23
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:28:53",
+      "an_dt": "15-May-2026 19:28:53",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Park Medi World Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARKMEDIWORLD2025_15052026192839_MAR150526.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 17:12:16",
+      "an_dt": "15-May-2026 17:12:16",
+      "desc": "General Updates",
+      "sm_name": "Park Medi World Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARKMEDIWORLD2025_15052026171202_IntimationKPI.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 17:06:51",
+      "an_dt": "15-May-2026 17:06:51",
+      "desc": "Change in Auditors",
+      "sm_name": "Park Medi World Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARKMEDIWORLD2025_15052026170626_outcome150526.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 17:01:22",
+      "an_dt": "15-May-2026 17:01:22",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Park Medi World Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARKMEDIWORLD2025_15052026170100_outcome150526.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 16:43:40",
+      "an_dt": "15-May-2026 16:43:40",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Park Medi World Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARKMEDIWORLD2025_15052026164327_transcript150526final.pdf"
+    },
     {
       "sort_date": "2026-05-13 13:31:49",
       "an_dt": "13-May-2026 13:31:49",
@@ -608,13 +635,6 @@
       "desc": "Acquisition",
       "sm_name": "Park Medi World Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARKMEDIWORLD2025_26022026172318_update.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:01:24",
-      "an_dt": "13-Feb-2026 16:01:24",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Park Medi World Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARKMEDIWORLD2025_13022026160111_intimationmareport.pdf"
     }
   ]
 }

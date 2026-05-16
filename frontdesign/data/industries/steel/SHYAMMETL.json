@@ -8,25 +8,9 @@
   "price": 830.5,
   "market_cap_cr": 23106.87,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 896.15,
-      "prev_close": 905.15,
-      "volume": 120101,
-      "deliverable_qty": 59269,
-      "delivery_pct": 49.35
-    },
-    {
-      "date": "2026-02-13",
-      "close": 879.45,
-      "prev_close": 896.15,
-      "volume": 132098,
-      "deliverable_qty": 70723,
-      "delivery_pct": 53.54
-    },
     {
       "date": "2026-02-16",
       "close": 882.25,
@@ -466,6 +450,14 @@
       "volume": 817469,
       "deliverable_qty": 399981,
       "delivery_pct": 48.93
+    },
+    {
+      "date": "2026-05-15",
+      "close": 877.25,
+      "prev_close": 882.7,
+      "volume": 682249,
+      "deliverable_qty": 346861,
+      "delivery_pct": 50.84
     }
   ],
   "news": [
@@ -664,13 +656,6 @@
       "desc": "General Updates",
       "sm_name": "Shyam Metalics and Energy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHYAMMETL_14022026123818_esgratings.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 14:40:03",
-      "an_dt": "12-Feb-2026 14:40:03",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Shyam Metalics and Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHYAMMETL_12022026143953_newspaperpublication.pdf"
     }
   ]
 }

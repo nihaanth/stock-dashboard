@@ -8,25 +8,9 @@
   "price": 143.28,
   "market_cap_cr": 688.48,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 145.56,
-      "prev_close": 145.26,
-      "volume": 245880,
-      "deliverable_qty": 146111,
-      "delivery_pct": 59.42
-    },
-    {
-      "date": "2026-02-13",
-      "close": 140.6,
-      "prev_close": 145.56,
-      "volume": 272449,
-      "deliverable_qty": 151977,
-      "delivery_pct": 55.78
-    },
     {
       "date": "2026-02-16",
       "close": 134.93,
@@ -466,9 +450,24 @@
       "volume": 110698,
       "deliverable_qty": 45471,
       "delivery_pct": 41.08
+    },
+    {
+      "date": "2026-05-15",
+      "close": 130.07,
+      "prev_close": 133.07,
+      "volume": 138283,
+      "deliverable_qty": 63604,
+      "delivery_pct": 46.0
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 09:41:46",
+      "an_dt": "14-May-2026 09:41:46",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Indo Farm Equipment Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IFEL_14052026094134_Monitoring_Agency_Report-Q4_2025-26.pdf"
+    },
     {
       "sort_date": "2026-04-13 15:06:21",
       "an_dt": "13-Apr-2026 15:06:21",
@@ -524,13 +523,6 @@
       "desc": "General Updates",
       "sm_name": "Indo Farm Equipment Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IFEL_16022026162242_Intimation_Letter_Increasing_PG.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:57:28",
-      "an_dt": "12-Feb-2026 18:57:28",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Indo Farm Equipment Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IFEL_12022026185651_Letter_Audio_Call_Recording.pdf"
     }
   ]
 }

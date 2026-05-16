@@ -8,25 +8,9 @@
   "price": 1021.4,
   "market_cap_cr": 76437.37,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1000.6,
-      "prev_close": 990.25,
-      "volume": 2189502,
-      "deliverable_qty": 1411594,
-      "delivery_pct": 64.47
-    },
-    {
-      "date": "2026-02-13",
-      "close": 994.9,
-      "prev_close": 1000.6,
-      "volume": 1802819,
-      "deliverable_qty": 1079589,
-      "delivery_pct": 59.88
-    },
     {
       "date": "2026-02-16",
       "close": 1010.0,
@@ -466,9 +450,24 @@
       "volume": 1163023,
       "deliverable_qty": 598742,
       "delivery_pct": 51.48
+    },
+    {
+      "date": "2026-05-15",
+      "close": 990.5,
+      "prev_close": 1004.7,
+      "volume": 1708416,
+      "deliverable_qty": 715133,
+      "delivery_pct": 41.86
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:39:50",
+      "an_dt": "15-May-2026 18:39:50",
+      "desc": "Shareholders meeting",
+      "sm_name": "AU Small Finance Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUMIT1_15052026183633_SE_disclosure_Postal_Ballot_Notice.pdf"
+    },
     {
       "sort_date": "2026-05-13 19:00:49",
       "an_dt": "13-May-2026 19:00:49",
@@ -706,27 +705,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "AU Small Finance Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUMIT1_17022026171203_20260217_Investor_Meet_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:01:37",
-      "an_dt": "13-Feb-2026 19:01:37",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "AU Small Finance Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUMIT1_13022026190035_ESOPAllotmentIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 20:22:04",
-      "an_dt": "12-Feb-2026 20:22:04",
-      "desc": "General Updates",
-      "sm_name": "AU Small Finance Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUMIT1_12022026202023_SE_RBI_approval_MD_reappointment.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:12:12",
-      "an_dt": "12-Feb-2026 17:12:12",
-      "desc": "General Updates",
-      "sm_name": "AU Small Finance Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AUBANK_12022026171101_Confirmation_ESOP_2023.pdf"
     }
   ]
 }

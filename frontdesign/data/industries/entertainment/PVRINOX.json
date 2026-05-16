@@ -8,25 +8,9 @@
   "price": 1026.0,
   "market_cap_cr": 10075.32,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1081.5,
-      "prev_close": 1108.75,
-      "volume": 507888,
-      "deliverable_qty": 250196,
-      "delivery_pct": 49.26
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1053.15,
-      "prev_close": 1081.5,
-      "volume": 262874,
-      "deliverable_qty": 146707,
-      "delivery_pct": 55.81
-    },
     {
       "date": "2026-02-16",
       "close": 1032.5,
@@ -466,6 +450,14 @@
       "volume": 326475,
       "deliverable_qty": 189061,
       "delivery_pct": 57.91
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1009.9,
+      "prev_close": 1021.9,
+      "volume": 147989,
+      "deliverable_qty": 77094,
+      "delivery_pct": 52.09
     }
   ],
   "news": [
@@ -573,27 +565,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "PVR INOX Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PVR_17022026172328_PVRINOXAnalystMeetIntimation17022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:40:07",
-      "an_dt": "13-Feb-2026 15:40:07",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "PVR INOX Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PVR_13022026153955_PVRINOXNewspaperPublication13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:04:13",
-      "an_dt": "12-Feb-2026 18:04:13",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "PVR INOX Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PVR_12022026180046_PVRINOXInvestorMeetTranscript12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:52:49",
-      "an_dt": "12-Feb-2026 17:52:49",
-      "desc": "Shareholders meeting",
-      "sm_name": "PVR INOX Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PVR_12022026175155_PVRINOXPostalBallotNoticeIntimation12022026.pdf"
     }
   ]
 }

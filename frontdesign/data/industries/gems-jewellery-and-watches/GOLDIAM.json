@@ -8,25 +8,9 @@
   "price": 338.35,
   "market_cap_cr": 3820.58,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 383.75,
-      "prev_close": 391.9,
-      "volume": 792351,
-      "deliverable_qty": 249304,
-      "delivery_pct": 31.46
-    },
-    {
-      "date": "2026-02-13",
-      "close": 393.35,
-      "prev_close": 383.75,
-      "volume": 1549411,
-      "deliverable_qty": 323509,
-      "delivery_pct": 20.88
-    },
     {
       "date": "2026-02-16",
       "close": 392.7,
@@ -466,9 +450,31 @@
       "volume": 806914,
       "deliverable_qty": 194055,
       "delivery_pct": 24.05
+    },
+    {
+      "date": "2026-05-15",
+      "close": 378.6,
+      "prev_close": 383.75,
+      "volume": 385897,
+      "deliverable_qty": 145771,
+      "delivery_pct": 37.77
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 14:03:11",
+      "an_dt": "15-May-2026 14:03:11",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Goldiam International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOLDIAM_15052026140149_Monitoring_Agency_Report-31-3-2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 11:55:50",
+      "an_dt": "15-May-2026 11:55:50",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Goldiam International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOLDIAM_15052026115521_Participation_of_the_Conference-15-5-2026.pdf"
+    },
     {
       "sort_date": "2026-05-13 10:53:48",
       "an_dt": "13-May-2026 10:53:48",
@@ -580,27 +586,6 @@
       "desc": "Updates",
       "sm_name": "Goldiam International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOLDIAM_26022026132839_17th_Store_opening_intimation-26-02-26.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:17:24",
-      "an_dt": "13-Feb-2026 17:17:24",
-      "desc": "Updates",
-      "sm_name": "Goldiam International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOLDIAM_13022026171718_16th_Store_opening_intimation-13-02-26.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:50:37",
-      "an_dt": "12-Feb-2026 15:50:37",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Goldiam International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOLDIAM_12022026155015_Intimation_of_Transcript_of_Earnings_Call-10-2-2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:41:46",
-      "an_dt": "12-Feb-2026 15:41:46",
-      "desc": "Updates",
-      "sm_name": "Goldiam International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOLDIAM_12022026154137_15th_Store_opening_intimation-12-02-26.pdf"
     }
   ]
 }

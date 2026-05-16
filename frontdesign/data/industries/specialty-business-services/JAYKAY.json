@@ -8,25 +8,9 @@
   "price": 153.92,
   "market_cap_cr": 2006.51,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 161.4,
-      "prev_close": 165.05,
-      "volume": 130819,
-      "deliverable_qty": 63201,
-      "delivery_pct": 48.31
-    },
-    {
-      "date": "2026-02-13",
-      "close": 159.99,
-      "prev_close": 161.4,
-      "volume": 82242,
-      "deliverable_qty": 49981,
-      "delivery_pct": 60.77
-    },
     {
       "date": "2026-02-16",
       "close": 155.52,
@@ -466,9 +450,24 @@
       "volume": 95564,
       "deliverable_qty": 45812,
       "delivery_pct": 47.94
+    },
+    {
+      "date": "2026-05-15",
+      "close": 158.22,
+      "prev_close": 158.3,
+      "volume": 78560,
+      "deliverable_qty": 40967,
+      "delivery_pct": 52.15
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:46:47",
+      "an_dt": "15-May-2026 17:46:47",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Jaykay Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAYKAY_15052026174005_MAR_JKE.pdf"
+    },
     {
       "sort_date": "2026-05-05 18:21:31",
       "an_dt": "05-May-2026 18:21:31",
@@ -559,27 +558,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Jaykay Enterprises Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAYKAY_14022026164023_Advertisement.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 22:42:34",
-      "an_dt": "13-Feb-2026 22:42:34",
-      "desc": "Press Release",
-      "sm_name": "Jaykay Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAYKAY_13022026223737_SE_Intimation_Press_Release_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:56:31",
-      "an_dt": "13-Feb-2026 18:56:31",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Jaykay Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAYKAY_13022026185559_Monitoring_Agency_Report_SE.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:52:27",
-      "an_dt": "13-Feb-2026 18:52:27",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Jaykay Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAYKAY_13022026184720_Outcome.pdf"
     }
   ]
 }

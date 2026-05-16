@@ -8,25 +8,9 @@
   "price": 294.45,
   "market_cap_cr": 125806.27,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 377.7,
-      "prev_close": 387.6,
-      "volume": 6352805,
-      "deliverable_qty": 3698858,
-      "delivery_pct": 58.22
-    },
-    {
-      "date": "2026-02-13",
-      "close": 374.1,
-      "prev_close": 377.7,
-      "volume": 2696607,
-      "deliverable_qty": 1370053,
-      "delivery_pct": 50.81
-    },
     {
       "date": "2026-02-16",
       "close": 374.35,
@@ -466,9 +450,24 @@
       "volume": 12403055,
       "deliverable_qty": 5950660,
       "delivery_pct": 47.98
+    },
+    {
+      "date": "2026-05-15",
+      "close": 284.45,
+      "prev_close": 295.0,
+      "volume": 14828416,
+      "deliverable_qty": 7450546,
+      "delivery_pct": 50.25
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:49:26",
+      "an_dt": "15-May-2026 17:49:26",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Bharat Petroleum Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BPCL22_15052026174914_stexchanalystmeetintimation15526s.pdf"
+    },
     {
       "sort_date": "2026-05-11 15:40:35",
       "an_dt": "11-May-2026 15:40:35",
@@ -608,13 +607,6 @@
       "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
       "sm_name": "Bharat Petroleum Corporation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BPCL22_23022026162037_stexinimationtaxscn230226s.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 10:16:17",
-      "an_dt": "13-Feb-2026 10:16:17",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Bharat Petroleum Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BPCL22_13022026101605_1stexchanalystmeet13226s.pdf"
     }
   ]
 }

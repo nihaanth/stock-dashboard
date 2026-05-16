@@ -8,25 +8,9 @@
   "price": 174.69,
   "market_cap_cr": 1319.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 193.76,
-      "prev_close": 191.68,
-      "volume": 246946,
-      "deliverable_qty": 109301,
-      "delivery_pct": 44.26
-    },
-    {
-      "date": "2026-02-13",
-      "close": 188.27,
-      "prev_close": 193.76,
-      "volume": 181676,
-      "deliverable_qty": 93682,
-      "delivery_pct": 51.57
-    },
     {
       "date": "2026-02-16",
       "close": 180.55,
@@ -466,9 +450,38 @@
       "volume": 168057,
       "deliverable_qty": 91205,
       "delivery_pct": 54.27
+    },
+    {
+      "date": "2026-05-15",
+      "close": 165.38,
+      "prev_close": 168.88,
+      "volume": 55206,
+      "deliverable_qty": 35667,
+      "delivery_pct": 64.61
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:02:43",
+      "an_dt": "15-May-2026 18:02:43",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Huhtamaki India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUHTAMAKI_ROID_86198_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-05-15 17:59:55",
+      "an_dt": "15-May-2026 17:59:55",
+      "desc": "Resignation",
+      "sm_name": "Huhtamaki India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUHTAMAKI_15052026175945_HIL__DisclReg30_ResignofCS_May2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:53:30",
+      "an_dt": "14-May-2026 17:53:30",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Huhtamaki India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUHTAMAKI_14052026175312_HIL_NewspaperPub_FinResults_14May2026.pdf"
+    },
     {
       "sort_date": "2026-05-13 19:05:01",
       "an_dt": "13-May-2026 19:05:01",
@@ -650,27 +663,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Huhtamaki India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUHTAMAKI_17022026125118_HIL_InvestorCallTranscript_Feb2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:43:29",
-      "an_dt": "13-Feb-2026 18:43:29",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Huhtamaki India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUHTAMAKI_13022026184242_HIL_InvestorCallrecording_Feb_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 20:01:18",
-      "an_dt": "12-Feb-2026 20:01:18",
-      "desc": "Investor Presentation",
-      "sm_name": "Huhtamaki India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUHTAMAKI_12022026200055_HIL_InvestorPresentation_12Feb26.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:45:14",
-      "an_dt": "12-Feb-2026 19:45:14",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Huhtamaki India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUHTAMAKI_12022026194502_HIL_NewspaperPub_FinResults_12Feb2026.pdf"
     }
   ]
 }

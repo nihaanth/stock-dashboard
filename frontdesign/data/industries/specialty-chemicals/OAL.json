@@ -8,25 +8,9 @@
   "price": 304.6,
   "market_cap_cr": 1025.09,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 326.45,
-      "prev_close": 314.9,
-      "volume": 20330,
-      "deliverable_qty": 14797,
-      "delivery_pct": 72.78
-    },
-    {
-      "date": "2026-02-13",
-      "close": 298.1,
-      "prev_close": 326.45,
-      "volume": 29793,
-      "deliverable_qty": 19803,
-      "delivery_pct": 66.47
-    },
     {
       "date": "2026-02-16",
       "close": 284.75,
@@ -466,6 +450,14 @@
       "volume": 9820,
       "deliverable_qty": 4589,
       "delivery_pct": 46.73
+    },
+    {
+      "date": "2026-05-15",
+      "close": 304.35,
+      "prev_close": 307.25,
+      "volume": 3608,
+      "deliverable_qty": 2143,
+      "delivery_pct": 59.4
     }
   ],
   "news": [
@@ -531,41 +523,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Oriental Aromatics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/OAL_14022026133146_INTIMATION.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:44:33",
-      "an_dt": "13-Feb-2026 16:44:33",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Oriental Aromatics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OAL_13022026164411_INTIMATION.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:38:39",
-      "an_dt": "13-Feb-2026 16:38:39",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Oriental Aromatics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OAL_13022026163745_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 10:31:40",
-      "an_dt": "13-Feb-2026 10:31:40",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Oriental Aromatics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OAL_13022026102718_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 10:22:07",
-      "an_dt": "13-Feb-2026 10:22:07",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Oriental Aromatics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OAL_13022026102155_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:11:41",
-      "an_dt": "12-Feb-2026 18:11:41",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Oriental Aromatics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OAL_12022026180747_outcome.pdf"
     }
   ]
 }

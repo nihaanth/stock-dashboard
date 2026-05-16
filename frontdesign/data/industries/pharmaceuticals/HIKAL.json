@@ -8,25 +8,9 @@
   "price": 182.74,
   "market_cap_cr": 2253.65,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 215.05,
-      "prev_close": 190.68,
-      "volume": 37368350,
-      "deliverable_qty": 2078941,
-      "delivery_pct": 5.56
-    },
-    {
-      "date": "2026-02-13",
-      "close": 213.52,
-      "prev_close": 215.05,
-      "volume": 6188929,
-      "deliverable_qty": 475835,
-      "delivery_pct": 7.69
-    },
     {
       "date": "2026-02-16",
       "close": 209.64,
@@ -466,6 +450,14 @@
       "volume": 181844,
       "deliverable_qty": 70332,
       "delivery_pct": 38.68
+    },
+    {
+      "date": "2026-05-15",
+      "close": 201.46,
+      "prev_close": 208.76,
+      "volume": 164034,
+      "deliverable_qty": 80746,
+      "delivery_pct": 49.23
     }
   ],
   "news": [
@@ -538,20 +530,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Hikal Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HIKAL_17022026185113_TranscriptNSEBSE.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:15:46",
-      "an_dt": "12-Feb-2026 18:15:46",
-      "desc": "Updates",
-      "sm_name": "Hikal Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HIKAL_12022026181526_Coveriing_intimation_under_Reg_30.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 11:05:18",
-      "an_dt": "12-Feb-2026 11:05:18",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Hikal Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HIKAL_12022026110339_IntimationOfNewspaperPublicationFinancialResults.pdf"
     }
   ]
 }

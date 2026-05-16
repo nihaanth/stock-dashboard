@@ -8,25 +8,9 @@
   "price": 380.6,
   "market_cap_cr": 2331.2,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 357.25,
-      "prev_close": 354.6,
-      "volume": 85623,
-      "deliverable_qty": 30012,
-      "delivery_pct": 35.05
-    },
-    {
-      "date": "2026-02-13",
-      "close": 350.05,
-      "prev_close": 357.25,
-      "volume": 94052,
-      "deliverable_qty": 45290,
-      "delivery_pct": 48.15
-    },
     {
       "date": "2026-02-16",
       "close": 346.85,
@@ -466,6 +450,14 @@
       "volume": 262232,
       "deliverable_qty": 134062,
       "delivery_pct": 51.12
+    },
+    {
+      "date": "2026-05-15",
+      "close": 386.45,
+      "prev_close": 383.75,
+      "volume": 93092,
+      "deliverable_qty": 57546,
+      "delivery_pct": 61.82
     }
   ],
   "news": [
@@ -629,13 +621,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Panacea Biotec Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PANACEABIO_17022026160642_NewspaperPublication17022026SR.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:48:22",
-      "an_dt": "12-Feb-2026 15:48:22",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Panacea Biotec Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PANACEABIO_12022026154718_NewspaperPublicationOfResults11022026signed.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 69.45,
   "market_cap_cr": 694.5,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 66.19,
-      "prev_close": 64.81,
-      "volume": 294157,
-      "deliverable_qty": 132582,
-      "delivery_pct": 45.07
-    },
-    {
-      "date": "2026-02-13",
-      "close": 67.33,
-      "prev_close": 66.19,
-      "volume": 244438,
-      "deliverable_qty": 116801,
-      "delivery_pct": 47.78
-    },
     {
       "date": "2026-02-16",
       "close": 67.76,
@@ -466,6 +450,14 @@
       "volume": 124027,
       "deliverable_qty": 70028,
       "delivery_pct": 56.46
+    },
+    {
+      "date": "2026-05-15",
+      "close": 63.8,
+      "prev_close": 64.95,
+      "volume": 71658,
+      "deliverable_qty": 37483,
+      "delivery_pct": 52.31
     }
   ],
   "news": [
@@ -496,27 +488,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Satia Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATIA_17022026122118_Results_in_Newspaper.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:23:59",
-      "an_dt": "13-Feb-2026 15:23:59",
-      "desc": "Investor Presentation",
-      "sm_name": "Satia Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATIA_13022026152342_Invester_Presentation_Q3_FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:15:08",
-      "an_dt": "13-Feb-2026 15:15:08",
-      "desc": "Press Release",
-      "sm_name": "Satia Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATIA_13022026151458_Press_Release_Q3_FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:44:19",
-      "an_dt": "12-Feb-2026 15:44:19",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Satia Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATIA_12022026153907_Final_Results.pdf"
     }
   ]
 }

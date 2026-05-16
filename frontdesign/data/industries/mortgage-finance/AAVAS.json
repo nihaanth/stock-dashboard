@@ -8,25 +8,9 @@
   "price": 1283.6,
   "market_cap_cr": 10180.84,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1308.5,
-      "prev_close": 1309.9,
-      "volume": 246242,
-      "deliverable_qty": 169365,
-      "delivery_pct": 68.78
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1286.6,
-      "prev_close": 1308.5,
-      "volume": 399683,
-      "deliverable_qty": 316966,
-      "delivery_pct": 79.3
-    },
     {
       "date": "2026-02-16",
       "close": 1296.2,
@@ -466,9 +450,24 @@
       "volume": 43999,
       "deliverable_qty": 22172,
       "delivery_pct": 50.39
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1384.7,
+      "prev_close": 1396.2,
+      "volume": 27798,
+      "deliverable_qty": 15692,
+      "delivery_pct": 56.45
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 18:09:45",
+      "an_dt": "14-May-2026 18:09:45",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aavas Financiers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AAVAS_14052026180314_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-12 13:01:25",
       "an_dt": "12-May-2026 13:01:25",
@@ -685,13 +684,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Aavas Financiers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AAVAS_16022026182542_Investor_Meet_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 11:49:01",
-      "an_dt": "12-Feb-2026 11:49:01",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Aavas Financiers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AAVAS_12022026114817_Transcript.pdf"
     }
   ]
 }

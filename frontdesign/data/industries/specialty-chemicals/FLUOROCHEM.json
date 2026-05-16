@@ -8,25 +8,9 @@
   "price": 3737.3,
   "market_cap_cr": 41054.24,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 3386.2,
-      "prev_close": 3490.8,
-      "volume": 106642,
-      "deliverable_qty": 30789,
-      "delivery_pct": 28.87
-    },
-    {
-      "date": "2026-02-13",
-      "close": 3398.0,
-      "prev_close": 3386.2,
-      "volume": 102500,
-      "deliverable_qty": 44018,
-      "delivery_pct": 42.94
-    },
     {
       "date": "2026-02-16",
       "close": 3316.2,
@@ -466,6 +450,14 @@
       "volume": 55469,
       "deliverable_qty": 27634,
       "delivery_pct": 49.82
+    },
+    {
+      "date": "2026-05-15",
+      "close": 3713.5,
+      "prev_close": 3691.5,
+      "volume": 35906,
+      "deliverable_qty": 19738,
+      "delivery_pct": 54.97
     }
   ],
   "news": [
@@ -538,48 +530,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Gujarat Fluorochemicals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FLUOROCHEM_14022026113844_Newspaper.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:03:21",
-      "an_dt": "13-Feb-2026 16:03:21",
-      "desc": "Shareholders meeting",
-      "sm_name": "Gujarat Fluorochemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FLUOROCHEM_13022026160314_PostalBallot.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:52:52",
-      "an_dt": "12-Feb-2026 18:52:52",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Gujarat Fluorochemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FLUOROCHEM_12022026185244_Concall.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:41:01",
-      "an_dt": "12-Feb-2026 16:41:01",
-      "desc": "Press Release",
-      "sm_name": "Gujarat Fluorochemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FLUOROCHEM_12022026164053_Press.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:16:20",
-      "an_dt": "12-Feb-2026 16:16:20",
-      "desc": "Investor Presentation",
-      "sm_name": "Gujarat Fluorochemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FLUOROCHEM_12022026161555_presentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:35:00",
-      "an_dt": "12-Feb-2026 13:35:00",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Gujarat Fluorochemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FLUOROCHEM_12022026133406_Outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:29:24",
-      "an_dt": "12-Feb-2026 13:29:24",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Gujarat Fluorochemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FLUOROCHEM_12022026132845_Financials.pdf"
     }
   ]
 }

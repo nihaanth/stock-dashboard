@@ -8,25 +8,9 @@
   "price": 666.0,
   "market_cap_cr": 1088.03,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 832.95,
-      "prev_close": 833.2,
-      "volume": 6642,
-      "deliverable_qty": 3744,
-      "delivery_pct": 56.37
-    },
-    {
-      "date": "2026-02-13",
-      "close": 786.8,
-      "prev_close": 832.95,
-      "volume": 9490,
-      "deliverable_qty": 4116,
-      "delivery_pct": 43.37
-    },
     {
       "date": "2026-02-16",
       "close": 820.35,
@@ -466,6 +450,14 @@
       "volume": 53871,
       "deliverable_qty": 34067,
       "delivery_pct": 63.24
+    },
+    {
+      "date": "2026-05-15",
+      "close": 659.05,
+      "prev_close": 665.75,
+      "volume": 23618,
+      "deliverable_qty": 15066,
+      "delivery_pct": 63.79
     }
   ],
   "news": [
@@ -587,41 +579,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Alicon Castalloy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALICON_16022026171852_Letter_to_SEs_for_Audio__003_.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:26:12",
-      "an_dt": "13-Feb-2026 20:26:12",
-      "desc": "Investor Presentation",
-      "sm_name": "Alicon Castalloy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALICON_13022026202547_Letter_to_SEs_for_results_presentation__1_.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:24:13",
-      "an_dt": "13-Feb-2026 20:24:13",
-      "desc": "Press Release",
-      "sm_name": "Alicon Castalloy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALICON_13022026202355_Letter_to_SEs_for_Press_Release.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:59:17",
-      "an_dt": "13-Feb-2026 17:59:17",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Alicon Castalloy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALICON_13022026175112_OUTCOME_BM_DEC25_FINAL.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:26:00",
-      "an_dt": "13-Feb-2026 16:26:00",
-      "desc": "General Updates",
-      "sm_name": "Alicon Castalloy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALICON_13022026162537_ESOP_Outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:24:22",
-      "an_dt": "13-Feb-2026 15:24:22",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Alicon Castalloy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALICON_13022026152300_OUTCOME_BM_DEC25_FINAL.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 56.74,
   "market_cap_cr": 522.98,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 56.7,
-      "prev_close": 59.36,
-      "volume": 47641,
-      "deliverable_qty": 28157,
-      "delivery_pct": 59.1
-    },
-    {
-      "date": "2026-02-13",
-      "close": 55.32,
-      "prev_close": 56.7,
-      "volume": 29249,
-      "deliverable_qty": 18434,
-      "delivery_pct": 63.02
-    },
     {
       "date": "2026-02-16",
       "close": 56.28,
@@ -466,9 +450,38 @@
       "volume": 68025,
       "deliverable_qty": 37829,
       "delivery_pct": 55.61
+    },
+    {
+      "date": "2026-05-15",
+      "close": 55.81,
+      "prev_close": 58.24,
+      "volume": 33492,
+      "deliverable_qty": 18202,
+      "delivery_pct": 54.35
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 09:51:01",
+      "an_dt": "15-May-2026 09:51:01",
+      "desc": "Shareholders meeting",
+      "sm_name": "Andhra Cements Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANDHRACEMENT_15052026095024_AGMinfo15052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 11:36:52",
+      "an_dt": "14-May-2026 11:36:52",
+      "desc": "General Updates",
+      "sm_name": "Andhra Cements Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANDHRACEMENT_14052026113643_AGMintimation14052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 11:33:48",
+      "an_dt": "14-May-2026 11:33:48",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Andhra Cements Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANDHRACEMENT_14052026113334_Newspaper14052026.pdf"
+    },
     {
       "sort_date": "2026-05-13 19:14:56",
       "an_dt": "13-May-2026 19:14:56",

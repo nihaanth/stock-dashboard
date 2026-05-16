@@ -8,25 +8,9 @@
   "price": 67.21,
   "market_cap_cr": 1336.47,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 69.88,
-      "prev_close": 68.31,
-      "volume": 551146,
-      "deliverable_qty": 389746,
-      "delivery_pct": 70.72
-    },
-    {
-      "date": "2026-02-13",
-      "close": 68.78,
-      "prev_close": 69.88,
-      "volume": 58065,
-      "deliverable_qty": 30890,
-      "delivery_pct": 53.2
-    },
     {
       "date": "2026-02-16",
       "close": 68.05,
@@ -466,9 +450,38 @@
       "volume": 42777,
       "deliverable_qty": 26647,
       "delivery_pct": 62.29
+    },
+    {
+      "date": "2026-05-15",
+      "close": 65.15,
+      "prev_close": 64.59,
+      "volume": 113901,
+      "deliverable_qty": 65953,
+      "delivery_pct": 57.9
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 19:21:22",
+      "an_dt": "14-May-2026 19:21:22",
+      "desc": "Appointment",
+      "sm_name": "ANDHRA PAPER LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANDHRAPAP_14052026191736_Outcome_of_the_Meeting_-_Re-appointment.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 19:11:06",
+      "an_dt": "14-May-2026 19:11:06",
+      "desc": "Dividend",
+      "sm_name": "ANDHRA PAPER LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANDHRAPAP_14052026191024_Outcome_of_the_Meeting_-_Dividend.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 18:44:05",
+      "an_dt": "14-May-2026 18:44:05",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "ANDHRA PAPER LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANDHRAPAP_14052026183903_Outcomeofthemeeting.pdf"
+    },
     {
       "sort_date": "2026-05-05 20:32:46",
       "an_dt": "05-May-2026 20:32:46",
@@ -517,13 +530,6 @@
       "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "sm_name": "ANDHRA PAPER LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANDHRAPAP_02042026173747_IntimationLetterunderReg74_5_.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:31:03",
-      "an_dt": "13-Feb-2026 16:31:03",
-      "desc": "General Updates",
-      "sm_name": "ANDHRA PAPER LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANDHRAPAP_13022026163035_Intimationofrelodgmentofshares_January626.pdf"
     }
   ]
 }

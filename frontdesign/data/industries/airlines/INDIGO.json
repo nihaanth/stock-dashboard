@@ -8,25 +8,9 @@
   "price": 4427.2,
   "market_cap_cr": 171176.38,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 4982.8,
-      "prev_close": 5013.8,
-      "volume": 971327,
-      "deliverable_qty": 652190,
-      "delivery_pct": 67.14
-    },
-    {
-      "date": "2026-02-13",
-      "close": 4929.2,
-      "prev_close": 4982.8,
-      "volume": 232702,
-      "deliverable_qty": 110784,
-      "delivery_pct": 47.61
-    },
     {
       "date": "2026-02-16",
       "close": 4940.8,
@@ -466,6 +450,14 @@
       "volume": 1018804,
       "deliverable_qty": 478063,
       "delivery_pct": 46.92
+    },
+    {
+      "date": "2026-05-15",
+      "close": 4314.9,
+      "prev_close": 4280.5,
+      "volume": 713589,
+      "deliverable_qty": 288942,
+      "delivery_pct": 40.49
     }
   ],
   "news": [
@@ -643,13 +635,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "InterGlobe Aviation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Indigo1_24022026163627_SE_Investor_Meet_disclosure.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:23:22",
-      "an_dt": "13-Feb-2026 15:23:22",
-      "desc": "Action(s) taken or orders passed",
-      "sm_name": "InterGlobe Aviation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Indigo1_13022026152229_SE_Tax_Disclosure_13022026.pdf"
     }
   ]
 }

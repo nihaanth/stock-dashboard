@@ -8,25 +8,9 @@
   "price": 709.85,
   "market_cap_cr": 19350.69,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 891.5,
-      "prev_close": 959.4,
-      "volume": 3179727,
-      "deliverable_qty": 1126065,
-      "delivery_pct": 35.41
-    },
-    {
-      "date": "2026-02-13",
-      "close": 861.7,
-      "prev_close": 891.5,
-      "volume": 6026791,
-      "deliverable_qty": 1292708,
-      "delivery_pct": 21.45
-    },
     {
       "date": "2026-02-16",
       "close": 880.3,
@@ -466,6 +450,14 @@
       "volume": 1300856,
       "deliverable_qty": 388721,
       "delivery_pct": 29.88
+    },
+    {
+      "date": "2026-05-15",
+      "close": 703.7,
+      "prev_close": 709.0,
+      "volume": 1215690,
+      "deliverable_qty": 281665,
+      "delivery_pct": 23.17
     }
   ],
   "news": [
@@ -608,13 +600,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "KPIT Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KPITTECH_18022026173648_InvestormeetOutcomeFeb18_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 20:19:43",
-      "an_dt": "12-Feb-2026 20:19:43",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "KPIT Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KPITTECH_12022026201821_OutcomeFeb12_Signed.pdf"
     }
   ]
 }

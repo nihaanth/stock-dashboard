@@ -8,25 +8,9 @@
   "price": 320.35,
   "market_cap_cr": 798.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 256.16,
-      "prev_close": 255.63,
-      "volume": 21340,
-      "deliverable_qty": 14514,
-      "delivery_pct": 68.01
-    },
-    {
-      "date": "2026-02-13",
-      "close": 247.18,
-      "prev_close": 256.16,
-      "volume": 12067,
-      "deliverable_qty": 7610,
-      "delivery_pct": 63.06
-    },
     {
       "date": "2026-02-16",
       "close": 239.96,
@@ -466,9 +450,38 @@
       "volume": 85130,
       "deliverable_qty": 41706,
       "delivery_pct": 48.99
+    },
+    {
+      "date": "2026-05-15",
+      "close": 313.45,
+      "prev_close": 322.7,
+      "volume": 156710,
+      "deliverable_qty": 65744,
+      "delivery_pct": 41.95
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 15:39:56",
+      "an_dt": "15-May-2026 15:39:56",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "DMCC SPECIALITY CHEMICALS LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYUSHI_15052026153636_Outcome_of_Board_Meeting_150526sg.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 15:16:45",
+      "an_dt": "15-May-2026 15:16:45",
+      "desc": "Dividend",
+      "sm_name": "DMCC SPECIALITY CHEMICALS LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYUSHI_15052026151303_Outcome_of_Board_Meeting_150526sg.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 15:09:39",
+      "an_dt": "15-May-2026 15:09:39",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "DMCC SPECIALITY CHEMICALS LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYUSHI_15052026150524_Outcome_of_Board_Meeting_150526sg.pdf"
+    },
     {
       "sort_date": "2026-05-13 15:06:16",
       "an_dt": "13-May-2026 15:06:16",
@@ -531,13 +544,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "DMCC SPECIALITY CHEMICALS LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYUSHI_16032026155900_DMCCPostalBallotOutcomesd.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 14:29:12",
-      "an_dt": "12-Feb-2026 14:29:12",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "DMCC SPECIALITY CHEMICALS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYUSHI_12022026142844_DMCC_Adv_12022026sd.pdf"
     }
   ]
 }

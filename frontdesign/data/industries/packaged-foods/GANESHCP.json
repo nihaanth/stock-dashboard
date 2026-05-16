@@ -8,25 +8,9 @@
   "price": 210.22,
   "market_cap_cr": 849.56,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 191.55,
-      "prev_close": 196.37,
-      "volume": 65245,
-      "deliverable_qty": 39766,
-      "delivery_pct": 60.95
-    },
-    {
-      "date": "2026-02-13",
-      "close": 189.93,
-      "prev_close": 191.55,
-      "volume": 102924,
-      "deliverable_qty": 81102,
-      "delivery_pct": 78.8
-    },
     {
       "date": "2026-02-16",
       "close": 187.21,
@@ -466,9 +450,31 @@
       "volume": 45858,
       "deliverable_qty": 22445,
       "delivery_pct": 48.94
+    },
+    {
+      "date": "2026-05-15",
+      "close": 195.77,
+      "prev_close": 196.44,
+      "volume": 15840,
+      "deliverable_qty": 10453,
+      "delivery_pct": 65.99
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:35:28",
+      "an_dt": "15-May-2026 18:35:28",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Ganesh Consumer Products Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GANESH_NSE_15052026183504_Monitoring_Agency_Report_for_QTR_4.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 16:37:40",
+      "an_dt": "15-May-2026 16:37:40",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Ganesh Consumer Products Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GANESH_NSE_15052026163712_Intimation_of_Earnings_Conference_Call_with_Analyst.pdf"
+    },
     {
       "sort_date": "2026-05-05 16:01:10",
       "an_dt": "05-May-2026 16:01:10",
@@ -608,13 +614,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Ganesh Consumer Products Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GANESH_NSE_19022026154649_Intimation_of_Investor_Meet_23_02_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 10:52:17",
-      "an_dt": "13-Feb-2026 10:52:17",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Ganesh Consumer Products Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GANESH_NSE_13022026105158_Monitoring_Agency_Report_QTR_3.pdf"
     }
   ]
 }

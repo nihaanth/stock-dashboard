@@ -8,25 +8,9 @@
   "price": 1964.9,
   "market_cap_cr": 44407.71,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1785.6,
-      "prev_close": 1767.4,
-      "volume": 337524,
-      "deliverable_qty": 214901,
-      "delivery_pct": 63.67
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1769.1,
-      "prev_close": 1785.6,
-      "volume": 182576,
-      "deliverable_qty": 94540,
-      "delivery_pct": 51.78
-    },
     {
       "date": "2026-02-16",
       "close": 1779.1,
@@ -466,9 +450,24 @@
       "volume": 332693,
       "deliverable_qty": 155382,
       "delivery_pct": 46.7
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1888.9,
+      "prev_close": 1910.7,
+      "volume": 191120,
+      "deliverable_qty": 90376,
+      "delivery_pct": 47.29
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 18:24:29",
+      "an_dt": "14-May-2026 18:24:29",
+      "desc": "Investor Presentation",
+      "sm_name": "Piramal Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Piramalcapital_14052026182208_PFL_Investor_Presentation_sd.pdf"
+    },
     {
       "sort_date": "2026-05-12 18:34:46",
       "an_dt": "12-May-2026 18:34:46",
@@ -769,13 +768,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Piramal Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Piramalcapital_16022026153306_PFL_Investors_Meet_Intimation_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:06:20",
-      "an_dt": "12-Feb-2026 15:06:20",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Piramal Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Piramalcapital_12022026150253_PFL_Analyst_Meet_Intimation.pdf"
     }
   ]
 }

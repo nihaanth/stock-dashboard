@@ -8,25 +8,9 @@
   "price": 66.7,
   "market_cap_cr": 10005.0,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 65.57,
-      "prev_close": 66.11,
-      "volume": 1459497,
-      "deliverable_qty": 422062,
-      "delivery_pct": 28.92
-    },
-    {
-      "date": "2026-02-13",
-      "close": 63.87,
-      "prev_close": 65.57,
-      "volume": 1299376,
-      "deliverable_qty": 450631,
-      "delivery_pct": 34.68
-    },
     {
       "date": "2026-02-16",
       "close": 63.33,
@@ -466,6 +450,14 @@
       "volume": 1977951,
       "deliverable_qty": 486326,
       "delivery_pct": 24.59
+    },
+    {
+      "date": "2026-05-15",
+      "close": 62.99,
+      "prev_close": 64.17,
+      "volume": 1104091,
+      "deliverable_qty": 448943,
+      "delivery_pct": 40.66
     }
   ],
   "news": [
@@ -552,34 +544,6 @@
       "desc": "Updates",
       "sm_name": "MMTC Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ajaymisra_12032026150711_SE_intimation_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:59:53",
-      "an_dt": "13-Feb-2026 11:59:53",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "MMTC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ajaymisra_13022026115938_Newspaper_SE_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:35:10",
-      "an_dt": "12-Feb-2026 16:35:10",
-      "desc": "Appointment",
-      "sm_name": "MMTC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ajaymisra_12022026163448_JS_MANN_D_M_FINAL_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:55:25",
-      "an_dt": "12-Feb-2026 15:55:25",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "MMTC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ajaymisra_12022026155355_UFR-OCR_merged-SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:51:07",
-      "an_dt": "12-Feb-2026 15:51:07",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "MMTC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ajaymisra_12022026155041_UFR-OCR_merged-SD.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 72.05,
   "market_cap_cr": 985.26,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 85.19,
-      "prev_close": 85.99,
-      "volume": 70600,
-      "deliverable_qty": 11733,
-      "delivery_pct": 16.62
-    },
-    {
-      "date": "2026-02-13",
-      "close": 84.34,
-      "prev_close": 85.19,
-      "volume": 86171,
-      "deliverable_qty": 18735,
-      "delivery_pct": 21.74
-    },
     {
       "date": "2026-02-16",
       "close": 81.08,
@@ -466,9 +450,24 @@
       "volume": 54396,
       "deliverable_qty": 7071,
       "delivery_pct": 13.0
+    },
+    {
+      "date": "2026-05-15",
+      "close": 66.72,
+      "prev_close": 67.13,
+      "volume": 65566,
+      "deliverable_qty": 10242,
+      "delivery_pct": 15.62
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:18:52",
+      "an_dt": "15-May-2026 19:18:52",
+      "desc": "Change in Management",
+      "sm_name": "Systematix Corporate Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SYSTMTXC_15052026191559_AppointmentofSMP15052026.pdf"
+    },
     {
       "sort_date": "2026-05-08 17:49:36",
       "an_dt": "08-May-2026 17:49:36",

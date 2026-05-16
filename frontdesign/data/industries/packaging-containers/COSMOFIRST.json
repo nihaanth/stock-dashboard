@@ -8,25 +8,9 @@
   "price": 779.5,
   "market_cap_cr": 2023.44,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 700.0,
-      "prev_close": 663.35,
-      "volume": 275691,
-      "deliverable_qty": 80220,
-      "delivery_pct": 29.1
-    },
-    {
-      "date": "2026-02-13",
-      "close": 739.2,
-      "prev_close": 700.0,
-      "volume": 563194,
-      "deliverable_qty": 176723,
-      "delivery_pct": 31.38
-    },
     {
       "date": "2026-02-16",
       "close": 729.5,
@@ -466,9 +450,31 @@
       "volume": 81210,
       "deliverable_qty": 43473,
       "delivery_pct": 53.53
+    },
+    {
+      "date": "2026-05-15",
+      "close": 760.1,
+      "prev_close": 763.05,
+      "volume": 33409,
+      "deliverable_qty": 19772,
+      "delivery_pct": 59.18
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:36:18",
+      "an_dt": "14-May-2026 17:36:18",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "COSMO FIRST LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSMOFIRST_ROID_85896_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-05-14 16:38:41",
+      "an_dt": "14-May-2026 16:38:41",
+      "desc": "Change in Management",
+      "sm_name": "COSMO FIRST LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSMOFILMS_14052026163834_Intimation_Resignation_Anurag_Chaube.pdf"
+    },
     {
       "sort_date": "2026-04-06 16:47:42",
       "an_dt": "06-Apr-2026 16:47:42",
@@ -552,27 +558,6 @@
       "desc": "Acquisition",
       "sm_name": "COSMO FIRST LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSMOFILMS_16022026120656_Intimation_HexaSunshine.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:12:18",
-      "an_dt": "12-Feb-2026 18:12:18",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "COSMO FIRST LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSMOFILMS_12022026181158_Concall_Outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:08:07",
-      "an_dt": "12-Feb-2026 13:08:07",
-      "desc": "Investor Presentation",
-      "sm_name": "COSMO FIRST LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSMOFILMS_12022026130736_Investor_Presentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 11:57:15",
-      "an_dt": "12-Feb-2026 11:57:15",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "COSMO FIRST LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSMOFILMS_12022026115550_Newspaper_Publication.pdf"
     }
   ]
 }

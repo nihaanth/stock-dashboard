@@ -8,25 +8,9 @@
   "price": 197.08,
   "market_cap_cr": 561.1,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 229.47,
-      "prev_close": 245.19,
-      "volume": 328996,
-      "deliverable_qty": 166689,
-      "delivery_pct": 50.67
-    },
-    {
-      "date": "2026-02-13",
-      "close": 232.02,
-      "prev_close": 229.47,
-      "volume": 47551,
-      "deliverable_qty": 10797,
-      "delivery_pct": 22.71
-    },
     {
       "date": "2026-02-16",
       "close": 228.8,
@@ -466,6 +450,14 @@
       "volume": 1422529,
       "deliverable_qty": 250149,
       "delivery_pct": 17.58
+    },
+    {
+      "date": "2026-05-15",
+      "close": 273.46,
+      "prev_close": 276.28,
+      "volume": 300105,
+      "deliverable_qty": 85866,
+      "delivery_pct": 28.61
     }
   ],
   "news": [
@@ -608,27 +600,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Ritco Logistics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RITCO_14022026181905_Newspaper_advertisement_For_Postal_Ballot_Notice.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:57:33",
-      "an_dt": "13-Feb-2026 19:57:33",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Ritco Logistics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RITCO_13022026195722_Newspaper_Adv_for_Financials_Ritco_31122025.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:55:42",
-      "an_dt": "13-Feb-2026 19:55:42",
-      "desc": "Shareholders meeting",
-      "sm_name": "Ritco Logistics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RITCO_13022026195445_Postal_Ballot_Notice_to_SE_Ritco_11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:48:58",
-      "an_dt": "12-Feb-2026 13:48:58",
-      "desc": "Press Release",
-      "sm_name": "Ritco Logistics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RITCO_12022026134849_Press_Release_Q3FY26.pdf"
     }
   ]
 }

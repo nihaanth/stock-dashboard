@@ -8,25 +8,9 @@
   "price": 6714.0,
   "market_cap_cr": 178235.6,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 6185.0,
-      "prev_close": 6386.5,
-      "volume": 1200795,
-      "deliverable_qty": 681664,
-      "delivery_pct": 56.77
-    },
-    {
-      "date": "2026-02-13",
-      "close": 6168.5,
-      "prev_close": 6185.0,
-      "volume": 299364,
-      "deliverable_qty": 157102,
-      "delivery_pct": 52.48
-    },
     {
       "date": "2026-02-16",
       "close": 6149.5,
@@ -466,9 +450,31 @@
       "volume": 513807,
       "deliverable_qty": 307875,
       "delivery_pct": 59.92
+    },
+    {
+      "date": "2026-05-15",
+      "close": 6760.5,
+      "prev_close": 6921.5,
+      "volume": 321270,
+      "deliverable_qty": 197272,
+      "delivery_pct": 61.4
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:06:04",
+      "an_dt": "15-May-2026 19:06:04",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Divi's Laboratories Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIVISLAB_15052026190459_EarningsCall_intimation_23052026_DivisLabs.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 12:38:48",
+      "an_dt": "15-May-2026 12:38:48",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Divi's Laboratories Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIVISLAB_15052026123836_DIVISLAB_IntimationOfNewspaperPublication15052026.pdf"
+    },
     {
       "sort_date": "2026-04-06 15:20:41",
       "an_dt": "06-Apr-2026 15:20:41",
@@ -503,13 +509,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Divi's Laboratories Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIVISLAB_14022026152125_Transcript_earningsCall_11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 12:46:11",
-      "an_dt": "12-Feb-2026 12:46:11",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Divi's Laboratories Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIVISLAB_12022026124558_IntimationNewspaperAdv_12022026.pdf"
     }
   ]
 }

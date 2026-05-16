@@ -8,25 +8,9 @@
   "price": 819.75,
   "market_cap_cr": 13505.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 772.25,
-      "prev_close": 780.7,
-      "volume": 130371,
-      "deliverable_qty": 40090,
-      "delivery_pct": 30.75
-    },
-    {
-      "date": "2026-02-13",
-      "close": 784.55,
-      "prev_close": 772.25,
-      "volume": 226247,
-      "deliverable_qty": 130326,
-      "delivery_pct": 57.6
-    },
     {
       "date": "2026-02-16",
       "close": 793.85,
@@ -466,9 +450,24 @@
       "volume": 82646,
       "deliverable_qty": 34843,
       "delivery_pct": 42.16
+    },
+    {
+      "date": "2026-05-15",
+      "close": 960.95,
+      "prev_close": 956.3,
+      "volume": 164143,
+      "deliverable_qty": 88533,
+      "delivery_pct": 53.94
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 21:52:50",
+      "an_dt": "15-May-2026 21:52:50",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Rubicon Research Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9823522970_15052026214609_RRLSEFilingMonitoringAgencyRepMay2026pdf.pdf"
+    },
     {
       "sort_date": "2026-04-30 23:02:09",
       "an_dt": "30-Apr-2026 23:02:09",
@@ -538,13 +537,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Rubicon Research Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/9823522970_16022026185139_Newspaper_Advt_PB_16022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 13:00:26",
-      "an_dt": "13-Feb-2026 13:00:26",
-      "desc": "Shareholders meeting",
-      "sm_name": "Rubicon Research Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9823522970_13022026125922_Notice_of_Postal_Ballot.pdf"
     }
   ]
 }

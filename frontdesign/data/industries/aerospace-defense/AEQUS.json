@@ -8,25 +8,9 @@
   "price": 189.37,
   "market_cap_cr": 12400.97,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 143.62,
-      "prev_close": 145.2,
-      "volume": 534211,
-      "deliverable_qty": 268191,
-      "delivery_pct": 50.2
-    },
-    {
-      "date": "2026-02-13",
-      "close": 141.99,
-      "prev_close": 143.62,
-      "volume": 657670,
-      "deliverable_qty": 297017,
-      "delivery_pct": 45.16
-    },
     {
       "date": "2026-02-16",
       "close": 139.97,
@@ -466,9 +450,24 @@
       "volume": 1927296,
       "deliverable_qty": 601060,
       "delivery_pct": 31.19
+    },
+    {
+      "date": "2026-05-15",
+      "close": 202.52,
+      "prev_close": 205.02,
+      "volume": 1297694,
+      "deliverable_qty": 359683,
+      "delivery_pct": 27.72
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 12:05:31",
+      "an_dt": "15-May-2026 12:05:31",
+      "desc": "Press Release",
+      "sm_name": "Aequs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_15052026120507_Intimation__Reg_30_Press_Release_Materials_Reserach_Centre.pdf"
+    },
     {
       "sort_date": "2026-05-11 17:50:45",
       "an_dt": "11-May-2026 17:50:45",

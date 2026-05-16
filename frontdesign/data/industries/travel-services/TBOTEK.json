@@ -8,25 +8,9 @@
   "price": 1191.3,
   "market_cap_cr": 12721.18,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1472.0,
-      "prev_close": 1538.2,
-      "volume": 315244,
-      "deliverable_qty": 137491,
-      "delivery_pct": 43.61
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1520.5,
-      "prev_close": 1472.0,
-      "volume": 191886,
-      "deliverable_qty": 68600,
-      "delivery_pct": 35.75
-    },
     {
       "date": "2026-02-16",
       "close": 1442.3,
@@ -466,9 +450,24 @@
       "volume": 29184,
       "deliverable_qty": 10510,
       "delivery_pct": 36.01
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1177.0,
+      "prev_close": 1181.4,
+      "volume": 90400,
+      "deliverable_qty": 60513,
+      "delivery_pct": 66.94
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 14:03:32",
+      "an_dt": "14-May-2026 14:03:32",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "TBO Tek Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9810411243_14052026140139_MonitoringAgencyReport31032026.pdf"
+    },
     {
       "sort_date": "2026-05-01 16:35:51",
       "an_dt": "01-May-2026 16:35:51",
@@ -559,20 +558,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "TBO Tek Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/9810411243_14022026114720_Newspaperpublication.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:30:05",
-      "an_dt": "13-Feb-2026 16:30:05",
-      "desc": "Shareholders meeting",
-      "sm_name": "TBO Tek Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9810411243_13022026162841_PostalBallotNotice.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 12:22:26",
-      "an_dt": "12-Feb-2026 12:22:26",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "TBO Tek Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9810411243_12022026122208_Newspaperpublication.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 1007.45,
   "market_cap_cr": 4541.42,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1128.0,
-      "prev_close": 1149.4,
-      "volume": 27026,
-      "deliverable_qty": 11494,
-      "delivery_pct": 42.53
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1123.5,
-      "prev_close": 1128.0,
-      "volume": 19621,
-      "deliverable_qty": 7278,
-      "delivery_pct": 37.09
-    },
     {
       "date": "2026-02-16",
       "close": 1098.4,
@@ -466,9 +450,24 @@
       "volume": 25261,
       "deliverable_qty": 14051,
       "delivery_pct": 55.62
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1083.5,
+      "prev_close": 1049.2,
+      "volume": 88493,
+      "deliverable_qty": 33177,
+      "delivery_pct": 37.49
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 16:25:51",
+      "an_dt": "14-May-2026 16:25:51",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Dhanuka Agritech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DHANUKA_14052026162459_investorintimationsigned.pdf"
+    },
     {
       "sort_date": "2026-04-30 17:26:16",
       "an_dt": "30-Apr-2026 17:26:16",
@@ -524,13 +523,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Dhanuka Agritech Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DHANUKA_16022026155459_postalballotnotice.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:44:03",
-      "an_dt": "12-Feb-2026 15:44:03",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Dhanuka Agritech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DHANUKA_12022026154341_investorconcall.pdf"
     }
   ]
 }

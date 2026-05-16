@@ -8,25 +8,9 @@
   "price": 430.15,
   "market_cap_cr": 3814.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 425.65,
-      "prev_close": 429.4,
-      "volume": 65568,
-      "deliverable_qty": 36065,
-      "delivery_pct": 55.0
-    },
-    {
-      "date": "2026-02-13",
-      "close": 412.85,
-      "prev_close": 425.65,
-      "volume": 101365,
-      "deliverable_qty": 62876,
-      "delivery_pct": 62.03
-    },
     {
       "date": "2026-02-16",
       "close": 412.9,
@@ -466,9 +450,24 @@
       "volume": 69607,
       "deliverable_qty": 28925,
       "delivery_pct": 41.55
+    },
+    {
+      "date": "2026-05-15",
+      "close": 415.5,
+      "prev_close": 421.45,
+      "volume": 73349,
+      "deliverable_qty": 31323,
+      "delivery_pct": 42.7
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 16:55:46",
+      "an_dt": "14-May-2026 16:55:46",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Optiemus Infracom Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OPTIEMUS_14052026165520_OILMonitoringAgencyReport31032026.pdf"
+    },
     {
       "sort_date": "2026-04-30 18:21:58",
       "an_dt": "30-Apr-2026 18:21:58",
@@ -559,27 +558,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Optiemus Infracom Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/OPTIEMUS_14022026101515_OILNewspaperPublicationOfUAFR14022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:05:06",
-      "an_dt": "13-Feb-2026 18:05:06",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Optiemus Infracom Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OPTIEMUS_13022026180450_OILMonitoringAgencyReport13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:49:05",
-      "an_dt": "13-Feb-2026 16:49:05",
-      "desc": "Investor Presentation",
-      "sm_name": "Optiemus Infracom Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OPTIEMUS_13022026164854_OILInvestorPresentation13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:01:43",
-      "an_dt": "13-Feb-2026 16:01:43",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Optiemus Infracom Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OPTIEMUS_13022026155906_OILUAFR31122025.pdf"
     }
   ]
 }

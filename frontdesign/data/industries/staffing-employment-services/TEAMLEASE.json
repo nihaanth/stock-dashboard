@@ -8,25 +8,9 @@
   "price": 1177.9,
   "market_cap_cr": 1974.64,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1392.6,
-      "prev_close": 1430.0,
-      "volume": 14720,
-      "deliverable_qty": 7718,
-      "delivery_pct": 52.43
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1358.5,
-      "prev_close": 1392.6,
-      "volume": 16885,
-      "deliverable_qty": 9691,
-      "delivery_pct": 57.39
-    },
     {
       "date": "2026-02-16",
       "close": 1338.7,
@@ -466,9 +450,24 @@
       "volume": 25403,
       "deliverable_qty": 12623,
       "delivery_pct": 49.69
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1364.6,
+      "prev_close": 1359.9,
+      "volume": 17584,
+      "deliverable_qty": 10324,
+      "delivery_pct": 58.71
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 15:28:09",
+      "an_dt": "14-May-2026 15:28:09",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Teamlease Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TEAMLEASE_14052026152750_TeamLeaseIntimationofConCallonQ4FY26.pdf"
+    },
     {
       "sort_date": "2026-05-13 18:16:38",
       "an_dt": "13-May-2026 18:16:38",

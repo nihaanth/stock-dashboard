@@ -8,25 +8,9 @@
   "price": 100.78,
   "market_cap_cr": 28819.98,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 100.36,
-      "prev_close": 107.38,
-      "volume": 16524925,
-      "deliverable_qty": 5799018,
-      "delivery_pct": 35.09
-    },
-    {
-      "date": "2026-02-13",
-      "close": 107.33,
-      "prev_close": 100.36,
-      "volume": 85349296,
-      "deliverable_qty": 6220014,
-      "delivery_pct": 7.29
-    },
     {
       "date": "2026-02-16",
       "close": 104.68,
@@ -466,9 +450,31 @@
       "volume": 3282175,
       "deliverable_qty": 1221593,
       "delivery_pct": 37.22
+    },
+    {
+      "date": "2026-05-15",
+      "close": 113.85,
+      "prev_close": 112.6,
+      "volume": 11963782,
+      "deliverable_qty": 3104059,
+      "delivery_pct": 25.95
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:02:17",
+      "an_dt": "15-May-2026 18:02:17",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Physicswallah Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEAPSPW_15052026180204_Intimation-Monitoring_Agency_Report_Final_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:02:25",
+      "an_dt": "14-May-2026 17:02:25",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Physicswallah Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEAPSPW_14052026170203_IntimationInvestorMeetSchedule.pdf"
+    },
     {
       "sort_date": "2026-05-12 18:29:08",
       "an_dt": "12-May-2026 18:29:08",
@@ -587,13 +593,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Physicswallah Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEAPSPW_16022026183412_Intimation_Investor_Meet_Schedule_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:10:40",
-      "an_dt": "12-Feb-2026 19:10:40",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Physicswallah Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEAPSPW_12022026191027_Intimation_Earnings_call_Transcript_Signed.pdf"
     }
   ]
 }

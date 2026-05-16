@@ -8,25 +8,9 @@
   "price": 284.85,
   "market_cap_cr": 1615.56,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 312.05,
-      "prev_close": 335.05,
-      "volume": 362798,
-      "deliverable_qty": 188843,
-      "delivery_pct": 52.05
-    },
-    {
-      "date": "2026-02-13",
-      "close": 309.5,
-      "prev_close": 312.05,
-      "volume": 79125,
-      "deliverable_qty": 39538,
-      "delivery_pct": 49.97
-    },
     {
       "date": "2026-02-16",
       "close": 304.9,
@@ -466,6 +450,14 @@
       "volume": 89649,
       "deliverable_qty": 47507,
       "delivery_pct": 52.99
+    },
+    {
+      "date": "2026-05-15",
+      "close": 265.45,
+      "prev_close": 268.1,
+      "volume": 68762,
+      "deliverable_qty": 29026,
+      "delivery_pct": 42.21
     }
   ],
   "news": [
@@ -531,27 +523,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Dollar Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DOLLAR_17022026161400_DIL_Transcript_170226.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:52:31",
-      "an_dt": "13-Feb-2026 15:52:31",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Dollar Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DOLLAR_13022026155216_DIL_Specialwindow_NP.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:07:14",
-      "an_dt": "12-Feb-2026 18:07:14",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Dollar Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DOLLAR_12022026180618_DIL_CL_Investors_concall_recording_intimation12-02-2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 12:38:39",
-      "an_dt": "12-Feb-2026 12:38:39",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Dollar Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DOLLAR_12022026123816_DIL_NP_12022026.pdf"
     }
   ]
 }

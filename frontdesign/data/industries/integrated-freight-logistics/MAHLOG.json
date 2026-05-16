@@ -8,25 +8,9 @@
   "price": 389.35,
   "market_cap_cr": 3863.23,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 409.8,
-      "prev_close": 412.6,
-      "volume": 641100,
-      "deliverable_qty": 342081,
-      "delivery_pct": 53.36
-    },
-    {
-      "date": "2026-02-13",
-      "close": 402.35,
-      "prev_close": 409.8,
-      "volume": 275582,
-      "deliverable_qty": 133443,
-      "delivery_pct": 48.42
-    },
     {
       "date": "2026-02-16",
       "close": 403.55,
@@ -466,9 +450,24 @@
       "volume": 134415,
       "deliverable_qty": 71057,
       "delivery_pct": 52.86
+    },
+    {
+      "date": "2026-05-15",
+      "close": 361.05,
+      "prev_close": 366.35,
+      "volume": 165197,
+      "deliverable_qty": 90086,
+      "delivery_pct": 54.53
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 20:32:40",
+      "an_dt": "15-May-2026 20:32:40",
+      "desc": "Updates",
+      "sm_name": "Mahindra Logistics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAHLOG18_15052026203139_SEIntimationASCR2025_Final_SD.pdf"
+    },
     {
       "sort_date": "2026-04-30 15:37:47",
       "an_dt": "30-Apr-2026 15:37:47",

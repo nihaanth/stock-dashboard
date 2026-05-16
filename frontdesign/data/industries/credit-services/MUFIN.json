@@ -8,25 +8,9 @@
   "price": 116.14,
   "market_cap_cr": 2301.46,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 119.01,
-      "prev_close": 119.94,
-      "volume": 1836352,
-      "deliverable_qty": 818971,
-      "delivery_pct": 44.6
-    },
-    {
-      "date": "2026-02-13",
-      "close": 116.49,
-      "prev_close": 119.01,
-      "volume": 741116,
-      "deliverable_qty": 333355,
-      "delivery_pct": 44.98
-    },
     {
       "date": "2026-02-16",
       "close": 116.75,
@@ -466,6 +450,14 @@
       "volume": 1499822,
       "deliverable_qty": 585418,
       "delivery_pct": 39.03
+    },
+    {
+      "date": "2026-05-15",
+      "close": 112.71,
+      "prev_close": 113.71,
+      "volume": 894315,
+      "deliverable_qty": 287442,
+      "delivery_pct": 32.14
     }
   ],
   "news": [
@@ -559,20 +551,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Mufin Green Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MUFIN_14022026151131_Intimation_Ad.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:03:00",
-      "an_dt": "13-Feb-2026 17:03:00",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Mufin Green Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MUFIN_13022026170028_Outcome_BM_F.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:59:08",
-      "an_dt": "13-Feb-2026 16:59:08",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Mufin Green Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MUFIN_13022026165901_Outcome_BM_F.pdf"
     }
   ]
 }

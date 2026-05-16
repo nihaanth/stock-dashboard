@@ -8,25 +8,9 @@
   "price": 285.15,
   "market_cap_cr": 1417.93,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 274.78,
-      "prev_close": 271.18,
-      "volume": 50137,
-      "deliverable_qty": 30589,
-      "delivery_pct": 61.01
-    },
-    {
-      "date": "2026-02-13",
-      "close": 291.63,
-      "prev_close": 274.78,
-      "volume": 8796543,
-      "deliverable_qty": 651459,
-      "delivery_pct": 7.41
-    },
     {
       "date": "2026-02-16",
       "close": 277.13,
@@ -466,6 +450,14 @@
       "volume": 23131,
       "deliverable_qty": 9905,
       "delivery_pct": 42.82
+    },
+    {
+      "date": "2026-05-15",
+      "close": 269.2,
+      "prev_close": 272.75,
+      "volume": 29031,
+      "deliverable_qty": 10036,
+      "delivery_pct": 34.57
     }
   ],
   "news": [
@@ -531,27 +523,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Chaman Lal Setia Exports Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CLSEL_14022026155259_final.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:59:27",
-      "an_dt": "13-Feb-2026 16:59:27",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Chaman Lal Setia Exports Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CLSEL_13022026165859_Final.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:17:02",
-      "an_dt": "13-Feb-2026 11:17:02",
-      "desc": "Investor Presentation",
-      "sm_name": "Chaman Lal Setia Exports Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CLSEL_13022026111524_INVESTOR_PRESENATION.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:21:04",
-      "an_dt": "12-Feb-2026 17:21:04",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Chaman Lal Setia Exports Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CLSEL_12022026171705_outcome500.pdf"
     }
   ]
 }

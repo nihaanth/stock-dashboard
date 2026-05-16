@@ -8,25 +8,9 @@
   "price": 788.1,
   "market_cap_cr": 13988.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 577.75,
-      "prev_close": 582.15,
-      "volume": 1856612,
-      "deliverable_qty": 595169,
-      "delivery_pct": 32.06
-    },
-    {
-      "date": "2026-02-13",
-      "close": 544.5,
-      "prev_close": 577.75,
-      "volume": 362873,
-      "deliverable_qty": 141185,
-      "delivery_pct": 38.91
-    },
     {
       "date": "2026-02-16",
       "close": 530.4,
@@ -466,9 +450,24 @@
       "volume": 1717191,
       "deliverable_qty": 383947,
       "delivery_pct": 22.36
+    },
+    {
+      "date": "2026-05-15",
+      "close": 878.75,
+      "prev_close": 853.1,
+      "volume": 1330155,
+      "deliverable_qty": 332382,
+      "delivery_pct": 24.99
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 16:46:44",
+      "an_dt": "14-May-2026 16:46:44",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Black Box Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBOX_14052026164634_SE_Intimation_MAReport_Q4FY26.pdf"
+    },
     {
       "sort_date": "2026-05-13 08:12:16",
       "an_dt": "13-May-2026 08:12:16",
@@ -601,48 +600,6 @@
       "desc": "Rumour Verification - Regulation 30(11)",
       "sm_name": "Black Box Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBOX_15022026202512_Clarification.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:50:28",
-      "an_dt": "13-Feb-2026 14:50:28",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Black Box Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBOX_13022026145019_SE_Intimation_MAReport_Q3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:46:10",
-      "an_dt": "13-Feb-2026 14:46:10",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Black Box Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBOX_13022026144601_SE_Intimation_Newspaper_Q3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:29:11",
-      "an_dt": "12-Feb-2026 13:29:11",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Black Box Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBOX_12022026132902_SE_Intimation_for_Recording_Q3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 09:00:20",
-      "an_dt": "12-Feb-2026 09:00:20",
-      "desc": "Investor Presentation",
-      "sm_name": "Black Box Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBOX_12022026090009_SE_Intimation_InvestorPresentation_Q3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 08:47:04",
-      "an_dt": "12-Feb-2026 08:47:04",
-      "desc": "Press Release",
-      "sm_name": "Black Box Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBOX_12022026084631_SE_Intimation_PressRelease_Q3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 08:27:08",
-      "an_dt": "12-Feb-2026 08:27:08",
-      "desc": "General Updates",
-      "sm_name": "Black Box Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBOX_12022026082700_SE_Intimation_Acquisition.pdf"
     }
   ]
 }

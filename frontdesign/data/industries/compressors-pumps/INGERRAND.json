@@ -8,25 +8,9 @@
   "price": 4432.0,
   "market_cap_cr": 13990.94,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 3539.7,
-      "prev_close": 3586.5,
-      "volume": 4924,
-      "deliverable_qty": 2773,
-      "delivery_pct": 56.32
-    },
-    {
-      "date": "2026-02-13",
-      "close": 3723.7,
-      "prev_close": 3539.7,
-      "volume": 187183,
-      "deliverable_qty": 51748,
-      "delivery_pct": 27.65
-    },
     {
       "date": "2026-02-16",
       "close": 3854.8,
@@ -466,6 +450,14 @@
       "volume": 8334,
       "deliverable_qty": 3603,
       "delivery_pct": 43.23
+    },
+    {
+      "date": "2026-05-15",
+      "close": 4398.7,
+      "prev_close": 4325.4,
+      "volume": 8094,
+      "deliverable_qty": 4146,
+      "delivery_pct": 51.22
     }
   ],
   "news": [
@@ -496,27 +488,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Ingersoll Rand (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INGERRAND1_27032026165039_Postal_Ballot_Notice_StockExchange.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:22:55",
-      "an_dt": "12-Feb-2026 18:22:55",
-      "desc": "Appointment",
-      "sm_name": "Ingersoll Rand (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INGERRAND1_12022026182214_Intimation_to_stock_exchange_Reappointment_of_Whole_time_Director.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:43:37",
-      "an_dt": "12-Feb-2026 16:43:37",
-      "desc": "Press Release",
-      "sm_name": "Ingersoll Rand (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INGERRAND1_12022026164313_Press_Release_-_Dec2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:38:11",
-      "an_dt": "12-Feb-2026 16:38:11",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Ingersoll Rand (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INGERRAND1_12022026163527_Results-December2025.pdf"
     }
   ]
 }

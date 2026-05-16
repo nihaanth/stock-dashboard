@@ -8,25 +8,9 @@
   "price": 14847.0,
   "market_cap_cr": 15861.05,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 15416.0,
-      "prev_close": 15739.0,
-      "volume": 2750,
-      "deliverable_qty": 2019,
-      "delivery_pct": 73.42
-    },
-    {
-      "date": "2026-02-13",
-      "close": 15177.0,
-      "prev_close": 15416.0,
-      "volume": 2436,
-      "deliverable_qty": 1237,
-      "delivery_pct": 50.78
-    },
     {
       "date": "2026-02-16",
       "close": 15182.0,
@@ -466,9 +450,31 @@
       "volume": 2184,
       "deliverable_qty": 1183,
       "delivery_pct": 54.17
+    },
+    {
+      "date": "2026-05-15",
+      "close": 14561.0,
+      "prev_close": 14408.0,
+      "volume": 1006,
+      "deliverable_qty": 577,
+      "delivery_pct": 57.36
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 12:12:08",
+      "an_dt": "15-May-2026 12:12:08",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "LMW Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LAXMIMACH_15052026121139_IEPFADFILING15052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:57:35",
+      "an_dt": "14-May-2026 17:57:35",
+      "desc": "General Updates",
+      "sm_name": "LMW Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LAXMIMACH_14052026175647_IEPFFILING14052026.pdf"
+    },
     {
       "sort_date": "2026-05-05 11:18:35",
       "an_dt": "05-May-2026 11:18:35",
@@ -524,13 +530,6 @@
       "desc": "General Updates",
       "sm_name": "LMW Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LAXMIMACH_21022026111652_ESG_FILING.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 12:33:07",
-      "an_dt": "12-Feb-2026 12:33:07",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "LMW Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LAXMIMACH_12022026123201_Plant_Visit_covering_letter.pdf"
     }
   ]
 }

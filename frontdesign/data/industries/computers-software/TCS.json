@@ -8,25 +8,9 @@
   "price": 2472.6,
   "market_cap_cr": 894608.34,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 2750.1,
-      "prev_close": 2909.8,
-      "volume": 10612156,
-      "deliverable_qty": 6190643,
-      "delivery_pct": 58.34
-    },
-    {
-      "date": "2026-02-13",
-      "close": 2692.2,
-      "prev_close": 2750.1,
-      "volume": 11168735,
-      "deliverable_qty": 4653582,
-      "delivery_pct": 41.67
-    },
     {
       "date": "2026-02-16",
       "close": 2706.6,
@@ -466,9 +450,38 @@
       "volume": 3171843,
       "deliverable_qty": 1557378,
       "delivery_pct": 49.1
+    },
+    {
+      "date": "2026-05-15",
+      "close": 2264.0,
+      "prev_close": 2246.0,
+      "volume": 3410637,
+      "deliverable_qty": 1487406,
+      "delivery_pct": 43.61
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 23:50:10",
+      "an_dt": "15-May-2026 23:50:10",
+      "desc": "Updates",
+      "sm_name": "Tata Consultancy Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_15052026234943_BRSR_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 23:45:55",
+      "an_dt": "15-May-2026 23:45:55",
+      "desc": "Shareholders meeting",
+      "sm_name": "Tata Consultancy Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_15052026234517_SE_Letter_-_Annual_Report_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 20:23:27",
+      "an_dt": "14-May-2026 20:23:27",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Tata Consultancy Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_14052026202258_SE_Intimation_signed.pdf"
+    },
     {
       "sort_date": "2026-05-12 11:30:07",
       "an_dt": "12-May-2026 11:30:07",
@@ -741,13 +754,6 @@
       "desc": "Updates",
       "sm_name": "Tata Consultancy Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_16022026121739_PR_16Feb26_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:20:36",
-      "an_dt": "12-Feb-2026 16:20:36",
-      "desc": "Updates",
-      "sm_name": "Tata Consultancy Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_12022026160730_PR_12Feb26_signed.pdf"
     }
   ]
 }

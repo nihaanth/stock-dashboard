@@ -8,25 +8,9 @@
   "price": 2027.1,
   "market_cap_cr": 2216.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1785.3,
-      "prev_close": 1790.2,
-      "volume": 132687,
-      "deliverable_qty": 38124,
-      "delivery_pct": 28.73
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1733.2,
-      "prev_close": 1785.3,
-      "volume": 28695,
-      "deliverable_qty": 12943,
-      "delivery_pct": 45.11
-    },
     {
       "date": "2026-02-16",
       "close": 1657.6,
@@ -466,6 +450,14 @@
       "volume": 69523,
       "deliverable_qty": 27640,
       "delivery_pct": 39.76
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1904.0,
+      "prev_close": 1976.4,
+      "volume": 30174,
+      "deliverable_qty": 16322,
+      "delivery_pct": 54.09
     }
   ],
   "news": [
@@ -601,20 +593,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Advait Energy Transitions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_19022026181003_SEtranscriptAdvaits.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:57:04",
-      "an_dt": "12-Feb-2026 16:57:04",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Advait Energy Transitions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_12022026165643_SEearningscall12022026s.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:26:38",
-      "an_dt": "12-Feb-2026 15:26:38",
-      "desc": "Updates",
-      "sm_name": "Advait Energy Transitions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_12022026151919_SEL1intimaiton12022026s.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 288.2,
   "market_cap_cr": 71011.03,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 287.1,
-      "prev_close": 290.5,
-      "volume": 9229784,
-      "deliverable_qty": 5176150,
-      "delivery_pct": 56.08
-    },
-    {
-      "date": "2026-02-13",
-      "close": 288.3,
-      "prev_close": 287.1,
-      "volume": 6202181,
-      "deliverable_qty": 3338876,
-      "delivery_pct": 53.83
-    },
     {
       "date": "2026-02-16",
       "close": 289.0,
@@ -466,9 +450,31 @@
       "volume": 15147738,
       "deliverable_qty": 8138523,
       "delivery_pct": 53.73
+    },
+    {
+      "date": "2026-05-15",
+      "close": 281.3,
+      "prev_close": 280.25,
+      "volume": 6034270,
+      "deliverable_qty": 3191945,
+      "delivery_pct": 52.9
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:15:01",
+      "an_dt": "15-May-2026 18:15:01",
+      "desc": "Change in Auditors",
+      "sm_name": "The Federal Bank  Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FEDERALBNK_15052026181202_FBL_Appt_of_statutory_Auditors_150526signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 11:25:28",
+      "an_dt": "14-May-2026 11:25:28",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "The Federal Bank  Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FEDERALBNK_14052026112422_SE_Intimation_Investor_Meet_130526_signed.pdf"
+    },
     {
       "sort_date": "2026-05-13 14:53:49",
       "an_dt": "13-May-2026 14:53:49",
@@ -867,20 +873,6 @@
       "desc": "General Updates",
       "sm_name": "The Federal Bank  Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FEDERALBNK_16022026115718_FBL_Reg_30__Allotment_of_warrants_1600226_SIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:20:26",
-      "an_dt": "12-Feb-2026 18:20:26",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "The Federal Bank  Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FEDERALBNK_12022026182006_SE_Intimation_Investor_Meet_1_1_120226_S.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:18:28",
-      "an_dt": "12-Feb-2026 18:18:28",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "The Federal Bank  Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FEDERALBNK_12022026181817_SE_Intimation_Investor_Meet_120226_Group_Axis_Capitals_Flagship_S.pdf"
     }
   ]
 }

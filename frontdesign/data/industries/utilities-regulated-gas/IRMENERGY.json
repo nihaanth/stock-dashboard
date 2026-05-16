@@ -8,25 +8,9 @@
   "price": 202.13,
   "market_cap_cr": 829.94,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 253.29,
-      "prev_close": 255.57,
-      "volume": 26875,
-      "deliverable_qty": 8657,
-      "delivery_pct": 32.21
-    },
-    {
-      "date": "2026-02-13",
-      "close": 245.66,
-      "prev_close": 253.29,
-      "volume": 43112,
-      "deliverable_qty": 21182,
-      "delivery_pct": 49.13
-    },
     {
       "date": "2026-02-16",
       "close": 243.46,
@@ -466,9 +450,31 @@
       "volume": 993144,
       "deliverable_qty": 131477,
       "delivery_pct": 13.24
+    },
+    {
+      "date": "2026-05-15",
+      "close": 286.45,
+      "prev_close": 294.5,
+      "volume": 708121,
+      "deliverable_qty": 117990,
+      "delivery_pct": 16.66
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 11:56:30",
+      "an_dt": "14-May-2026 11:56:30",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "IRM Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRMENERGY_14052026115615_DisclosureMAReport.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 11:53:40",
+      "an_dt": "14-May-2026 11:53:40",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "IRM Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRMENERGY_14052026115329_IntimationoftranscriptQ4.pdf"
+    },
     {
       "sort_date": "2026-05-11 17:47:45",
       "an_dt": "11-May-2026 17:47:45",

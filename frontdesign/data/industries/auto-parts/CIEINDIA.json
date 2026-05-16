@@ -8,25 +8,9 @@
   "price": 483.6,
   "market_cap_cr": 18374.06,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 449.8,
-      "prev_close": 453.1,
-      "volume": 173225,
-      "deliverable_qty": 81751,
-      "delivery_pct": 47.19
-    },
-    {
-      "date": "2026-02-13",
-      "close": 456.55,
-      "prev_close": 449.8,
-      "volume": 309188,
-      "deliverable_qty": 118280,
-      "delivery_pct": 38.26
-    },
     {
       "date": "2026-02-16",
       "close": 457.85,
@@ -466,9 +450,24 @@
       "volume": 785250,
       "deliverable_qty": 384741,
       "delivery_pct": 49.0
+    },
+    {
+      "date": "2026-05-15",
+      "close": 460.75,
+      "prev_close": 455.75,
+      "volume": 648496,
+      "deliverable_qty": 333668,
+      "delivery_pct": 51.45
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:18:45",
+      "an_dt": "15-May-2026 19:18:45",
+      "desc": "Acquisition",
+      "sm_name": "CIE Automotive India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mahindracie_15052026191834_SE_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-12 18:14:10",
       "an_dt": "12-May-2026 18:14:10",

@@ -8,25 +8,9 @@
   "price": 219.69,
   "market_cap_cr": 1904.11,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 214.81,
-      "prev_close": 217.66,
-      "volume": 265564,
-      "deliverable_qty": 140576,
-      "delivery_pct": 52.93
-    },
-    {
-      "date": "2026-02-13",
-      "close": 205.85,
-      "prev_close": 214.81,
-      "volume": 754816,
-      "deliverable_qty": 294180,
-      "delivery_pct": 38.97
-    },
     {
       "date": "2026-02-16",
       "close": 205.47,
@@ -466,9 +450,31 @@
       "volume": 173943,
       "deliverable_qty": 68652,
       "delivery_pct": 39.47
+    },
+    {
+      "date": "2026-05-15",
+      "close": 205.26,
+      "prev_close": 215.34,
+      "volume": 148294,
+      "deliverable_qty": 83349,
+      "delivery_pct": 56.21
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:14:45",
+      "an_dt": "15-May-2026 17:14:45",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Solarworld Energy Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNSHINE123_15052026171431_NewspaperIntimation.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 19:46:05",
+      "an_dt": "14-May-2026 19:46:05",
+      "desc": "Shareholders meeting",
+      "sm_name": "Solarworld Energy Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNSHINE123_14052026194522_Postalballotintimation.pdf"
+    },
     {
       "sort_date": "2026-05-13 20:20:28",
       "an_dt": "13-May-2026 20:20:28",

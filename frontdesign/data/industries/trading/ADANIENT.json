@@ -8,25 +8,9 @@
   "price": 2500.2,
   "market_cap_cr": 342763.48,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 2211.8,
-      "prev_close": 2234.4,
-      "volume": 649585,
-      "deliverable_qty": 168415,
-      "delivery_pct": 25.93
-    },
-    {
-      "date": "2026-02-13",
-      "close": 2136.6,
-      "prev_close": 2211.8,
-      "volume": 1489548,
-      "deliverable_qty": 465452,
-      "delivery_pct": 31.25
-    },
     {
       "date": "2026-02-16",
       "close": 2184.6,
@@ -466,6 +450,14 @@
       "volume": 2036291,
       "deliverable_qty": 663308,
       "delivery_pct": 32.57
+    },
+    {
+      "date": "2026-05-15",
+      "close": 2716.0,
+      "prev_close": 2712.9,
+      "volume": 6742083,
+      "deliverable_qty": 1182501,
+      "delivery_pct": 17.54
     }
   ],
   "news": [
@@ -818,20 +810,6 @@
       "desc": "Incorporation",
       "sm_name": "Adani Enterprises Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/nishant_joshi_adani_com_16022026191617_AELintimationACX_NMPTL.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 23:35:10",
-      "an_dt": "13-Feb-2026 23:35:10",
-      "desc": "Acquisition",
-      "sm_name": "Adani Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADANIENT_13022026233501_Closing_intimation_Indamer.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:07:21",
-      "an_dt": "13-Feb-2026 18:07:21",
-      "desc": "Incorporation",
-      "sm_name": "Adani Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/nishant_joshi_adani_com_13022026180704_AELintimationACX.pdf"
     }
   ]
 }

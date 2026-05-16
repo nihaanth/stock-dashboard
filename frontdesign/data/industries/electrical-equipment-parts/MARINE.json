@@ -8,25 +8,9 @@
   "price": 192.01,
   "market_cap_cr": 2547.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 188.21,
-      "prev_close": 194.6,
-      "volume": 324228,
-      "deliverable_qty": 146124,
-      "delivery_pct": 45.07
-    },
-    {
-      "date": "2026-02-13",
-      "close": 182.71,
-      "prev_close": 188.21,
-      "volume": 226167,
-      "deliverable_qty": 99250,
-      "delivery_pct": 43.88
-    },
     {
       "date": "2026-02-16",
       "close": 186.93,
@@ -466,9 +450,24 @@
       "volume": 334921,
       "deliverable_qty": 147436,
       "delivery_pct": 44.02
+    },
+    {
+      "date": "2026-05-15",
+      "close": 218.75,
+      "prev_close": 218.74,
+      "volume": 213028,
+      "deliverable_qty": 101080,
+      "delivery_pct": 47.45
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 20:22:57",
+      "an_dt": "14-May-2026 20:22:57",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Marine Electricals (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARINE_14052026202215_Signed_Monitoring_agency.pdf"
+    },
     {
       "sort_date": "2026-04-27 15:25:16",
       "an_dt": "27-Apr-2026 15:25:16",
@@ -580,27 +579,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "Marine Electricals (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARINE_16022026121219_Electromech_Infraprojects_Limited_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:59:21",
-      "an_dt": "13-Feb-2026 11:59:21",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Marine Electricals (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARINE_13022026115842_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:43:44",
-      "an_dt": "13-Feb-2026 11:43:44",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Marine Electricals (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARINE_13022026114042_Uploading_Newspaper_Publication_dec_2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 09:34:35",
-      "an_dt": "12-Feb-2026 09:34:35",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "Marine Electricals (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARINE_12022026093329_Signed_Regulation_30.pdf"
     }
   ]
 }

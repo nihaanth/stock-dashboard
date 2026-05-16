@@ -8,25 +8,9 @@
   "price": 199.67,
   "market_cap_cr": 1810.09,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 166.4,
-      "prev_close": 166.1,
-      "volume": 74182,
-      "deliverable_qty": 33810,
-      "delivery_pct": 45.58
-    },
-    {
-      "date": "2026-02-13",
-      "close": 163.73,
-      "prev_close": 166.4,
-      "volume": 137562,
-      "deliverable_qty": 35678,
-      "delivery_pct": 25.94
-    },
     {
       "date": "2026-02-16",
       "close": 166.95,
@@ -466,9 +450,24 @@
       "volume": 112183,
       "deliverable_qty": 39469,
       "delivery_pct": 35.18
+    },
+    {
+      "date": "2026-05-15",
+      "close": 192.09,
+      "prev_close": 193.33,
+      "volume": 98891,
+      "deliverable_qty": 51589,
+      "delivery_pct": 52.17
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 19:40:44",
+      "an_dt": "14-May-2026 19:40:44",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "BLS E-Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PROJECTSEWA_14052026194003_MAReport_signed_SE.pdf"
+    },
     {
       "sort_date": "2026-04-30 19:46:33",
       "an_dt": "30-Apr-2026 19:46:33",
@@ -552,13 +551,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "BLS E-Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PROJECTSEWA_16022026121934_OutcomeofBoardMeeting_signed_16022026_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 12:47:31",
-      "an_dt": "13-Feb-2026 12:47:31",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "BLS E-Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PROJECTSEWA_13022026124716_Intimation_MA_31122025_signed.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 1341.8,
   "market_cap_cr": 1354.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1344.3,
-      "prev_close": 1353.5,
-      "volume": 8879,
-      "deliverable_qty": 3204,
-      "delivery_pct": 36.09
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1373.6,
-      "prev_close": 1344.3,
-      "volume": 3711,
-      "deliverable_qty": 2225,
-      "delivery_pct": 59.96
-    },
     {
       "date": "2026-02-16",
       "close": 1129.9,
@@ -466,9 +450,52 @@
       "volume": 27929,
       "deliverable_qty": 15941,
       "delivery_pct": 57.08
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1271.9,
+      "prev_close": 1403.6,
+      "volume": 60288,
+      "deliverable_qty": 28565,
+      "delivery_pct": 47.38
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 16:57:50",
+      "an_dt": "15-May-2026 16:57:50",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Beta Drugs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BETA_15052026165741_10043001.zip"
+    },
+    {
+      "sort_date": "2026-05-15 08:41:01",
+      "an_dt": "15-May-2026 08:41:01",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Beta Drugs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BETA_15052026084046_Investor_Presentation.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 16:43:03",
+      "an_dt": "14-May-2026 16:43:03",
+      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
+      "sm_name": "Beta Drugs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BETA_14052026164257_statement_of_deviation_and_variation.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 16:12:51",
+      "an_dt": "14-May-2026 16:12:51",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Beta Drugs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BETA_14052026161138_monitoring_agency_report.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 15:13:55",
+      "an_dt": "14-May-2026 15:13:55",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Beta Drugs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BETA_14052026151131_final_results.pdf"
+    },
     {
       "sort_date": "2026-05-12 14:55:21",
       "an_dt": "12-May-2026 14:55:21",
@@ -573,13 +600,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Beta Drugs Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BETA_14022026133437_FINAL_RESULTS_DEC_NSE.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 10:43:45",
-      "an_dt": "12-Feb-2026 10:43:45",
-      "desc": "General Updates",
-      "sm_name": "Beta Drugs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BETA_12022026101111_BDL_LETTERS.pdf"
     }
   ]
 }

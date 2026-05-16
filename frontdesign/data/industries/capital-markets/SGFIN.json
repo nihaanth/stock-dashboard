@@ -8,25 +8,9 @@
   "price": 467.75,
   "market_cap_cr": 3082.24,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 414.45,
-      "prev_close": 392.5,
-      "volume": 661205,
-      "deliverable_qty": 323130,
-      "delivery_pct": 48.87
-    },
-    {
-      "date": "2026-02-13",
-      "close": 405.4,
-      "prev_close": 414.45,
-      "volume": 410666,
-      "deliverable_qty": 351034,
-      "delivery_pct": 85.48
-    },
     {
       "date": "2026-02-16",
       "close": 408.15,
@@ -466,9 +450,24 @@
       "volume": 237514,
       "deliverable_qty": 80797,
       "delivery_pct": 34.02
+    },
+    {
+      "date": "2026-05-15",
+      "close": 578.7,
+      "prev_close": 578.25,
+      "volume": 225288,
+      "deliverable_qty": 79637,
+      "delivery_pct": 35.35
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 18:51:32",
+      "an_dt": "14-May-2026 18:51:32",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "SG Finserve Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGFINSERVE_14052026185057_ESOP_Disclosure.pdf"
+    },
     {
       "sort_date": "2026-04-29 17:30:24",
       "an_dt": "29-Apr-2026 17:30:24",

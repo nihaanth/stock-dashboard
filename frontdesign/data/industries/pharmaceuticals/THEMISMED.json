@@ -8,25 +8,9 @@
   "price": 104.53,
   "market_cap_cr": 970.91,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 90.31,
-      "prev_close": 91.5,
-      "volume": 32729,
-      "deliverable_qty": 17526,
-      "delivery_pct": 53.55
-    },
-    {
-      "date": "2026-02-13",
-      "close": 90.83,
-      "prev_close": 90.31,
-      "volume": 79233,
-      "deliverable_qty": 29952,
-      "delivery_pct": 37.8
-    },
     {
       "date": "2026-02-16",
       "close": 91.07,
@@ -466,6 +450,14 @@
       "volume": 101739,
       "deliverable_qty": 41392,
       "delivery_pct": 40.68
+    },
+    {
+      "date": "2026-05-15",
+      "close": 97.63,
+      "prev_close": 99.18,
+      "volume": 44161,
+      "deliverable_qty": 20574,
+      "delivery_pct": 46.59
     }
   ],
   "news": [
@@ -587,41 +579,6 @@
       "desc": "Resignation",
       "sm_name": "Themis Medicare Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/THEMISMED_14022026140748_CS_Resignation_submission.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 22:00:09",
-      "an_dt": "13-Feb-2026 22:00:09",
-      "desc": "Appointment",
-      "sm_name": "Themis Medicare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THEMISMED_13022026215959_OutcomeTML13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:57:00",
-      "an_dt": "13-Feb-2026 21:57:00",
-      "desc": "Resignation",
-      "sm_name": "Themis Medicare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THEMISMED_13022026215639_OutcomeTML13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:42:57",
-      "an_dt": "13-Feb-2026 21:42:57",
-      "desc": "Investor Presentation",
-      "sm_name": "Themis Medicare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THEMISMED_13022026214246_SEIntimationInvestorpresentation13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:25:56",
-      "an_dt": "13-Feb-2026 21:25:56",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Themis Medicare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THEMISMED_13022026212003_OutcomeTML13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:02:55",
-      "an_dt": "13-Feb-2026 21:02:55",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Themis Medicare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THEMISMED_13022026210242_OutcomeTML13022026.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 175.13,
   "market_cap_cr": 1951.01,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 166.57,
-      "prev_close": 168.98,
-      "volume": 420957,
-      "deliverable_qty": 171939,
-      "delivery_pct": 40.84
-    },
-    {
-      "date": "2026-02-13",
-      "close": 170.05,
-      "prev_close": 166.57,
-      "volume": 1795679,
-      "deliverable_qty": 537558,
-      "delivery_pct": 29.94
-    },
     {
       "date": "2026-02-16",
       "close": 178.06,
@@ -466,6 +450,14 @@
       "volume": 1380764,
       "deliverable_qty": 480532,
       "delivery_pct": 34.8
+    },
+    {
+      "date": "2026-05-15",
+      "close": 195.3,
+      "prev_close": 202.34,
+      "volume": 769808,
+      "deliverable_qty": 318862,
+      "delivery_pct": 41.42
     }
   ],
   "news": [
@@ -594,48 +586,6 @@
       "desc": "General Updates",
       "sm_name": "DCX Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCX_2022_18022026164116_Receipt_of_Purchase_Orders_-_18th_February_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:57:12",
-      "an_dt": "13-Feb-2026 21:57:12",
-      "desc": "Investor Presentation",
-      "sm_name": "DCX Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCX_2022_13022026215650_Investor_Presentation_Q3_FY25-26.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 13:37:54",
-      "an_dt": "13-Feb-2026 13:37:54",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "DCX Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCX_2022_13022026133744_CoveringLetter_NewspaperAdvertisement.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 08:34:52",
-      "an_dt": "13-Feb-2026 08:34:52",
-      "desc": "Press Release",
-      "sm_name": "DCX Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCX_2022_13022026083355_Press_Release_Q3_FY_25-26.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:15:03",
-      "an_dt": "12-Feb-2026 19:15:03",
-      "desc": "General Updates",
-      "sm_name": "DCX Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCX_2022_12022026191453_Intimation_of_Govt_Order_ELTX.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:45:48",
-      "an_dt": "12-Feb-2026 18:45:48",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "DCX Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCX_2022_12022026184538_Monitoring_Agency_Report.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:43:08",
-      "an_dt": "12-Feb-2026 18:43:08",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "DCX Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCX_2022_12022026184204_Outcome_BM.pdf"
     }
   ]
 }

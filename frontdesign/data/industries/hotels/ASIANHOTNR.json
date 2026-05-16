@@ -8,25 +8,9 @@
   "price": 294.8,
   "market_cap_cr": 1256.83,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 287.9,
-      "prev_close": 299.65,
-      "volume": 15653,
-      "deliverable_qty": 5528,
-      "delivery_pct": 35.32
-    },
-    {
-      "date": "2026-02-13",
-      "close": 255.0,
-      "prev_close": 287.9,
-      "volume": 51711,
-      "deliverable_qty": 30683,
-      "delivery_pct": 59.34
-    },
     {
       "date": "2026-02-16",
       "close": 289.65,
@@ -466,9 +450,31 @@
       "volume": 6642,
       "deliverable_qty": 2420,
       "delivery_pct": 36.43
+    },
+    {
+      "date": "2026-05-15",
+      "close": 299.1,
+      "prev_close": 299.35,
+      "volume": 5418,
+      "deliverable_qty": 3225,
+      "delivery_pct": 59.52
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 22:22:42",
+      "an_dt": "15-May-2026 22:22:42",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Asian Hotels (North) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASIANHOTNR_15052026222209_IntimationtoSEregMonitoringAgencyReport15052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 18:11:34",
+      "an_dt": "15-May-2026 18:11:34",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Asian Hotels (North) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASIANHOTNR_15052026181107_IntimationofAdvertisementofSpecialwindow15052026.pdf"
+    },
     {
       "sort_date": "2026-05-08 19:22:44",
       "an_dt": "08-May-2026 19:22:44",
@@ -580,13 +586,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Asian Hotels (North) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASIANHOTNR_14022026132153_Newspaperpublication14022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:11:53",
-      "an_dt": "13-Feb-2026 19:11:53",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Asian Hotels (North) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASIANHOTNR_13022026190504_OutcomeofBoardMeeting13022026.pdf"
     }
   ]
 }

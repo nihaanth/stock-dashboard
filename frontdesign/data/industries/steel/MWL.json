@@ -8,25 +8,9 @@
   "price": 268.05,
   "market_cap_cr": 796.13,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 271.85,
-      "prev_close": 274.0,
-      "volume": 33441,
-      "deliverable_qty": 6439,
-      "delivery_pct": 19.25
-    },
-    {
-      "date": "2026-02-13",
-      "close": 271.2,
-      "prev_close": 271.85,
-      "volume": 22780,
-      "deliverable_qty": 14353,
-      "delivery_pct": 63.01
-    },
     {
       "date": "2026-02-16",
       "close": 267.1,
@@ -466,9 +450,31 @@
       "volume": 14683,
       "deliverable_qty": 10462,
       "delivery_pct": 71.25
+    },
+    {
+      "date": "2026-05-15",
+      "close": 355.1,
+      "prev_close": 350.8,
+      "volume": 65533,
+      "deliverable_qty": 31757,
+      "delivery_pct": 48.46
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:53:28",
+      "an_dt": "15-May-2026 18:53:28",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Mangalam Worldwide Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MWL_15052026185320_OUTCOMEOFBOARDMEETING15052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 18:31:41",
+      "an_dt": "15-May-2026 18:31:41",
+      "desc": "Stock split",
+      "sm_name": "Mangalam Worldwide Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MWL_15052026183117_OUTCOMEOFBOARDMEETING15052026.pdf"
+    },
     {
       "sort_date": "2026-05-11 17:30:51",
       "an_dt": "11-May-2026 17:30:51",

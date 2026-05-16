@@ -8,25 +8,9 @@
   "price": 690.45,
   "market_cap_cr": 5757.46,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 713.35,
-      "prev_close": 716.2,
-      "volume": 26489,
-      "deliverable_qty": 16814,
-      "delivery_pct": 63.48
-    },
-    {
-      "date": "2026-02-13",
-      "close": 701.45,
-      "prev_close": 713.35,
-      "volume": 28432,
-      "deliverable_qty": 17214,
-      "delivery_pct": 60.54
-    },
     {
       "date": "2026-02-16",
       "close": 731.25,
@@ -466,6 +450,14 @@
       "volume": 42686,
       "deliverable_qty": 20083,
       "delivery_pct": 47.05
+    },
+    {
+      "date": "2026-05-15",
+      "close": 685.5,
+      "prev_close": 681.35,
+      "volume": 21105,
+      "deliverable_qty": 9216,
+      "delivery_pct": 43.67
     }
   ],
   "news": [
@@ -489,13 +481,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "GANESH HOUSING LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GANESHHOUC_18022026155000_SEDISCLOSURE18022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 14:29:01",
-      "an_dt": "12-Feb-2026 14:29:01",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "GANESH HOUSING LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GANESHHOUC_12022026142854_SEDISCLOSUREEARNINGSCALLTRANSCRIPT12022026.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 295.95,
   "market_cap_cr": 1790.31,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 295.85,
-      "prev_close": 291.1,
-      "volume": 54840,
-      "deliverable_qty": 32711,
-      "delivery_pct": 59.65
-    },
-    {
-      "date": "2026-02-13",
-      "close": 291.6,
-      "prev_close": 295.85,
-      "volume": 24464,
-      "deliverable_qty": 15226,
-      "delivery_pct": 62.24
-    },
     {
       "date": "2026-02-16",
       "close": 293.35,
@@ -466,9 +450,24 @@
       "volume": 29547,
       "deliverable_qty": 20282,
       "delivery_pct": 68.64
+    },
+    {
+      "date": "2026-05-15",
+      "close": 296.6,
+      "prev_close": 296.75,
+      "volume": 38462,
+      "deliverable_qty": 20727,
+      "delivery_pct": 53.89
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 15:45:52",
+      "an_dt": "15-May-2026 15:45:52",
+      "desc": "Credit Rating",
+      "sm_name": "Panama Petrochem Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PANAMAPET_15052026154516_Intimation.pdf"
+    },
     {
       "sort_date": "2026-04-10 12:04:12",
       "an_dt": "10-Apr-2026 12:04:12",

@@ -8,25 +8,9 @@
   "price": 169.55,
   "market_cap_cr": 1291.42,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 176.08,
-      "prev_close": 176.66,
-      "volume": 21560,
-      "deliverable_qty": 10433,
-      "delivery_pct": 48.39
-    },
-    {
-      "date": "2026-02-13",
-      "close": 172.35,
-      "prev_close": 176.08,
-      "volume": 100093,
-      "deliverable_qty": 44727,
-      "delivery_pct": 44.69
-    },
     {
       "date": "2026-02-16",
       "close": 171.58,
@@ -466,9 +450,24 @@
       "volume": 57961,
       "deliverable_qty": 33922,
       "delivery_pct": 58.53
+    },
+    {
+      "date": "2026-05-15",
+      "close": 177.05,
+      "prev_close": 177.29,
+      "volume": 23933,
+      "deliverable_qty": 12793,
+      "delivery_pct": 53.45
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:14:13",
+      "an_dt": "15-May-2026 17:14:13",
+      "desc": "Shareholders meeting",
+      "sm_name": "Aurum PropTech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AURUM_15052026171250_SEIntimationPostalballot.pdf"
+    },
     {
       "sort_date": "2026-04-30 20:00:07",
       "an_dt": "30-Apr-2026 20:00:07",
@@ -650,13 +649,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Aurum PropTech Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AURUM_21022026151012_SEDisclosure.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:03:19",
-      "an_dt": "13-Feb-2026 16:03:19",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Aurum PropTech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AURUM_13022026160233_MAReportQ3FY26sd.pdf"
     }
   ]
 }

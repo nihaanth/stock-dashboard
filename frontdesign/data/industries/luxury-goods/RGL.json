@@ -8,25 +8,9 @@
   "price": 111.39,
   "market_cap_cr": 1195.5,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 127.42,
-      "prev_close": 127.7,
-      "volume": 1110736,
-      "deliverable_qty": 487650,
-      "delivery_pct": 43.9
-    },
-    {
-      "date": "2026-02-13",
-      "close": 116.44,
-      "prev_close": 127.42,
-      "volume": 2178500,
-      "deliverable_qty": 708043,
-      "delivery_pct": 32.5
-    },
     {
       "date": "2026-02-16",
       "close": 117.27,
@@ -466,9 +450,24 @@
       "volume": 618694,
       "deliverable_qty": 251703,
       "delivery_pct": 40.68
+    },
+    {
+      "date": "2026-05-15",
+      "close": 102.17,
+      "prev_close": 106.43,
+      "volume": 566850,
+      "deliverable_qty": 270759,
+      "delivery_pct": 47.77
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 21:04:57",
+      "an_dt": "15-May-2026 21:04:57",
+      "desc": "Press Release",
+      "sm_name": "Renaissance Global Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RJL1_15052026210357_RGLINTIMATIONSIGNED.pdf"
+    },
     {
       "sort_date": "2026-05-07 19:05:19",
       "an_dt": "07-May-2026 19:05:19",
@@ -545,41 +544,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Renaissance Global Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RJL1_16022026173227_RGLtranscripts16022026SIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:06:15",
-      "an_dt": "13-Feb-2026 18:06:15",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Renaissance Global Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RJL1_13022026180513_RGLCONCALLOUTCOMESIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 12:55:57",
-      "an_dt": "13-Feb-2026 12:55:57",
-      "desc": "Updates",
-      "sm_name": "Renaissance Global Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RJL1_13022026125355_RGLintimationSIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 20:03:55",
-      "an_dt": "12-Feb-2026 20:03:55",
-      "desc": "Investor Presentation",
-      "sm_name": "Renaissance Global Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RJL1_12022026200315_RGLpressRealeaseSIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:52:46",
-      "an_dt": "12-Feb-2026 19:52:46",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Renaissance Global Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RJL1_12022026195125_RGLFNINANCIALRESULTSIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:42:23",
-      "an_dt": "12-Feb-2026 19:42:23",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Renaissance Global Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RJL1_12022026193940_RGLFNINANCIALRESULTSIGNED.pdf"
     }
   ]
 }

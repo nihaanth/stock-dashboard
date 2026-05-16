@@ -8,25 +8,9 @@
   "price": 158.87,
   "market_cap_cr": 856.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 218.7,
-      "prev_close": 221.1,
-      "volume": 59877,
-      "deliverable_qty": 30878,
-      "delivery_pct": 51.57
-    },
-    {
-      "date": "2026-02-13",
-      "close": 210.97,
-      "prev_close": 218.7,
-      "volume": 122789,
-      "deliverable_qty": 73932,
-      "delivery_pct": 60.21
-    },
     {
       "date": "2026-02-16",
       "close": 211.44,
@@ -466,6 +450,14 @@
       "volume": 216594,
       "deliverable_qty": 153842,
       "delivery_pct": 71.03
+    },
+    {
+      "date": "2026-05-15",
+      "close": 150.35,
+      "prev_close": 152.45,
+      "volume": 90474,
+      "deliverable_qty": 63181,
+      "delivery_pct": 69.83
     }
   ],
   "news": [
@@ -566,13 +558,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Advent Hotels International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADVENTHTL_14022026130348_Advent_Nwspaper_advertiesment.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:27:13",
-      "an_dt": "13-Feb-2026 21:27:13",
-      "desc": "Shareholders meeting",
-      "sm_name": "Advent Hotels International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADVENTHTL_13022026212644_Advent_Postal_Ballot_Notice.pdf"
     }
   ]
 }

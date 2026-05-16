@@ -8,25 +8,9 @@
   "price": 1160.0,
   "market_cap_cr": 1949.08,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1188.5,
-      "prev_close": 1235.7,
-      "volume": 795096,
-      "deliverable_qty": 185923,
-      "delivery_pct": 23.38
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1167.5,
-      "prev_close": 1188.5,
-      "volume": 130906,
-      "deliverable_qty": 46978,
-      "delivery_pct": 35.89
-    },
     {
       "date": "2026-02-16",
       "close": 1161.5,
@@ -466,6 +450,14 @@
       "volume": 253368,
       "deliverable_qty": 100461,
       "delivery_pct": 39.65
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1404.8,
+      "prev_close": 1400.1,
+      "volume": 116187,
+      "deliverable_qty": 45778,
+      "delivery_pct": 39.4
     }
   ],
   "news": [
@@ -503,13 +495,6 @@
       "desc": "Agreements",
       "sm_name": "Kernex Microsystems (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KERNEX_07032026201406_Intimation_JV_BHEPL.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 11:11:04",
-      "an_dt": "12-Feb-2026 11:11:04",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Kernex Microsystems (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KERNEX_12022026110904_outcome12022026.pdf"
     }
   ]
 }

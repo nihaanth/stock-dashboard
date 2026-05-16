@@ -8,25 +8,9 @@
   "price": 1492.4,
   "market_cap_cr": 7311.85,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1838.7,
-      "prev_close": 1974.3,
-      "volume": 175179,
-      "deliverable_qty": 100147,
-      "delivery_pct": 57.17
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1766.5,
-      "prev_close": 1838.7,
-      "volume": 52025,
-      "deliverable_qty": 17948,
-      "delivery_pct": 34.5
-    },
     {
       "date": "2026-02-16",
       "close": 1744.9,
@@ -466,6 +450,14 @@
       "volume": 141352,
       "deliverable_qty": 113187,
       "delivery_pct": 80.07
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1458.1,
+      "prev_close": 1450.0,
+      "volume": 67243,
+      "deliverable_qty": 27614,
+      "delivery_pct": 41.07
     }
   ],
   "news": [
@@ -552,20 +544,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Safari Industries (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAFARI_17022026153546_SignedSEINTIMATION.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:23:41",
-      "an_dt": "13-Feb-2026 15:23:41",
-      "desc": "Shareholders meeting",
-      "sm_name": "Safari Industries (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAFARI_13022026152257_SEINTIMATIONPOSTALBALLOT.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:05:37",
-      "an_dt": "12-Feb-2026 18:05:37",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Safari Industries (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAFARI_12022026180514_SEINTIMATION.pdf"
     }
   ]
 }

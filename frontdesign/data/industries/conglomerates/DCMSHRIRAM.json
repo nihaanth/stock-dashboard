@@ -8,25 +8,9 @@
   "price": 1234.0,
   "market_cap_cr": 19108.07,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1132.6,
-      "prev_close": 1147.0,
-      "volume": 16670,
-      "deliverable_qty": 8735,
-      "delivery_pct": 52.4
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1114.4,
-      "prev_close": 1132.6,
-      "volume": 19317,
-      "deliverable_qty": 9347,
-      "delivery_pct": 48.39
-    },
     {
       "date": "2026-02-16",
       "close": 1122.8,
@@ -466,9 +450,31 @@
       "volume": 75506,
       "deliverable_qty": 43688,
       "delivery_pct": 57.86
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1127.2,
+      "prev_close": 1127.6,
+      "volume": 81530,
+      "deliverable_qty": 21441,
+      "delivery_pct": 26.3
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 21:56:39",
+      "an_dt": "15-May-2026 21:56:39",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "DCM Shriram Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCMSHRIRAM_15052026215608_DCMAUDIORECORDINGS15MAY2026SIGNED.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 14:38:58",
+      "an_dt": "14-May-2026 14:38:58",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "DCM Shriram Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCMSHRIRAM_14052026143843_INTIMATIONDCMADV14052026SIGNED.pdf"
+    },
     {
       "sort_date": "2026-05-13 20:15:51",
       "an_dt": "13-May-2026 20:15:51",

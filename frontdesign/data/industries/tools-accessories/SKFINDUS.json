@@ -8,25 +8,9 @@
   "price": 2107.6,
   "market_cap_cr": 10419.55,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 2461.6,
-      "prev_close": 2484.3,
-      "volume": 9429,
-      "deliverable_qty": 5435,
-      "delivery_pct": 57.64
-    },
-    {
-      "date": "2026-02-13",
-      "close": 2453.1,
-      "prev_close": 2461.6,
-      "volume": 6584,
-      "deliverable_qty": 3826,
-      "delivery_pct": 58.11
-    },
     {
       "date": "2026-02-16",
       "close": 2430.7,
@@ -466,9 +450,24 @@
       "volume": 60357,
       "deliverable_qty": 25605,
       "delivery_pct": 42.42
+    },
+    {
+      "date": "2026-05-15",
+      "close": 2064.2,
+      "prev_close": 2132.6,
+      "volume": 11017,
+      "deliverable_qty": 6616,
+      "delivery_pct": 60.05
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 19:32:29",
+      "an_dt": "14-May-2026 19:32:29",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "SKF India (Industrial) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SKFINDUS25_14052026193151_NSE.pdf"
+    },
     {
       "sort_date": "2026-05-13 22:07:24",
       "an_dt": "13-May-2026 22:07:24",

@@ -8,25 +8,9 @@
   "price": 67.2,
   "market_cap_cr": 1003.77,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 64.35,
-      "prev_close": 63.06,
-      "volume": 276153,
-      "deliverable_qty": 108191,
-      "delivery_pct": 39.18
-    },
-    {
-      "date": "2026-02-13",
-      "close": 61.41,
-      "prev_close": 64.35,
-      "volume": 68375,
-      "deliverable_qty": 42072,
-      "delivery_pct": 61.53
-    },
     {
       "date": "2026-02-16",
       "close": 60.12,
@@ -466,9 +450,24 @@
       "volume": 258037,
       "deliverable_qty": 150752,
       "delivery_pct": 58.42
+    },
+    {
+      "date": "2026-05-15",
+      "close": 67.94,
+      "prev_close": 66.3,
+      "volume": 175876,
+      "deliverable_qty": 94706,
+      "delivery_pct": 53.85
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:26:19",
+      "an_dt": "15-May-2026 19:26:19",
+      "desc": "General Updates",
+      "sm_name": "Bluspring Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLUSPRING_15052026192542_Regulation_30_Term_Loan_by_SPV-1.pdf"
+    },
     {
       "sort_date": "2026-05-13 17:12:22",
       "an_dt": "13-May-2026 17:12:22",

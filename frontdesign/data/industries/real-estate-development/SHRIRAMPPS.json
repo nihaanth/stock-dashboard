@@ -8,25 +8,9 @@
   "price": 92.54,
   "market_cap_cr": 1579.24,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 82.1,
-      "prev_close": 82.84,
-      "volume": 560748,
-      "deliverable_qty": 339246,
-      "delivery_pct": 60.5
-    },
-    {
-      "date": "2026-02-13",
-      "close": 84.36,
-      "prev_close": 82.1,
-      "volume": 2371065,
-      "deliverable_qty": 1068258,
-      "delivery_pct": 45.05
-    },
     {
       "date": "2026-02-16",
       "close": 81.82,
@@ -466,6 +450,14 @@
       "volume": 1334405,
       "deliverable_qty": 438698,
       "delivery_pct": 32.88
+    },
+    {
+      "date": "2026-05-15",
+      "close": 83.11,
+      "prev_close": 84.88,
+      "volume": 544353,
+      "deliverable_qty": 329176,
+      "delivery_pct": 60.47
     }
   ],
   "news": [
@@ -594,13 +586,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Shriram Properties Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHRIRAMPPS_14022026143713_Outcome_BM_Q3_FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:45:57",
-      "an_dt": "12-Feb-2026 18:45:57",
-      "desc": "Press Release",
-      "sm_name": "Shriram Properties Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHRIRAMPPS_12022026184551_SE_Intimation_Press_Release_Bengal.pdf"
     }
   ]
 }

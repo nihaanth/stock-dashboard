@@ -8,25 +8,9 @@
   "price": 3619.0,
   "market_cap_cr": 27221.66,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 3120.8,
-      "prev_close": 3193.6,
-      "volume": 11524,
-      "deliverable_qty": 7185,
-      "delivery_pct": 62.35
-    },
-    {
-      "date": "2026-02-13",
-      "close": 3062.8,
-      "prev_close": 3120.8,
-      "volume": 12452,
-      "deliverable_qty": 6063,
-      "delivery_pct": 48.69
-    },
     {
       "date": "2026-02-16",
       "close": 3041.9,
@@ -466,6 +450,14 @@
       "volume": 32520,
       "deliverable_qty": 19111,
       "delivery_pct": 58.77
+    },
+    {
+      "date": "2026-05-15",
+      "close": 3531.2,
+      "prev_close": 3515.2,
+      "volume": 14387,
+      "deliverable_qty": 6673,
+      "delivery_pct": 46.38
     }
   ],
   "news": [
@@ -559,20 +551,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Timken India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIMKEN_24022026151105_SE_Intimation_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:35:53",
-      "an_dt": "13-Feb-2026 17:35:53",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Timken India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIMKEN_13022026173234_SE_Transcript_InvestorsMeet.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:08:28",
-      "an_dt": "12-Feb-2026 15:08:28",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Timken India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIMKEN_12022026150713_SEIntimation_InvestorsMeet_Signed.pdf"
     }
   ]
 }

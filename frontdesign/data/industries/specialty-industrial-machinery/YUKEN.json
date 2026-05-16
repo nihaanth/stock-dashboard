@@ -8,25 +8,9 @@
   "price": 724.85,
   "market_cap_cr": 984.64,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 784.35,
-      "prev_close": 802.25,
-      "volume": 5649,
-      "deliverable_qty": 3497,
-      "delivery_pct": 61.9
-    },
-    {
-      "date": "2026-02-13",
-      "close": 747.3,
-      "prev_close": 784.35,
-      "volume": 6836,
-      "deliverable_qty": 4694,
-      "delivery_pct": 68.67
-    },
     {
       "date": "2026-02-16",
       "close": 761.1,
@@ -466,6 +450,14 @@
       "volume": 2580,
       "deliverable_qty": 2077,
       "delivery_pct": 80.5
+    },
+    {
+      "date": "2026-05-15",
+      "close": 687.35,
+      "prev_close": 706.0,
+      "volume": 8050,
+      "deliverable_qty": 5454,
+      "delivery_pct": 67.75
     }
   ],
   "news": [
@@ -510,13 +502,6 @@
       "desc": "Trading Window",
       "sm_name": "Yuken India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/YUKEN_24032026150805_Trading_Window_Closure.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:06:37",
-      "an_dt": "13-Feb-2026 15:06:37",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Yuken India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/YUKEN_13022026150501_Outcome_BM.pdf"
     }
   ]
 }

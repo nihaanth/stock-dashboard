@@ -8,25 +8,9 @@
   "price": 153.71,
   "market_cap_cr": 101065.55,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 163.72,
-      "prev_close": 163.47,
-      "volume": 13190080,
-      "deliverable_qty": 8159511,
-      "delivery_pct": 61.86
-    },
-    {
-      "date": "2026-02-13",
-      "close": 161.69,
-      "prev_close": 163.72,
-      "volume": 8523271,
-      "deliverable_qty": 5102349,
-      "delivery_pct": 59.86
-    },
     {
       "date": "2026-02-16",
       "close": 164.82,
@@ -466,9 +450,24 @@
       "volume": 8542104,
       "deliverable_qty": 4844816,
       "delivery_pct": 56.72
+    },
+    {
+      "date": "2026-05-15",
+      "close": 162.13,
+      "prev_close": 162.61,
+      "volume": 7062872,
+      "deliverable_qty": 3971307,
+      "delivery_pct": 56.23
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 14:52:56",
+      "an_dt": "15-May-2026 14:52:56",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "GAIL (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Himanshugail_15052026145240_Analyst_Meet_FY26.pdf"
+    },
     {
       "sort_date": "2026-05-11 17:32:24",
       "an_dt": "11-May-2026 17:32:24",
@@ -622,13 +621,6 @@
       "desc": "Change in Company Secretary/Compliance Officer",
       "sm_name": "GAIL (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DEVIKA_27022026175300_CS_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 20:15:13",
-      "an_dt": "12-Feb-2026 20:15:13",
-      "desc": "Change in Director(s)",
-      "sm_name": "GAIL (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DEVIKA_12022026201442_CMD_12022026.pdf"
     }
   ]
 }

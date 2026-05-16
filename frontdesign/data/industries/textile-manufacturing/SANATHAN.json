@@ -8,25 +8,9 @@
   "price": 442.25,
   "market_cap_cr": 3732.77,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 426.6,
-      "prev_close": 418.3,
-      "volume": 15247,
-      "deliverable_qty": 9008,
-      "delivery_pct": 59.08
-    },
-    {
-      "date": "2026-02-13",
-      "close": 427.3,
-      "prev_close": 426.6,
-      "volume": 7249,
-      "deliverable_qty": 3916,
-      "delivery_pct": 54.02
-    },
     {
       "date": "2026-02-16",
       "close": 428.4,
@@ -466,9 +450,38 @@
       "volume": 25196,
       "deliverable_qty": 17496,
       "delivery_pct": 69.44
+    },
+    {
+      "date": "2026-05-15",
+      "close": 433.1,
+      "prev_close": 431.0,
+      "volume": 11006,
+      "deliverable_qty": 7074,
+      "delivery_pct": 64.27
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:34:43",
+      "an_dt": "15-May-2026 19:34:43",
+      "desc": "Press Release",
+      "sm_name": "Sanathan Textiles Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANATHAN_15052026193432_Finalcoverletterwithpressrelease.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 19:27:20",
+      "an_dt": "15-May-2026 19:27:20",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Sanathan Textiles Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANATHAN_15052026192706_Monitoringagencyreportforfiling.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 19:12:04",
+      "an_dt": "15-May-2026 19:12:04",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Sanathan Textiles Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANATHAN_15052026191001_signedFinal_OutcomeofBoardMeeting.pdf"
+    },
     {
       "sort_date": "2026-05-07 17:53:14",
       "an_dt": "07-May-2026 17:53:14",

@@ -8,25 +8,9 @@
   "price": 260.65,
   "market_cap_cr": 4419.16,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 239.37,
-      "prev_close": 238.73,
-      "volume": 193490,
-      "deliverable_qty": 89653,
-      "delivery_pct": 46.33
-    },
-    {
-      "date": "2026-02-13",
-      "close": 239.56,
-      "prev_close": 239.37,
-      "volume": 134683,
-      "deliverable_qty": 62389,
-      "delivery_pct": 46.32
-    },
     {
       "date": "2026-02-16",
       "close": 237.86,
@@ -466,9 +450,24 @@
       "volume": 180121,
       "deliverable_qty": 78593,
       "delivery_pct": 43.63
+    },
+    {
+      "date": "2026-05-15",
+      "close": 260.2,
+      "prev_close": 258.75,
+      "volume": 385436,
+      "deliverable_qty": 270468,
+      "delivery_pct": 70.17
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:45:22",
+      "an_dt": "15-May-2026 17:45:22",
+      "desc": "Credit Rating",
+      "sm_name": "VST Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VSTIND_15052026174448_CreditRating.pdf"
+    },
     {
       "sort_date": "2026-04-23 09:52:16",
       "an_dt": "23-Apr-2026 09:52:16",

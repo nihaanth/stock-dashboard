@@ -8,25 +8,9 @@
   "price": 183.67,
   "market_cap_cr": 1324.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 217.93,
-      "prev_close": 216.25,
-      "volume": 683074,
-      "deliverable_qty": 236446,
-      "delivery_pct": 34.61
-    },
-    {
-      "date": "2026-02-13",
-      "close": 217.84,
-      "prev_close": 217.93,
-      "volume": 1053076,
-      "deliverable_qty": 408029,
-      "delivery_pct": 38.75
-    },
     {
       "date": "2026-02-16",
       "close": 213.46,
@@ -466,6 +450,14 @@
       "volume": 1056519,
       "deliverable_qty": 395166,
       "delivery_pct": 37.4
+    },
+    {
+      "date": "2026-05-15",
+      "close": 209.2,
+      "prev_close": 215.27,
+      "volume": 245254,
+      "deliverable_qty": 115911,
+      "delivery_pct": 47.26
     }
   ],
   "news": [
@@ -566,27 +558,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Shanti Gold International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHANTIGOLD_17022026165924_Transcript_Q3_FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:28:18",
-      "an_dt": "13-Feb-2026 17:28:18",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Shanti Gold International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHANTIGOLD_13022026172806_Investor_Conference_Meet_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:00:07",
-      "an_dt": "13-Feb-2026 17:00:07",
-      "desc": "General Updates",
-      "sm_name": "Shanti Gold International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHANTIGOLD_13022026165958_Material_Event_Intimation_Acquisition.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:21:31",
-      "an_dt": "12-Feb-2026 15:21:31",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Shanti Gold International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHANTIGOLD_12022026152119_Newspaper_Publication.pdf"
     }
   ]
 }

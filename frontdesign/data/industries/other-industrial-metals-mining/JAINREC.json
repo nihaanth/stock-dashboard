@@ -8,25 +8,9 @@
   "price": 559.4,
   "market_cap_cr": 19304.1,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 396.7,
-      "prev_close": 392.5,
-      "volume": 1353898,
-      "deliverable_qty": 465501,
-      "delivery_pct": 34.38
-    },
-    {
-      "date": "2026-02-13",
-      "close": 382.5,
-      "prev_close": 396.7,
-      "volume": 1140426,
-      "deliverable_qty": 506410,
-      "delivery_pct": 44.41
-    },
     {
       "date": "2026-02-16",
       "close": 378.05,
@@ -466,9 +450,31 @@
       "volume": 2499566,
       "deliverable_qty": 542999,
       "delivery_pct": 21.72
+    },
+    {
+      "date": "2026-05-15",
+      "close": 566.15,
+      "prev_close": 565.0,
+      "volume": 2009902,
+      "deliverable_qty": 525722,
+      "delivery_pct": 26.16
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 13:33:38",
+      "an_dt": "14-May-2026 13:33:38",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Jain Resource Recycling Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAINMETAL_14052026133318_Earnings_Call_Invite_Final_sd.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 13:17:43",
+      "an_dt": "14-May-2026 13:17:43",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Jain Resource Recycling Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAINMETAL_14052026131637_Monitoring_Agency_Report_sd.pdf"
+    },
     {
       "sort_date": "2026-05-13 19:06:53",
       "an_dt": "13-May-2026 19:06:53",
@@ -566,20 +572,6 @@
       "desc": "Monitoring Agency Report",
       "sm_name": "Jain Resource Recycling Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAINMETAL_14022026220749_MonitoringAgencyReportIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:56:28",
-      "an_dt": "13-Feb-2026 19:56:28",
-      "desc": "General Updates",
-      "sm_name": "Jain Resource Recycling Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAINMETAL_13022026195440_Intimation_-_Reg_30_read_with_Schedule_III-Part_A_13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:26:29",
-      "an_dt": "12-Feb-2026 17:26:29",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Jain Resource Recycling Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAINMETAL_12022026172515_Intimationofinvestormeet17022026.pdf"
     }
   ]
 }

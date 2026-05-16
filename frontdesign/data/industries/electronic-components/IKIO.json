@@ -8,25 +8,9 @@
   "price": 171.09,
   "market_cap_cr": 1322.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 150.26,
-      "prev_close": 153.66,
-      "volume": 67825,
-      "deliverable_qty": 35949,
-      "delivery_pct": 53.0
-    },
-    {
-      "date": "2026-02-13",
-      "close": 147.89,
-      "prev_close": 150.26,
-      "volume": 136358,
-      "deliverable_qty": 53482,
-      "delivery_pct": 39.22
-    },
     {
       "date": "2026-02-16",
       "close": 145.59,
@@ -466,9 +450,24 @@
       "volume": 87339,
       "deliverable_qty": 35398,
       "delivery_pct": 40.53
+    },
+    {
+      "date": "2026-05-15",
+      "close": 156.05,
+      "prev_close": 158.73,
+      "volume": 79016,
+      "deliverable_qty": 42136,
+      "delivery_pct": 53.33
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:24:30",
+      "an_dt": "15-May-2026 18:24:30",
+      "desc": "Updates",
+      "sm_name": "IKIO Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IKIO_15052026182405_InvestorIntimation20052026.pdf"
+    },
     {
       "sort_date": "2026-05-08 13:33:21",
       "an_dt": "08-May-2026 13:33:21",

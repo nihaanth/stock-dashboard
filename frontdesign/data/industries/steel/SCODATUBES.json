@@ -8,25 +8,9 @@
   "price": 158.35,
   "market_cap_cr": 948.66,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 141.09,
-      "prev_close": 142.35,
-      "volume": 34820,
-      "deliverable_qty": 15163,
-      "delivery_pct": 43.55
-    },
-    {
-      "date": "2026-02-13",
-      "close": 137.45,
-      "prev_close": 141.09,
-      "volume": 43509,
-      "deliverable_qty": 21392,
-      "delivery_pct": 49.17
-    },
     {
       "date": "2026-02-16",
       "close": 139.19,
@@ -466,9 +450,24 @@
       "volume": 174739,
       "deliverable_qty": 81785,
       "delivery_pct": 46.8
+    },
+    {
+      "date": "2026-05-15",
+      "close": 146.96,
+      "prev_close": 151.71,
+      "volume": 253454,
+      "deliverable_qty": 152558,
+      "delivery_pct": 60.19
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 16:51:03",
+      "an_dt": "15-May-2026 16:51:03",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Scoda Tubes Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SCODA_15052026165052_Covering_-_MA_report.pdf"
+    },
     {
       "sort_date": "2026-04-16 11:43:50",
       "an_dt": "16-Apr-2026 11:43:50",

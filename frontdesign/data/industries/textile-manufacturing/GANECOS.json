@@ -8,25 +8,9 @@
   "price": 1041.3,
   "market_cap_cr": 2786.81,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 837.55,
-      "prev_close": 846.0,
-      "volume": 64704,
-      "deliverable_qty": 27744,
-      "delivery_pct": 42.88
-    },
-    {
-      "date": "2026-02-13",
-      "close": 803.85,
-      "prev_close": 837.55,
-      "volume": 92512,
-      "deliverable_qty": 46897,
-      "delivery_pct": 50.69
-    },
     {
       "date": "2026-02-16",
       "close": 799.2,
@@ -466,9 +450,24 @@
       "volume": 166015,
       "deliverable_qty": 54270,
       "delivery_pct": 32.69
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1016.9,
+      "prev_close": 1027.4,
+      "volume": 85565,
+      "deliverable_qty": 36781,
+      "delivery_pct": 42.99
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 22:25:44",
+      "an_dt": "15-May-2026 22:25:44",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Ganesha Ecosphere Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GANECOS_15052026222522_ilovepdf_merged__13_.pdf"
+    },
     {
       "sort_date": "2026-04-08 19:21:38",
       "an_dt": "08-Apr-2026 19:21:38",
@@ -489,20 +488,6 @@
       "desc": "Trading Window",
       "sm_name": "Ganesha Ecosphere Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GANECOS_25032026191110_twc_intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:20:00",
-      "an_dt": "13-Feb-2026 19:20:00",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Ganesha Ecosphere Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GANECOS_13022026191513_intimation_transcript_s.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:33:27",
-      "an_dt": "12-Feb-2026 19:33:27",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Ganesha Ecosphere Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GANECOS_12022026193301_monitoring_agency_report.pdf"
     }
   ]
 }

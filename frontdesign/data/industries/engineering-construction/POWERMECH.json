@@ -8,25 +8,9 @@
   "price": 2526.5,
   "market_cap_cr": 7987.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 2141.2,
-      "prev_close": 2177.1,
-      "volume": 47493,
-      "deliverable_qty": 16782,
-      "delivery_pct": 35.34
-    },
-    {
-      "date": "2026-02-13",
-      "close": 2096.8,
-      "prev_close": 2141.2,
-      "volume": 61142,
-      "deliverable_qty": 20818,
-      "delivery_pct": 34.05
-    },
     {
       "date": "2026-02-16",
       "close": 2097.2,
@@ -466,6 +450,14 @@
       "volume": 42027,
       "deliverable_qty": 18375,
       "delivery_pct": 43.72
+    },
+    {
+      "date": "2026-05-15",
+      "close": 2441.0,
+      "prev_close": 2450.2,
+      "volume": 54936,
+      "deliverable_qty": 28567,
+      "delivery_pct": 52.0
     }
   ],
   "news": [
@@ -535,7 +527,7 @@
     {
       "sort_date": "2026-03-09 17:55:33",
       "an_dt": "09-Mar-2026 17:55:33",
-      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
+      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
       "sm_name": "Power Mech Projects Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/POWERMECH_09032026175336_Disclosure.pdf"
     },
@@ -566,13 +558,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "Power Mech Projects Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/POWERMECH_18022026121929_Disclosure.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:14:16",
-      "an_dt": "12-Feb-2026 13:14:16",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Power Mech Projects Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POWERMECH_12022026131408_CL_Link.pdf"
     }
   ]
 }

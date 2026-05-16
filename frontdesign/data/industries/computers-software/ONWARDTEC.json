@@ -8,25 +8,9 @@
   "price": 251.32,
   "market_cap_cr": 565.76,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 308.1,
-      "prev_close": 317.65,
-      "volume": 61287,
-      "deliverable_qty": 38709,
-      "delivery_pct": 63.16
-    },
-    {
-      "date": "2026-02-13",
-      "close": 290.25,
-      "prev_close": 308.1,
-      "volume": 109577,
-      "deliverable_qty": 57726,
-      "delivery_pct": 52.68
-    },
     {
       "date": "2026-02-16",
       "close": 277.6,
@@ -466,9 +450,24 @@
       "volume": 95430,
       "deliverable_qty": 61749,
       "delivery_pct": 64.71
+    },
+    {
+      "date": "2026-05-15",
+      "close": 271.17,
+      "prev_close": 266.94,
+      "volume": 227160,
+      "deliverable_qty": 129199,
+      "delivery_pct": 56.88
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 13:38:51",
+      "an_dt": "14-May-2026 13:38:51",
+      "desc": "Public Announcement - Buyback of Shares",
+      "sm_name": "Onward Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MD11015_14052026133835_Newapaper_Intiamtion_Public_Announcement_130526.pdf"
+    },
     {
       "sort_date": "2026-05-12 12:29:39",
       "an_dt": "12-May-2026 12:29:39",

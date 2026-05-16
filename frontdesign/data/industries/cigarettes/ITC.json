@@ -8,25 +8,9 @@
   "price": 305.85,
   "market_cap_cr": 383213.79,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 317.45,
-      "prev_close": 318.25,
-      "volume": 13294561,
-      "deliverable_qty": 5941271,
-      "delivery_pct": 44.69
-    },
-    {
-      "date": "2026-02-13",
-      "close": 313.75,
-      "prev_close": 317.45,
-      "volume": 8730618,
-      "deliverable_qty": 5066684,
-      "delivery_pct": 58.03
-    },
     {
       "date": "2026-02-16",
       "close": 317.95,
@@ -466,6 +450,14 @@
       "volume": 13024778,
       "deliverable_qty": 8549854,
       "delivery_pct": 65.64
+    },
+    {
+      "date": "2026-05-15",
+      "close": 309.45,
+      "prev_close": 307.2,
+      "volume": 11954564,
+      "deliverable_qty": 6440588,
+      "delivery_pct": 53.88
     }
   ],
   "news": [
@@ -566,20 +558,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "ITC Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ITC_18022026143926_SEIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:24:31",
-      "an_dt": "13-Feb-2026 16:24:31",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "ITC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ITC_13022026162357_SEIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 10:56:56",
-      "an_dt": "12-Feb-2026 10:56:56",
-      "desc": "Shareholders meeting",
-      "sm_name": "ITC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ITC_12022026105640_SE.pdf"
     }
   ]
 }

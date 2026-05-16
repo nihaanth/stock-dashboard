@@ -8,25 +8,9 @@
   "price": 105.28,
   "market_cap_cr": 2532.15,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 84.27,
-      "prev_close": 84.91,
-      "volume": 213891,
-      "deliverable_qty": 144469,
-      "delivery_pct": 67.54
-    },
-    {
-      "date": "2026-02-13",
-      "close": 80.48,
-      "prev_close": 84.27,
-      "volume": 210391,
-      "deliverable_qty": 110812,
-      "delivery_pct": 52.67
-    },
     {
       "date": "2026-02-16",
       "close": 80.2,
@@ -466,9 +450,31 @@
       "volume": 773474,
       "deliverable_qty": 351136,
       "delivery_pct": 45.4
+    },
+    {
+      "date": "2026-05-15",
+      "close": 96.23,
+      "prev_close": 99.72,
+      "volume": 365116,
+      "deliverable_qty": 192078,
+      "delivery_pct": 52.61
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 14:55:59",
+      "an_dt": "15-May-2026 14:55:59",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Nitco Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NITCO_15052026145540_Monitoring_Agency_SE_March312026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 12:40:38",
+      "an_dt": "14-May-2026 12:40:38",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Nitco Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NITCO_14052026124030_Newapaperadvertisement_SE.pdf"
+    },
     {
       "sort_date": "2026-05-13 22:14:55",
       "an_dt": "13-May-2026 22:14:55",
@@ -622,34 +628,6 @@
       "desc": "General Updates",
       "sm_name": "Nitco Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NITCO_14022026212709_Investors.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:55:23",
-      "an_dt": "13-Feb-2026 17:55:23",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Nitco Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NITCO_13022026175514_MonitoringAgency_December312025_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:31:24",
-      "an_dt": "13-Feb-2026 11:31:24",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Nitco Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NITCO_13022026113115_NewspaperSEletter_February132025.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:02:37",
-      "an_dt": "12-Feb-2026 19:02:37",
-      "desc": "Change in Management",
-      "sm_name": "Nitco Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NITCO_12022026190224_Outcome_of_Board_meeting_Dec_2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:31:50",
-      "an_dt": "12-Feb-2026 18:31:50",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Nitco Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NITCO_12022026183115_Outcome_of_Board_meeting_Dec_2025.pdf"
     }
   ]
 }

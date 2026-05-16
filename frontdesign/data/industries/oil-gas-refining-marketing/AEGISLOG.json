@@ -8,25 +8,9 @@
   "price": 686.8,
   "market_cap_cr": 24106.68,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 711.55,
-      "prev_close": 716.35,
-      "volume": 225991,
-      "deliverable_qty": 125254,
-      "delivery_pct": 55.42
-    },
-    {
-      "date": "2026-02-13",
-      "close": 700.15,
-      "prev_close": 711.55,
-      "volume": 150056,
-      "deliverable_qty": 68946,
-      "delivery_pct": 45.95
-    },
     {
       "date": "2026-02-16",
       "close": 703.2,
@@ -466,6 +450,14 @@
       "volume": 555814,
       "deliverable_qty": 327835,
       "delivery_pct": 58.98
+    },
+    {
+      "date": "2026-05-15",
+      "close": 674.15,
+      "prev_close": 653.55,
+      "volume": 713621,
+      "deliverable_qty": 225687,
+      "delivery_pct": 31.63
     }
   ],
   "news": [
@@ -552,20 +544,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Aegis Logistics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AEGISCHEM_18022026130159_ALL_Investormeet_2102_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:55:09",
-      "an_dt": "13-Feb-2026 18:55:09",
-      "desc": "Agreements",
-      "sm_name": "Aegis Logistics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AEGISCHEM_13022026185257_ALL_SE_DOAintimation_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:16:37",
-      "an_dt": "13-Feb-2026 16:16:37",
-      "desc": "Credit Rating- New",
-      "sm_name": "Aegis Logistics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AEGISCHEM_13022026161417_ALL_SE_ESGrating_s.pdf"
     }
   ]
 }

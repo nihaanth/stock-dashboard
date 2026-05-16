@@ -8,25 +8,9 @@
   "price": 7741.0,
   "market_cap_cr": 66018.52,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 6440.5,
-      "prev_close": 6487.5,
-      "volume": 41787,
-      "deliverable_qty": 18724,
-      "delivery_pct": 44.81
-    },
-    {
-      "date": "2026-02-13",
-      "close": 6900.0,
-      "prev_close": 6440.5,
-      "volume": 404286,
-      "deliverable_qty": 102409,
-      "delivery_pct": 25.33
-    },
     {
       "date": "2026-02-16",
       "close": 6768.0,
@@ -466,6 +450,14 @@
       "volume": 28968,
       "deliverable_qty": 14487,
       "delivery_pct": 50.01
+    },
+    {
+      "date": "2026-05-15",
+      "close": 7352.0,
+      "prev_close": 7413.5,
+      "volume": 19165,
+      "deliverable_qty": 9940,
+      "delivery_pct": 51.87
     }
   ],
   "news": [
@@ -524,20 +516,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Linde India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LINDEINDIA_05032026182710_Linde_India_Proccedings.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:40:54",
-      "an_dt": "13-Feb-2026 20:40:54",
-      "desc": "Shareholders meeting",
-      "sm_name": "Linde India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LINDEINDIA_13022026203623_Linde_India_Voting_results_Postal_Ballot.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 11:23:57",
-      "an_dt": "12-Feb-2026 11:23:57",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Linde India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LINDEINDIA_12022026112345_LIL_SE_intimation_Newspaper_Publication_Notice_of_EGM.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 410.8,
   "market_cap_cr": 1990.68,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 303.4,
-      "prev_close": 306.4,
-      "volume": 93158,
-      "deliverable_qty": 44974,
-      "delivery_pct": 48.28
-    },
-    {
-      "date": "2026-02-13",
-      "close": 304.35,
-      "prev_close": 303.4,
-      "volume": 156042,
-      "deliverable_qty": 64731,
-      "delivery_pct": 41.48
-    },
     {
       "date": "2026-02-16",
       "close": 299.95,
@@ -466,9 +450,24 @@
       "volume": 983744,
       "deliverable_qty": 344349,
       "delivery_pct": 35.0
+    },
+    {
+      "date": "2026-05-15",
+      "close": 307.95,
+      "prev_close": 322.4,
+      "volume": 353313,
+      "deliverable_qty": 208639,
+      "delivery_pct": 59.05
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 14:02:49",
+      "an_dt": "15-May-2026 14:02:49",
+      "desc": "General Updates",
+      "sm_name": "Dynamic Cables Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DYNAMICCABLES_15052026140241_BSE_NSE_Corporate_Presentation.pdf"
+    },
     {
       "sort_date": "2026-05-12 16:14:25",
       "an_dt": "12-May-2026 16:14:25",
@@ -566,20 +565,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Dynamic Cables Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DYNAMICCABLES_03032026142600_INVESTORMEETDCL.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:18:23",
-      "an_dt": "12-Feb-2026 19:18:23",
-      "desc": "Press Release",
-      "sm_name": "Dynamic Cables Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DYNAMICCABLES_12022026191811_Productlaunch.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:16:13",
-      "an_dt": "12-Feb-2026 19:16:13",
-      "desc": "Product launch",
-      "sm_name": "Dynamic Cables Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DYNAMICCABLES_12022026191604_Productlaunch.pdf"
     }
   ]
 }

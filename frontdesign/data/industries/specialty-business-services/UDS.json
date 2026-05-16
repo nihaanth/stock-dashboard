@@ -8,25 +8,9 @@
   "price": 173.13,
   "market_cap_cr": 1169.25,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 159.04,
-      "prev_close": 162.06,
-      "volume": 127157,
-      "deliverable_qty": 71780,
-      "delivery_pct": 56.45
-    },
-    {
-      "date": "2026-02-13",
-      "close": 153.62,
-      "prev_close": 159.04,
-      "volume": 120043,
-      "deliverable_qty": 54309,
-      "delivery_pct": 45.24
-    },
     {
       "date": "2026-02-16",
       "close": 156.39,
@@ -466,9 +450,24 @@
       "volume": 218469,
       "deliverable_qty": 94503,
       "delivery_pct": 43.26
+    },
+    {
+      "date": "2026-05-15",
+      "close": 172.63,
+      "prev_close": 171.72,
+      "volume": 147571,
+      "deliverable_qty": 91870,
+      "delivery_pct": 62.25
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 16:04:13",
+      "an_dt": "15-May-2026 16:04:13",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Updater Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COMPLIANCEOFFICERUDS_15052026160354_Reg_32_6__Monitoring_Agency_Report_Sd.pdf"
+    },
     {
       "sort_date": "2026-04-25 11:31:09",
       "an_dt": "25-Apr-2026 11:31:09",
@@ -517,13 +516,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Updater Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/COMPLIANCEOFFICERUDS_04032026150902_Reg_30_6__Investor_Conference_Intimation_Sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:22:31",
-      "an_dt": "13-Feb-2026 18:22:31",
-      "desc": "Action(s) taken or orders passed",
-      "sm_name": "Updater Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COMPLIANCEOFFICERUDS_13022026182206_UDS-Tamil_Nadu_-Order_Intimation_F_sd.pdf"
     }
   ]
 }

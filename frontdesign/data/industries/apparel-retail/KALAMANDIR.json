@@ -8,25 +8,9 @@
   "price": 116.18,
   "market_cap_cr": 1711.91,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 114.22,
-      "prev_close": 115.65,
-      "volume": 313617,
-      "deliverable_qty": 140702,
-      "delivery_pct": 44.86
-    },
-    {
-      "date": "2026-02-13",
-      "close": 115.72,
-      "prev_close": 114.22,
-      "volume": 490492,
-      "deliverable_qty": 178188,
-      "delivery_pct": 36.33
-    },
     {
       "date": "2026-02-16",
       "close": 113.15,
@@ -466,9 +450,24 @@
       "volume": 3966965,
       "deliverable_qty": 850176,
       "delivery_pct": 21.43
+    },
+    {
+      "date": "2026-05-15",
+      "close": 103.06,
+      "prev_close": 110.65,
+      "volume": 1401177,
+      "deliverable_qty": 752129,
+      "delivery_pct": 53.68
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 20:46:02",
+      "an_dt": "15-May-2026 20:46:02",
+      "desc": "General Updates",
+      "sm_name": "Sai Silks (Kalamandir) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SSKL_15052026204555_Q4resultsR.pdf"
+    },
     {
       "sort_date": "2026-05-13 14:53:44",
       "an_dt": "13-May-2026 14:53:44",

@@ -8,25 +8,9 @@
   "price": 549.9,
   "market_cap_cr": 7708.98,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 505.8,
-      "prev_close": 501.15,
-      "volume": 514999,
-      "deliverable_qty": 224206,
-      "delivery_pct": 43.54
-    },
-    {
-      "date": "2026-02-13",
-      "close": 494.85,
-      "prev_close": 505.8,
-      "volume": 132229,
-      "deliverable_qty": 65304,
-      "delivery_pct": 49.39
-    },
     {
       "date": "2026-02-16",
       "close": 490.15,
@@ -466,9 +450,24 @@
       "volume": 1382217,
       "deliverable_qty": 406921,
       "delivery_pct": 29.44
+    },
+    {
+      "date": "2026-05-15",
+      "close": 500.2,
+      "prev_close": 520.4,
+      "volume": 766728,
+      "deliverable_qty": 352408,
+      "delivery_pct": 45.96
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 12:31:31",
+      "an_dt": "14-May-2026 12:31:31",
+      "desc": "Updates",
+      "sm_name": "BOROSIL RENEWABLES LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BORORENEW12_14052026123028_LETTER.pdf"
+    },
     {
       "sort_date": "2026-05-13 19:01:06",
       "an_dt": "13-May-2026 19:01:06",
@@ -629,13 +628,6 @@
       "desc": "Updates",
       "sm_name": "BOROSIL RENEWABLES LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BORORENEW1_18022026123943_Intimation_MediaInteraction.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:51:54",
-      "an_dt": "13-Feb-2026 11:51:54",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "BOROSIL RENEWABLES LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BORORENEW11_13022026115058_INTIMATION.pdf"
     }
   ]
 }

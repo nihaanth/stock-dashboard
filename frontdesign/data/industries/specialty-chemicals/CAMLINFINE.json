@@ -8,25 +8,9 @@
   "price": 126.45,
   "market_cap_cr": 2429.0,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 169.55,
-      "prev_close": 172.47,
-      "volume": 308629,
-      "deliverable_qty": 173198,
-      "delivery_pct": 56.12
-    },
-    {
-      "date": "2026-02-13",
-      "close": 165.98,
-      "prev_close": 169.55,
-      "volume": 461330,
-      "deliverable_qty": 252252,
-      "delivery_pct": 54.68
-    },
     {
       "date": "2026-02-16",
       "close": 149.85,
@@ -466,9 +450,24 @@
       "volume": 861105,
       "deliverable_qty": 459483,
       "delivery_pct": 53.36
+    },
+    {
+      "date": "2026-05-15",
+      "close": 125.35,
+      "prev_close": 123.42,
+      "volume": 3185498,
+      "deliverable_qty": 971888,
+      "delivery_pct": 30.51
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:20:47",
+      "an_dt": "15-May-2026 17:20:47",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Camlin Fine Sciences Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAMLINFINE_15052026172036_SE_Disclosure_MA_Report_31032026.pdf"
+    },
     {
       "sort_date": "2026-05-08 15:18:23",
       "an_dt": "08-May-2026 15:18:23",
@@ -608,34 +607,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Camlin Fine Sciences Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAMLINFINE_14022026190829_UFR_as_on_31122025_Newspaper_Advertisement.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:59:57",
-      "an_dt": "13-Feb-2026 18:59:57",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Camlin Fine Sciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAMLINFINE_13022026185939_Intimation_-_Audio_Recording_of_the_Investor_Call_Q3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:53:27",
-      "an_dt": "13-Feb-2026 16:53:27",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Camlin Fine Sciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAMLINFINE_13022026165316_SE_Disclosure_MA_Report_31122025.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:38:27",
-      "an_dt": "13-Feb-2026 16:38:27",
-      "desc": "Investor Presentation",
-      "sm_name": "Camlin Fine Sciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAMLINFINE_13022026163816_SE_Disclosure_of_Investor_Presentation_Q3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:22:45",
-      "an_dt": "13-Feb-2026 16:22:45",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Camlin Fine Sciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAMLINFINE_13022026162221_Outcome_of_BM_13022026.pdf"
     }
   ]
 }

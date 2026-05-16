@@ -8,25 +8,9 @@
   "price": 439.0,
   "market_cap_cr": 3009.8,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 366.5,
-      "prev_close": 366.55,
-      "volume": 25825,
-      "deliverable_qty": 16636,
-      "delivery_pct": 64.42
-    },
-    {
-      "date": "2026-02-13",
-      "close": 357.15,
-      "prev_close": 366.5,
-      "volume": 26155,
-      "deliverable_qty": 17208,
-      "delivery_pct": 65.79
-    },
     {
       "date": "2026-02-16",
       "close": 368.85,
@@ -466,6 +450,14 @@
       "volume": 39049,
       "deliverable_qty": 19730,
       "delivery_pct": 50.53
+    },
+    {
+      "date": "2026-05-15",
+      "close": 409.2,
+      "prev_close": 412.85,
+      "volume": 39269,
+      "deliverable_qty": 17090,
+      "delivery_pct": 43.52
     }
   ],
   "news": [
@@ -524,20 +516,6 @@
       "desc": "Updates",
       "sm_name": "Savita Oil Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOTL_25022026151748_investorpresentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:13:56",
-      "an_dt": "13-Feb-2026 18:13:56",
-      "desc": "Updates",
-      "sm_name": "Savita Oil Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOTL_13022026181332_earningsrelease.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:48:03",
-      "an_dt": "13-Feb-2026 17:48:03",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Savita Oil Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOTL_13022026174717_results13022026.pdf"
     }
   ]
 }

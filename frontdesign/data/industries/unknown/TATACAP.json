@@ -8,25 +8,9 @@
   "price": 314.95,
   "market_cap_cr": 132804.75,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 356.9,
-      "prev_close": 357.6,
-      "volume": 2369562,
-      "deliverable_qty": 1557706,
-      "delivery_pct": 65.74
-    },
-    {
-      "date": "2026-02-13",
-      "close": 353.3,
-      "prev_close": 356.9,
-      "volume": 1402451,
-      "deliverable_qty": 944002,
-      "delivery_pct": 67.31
-    },
     {
       "date": "2026-02-16",
       "close": 356.65,
@@ -466,6 +450,14 @@
       "volume": 3272410,
       "deliverable_qty": 2024377,
       "delivery_pct": 61.86
+    },
+    {
+      "date": "2026-05-15",
+      "close": 307.95,
+      "prev_close": 309.85,
+      "volume": 1032213,
+      "deliverable_qty": 549739,
+      "delivery_pct": 53.26
     }
   ],
   "news": [
@@ -650,13 +642,6 @@
       "desc": "Acquisition",
       "sm_name": "Tata Capital Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATACAPITAL_20022026184833_StockExchangeIntimationIncorporationofStepDownSubsidiaries.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 11:46:48",
-      "an_dt": "12-Feb-2026 11:46:48",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Tata Capital Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATACAPITAL_12022026113443_ScheduleofAnalystMeetFebruary2026signed.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 264.06,
   "market_cap_cr": 1495.92,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 231.01,
-      "prev_close": 239.18,
-      "volume": 72913,
-      "deliverable_qty": 36791,
-      "delivery_pct": 50.46
-    },
-    {
-      "date": "2026-02-13",
-      "close": 241.41,
-      "prev_close": 231.01,
-      "volume": 151770,
-      "deliverable_qty": 78726,
-      "delivery_pct": 51.87
-    },
     {
       "date": "2026-02-16",
       "close": 234.24,
@@ -466,9 +450,31 @@
       "volume": 301438,
       "deliverable_qty": 127320,
       "delivery_pct": 42.24
+    },
+    {
+      "date": "2026-05-15",
+      "close": 236.2,
+      "prev_close": 236.72,
+      "volume": 128317,
+      "deliverable_qty": 62905,
+      "delivery_pct": 49.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 14:40:33",
+      "an_dt": "14-May-2026 14:40:33",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Platinum Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PLATINUM_14052026144023_Newspaper_Advertisement.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 14:39:06",
+      "an_dt": "14-May-2026 14:39:06",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Platinum Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PLATINUM_14052026143857_Monitoring_Agency_Report.pdf"
+    },
     {
       "sort_date": "2026-05-13 18:33:34",
       "an_dt": "13-May-2026 18:33:34",
@@ -594,48 +600,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Platinum Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PLATINUM_14022026133645_Newspaper_Advertisement_Dec_2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 22:28:40",
-      "an_dt": "13-Feb-2026 22:28:40",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Platinum Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PLATINUM_13022026222829_Monitoring_Agency_Report_Dec_2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:52:34",
-      "an_dt": "13-Feb-2026 17:52:34",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Platinum Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PLATINUM_13022026175213_Earnings_Call_recording-Outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:03:18",
-      "an_dt": "13-Feb-2026 14:03:18",
-      "desc": "Updates",
-      "sm_name": "Platinum Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PLATINUM_13022026140304_Investor_Presentation_Dec_25.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:22:50",
-      "an_dt": "12-Feb-2026 18:22:50",
-      "desc": "General Updates",
-      "sm_name": "Platinum Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PLATINUM_12022026182200_Outcome_of_the_Board_Meeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:43:57",
-      "an_dt": "12-Feb-2026 17:43:57",
-      "desc": "Updates",
-      "sm_name": "Platinum Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PLATINUM_12022026174343_Outcome_of_the_Board_Meeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:21:32",
-      "an_dt": "12-Feb-2026 17:21:32",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Platinum Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PLATINUM_12022026171919_Outcome_of_the_Board_Meeting.pdf"
     }
   ]
 }

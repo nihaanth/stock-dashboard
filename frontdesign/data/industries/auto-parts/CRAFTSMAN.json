@@ -8,25 +8,9 @@
   "price": 8806.0,
   "market_cap_cr": 21007.23,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 7973.5,
-      "prev_close": 8119.0,
-      "volume": 58477,
-      "deliverable_qty": 40151,
-      "delivery_pct": 68.66
-    },
-    {
-      "date": "2026-02-13",
-      "close": 7729.0,
-      "prev_close": 7973.5,
-      "volume": 58670,
-      "deliverable_qty": 32993,
-      "delivery_pct": 56.23
-    },
     {
       "date": "2026-02-16",
       "close": 7737.0,
@@ -466,6 +450,14 @@
       "volume": 65958,
       "deliverable_qty": 16976,
       "delivery_pct": 25.74
+    },
+    {
+      "date": "2026-05-15",
+      "close": 8462.5,
+      "prev_close": 8567.0,
+      "volume": 70403,
+      "deliverable_qty": 18916,
+      "delivery_pct": 26.87
     }
   ],
   "news": [
@@ -643,20 +635,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Craftsman Automation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRAFTSMAN_11032026163935_Stxintimationscheme.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:36:22",
-      "an_dt": "13-Feb-2026 17:36:22",
-      "desc": "General Updates",
-      "sm_name": "Craftsman Automation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRAFTSMAN_13022026173251_Craftsmanintimationoutcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:29:59",
-      "an_dt": "13-Feb-2026 17:29:59",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Craftsman Automation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRAFTSMAN_13022026172312_Craftsmanintimationoutcome.pdf"
     }
   ]
 }

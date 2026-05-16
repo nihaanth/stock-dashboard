@@ -8,25 +8,9 @@
   "price": 343.85,
   "market_cap_cr": 14859.81,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 329.35,
-      "prev_close": 330.0,
-      "volume": 908898,
-      "deliverable_qty": 609614,
-      "delivery_pct": 67.07
-    },
-    {
-      "date": "2026-02-13",
-      "close": 324.5,
-      "prev_close": 329.35,
-      "volume": 580314,
-      "deliverable_qty": 343457,
-      "delivery_pct": 59.18
-    },
     {
       "date": "2026-02-16",
       "close": 326.6,
@@ -466,9 +450,31 @@
       "volume": 229167,
       "deliverable_qty": 103119,
       "delivery_pct": 45.0
+    },
+    {
+      "date": "2026-05-15",
+      "close": 326.65,
+      "prev_close": 325.85,
+      "volume": 213818,
+      "deliverable_qty": 99962,
+      "delivery_pct": 46.75
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 20:10:59",
+      "an_dt": "14-May-2026 20:10:59",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "International Gemological Institute Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGIINDIA_14052026201031_Earnings_call_intimation_31032026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 18:03:13",
+      "an_dt": "14-May-2026 18:03:13",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "International Gemological Institute Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGIINDIA_14052026180306_Monitoring_Agency_Report_-_Q5_FY_2025-26_-_Signed_-_Upload.pdf"
+    },
     {
       "sort_date": "2026-04-28 18:45:50",
       "an_dt": "28-Apr-2026 18:45:50",

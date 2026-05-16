@@ -8,25 +8,9 @@
   "price": 3905.6,
   "market_cap_cr": 36447.2,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 3951.1,
-      "prev_close": 4026.2,
-      "volume": 42504,
-      "deliverable_qty": 27745,
-      "delivery_pct": 65.28
-    },
-    {
-      "date": "2026-02-13",
-      "close": 3861.8,
-      "prev_close": 3951.1,
-      "volume": 68253,
-      "deliverable_qty": 33103,
-      "delivery_pct": 48.5
-    },
     {
       "date": "2026-02-16",
       "close": 3867.1,
@@ -466,6 +450,14 @@
       "volume": 16513,
       "deliverable_qty": 8419,
       "delivery_pct": 50.98
+    },
+    {
+      "date": "2026-05-15",
+      "close": 3856.3,
+      "prev_close": 3854.8,
+      "volume": 10991,
+      "deliverable_qty": 4450,
+      "delivery_pct": 40.49
     }
   ],
   "news": [
@@ -552,13 +544,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "AIA Engineering Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AIAENG_16032026163406_Voting_Result.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:19:43",
-      "an_dt": "12-Feb-2026 15:19:43",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "AIA Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AIAENG_12022026151928_SubmissionAdvertisements.pdf"
     }
   ]
 }

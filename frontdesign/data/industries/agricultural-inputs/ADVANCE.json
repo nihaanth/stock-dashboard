@@ -8,25 +8,9 @@
   "price": 111.62,
   "market_cap_cr": 717.56,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 138.12,
-      "prev_close": 133.56,
-      "volume": 2790165,
-      "deliverable_qty": 873445,
-      "delivery_pct": 31.3
-    },
-    {
-      "date": "2026-02-13",
-      "close": 138.3,
-      "prev_close": 138.12,
-      "volume": 568320,
-      "deliverable_qty": 169086,
-      "delivery_pct": 29.75
-    },
     {
       "date": "2026-02-16",
       "close": 134.75,
@@ -466,6 +450,14 @@
       "volume": 150534,
       "deliverable_qty": 85348,
       "delivery_pct": 56.7
+    },
+    {
+      "date": "2026-05-15",
+      "close": 102.87,
+      "prev_close": 103.74,
+      "volume": 46914,
+      "deliverable_qty": 20982,
+      "delivery_pct": 44.72
     }
   ],
   "news": [
@@ -573,20 +565,6 @@
       "desc": "General Updates",
       "sm_name": "Advance Agrolife Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADVANCE_25022026180505_Intimation_of_Regulation_30_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:23:58",
-      "an_dt": "12-Feb-2026 15:23:58",
-      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "sm_name": "Advance Agrolife Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADVANCE_12022026152258_FInal_Statement_of__deviation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:18:59",
-      "an_dt": "12-Feb-2026 15:18:59",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Advance Agrolife Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADVANCE_12022026151520_Final_Ma_Report.pdf"
     }
   ]
 }

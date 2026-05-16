@@ -8,25 +8,9 @@
   "price": 2180.1,
   "market_cap_cr": 14079.47,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1610.8,
-      "prev_close": 1635.1,
-      "volume": 138824,
-      "deliverable_qty": 76133,
-      "delivery_pct": 54.84
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1579.1,
-      "prev_close": 1610.8,
-      "volume": 117179,
-      "deliverable_qty": 49707,
-      "delivery_pct": 42.42
-    },
     {
       "date": "2026-02-16",
       "close": 1648.4,
@@ -466,9 +450,31 @@
       "volume": 320904,
       "deliverable_qty": 120848,
       "delivery_pct": 37.66
+    },
+    {
+      "date": "2026-05-15",
+      "close": 2098.2,
+      "prev_close": 2182.5,
+      "volume": 337696,
+      "deliverable_qty": 148035,
+      "delivery_pct": 43.84
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:40:40",
+      "an_dt": "15-May-2026 18:40:40",
+      "desc": "Investor Presentation",
+      "sm_name": "Azad Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AZAD2356_15052026184010_Investor.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 17:43:30",
+      "an_dt": "15-May-2026 17:43:30",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Azad Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AZAD2356_15052026174216_Coveringsigned.pdf"
+    },
     {
       "sort_date": "2026-05-13 22:58:28",
       "an_dt": "13-May-2026 22:58:28",
@@ -594,27 +600,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Azad Engineering Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AZAD2356_14022026120405_covering_letter.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:44:56",
-      "an_dt": "13-Feb-2026 19:44:56",
-      "desc": "Investor Presentation",
-      "sm_name": "Azad Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AZAD2356_13022026194406_Coveringletter.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:18:01",
-      "an_dt": "13-Feb-2026 19:18:01",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Azad Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AZAD2356_13022026191242_Coveringletter.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:08:26",
-      "an_dt": "13-Feb-2026 19:08:26",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Azad Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AZAD2356_13022026190719_Coveringletter.pdf"
     }
   ]
 }

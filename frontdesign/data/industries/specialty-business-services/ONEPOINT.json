@@ -8,25 +8,9 @@
   "price": 60.8,
   "market_cap_cr": 1595.98,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 48.61,
-      "prev_close": 49.09,
-      "volume": 291573,
-      "deliverable_qty": 131126,
-      "delivery_pct": 44.97
-    },
-    {
-      "date": "2026-02-13",
-      "close": 47.73,
-      "prev_close": 48.61,
-      "volume": 679227,
-      "deliverable_qty": 320628,
-      "delivery_pct": 47.2
-    },
     {
       "date": "2026-02-16",
       "close": 47.79,
@@ -466,9 +450,24 @@
       "volume": 2124909,
       "deliverable_qty": 1138104,
       "delivery_pct": 53.56
+    },
+    {
+      "date": "2026-05-15",
+      "close": 61.59,
+      "prev_close": 61.58,
+      "volume": 993485,
+      "deliverable_qty": 414558,
+      "delivery_pct": 41.73
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 16:36:55",
+      "an_dt": "15-May-2026 16:36:55",
+      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
+      "sm_name": "One Point One Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ONEPOINT_15052026163611_ONEPOINT.pdf"
+    },
     {
       "sort_date": "2026-04-24 16:54:51",
       "an_dt": "24-Apr-2026 16:54:51",
@@ -580,20 +579,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "One Point One Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ONEPOINT_17022026212028_ONEPOINT.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 12:44:55",
-      "an_dt": "12-Feb-2026 12:44:55",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "One Point One Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ONEPOINT_12022026124436_ONEPOINT.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 11:30:01",
-      "an_dt": "12-Feb-2026 11:30:01",
-      "desc": "Investor Presentation",
-      "sm_name": "One Point One Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ONEPOINT_12022026112943_ONEPOINTONE.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 562.55,
   "market_cap_cr": 237695.32,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 623.7,
-      "prev_close": 628.55,
-      "volume": 4106081,
-      "deliverable_qty": 1281556,
-      "delivery_pct": 31.21
-    },
-    {
-      "date": "2026-02-13",
-      "close": 592.85,
-      "prev_close": 623.7,
-      "volume": 9424678,
-      "deliverable_qty": 2925035,
-      "delivery_pct": 31.04
-    },
     {
       "date": "2026-02-16",
       "close": 594.1,
@@ -466,9 +450,31 @@
       "volume": 12976174,
       "deliverable_qty": 3448631,
       "delivery_pct": 26.58
+    },
+    {
+      "date": "2026-05-15",
+      "close": 637.8,
+      "prev_close": 669.25,
+      "volume": 8677803,
+      "deliverable_qty": 3725730,
+      "delivery_pct": 42.93
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:56:28",
+      "an_dt": "15-May-2026 17:56:28",
+      "desc": "Amendment(s)",
+      "sm_name": "Hindustan Zinc Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDZINCNSE_15052026175617_SEReg305AIntimation.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:25:53",
+      "an_dt": "14-May-2026 17:25:53",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Hindustan Zinc Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDZINCNSE_14052026172546_SEintimation.pdf"
+    },
     {
       "sort_date": "2026-05-12 12:59:57",
       "an_dt": "12-May-2026 12:59:57",
@@ -741,13 +747,6 @@
       "desc": "General Updates",
       "sm_name": "Hindustan Zinc Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDZINCNSE_14022026150631_SEIntimationESG_Rating.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:13:51",
-      "an_dt": "13-Feb-2026 14:13:51",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Hindustan Zinc Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDZINCNSE_13022026141342_SEIntimationnewspaper130226.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 122.03,
   "market_cap_cr": 1650.88,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 128.09,
-      "prev_close": 134.61,
-      "volume": 4688580,
-      "deliverable_qty": 1601030,
-      "delivery_pct": 34.15
-    },
-    {
-      "date": "2026-02-13",
-      "close": 121.63,
-      "prev_close": 128.09,
-      "volume": 3428956,
-      "deliverable_qty": 1300503,
-      "delivery_pct": 37.93
-    },
     {
       "date": "2026-02-16",
       "close": 127.53,
@@ -466,6 +450,14 @@
       "volume": 783686,
       "deliverable_qty": 240741,
       "delivery_pct": 30.72
+    },
+    {
+      "date": "2026-05-15",
+      "close": 113.84,
+      "prev_close": 115.06,
+      "volume": 655367,
+      "deliverable_qty": 249771,
+      "delivery_pct": 38.11
     }
   ],
   "news": [
@@ -503,20 +495,6 @@
       "desc": "Trading Window",
       "sm_name": "Rico Auto Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RICOAUTO_18032026143152_Trading_Window_Closure.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:38:54",
-      "an_dt": "13-Feb-2026 16:38:54",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Rico Auto Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RICOAUTO_13022026163823_Publication.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:37:25",
-      "an_dt": "13-Feb-2026 16:37:25",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Rico Auto Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RICOAUTO_13022026163656_Transcript.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 231.64,
   "market_cap_cr": 1937.39,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 311.0,
-      "prev_close": 304.95,
-      "volume": 349799,
-      "deliverable_qty": 163987,
-      "delivery_pct": 46.88
-    },
-    {
-      "date": "2026-02-13",
-      "close": 305.15,
-      "prev_close": 311.0,
-      "volume": 198147,
-      "deliverable_qty": 118316,
-      "delivery_pct": 59.71
-    },
     {
       "date": "2026-02-16",
       "close": 300.8,
@@ -466,9 +450,38 @@
       "volume": 78330,
       "deliverable_qty": 46253,
       "delivery_pct": 59.05
+    },
+    {
+      "date": "2026-05-15",
+      "close": 225.94,
+      "prev_close": 222.56,
+      "volume": 73578,
+      "deliverable_qty": 37739,
+      "delivery_pct": 51.29
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 11:18:24",
+      "an_dt": "15-May-2026 11:18:24",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Cantabil Retail India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_17042026180847_CANTABIL2.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 11:17:52",
+      "an_dt": "15-May-2026 11:17:52",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Cantabil Retail India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_17042026181038_CANTABIL3.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 16:19:23",
+      "an_dt": "14-May-2026 16:19:23",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Cantabil Retail India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANTABIL_14052026161859_Intimation_Investor_Meet.pdf"
+    },
     {
       "sort_date": "2026-05-11 17:09:42",
       "an_dt": "11-May-2026 17:09:42",
@@ -510,13 +523,6 @@
       "desc": "Monthly Business Updates",
       "sm_name": "Cantabil Retail India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANTABIL_28022026133544_Business_Expansion_Feb26.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:21:08",
-      "an_dt": "12-Feb-2026 15:21:08",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Cantabil Retail India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANTABIL_12022026152043_Transcript.pdf"
     }
   ]
 }

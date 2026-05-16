@@ -8,25 +8,9 @@
   "price": 534.6,
   "market_cap_cr": 6116.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 498.8,
-      "prev_close": 514.35,
-      "volume": 114720,
-      "deliverable_qty": 80018,
-      "delivery_pct": 69.75
-    },
-    {
-      "date": "2026-02-13",
-      "close": 476.9,
-      "prev_close": 498.8,
-      "volume": 322477,
-      "deliverable_qty": 209269,
-      "delivery_pct": 64.89
-    },
     {
       "date": "2026-02-16",
       "close": 471.25,
@@ -466,6 +450,14 @@
       "volume": 96678,
       "deliverable_qty": 65955,
       "delivery_pct": 68.22
+    },
+    {
+      "date": "2026-05-15",
+      "close": 526.45,
+      "prev_close": 539.75,
+      "volume": 68819,
+      "deliverable_qty": 20715,
+      "delivery_pct": 30.1
     }
   ],
   "news": [
@@ -531,34 +523,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Ajax Engineering Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AJAX123_14022026233719_Intimation_-_Newspaper_Publication-merged.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:24:41",
-      "an_dt": "13-Feb-2026 16:24:41",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Ajax Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AJAX123_13022026162337_Investor_Meet_Outcome-sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:31:40",
-      "an_dt": "12-Feb-2026 19:31:40",
-      "desc": "Press Release",
-      "sm_name": "Ajax Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AJAX123_12022026193128_Press_Release-SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:26:08",
-      "an_dt": "12-Feb-2026 19:26:08",
-      "desc": "Investor Presentation",
-      "sm_name": "Ajax Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AJAX123_12022026192520_Investor_Presentation-sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:11:26",
-      "an_dt": "12-Feb-2026 19:11:26",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Ajax Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AJAX123_12022026190853_Board_Meeting_Outcome_12022026_sd.pdf"
     }
   ]
 }

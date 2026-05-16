@@ -8,25 +8,9 @@
   "price": 215.88,
   "market_cap_cr": 689.83,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 203.55,
-      "prev_close": 208.19,
-      "volume": 49295,
-      "deliverable_qty": 26778,
-      "delivery_pct": 54.32
-    },
-    {
-      "date": "2026-02-13",
-      "close": 212.37,
-      "prev_close": 203.55,
-      "volume": 85949,
-      "deliverable_qty": 21790,
-      "delivery_pct": 25.35
-    },
     {
       "date": "2026-02-16",
       "close": 217.42,
@@ -466,6 +450,14 @@
       "volume": 145237,
       "deliverable_qty": 29527,
       "delivery_pct": 20.33
+    },
+    {
+      "date": "2026-05-15",
+      "close": 203.67,
+      "prev_close": 208.34,
+      "volume": 39005,
+      "deliverable_qty": 14245,
+      "delivery_pct": 36.52
     }
   ],
   "news": [
@@ -580,20 +572,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Mindteck (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MINDTECK_14022026110912_51BSELetterPostalBallotNoticeAdvertisement.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:58:08",
-      "an_dt": "13-Feb-2026 15:58:08",
-      "desc": "General Updates",
-      "sm_name": "Mindteck (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MINDTECK_13022026155659_50BSELetterIntimationofPostalBallotNotice.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:58:08",
-      "an_dt": "13-Feb-2026 15:58:08",
-      "desc": "Shareholders meeting",
-      "sm_name": "Mindteck (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MINDTECK_13022026155607_50BSELetterIntimationofPostalBallotNotice.pdf"
     }
   ]
 }

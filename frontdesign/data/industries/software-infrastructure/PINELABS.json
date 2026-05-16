@@ -8,25 +8,9 @@
   "price": 195.46,
   "market_cap_cr": 22444.21,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 203.33,
-      "prev_close": 208.76,
-      "volume": 6024085,
-      "deliverable_qty": 2683654,
-      "delivery_pct": 44.55
-    },
-    {
-      "date": "2026-02-13",
-      "close": 201.31,
-      "prev_close": 203.33,
-      "volume": 1117930,
-      "deliverable_qty": 740745,
-      "delivery_pct": 66.26
-    },
     {
       "date": "2026-02-16",
       "close": 202.63,
@@ -466,9 +450,24 @@
       "volume": 34011398,
       "deliverable_qty": 12820678,
       "delivery_pct": 37.7
+    },
+    {
+      "date": "2026-05-15",
+      "close": 152.48,
+      "prev_close": 155.71,
+      "volume": 23984959,
+      "deliverable_qty": 15447934,
+      "delivery_pct": 64.41
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:59:31",
+      "an_dt": "15-May-2026 18:59:31",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Pine Labs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PINELABS_15052026185917_MA_Report_sign.pdf"
+    },
     {
       "sort_date": "2026-05-12 12:03:06",
       "an_dt": "12-May-2026 12:03:06",
@@ -580,13 +579,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Pine Labs Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PINELABS_17022026160035_Voting_Results_SE.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:10:27",
-      "an_dt": "12-Feb-2026 13:10:27",
-      "desc": "General Updates",
-      "sm_name": "Pine Labs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PINELABS_12022026130838_InvestorCallIntimationKotak.pdf"
     }
   ]
 }

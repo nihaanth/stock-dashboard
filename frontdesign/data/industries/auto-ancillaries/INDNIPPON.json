@@ -8,25 +8,9 @@
   "price": 802.65,
   "market_cap_cr": 1815.71,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 794.0,
-      "prev_close": 802.15,
-      "volume": 15797,
-      "deliverable_qty": 6168,
-      "delivery_pct": 39.05
-    },
-    {
-      "date": "2026-02-13",
-      "close": 776.5,
-      "prev_close": 794.0,
-      "volume": 16711,
-      "deliverable_qty": 9767,
-      "delivery_pct": 58.45
-    },
     {
       "date": "2026-02-16",
       "close": 834.15,
@@ -466,6 +450,14 @@
       "volume": 18549,
       "deliverable_qty": 11165,
       "delivery_pct": 60.19
+    },
+    {
+      "date": "2026-05-15",
+      "close": 750.6,
+      "prev_close": 764.7,
+      "volume": 22354,
+      "deliverable_qty": 14607,
+      "delivery_pct": 65.34
     }
   ],
   "news": [
@@ -524,34 +516,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "India Nippon Electricals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDNIPPON2_14022026134503_NewspaperAdvertisement14022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:54:18",
-      "an_dt": "13-Feb-2026 19:54:18",
-      "desc": "Change in Management",
-      "sm_name": "India Nippon Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDNIPPON2_13022026195310_BMOutcome13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:20:38",
-      "an_dt": "13-Feb-2026 19:20:38",
-      "desc": "Record Date",
-      "sm_name": "India Nippon Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDNIPPON2_13022026191955_RecorddateIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:03:50",
-      "an_dt": "13-Feb-2026 19:03:50",
-      "desc": "Dividend",
-      "sm_name": "India Nippon Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDNIPPON2_13022026190247_BMOutcome13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:33:37",
-      "an_dt": "13-Feb-2026 18:33:37",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "India Nippon Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDNIPPON2_13022026183055_BMOutcome13022026.pdf"
     }
   ]
 }

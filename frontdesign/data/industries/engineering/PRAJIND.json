@@ -8,25 +8,9 @@
   "price": 343.15,
   "market_cap_cr": 6307.55,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 330.5,
-      "prev_close": 330.1,
-      "volume": 1989379,
-      "deliverable_qty": 417215,
-      "delivery_pct": 20.97
-    },
-    {
-      "date": "2026-02-13",
-      "close": 308.45,
-      "prev_close": 330.5,
-      "volume": 2645952,
-      "deliverable_qty": 692045,
-      "delivery_pct": 26.15
-    },
     {
       "date": "2026-02-16",
       "close": 302.55,
@@ -466,9 +450,24 @@
       "volume": 2373304,
       "deliverable_qty": 1229252,
       "delivery_pct": 51.79
+    },
+    {
+      "date": "2026-05-15",
+      "close": 370.5,
+      "prev_close": 372.15,
+      "volume": 797479,
+      "deliverable_qty": 299747,
+      "delivery_pct": 37.59
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 12:22:42",
+      "an_dt": "15-May-2026 12:22:42",
+      "desc": "Shareholders meeting",
+      "sm_name": "Praj Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRAJIND_15052026122233_NoticeofPostalBallot15052026.pdf"
+    },
     {
       "sort_date": "2026-04-28 12:37:26",
       "an_dt": "28-Apr-2026 12:37:26",
@@ -531,34 +530,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Praj Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRAJIND_17022026153852_TranscriptofAnalystCall17022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:22:12",
-      "an_dt": "13-Feb-2026 16:22:12",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Praj Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRAJIND_13022026162151_AudiolinkofAnalystCall13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 20:50:43",
-      "an_dt": "12-Feb-2026 20:50:43",
-      "desc": "Investor Presentation",
-      "sm_name": "Praj Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRAJIND_12022026204958_InvestorPresentation12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:36:14",
-      "an_dt": "12-Feb-2026 17:36:14",
-      "desc": "Press Release",
-      "sm_name": "Praj Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRAJIND_12022026173603_PressRelease12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:52:01",
-      "an_dt": "12-Feb-2026 15:52:01",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Praj Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRAJIND_12022026154724_UnauditedFinancialResults31122025.pdf"
     }
   ]
 }

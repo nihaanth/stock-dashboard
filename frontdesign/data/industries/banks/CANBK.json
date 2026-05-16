@@ -8,25 +8,9 @@
   "price": 129.43,
   "market_cap_cr": 117401.44,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 144.81,
-      "prev_close": 145.51,
-      "volume": 20031934,
-      "deliverable_qty": 10793109,
-      "delivery_pct": 53.88
-    },
-    {
-      "date": "2026-02-13",
-      "close": 141.77,
-      "prev_close": 144.81,
-      "volume": 14139257,
-      "deliverable_qty": 6216414,
-      "delivery_pct": 43.97
-    },
     {
       "date": "2026-02-16",
       "close": 145.84,
@@ -466,9 +450,31 @@
       "volume": 21722400,
       "deliverable_qty": 7292384,
       "delivery_pct": 33.57
+    },
+    {
+      "date": "2026-05-15",
+      "close": 128.07,
+      "prev_close": 130.84,
+      "volume": 38366481,
+      "deliverable_qty": 20423645,
+      "delivery_pct": 53.23
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 12:07:21",
+      "an_dt": "15-May-2026 12:07:21",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Canara Bank",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANBK_15052026120706_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 10:16:59",
+      "an_dt": "14-May-2026 10:16:59",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Canara Bank",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANBK_14052026101650_signed.pdf"
+    },
     {
       "sort_date": "2026-05-13 20:37:29",
       "an_dt": "13-May-2026 20:37:29",
@@ -706,20 +712,6 @@
       "desc": "Updates",
       "sm_name": "Canara Bank",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANBK_16022026140644_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:23:52",
-      "an_dt": "13-Feb-2026 19:23:52",
-      "desc": "Credit Rating",
-      "sm_name": "Canara Bank",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANBK_13022026192339_SIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:58:57",
-      "an_dt": "13-Feb-2026 18:58:57",
-      "desc": "Credit Rating",
-      "sm_name": "Canara Bank",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANBK_13022026185834_signed.pdf"
     }
   ]
 }

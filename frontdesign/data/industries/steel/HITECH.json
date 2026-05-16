@@ -8,25 +8,9 @@
   "price": 84.67,
   "market_cap_cr": 1717.11,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 87.14,
-      "prev_close": 88.93,
-      "volume": 713103,
-      "deliverable_qty": 356564,
-      "delivery_pct": 50.0
-    },
-    {
-      "date": "2026-02-13",
-      "close": 87.51,
-      "prev_close": 87.14,
-      "volume": 874885,
-      "deliverable_qty": 303362,
-      "delivery_pct": 34.67
-    },
     {
       "date": "2026-02-16",
       "close": 83.56,
@@ -466,9 +450,24 @@
       "volume": 641568,
       "deliverable_qty": 273847,
       "delivery_pct": 42.68
+    },
+    {
+      "date": "2026-05-15",
+      "close": 84.62,
+      "prev_close": 85.95,
+      "volume": 461673,
+      "deliverable_qty": 212935,
+      "delivery_pct": 46.12
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 11:44:12",
+      "an_dt": "14-May-2026 11:44:12",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Hi-Tech Pipes Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HITECH_14052026113810_Monitoring_Agency_Report_QIP_31032026.pdf"
+    },
     {
       "sort_date": "2026-04-13 15:32:25",
       "an_dt": "13-Apr-2026 15:32:25",
@@ -510,13 +509,6 @@
       "desc": "Monitoring Agency Report",
       "sm_name": "Hi-Tech Pipes Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HITECH_14022026193245_MA_REPORT_14022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:39:38",
-      "an_dt": "12-Feb-2026 18:39:38",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Hi-Tech Pipes Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HITECH_12022026183915_Transript_Earning_Conference_Call_07022026.pdf"
     }
   ]
 }

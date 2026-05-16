@@ -8,25 +8,9 @@
   "price": 152.71,
   "market_cap_cr": 563.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 158.13,
-      "prev_close": 156.74,
-      "volume": 21455,
-      "deliverable_qty": 12535,
-      "delivery_pct": 58.42
-    },
-    {
-      "date": "2026-02-13",
-      "close": 153.4,
-      "prev_close": 158.13,
-      "volume": 13714,
-      "deliverable_qty": 8455,
-      "delivery_pct": 61.65
-    },
     {
       "date": "2026-02-16",
       "close": 152.85,
@@ -466,9 +450,24 @@
       "volume": 527474,
       "deliverable_qty": 169243,
       "delivery_pct": 32.09
+    },
+    {
+      "date": "2026-05-15",
+      "close": 160.39,
+      "prev_close": 163.43,
+      "volume": 26746,
+      "deliverable_qty": 15930,
+      "delivery_pct": 59.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 15:21:12",
+      "an_dt": "14-May-2026 15:21:12",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Pyramid Technoplast Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PYRAMIDTECHNO_14052026152051_Covering_Letter_with_Newspaper_signed.pdf"
+    },
     {
       "sort_date": "2026-05-13 19:40:48",
       "an_dt": "13-May-2026 19:40:48",

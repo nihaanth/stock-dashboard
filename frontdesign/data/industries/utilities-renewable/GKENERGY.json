@@ -8,25 +8,9 @@
   "price": 127.29,
   "market_cap_cr": 2581.66,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 116.82,
-      "prev_close": 114.01,
-      "volume": 928460,
-      "deliverable_qty": 313630,
-      "delivery_pct": 33.78
-    },
-    {
-      "date": "2026-02-13",
-      "close": 111.06,
-      "prev_close": 116.82,
-      "volume": 1012585,
-      "deliverable_qty": 538232,
-      "delivery_pct": 53.15
-    },
     {
       "date": "2026-02-16",
       "close": 116.61,
@@ -466,9 +450,24 @@
       "volume": 1846843,
       "deliverable_qty": 476822,
       "delivery_pct": 25.82
+    },
+    {
+      "date": "2026-05-15",
+      "close": 126.66,
+      "prev_close": 129.24,
+      "volume": 389757,
+      "deliverable_qty": 187244,
+      "delivery_pct": 48.04
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 15:34:06",
+      "an_dt": "14-May-2026 15:34:06",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "GK Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GKENERGY_14052026153316_NP_Intimation_sd.pdf"
+    },
     {
       "sort_date": "2026-05-13 22:10:48",
       "an_dt": "13-May-2026 22:10:48",
@@ -650,48 +649,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "GK Energy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GKENERGY_14022026153327_Newspaper_Publication.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 23:35:13",
-      "an_dt": "13-Feb-2026 23:35:13",
-      "desc": "General Updates",
-      "sm_name": "GK Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GKENERGY_13022026233500_Revised_Financials_Sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 22:43:37",
-      "an_dt": "13-Feb-2026 22:43:37",
-      "desc": "General Updates",
-      "sm_name": "GK Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GKENERGY_13022026224224_Reconstitution_of_Committees.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 22:15:38",
-      "an_dt": "13-Feb-2026 22:15:38",
-      "desc": "Change in Director(s)",
-      "sm_name": "GK Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GKENERGY_13022026221525_Intimation_of_Appointment_of_ID.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 22:01:39",
-      "an_dt": "13-Feb-2026 22:01:39",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "GK Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GKENERGY_13022026220127_3_Monitoring_Agency_Report_Final.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:54:16",
-      "an_dt": "13-Feb-2026 21:54:16",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "GK Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GKENERGY_13022026215354_Outcome_of_BM_uploaded.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:35:57",
-      "an_dt": "13-Feb-2026 21:35:57",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "GK Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GKENERGY_13022026213021_Outcome_of_BM_Sd.pdf"
     }
   ]
 }

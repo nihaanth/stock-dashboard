@@ -8,25 +8,9 @@
   "price": 214.18,
   "market_cap_cr": 2059.76,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 199.23,
-      "prev_close": 201.28,
-      "volume": 232534,
-      "deliverable_qty": 180773,
-      "delivery_pct": 77.74
-    },
-    {
-      "date": "2026-02-13",
-      "close": 195.95,
-      "prev_close": 199.23,
-      "volume": 89939,
-      "deliverable_qty": 38078,
-      "delivery_pct": 42.34
-    },
     {
       "date": "2026-02-16",
       "close": 194.6,
@@ -466,9 +450,24 @@
       "volume": 6527282,
       "deliverable_qty": 3303102,
       "delivery_pct": 50.6
+    },
+    {
+      "date": "2026-05-15",
+      "close": 240.78,
+      "prev_close": 240.5,
+      "volume": 729268,
+      "deliverable_qty": 393119,
+      "delivery_pct": 53.91
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:07:25",
+      "an_dt": "14-May-2026 17:07:25",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Veranda Learning Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Verandaipo_14052026170603_MARMAR26.pdf"
+    },
     {
       "sort_date": "2026-04-27 09:14:14",
       "an_dt": "27-Apr-2026 09:14:14",

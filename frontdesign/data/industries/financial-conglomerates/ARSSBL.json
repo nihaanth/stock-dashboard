@@ -8,25 +8,9 @@
   "price": 573.25,
   "market_cap_cr": 3595.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 572.8,
-      "prev_close": 576.3,
-      "volume": 217552,
-      "deliverable_qty": 100210,
-      "delivery_pct": 46.06
-    },
-    {
-      "date": "2026-02-13",
-      "close": 554.65,
-      "prev_close": 572.8,
-      "volume": 229815,
-      "deliverable_qty": 103207,
-      "delivery_pct": 44.91
-    },
     {
       "date": "2026-02-16",
       "close": 532.95,
@@ -466,9 +450,24 @@
       "volume": 310135,
       "deliverable_qty": 129550,
       "delivery_pct": 41.77
+    },
+    {
+      "date": "2026-05-15",
+      "close": 525.65,
+      "prev_close": 537.95,
+      "volume": 225075,
+      "deliverable_qty": 116566,
+      "delivery_pct": 51.79
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 20:42:07",
+      "an_dt": "15-May-2026 20:42:07",
+      "desc": "Credit Rating- Revision",
+      "sm_name": "Anand Rathi Share and Stock Brokers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARSSBL_2024_15052026203959_CREDITRATING_15052026_sd.pdf"
+    },
     {
       "sort_date": "2026-05-08 19:26:53",
       "an_dt": "08-May-2026 19:26:53",

@@ -8,25 +8,9 @@
   "price": 1949.8,
   "market_cap_cr": 54137.83,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 2272.9,
-      "prev_close": 2280.8,
-      "volume": 2136876,
-      "deliverable_qty": 1718710,
-      "delivery_pct": 80.43
-    },
-    {
-      "date": "2026-02-13",
-      "close": 2245.9,
-      "prev_close": 2272.9,
-      "volume": 374996,
-      "deliverable_qty": 215160,
-      "delivery_pct": 57.38
-    },
     {
       "date": "2026-02-16",
       "close": 2217.4,
@@ -466,6 +450,14 @@
       "volume": 242539,
       "deliverable_qty": 117003,
       "delivery_pct": 48.24
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1890.2,
+      "prev_close": 1890.1,
+      "volume": 332460,
+      "deliverable_qty": 185784,
+      "delivery_pct": 55.88
     }
   ],
   "news": [
@@ -594,20 +586,6 @@
       "desc": "Press Release",
       "sm_name": "APL Apollo Tubes Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/APLAPOLLO_18022026151804_ESG_Ranking.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:18:31",
-      "an_dt": "13-Feb-2026 14:18:31",
-      "desc": "Updates",
-      "sm_name": "APL Apollo Tubes Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APLAPOLLO_13022026141820_SE_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:11:28",
-      "an_dt": "12-Feb-2026 13:11:28",
-      "desc": "Updates",
-      "sm_name": "APL Apollo Tubes Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APLAPOLLO_12022026131040_SE_Intimation.pdf"
     }
   ]
 }

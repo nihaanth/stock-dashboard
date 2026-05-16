@@ -8,25 +8,9 @@
   "price": 243.05,
   "market_cap_cr": 4846.84,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 260.05,
-      "prev_close": 264.9,
-      "volume": 603934,
-      "deliverable_qty": 336054,
-      "delivery_pct": 55.64
-    },
-    {
-      "date": "2026-02-13",
-      "close": 255.4,
-      "prev_close": 260.05,
-      "volume": 528583,
-      "deliverable_qty": 280214,
-      "delivery_pct": 53.01
-    },
     {
       "date": "2026-02-16",
       "close": 250.0,
@@ -466,9 +450,24 @@
       "volume": 286063,
       "deliverable_qty": 142039,
       "delivery_pct": 49.65
+    },
+    {
+      "date": "2026-05-15",
+      "close": 240.45,
+      "prev_close": 245.75,
+      "volume": 172526,
+      "deliverable_qty": 90874,
+      "delivery_pct": 52.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 15:28:33",
+      "an_dt": "14-May-2026 15:28:33",
+      "desc": "Updates",
+      "sm_name": "Canara Robeco Asset Management Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRAMC_14052026152824_CRAMC_ASCR_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-04 14:52:26",
       "an_dt": "04-May-2026 14:52:26",

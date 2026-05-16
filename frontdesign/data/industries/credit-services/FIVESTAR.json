@@ -8,25 +8,9 @@
   "price": 420.7,
   "market_cap_cr": 12424.52,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 440.3,
-      "prev_close": 432.25,
-      "volume": 5902414,
-      "deliverable_qty": 1314209,
-      "delivery_pct": 22.27
-    },
-    {
-      "date": "2026-02-13",
-      "close": 440.0,
-      "prev_close": 440.3,
-      "volume": 874806,
-      "deliverable_qty": 273678,
-      "delivery_pct": 31.28
-    },
     {
       "date": "2026-02-16",
       "close": 441.1,
@@ -466,6 +450,14 @@
       "volume": 2234083,
       "deliverable_qty": 909377,
       "delivery_pct": 40.7
+    },
+    {
+      "date": "2026-05-15",
+      "close": 458.8,
+      "prev_close": 465.55,
+      "volume": 279335,
+      "deliverable_qty": 105996,
+      "delivery_pct": 37.95
     }
   ],
   "news": [
@@ -699,20 +691,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Five-Star Business Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FIVESTAR_16022026180653_IntimationonScheduleofInvestorcall17February2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 12:34:02",
-      "an_dt": "12-Feb-2026 12:34:02",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Five-Star Business Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FIVESTAR_12022026123346_IntimationonScheduleofInvestorcall13February2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 12:20:39",
-      "an_dt": "12-Feb-2026 12:20:39",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Five-Star Business Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FIVESTAR_12022026121946_ExchangeIntimation.pdf"
     }
   ]
 }

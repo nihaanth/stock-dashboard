@@ -8,25 +8,9 @@
   "price": 204.93,
   "market_cap_cr": 26513.37,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 206.3,
-      "prev_close": 209.59,
-      "volume": 980045,
-      "deliverable_qty": 507645,
-      "delivery_pct": 51.8
-    },
-    {
-      "date": "2026-02-13",
-      "close": 201.57,
-      "prev_close": 206.3,
-      "volume": 1524928,
-      "deliverable_qty": 929438,
-      "delivery_pct": 60.95
-    },
     {
       "date": "2026-02-16",
       "close": 203.9,
@@ -466,6 +450,14 @@
       "volume": 2272432,
       "deliverable_qty": 1006119,
       "delivery_pct": 44.27
+    },
+    {
+      "date": "2026-05-15",
+      "close": 199.73,
+      "prev_close": 200.81,
+      "volume": 1579468,
+      "deliverable_qty": 471135,
+      "delivery_pct": 29.83
     }
   ],
   "news": [
@@ -636,13 +628,6 @@
       "desc": "General Updates",
       "sm_name": "AWL Agri Business Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AWL_27022026163520_SE_Intimation_Reg_30.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:13:25",
-      "an_dt": "13-Feb-2026 18:13:25",
-      "desc": "General Updates",
-      "sm_name": "AWL Agri Business Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AWL_13022026181313_SE_Intimation_Reg_30-CSA_Score.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 71.97,
   "market_cap_cr": 502.42,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 61.43,
-      "prev_close": 61.05,
-      "volume": 20863,
-      "deliverable_qty": 13197,
-      "delivery_pct": 63.26
-    },
-    {
-      "date": "2026-02-13",
-      "close": 60.35,
-      "prev_close": 61.43,
-      "volume": 38308,
-      "deliverable_qty": 25654,
-      "delivery_pct": 66.97
-    },
     {
       "date": "2026-02-16",
       "close": 61.31,
@@ -466,9 +450,24 @@
       "volume": 31347,
       "deliverable_qty": 21030,
       "delivery_pct": 67.09
+    },
+    {
+      "date": "2026-05-15",
+      "close": 70.42,
+      "prev_close": 72.77,
+      "volume": 8755,
+      "deliverable_qty": 7243,
+      "delivery_pct": 82.73
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 11:13:24",
+      "an_dt": "15-May-2026 11:13:24",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Moneyboxx Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONEYBOXX_15052026111248_Monitoring_Agency_Final.pdf"
+    },
     {
       "sort_date": "2026-04-17 12:36:17",
       "an_dt": "17-Apr-2026 12:36:17",
@@ -594,62 +593,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Moneyboxx Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONEYBOXX_16022026152608_Transcript_Final.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:19:56",
-      "an_dt": "13-Feb-2026 16:19:56",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Moneyboxx Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONEYBOXX_13022026161930_Audio_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:50:10",
-      "an_dt": "13-Feb-2026 14:50:10",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Moneyboxx Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONEYBOXX_13022026144950_Final_Report_MA.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 12:24:57",
-      "an_dt": "13-Feb-2026 12:24:57",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Moneyboxx Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONEYBOXX_13022026122445_Newspaper_Final.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:18:57",
-      "an_dt": "13-Feb-2026 11:18:57",
-      "desc": "Shareholders meeting",
-      "sm_name": "Moneyboxx Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONEYBOXX_13022026111756_Report.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:00:24",
-      "an_dt": "12-Feb-2026 18:00:24",
-      "desc": "Investor Presentation",
-      "sm_name": "Moneyboxx Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONEYBOXX_12022026175935_IP_Final.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:25:11",
-      "an_dt": "12-Feb-2026 17:25:11",
-      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "sm_name": "Moneyboxx Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONEYBOXX_12022026172457_Outcome_Final.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:23:40",
-      "an_dt": "12-Feb-2026 17:23:40",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Moneyboxx Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONEYBOXX_12022026172018_Outcome_Final.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:17:41",
-      "an_dt": "12-Feb-2026 17:17:41",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Moneyboxx Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONEYBOXX_12022026171702_Outcome_Final.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 584.65,
   "market_cap_cr": 904.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 557.55,
-      "prev_close": 558.4,
-      "volume": 70602,
-      "deliverable_qty": 31679,
-      "delivery_pct": 44.87
-    },
-    {
-      "date": "2026-02-13",
-      "close": 545.9,
-      "prev_close": 557.55,
-      "volume": 68612,
-      "deliverable_qty": 28533,
-      "delivery_pct": 41.59
-    },
     {
       "date": "2026-02-16",
       "close": 544.5,
@@ -466,9 +450,24 @@
       "volume": 105818,
       "deliverable_qty": 39083,
       "delivery_pct": 36.93
+    },
+    {
+      "date": "2026-05-15",
+      "close": 576.1,
+      "prev_close": 574.45,
+      "volume": 31258,
+      "deliverable_qty": 18903,
+      "delivery_pct": 60.47
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 15:44:48",
+      "an_dt": "15-May-2026 15:44:48",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Tembo Global Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TEMBO_15052026154425_MA_Report_31032026_sd.pdf"
+    },
     {
       "sort_date": "2026-04-15 12:29:45",
       "an_dt": "15-Apr-2026 12:29:45",

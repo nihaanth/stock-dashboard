@@ -8,25 +8,9 @@
   "price": 59.89,
   "market_cap_cr": 553.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 53.55,
-      "prev_close": 53.83,
-      "volume": 166979,
-      "deliverable_qty": 81500,
-      "delivery_pct": 48.81
-    },
-    {
-      "date": "2026-02-13",
-      "close": 52.37,
-      "prev_close": 53.55,
-      "volume": 108292,
-      "deliverable_qty": 59531,
-      "delivery_pct": 54.97
-    },
     {
       "date": "2026-02-16",
       "close": 48.99,
@@ -466,9 +450,24 @@
       "volume": 192837,
       "deliverable_qty": 93610,
       "delivery_pct": 48.54
+    },
+    {
+      "date": "2026-05-15",
+      "close": 57.94,
+      "prev_close": 57.56,
+      "volume": 88538,
+      "deliverable_qty": 40608,
+      "delivery_pct": 45.87
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 15:36:40",
+      "an_dt": "14-May-2026 15:36:40",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Glottis Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLOTTISLTD_14052026153627_MA_report_31032026.pdf"
+    },
     {
       "sort_date": "2026-04-24 17:01:05",
       "an_dt": "24-Apr-2026 17:01:05",
@@ -580,34 +579,6 @@
       "desc": "General Updates",
       "sm_name": "Glottis Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLOTTISLTD_14022026203646_Regulation_30_Brief_Note_on_IPO_utilization.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:33:16",
-      "an_dt": "13-Feb-2026 20:33:16",
-      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "sm_name": "Glottis Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLOTTISLTD_13022026203303_Statement_of_Deviation_or_Variation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:32:01",
-      "an_dt": "13-Feb-2026 20:32:01",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Glottis Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLOTTISLTD_13022026203152_Monitoring_Agency_Report.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:09:51",
-      "an_dt": "13-Feb-2026 20:09:51",
-      "desc": "Appointment",
-      "sm_name": "Glottis Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLOTTISLTD_13022026200708_Regulation_30_Appointment_of_SMP.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:03:15",
-      "an_dt": "13-Feb-2026 20:03:15",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Glottis Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLOTTISLTD_13022026200008_Outcome_BM.pdf"
     }
   ]
 }

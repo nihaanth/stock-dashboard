@@ -8,25 +8,9 @@
   "price": 2700.1,
   "market_cap_cr": 12408.33,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 2163.8,
-      "prev_close": 2245.2,
-      "volume": 188672,
-      "deliverable_qty": 96108,
-      "delivery_pct": 50.94
-    },
-    {
-      "date": "2026-02-13",
-      "close": 2003.7,
-      "prev_close": 2163.8,
-      "volume": 608463,
-      "deliverable_qty": 247358,
-      "delivery_pct": 40.65
-    },
     {
       "date": "2026-02-16",
       "close": 2023.6,
@@ -466,9 +450,24 @@
       "volume": 156540,
       "deliverable_qty": 66642,
       "delivery_pct": 42.57
+    },
+    {
+      "date": "2026-05-15",
+      "close": 2768.3,
+      "prev_close": 2793.5,
+      "volume": 245571,
+      "deliverable_qty": 91255,
+      "delivery_pct": 37.16
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 13:56:19",
+      "an_dt": "15-May-2026 13:56:19",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shaily Engineering Plastics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Shailyengineering_15052026135604_CL-Earnings_call_20052026.pdf"
+    },
     {
       "sort_date": "2026-04-28 10:35:59",
       "an_dt": "28-Apr-2026 10:35:59",
@@ -552,27 +551,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Shaily Engineering Plastics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Shailyengineering_17022026141731_Intimation_SE_Newspaper_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 22:51:02",
-      "an_dt": "13-Feb-2026 22:51:02",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Shaily Engineering Plastics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Shailyengineering_13022026225032_CL-Earnings_call.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:03:41",
-      "an_dt": "12-Feb-2026 18:03:41",
-      "desc": "Investor Presentation",
-      "sm_name": "Shaily Engineering Plastics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Shailyengineering_12022026180329_Q3FY26_Investor_Presentation_SIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:57:22",
-      "an_dt": "12-Feb-2026 17:57:22",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Shaily Engineering Plastics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Shailyengineering_12022026175526_OutcomeofBoardMeeting12022026SIGNED.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 143.86,
   "market_cap_cr": 65494.68,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 165.28,
-      "prev_close": 167.13,
-      "volume": 5243794,
-      "deliverable_qty": 2032668,
-      "delivery_pct": 38.76
-    },
-    {
-      "date": "2026-02-13",
-      "close": 161.79,
-      "prev_close": 165.28,
-      "volume": 8120034,
-      "deliverable_qty": 3544611,
-      "delivery_pct": 43.65
-    },
     {
       "date": "2026-02-16",
       "close": 165.61,
@@ -466,9 +450,24 @@
       "volume": 7974427,
       "deliverable_qty": 2672410,
       "delivery_pct": 33.51
+    },
+    {
+      "date": "2026-05-15",
+      "close": 142.26,
+      "prev_close": 143.95,
+      "volume": 8539888,
+      "deliverable_qty": 3126738,
+      "delivery_pct": 36.61
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 16:35:29",
+      "an_dt": "15-May-2026 16:35:29",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Bank of India",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANKINDIA5_15052026162852_BOI_Q4TRANSCIPT.pdf"
+    },
     {
       "sort_date": "2026-05-12 19:13:22",
       "an_dt": "12-May-2026 19:13:22",

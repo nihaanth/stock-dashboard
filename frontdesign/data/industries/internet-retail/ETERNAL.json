@@ -8,25 +8,9 @@
   "price": 245.87,
   "market_cap_cr": 226050.21,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 298.0,
-      "prev_close": 300.7,
-      "volume": 34873811,
-      "deliverable_qty": 16682381,
-      "delivery_pct": 47.84
-    },
-    {
-      "date": "2026-02-13",
-      "close": 285.2,
-      "prev_close": 298.0,
-      "volume": 47583835,
-      "deliverable_qty": 27110514,
-      "delivery_pct": 56.97
-    },
     {
       "date": "2026-02-16",
       "close": 286.6,
@@ -466,6 +450,14 @@
       "volume": 31615154,
       "deliverable_qty": 13857536,
       "delivery_pct": 43.83
+    },
+    {
+      "date": "2026-05-15",
+      "close": 241.18,
+      "prev_close": 245.82,
+      "volume": 18279677,
+      "deliverable_qty": 8426710,
+      "delivery_pct": 46.1
     }
   ],
   "news": [
@@ -545,13 +537,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "ETERNAL LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZOMATO_13032026221115_ETernalvotingreusltsignedfinal.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:20:51",
-      "an_dt": "12-Feb-2026 13:20:51",
-      "desc": "General Updates",
-      "sm_name": "ETERNAL LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZOMATO_12022026131813_Eternalnewspaperadvertisementsigned.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 293.15,
   "market_cap_cr": 28226.0,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 293.6,
-      "prev_close": 293.5,
-      "volume": 360751,
-      "deliverable_qty": 121180,
-      "delivery_pct": 33.59
-    },
-    {
-      "date": "2026-02-13",
-      "close": 289.1,
-      "prev_close": 293.6,
-      "volume": 243309,
-      "deliverable_qty": 74733,
-      "delivery_pct": 30.72
-    },
     {
       "date": "2026-02-16",
       "close": 282.75,
@@ -466,6 +450,14 @@
       "volume": 394699,
       "deliverable_qty": 99113,
       "delivery_pct": 25.11
+    },
+    {
+      "date": "2026-05-15",
+      "close": 286.75,
+      "prev_close": 291.3,
+      "volume": 361700,
+      "deliverable_qty": 104294,
+      "delivery_pct": 28.83
     }
   ],
   "news": [
@@ -573,20 +565,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "ITI Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ITI_16022026151234_SE_Intimation_Newspaper_Publication_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:56:25",
-      "an_dt": "13-Feb-2026 15:56:25",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "ITI Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ITI_13022026155611_SE_Intimation_Financial_Results.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:53:11",
-      "an_dt": "13-Feb-2026 15:53:11",
-      "desc": "Change in Management",
-      "sm_name": "ITI Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ITI_13022026155254_SE_Intimation_CFO_Appointment_Signed.pdf"
     }
   ]
 }

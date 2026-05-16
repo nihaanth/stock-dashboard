@@ -8,25 +8,9 @@
   "price": 741.3,
   "market_cap_cr": 61079.4,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 799.6,
-      "prev_close": 799.85,
-      "volume": 336774,
-      "deliverable_qty": 213211,
-      "delivery_pct": 63.31
-    },
-    {
-      "date": "2026-02-13",
-      "close": 764.2,
-      "prev_close": 799.6,
-      "volume": 413859,
-      "deliverable_qty": 198449,
-      "delivery_pct": 47.95
-    },
     {
       "date": "2026-02-16",
       "close": 756.25,
@@ -466,9 +450,24 @@
       "volume": 350097,
       "deliverable_qty": 154403,
       "delivery_pct": 44.1
+    },
+    {
+      "date": "2026-05-15",
+      "close": 749.5,
+      "prev_close": 748.7,
+      "volume": 336372,
+      "deliverable_qty": 170015,
+      "delivery_pct": 50.54
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 16:26:15",
+      "an_dt": "15-May-2026 16:26:15",
+      "desc": "General Updates",
+      "sm_name": "Jindal Stainless Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JSL_15052026162603_JSLSEintimationcorporatepresentationsd.pdf"
+    },
     {
       "sort_date": "2026-05-13 17:37:22",
       "an_dt": "13-May-2026 17:37:22",
@@ -657,27 +656,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Jindal Stainless Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JSL_23022026154108_JSLSEintimationPBsd.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:34:11",
-      "an_dt": "13-Feb-2026 18:34:11",
-      "desc": "General Updates",
-      "sm_name": "Jindal Stainless Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JSL_13022026183342_JSLSEintimationsd.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:07:28",
-      "an_dt": "13-Feb-2026 11:07:28",
-      "desc": "Press Release",
-      "sm_name": "Jindal Stainless Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JSL_13022026110635_JSLSEintimationPRsd.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:29:03",
-      "an_dt": "12-Feb-2026 17:29:03",
-      "desc": "Acquisition",
-      "sm_name": "Jindal Stainless Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JSL_12022026172834_JSLSEIntimationJCMSPLsd.pdf"
     }
   ]
 }

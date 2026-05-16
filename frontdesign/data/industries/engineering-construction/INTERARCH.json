@@ -8,25 +8,9 @@
   "price": 2103.1,
   "market_cap_cr": 3527.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1973.9,
-      "prev_close": 1926.2,
-      "volume": 120687,
-      "deliverable_qty": 53535,
-      "delivery_pct": 44.36
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1924.3,
-      "prev_close": 1973.9,
-      "volume": 64285,
-      "deliverable_qty": 32350,
-      "delivery_pct": 50.32
-    },
     {
       "date": "2026-02-16",
       "close": 1890.4,
@@ -466,9 +450,52 @@
       "volume": 80353,
       "deliverable_qty": 35841,
       "delivery_pct": 44.6
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1768.0,
+      "prev_close": 1786.9,
+      "volume": 283081,
+      "deliverable_qty": 148871,
+      "delivery_pct": 52.59
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 15:35:45",
+      "an_dt": "15-May-2026 15:35:45",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Interarch Building Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTERARCH1983_15052026153521_MA_Report_March_2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 18:37:16",
+      "an_dt": "14-May-2026 18:37:16",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Interarch Building Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTERARCH1983_14052026183626_Audio_Earning_Call.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 13:53:17",
+      "an_dt": "14-May-2026 13:53:17",
+      "desc": "Investor Presentation",
+      "sm_name": "Interarch Building Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTERARCH1983_14052026135309_Investor_PPT_Q4.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 12:58:13",
+      "an_dt": "14-May-2026 12:58:13",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Interarch Building Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTERARCH1983_14052026125805_News_Paper_Advertisement_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 12:47:43",
+      "an_dt": "14-May-2026 12:47:43",
+      "desc": "Press Release",
+      "sm_name": "Interarch Building Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTERARCH1983_14052026124618_Press_Release_Q4.pdf"
+    },
     {
       "sort_date": "2026-05-13 18:23:38",
       "an_dt": "13-May-2026 18:23:38",

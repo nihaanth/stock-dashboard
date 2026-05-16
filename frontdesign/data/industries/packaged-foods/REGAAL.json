@@ -8,25 +8,9 @@
   "price": 97.15,
   "market_cap_cr": 997.96,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 60.23,
-      "prev_close": 60.78,
-      "volume": 290036,
-      "deliverable_qty": 204611,
-      "delivery_pct": 70.55
-    },
-    {
-      "date": "2026-02-13",
-      "close": 59.71,
-      "prev_close": 60.23,
-      "volume": 441241,
-      "deliverable_qty": 258404,
-      "delivery_pct": 58.56
-    },
     {
       "date": "2026-02-16",
       "close": 59.18,
@@ -462,6 +446,13 @@
   ],
   "news": [
     {
+      "sort_date": "2026-05-15 20:36:59",
+      "an_dt": "15-May-2026 20:36:59",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Regaal Resources Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/REGAAL_15052026203624_Monitoring_Agency_Report_dated_15052026.pdf"
+    },
+    {
       "sort_date": "2026-04-07 16:54:10",
       "an_dt": "07-Apr-2026 16:54:10",
       "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
@@ -537,13 +528,6 @@
       "desc": "Action(s) taken or orders passed",
       "sm_name": "Regaal Resources Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/REGAAL_19022026173711_Disclosure_under_Reg_30_dated_19022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:33:43",
-      "an_dt": "13-Feb-2026 15:33:43",
-      "desc": "Action(s) taken or orders passed",
-      "sm_name": "Regaal Resources Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/REGAAL_13022026153259_Disclosure_under_Reg_30_dated_12022026.pdf"
     }
   ]
 }

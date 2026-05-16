@@ -8,25 +8,9 @@
   "price": 238.08,
   "market_cap_cr": 15180.48,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 191.89,
-      "prev_close": 196.79,
-      "volume": 2544111,
-      "deliverable_qty": 957302,
-      "delivery_pct": 37.63
-    },
-    {
-      "date": "2026-02-13",
-      "close": 190.18,
-      "prev_close": 191.89,
-      "volume": 1568632,
-      "deliverable_qty": 453536,
-      "delivery_pct": 28.91
-    },
     {
       "date": "2026-02-16",
       "close": 185.19,
@@ -466,6 +450,14 @@
       "volume": 1378751,
       "deliverable_qty": 414338,
       "delivery_pct": 30.05
+    },
+    {
+      "date": "2026-05-15",
+      "close": 229.09,
+      "prev_close": 233.67,
+      "volume": 1222988,
+      "deliverable_qty": 540461,
+      "delivery_pct": 44.19
     }
   ],
   "news": [
@@ -692,13 +684,6 @@
       "desc": "Updates",
       "sm_name": "Jindal Saw Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JINDALSAW_18022026155926_DisclosureAPI18022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:53:18",
-      "an_dt": "13-Feb-2026 17:53:18",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Jindal Saw Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JINDALSAW_13022026175300_InvestorCallSE.pdf"
     }
   ]
 }

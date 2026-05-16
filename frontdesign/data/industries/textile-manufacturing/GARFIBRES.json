@@ -8,25 +8,9 @@
   "price": 626.2,
   "market_cap_cr": 6216.03,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 719.05,
-      "prev_close": 687.25,
-      "volume": 2149665,
-      "deliverable_qty": 277595,
-      "delivery_pct": 12.91
-    },
-    {
-      "date": "2026-02-13",
-      "close": 717.7,
-      "prev_close": 719.05,
-      "volume": 127496,
-      "deliverable_qty": 39771,
-      "delivery_pct": 31.19
-    },
     {
       "date": "2026-02-16",
       "close": 693.25,
@@ -466,9 +450,24 @@
       "volume": 39586,
       "deliverable_qty": 20096,
       "delivery_pct": 50.77
+    },
+    {
+      "date": "2026-05-15",
+      "close": 628.45,
+      "prev_close": 629.25,
+      "volume": 35829,
+      "deliverable_qty": 18483,
+      "delivery_pct": 51.59
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 11:36:04",
+      "an_dt": "15-May-2026 11:36:04",
+      "desc": "Cessation",
+      "sm_name": "Garware Technical Fibres Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GARFIBRES_15052026113454_DisclosureUnderReg30ofSEBISeniorManagement.pdf"
+    },
     {
       "sort_date": "2026-05-12 12:39:38",
       "an_dt": "12-May-2026 12:39:38",
@@ -587,13 +586,6 @@
       "desc": "General Updates",
       "sm_name": "Garware Technical Fibres Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GARFIBRES_17022026133219_WaiverApproval17022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:26:40",
-      "an_dt": "12-Feb-2026 15:26:40",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Garware Technical Fibres Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GARFIBRES_12022026152623_NewspaperAdvertisement120226.pdf"
     }
   ]
 }

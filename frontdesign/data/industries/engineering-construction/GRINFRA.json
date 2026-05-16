@@ -8,25 +8,9 @@
   "price": 994.9,
   "market_cap_cr": 9626.71,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 978.5,
-      "prev_close": 974.65,
-      "volume": 25050,
-      "deliverable_qty": 12782,
-      "delivery_pct": 51.03
-    },
-    {
-      "date": "2026-02-13",
-      "close": 980.45,
-      "prev_close": 978.5,
-      "volume": 24312,
-      "deliverable_qty": 11476,
-      "delivery_pct": 47.2
-    },
     {
       "date": "2026-02-16",
       "close": 977.55,
@@ -466,9 +450,24 @@
       "volume": 123293,
       "deliverable_qty": 59371,
       "delivery_pct": 48.15
+    },
+    {
+      "date": "2026-05-15",
+      "close": 934.9,
+      "prev_close": 948.95,
+      "volume": 57747,
+      "deliverable_qty": 35702,
+      "delivery_pct": 61.82
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 15:12:06",
+      "an_dt": "14-May-2026 15:12:06",
+      "desc": "General Updates",
+      "sm_name": "G R Infraprojects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRINFRA_14052026151033_GRIL_Mokama_Munger_-concession_agreement_14052026.pdf"
+    },
     {
       "sort_date": "2026-05-13 17:59:23",
       "an_dt": "13-May-2026 17:59:23",
@@ -720,34 +719,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "G R Infraprojects Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRINFRA_17022026143131_LOA17022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:32:59",
-      "an_dt": "13-Feb-2026 19:32:59",
-      "desc": "General Updates",
-      "sm_name": "G R Infraprojects Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRINFRA_13022026193249_Outcome_of_BM.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:30:02",
-      "an_dt": "13-Feb-2026 19:30:02",
-      "desc": "Record Date",
-      "sm_name": "G R Infraprojects Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRINFRA_13022026192944_GRIL_dividend_intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:25:43",
-      "an_dt": "13-Feb-2026 19:25:43",
-      "desc": "Dividend",
-      "sm_name": "G R Infraprojects Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRINFRA_13022026192509_Outcome_of_BM.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:03:47",
-      "an_dt": "12-Feb-2026 15:03:47",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "G R Infraprojects Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRINFRA_12022026150134_Transcript_Cover_page.pdf"
     }
   ]
 }

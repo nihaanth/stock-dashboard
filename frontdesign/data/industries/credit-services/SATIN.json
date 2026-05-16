@@ -8,25 +8,9 @@
   "price": 161.55,
   "market_cap_cr": 1776.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 155.69,
-      "prev_close": 156.06,
-      "volume": 58110,
-      "deliverable_qty": 27561,
-      "delivery_pct": 47.43
-    },
-    {
-      "date": "2026-02-13",
-      "close": 154.33,
-      "prev_close": 155.69,
-      "volume": 94783,
-      "deliverable_qty": 61873,
-      "delivery_pct": 65.28
-    },
     {
       "date": "2026-02-16",
       "close": 151.56,
@@ -466,9 +450,31 @@
       "volume": 3007455,
       "deliverable_qty": 516390,
       "delivery_pct": 17.17
+    },
+    {
+      "date": "2026-05-15",
+      "close": 223.39,
+      "prev_close": 224.8,
+      "volume": 588437,
+      "deliverable_qty": 233051,
+      "delivery_pct": 39.61
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 15:25:29",
+      "an_dt": "15-May-2026 15:25:29",
+      "desc": "Committee Meeting Updates",
+      "sm_name": "Satin Creditcare Network Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATIN_15052026152449_OUTCOME.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 13:29:48",
+      "an_dt": "15-May-2026 13:29:48",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Satin Creditcare Network Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATIN_15052026132711_SCNLTRANSCRIPT.pdf"
+    },
     {
       "sort_date": "2026-05-12 16:41:15",
       "an_dt": "12-May-2026 16:41:15",
@@ -608,13 +614,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Satin Creditcare Network Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATIN_13032026110805_SATININTIMATION.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:13:19",
-      "an_dt": "13-Feb-2026 11:13:19",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Satin Creditcare Network Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATIN_13022026111125_Intimation_of_Investor_Meet.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 307.6,
   "market_cap_cr": 1408.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 335.15,
-      "prev_close": 345.35,
-      "volume": 268281,
-      "deliverable_qty": 107113,
-      "delivery_pct": 39.93
-    },
-    {
-      "date": "2026-02-13",
-      "close": 335.35,
-      "prev_close": 335.15,
-      "volume": 353058,
-      "deliverable_qty": 116431,
-      "delivery_pct": 32.98
-    },
     {
       "date": "2026-02-16",
       "close": 295.75,
@@ -466,9 +450,24 @@
       "volume": 224681,
       "deliverable_qty": 75663,
       "delivery_pct": 33.68
+    },
+    {
+      "date": "2026-05-15",
+      "close": 275.7,
+      "prev_close": 272.55,
+      "volume": 209795,
+      "deliverable_qty": 78438,
+      "delivery_pct": 37.39
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 11:46:06",
+      "an_dt": "15-May-2026 11:46:06",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Orient Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Orient97_15052026114555_MonitoringAgencyReport_Coverletter_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-08 17:33:21",
       "an_dt": "08-May-2026 17:33:21",
@@ -573,62 +572,6 @@
       "desc": "Updates",
       "sm_name": "Orient Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Orient97_14022026000256_InvestorPresentationfinalsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 23:53:56",
-      "an_dt": "13-Feb-2026 23:53:56",
-      "desc": "Press Release",
-      "sm_name": "Orient Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Orient97_13022026235345_Press_Release_Final_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:17:25",
-      "an_dt": "13-Feb-2026 21:17:25",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Orient Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Orient97_13022026211709_MonitoringAgencyReport_Coverletter_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:57:10",
-      "an_dt": "13-Feb-2026 20:57:10",
-      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "sm_name": "Orient Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Orient97_13022026205658_StatementofDeviation_Q3FY26_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:46:20",
-      "an_dt": "13-Feb-2026 20:46:20",
-      "desc": "Integrated Filing- Financial",
-      "sm_name": "Orient Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Orient97_13022026204605_OutcomeofBM13022026Final_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:21:05",
-      "an_dt": "13-Feb-2026 20:21:05",
-      "desc": "Integrated Filing- Financial",
-      "sm_name": "Orient Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Orient97_13022026202054_OutcomeofBM13022026Final_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:59:38",
-      "an_dt": "13-Feb-2026 19:59:38",
-      "desc": "Resignation",
-      "sm_name": "Orient Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Orient97_13022026195918_OutcomeofBM13022026Final_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:55:52",
-      "an_dt": "13-Feb-2026 19:55:52",
-      "desc": "Appointment",
-      "sm_name": "Orient Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Orient97_13022026195535_OutcomeofBM13022026Final_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:43:00",
-      "an_dt": "13-Feb-2026 19:43:00",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Orient Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Orient97_13022026194251_OutcomeofBM13022026Final_signed.pdf"
     }
   ]
 }

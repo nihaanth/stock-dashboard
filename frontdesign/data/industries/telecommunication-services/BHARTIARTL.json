@@ -8,25 +8,9 @@
   "price": 1759.8,
   "market_cap_cr": 1071977.28,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 2014.5,
-      "prev_close": 2012.1,
-      "volume": 7437690,
-      "deliverable_qty": 4388187,
-      "delivery_pct": 59.0
-    },
-    {
-      "date": "2026-02-13",
-      "close": 2004.7,
-      "prev_close": 2014.5,
-      "volume": 4808543,
-      "deliverable_qty": 2848028,
-      "delivery_pct": 59.23
-    },
     {
       "date": "2026-02-16",
       "close": 2029.4,
@@ -466,9 +450,38 @@
       "volume": 9825413,
       "deliverable_qty": 5589248,
       "delivery_pct": 56.89
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1905.4,
+      "prev_close": 1883.5,
+      "volume": 15807294,
+      "deliverable_qty": 11461610,
+      "delivery_pct": 72.51
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 15:25:53",
+      "an_dt": "15-May-2026 15:25:53",
+      "desc": "Action(s) taken or orders passed",
+      "sm_name": "Bharti Airtel Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARTIARTL_15052026151717_Bharti_Airtel_-_Reg_30_disclosure.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:14:44",
+      "an_dt": "14-May-2026 17:14:44",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Bharti Airtel Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARTIARTL_14052026171418_Earningcalloutcome14may.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 12:45:58",
+      "an_dt": "14-May-2026 12:45:58",
+      "desc": "General Updates",
+      "sm_name": "Bharti Airtel Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARTIARTL_14052026124531_STX_intimation_EV.pdf"
+    },
     {
       "sort_date": "2026-05-13 22:14:22",
       "an_dt": "13-May-2026 22:14:22",
@@ -909,20 +922,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Bharti Airtel Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARTIARTL_14022026170326_STXintimationCallMoneyNewspaperAd.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:20:40",
-      "an_dt": "13-Feb-2026 18:20:40",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Bharti Airtel Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARTIARTL_13022026181938_AirtelEarningCallTranscript.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:32:08",
-      "an_dt": "13-Feb-2026 17:32:08",
-      "desc": "General Updates",
-      "sm_name": "Bharti Airtel Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARTIARTL_13022026173149_STX_intimation_CallNotice.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 139.15,
   "market_cap_cr": 1208.33,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 135.61,
-      "prev_close": 133.07,
-      "volume": 460717,
-      "deliverable_qty": 159708,
-      "delivery_pct": 34.67
-    },
-    {
-      "date": "2026-02-13",
-      "close": 136.06,
-      "prev_close": 135.61,
-      "volume": 463291,
-      "deliverable_qty": 253602,
-      "delivery_pct": 54.74
-    },
     {
       "date": "2026-02-16",
       "close": 143.74,
@@ -466,9 +450,24 @@
       "volume": 246820,
       "deliverable_qty": 86089,
       "delivery_pct": 34.88
+    },
+    {
+      "date": "2026-05-15",
+      "close": 133.89,
+      "prev_close": 134.61,
+      "volume": 307208,
+      "deliverable_qty": 150090,
+      "delivery_pct": 48.86
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 15:27:27",
+      "an_dt": "15-May-2026 15:27:27",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Ind-Swift Laboratories Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDSWFTLAB_15052026152701_MA_Report_2026.pdf"
+    },
     {
       "sort_date": "2026-05-05 19:00:06",
       "an_dt": "05-May-2026 19:00:06",

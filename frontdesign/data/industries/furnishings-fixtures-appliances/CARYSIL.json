@@ -8,25 +8,9 @@
   "price": 920.55,
   "market_cap_cr": 2618.28,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 968.9,
-      "prev_close": 985.5,
-      "volume": 25006,
-      "deliverable_qty": 12068,
-      "delivery_pct": 48.26
-    },
-    {
-      "date": "2026-02-13",
-      "close": 975.8,
-      "prev_close": 968.9,
-      "volume": 50543,
-      "deliverable_qty": 23069,
-      "delivery_pct": 45.64
-    },
     {
       "date": "2026-02-16",
       "close": 974.9,
@@ -466,6 +450,14 @@
       "volume": 31272,
       "deliverable_qty": 14408,
       "delivery_pct": 46.07
+    },
+    {
+      "date": "2026-05-15",
+      "close": 918.45,
+      "prev_close": 912.35,
+      "volume": 66154,
+      "deliverable_qty": 30968,
+      "delivery_pct": 46.81
     }
   ],
   "news": [
@@ -643,13 +635,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "CARYSIL LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACRYSIL_17022026170642_Investor_Meeting_intimation_20022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 21:52:21",
-      "an_dt": "12-Feb-2026 21:52:21",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "CARYSIL LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACRYSIL_12022026215156_Transcript12022026.pdf"
     }
   ]
 }

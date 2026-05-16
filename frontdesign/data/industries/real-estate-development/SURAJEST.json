@@ -8,25 +8,9 @@
   "price": 216.55,
   "market_cap_cr": 1038.27,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 230.53,
-      "prev_close": 237.23,
-      "volume": 160678,
-      "deliverable_qty": 95607,
-      "delivery_pct": 59.5
-    },
-    {
-      "date": "2026-02-13",
-      "close": 224.99,
-      "prev_close": 230.53,
-      "volume": 63251,
-      "deliverable_qty": 20654,
-      "delivery_pct": 32.65
-    },
     {
       "date": "2026-02-16",
       "close": 222.19,
@@ -466,9 +450,31 @@
       "volume": 115070,
       "deliverable_qty": 47499,
       "delivery_pct": 41.28
+    },
+    {
+      "date": "2026-05-15",
+      "close": 217.37,
+      "prev_close": 219.7,
+      "volume": 50702,
+      "deliverable_qty": 23728,
+      "delivery_pct": 46.8
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:40:51",
+      "an_dt": "14-May-2026 17:40:51",
+      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
+      "sm_name": "Suraj Estate Developers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SURAJ_14052026174042_Statement_of_Deviation_March_2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:39:21",
+      "an_dt": "14-May-2026 17:39:21",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Suraj Estate Developers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SURAJ_14052026173907_MA_Report.pdf"
+    },
     {
       "sort_date": "2026-04-29 19:20:46",
       "an_dt": "29-Apr-2026 19:20:46",

@@ -8,25 +8,9 @@
   "price": 183.77,
   "market_cap_cr": 832.62,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 191.27,
-      "prev_close": 191.54,
-      "volume": 33658,
-      "deliverable_qty": 22628,
-      "delivery_pct": 67.23
-    },
-    {
-      "date": "2026-02-13",
-      "close": 194.16,
-      "prev_close": 191.27,
-      "volume": 460359,
-      "deliverable_qty": 113733,
-      "delivery_pct": 24.71
-    },
     {
       "date": "2026-02-16",
       "close": 188.41,
@@ -466,9 +450,24 @@
       "volume": 35249,
       "deliverable_qty": 18874,
       "delivery_pct": 53.54
+    },
+    {
+      "date": "2026-05-15",
+      "close": 170.08,
+      "prev_close": 170.08,
+      "volume": 41198,
+      "deliverable_qty": 23263,
+      "delivery_pct": 56.47
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 22:13:58",
+      "an_dt": "14-May-2026 22:13:58",
+      "desc": "Updates",
+      "sm_name": "NCL Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NCLIND_14052026221349_Cover_letter_NSEBSE.pdf"
+    },
     {
       "sort_date": "2026-04-24 15:38:50",
       "an_dt": "24-Apr-2026 15:38:50",
@@ -608,20 +607,6 @@
       "desc": "Updates",
       "sm_name": "NCL Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NCLIND_16022026181922_Fine_Initmation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:06:31",
-      "an_dt": "13-Feb-2026 15:06:31",
-      "desc": "Record Date",
-      "sm_name": "NCL Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NCLIND_13022026150611_Dividend_Intimation_13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:00:03",
-      "an_dt": "13-Feb-2026 15:00:03",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "NCL Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NCLIND_13022026145729_Outcome_Intimation_13022026.pdf"
     }
   ]
 }

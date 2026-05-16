@@ -8,25 +8,9 @@
   "price": 699.6,
   "market_cap_cr": 1401.28,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 615.8,
-      "prev_close": 528.85,
-      "volume": 1523836,
-      "deliverable_qty": 492850,
-      "delivery_pct": 32.34
-    },
-    {
-      "date": "2026-02-13",
-      "close": 654.3,
-      "prev_close": 615.8,
-      "volume": 738475,
-      "deliverable_qty": 309585,
-      "delivery_pct": 41.92
-    },
     {
       "date": "2026-02-16",
       "close": 623.55,
@@ -466,6 +450,14 @@
       "volume": 38378,
       "deliverable_qty": 16150,
       "delivery_pct": 42.08
+    },
+    {
+      "date": "2026-05-15",
+      "close": 644.2,
+      "prev_close": 666.05,
+      "volume": 39540,
+      "deliverable_qty": 22853,
+      "delivery_pct": 57.8
     }
   ],
   "news": [
@@ -524,27 +516,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Lincoln Pharmaceuticals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LINCOLN_18022026183601_Outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:46:08",
-      "an_dt": "13-Feb-2026 17:46:08",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Lincoln Pharmaceuticals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LINCOLN_13022026174218_Reg30InvestorscallIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:10:37",
-      "an_dt": "13-Feb-2026 15:10:37",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Lincoln Pharmaceuticals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LINCOLN_13022026151006_Newspaperintimation130202026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 11:30:54",
-      "an_dt": "12-Feb-2026 11:30:54",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Lincoln Pharmaceuticals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LINCOLN_12022026112753_Resultsfinal12022026.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 441.2,
   "market_cap_cr": 659.94,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 707.5,
-      "prev_close": 718.75,
-      "volume": 6210,
-      "deliverable_qty": 3227,
-      "delivery_pct": 51.96
-    },
-    {
-      "date": "2026-02-13",
-      "close": 697.9,
-      "prev_close": 707.5,
-      "volume": 12795,
-      "deliverable_qty": 5952,
-      "delivery_pct": 46.52
-    },
     {
       "date": "2026-02-16",
       "close": 607.05,
@@ -466,6 +450,14 @@
       "volume": 52629,
       "deliverable_qty": 19187,
       "delivery_pct": 36.46
+    },
+    {
+      "date": "2026-05-15",
+      "close": 415.35,
+      "prev_close": 423.55,
+      "volume": 26129,
+      "deliverable_qty": 14835,
+      "delivery_pct": 56.78
     }
   ],
   "news": [
@@ -538,13 +530,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Agarwal Industrial Corporation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AGARIND_14022026174137_Outcome_of_Board_Meeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:37:23",
-      "an_dt": "13-Feb-2026 14:37:23",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Agarwal Industrial Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AGARIND_13022026143711_Newspaper_Special_Window.pdf"
     }
   ]
 }

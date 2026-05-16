@@ -8,25 +8,9 @@
   "price": 256.3,
   "market_cap_cr": 2466.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 255.83,
-      "prev_close": 265.42,
-      "volume": 631207,
-      "deliverable_qty": 314493,
-      "delivery_pct": 49.82
-    },
-    {
-      "date": "2026-02-13",
-      "close": 250.06,
-      "prev_close": 255.83,
-      "volume": 360542,
-      "deliverable_qty": 121816,
-      "delivery_pct": 33.79
-    },
     {
       "date": "2026-02-16",
       "close": 256.13,
@@ -466,9 +450,24 @@
       "volume": 573333,
       "deliverable_qty": 158330,
       "delivery_pct": 27.62
+    },
+    {
+      "date": "2026-05-15",
+      "close": 240.25,
+      "prev_close": 243.15,
+      "volume": 465193,
+      "deliverable_qty": 129720,
+      "delivery_pct": 27.89
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 12:38:27",
+      "an_dt": "15-May-2026 12:38:27",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "EPACK Durable Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EPACKNSE_15052026123755_Letter_Monitoring_Agency_Report_Signed.pdf"
+    },
     {
       "sort_date": "2026-04-30 12:39:56",
       "an_dt": "30-Apr-2026 12:39:56",

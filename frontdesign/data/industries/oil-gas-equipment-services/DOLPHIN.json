@@ -8,25 +8,9 @@
   "price": 417.95,
   "market_cap_cr": 1671.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 420.9,
-      "prev_close": 430.45,
-      "volume": 13635,
-      "deliverable_qty": 6325,
-      "delivery_pct": 46.39
-    },
-    {
-      "date": "2026-02-13",
-      "close": 409.9,
-      "prev_close": 420.9,
-      "volume": 8270,
-      "deliverable_qty": 4589,
-      "delivery_pct": 55.49
-    },
     {
       "date": "2026-02-16",
       "close": 397.3,
@@ -466,6 +450,14 @@
       "volume": 63074,
       "deliverable_qty": 20026,
       "delivery_pct": 31.75
+    },
+    {
+      "date": "2026-05-15",
+      "close": 412.9,
+      "prev_close": 418.55,
+      "volume": 42316,
+      "deliverable_qty": 34465,
+      "delivery_pct": 81.45
     }
   ],
   "news": [
@@ -559,13 +551,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Dolphin Offshore Enterprises (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DOLPHINOFFSHORE_12032026113603_Outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 10:31:39",
-      "an_dt": "12-Feb-2026 10:31:39",
-      "desc": "Reply to Clarification- Financial results",
-      "sm_name": "Dolphin Offshore Enterprises (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DOLPHINOFFSHORE_09022026144607_Reply_to_NSE.pdf"
     }
   ]
 }

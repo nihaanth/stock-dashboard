@@ -8,25 +8,9 @@
   "price": 534.6,
   "market_cap_cr": 6387.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 525.35,
-      "prev_close": 521.65,
-      "volume": 144979,
-      "deliverable_qty": 96177,
-      "delivery_pct": 66.34
-    },
-    {
-      "date": "2026-02-13",
-      "close": 505.55,
-      "prev_close": 525.35,
-      "volume": 71596,
-      "deliverable_qty": 32118,
-      "delivery_pct": 44.86
-    },
     {
       "date": "2026-02-16",
       "close": 500.05,
@@ -466,9 +450,31 @@
       "volume": 26049,
       "deliverable_qty": 11386,
       "delivery_pct": 43.71
+    },
+    {
+      "date": "2026-05-15",
+      "close": 520.15,
+      "prev_close": 520.35,
+      "volume": 96780,
+      "deliverable_qty": 84354,
+      "delivery_pct": 87.16
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:03:53",
+      "an_dt": "15-May-2026 18:03:53",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Hindustan Foods Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9136565850_15052026180333_Earningcall_22052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:54:52",
+      "an_dt": "14-May-2026 17:54:52",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Hindustan Foods Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9136565850_14052026175413_SE_Monitoring_Agency_13052026.pdf"
+    },
     {
       "sort_date": "2026-05-04 17:45:53",
       "an_dt": "04-May-2026 17:45:53",

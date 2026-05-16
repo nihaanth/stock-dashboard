@@ -8,7 +8,7 @@
   "price": 114.2,
   "market_cap_cr": 581.3,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
     {
@@ -338,6 +338,14 @@
       "volume": 108079,
       "deliverable_qty": 64195,
       "delivery_pct": 59.4
+    },
+    {
+      "date": "2026-05-15",
+      "close": 105.02,
+      "prev_close": 105.95,
+      "volume": 73173,
+      "deliverable_qty": 39136,
+      "delivery_pct": 53.48
     }
   ],
   "news": [
@@ -417,13 +425,6 @@
       "desc": "General Updates",
       "sm_name": "Global Education Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLOBAL_10032026143736_GELUpdate10032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 12:13:21",
-      "an_dt": "12-Feb-2026 12:13:21",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Global Education Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLOBAL_12022026121310_NewspaperPublicationPB.pdf"
     }
   ]
 }

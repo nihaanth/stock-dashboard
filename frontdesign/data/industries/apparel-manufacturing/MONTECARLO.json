@@ -8,25 +8,9 @@
   "price": 580.0,
   "market_cap_cr": 1202.46,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 579.0,
-      "prev_close": 586.2,
-      "volume": 16911,
-      "deliverable_qty": 7727,
-      "delivery_pct": 45.69
-    },
-    {
-      "date": "2026-02-13",
-      "close": 583.7,
-      "prev_close": 579.0,
-      "volume": 19252,
-      "deliverable_qty": 9766,
-      "delivery_pct": 50.73
-    },
     {
       "date": "2026-02-16",
       "close": 580.6,
@@ -466,9 +450,24 @@
       "volume": 11957,
       "deliverable_qty": 5075,
       "delivery_pct": 42.44
+    },
+    {
+      "date": "2026-05-15",
+      "close": 576.8,
+      "prev_close": 568.35,
+      "volume": 18913,
+      "deliverable_qty": 10495,
+      "delivery_pct": 55.49
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 09:56:25",
+      "an_dt": "14-May-2026 09:56:25",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Monte Carlo Fashions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONTECARLO_14052026095532_letterinvite.pdf"
+    },
     {
       "sort_date": "2026-04-22 18:39:40",
       "an_dt": "22-Apr-2026 18:39:40",

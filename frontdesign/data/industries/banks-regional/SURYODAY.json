@@ -8,25 +8,9 @@
   "price": 179.44,
   "market_cap_cr": 1907.26,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 132.51,
-      "prev_close": 135.05,
-      "volume": 98921,
-      "deliverable_qty": 50095,
-      "delivery_pct": 50.64
-    },
-    {
-      "date": "2026-02-13",
-      "close": 129.86,
-      "prev_close": 132.51,
-      "volume": 137510,
-      "deliverable_qty": 86714,
-      "delivery_pct": 63.06
-    },
     {
       "date": "2026-02-16",
       "close": 123.32,
@@ -466,6 +450,14 @@
       "volume": 3004328,
       "deliverable_qty": 727244,
       "delivery_pct": 24.21
+    },
+    {
+      "date": "2026-05-15",
+      "close": 167.33,
+      "prev_close": 172.0,
+      "volume": 306155,
+      "deliverable_qty": 132188,
+      "delivery_pct": 43.18
     }
   ],
   "news": [
@@ -643,13 +635,6 @@
       "desc": "General Updates",
       "sm_name": "Suryoday Small Finance Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SURYODAY_25022026163207_Clarification_relating_to_Raising_of_Funds_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:56:08",
-      "an_dt": "12-Feb-2026 18:56:08",
-      "desc": "Change in Management",
-      "sm_name": "Suryoday Small Finance Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SURYODAY_12022026185402_Intimation_relating_to_the_appointment_of_CRO_CIV_sd.pdf"
     }
   ]
 }

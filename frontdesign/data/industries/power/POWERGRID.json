@@ -8,25 +8,9 @@
   "price": 310.9,
   "market_cap_cr": 289155.76,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 293.9,
-      "prev_close": 294.45,
-      "volume": 10482579,
-      "deliverable_qty": 6809558,
-      "delivery_pct": 64.96
-    },
-    {
-      "date": "2026-02-13",
-      "close": 287.2,
-      "prev_close": 293.9,
-      "volume": 10914157,
-      "deliverable_qty": 7656624,
-      "delivery_pct": 70.15
-    },
     {
       "date": "2026-02-16",
       "close": 300.5,
@@ -466,9 +450,38 @@
       "volume": 23775882,
       "deliverable_qty": 14629925,
       "delivery_pct": 61.53
+    },
+    {
+      "date": "2026-05-15",
+      "close": 305.85,
+      "prev_close": 301.75,
+      "volume": 10092811,
+      "deliverable_qty": 5953888,
+      "delivery_pct": 58.99
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 21:17:57",
+      "an_dt": "15-May-2026 21:17:57",
+      "desc": "General Updates",
+      "sm_name": "Power Grid Corporation of India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POWERGRID1_15052026211654_BSENSEReg30Dt15052026COIP_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 20:15:57",
+      "an_dt": "15-May-2026 20:15:57",
+      "desc": "Dividend",
+      "sm_name": "Power Grid Corporation of India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POWERGRID1_15052026201549_Dividend.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 19:46:24",
+      "an_dt": "15-May-2026 19:46:24",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Power Grid Corporation of India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POWERGRID1_15052026194448_BSENSEReg30dt15052026ResultsSigned.pdf"
+    },
     {
       "sort_date": "2026-05-12 21:18:27",
       "an_dt": "12-May-2026 21:18:27",
@@ -713,20 +726,6 @@
       "desc": "General Updates",
       "sm_name": "Power Grid Corporation of India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/POWERGRID1_24022026182048_BSENSEReg30dt24022026PNTLDOCO.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 22:56:41",
-      "an_dt": "12-Feb-2026 22:56:41",
-      "desc": "Acquisition",
-      "sm_name": "Power Grid Corporation of India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POWERGRID1_12022026225630_BSENSEReg30AcquisitionBDPTL12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 22:55:01",
-      "an_dt": "12-Feb-2026 22:55:01",
-      "desc": "Credit Rating",
-      "sm_name": "Power Grid Corporation of India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POWERGRID1_12022026225452_BSENSECrediRating12022026.pdf"
     }
   ]
 }

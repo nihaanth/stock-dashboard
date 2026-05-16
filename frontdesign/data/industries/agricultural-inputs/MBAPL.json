@@ -8,25 +8,9 @@
   "price": 550.25,
   "market_cap_cr": 4821.67,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 467.95,
-      "prev_close": 464.25,
-      "volume": 399045,
-      "deliverable_qty": 210155,
-      "delivery_pct": 52.66
-    },
-    {
-      "date": "2026-02-13",
-      "close": 464.75,
-      "prev_close": 467.95,
-      "volume": 258580,
-      "deliverable_qty": 135425,
-      "delivery_pct": 52.37
-    },
     {
       "date": "2026-02-16",
       "close": 480.6,
@@ -466,9 +450,24 @@
       "volume": 146955,
       "deliverable_qty": 49579,
       "delivery_pct": 33.74
+    },
+    {
+      "date": "2026-05-15",
+      "close": 535.3,
+      "prev_close": 529.95,
+      "volume": 127649,
+      "deliverable_qty": 37720,
+      "delivery_pct": 29.55
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 15:21:02",
+      "an_dt": "15-May-2026 15:21:02",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Madhya Bharat Agro Products Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MBAPL_15052026151957_MBAPL.pdf"
+    },
     {
       "sort_date": "2026-04-24 18:20:17",
       "an_dt": "24-Apr-2026 18:20:17",

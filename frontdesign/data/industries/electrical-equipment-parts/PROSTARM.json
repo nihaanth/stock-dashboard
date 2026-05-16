@@ -8,25 +8,9 @@
   "price": 159.83,
   "market_cap_cr": 940.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 174.42,
-      "prev_close": 172.84,
-      "volume": 295398,
-      "deliverable_qty": 119463,
-      "delivery_pct": 40.44
-    },
-    {
-      "date": "2026-02-13",
-      "close": 171.87,
-      "prev_close": 174.42,
-      "volume": 264705,
-      "deliverable_qty": 118217,
-      "delivery_pct": 44.66
-    },
     {
       "date": "2026-02-16",
       "close": 161.13,
@@ -466,9 +450,24 @@
       "volume": 409740,
       "deliverable_qty": 164999,
       "delivery_pct": 40.27
+    },
+    {
+      "date": "2026-05-15",
+      "close": 140.27,
+      "prev_close": 142.64,
+      "volume": 276367,
+      "deliverable_qty": 138895,
+      "delivery_pct": 50.26
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 11:44:59",
+      "an_dt": "14-May-2026 11:44:59",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Prostarm Info Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PROSTARM_14052026114450_SE_Monitoring_Report.pdf"
+    },
     {
       "sort_date": "2026-05-13 17:37:50",
       "an_dt": "13-May-2026 17:37:50",
@@ -622,34 +621,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Prostarm Info Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PROSTARM_14022026102902_SE_NEWSPAPER.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:48:33",
-      "an_dt": "13-Feb-2026 17:48:33",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Prostarm Info Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PROSTARM_13022026174825_SE_Monitoring_Report.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:30:02",
-      "an_dt": "13-Feb-2026 17:30:02",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Prostarm Info Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PROSTARM_13022026172817_SE_Outcome_of_BM.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:28:13",
-      "an_dt": "12-Feb-2026 17:28:13",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Prostarm Info Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PROSTARM_12022026172806_SE_Inv_Mytrah.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:16:27",
-      "an_dt": "12-Feb-2026 17:16:27",
-      "desc": "Awarding of order(s)/contract(s)",
-      "sm_name": "Prostarm Info Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PROSTARM_12022026171615_SE_L1_WBMSC.pdf"
     }
   ]
 }

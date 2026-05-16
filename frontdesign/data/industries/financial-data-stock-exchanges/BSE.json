@@ -8,25 +8,9 @@
   "price": 3303.6,
   "market_cap_cr": 134168.81,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 3143.2,
-      "prev_close": 3177.1,
-      "volume": 2525871,
-      "deliverable_qty": 697185,
-      "delivery_pct": 27.6
-    },
-    {
-      "date": "2026-02-13",
-      "close": 3025.3,
-      "prev_close": 3143.2,
-      "volume": 3885000,
-      "deliverable_qty": 1138007,
-      "delivery_pct": 29.29
-    },
     {
       "date": "2026-02-16",
       "close": 2804.6,
@@ -466,9 +450,31 @@
       "volume": 3250454,
       "deliverable_qty": 1119324,
       "delivery_pct": 34.44
+    },
+    {
+      "date": "2026-05-15",
+      "close": 4000.6,
+      "prev_close": 4037.6,
+      "volume": 4256007,
+      "deliverable_qty": 1664605,
+      "delivery_pct": 39.11
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 16:18:01",
+      "an_dt": "15-May-2026 16:18:01",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "BSE Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BSE1_15052026161541_NSEintimation.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 16:18:01",
+      "an_dt": "15-May-2026 16:18:01",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "BSE Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BSE1_15052026161355_NSEintimation.pdf"
+    },
     {
       "sort_date": "2026-05-13 17:22:38",
       "an_dt": "13-May-2026 17:22:38",
@@ -706,20 +712,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "BSE Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BSE1_17022026163414_NSEintimation17022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:27:42",
-      "an_dt": "13-Feb-2026 18:27:42",
-      "desc": "Updates",
-      "sm_name": "BSE Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BSE1_13022026182721_NSEintimationsd.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:50:34",
-      "an_dt": "13-Feb-2026 17:50:34",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "BSE Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BSE1_13022026174918_NSEintimation13022026.pdf"
     }
   ]
 }

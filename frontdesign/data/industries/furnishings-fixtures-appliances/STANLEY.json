@@ -8,25 +8,9 @@
   "price": 134.98,
   "market_cap_cr": 771.08,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 179.92,
-      "prev_close": 184.91,
-      "volume": 519880,
-      "deliverable_qty": 215303,
-      "delivery_pct": 41.41
-    },
-    {
-      "date": "2026-02-13",
-      "close": 168.21,
-      "prev_close": 179.92,
-      "volume": 641436,
-      "deliverable_qty": 237537,
-      "delivery_pct": 37.03
-    },
     {
       "date": "2026-02-16",
       "close": 172.72,
@@ -466,9 +450,31 @@
       "volume": 87977,
       "deliverable_qty": 40434,
       "delivery_pct": 45.96
+    },
+    {
+      "date": "2026-05-15",
+      "close": 156.24,
+      "prev_close": 157.4,
+      "volume": 96069,
+      "deliverable_qty": 44118,
+      "delivery_pct": 45.92
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:56:56",
+      "an_dt": "14-May-2026 17:56:56",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Stanley Lifestyles Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STANLEY2023_14052026175644_ICRA.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:44:40",
+      "an_dt": "14-May-2026 17:44:40",
+      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
+      "sm_name": "Stanley Lifestyles Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STANLEY2023_14052026174433_Statement_of_Deviation.pdf"
+    },
     {
       "sort_date": "2026-05-07 11:57:28",
       "an_dt": "07-May-2026 11:57:28",
@@ -608,55 +614,6 @@
       "desc": "Monitoring Agency Report",
       "sm_name": "Stanley Lifestyles Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/STANLEY2023_16022026203157_ICRAdec25.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:15:25",
-      "an_dt": "13-Feb-2026 19:15:25",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Stanley Lifestyles Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STANLEY2023_13022026191513_earingscallaudiosd.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:52:24",
-      "an_dt": "13-Feb-2026 11:52:24",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Stanley Lifestyles Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STANLEY2023_13022026115213_diclosurereg47sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 20:10:32",
-      "an_dt": "12-Feb-2026 20:10:32",
-      "desc": "Investor Presentation",
-      "sm_name": "Stanley Lifestyles Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STANLEY2023_12022026200955_earningspresentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 20:00:44",
-      "an_dt": "12-Feb-2026 20:00:44",
-      "desc": "Press Release",
-      "sm_name": "Stanley Lifestyles Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STANLEY2023_12022026200030_Earningsrelease.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:38:43",
-      "an_dt": "12-Feb-2026 19:38:43",
-      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "sm_name": "Stanley Lifestyles Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STANLEY2023_12022026193815_DeviationandvariationQ3.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:07:39",
-      "an_dt": "12-Feb-2026 19:07:39",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Stanley Lifestyles Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STANLEY2023_12022026190722_ESOP_Pdf.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:42:24",
-      "an_dt": "12-Feb-2026 18:42:24",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Stanley Lifestyles Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STANLEY2023_12022026183706_BMoutcomeQ3.pdf"
     }
   ]
 }

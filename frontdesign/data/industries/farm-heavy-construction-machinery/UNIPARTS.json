@@ -8,25 +8,9 @@
   "price": 496.5,
   "market_cap_cr": 2241.78,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 516.65,
-      "prev_close": 513.4,
-      "volume": 100461,
-      "deliverable_qty": 45650,
-      "delivery_pct": 45.44
-    },
-    {
-      "date": "2026-02-13",
-      "close": 515.65,
-      "prev_close": 516.65,
-      "volume": 78330,
-      "deliverable_qty": 46687,
-      "delivery_pct": 59.6
-    },
     {
       "date": "2026-02-16",
       "close": 492.85,
@@ -466,6 +450,14 @@
       "volume": 96739,
       "deliverable_qty": 61917,
       "delivery_pct": 64.0
+    },
+    {
+      "date": "2026-05-15",
+      "close": 537.15,
+      "prev_close": 538.75,
+      "volume": 84658,
+      "deliverable_qty": 47437,
+      "delivery_pct": 56.03
     }
   ],
   "news": [
@@ -524,13 +516,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Uniparts India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Earth_2018_17022026111942_Q325EarningsCallTranscript.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:35:49",
-      "an_dt": "12-Feb-2026 18:35:49",
-      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-      "sm_name": "Uniparts India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Earth_2018_12022026183539_Intimationdated12022026.pdf"
     }
   ]
 }

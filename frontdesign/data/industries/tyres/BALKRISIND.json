@@ -8,25 +8,9 @@
   "price": 2234.3,
   "market_cap_cr": 43192.86,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 2641.3,
-      "prev_close": 2679.6,
-      "volume": 111780,
-      "deliverable_qty": 59698,
-      "delivery_pct": 53.41
-    },
-    {
-      "date": "2026-02-13",
-      "close": 2611.8,
-      "prev_close": 2641.3,
-      "volume": 200893,
-      "deliverable_qty": 138095,
-      "delivery_pct": 68.74
-    },
     {
       "date": "2026-02-16",
       "close": 2575.7,
@@ -466,9 +450,24 @@
       "volume": 502422,
       "deliverable_qty": 307855,
       "delivery_pct": 61.27
+    },
+    {
+      "date": "2026-05-15",
+      "close": 2148.3,
+      "prev_close": 2191.1,
+      "volume": 39566,
+      "deliverable_qty": 20154,
+      "delivery_pct": 50.94
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 16:53:28",
+      "an_dt": "14-May-2026 16:53:28",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Balkrishna Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BALKRISIND_14052026164725_TranscriptconferencecallQ4.pdf"
+    },
     {
       "sort_date": "2026-05-11 17:42:21",
       "an_dt": "11-May-2026 17:42:21",

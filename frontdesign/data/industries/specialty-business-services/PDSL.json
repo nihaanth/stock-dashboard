@@ -8,25 +8,9 @@
   "price": 292.95,
   "market_cap_cr": 4152.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 318.5,
-      "prev_close": 330.4,
-      "volume": 70763,
-      "deliverable_qty": 41475,
-      "delivery_pct": 58.61
-    },
-    {
-      "date": "2026-02-13",
-      "close": 324.2,
-      "prev_close": 318.5,
-      "volume": 130390,
-      "deliverable_qty": 67439,
-      "delivery_pct": 51.72
-    },
     {
       "date": "2026-02-16",
       "close": 323.65,
@@ -466,9 +450,73 @@
       "volume": 31090,
       "deliverable_qty": 17464,
       "delivery_pct": 56.17
+    },
+    {
+      "date": "2026-05-15",
+      "close": 280.25,
+      "prev_close": 279.5,
+      "volume": 48666,
+      "deliverable_qty": 25613,
+      "delivery_pct": 52.63
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 20:46:23",
+      "an_dt": "15-May-2026 20:46:23",
+      "desc": "Change in Management",
+      "sm_name": "PDS Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_15052026204611_Ltr_BoardMeetingOutcome_15052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 20:43:54",
+      "an_dt": "15-May-2026 20:43:54",
+      "desc": "Press Release",
+      "sm_name": "PDS Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_15052026204341_Ltr_Press_Release_15052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 20:41:13",
+      "an_dt": "15-May-2026 20:41:13",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "PDS Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_15052026204055_Ltr_MonitoringAgencyReport_15052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 20:38:23",
+      "an_dt": "15-May-2026 20:38:23",
+      "desc": "Investor Presentation",
+      "sm_name": "PDS Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_15052026203809_Ltr_InvestorPPT_15052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 20:26:22",
+      "an_dt": "15-May-2026 20:26:22",
+      "desc": "Record Date",
+      "sm_name": "PDS Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_15052026202539_Ltr_BoardMeetingOutcome_15052026_Sd.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 20:24:04",
+      "an_dt": "15-May-2026 20:24:04",
+      "desc": "Dividend",
+      "sm_name": "PDS Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_15052026202324_Ltr_BoardMeetingOutcome_15052026_Sd.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 20:16:16",
+      "an_dt": "15-May-2026 20:16:16",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "PDS Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_15052026201103_Ltr_BoardMeetingOutcome_15052026_Sd.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 10:58:32",
+      "an_dt": "14-May-2026 10:58:32",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "PDS Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_14052026105645_Ltr_RevisedIntimationofConCall_14052026.pdf"
+    },
     {
       "sort_date": "2026-05-12 18:24:46",
       "an_dt": "12-May-2026 18:24:46",
@@ -615,20 +663,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "PDS Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_17022026161622_Ltr_IntimationofConCallTranscript_17022026_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:34:17",
-      "an_dt": "13-Feb-2026 11:34:17",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "PDS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_13022026113343_Ltr_PostalBallot_PostAdvt_13022026_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:07:56",
-      "an_dt": "12-Feb-2026 16:07:56",
-      "desc": "Shareholders meeting",
-      "sm_name": "PDS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_12022026160743_Ltr_PostalBallot_Notice_12022026.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 2436.2,
   "market_cap_cr": 41270.7,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 2668.5,
-      "prev_close": 2699.3,
-      "volume": 43439,
-      "deliverable_qty": 18322,
-      "delivery_pct": 42.18
-    },
-    {
-      "date": "2026-02-13",
-      "close": 2594.4,
-      "prev_close": 2668.5,
-      "volume": 61048,
-      "deliverable_qty": 36386,
-      "delivery_pct": 59.6
-    },
     {
       "date": "2026-02-16",
       "close": 2597.3,
@@ -466,9 +450,24 @@
       "volume": 137886,
       "deliverable_qty": 43929,
       "delivery_pct": 31.86
+    },
+    {
+      "date": "2026-05-15",
+      "close": 2438.8,
+      "prev_close": 2416.7,
+      "volume": 44704,
+      "deliverable_qty": 23211,
+      "delivery_pct": 51.92
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 11:47:31",
+      "an_dt": "14-May-2026 11:47:31",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "GlaxoSmithKline Pharmaceuticals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLAXO1924_14052026114717_Regulation_47.pdf"
+    },
     {
       "sort_date": "2026-05-13 19:35:57",
       "an_dt": "13-May-2026 19:35:57",

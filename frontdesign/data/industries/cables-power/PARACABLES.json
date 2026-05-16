@@ -8,25 +8,9 @@
   "price": 60.07,
   "market_cap_cr": 1833.4,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 36.89,
-      "prev_close": 39.18,
-      "volume": 853619,
-      "deliverable_qty": 486264,
-      "delivery_pct": 56.96
-    },
-    {
-      "date": "2026-02-13",
-      "close": 35.7,
-      "prev_close": 36.89,
-      "volume": 605183,
-      "deliverable_qty": 299811,
-      "delivery_pct": 49.54
-    },
     {
       "date": "2026-02-16",
       "close": 34.59,
@@ -466,9 +450,24 @@
       "volume": 8289775,
       "deliverable_qty": 3187529,
       "delivery_pct": 38.45
+    },
+    {
+      "date": "2026-05-15",
+      "close": 56.26,
+      "prev_close": 57.76,
+      "volume": 2583653,
+      "deliverable_qty": 981510,
+      "delivery_pct": 37.99
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:12:28",
+      "an_dt": "15-May-2026 18:12:28",
+      "desc": "Shareholders meeting",
+      "sm_name": "Paramount Communications Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARACABLES_15052026181120_EGM_INTIMATION.pdf"
+    },
     {
       "sort_date": "2026-05-13 18:47:31",
       "an_dt": "13-May-2026 18:47:31",
@@ -559,34 +558,6 @@
       "desc": "Updates",
       "sm_name": "Paramount Communications Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARACABLES_17032026171304_PCL_Disclosure.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:08:13",
-      "an_dt": "13-Feb-2026 17:08:13",
-      "desc": "General Updates",
-      "sm_name": "Paramount Communications Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARACABLES_13022026170706_ParamountEarningRelease.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 10:57:17",
-      "an_dt": "13-Feb-2026 10:57:17",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Paramount Communications Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARACABLES_13022026105623_20260213130005.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:23:34",
-      "an_dt": "12-Feb-2026 16:23:34",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Paramount Communications Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARACABLES_12022026162015_RESULT31122025.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:18:14",
-      "an_dt": "12-Feb-2026 16:18:14",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Paramount Communications Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARACABLES_12022026161346_RESULT31122025.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 900.55,
   "market_cap_cr": 15536.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 985.0,
-      "prev_close": 1022.5,
-      "volume": 880044,
-      "deliverable_qty": 330163,
-      "delivery_pct": 37.52
-    },
-    {
-      "date": "2026-02-13",
-      "close": 968.1,
-      "prev_close": 985.0,
-      "volume": 803219,
-      "deliverable_qty": 264359,
-      "delivery_pct": 32.91
-    },
     {
       "date": "2026-02-16",
       "close": 1000.9,
@@ -466,6 +450,14 @@
       "volume": 1068000,
       "deliverable_qty": 468189,
       "delivery_pct": 43.84
+    },
+    {
+      "date": "2026-05-15",
+      "close": 808.2,
+      "prev_close": 820.4,
+      "volume": 2022597,
+      "deliverable_qty": 1326970,
+      "delivery_pct": 65.61
     }
   ],
   "news": [
@@ -713,27 +705,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Kfin Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KFINTECHNSE_14022026125239_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:10:34",
-      "an_dt": "13-Feb-2026 20:10:34",
-      "desc": "Investor Presentation",
-      "sm_name": "Kfin Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KFINTECHNSE_13022026200929_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:18:55",
-      "an_dt": "13-Feb-2026 19:18:55",
-      "desc": "Press Release",
-      "sm_name": "Kfin Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KFINTECHNSE_13022026191744_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:43:35",
-      "an_dt": "13-Feb-2026 18:43:35",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Kfin Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KFINTECHNSE_13022026184319_Outcome.pdf"
     }
   ]
 }

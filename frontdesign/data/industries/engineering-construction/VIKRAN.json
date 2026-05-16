@@ -8,25 +8,9 @@
   "price": 73.56,
   "market_cap_cr": 1897.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 86.85,
-      "prev_close": 86.41,
-      "volume": 2087499,
-      "deliverable_qty": 812310,
-      "delivery_pct": 38.91
-    },
-    {
-      "date": "2026-02-13",
-      "close": 85.88,
-      "prev_close": 86.85,
-      "volume": 1806725,
-      "deliverable_qty": 666350,
-      "delivery_pct": 36.88
-    },
     {
       "date": "2026-02-16",
       "close": 77.18,
@@ -466,9 +450,24 @@
       "volume": 1636877,
       "deliverable_qty": 441020,
       "delivery_pct": 26.94
+    },
+    {
+      "date": "2026-05-15",
+      "close": 69.15,
+      "prev_close": 70.85,
+      "volume": 969210,
+      "deliverable_qty": 366326,
+      "delivery_pct": 37.8
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 20:49:13",
+      "an_dt": "15-May-2026 20:49:13",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Vikran Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIKRAN123_15052026204851_MonitoryAgencyReportsigned14052026.pdf"
+    },
     {
       "sort_date": "2026-05-05 18:42:10",
       "an_dt": "05-May-2026 18:42:10",
@@ -629,13 +628,6 @@
       "desc": "Monitoring Agency Report",
       "sm_name": "Vikran Engineering Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIKRAN123_14022026005048_Disclosure-Monitory_Agency_Report_Dec_25.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:05:47",
-      "an_dt": "13-Feb-2026 21:05:47",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Vikran Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIKRAN123_13022026210406_Intimation_outcome_of_board_meeting.pdf"
     }
   ]
 }

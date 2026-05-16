@@ -8,25 +8,9 @@
   "price": 847.0,
   "market_cap_cr": 2910.94,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1363.9,
-      "prev_close": 1406.0,
-      "volume": 42090,
-      "deliverable_qty": 17416,
-      "delivery_pct": 41.38
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1358.8,
-      "prev_close": 1363.9,
-      "volume": 62529,
-      "deliverable_qty": 13625,
-      "delivery_pct": 21.79
-    },
     {
       "date": "2026-02-16",
       "close": 1284.2,
@@ -466,9 +450,24 @@
       "volume": 59148,
       "deliverable_qty": 22393,
       "delivery_pct": 37.86
+    },
+    {
+      "date": "2026-05-15",
+      "close": 946.35,
+      "prev_close": 909.65,
+      "volume": 292240,
+      "deliverable_qty": 105414,
+      "delivery_pct": 36.07
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 11:39:44",
+      "an_dt": "14-May-2026 11:39:44",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Hind Rectifiers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HIRECT_14052026113221_Earnings_Call.pdf"
+    },
     {
       "sort_date": "2026-05-13 15:16:58",
       "an_dt": "13-May-2026 15:16:58",
@@ -615,20 +614,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Hind Rectifiers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HIRECT_16022026193452_Transcript_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 14:48:00",
-      "an_dt": "12-Feb-2026 14:48:00",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Hind Rectifiers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HIRECT_12022026144748_75-Newspaper-Publication-071125.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:11:01",
-      "an_dt": "12-Feb-2026 13:11:01",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Hind Rectifiers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HIRECT_12022026131046_76AudioRecordingEarningcalls.pdf"
     }
   ]
 }

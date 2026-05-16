@@ -8,25 +8,9 @@
   "price": 5228.5,
   "market_cap_cr": 104618.6,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 5733.0,
-      "prev_close": 5682.5,
-      "volume": 560676,
-      "deliverable_qty": 217114,
-      "delivery_pct": 38.72
-    },
-    {
-      "date": "2026-02-13",
-      "close": 5584.0,
-      "prev_close": 5733.0,
-      "volume": 394003,
-      "deliverable_qty": 198792,
-      "delivery_pct": 50.45
-    },
     {
       "date": "2026-02-16",
       "close": 5492.0,
@@ -466,9 +450,38 @@
       "volume": 494571,
       "deliverable_qty": 239118,
       "delivery_pct": 48.35
+    },
+    {
+      "date": "2026-05-15",
+      "close": 5064.5,
+      "prev_close": 5077.0,
+      "volume": 425856,
+      "deliverable_qty": 180029,
+      "delivery_pct": 42.27
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:56:17",
+      "an_dt": "15-May-2026 17:56:17",
+      "desc": "General Updates",
+      "sm_name": "Hero MotoCorp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEROMOTO_15052026175604_Stxintimation15052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 14:35:22",
+      "an_dt": "15-May-2026 14:35:22",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Hero MotoCorp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEROMOTO_15052026143441_Stxintimation15052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 13:34:05",
+      "an_dt": "14-May-2026 13:34:05",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Hero MotoCorp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEROMOTO_14052026133352_Stxintimation14052026newspaperadvertisment.pdf"
+    },
     {
       "sort_date": "2026-05-11 13:04:57",
       "an_dt": "11-May-2026 13:04:57",
@@ -671,13 +684,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Hero MotoCorp Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEROMOTO_17022026125730_Stxintimation17022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 14:50:56",
-      "an_dt": "12-Feb-2026 14:50:56",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Hero MotoCorp Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEROMOTO_12022026144942_Transcript12022026.pdf"
     }
   ]
 }

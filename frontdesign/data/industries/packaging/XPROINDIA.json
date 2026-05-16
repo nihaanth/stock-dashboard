@@ -8,25 +8,9 @@
   "price": 1133.1,
   "market_cap_cr": 2659.43,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 945.95,
-      "prev_close": 967.95,
-      "volume": 18461,
-      "deliverable_qty": 12120,
-      "delivery_pct": 65.65
-    },
-    {
-      "date": "2026-02-13",
-      "close": 924.1,
-      "prev_close": 945.95,
-      "volume": 40404,
-      "deliverable_qty": 22456,
-      "delivery_pct": 55.58
-    },
     {
       "date": "2026-02-16",
       "close": 903.7,
@@ -466,9 +450,24 @@
       "volume": 10517,
       "deliverable_qty": 5686,
       "delivery_pct": 54.06
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1084.9,
+      "prev_close": 1098.8,
+      "volume": 11694,
+      "deliverable_qty": 7193,
+      "delivery_pct": 61.51
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 16:16:51",
+      "an_dt": "14-May-2026 16:16:51",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Xpro India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/XPROINDIASKD_14052026161543_Earnings_Concall_Invite_signed.pdf"
+    },
     {
       "sort_date": "2026-05-13 19:30:26",
       "an_dt": "13-May-2026 19:30:26",

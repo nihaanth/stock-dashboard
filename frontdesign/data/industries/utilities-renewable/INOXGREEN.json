@@ -8,25 +8,9 @@
   "price": 160.05,
   "market_cap_cr": 6429.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 176.1,
-      "prev_close": 177.17,
-      "volume": 588626,
-      "deliverable_qty": 195285,
-      "delivery_pct": 33.18
-    },
-    {
-      "date": "2026-02-13",
-      "close": 171.04,
-      "prev_close": 176.1,
-      "volume": 473106,
-      "deliverable_qty": 223885,
-      "delivery_pct": 47.32
-    },
     {
       "date": "2026-02-16",
       "close": 170.84,
@@ -466,9 +450,31 @@
       "volume": 1247957,
       "deliverable_qty": 541184,
       "delivery_pct": 43.37
+    },
+    {
+      "date": "2026-05-15",
+      "close": 177.64,
+      "prev_close": 179.75,
+      "volume": 1255323,
+      "deliverable_qty": 532915,
+      "delivery_pct": 42.45
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:56:48",
+      "an_dt": "15-May-2026 17:56:48",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Inox Green Energy Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGESL_15052026175618_IGESL_MA_Report_Q4_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 20:04:53",
+      "an_dt": "14-May-2026 20:04:53",
+      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
+      "sm_name": "Inox Green Energy Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGESL_14052026195555_IGESL_Nil_Deviation_Report.pdf"
+    },
     {
       "sort_date": "2026-05-04 18:28:46",
       "an_dt": "04-May-2026 18:28:46",
@@ -559,48 +565,6 @@
       "desc": "General Updates",
       "sm_name": "Inox Green Energy Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGESL_19022026083536_IGESL_Reg30_WWIL_dsc.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:50:12",
-      "an_dt": "13-Feb-2026 20:50:12",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Inox Green Energy Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGESL_13022026204954_5_IGESL_Audio_Recoding_concall.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:42:56",
-      "an_dt": "13-Feb-2026 20:42:56",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Inox Green Energy Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGESL_13022026204223_4_IGESL_MA_Report_Q3.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:21:30",
-      "an_dt": "13-Feb-2026 19:21:30",
-      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "sm_name": "Inox Green Energy Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGESL_13022026192033_3_IGESL_NIL_DeviationReportFDSC.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:25:47",
-      "an_dt": "13-Feb-2026 16:25:47",
-      "desc": "Investor Presentation",
-      "sm_name": "Inox Green Energy Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGESL_13022026162524_2_IGESL_Earning_Presentations.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:57:33",
-      "an_dt": "13-Feb-2026 15:57:33",
-      "desc": "Appointment",
-      "sm_name": "Inox Green Energy Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGESL_13022026155658_1_IGESL_BM_Outcome_13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:53:35",
-      "an_dt": "13-Feb-2026 15:53:35",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Inox Green Energy Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGESL_13022026155239_1_IGESL_BM_Outcome_13022026.pdf"
     }
   ]
 }

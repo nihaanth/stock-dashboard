@@ -8,25 +8,9 @@
   "price": 555.6,
   "market_cap_cr": 6855.99,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 655.45,
-      "prev_close": 636.3,
-      "volume": 2326491,
-      "deliverable_qty": 472333,
-      "delivery_pct": 20.3
-    },
-    {
-      "date": "2026-02-13",
-      "close": 640.1,
-      "prev_close": 655.45,
-      "volume": 944093,
-      "deliverable_qty": 288135,
-      "delivery_pct": 30.52
-    },
     {
       "date": "2026-02-16",
       "close": 564.7,
@@ -466,9 +450,31 @@
       "volume": 760848,
       "deliverable_qty": 244707,
       "delivery_pct": 32.16
+    },
+    {
+      "date": "2026-05-15",
+      "close": 508.6,
+      "prev_close": 522.3,
+      "volume": 562979,
+      "deliverable_qty": 264438,
+      "delivery_pct": 46.97
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:19:22",
+      "an_dt": "15-May-2026 18:19:22",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shakti Pumps (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHAKTIPUMP_15052026181906_SubmissionofEarningTranscript.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:38:27",
+      "an_dt": "14-May-2026 17:38:27",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Shakti Pumps (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHAKTIPUMP_14052026173806_IntimationofNewspaper.pdf"
+    },
     {
       "sort_date": "2026-05-11 16:56:49",
       "an_dt": "11-May-2026 16:56:49",
@@ -650,48 +656,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Shakti Pumps (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHAKTIPUMP_14022026134939_IntimationofNewspaper-.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:09:40",
-      "an_dt": "13-Feb-2026 20:09:40",
-      "desc": "Investor Presentation",
-      "sm_name": "Shakti Pumps (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHAKTIPUMP_13022026200921_LetterInvestorPresentationQ32526.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:28:33",
-      "an_dt": "13-Feb-2026 19:28:33",
-      "desc": "General Updates",
-      "sm_name": "Shakti Pumps (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHAKTIPUMP_13022026192650_LetterResultReleaseQ32526.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:50:31",
-      "an_dt": "13-Feb-2026 18:50:31",
-      "desc": "Appointment",
-      "sm_name": "Shakti Pumps (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHAKTIPUMP_13022026184920_Reg30changeindirector_.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:44:36",
-      "an_dt": "13-Feb-2026 18:44:36",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Shakti Pumps (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHAKTIPUMP_13022026183601_OutcomeofBM.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:32:37",
-      "an_dt": "13-Feb-2026 18:32:37",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Shakti Pumps (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHAKTIPUMP_13022026183024_OutcomeofBM.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:27:03",
-      "an_dt": "13-Feb-2026 18:27:03",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Shakti Pumps (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHAKTIPUMP_13022026182549_DisclosureunderReg32_6_Monitoringagencyreport.pdf"
     }
   ]
 }

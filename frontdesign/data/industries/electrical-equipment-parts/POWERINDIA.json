@@ -8,25 +8,9 @@
   "price": 28325.0,
   "market_cap_cr": 126344.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 22702.0,
-      "prev_close": 22731.0,
-      "volume": 164420,
-      "deliverable_qty": 48798,
-      "delivery_pct": 29.68
-    },
-    {
-      "date": "2026-02-13",
-      "close": 22418.0,
-      "prev_close": 22702.0,
-      "volume": 72497,
-      "deliverable_qty": 13499,
-      "delivery_pct": 18.62
-    },
     {
       "date": "2026-02-16",
       "close": 22824.0,
@@ -466,9 +450,31 @@
       "volume": 115951,
       "deliverable_qty": 48801,
       "delivery_pct": 42.09
+    },
+    {
+      "date": "2026-05-15",
+      "close": 32535.0,
+      "prev_close": 32290.0,
+      "volume": 107740,
+      "deliverable_qty": 36452,
+      "delivery_pct": 33.83
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 14:27:13",
+      "an_dt": "15-May-2026 14:27:13",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Hitachi Energy India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HitachiEnergy_15052026142529_BMNoticeAnalystinvite.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 10:54:22",
+      "an_dt": "15-May-2026 10:54:22",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Hitachi Energy India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HitachiEnergy_15052026104848_InvestorDay.pdf"
+    },
     {
       "sort_date": "2026-05-13 19:23:31",
       "an_dt": "13-May-2026 19:23:31",
@@ -517,20 +523,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Hitachi Energy India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HitachiEnergy_25022026203434_CoveringLetter.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:37:39",
-      "an_dt": "12-Feb-2026 18:37:39",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Hitachi Energy India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HitachiEnergy_12022026183716_AnalystMeet.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:35:09",
-      "an_dt": "12-Feb-2026 18:35:09",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Hitachi Energy India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HitachiEnergy_12022026183406_Transcript.pdf"
     }
   ]
 }

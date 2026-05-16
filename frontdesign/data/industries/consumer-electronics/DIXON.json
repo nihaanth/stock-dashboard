@@ -8,25 +8,9 @@
   "price": 10503.5,
   "market_cap_cr": 63767.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 11626.0,
-      "prev_close": 11741.0,
-      "volume": 288312,
-      "deliverable_qty": 75343,
-      "delivery_pct": 26.13
-    },
-    {
-      "date": "2026-02-13",
-      "close": 11417.0,
-      "prev_close": 11626.0,
-      "volume": 446533,
-      "deliverable_qty": 116640,
-      "delivery_pct": 26.12
-    },
     {
       "date": "2026-02-16",
       "close": 11751.0,
@@ -466,9 +450,45 @@
       "volume": 2690187,
       "deliverable_qty": 658499,
       "delivery_pct": 24.48
+    },
+    {
+      "date": "2026-05-15",
+      "close": 10979.0,
+      "prev_close": 11103.0,
+      "volume": 647788,
+      "deliverable_qty": 127965,
+      "delivery_pct": 19.75
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:28:02",
+      "an_dt": "15-May-2026 18:28:02",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Dixon Technologies (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIXON_15052026182620_InvestorMeetOutcome15052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 17:37:24",
+      "an_dt": "15-May-2026 17:37:24",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Dixon Technologies (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIXON_15052026172845_EarningCallTranscriptQ4Intimation.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 17:24:00",
+      "an_dt": "15-May-2026 17:24:00",
+      "desc": "General Updates",
+      "sm_name": "Dixon Technologies (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIXON_15052026171848_IntimationtoExchangeDehradununits.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 10:28:34",
+      "an_dt": "15-May-2026 10:28:34",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Dixon Technologies (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIXON_15052026102810_InvestorMeetOutcome15052026.pdf"
+    },
     {
       "sort_date": "2026-05-13 18:25:15",
       "an_dt": "13-May-2026 18:25:15",
@@ -720,13 +740,6 @@
       "desc": "Memorandum of Understanding/Agreements",
       "sm_name": "Dixon Technologies (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIXON_14022026151151_AnnouncementLongcheer14022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:41:31",
-      "an_dt": "13-Feb-2026 14:41:31",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Dixon Technologies (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIXON_13022026143537_Investormeetintimation13022026.pdf"
     }
   ]
 }

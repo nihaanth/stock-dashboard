@@ -8,25 +8,9 @@
   "price": 312.75,
   "market_cap_cr": 1600.53,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 286.55,
-      "prev_close": 295.1,
-      "volume": 154519,
-      "deliverable_qty": 87848,
-      "delivery_pct": 56.85
-    },
-    {
-      "date": "2026-02-13",
-      "close": 284.3,
-      "prev_close": 286.55,
-      "volume": 229384,
-      "deliverable_qty": 76604,
-      "delivery_pct": 33.4
-    },
     {
       "date": "2026-02-16",
       "close": 279.1,
@@ -466,9 +450,24 @@
       "volume": 161079,
       "deliverable_qty": 64068,
       "delivery_pct": 39.77
+    },
+    {
+      "date": "2026-05-15",
+      "close": 298.55,
+      "prev_close": 297.6,
+      "volume": 131552,
+      "deliverable_qty": 59633,
+      "delivery_pct": 45.33
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 16:33:40",
+      "an_dt": "15-May-2026 16:33:40",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Godavari Biorefineries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GODAVARIBIO_15052026163254_Investor_Call_Intimation-_26-05-2026.pdf"
+    },
     {
       "sort_date": "2026-04-23 14:00:51",
       "an_dt": "23-Apr-2026 14:00:51",
@@ -559,41 +558,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Godavari Biorefineries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GODAVARIBIO_16022026113046_Intimation_to_SE.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 23:28:55",
-      "an_dt": "13-Feb-2026 23:28:55",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Godavari Biorefineries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GODAVARIBIO_13022026232835_Intimation_to_SE-_MA_Report.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 22:01:15",
-      "an_dt": "13-Feb-2026 22:01:15",
-      "desc": "Integrated Filing- Financial",
-      "sm_name": "Godavari Biorefineries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GODAVARIBIO_13022026220058_Outcome_board_results.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:54:57",
-      "an_dt": "13-Feb-2026 21:54:57",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Godavari Biorefineries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GODAVARIBIO_13022026215440_Outcome_board_results.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:45:17",
-      "an_dt": "13-Feb-2026 19:45:17",
-      "desc": "Press Release",
-      "sm_name": "Godavari Biorefineries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GODAVARIBIO_13022026194506_Intimation_to_SE-Press_Release.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:06:00",
-      "an_dt": "13-Feb-2026 19:06:00",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Godavari Biorefineries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GODAVARIBIO_13022026190339_Outcome_of_BM.pdf"
     }
   ]
 }

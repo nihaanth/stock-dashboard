@@ -8,25 +8,9 @@
   "price": 223.71,
   "market_cap_cr": 1573.85,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 256.3,
-      "prev_close": 255.28,
-      "volume": 8570,
-      "deliverable_qty": 3960,
-      "delivery_pct": 46.21
-    },
-    {
-      "date": "2026-02-13",
-      "close": 255.59,
-      "prev_close": 256.3,
-      "volume": 27381,
-      "deliverable_qty": 19669,
-      "delivery_pct": 71.83
-    },
     {
       "date": "2026-02-16",
       "close": 221.42,
@@ -466,6 +450,14 @@
       "volume": 76024,
       "deliverable_qty": 53171,
       "delivery_pct": 69.94
+    },
+    {
+      "date": "2026-05-15",
+      "close": 197.91,
+      "prev_close": 204.21,
+      "volume": 74960,
+      "deliverable_qty": 49048,
+      "delivery_pct": 65.43
     }
   ],
   "news": [
@@ -629,20 +621,6 @@
       "desc": "Press Release",
       "sm_name": "TIL Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIL_16022026155851_PressReleaseforTCPL16022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:24:18",
-      "an_dt": "13-Feb-2026 17:24:18",
-      "desc": "Press Release",
-      "sm_name": "TIL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIL_13022026172403_PressReleaseDEc2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:59:12",
-      "an_dt": "13-Feb-2026 16:59:12",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "TIL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIL_13022026165709_OutcomeofBoardMeeting13022026.pdf"
     }
   ]
 }

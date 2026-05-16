@@ -8,25 +8,9 @@
   "price": 703.25,
   "market_cap_cr": 2651.03,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 657.1,
-      "prev_close": 664.75,
-      "volume": 7965,
-      "deliverable_qty": 4925,
-      "delivery_pct": 61.83
-    },
-    {
-      "date": "2026-02-13",
-      "close": 671.05,
-      "prev_close": 657.1,
-      "volume": 132383,
-      "deliverable_qty": 53642,
-      "delivery_pct": 40.52
-    },
     {
       "date": "2026-02-16",
       "close": 660.15,
@@ -466,6 +450,14 @@
       "volume": 6474,
       "deliverable_qty": 3863,
       "delivery_pct": 59.67
+    },
+    {
+      "date": "2026-05-15",
+      "close": 674.65,
+      "prev_close": 670.7,
+      "volume": 9521,
+      "deliverable_qty": 5769,
+      "delivery_pct": 60.59
     }
   ],
   "news": [
@@ -601,41 +593,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Sundrop Brands Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Kavita_Sundrop_14022026125009_LettertoSEofNewspaperPublicationregardingDecember2025Resultssigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:08:04",
-      "an_dt": "13-Feb-2026 15:08:04",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Sundrop Brands Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Kavita_Sundrop_13022026150744_FinalLettertoSEregardinganalystcallrecording13022026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 10:47:51",
-      "an_dt": "13-Feb-2026 10:47:51",
-      "desc": "Investor Presentation",
-      "sm_name": "Sundrop Brands Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Kavita_Sundrop_13022026104738_SBLPresentationAnalystCallQ3FY2613022026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:58:51",
-      "an_dt": "12-Feb-2026 19:58:51",
-      "desc": "Updates",
-      "sm_name": "Sundrop Brands Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Kavita_Sundrop_12022026195841_SBLFinalOutcomeofBoardNRCMeeting12022026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:55:30",
-      "an_dt": "12-Feb-2026 19:55:30",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Sundrop Brands Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Kavita_Sundrop_12022026195517_SBLFinalOutcomeofBoardNRCMeeting12022026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:50:43",
-      "an_dt": "12-Feb-2026 19:50:43",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Sundrop Brands Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Kavita_Sundrop_12022026195008_SBLFinalOutcomeofBoardNRCMeeting12022026signed.pdf"
     }
   ]
 }

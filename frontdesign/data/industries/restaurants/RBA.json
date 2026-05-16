@@ -8,25 +8,9 @@
   "price": 62.57,
   "market_cap_cr": 3647.06,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 64.11,
-      "prev_close": 64.63,
-      "volume": 2689979,
-      "deliverable_qty": 1864373,
-      "delivery_pct": 69.31
-    },
-    {
-      "date": "2026-02-13",
-      "close": 64.11,
-      "prev_close": 64.11,
-      "volume": 2149181,
-      "deliverable_qty": 1423779,
-      "delivery_pct": 66.25
-    },
     {
       "date": "2026-02-16",
       "close": 63.81,
@@ -466,9 +450,52 @@
       "volume": 2433922,
       "deliverable_qty": 1672658,
       "delivery_pct": 68.72
+    },
+    {
+      "date": "2026-05-15",
+      "close": 67.74,
+      "prev_close": 67.0,
+      "volume": 6567700,
+      "deliverable_qty": 4309469,
+      "delivery_pct": 65.62
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 20:48:43",
+      "an_dt": "15-May-2026 20:48:43",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Restaurant Brands Asia Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RBA_15052026204732_Finalupload.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 18:50:31",
+      "an_dt": "14-May-2026 18:50:31",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Restaurant Brands Asia Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RBA_14052026184951_FinalUpload.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 18:46:32",
+      "an_dt": "14-May-2026 18:46:32",
+      "desc": "Investor Presentation",
+      "sm_name": "Restaurant Brands Asia Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RBA_14052026184535_FinalUpload.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 18:43:16",
+      "an_dt": "14-May-2026 18:43:16",
+      "desc": "Press Release",
+      "sm_name": "Restaurant Brands Asia Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RBA_14052026184252_FinalUpload.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 18:36:54",
+      "an_dt": "14-May-2026 18:36:54",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Restaurant Brands Asia Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RBA_14052026183615_FinalUpload.pdf"
+    },
     {
       "sort_date": "2026-05-08 19:24:13",
       "an_dt": "08-May-2026 19:24:13",
@@ -503,20 +530,6 @@
       "desc": "Allotment of Securities",
       "sm_name": "Restaurant Brands Asia Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RBA_19032026170450_Finalupload.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:41:55",
-      "an_dt": "13-Feb-2026 21:41:55",
-      "desc": "Shareholders meeting",
-      "sm_name": "Restaurant Brands Asia Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RBA_13022026214143_Finalupload.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:29:41",
-      "an_dt": "13-Feb-2026 15:29:41",
-      "desc": "Shareholders meeting",
-      "sm_name": "Restaurant Brands Asia Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RBA_13022026152757_Finalupload.pdf"
     }
   ]
 }

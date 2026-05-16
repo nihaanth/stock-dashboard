@@ -8,25 +8,9 @@
   "price": 905.95,
   "market_cap_cr": 15563.1,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 619.95,
-      "prev_close": 635.8,
-      "volume": 477119,
-      "deliverable_qty": 240156,
-      "delivery_pct": 50.33
-    },
-    {
-      "date": "2026-02-13",
-      "close": 602.8,
-      "prev_close": 619.95,
-      "volume": 274547,
-      "deliverable_qty": 133373,
-      "delivery_pct": 48.58
-    },
     {
       "date": "2026-02-16",
       "close": 593.6,
@@ -466,9 +450,38 @@
       "volume": 390528,
       "deliverable_qty": 148256,
       "delivery_pct": 37.96
+    },
+    {
+      "date": "2026-05-15",
+      "close": 899.55,
+      "prev_close": 926.75,
+      "volume": 496410,
+      "deliverable_qty": 161847,
+      "delivery_pct": 32.6
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 19:41:19",
+      "an_dt": "14-May-2026 19:41:19",
+      "desc": "Record Date",
+      "sm_name": "Cemindia Projects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ITD_14052026193922_st_exch_outcome_BM_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 19:38:30",
+      "an_dt": "14-May-2026 19:38:30",
+      "desc": "General Updates",
+      "sm_name": "Cemindia Projects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ITD_14052026193749_st_exch_outcome_BM_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 19:29:45",
+      "an_dt": "14-May-2026 19:29:45",
+      "desc": "Dividend",
+      "sm_name": "Cemindia Projects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ITD_14052026192814_st_exch_outcome_BM_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-11 20:35:24",
       "an_dt": "11-May-2026 20:35:24",

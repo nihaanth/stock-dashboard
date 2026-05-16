@@ -8,25 +8,9 @@
   "price": 1878.4,
   "market_cap_cr": 1974.75,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1622.2,
-      "prev_close": 1600.5,
-      "volume": 68765,
-      "deliverable_qty": 44460,
-      "delivery_pct": 64.65
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1662.5,
-      "prev_close": 1622.2,
-      "volume": 173601,
-      "deliverable_qty": 87795,
-      "delivery_pct": 50.57
-    },
     {
       "date": "2026-02-16",
       "close": 1698.6,
@@ -466,9 +450,24 @@
       "volume": 45897,
       "deliverable_qty": 21216,
       "delivery_pct": 46.23
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1787.2,
+      "prev_close": 1820.2,
+      "volume": 36424,
+      "deliverable_qty": 16573,
+      "delivery_pct": 45.5
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 11:32:22",
+      "an_dt": "14-May-2026 11:32:22",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Arman Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARMANFIN_14052026113204_ESOP_Allotment_1000_840_12-05-2026.pdf"
+    },
     {
       "sort_date": "2026-05-06 12:38:06",
       "an_dt": "06-May-2026 12:38:06",
@@ -559,41 +558,6 @@
       "desc": "Investor Presentation",
       "sm_name": "Arman Financial Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARMANFIN_14022026115442_Presentation_Covering.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:37:25",
-      "an_dt": "13-Feb-2026 14:37:25",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Arman Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARMANFIN_13022026143708_Newspaper_Ad_Submision_Result.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 12:42:06",
-      "an_dt": "13-Feb-2026 12:42:06",
-      "desc": "Press Release",
-      "sm_name": "Arman Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARMANFIN_13022026124113_PRESS_RELEASE_COVERING_Q3_2025-26.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:03:35",
-      "an_dt": "13-Feb-2026 11:03:35",
-      "desc": "Updates",
-      "sm_name": "Arman Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARMANFIN_13022026110320_Letter_to_shareholders.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:53:15",
-      "an_dt": "12-Feb-2026 19:53:15",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Arman Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARMANFIN_12022026194651_Financial_Results_and_Outcome_Q3_-_Arman.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:44:27",
-      "an_dt": "12-Feb-2026 19:44:27",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Arman Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARMANFIN_12022026194349_Financial_Results_and_Outcome_Q3_-_Arman.pdf"
     }
   ]
 }

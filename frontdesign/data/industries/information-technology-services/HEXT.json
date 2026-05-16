@@ -8,25 +8,9 @@
   "price": 502.25,
   "market_cap_cr": 30609.98,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 542.95,
-      "prev_close": 572.1,
-      "volume": 2131157,
-      "deliverable_qty": 1277817,
-      "delivery_pct": 59.96
-    },
-    {
-      "date": "2026-02-13",
-      "close": 561.6,
-      "prev_close": 542.95,
-      "volume": 4782118,
-      "deliverable_qty": 1617844,
-      "delivery_pct": 33.83
-    },
     {
       "date": "2026-02-16",
       "close": 575.75,
@@ -466,9 +450,31 @@
       "volume": 414674,
       "deliverable_qty": 264342,
       "delivery_pct": 63.75
+    },
+    {
+      "date": "2026-05-15",
+      "close": 484.15,
+      "prev_close": 483.05,
+      "volume": 604676,
+      "deliverable_qty": 440566,
+      "delivery_pct": 72.86
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:51:20",
+      "an_dt": "14-May-2026 17:51:20",
+      "desc": "General Updates",
+      "sm_name": "Hexaware Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEXAWARETECH_14052026175050_SE_Intimation_for_GST_order.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:36:17",
+      "an_dt": "14-May-2026 17:36:17",
+      "desc": "Press Release",
+      "sm_name": "Hexaware Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEXAWARETECH_14052026173608_Press_Release_May_14_2026.pdf"
+    },
     {
       "sort_date": "2026-05-09 16:39:06",
       "an_dt": "09-May-2026 16:39:06",
@@ -713,13 +719,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Hexaware Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEXAWARETECH_17022026151906_Lettertostockexchangefortheadvertisment.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 21:37:21",
-      "an_dt": "12-Feb-2026 21:37:21",
-      "desc": "Updates",
-      "sm_name": "Hexaware Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEXAWARETECH_12022026213713_Final.pdf"
     }
   ]
 }

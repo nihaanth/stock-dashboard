@@ -8,25 +8,9 @@
   "price": 166.73,
   "market_cap_cr": 26859.74,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 169.54,
-      "prev_close": 168.26,
-      "volume": 26226742,
-      "deliverable_qty": 17405992,
-      "delivery_pct": 66.37
-    },
-    {
-      "date": "2026-02-13",
-      "close": 165.44,
-      "prev_close": 169.54,
-      "volume": 4430723,
-      "deliverable_qty": 1774459,
-      "delivery_pct": 40.05
-    },
     {
       "date": "2026-02-16",
       "close": 167.93,
@@ -466,6 +450,14 @@
       "volume": 11577289,
       "deliverable_qty": 4738457,
       "delivery_pct": 40.93
+    },
+    {
+      "date": "2026-05-15",
+      "close": 194.46,
+      "prev_close": 199.04,
+      "volume": 4906699,
+      "deliverable_qty": 1942415,
+      "delivery_pct": 39.59
     }
   ],
   "news": [
@@ -755,13 +747,6 @@
       "desc": "General Updates",
       "sm_name": "Bandhan Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANDHANBNK_18022026150227_SE_Disclosure_NSE_ESG_Rating_18022026_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:35:31",
-      "an_dt": "12-Feb-2026 17:35:31",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Bandhan Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANDHANBNK_12022026173407_SE_Disclosure_BM_Outcome_120226_ID_CIV_sd.pdf"
     }
   ]
 }

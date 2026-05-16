@@ -8,25 +8,9 @@
   "price": 1376.4,
   "market_cap_cr": 19072.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1510.4,
-      "prev_close": 1469.2,
-      "volume": 157277,
-      "deliverable_qty": 69846,
-      "delivery_pct": 44.41
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1414.4,
-      "prev_close": 1510.4,
-      "volume": 238365,
-      "deliverable_qty": 86851,
-      "delivery_pct": 36.44
-    },
     {
       "date": "2026-02-16",
       "close": 1364.4,
@@ -466,9 +450,24 @@
       "volume": 77196,
       "deliverable_qty": 55421,
       "delivery_pct": 71.79
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1370.9,
+      "prev_close": 1373.9,
+      "volume": 181983,
+      "deliverable_qty": 75517,
+      "delivery_pct": 41.5
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 14:48:18",
+      "an_dt": "15-May-2026 14:48:18",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Eris Lifesciences Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ERIS_15052026144610_Intimation-signed.pdf"
+    },
     {
       "sort_date": "2026-05-12 19:23:43",
       "an_dt": "12-May-2026 19:23:43",
@@ -615,34 +614,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Eris Lifesciences Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ERIS_19022026160858_Intimationsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 22:29:08",
-      "an_dt": "13-Feb-2026 22:29:08",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Eris Lifesciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ERIS_13022026222846_intimationsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:20:50",
-      "an_dt": "13-Feb-2026 15:20:50",
-      "desc": "Investor Presentation",
-      "sm_name": "Eris Lifesciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ERIS_13022026152043_InvestorPresentationsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 13:24:50",
-      "an_dt": "13-Feb-2026 13:24:50",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Eris Lifesciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ERIS_13022026132420_Outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 13:22:34",
-      "an_dt": "13-Feb-2026 13:22:34",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Eris Lifesciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ERIS_13022026131953_Outcome.pdf"
     }
   ]
 }

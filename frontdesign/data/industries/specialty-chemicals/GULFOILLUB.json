@@ -8,25 +8,9 @@
   "price": 891.3,
   "market_cap_cr": 4403.03,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1158.1,
-      "prev_close": 1187.0,
-      "volume": 69607,
-      "deliverable_qty": 39372,
-      "delivery_pct": 56.56
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1124.3,
-      "prev_close": 1158.1,
-      "volume": 37121,
-      "deliverable_qty": 20295,
-      "delivery_pct": 54.67
-    },
     {
       "date": "2026-02-16",
       "close": 1113.7,
@@ -466,6 +450,14 @@
       "volume": 38571,
       "deliverable_qty": 25083,
       "delivery_pct": 65.03
+    },
+    {
+      "date": "2026-05-15",
+      "close": 942.25,
+      "prev_close": 936.5,
+      "volume": 41388,
+      "deliverable_qty": 22160,
+      "delivery_pct": 53.54
     }
   ],
   "news": [
@@ -545,20 +537,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Gulf Oil Lubricants India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_18022026182357_Transcript13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:20:51",
-      "an_dt": "13-Feb-2026 18:20:51",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Gulf Oil Lubricants India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_13022026181954_Intimation18022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:09:24",
-      "an_dt": "13-Feb-2026 18:09:24",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Gulf Oil Lubricants India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_13022026180749_Investorcalloutcomeaudio13020226.pdf"
     }
   ]
 }

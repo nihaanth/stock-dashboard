@@ -8,25 +8,9 @@
   "price": 314.85,
   "market_cap_cr": 1259.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 293.6,
-      "prev_close": 295.1,
-      "volume": 320424,
-      "deliverable_qty": 65580,
-      "delivery_pct": 20.47
-    },
-    {
-      "date": "2026-02-13",
-      "close": 292.8,
-      "prev_close": 293.6,
-      "volume": 248378,
-      "deliverable_qty": 77917,
-      "delivery_pct": 31.37
-    },
     {
       "date": "2026-02-16",
       "close": 308.45,
@@ -466,6 +450,14 @@
       "volume": 143488,
       "deliverable_qty": 68277,
       "delivery_pct": 47.58
+    },
+    {
+      "date": "2026-05-15",
+      "close": 287.35,
+      "prev_close": 295.95,
+      "volume": 262402,
+      "deliverable_qty": 117399,
+      "delivery_pct": 44.74
     }
   ],
   "news": [
@@ -545,13 +537,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Quadrant Future Tek Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/QUADRANT_14022026115608_Intimation_Newspaper.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:05:31",
-      "an_dt": "13-Feb-2026 18:05:31",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Quadrant Future Tek Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/QUADRANT_13022026180358_Final_Intimation_Board_Outcome.pdf"
     }
   ]
 }

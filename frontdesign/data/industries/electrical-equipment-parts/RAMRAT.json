@@ -8,25 +8,9 @@
   "price": 435.45,
   "market_cap_cr": 4064.89,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 323.15,
-      "prev_close": 319.2,
-      "volume": 83490,
-      "deliverable_qty": 50812,
-      "delivery_pct": 60.86
-    },
-    {
-      "date": "2026-02-13",
-      "close": 312.05,
-      "prev_close": 323.15,
-      "volume": 44094,
-      "deliverable_qty": 23883,
-      "delivery_pct": 54.16
-    },
     {
       "date": "2026-02-16",
       "close": 315.15,
@@ -466,6 +450,14 @@
       "volume": 146799,
       "deliverable_qty": 65213,
       "delivery_pct": 44.42
+    },
+    {
+      "date": "2026-05-15",
+      "close": 420.4,
+      "prev_close": 423.65,
+      "volume": 126519,
+      "deliverable_qty": 53925,
+      "delivery_pct": 42.62
     }
   ],
   "news": [
@@ -566,13 +558,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Ram Ratna Wires Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAMRATNA_14022026120000_SE_Intimation_Investor_meet.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:28:31",
-      "an_dt": "13-Feb-2026 11:28:31",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Ram Ratna Wires Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAMRATNA_13022026112755_Newspaper_Adv_Special_Window.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 140.81,
   "market_cap_cr": 1634.6,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 173.85,
-      "prev_close": 167.42,
-      "volume": 742764,
-      "deliverable_qty": 356887,
-      "delivery_pct": 48.05
-    },
-    {
-      "date": "2026-02-13",
-      "close": 165.37,
-      "prev_close": 173.85,
-      "volume": 496218,
-      "deliverable_qty": 254948,
-      "delivery_pct": 51.38
-    },
     {
       "date": "2026-02-16",
       "close": 157.11,
@@ -466,9 +450,38 @@
       "volume": 3123246,
       "deliverable_qty": 1088765,
       "delivery_pct": 34.86
+    },
+    {
+      "date": "2026-05-15",
+      "close": 141.01,
+      "prev_close": 137.62,
+      "volume": 1083224,
+      "deliverable_qty": 461711,
+      "delivery_pct": 42.62
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 16:56:11",
+      "an_dt": "15-May-2026 16:56:11",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Stallion India Fluorochemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STALLION_15052026165558_Newspaperadvt15052026Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 15:41:53",
+      "an_dt": "14-May-2026 15:41:53",
+      "desc": "Investor Presentation",
+      "sm_name": "Stallion India Fluorochemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STALLION_14052026154143_SIFLIPForQ4FY26Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 15:12:45",
+      "an_dt": "14-May-2026 15:12:45",
+      "desc": "Press Release",
+      "sm_name": "Stallion India Fluorochemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STALLION_14052026151217_Press-Release-on-results-of-Q4FY26-earning-Signed.pdf"
+    },
     {
       "sort_date": "2026-05-13 13:34:34",
       "an_dt": "13-May-2026 13:34:34",
@@ -615,20 +628,6 @@
       "desc": "Monitoring Agency Report",
       "sm_name": "Stallion India Fluorochemicals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/STALLION_14022026222541_MonitoringagencyreportQ3FY26Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 14:39:50",
-      "an_dt": "12-Feb-2026 14:39:50",
-      "desc": "Updates",
-      "sm_name": "Stallion India Fluorochemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STALLION_12022026143931_FLOFwithCoveringletterSigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:53:14",
-      "an_dt": "12-Feb-2026 13:53:14",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Stallion India Fluorochemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STALLION_12022026135256_OutcomeSigned.pdf"
     }
   ]
 }

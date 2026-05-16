@@ -8,25 +8,9 @@
   "price": 1254.4,
   "market_cap_cr": 1355.06,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1011.6,
-      "prev_close": 1042.15,
-      "volume": 43856,
-      "deliverable_qty": 20097,
-      "delivery_pct": 45.82
-    },
-    {
-      "date": "2026-02-13",
-      "close": 926.95,
-      "prev_close": 1011.6,
-      "volume": 154797,
-      "deliverable_qty": 50046,
-      "delivery_pct": 32.33
-    },
     {
       "date": "2026-02-16",
       "close": 1009.25,
@@ -466,6 +450,14 @@
       "volume": 24868,
       "deliverable_qty": 12340,
       "delivery_pct": 49.62
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1316.5,
+      "prev_close": 1251.0,
+      "volume": 70698,
+      "deliverable_qty": 35987,
+      "delivery_pct": 50.9
     }
   ],
   "news": [
@@ -580,48 +572,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Solex Energy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOLEX_17022026160003_Intimation_of_Transcipt.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:47:04",
-      "an_dt": "13-Feb-2026 14:47:04",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Solex Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOLEX_13022026144602_Submission_of_Newspaper_Advertisement.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:26:59",
-      "an_dt": "12-Feb-2026 18:26:59",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Solex Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOLEX_12022026182636_Intimation_of_Web_Link.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:02:40",
-      "an_dt": "12-Feb-2026 16:02:40",
-      "desc": "Investor Presentation",
-      "sm_name": "Solex Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOLEX_12022026160209_Investor_Presentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:45:35",
-      "an_dt": "12-Feb-2026 15:45:35",
-      "desc": "Press Release",
-      "sm_name": "Solex Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOLEX_12022026154401_Covering_Letter_for_Press_Release.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:39:29",
-      "an_dt": "12-Feb-2026 15:39:29",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Solex Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOLEX_12022026153744_Outcome_of_Board_Meeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:32:48",
-      "an_dt": "12-Feb-2026 15:32:48",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Solex Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOLEX_12022026153222_Outcome_of_Board_Meeting.pdf"
     }
   ]
 }

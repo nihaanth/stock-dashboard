@@ -8,25 +8,9 @@
   "price": 306.85,
   "market_cap_cr": 3637.07,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 323.85,
-      "prev_close": 341.4,
-      "volume": 135688,
-      "deliverable_qty": 87090,
-      "delivery_pct": 64.18
-    },
-    {
-      "date": "2026-02-13",
-      "close": 320.45,
-      "prev_close": 323.85,
-      "volume": 189410,
-      "deliverable_qty": 113055,
-      "delivery_pct": 59.69
-    },
     {
       "date": "2026-02-16",
       "close": 318.45,
@@ -466,6 +450,14 @@
       "volume": 463737,
       "deliverable_qty": 172927,
       "delivery_pct": 37.29
+    },
+    {
+      "date": "2026-05-15",
+      "close": 272.9,
+      "prev_close": 272.7,
+      "volume": 346311,
+      "deliverable_qty": 128030,
+      "delivery_pct": 36.97
     }
   ],
   "news": [
@@ -699,13 +691,6 @@
       "desc": "Allotment of Securities",
       "sm_name": "R Systems International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RSYSTEMS_17022026121456_RSYSTEMS.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 14:53:15",
-      "an_dt": "12-Feb-2026 14:53:15",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "R Systems International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RSYSTEMS_12022026145253_RSYSTEMS.pdf"
     }
   ]
 }

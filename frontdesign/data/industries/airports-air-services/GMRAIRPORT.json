@@ -8,25 +8,9 @@
   "price": 98.1,
   "market_cap_cr": 103583.55,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 96.33,
-      "prev_close": 96.81,
-      "volume": 5746310,
-      "deliverable_qty": 2883229,
-      "delivery_pct": 50.18
-    },
-    {
-      "date": "2026-02-13",
-      "close": 94.03,
-      "prev_close": 96.33,
-      "volume": 7836032,
-      "deliverable_qty": 3943650,
-      "delivery_pct": 50.33
-    },
     {
       "date": "2026-02-16",
       "close": 100.52,
@@ -466,9 +450,24 @@
       "volume": 11641680,
       "deliverable_qty": 6474080,
       "delivery_pct": 55.61
+    },
+    {
+      "date": "2026-05-15",
+      "close": 96.59,
+      "prev_close": 96.79,
+      "volume": 7829425,
+      "deliverable_qty": 3742202,
+      "delivery_pct": 47.8
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 16:02:43",
+      "an_dt": "15-May-2026 16:02:43",
+      "desc": "Updates",
+      "sm_name": "GMR AIRPORTS LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GMRINFRA_15052026160218_15052026-monthlytrafficdataApril.pdf"
+    },
     {
       "sort_date": "2026-04-18 18:22:19",
       "an_dt": "18-Apr-2026 18:22:19",
@@ -559,34 +558,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "GMR AIRPORTS LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GMRINFRA_14022026133939_AudioRecording.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:53:31",
-      "an_dt": "13-Feb-2026 20:53:31",
-      "desc": "Investor Presentation",
-      "sm_name": "GMR AIRPORTS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GMRINFRA_13022026205057_Investor_Presentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:47:54",
-      "an_dt": "13-Feb-2026 20:47:54",
-      "desc": "Press Release",
-      "sm_name": "GMR AIRPORTS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GMRINFRA_13022026204728_Press_Release.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:01:02",
-      "an_dt": "13-Feb-2026 20:01:02",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "GMR AIRPORTS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GMRINFRA_13022026195530_NSE-OutcomeofBM.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:11:39",
-      "an_dt": "13-Feb-2026 16:11:39",
-      "desc": "Credit Rating",
-      "sm_name": "GMR AIRPORTS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GMRINFRA_13022026160616_13022026-CREDITRATING.pdf"
     }
   ]
 }

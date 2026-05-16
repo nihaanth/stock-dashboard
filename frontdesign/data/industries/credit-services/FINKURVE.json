@@ -8,25 +8,9 @@
   "price": 63.16,
   "market_cap_cr": 886.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 87.97,
-      "prev_close": 92.94,
-      "volume": 17136,
-      "deliverable_qty": 7478,
-      "delivery_pct": 43.64
-    },
-    {
-      "date": "2026-02-13",
-      "close": 84.5,
-      "prev_close": 87.97,
-      "volume": 12220,
-      "deliverable_qty": 8687,
-      "delivery_pct": 71.09
-    },
     {
       "date": "2026-02-16",
       "close": 82.96,
@@ -466,9 +450,31 @@
       "volume": 70450,
       "deliverable_qty": 56988,
       "delivery_pct": 80.89
+    },
+    {
+      "date": "2026-05-15",
+      "close": 67.08,
+      "prev_close": 67.89,
+      "volume": 30386,
+      "deliverable_qty": 12546,
+      "delivery_pct": 41.29
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:02:18",
+      "an_dt": "15-May-2026 19:02:18",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_15052026190209_MA_report_to_upload.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 15:59:19",
+      "an_dt": "15-May-2026 15:59:19",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_15052026155908_Earnings_call_intimation.pdf"
+    },
     {
       "sort_date": "2026-05-13 12:11:25",
       "an_dt": "13-May-2026 12:11:25",
@@ -699,20 +705,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Finkurve Financial Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_19022026154811_IntimationAnalystInstitutionalInvestorMeet.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:36:46",
-      "an_dt": "13-Feb-2026 18:36:46",
-      "desc": "Credit Rating- Revision",
-      "sm_name": "Finkurve Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_13022026183610_credit_rating_enhancement-signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:55:49",
-      "an_dt": "13-Feb-2026 15:55:49",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Finkurve Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_13022026155537_transcript_to_be_uploaded.pdf"
     }
   ]
 }

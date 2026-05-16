@@ -8,25 +8,9 @@
   "price": 248.4,
   "market_cap_cr": 13961.13,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 180.9,
-      "prev_close": 184.28,
-      "volume": 1604084,
-      "deliverable_qty": 785953,
-      "delivery_pct": 49.0
-    },
-    {
-      "date": "2026-02-13",
-      "close": 201.67,
-      "prev_close": 180.9,
-      "volume": 134019973,
-      "deliverable_qty": 13645484,
-      "delivery_pct": 10.18
-    },
     {
       "date": "2026-02-16",
       "close": 226.62,
@@ -466,9 +450,24 @@
       "volume": 3202676,
       "deliverable_qty": 1043946,
       "delivery_pct": 32.6
+    },
+    {
+      "date": "2026-05-15",
+      "close": 246.75,
+      "prev_close": 254.05,
+      "volume": 3447733,
+      "deliverable_qty": 1298436,
+      "delivery_pct": 37.66
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 16:59:28",
+      "an_dt": "15-May-2026 16:59:28",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Engineers India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_15052026165753_analystint.pdf"
+    },
     {
       "sort_date": "2026-05-05 18:14:20",
       "an_dt": "05-May-2026 18:14:20",
@@ -594,20 +593,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Engineers India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_14022026132214_earningcallaudio14022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:46:57",
-      "an_dt": "12-Feb-2026 18:46:57",
-      "desc": "Investor Presentation",
-      "sm_name": "Engineers India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_12022026184614_investorpresentation31122025.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:59:17",
-      "an_dt": "12-Feb-2026 16:59:17",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Engineers India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_12022026165654_ufr31122025.pdf"
     }
   ]
 }

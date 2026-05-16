@@ -8,25 +8,9 @@
   "price": 815.7,
   "market_cap_cr": 20228.1,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 730.4,
-      "prev_close": 747.1,
-      "volume": 822033,
-      "deliverable_qty": 437674,
-      "delivery_pct": 53.24
-    },
-    {
-      "date": "2026-02-13",
-      "close": 721.05,
-      "prev_close": 730.4,
-      "volume": 487002,
-      "deliverable_qty": 176089,
-      "delivery_pct": 36.16
-    },
     {
       "date": "2026-02-16",
       "close": 737.15,
@@ -466,6 +450,14 @@
       "volume": 1167967,
       "deliverable_qty": 535275,
       "delivery_pct": 45.83
+    },
+    {
+      "date": "2026-05-15",
+      "close": 784.0,
+      "prev_close": 785.85,
+      "volume": 1120488,
+      "deliverable_qty": 435218,
+      "delivery_pct": 38.84
     }
   ],
   "news": [
@@ -657,13 +649,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Computer Age Management Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Jaiganesh_17022026113013_Analyst_Investor_Call_Filing_17020206.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:15:11",
-      "an_dt": "12-Feb-2026 16:15:11",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Computer Age Management Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Jaiganesh_12022026161500_Analyst_Investor_call_filing_12022026.pdf"
     }
   ]
 }

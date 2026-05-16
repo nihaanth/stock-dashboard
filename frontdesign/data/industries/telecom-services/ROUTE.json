@@ -8,25 +8,9 @@
   "price": 481.85,
   "market_cap_cr": 3035.54,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 568.05,
-      "prev_close": 576.55,
-      "volume": 226474,
-      "deliverable_qty": 86658,
-      "delivery_pct": 38.26
-    },
-    {
-      "date": "2026-02-13",
-      "close": 549.2,
-      "prev_close": 568.05,
-      "volume": 244445,
-      "deliverable_qty": 107262,
-      "delivery_pct": 43.88
-    },
     {
       "date": "2026-02-16",
       "close": 533.95,
@@ -466,9 +450,24 @@
       "volume": 279237,
       "deliverable_qty": 85357,
       "delivery_pct": 30.57
+    },
+    {
+      "date": "2026-05-15",
+      "close": 503.55,
+      "prev_close": 506.35,
+      "volume": 131202,
+      "deliverable_qty": 57730,
+      "delivery_pct": 44.0
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 20:39:51",
+      "an_dt": "15-May-2026 20:39:51",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "ROUTE MOBILE LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ROUTE_15052026203909_upload.pdf"
+    },
     {
       "sort_date": "2026-05-09 12:24:31",
       "an_dt": "09-May-2026 12:24:31",
@@ -671,13 +670,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "ROUTE MOBILE LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ROUTE_17022026123210_Upload.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:05:58",
-      "an_dt": "12-Feb-2026 15:05:58",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "ROUTE MOBILE LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ROUTE_12022026150541_UploadSEIntimationMAR.pdf"
     }
   ]
 }

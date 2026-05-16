@@ -8,25 +8,9 @@
   "price": 408.75,
   "market_cap_cr": 33026.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 472.65,
-      "prev_close": 489.3,
-      "volume": 1410022,
-      "deliverable_qty": 393229,
-      "delivery_pct": 27.89
-    },
-    {
-      "date": "2026-02-13",
-      "close": 464.15,
-      "prev_close": 472.65,
-      "volume": 769227,
-      "deliverable_qty": 249452,
-      "delivery_pct": 32.43
-    },
     {
       "date": "2026-02-16",
       "close": 460.7,
@@ -466,9 +450,24 @@
       "volume": 1203015,
       "deliverable_qty": 474939,
       "delivery_pct": 39.48
+    },
+    {
+      "date": "2026-05-15",
+      "close": 413.35,
+      "prev_close": 420.7,
+      "volume": 1266334,
+      "deliverable_qty": 500473,
+      "delivery_pct": 39.52
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 19:17:43",
+      "an_dt": "14-May-2026 19:17:43",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Poonawalla Fincorp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POONAWALLA_14052026191732_PFLIntimationofinvestorsmeet14052026.pdf"
+    },
     {
       "sort_date": "2026-05-12 19:05:39",
       "an_dt": "12-May-2026 19:05:39",

@@ -8,25 +8,9 @@
   "price": 1695.5,
   "market_cap_cr": 58514.21,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1813.5,
-      "prev_close": 1734.1,
-      "volume": 1536113,
-      "deliverable_qty": 443551,
-      "delivery_pct": 28.87
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1824.9,
-      "prev_close": 1813.5,
-      "volume": 1588459,
-      "deliverable_qty": 729877,
-      "delivery_pct": 45.95
-    },
     {
       "date": "2026-02-16",
       "close": 1848.3,
@@ -466,9 +450,24 @@
       "volume": 1151417,
       "deliverable_qty": 420536,
       "delivery_pct": 36.52
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1604.0,
+      "prev_close": 1631.4,
+      "volume": 590391,
+      "deliverable_qty": 319661,
+      "delivery_pct": 54.14
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:24:20",
+      "an_dt": "14-May-2026 17:24:20",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Max Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Max_14052026172258_SEDADVERTISEMENT.pdf"
+    },
     {
       "sort_date": "2026-05-13 17:11:51",
       "an_dt": "13-May-2026 17:11:51",
@@ -755,27 +754,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Max Financial Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Max_18022026170543_SEDTRANSCRIPTQ3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 10:49:47",
-      "an_dt": "13-Feb-2026 10:49:47",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Max Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Max_13022026104856_SEDMFSLADVERTISEMENT.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:22:48",
-      "an_dt": "12-Feb-2026 15:22:48",
-      "desc": "Updates",
-      "sm_name": "Max Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Max_12022026152142_SEDMFSL12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 12:40:30",
-      "an_dt": "12-Feb-2026 12:40:30",
-      "desc": "Updates",
-      "sm_name": "Max Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Max_12022026123929_AUDIORECORDING.pdf"
     }
   ]
 }

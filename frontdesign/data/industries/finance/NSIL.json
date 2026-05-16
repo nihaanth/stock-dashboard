@@ -8,25 +8,9 @@
   "price": 5752.5,
   "market_cap_cr": 2954.58,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 6276.0,
-      "prev_close": 6385.0,
-      "volume": 2528,
-      "deliverable_qty": 1708,
-      "delivery_pct": 67.56
-    },
-    {
-      "date": "2026-02-13",
-      "close": 6070.0,
-      "prev_close": 6276.0,
-      "volume": 3100,
-      "deliverable_qty": 1975,
-      "delivery_pct": 63.71
-    },
     {
       "date": "2026-02-16",
       "close": 6005.0,
@@ -466,6 +450,14 @@
       "volume": 2983,
       "deliverable_qty": 1616,
       "delivery_pct": 54.17
+    },
+    {
+      "date": "2026-05-15",
+      "close": 5568.0,
+      "prev_close": 5617.5,
+      "volume": 1112,
+      "deliverable_qty": 620,
+      "delivery_pct": 55.76
     }
   ],
   "news": [
@@ -482,27 +474,6 @@
       "desc": "Trading Window",
       "sm_name": "Nalwa Sons Investments Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NSIL_25032026161009_Intimationwindowclosure25032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 13:06:35",
-      "an_dt": "13-Feb-2026 13:06:35",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Nalwa Sons Investments Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NSIL_13022026124610_BMOutcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 12:51:18",
-      "an_dt": "13-Feb-2026 12:51:18",
-      "desc": "Updates",
-      "sm_name": "Nalwa Sons Investments Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NSIL_13022026125111_BMOutcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 12:40:05",
-      "an_dt": "13-Feb-2026 12:40:05",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Nalwa Sons Investments Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NSIL_13022026123956_BMOutcome.pdf"
     }
   ]
 }

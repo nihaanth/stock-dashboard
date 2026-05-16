@@ -8,25 +8,9 @@
   "price": 6520.0,
   "market_cap_cr": 20055.25,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 3560.6,
-      "prev_close": 3551.8,
-      "volume": 795137,
-      "deliverable_qty": 182957,
-      "delivery_pct": 23.01
-    },
-    {
-      "date": "2026-02-13",
-      "close": 3586.5,
-      "prev_close": 3560.6,
-      "volume": 356484,
-      "deliverable_qty": 98157,
-      "delivery_pct": 27.53
-    },
     {
       "date": "2026-02-16",
       "close": 3711.2,
@@ -466,9 +450,31 @@
       "volume": 4519966,
       "deliverable_qty": 579175,
       "delivery_pct": 12.81
+    },
+    {
+      "date": "2026-05-15",
+      "close": 7234.0,
+      "prev_close": 7588.0,
+      "volume": 1808210,
+      "deliverable_qty": 350219,
+      "delivery_pct": 19.37
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 11:35:51",
+      "an_dt": "14-May-2026 11:35:51",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Mtar Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MTARTECH_14052026113539_Paper_Ad.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 09:02:43",
+      "an_dt": "14-May-2026 09:02:43",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "Mtar Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MTARTECH_14052026090236_Disc.pdf"
+    },
     {
       "sort_date": "2026-05-13 14:11:32",
       "an_dt": "13-May-2026 14:11:32",
@@ -580,20 +586,6 @@
       "desc": "General Updates",
       "sm_name": "Mtar Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MTARTECH_18022026170808_calendar_sw.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:15:51",
-      "an_dt": "12-Feb-2026 15:15:51",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Mtar Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MTARTECH_12022026151511_Plantvisit.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:15:10",
-      "an_dt": "12-Feb-2026 13:15:10",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Mtar Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MTARTECH_12022026131435_plantvisit.pdf"
     }
   ]
 }

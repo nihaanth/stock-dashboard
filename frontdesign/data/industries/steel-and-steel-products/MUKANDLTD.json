@@ -8,25 +8,9 @@
   "price": 137.04,
   "market_cap_cr": 1980.17,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 134.55,
-      "prev_close": 137.08,
-      "volume": 178499,
-      "deliverable_qty": 83641,
-      "delivery_pct": 46.86
-    },
-    {
-      "date": "2026-02-13",
-      "close": 131.33,
-      "prev_close": 134.55,
-      "volume": 104445,
-      "deliverable_qty": 54902,
-      "delivery_pct": 52.57
-    },
     {
       "date": "2026-02-16",
       "close": 131.81,
@@ -466,9 +450,31 @@
       "volume": 144490,
       "deliverable_qty": 77480,
       "delivery_pct": 53.62
+    },
+    {
+      "date": "2026-05-15",
+      "close": 141.02,
+      "prev_close": 137.75,
+      "volume": 1328856,
+      "deliverable_qty": 514094,
+      "delivery_pct": 38.69
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 19:17:45",
+      "an_dt": "14-May-2026 19:17:45",
+      "desc": "General Updates",
+      "sm_name": "Mukand Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MUKANDLTD_14052026191737_Dividend_Outcome_of_Board_Meeting_14052026_sd.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 19:05:36",
+      "an_dt": "14-May-2026 19:05:36",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Mukand Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MUKANDLTD_14052026190159_Outcome_of_Board_Meeting_14052026_sd.pdf"
+    },
     {
       "sort_date": "2026-05-12 18:43:29",
       "an_dt": "12-May-2026 18:43:29",
@@ -559,41 +565,6 @@
       "desc": "Change in Management",
       "sm_name": "Mukand Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MUKANDLTD_16022026111756_Change_in_Management_ML_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:29:23",
-      "an_dt": "12-Feb-2026 17:29:23",
-      "desc": "Appointment",
-      "sm_name": "Mukand Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MUKANDLTD_12022026172751_Change_in_Mgt_Board_Meeting_12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:29:23",
-      "an_dt": "12-Feb-2026 17:29:23",
-      "desc": "Appointment",
-      "sm_name": "Mukand Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MUKANDLTD_12022026172731_Change_in_Mgt_Board_Meeting_12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:09:28",
-      "an_dt": "12-Feb-2026 17:09:28",
-      "desc": "Updates",
-      "sm_name": "Mukand Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MUKANDLTD_12022026170905_Outcome_of_Board_Meeting_12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:36:04",
-      "an_dt": "12-Feb-2026 16:36:04",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Mukand Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MUKANDLTD_12022026162837_Outcome_of_Board_Meeting_12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:29:49",
-      "an_dt": "12-Feb-2026 15:29:49",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Mukand Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MUKANDLTD_12022026152908_Outcome_of_Board_Meeting_12022026.pdf"
     }
   ]
 }

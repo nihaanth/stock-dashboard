@@ -8,25 +8,9 @@
   "price": 64.8,
   "market_cap_cr": 561.91,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 57.57,
-      "prev_close": 58.21,
-      "volume": 88403,
-      "deliverable_qty": 50942,
-      "delivery_pct": 57.62
-    },
-    {
-      "date": "2026-02-13",
-      "close": 58.02,
-      "prev_close": 57.57,
-      "volume": 107765,
-      "deliverable_qty": 67227,
-      "delivery_pct": 62.38
-    },
     {
       "date": "2026-02-16",
       "close": 57.49,
@@ -466,9 +450,24 @@
       "volume": 106003,
       "deliverable_qty": 57924,
       "delivery_pct": 54.64
+    },
+    {
+      "date": "2026-05-15",
+      "close": 61.91,
+      "prev_close": 62.96,
+      "volume": 48962,
+      "deliverable_qty": 32435,
+      "delivery_pct": 66.25
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 13:57:06",
+      "an_dt": "15-May-2026 13:57:06",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "BMW Ventures Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BMWVENTURES2024_15052026135634_COVERING_LETTER_WITH_MA_REPORT.pdf"
+    },
     {
       "sort_date": "2026-04-09 15:34:08",
       "an_dt": "09-Apr-2026 15:34:08",
@@ -510,13 +509,6 @@
       "desc": "Awarding of order(s)/contract(s)",
       "sm_name": "BMW Ventures Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BMWVENTURES2024_26022026144749_peb_order_36_crore.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:30:29",
-      "an_dt": "13-Feb-2026 20:30:29",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "BMW Ventures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BMWVENTURES2024_13022026203000_Monitoring_Agency_Report.pdf"
     }
   ]
 }

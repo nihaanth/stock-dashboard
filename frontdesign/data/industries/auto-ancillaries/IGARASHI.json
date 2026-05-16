@@ -8,25 +8,9 @@
   "price": 430.6,
   "market_cap_cr": 1355.32,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 384.1,
-      "prev_close": 391.5,
-      "volume": 45109,
-      "deliverable_qty": 24193,
-      "delivery_pct": 53.63
-    },
-    {
-      "date": "2026-02-13",
-      "close": 369.95,
-      "prev_close": 384.1,
-      "volume": 44243,
-      "deliverable_qty": 25394,
-      "delivery_pct": 57.4
-    },
     {
       "date": "2026-02-16",
       "close": 383.7,
@@ -466,6 +450,14 @@
       "volume": 41144,
       "deliverable_qty": 19059,
       "delivery_pct": 46.32
+    },
+    {
+      "date": "2026-05-15",
+      "close": 391.95,
+      "prev_close": 397.55,
+      "volume": 43537,
+      "deliverable_qty": 22169,
+      "delivery_pct": 50.92
     }
   ],
   "news": [
@@ -517,13 +509,6 @@
       "desc": "Trading Window",
       "sm_name": "Igarashi Motors India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGARASHI_20032026100610_IMILSEQ4TradingWindow31032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 11:52:47",
-      "an_dt": "12-Feb-2026 11:52:47",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Igarashi Motors India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGARASHI_12022026113923_IMILFY26Q3ResultsNP11022026SDfinal.pdf"
     }
   ]
 }

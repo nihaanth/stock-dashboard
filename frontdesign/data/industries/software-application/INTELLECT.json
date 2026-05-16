@@ -8,25 +8,9 @@
   "price": 760.35,
   "market_cap_cr": 10565.22,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 711.2,
-      "prev_close": 746.5,
-      "volume": 1117943,
-      "deliverable_qty": 389503,
-      "delivery_pct": 34.84
-    },
-    {
-      "date": "2026-02-13",
-      "close": 678.9,
-      "prev_close": 711.2,
-      "volume": 667444,
-      "deliverable_qty": 272715,
-      "delivery_pct": 40.86
-    },
     {
       "date": "2026-02-16",
       "close": 684.3,
@@ -466,9 +450,24 @@
       "volume": 376020,
       "deliverable_qty": 133323,
       "delivery_pct": 35.46
+    },
+    {
+      "date": "2026-05-15",
+      "close": 686.6,
+      "prev_close": 693.6,
+      "volume": 352046,
+      "deliverable_qty": 131131,
+      "delivery_pct": 37.25
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 16:50:01",
+      "an_dt": "14-May-2026 16:50:01",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Intellect Design Arena Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTELLECT_14052026164926_TranscriptofEarningCallsQuarter4SIGNED.pdf"
+    },
     {
       "sort_date": "2026-05-12 15:34:14",
       "an_dt": "12-May-2026 15:34:14",
@@ -874,20 +873,6 @@
       "desc": "Press Release",
       "sm_name": "Intellect Design Arena Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTELLECT_17022026121300_Pressrelease17022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 12:55:57",
-      "an_dt": "13-Feb-2026 12:55:57",
-      "desc": "Press Release",
-      "sm_name": "Intellect Design Arena Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTELLECT_13022026125543_PressRelease13022026_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:26:11",
-      "an_dt": "12-Feb-2026 13:26:11",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Intellect Design Arena Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTELLECT_12022026132559_IntimationofScheduleofInvestorMeetdated12022026.pdf"
     }
   ]
 }

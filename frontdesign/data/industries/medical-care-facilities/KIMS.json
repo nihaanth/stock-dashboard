@@ -8,25 +8,9 @@
   "price": 657.5,
   "market_cap_cr": 26309.14,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 697.8,
-      "prev_close": 683.75,
-      "volume": 1231297,
-      "deliverable_qty": 704888,
-      "delivery_pct": 57.25
-    },
-    {
-      "date": "2026-02-13",
-      "close": 687.2,
-      "prev_close": 697.8,
-      "volume": 585237,
-      "deliverable_qty": 204716,
-      "delivery_pct": 34.98
-    },
     {
       "date": "2026-02-16",
       "close": 684.4,
@@ -466,9 +450,38 @@
       "volume": 660149,
       "deliverable_qty": 265786,
       "delivery_pct": 40.26
+    },
+    {
+      "date": "2026-05-15",
+      "close": 761.65,
+      "prev_close": 773.3,
+      "volume": 592313,
+      "deliverable_qty": 281634,
+      "delivery_pct": 47.55
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 21:03:28",
+      "an_dt": "15-May-2026 21:03:28",
+      "desc": "Change in Management",
+      "sm_name": "Krishna Institute of Medical Sciences Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KIMS_15052026210228_Reg-30-Dis__1_.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 19:41:41",
+      "an_dt": "15-May-2026 19:41:41",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Krishna Institute of Medical Sciences Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KIMS_15052026193943_Outcomefinal-.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 19:11:21",
+      "an_dt": "15-May-2026 19:11:21",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Krishna Institute of Medical Sciences Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KIMS_15052026190932_Outcomefinal-.pdf"
+    },
     {
       "sort_date": "2026-05-13 22:46:11",
       "an_dt": "13-May-2026 22:46:11",
@@ -580,13 +593,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Krishna Institute of Medical Sciences Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KIMS_16022026174219_finalintimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:09:12",
-      "an_dt": "13-Feb-2026 17:09:12",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Krishna Institute of Medical Sciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KIMS_13022026170846_Transcript_of_Invester_call_held_on_09022026_FINAL.pdf"
     }
   ]
 }

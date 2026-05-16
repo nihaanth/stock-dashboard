@@ -8,25 +8,9 @@
   "price": 907.35,
   "market_cap_cr": 4614.5,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1023.4,
-      "prev_close": 997.35,
-      "volume": 138514,
-      "deliverable_qty": 68489,
-      "delivery_pct": 49.45
-    },
-    {
-      "date": "2026-02-13",
-      "close": 937.0,
-      "prev_close": 1023.4,
-      "volume": 197412,
-      "deliverable_qty": 79884,
-      "delivery_pct": 40.47
-    },
     {
       "date": "2026-02-16",
       "close": 905.0,
@@ -466,9 +450,31 @@
       "volume": 40759,
       "deliverable_qty": 18797,
       "delivery_pct": 46.12
+    },
+    {
+      "date": "2026-05-15",
+      "close": 941.2,
+      "prev_close": 950.2,
+      "volume": 20554,
+      "deliverable_qty": 11671,
+      "delivery_pct": 56.78
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 18:56:27",
+      "an_dt": "14-May-2026 18:56:27",
+      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
+      "sm_name": "Unimech Aerospace and Manufacturing Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIMECH_14052026185616_Statement_of_Deviation_SE.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 18:47:52",
+      "an_dt": "14-May-2026 18:47:52",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Unimech Aerospace and Manufacturing Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIMECH_14052026184741_Monitoring_Agency_Report_SE.pdf"
+    },
     {
       "sort_date": "2026-05-04 10:57:24",
       "an_dt": "04-May-2026 10:57:24",
@@ -559,41 +565,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Unimech Aerospace and Manufacturing Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIMECH_14022026193521_NP_stock_Exchange.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:22:49",
-      "an_dt": "13-Feb-2026 15:22:49",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Unimech Aerospace and Manufacturing Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIMECH_13022026152239_Earningscall_link_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:21:39",
-      "an_dt": "12-Feb-2026 18:21:39",
-      "desc": "Investor Presentation",
-      "sm_name": "Unimech Aerospace and Manufacturing Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIMECH_12022026182126_Investor_presentation_Covering_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:14:43",
-      "an_dt": "12-Feb-2026 18:14:43",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Unimech Aerospace and Manufacturing Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIMECH_12022026181434_Monitoring_Agency_Report_covering_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:11:02",
-      "an_dt": "12-Feb-2026 18:11:02",
-      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "sm_name": "Unimech Aerospace and Manufacturing Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIMECH_12022026181052_Statement_of_Deviation_Covering_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:22:24",
-      "an_dt": "12-Feb-2026 17:22:24",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Unimech Aerospace and Manufacturing Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIMECH_12022026172147_BM_Outcome_signed.pdf"
     }
   ]
 }

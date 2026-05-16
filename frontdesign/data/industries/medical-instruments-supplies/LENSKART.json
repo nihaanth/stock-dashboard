@@ -8,25 +8,9 @@
   "price": 549.2,
   "market_cap_cr": 94964.13,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 513.0,
-      "prev_close": 467.6,
-      "volume": 40337888,
-      "deliverable_qty": 7896890,
-      "delivery_pct": 19.58
-    },
-    {
-      "date": "2026-02-13",
-      "close": 502.2,
-      "prev_close": 513.0,
-      "volume": 12168797,
-      "deliverable_qty": 2622593,
-      "delivery_pct": 21.55
-    },
     {
       "date": "2026-02-16",
       "close": 499.75,
@@ -466,9 +450,24 @@
       "volume": 7106499,
       "deliverable_qty": 4217861,
       "delivery_pct": 59.35
+    },
+    {
+      "date": "2026-05-15",
+      "close": 469.25,
+      "prev_close": 474.35,
+      "volume": 3672940,
+      "deliverable_qty": 1920900,
+      "delivery_pct": 52.3
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 14:59:33",
+      "an_dt": "14-May-2026 14:59:33",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Lenskart Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LENSKART_14052026145422_Reg30_-_SE_Intimation_MA_Report_signed.pdf"
+    },
     {
       "sort_date": "2026-05-12 12:18:26",
       "an_dt": "12-May-2026 12:18:26",
@@ -545,34 +544,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Lenskart Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LENSKART_16022026222158_Reg30_-_Transcript_-_SE_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:27:56",
-      "an_dt": "13-Feb-2026 14:27:56",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Lenskart Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LENSKART_13022026142544_Reg30_-_SE_Intimation_MA_Report.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 12:16:06",
-      "an_dt": "13-Feb-2026 12:16:06",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Lenskart Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LENSKART_13022026121454_Reg30_-_Analysts_Meet_-_SE_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 11:18:05",
-      "an_dt": "12-Feb-2026 11:18:05",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Lenskart Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LENSKART_12022026111722_NewsPaper_Publication_-_SE_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 00:18:34",
-      "an_dt": "12-Feb-2026 00:18:34",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Lenskart Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LENSKART_12022026001620_Reg30_-_Audio_Recording_FR_-_SE_Intimation.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 374.9,
   "market_cap_cr": 6127.75,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 412.05,
-      "prev_close": 427.8,
-      "volume": 152352,
-      "deliverable_qty": 77274,
-      "delivery_pct": 50.72
-    },
-    {
-      "date": "2026-02-13",
-      "close": 407.2,
-      "prev_close": 412.05,
-      "volume": 90863,
-      "deliverable_qty": 58190,
-      "delivery_pct": 64.04
-    },
     {
       "date": "2026-02-16",
       "close": 403.35,
@@ -466,9 +450,24 @@
       "volume": 172632,
       "deliverable_qty": 104624,
       "delivery_pct": 60.61
+    },
+    {
+      "date": "2026-05-15",
+      "close": 404.9,
+      "prev_close": 406.65,
+      "volume": 50807,
+      "deliverable_qty": 22788,
+      "delivery_pct": 44.85
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:20:34",
+      "an_dt": "15-May-2026 19:20:34",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Max Estates Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEL_15052026191956_20260515MonitoringAgencyReport.pdf"
+    },
     {
       "sort_date": "2026-05-13 16:20:33",
       "an_dt": "13-May-2026 16:20:33",

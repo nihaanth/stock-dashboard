@@ -8,25 +8,9 @@
   "price": 401.4,
   "market_cap_cr": 1507.63,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 545.45,
-      "prev_close": 561.55,
-      "volume": 62325,
-      "deliverable_qty": 27384,
-      "delivery_pct": 43.94
-    },
-    {
-      "date": "2026-02-13",
-      "close": 523.6,
-      "prev_close": 545.45,
-      "volume": 70966,
-      "deliverable_qty": 28211,
-      "delivery_pct": 39.75
-    },
     {
       "date": "2026-02-16",
       "close": 517.55,
@@ -466,6 +450,14 @@
       "volume": 37259,
       "deliverable_qty": 17356,
       "delivery_pct": 46.58
+    },
+    {
+      "date": "2026-05-15",
+      "close": 381.0,
+      "prev_close": 384.35,
+      "volume": 43761,
+      "deliverable_qty": 22629,
+      "delivery_pct": 51.71
     }
   ],
   "news": [
@@ -538,13 +530,6 @@
       "desc": "Updates",
       "sm_name": "Ramco Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAMCOSYS_18022026194822_18022026UpdateonTradingPlans.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 14:04:19",
-      "an_dt": "12-Feb-2026 14:04:19",
-      "desc": "Press Release",
-      "sm_name": "Ramco Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAMCOSYS_12022026140405_120226Press_release.pdf"
     }
   ]
 }

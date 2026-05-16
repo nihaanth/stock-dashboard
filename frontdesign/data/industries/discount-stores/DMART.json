@@ -8,25 +8,9 @@
   "price": 4389.4,
   "market_cap_cr": 286243.16,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 3963.0,
-      "prev_close": 4003.7,
-      "volume": 197205,
-      "deliverable_qty": 105631,
-      "delivery_pct": 53.56
-    },
-    {
-      "date": "2026-02-13",
-      "close": 3909.2,
-      "prev_close": 3963.0,
-      "volume": 219061,
-      "deliverable_qty": 115090,
-      "delivery_pct": 52.54
-    },
     {
       "date": "2026-02-16",
       "close": 3880.7,
@@ -466,9 +450,38 @@
       "volume": 225236,
       "deliverable_qty": 122632,
       "delivery_pct": 54.45
+    },
+    {
+      "date": "2026-05-15",
+      "close": 4358.7,
+      "prev_close": 4341.4,
+      "volume": 145953,
+      "deliverable_qty": 63994,
+      "delivery_pct": 43.85
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:38:51",
+      "an_dt": "15-May-2026 18:38:51",
+      "desc": "Change in Management",
+      "sm_name": "Avenue Supermarts Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DMART_15052026183824_ChangeinManagement15052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 19:08:03",
+      "an_dt": "14-May-2026 19:08:03",
+      "desc": "Change in Management",
+      "sm_name": "Avenue Supermarts Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DMART_14052026190740_ASLChangeinSMP14052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 18:52:39",
+      "an_dt": "14-May-2026 18:52:39",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Avenue Supermarts Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DMART_ROID_85945_KMP_Doc.zip"
+    },
     {
       "sort_date": "2026-05-04 16:34:22",
       "an_dt": "04-May-2026 16:34:22",
@@ -741,13 +754,6 @@
       "desc": "Action(s) initiated or orders passed",
       "sm_name": "Avenue Supermarts Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DMART_19022026192933_ASLInitmationReg30_19022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:52:47",
-      "an_dt": "13-Feb-2026 17:52:47",
-      "desc": "Updates",
-      "sm_name": "Avenue Supermarts Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DMART_13022026175227_ASLInitmationStoreOpening13022026.pdf"
     }
   ]
 }

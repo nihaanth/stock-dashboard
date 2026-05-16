@@ -8,25 +8,9 @@
   "price": 275.75,
   "market_cap_cr": 41362.5,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 297.15,
-      "prev_close": 303.9,
-      "volume": 3061164,
-      "deliverable_qty": 1796099,
-      "delivery_pct": 58.67
-    },
-    {
-      "date": "2026-02-13",
-      "close": 290.4,
-      "prev_close": 297.15,
-      "volume": 2767142,
-      "deliverable_qty": 1390636,
-      "delivery_pct": 50.26
-    },
     {
       "date": "2026-02-16",
       "close": 294.7,
@@ -466,9 +450,24 @@
       "volume": 1758054,
       "deliverable_qty": 945632,
       "delivery_pct": 53.79
+    },
+    {
+      "date": "2026-05-15",
+      "close": 263.6,
+      "prev_close": 271.75,
+      "volume": 3230277,
+      "deliverable_qty": 1876666,
+      "delivery_pct": 58.1
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 14:31:59",
+      "an_dt": "15-May-2026 14:31:59",
+      "desc": "General Updates",
+      "sm_name": "Petronet LNG Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PETRONET_15052026143151_schedule15052026si.pdf"
+    },
     {
       "sort_date": "2026-05-12 16:01:34",
       "an_dt": "12-May-2026 16:01:34",
@@ -671,27 +670,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Petronet LNG Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PETRONET_20022026110925_intimationtranscript2.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:50:32",
-      "an_dt": "13-Feb-2026 21:50:32",
-      "desc": "General Updates",
-      "sm_name": "Petronet LNG Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PETRONET_13022026214926_UDIN_letter_to_SEsi.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:45:58",
-      "an_dt": "13-Feb-2026 21:45:58",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Petronet LNG Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PETRONET_13022026214549_intimationaudiorecordingsi132.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:45:58",
-      "an_dt": "12-Feb-2026 17:45:58",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Petronet LNG Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PETRONET_12022026174407_OutcomeofBoardMeeting12022026si.pdf"
     }
   ]
 }

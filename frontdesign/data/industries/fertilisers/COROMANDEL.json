@@ -8,25 +8,9 @@
   "price": 1866.2,
   "market_cap_cr": 55000.33,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 2270.2,
-      "prev_close": 2277.8,
-      "volume": 356015,
-      "deliverable_qty": 199621,
-      "delivery_pct": 56.07
-    },
-    {
-      "date": "2026-02-13",
-      "close": 2279.5,
-      "prev_close": 2270.2,
-      "volume": 323878,
-      "deliverable_qty": 210413,
-      "delivery_pct": 64.97
-    },
     {
       "date": "2026-02-16",
       "close": 2287.4,
@@ -466,9 +450,24 @@
       "volume": 471948,
       "deliverable_qty": 251708,
       "delivery_pct": 53.33
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1865.8,
+      "prev_close": 1860.3,
+      "volume": 364051,
+      "deliverable_qty": 225480,
+      "delivery_pct": 61.94
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 21:08:44",
+      "an_dt": "15-May-2026 21:08:44",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Coromandel International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COROMANDELINT_15052026210811_SE_Concalltranscript_SD.pdf"
+    },
     {
       "sort_date": "2026-05-08 18:50:49",
       "an_dt": "08-May-2026 18:50:49",

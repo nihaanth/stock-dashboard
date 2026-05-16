@@ -8,25 +8,9 @@
   "price": 236.75,
   "market_cap_cr": 7581.93,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 220.65,
-      "prev_close": 221.89,
-      "volume": 223838,
-      "deliverable_qty": 132505,
-      "delivery_pct": 59.2
-    },
-    {
-      "date": "2026-02-13",
-      "close": 217.54,
-      "prev_close": 220.65,
-      "volume": 331090,
-      "deliverable_qty": 171543,
-      "delivery_pct": 51.81
-    },
     {
       "date": "2026-02-16",
       "close": 213.74,
@@ -466,9 +450,59 @@
       "volume": 1243538,
       "deliverable_qty": 490510,
       "delivery_pct": 39.44
+    },
+    {
+      "date": "2026-05-15",
+      "close": 215.29,
+      "prev_close": 229.36,
+      "volume": 3709695,
+      "deliverable_qty": 1914640,
+      "delivery_pct": 51.61
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 14:40:17",
+      "an_dt": "15-May-2026 14:40:17",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "EPL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Sonia_Gupte_15052026144012_NewspaperIntimationSd.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 23:02:05",
+      "an_dt": "14-May-2026 23:02:05",
+      "desc": "Press Release",
+      "sm_name": "EPL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Sonia_Gupte_14052026225955_IntimationOfPressReleaseSd.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 22:53:50",
+      "an_dt": "14-May-2026 22:53:50",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "EPL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Sonia_Gupte_14052026225344_IntimationOfAudioRecordingSd.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:21:29",
+      "an_dt": "14-May-2026 17:21:29",
+      "desc": "Change in Auditors",
+      "sm_name": "EPL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Sonia_Gupte_14052026172112_OutcomeOfBMApptSd.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:04:48",
+      "an_dt": "14-May-2026 17:04:48",
+      "desc": "Investor Presentation",
+      "sm_name": "EPL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Sonia_Gupte_14052026170415_InvestorPresentationSd.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 16:55:56",
+      "an_dt": "14-May-2026 16:55:56",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "EPL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Sonia_Gupte_14052026165201_OutcomeOfBM_FinancialsSd.pdf"
+    },
     {
       "sort_date": "2026-05-13 18:54:23",
       "an_dt": "13-May-2026 18:54:23",
@@ -643,34 +677,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "EPL Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Sonia_Gupte_14022026214943_NewspaperIntimationSd.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 22:16:24",
-      "an_dt": "13-Feb-2026 22:16:24",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "EPL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Sonia_Gupte_13022026221616_IntimationOfAudioRecordingSd.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:36:16",
-      "an_dt": "13-Feb-2026 16:36:16",
-      "desc": "General Updates",
-      "sm_name": "EPL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Sonia_Gupte_13022026163423_30_5_Sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:26:25",
-      "an_dt": "13-Feb-2026 16:26:25",
-      "desc": "Investor Presentation",
-      "sm_name": "EPL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Sonia_Gupte_13022026162419_InvestorPresentationSd.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:17:41",
-      "an_dt": "13-Feb-2026 16:17:41",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "EPL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Sonia_Gupte_13022026161430_OutcomeOfBMSd.pdf"
     }
   ]
 }

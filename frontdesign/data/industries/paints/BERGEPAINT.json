@@ -8,25 +8,9 @@
   "price": 493.85,
   "market_cap_cr": 57583.05,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 460.75,
-      "prev_close": 458.5,
-      "volume": 952165,
-      "deliverable_qty": 604964,
-      "delivery_pct": 63.54
-    },
-    {
-      "date": "2026-02-13",
-      "close": 462.0,
-      "prev_close": 460.75,
-      "volume": 309257,
-      "deliverable_qty": 187100,
-      "delivery_pct": 60.5
-    },
     {
       "date": "2026-02-16",
       "close": 462.4,
@@ -466,9 +450,24 @@
       "volume": 9314433,
       "deliverable_qty": 1144002,
       "delivery_pct": 12.28
+    },
+    {
+      "date": "2026-05-15",
+      "close": 533.45,
+      "prev_close": 533.9,
+      "volume": 470935,
+      "deliverable_qty": 167809,
+      "delivery_pct": 35.63
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 13:50:41",
+      "an_dt": "14-May-2026 13:50:41",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Berger Paints (I) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PAINTBERGE_14052026135032_Transcriptletter120526.pdf"
+    },
     {
       "sort_date": "2026-05-13 15:42:04",
       "an_dt": "13-May-2026 15:42:04",
@@ -566,13 +565,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Berger Paints (I) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PAINTBERGE_25022026113512_Letter250226_merged.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 13:30:49",
-      "an_dt": "13-Feb-2026 13:30:49",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Berger Paints (I) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PAINTBERGE_13022026133039_Analyst1302.pdf"
     }
   ]
 }

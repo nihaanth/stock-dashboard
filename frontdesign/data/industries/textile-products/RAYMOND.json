@@ -8,25 +8,9 @@
   "price": 492.0,
   "market_cap_cr": 3274.33,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 403.3,
-      "prev_close": 408.2,
-      "volume": 280690,
-      "deliverable_qty": 138280,
-      "delivery_pct": 49.26
-    },
-    {
-      "date": "2026-02-13",
-      "close": 398.25,
-      "prev_close": 403.3,
-      "volume": 488525,
-      "deliverable_qty": 141955,
-      "delivery_pct": 29.06
-    },
     {
       "date": "2026-02-16",
       "close": 391.45,
@@ -466,9 +450,24 @@
       "volume": 393389,
       "deliverable_qty": 146259,
       "delivery_pct": 37.18
+    },
+    {
+      "date": "2026-05-15",
+      "close": 453.55,
+      "prev_close": 459.8,
+      "volume": 432506,
+      "deliverable_qty": 201595,
+      "delivery_pct": 46.61
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:24:03",
+      "an_dt": "15-May-2026 17:24:03",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Raymond Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAYMOND_15052026171838_RLSEintimationsigned.pdf"
+    },
     {
       "sort_date": "2026-05-12 18:09:20",
       "an_dt": "12-May-2026 18:09:20",
@@ -587,13 +586,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Raymond Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAYMOND_18022026174257_RLSEintimationsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 12:45:17",
-      "an_dt": "12-Feb-2026 12:45:17",
-      "desc": "Shareholders meeting",
-      "sm_name": "Raymond Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAYMOND_12022026124147_RLSEintimationsigned.pdf"
     }
   ]
 }

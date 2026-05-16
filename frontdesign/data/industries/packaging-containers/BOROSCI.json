@@ -8,25 +8,9 @@
   "price": 118.5,
   "market_cap_cr": 1054.02,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 116.55,
-      "prev_close": 105.5,
-      "volume": 1787981,
-      "deliverable_qty": 404024,
-      "delivery_pct": 22.6
-    },
-    {
-      "date": "2026-02-13",
-      "close": 118.81,
-      "prev_close": 116.55,
-      "volume": 238480,
-      "deliverable_qty": 105059,
-      "delivery_pct": 44.05
-    },
     {
       "date": "2026-02-16",
       "close": 119.85,
@@ -466,6 +450,14 @@
       "volume": 48358,
       "deliverable_qty": 28467,
       "delivery_pct": 58.87
+    },
+    {
+      "date": "2026-05-15",
+      "close": 118.43,
+      "prev_close": 118.11,
+      "volume": 61529,
+      "deliverable_qty": 32749,
+      "delivery_pct": 53.23
     }
   ],
   "news": [
@@ -489,13 +481,6 @@
       "desc": "Trading Window",
       "sm_name": "Borosil Scientific Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BOROSCI_27032026094535_Closureoftradingwindow.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:02:19",
-      "an_dt": "13-Feb-2026 15:02:19",
-      "desc": "General Updates",
-      "sm_name": "Borosil Scientific Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BOROSCI_13022026150200_investor_presentation_dec_2025.pdf"
     }
   ]
 }

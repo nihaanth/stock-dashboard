@@ -8,25 +8,9 @@
   "price": 335.75,
   "market_cap_cr": 2440.47,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 344.4,
-      "prev_close": 341.15,
-      "volume": 96150,
-      "deliverable_qty": 67178,
-      "delivery_pct": 69.87
-    },
-    {
-      "date": "2026-02-13",
-      "close": 341.25,
-      "prev_close": 344.4,
-      "volume": 40876,
-      "deliverable_qty": 15983,
-      "delivery_pct": 39.1
-    },
     {
       "date": "2026-02-16",
       "close": 336.3,
@@ -466,6 +450,14 @@
       "volume": 69516,
       "deliverable_qty": 23151,
       "delivery_pct": 33.3
+    },
+    {
+      "date": "2026-05-15",
+      "close": 319.95,
+      "prev_close": 321.25,
+      "volume": 98119,
+      "deliverable_qty": 47845,
+      "delivery_pct": 48.76
     }
   ],
   "news": [
@@ -601,20 +593,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Eveready Industries India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EVEREADY_14022026085415_SEIntimation_-_Newspaper_Publication.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:57:44",
-      "an_dt": "13-Feb-2026 14:57:44",
-      "desc": "Shareholders meeting",
-      "sm_name": "Eveready Industries India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EVEREADY_13022026145526_SEIntimation_PBNotice.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:59:06",
-      "an_dt": "12-Feb-2026 17:59:06",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Eveready Industries India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EVEREADY_12022026175601_SE_Intimation_Transcript.pdf"
     }
   ]
 }

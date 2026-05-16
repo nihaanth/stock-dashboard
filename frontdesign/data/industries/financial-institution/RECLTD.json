@@ -8,25 +8,9 @@
   "price": 351.55,
   "market_cap_cr": 92570.98,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 350.7,
-      "prev_close": 353.95,
-      "volume": 5630751,
-      "deliverable_qty": 2619910,
-      "delivery_pct": 46.53
-    },
-    {
-      "date": "2026-02-13",
-      "close": 346.9,
-      "prev_close": 350.7,
-      "volume": 8552636,
-      "deliverable_qty": 4145110,
-      "delivery_pct": 48.47
-    },
     {
       "date": "2026-02-16",
       "close": 353.5,
@@ -466,6 +450,14 @@
       "volume": 4765260,
       "deliverable_qty": 2132402,
       "delivery_pct": 44.75
+    },
+    {
+      "date": "2026-05-15",
+      "close": 345.85,
+      "prev_close": 348.3,
+      "volume": 3222539,
+      "deliverable_qty": 1353077,
+      "delivery_pct": 41.99
     }
   ],
   "news": [
@@ -636,20 +628,6 @@
       "desc": "General Updates",
       "sm_name": "REC Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RECLTD_16022026165712_Signed_Intimation_of_incorporation_of_subsidiary_company.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:37:36",
-      "an_dt": "12-Feb-2026 17:37:36",
-      "desc": "General Updates",
-      "sm_name": "REC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RECLTD_12022026173513_Signed_Intimation_brief_update_regarding_REC_PFC_restructuring.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:41:10",
-      "an_dt": "12-Feb-2026 16:41:10",
-      "desc": "General Updates",
-      "sm_name": "REC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RECLTD_12022026164041_Signed_Intimation_of_sale_and_transfer_SPV.pdf"
     }
   ]
 }

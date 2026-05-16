@@ -8,25 +8,9 @@
   "price": 8015.5,
   "market_cap_cr": 2056.78,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 7938.5,
-      "prev_close": 7841.0,
-      "volume": 2076,
-      "deliverable_qty": 1470,
-      "delivery_pct": 70.81
-    },
-    {
-      "date": "2026-02-13",
-      "close": 7672.5,
-      "prev_close": 7938.5,
-      "volume": 984,
-      "deliverable_qty": 539,
-      "delivery_pct": 54.78
-    },
     {
       "date": "2026-02-16",
       "close": 8167.0,
@@ -466,6 +450,14 @@
       "volume": 2454,
       "deliverable_qty": 1461,
       "delivery_pct": 59.54
+    },
+    {
+      "date": "2026-05-15",
+      "close": 7608.0,
+      "prev_close": 7679.0,
+      "volume": 969,
+      "deliverable_qty": 516,
+      "delivery_pct": 53.25
     }
   ],
   "news": [
@@ -545,27 +537,6 @@
       "desc": "Press Release",
       "sm_name": "Tasty Bite Eatables Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TASTYBITE_14022026121552_Management_Letter_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 23:21:10",
-      "an_dt": "13-Feb-2026 23:21:10",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Tasty Bite Eatables Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TASTYBITE_13022026231953_BM_outcome_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:05:40",
-      "an_dt": "12-Feb-2026 18:05:40",
-      "desc": "Resignation of Independent director",
-      "sm_name": "Tasty Bite Eatables Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TASTYBITE_ROID_79136_KMP_Doc.zip"
-    },
-    {
-      "sort_date": "2026-02-12 17:48:43",
-      "an_dt": "12-Feb-2026 17:48:43",
-      "desc": "Resignation",
-      "sm_name": "Tasty Bite Eatables Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TASTYBITE_12022026174830_pradeep_poddar_resignation_intimation_signed.pdf"
     }
   ]
 }

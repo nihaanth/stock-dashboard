@@ -8,25 +8,9 @@
   "price": 462.35,
   "market_cap_cr": 19660.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 523.0,
-      "prev_close": 525.6,
-      "volume": 422086,
-      "deliverable_qty": 149039,
-      "delivery_pct": 35.31
-    },
-    {
-      "date": "2026-02-13",
-      "close": 508.8,
-      "prev_close": 523.0,
-      "volume": 2280434,
-      "deliverable_qty": 1006737,
-      "delivery_pct": 44.15
-    },
     {
       "date": "2026-02-16",
       "close": 510.75,
@@ -466,9 +450,24 @@
       "volume": 35295553,
       "deliverable_qty": 10471959,
       "delivery_pct": 29.67
+    },
+    {
+      "date": "2026-05-15",
+      "close": 464.85,
+      "prev_close": 459.75,
+      "volume": 2997735,
+      "deliverable_qty": 1534698,
+      "delivery_pct": 51.2
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 16:16:55",
+      "an_dt": "15-May-2026 16:16:55",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "IIFL Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFL_15052026161632_PostIssuance.pdf"
+    },
     {
       "sort_date": "2026-05-13 18:39:46",
       "an_dt": "13-May-2026 18:39:46",
@@ -671,27 +670,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "IIFL Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFL_16022026174005_SEintimation_statad.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:59:56",
-      "an_dt": "13-Feb-2026 21:59:56",
-      "desc": "Action(s) taken or orders passed",
-      "sm_name": "IIFL Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFL_13022026215927_SEIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 01:46:31",
-      "an_dt": "13-Feb-2026 01:46:31",
-      "desc": "Issue of Securities",
-      "sm_name": "IIFL Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFL_13022026014621_SE_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:18:43",
-      "an_dt": "12-Feb-2026 16:18:43",
-      "desc": "Credit Rating",
-      "sm_name": "IIFL Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFL_12022026161725_RatingSEIntimation.pdf"
     }
   ]
 }

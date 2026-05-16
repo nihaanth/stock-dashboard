@@ -8,25 +8,9 @@
   "price": 464.45,
   "market_cap_cr": 286227.93,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 419.15,
-      "prev_close": 423.25,
-      "volume": 5987886,
-      "deliverable_qty": 2800848,
-      "delivery_pct": 46.78
-    },
-    {
-      "date": "2026-02-13",
-      "close": 408.95,
-      "prev_close": 419.15,
-      "volume": 8190851,
-      "deliverable_qty": 3677393,
-      "delivery_pct": 44.9
-    },
     {
       "date": "2026-02-16",
       "close": 422.5,
@@ -466,9 +450,24 @@
       "volume": 12091924,
       "deliverable_qty": 5613427,
       "delivery_pct": 46.42
+    },
+    {
+      "date": "2026-05-15",
+      "close": 462.2,
+      "prev_close": 454.05,
+      "volume": 7859575,
+      "deliverable_qty": 1872361,
+      "delivery_pct": 23.82
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:11:24",
+      "an_dt": "15-May-2026 17:11:24",
+      "desc": "Updates",
+      "sm_name": "Coal India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COALINDIA_15052026171108_MCL.pdf"
+    },
     {
       "sort_date": "2026-05-12 11:29:15",
       "an_dt": "12-May-2026 11:29:15",
@@ -755,48 +754,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Coal India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/COALINDIA_16022026114652_Newspaper_publication_on_Tax.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 12:10:05",
-      "an_dt": "13-Feb-2026 12:10:05",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Coal India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COALINDIA_13022026120929_paper_publication.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:17:03",
-      "an_dt": "12-Feb-2026 19:17:03",
-      "desc": "General Updates",
-      "sm_name": "Coal India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COALINDIA_12022026191643_3rd_ID.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:03:40",
-      "an_dt": "12-Feb-2026 19:03:40",
-      "desc": "General Updates",
-      "sm_name": "Coal India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COALINDIA_12022026190314_Presentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:56:51",
-      "an_dt": "12-Feb-2026 18:56:51",
-      "desc": "Dividend",
-      "sm_name": "Coal India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COALINDIA_12022026185551_Dividend.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:54:55",
-      "an_dt": "12-Feb-2026 18:54:55",
-      "desc": "Record Date",
-      "sm_name": "Coal India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COALINDIA_12022026185439_Dividend.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:53:58",
-      "an_dt": "12-Feb-2026 18:53:58",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Coal India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COALINDIA_12022026185237_results.pdf"
     }
   ]
 }

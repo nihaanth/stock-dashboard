@@ -8,25 +8,9 @@
   "price": 380.95,
   "market_cap_cr": 26224.22,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 425.35,
-      "prev_close": 430.15,
-      "volume": 167617,
-      "deliverable_qty": 84486,
-      "delivery_pct": 50.4
-    },
-    {
-      "date": "2026-02-13",
-      "close": 424.4,
-      "prev_close": 425.35,
-      "volume": 195691,
-      "deliverable_qty": 102903,
-      "delivery_pct": 52.58
-    },
     {
       "date": "2026-02-16",
       "close": 417.7,
@@ -466,9 +450,31 @@
       "volume": 377542,
       "deliverable_qty": 202410,
       "delivery_pct": 53.61
+    },
+    {
+      "date": "2026-05-15",
+      "close": 369.9,
+      "prev_close": 362.1,
+      "volume": 365927,
+      "deliverable_qty": 166982,
+      "delivery_pct": 45.63
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 20:26:49",
+      "an_dt": "14-May-2026 20:26:49",
+      "desc": "Trading Window",
+      "sm_name": "Gujarat Gas Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GUJGASLTD_14052026202637_1568SECBMInti26052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:35:46",
+      "an_dt": "14-May-2026 17:35:46",
+      "desc": "Name Change",
+      "sm_name": "Gujarat Gas Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GUJGASLTD_14052026173522_1567SECChangeofName.pdf"
+    },
     {
       "sort_date": "2026-05-10 16:46:40",
       "an_dt": "10-May-2026 16:46:40",

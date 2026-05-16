@@ -8,25 +8,9 @@
   "price": 496.4,
   "market_cap_cr": 3346.76,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 495.4,
-      "prev_close": 496.25,
-      "volume": 51054,
-      "deliverable_qty": 38594,
-      "delivery_pct": 75.59
-    },
-    {
-      "date": "2026-02-13",
-      "close": 482.95,
-      "prev_close": 495.4,
-      "volume": 44075,
-      "deliverable_qty": 29492,
-      "delivery_pct": 66.91
-    },
     {
       "date": "2026-02-16",
       "close": 475.6,
@@ -466,9 +450,24 @@
       "volume": 32524,
       "deliverable_qty": 14395,
       "delivery_pct": 44.26
+    },
+    {
+      "date": "2026-05-15",
+      "close": 482.8,
+      "prev_close": 483.6,
+      "volume": 83679,
+      "deliverable_qty": 57960,
+      "delivery_pct": 69.26
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 21:56:33",
+      "an_dt": "15-May-2026 21:56:33",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Marathon Nextgen Realty Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARATHON_15052026215621_monitoringagency.pdf"
+    },
     {
       "sort_date": "2026-04-09 11:42:09",
       "an_dt": "09-Apr-2026 11:42:09",
@@ -608,41 +607,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Marathon Nextgen Realty Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARATHON_15022026182922_NEWSPAPER.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:23:56",
-      "an_dt": "13-Feb-2026 20:23:56",
-      "desc": "General Updates",
-      "sm_name": "Marathon Nextgen Realty Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARATHON_13022026202340_OUTCOME.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:53:07",
-      "an_dt": "13-Feb-2026 19:53:07",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Marathon Nextgen Realty Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARATHON_13022026195255_MONITORINGAGENCY.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:19:06",
-      "an_dt": "13-Feb-2026 18:19:06",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Marathon Nextgen Realty Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARATHON_13022026181732_OUTCOME.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:15:35",
-      "an_dt": "13-Feb-2026 18:15:35",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Marathon Nextgen Realty Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARATHON_13022026181506_OUTCOME.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:12:16",
-      "an_dt": "12-Feb-2026 19:12:16",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Marathon Nextgen Realty Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARATHON_12022026191151_Intimation170226.pdf"
     }
   ]
 }

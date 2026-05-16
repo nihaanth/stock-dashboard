@@ -8,25 +8,9 @@
   "price": 229.0,
   "market_cap_cr": 957.0,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 337.5,
-      "prev_close": 341.2,
-      "volume": 198136,
-      "deliverable_qty": 74830,
-      "delivery_pct": 37.77
-    },
-    {
-      "date": "2026-02-13",
-      "close": 300.15,
-      "prev_close": 337.5,
-      "volume": 1755541,
-      "deliverable_qty": 555776,
-      "delivery_pct": 31.66
-    },
     {
       "date": "2026-02-16",
       "close": 292.25,
@@ -466,9 +450,31 @@
       "volume": 314697,
       "deliverable_qty": 127610,
       "delivery_pct": 40.55
+    },
+    {
+      "date": "2026-05-15",
+      "close": 208.8,
+      "prev_close": 214.4,
+      "volume": 387226,
+      "deliverable_qty": 188159,
+      "delivery_pct": 48.59
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 18:17:46",
+      "an_dt": "14-May-2026 18:17:46",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "Genesys International Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GENESYS_14052026181715_Reg_30_PDF.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 11:05:44",
+      "an_dt": "14-May-2026 11:05:44",
+      "desc": "Updates",
+      "sm_name": "Genesys International Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GENESYS_14052026110528_final_pressrelease.pdf"
+    },
     {
       "sort_date": "2026-05-06 16:45:52",
       "an_dt": "06-May-2026 16:45:52",
@@ -552,34 +558,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Genesys International Corporation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GENESYS_14022026124152_Newspaper.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:15:36",
-      "an_dt": "13-Feb-2026 16:15:36",
-      "desc": "Updates",
-      "sm_name": "Genesys International Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GENESYS_13022026161524_ResultswithUDIN.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:59:10",
-      "an_dt": "12-Feb-2026 19:59:10",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Genesys International Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GENESYS_12022026195849_Monitoring_Agency_Report.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:57:32",
-      "an_dt": "12-Feb-2026 19:57:32",
-      "desc": "Press Release",
-      "sm_name": "Genesys International Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GENESYS_12022026195722_Press_Release.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:53:41",
-      "an_dt": "12-Feb-2026 19:53:41",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Genesys International Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GENESYS_12022026195110_Results.pdf"
     }
   ]
 }

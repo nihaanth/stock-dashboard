@@ -8,25 +8,9 @@
   "price": 485.95,
   "market_cap_cr": 2806.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 522.9,
-      "prev_close": 538.7,
-      "volume": 53758,
-      "deliverable_qty": 25575,
-      "delivery_pct": 47.57
-    },
-    {
-      "date": "2026-02-13",
-      "close": 512.85,
-      "prev_close": 522.9,
-      "volume": 98820,
-      "deliverable_qty": 42703,
-      "delivery_pct": 43.21
-    },
     {
       "date": "2026-02-16",
       "close": 498.6,
@@ -466,6 +450,14 @@
       "volume": 173611,
       "deliverable_qty": 75251,
       "delivery_pct": 43.34
+    },
+    {
+      "date": "2026-05-15",
+      "close": 601.25,
+      "prev_close": 604.2,
+      "volume": 155454,
+      "deliverable_qty": 91141,
+      "delivery_pct": 58.63
     }
   ],
   "news": [
@@ -510,13 +502,6 @@
       "desc": "Credit Rating",
       "sm_name": "Shivalik Bimetal Controls Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBCL_12032026163317_1_Final_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 23:24:54",
-      "an_dt": "12-Feb-2026 23:24:54",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Shivalik Bimetal Controls Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBCL_12022026232430_NSEBSE12022026.pdf"
     }
   ]
 }

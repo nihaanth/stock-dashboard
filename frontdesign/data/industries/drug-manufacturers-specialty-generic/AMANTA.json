@@ -8,25 +8,9 @@
   "price": 136.84,
   "market_cap_cr": 531.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 108.56,
-      "prev_close": 109.16,
-      "volume": 65247,
-      "deliverable_qty": 36861,
-      "delivery_pct": 56.49
-    },
-    {
-      "date": "2026-02-13",
-      "close": 105.02,
-      "prev_close": 108.56,
-      "volume": 42950,
-      "deliverable_qty": 23759,
-      "delivery_pct": 55.32
-    },
     {
       "date": "2026-02-16",
       "close": 103.11,
@@ -466,9 +450,24 @@
       "volume": 58353,
       "deliverable_qty": 30598,
       "delivery_pct": 52.44
+    },
+    {
+      "date": "2026-05-15",
+      "close": 129.43,
+      "prev_close": 131.96,
+      "volume": 107817,
+      "deliverable_qty": 51453,
+      "delivery_pct": 47.72
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:21:26",
+      "an_dt": "15-May-2026 17:21:26",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Amanta Healthcare Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMANTA_15052026172109_Submission_of_Monitoring_Agency_Report_for_Qtr_ended_March_2026.pdf"
+    },
     {
       "sort_date": "2026-04-22 17:02:33",
       "an_dt": "22-Apr-2026 17:02:33",
@@ -580,13 +579,6 @@
       "desc": "Monitoring Agency Report",
       "sm_name": "Amanta Healthcare Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMANTA_14022026135059_Submission_of_Monitoring_Agency_Report_Q3_2025-26.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 14:13:13",
-      "an_dt": "12-Feb-2026 14:13:13",
-      "desc": "General Updates",
-      "sm_name": "Amanta Healthcare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMANTA_12022026141231_Intimation_Newspaper_Publication_Q3.pdf"
     }
   ]
 }

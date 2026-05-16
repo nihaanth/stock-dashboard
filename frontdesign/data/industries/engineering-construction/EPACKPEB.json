@@ -8,25 +8,9 @@
   "price": 199.02,
   "market_cap_cr": 2002.45,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 191.2,
-      "prev_close": 196.01,
-      "volume": 404865,
-      "deliverable_qty": 203129,
-      "delivery_pct": 50.17
-    },
-    {
-      "date": "2026-02-13",
-      "close": 187.77,
-      "prev_close": 191.2,
-      "volume": 351549,
-      "deliverable_qty": 153066,
-      "delivery_pct": 43.54
-    },
     {
       "date": "2026-02-16",
       "close": 181.27,
@@ -466,9 +450,24 @@
       "volume": 706926,
       "deliverable_qty": 250749,
       "delivery_pct": 35.47
+    },
+    {
+      "date": "2026-05-15",
+      "close": 200.42,
+      "prev_close": 190.16,
+      "volume": 1666379,
+      "deliverable_qty": 583085,
+      "delivery_pct": 34.99
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:28:41",
+      "an_dt": "15-May-2026 17:28:41",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "EPack Prefab Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EPACKPREFAB_15052026172826_MonitoringAgencyReportIntimationSigned.pdf"
+    },
     {
       "sort_date": "2026-05-11 22:15:57",
       "an_dt": "11-May-2026 22:15:57",

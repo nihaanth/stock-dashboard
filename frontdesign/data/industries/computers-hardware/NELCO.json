@@ -8,25 +8,9 @@
   "price": 708.5,
   "market_cap_cr": 1616.68,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 654.8,
-      "prev_close": 666.3,
-      "volume": 30314,
-      "deliverable_qty": 12508,
-      "delivery_pct": 41.26
-    },
-    {
-      "date": "2026-02-13",
-      "close": 637.9,
-      "prev_close": 654.8,
-      "volume": 51017,
-      "deliverable_qty": 23438,
-      "delivery_pct": 45.94
-    },
     {
       "date": "2026-02-16",
       "close": 631.15,
@@ -466,9 +450,31 @@
       "volume": 66693,
       "deliverable_qty": 22014,
       "delivery_pct": 33.01
+    },
+    {
+      "date": "2026-05-15",
+      "close": 671.9,
+      "prev_close": 683.55,
+      "volume": 38010,
+      "deliverable_qty": 14275,
+      "delivery_pct": 37.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 13:08:13",
+      "an_dt": "15-May-2026 13:08:13",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "NELCO Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NELCO_15052026130807_NewspaperAdvertisement.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 12:20:22",
+      "an_dt": "14-May-2026 12:20:22",
+      "desc": "Shareholders meeting",
+      "sm_name": "NELCO Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NELCO_14052026121929_PostalBallotNoticeStockExchangeIntimation.pdf"
+    },
     {
       "sort_date": "2026-05-13 16:24:25",
       "an_dt": "13-May-2026 16:24:25",

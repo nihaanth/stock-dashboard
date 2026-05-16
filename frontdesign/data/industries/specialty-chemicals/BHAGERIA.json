@@ -8,25 +8,9 @@
   "price": 163.23,
   "market_cap_cr": 712.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 159.15,
-      "prev_close": 163.41,
-      "volume": 33140,
-      "deliverable_qty": 19813,
-      "delivery_pct": 59.79
-    },
-    {
-      "date": "2026-02-13",
-      "close": 161.2,
-      "prev_close": 159.15,
-      "volume": 36058,
-      "deliverable_qty": 20435,
-      "delivery_pct": 56.67
-    },
     {
       "date": "2026-02-16",
       "close": 159.63,
@@ -466,9 +450,31 @@
       "volume": 27546,
       "deliverable_qty": 17063,
       "delivery_pct": 61.94
+    },
+    {
+      "date": "2026-05-15",
+      "close": 156.62,
+      "prev_close": 160.17,
+      "volume": 16140,
+      "deliverable_qty": 12120,
+      "delivery_pct": 75.09
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 14:39:42",
+      "an_dt": "15-May-2026 14:39:42",
+      "desc": "General Updates",
+      "sm_name": "Bhageria Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHAGERIA_15052026143843_Shifting_of_Registered_Office-15052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 15:19:46",
+      "an_dt": "14-May-2026 15:19:46",
+      "desc": "General Updates",
+      "sm_name": "Bhageria Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHAGERIA_14052026151931_Sign-bsense-Reg_30-rare_earth.pdf"
+    },
     {
       "sort_date": "2026-05-04 11:45:29",
       "an_dt": "04-May-2026 11:45:29",

@@ -8,25 +8,9 @@
   "price": 1716.5,
   "market_cap_cr": 45157.82,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1500.4,
-      "prev_close": 1513.7,
-      "volume": 369959,
-      "deliverable_qty": 139687,
-      "delivery_pct": 37.76
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1472.8,
-      "prev_close": 1500.4,
-      "volume": 424397,
-      "deliverable_qty": 180306,
-      "delivery_pct": 42.49
-    },
     {
       "date": "2026-02-16",
       "close": 1469.4,
@@ -466,9 +450,38 @@
       "volume": 1524918,
       "deliverable_qty": 265654,
       "delivery_pct": 17.42
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1594.5,
+      "prev_close": 1645.2,
+      "volume": 1497079,
+      "deliverable_qty": 418608,
+      "delivery_pct": 27.96
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:36:46",
+      "an_dt": "15-May-2026 19:36:46",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Cochin Shipyard Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Aswi4739_15052026193351_SE_Intimation_15_05_2026_SD.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 19:26:40",
+      "an_dt": "15-May-2026 19:26:40",
+      "desc": "Dividend",
+      "sm_name": "Cochin Shipyard Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Aswi4739_15052026192606_SE_Intimation_15_05_2026_SD.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 19:24:39",
+      "an_dt": "15-May-2026 19:24:39",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Cochin Shipyard Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Aswi4739_15052026192334_SE_Intimation_15_05_2026_SD.pdf"
+    },
     {
       "sort_date": "2026-05-07 16:23:49",
       "an_dt": "07-May-2026 16:23:49",
@@ -566,13 +579,6 @@
       "desc": "Updates",
       "sm_name": "Cochin Shipyard Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Aswi4739_16022026172951_SE_Intimation_NGSVs_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:19:38",
-      "an_dt": "12-Feb-2026 15:19:38",
-      "desc": "General Updates",
-      "sm_name": "Cochin Shipyard Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Aswi4739_12022026151912_SE_Intimation_ESG_sd.pdf"
     }
   ]
 }

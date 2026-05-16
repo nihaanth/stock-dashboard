@@ -8,25 +8,9 @@
   "price": 149.42,
   "market_cap_cr": 4069.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 144.35,
-      "prev_close": 144.78,
-      "volume": 2625721,
-      "deliverable_qty": 677650,
-      "delivery_pct": 25.81
-    },
-    {
-      "date": "2026-02-13",
-      "close": 138.32,
-      "prev_close": 144.35,
-      "volume": 1245906,
-      "deliverable_qty": 560676,
-      "delivery_pct": 45.0
-    },
     {
       "date": "2026-02-16",
       "close": 138.82,
@@ -466,6 +450,14 @@
       "volume": 1013170,
       "deliverable_qty": 368709,
       "delivery_pct": 36.39
+    },
+    {
+      "date": "2026-05-15",
+      "close": 148.28,
+      "prev_close": 149.47,
+      "volume": 686631,
+      "deliverable_qty": 274180,
+      "delivery_pct": 39.93
     }
   ],
   "news": [
@@ -545,20 +537,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Rolex Rings Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ROLEXRINGS_02032026182803_Voting_Results.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:27:01",
-      "an_dt": "13-Feb-2026 18:27:01",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Rolex Rings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ROLEXRINGS_13022026182653_Earnings_Call_Transcript.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:13:04",
-      "an_dt": "12-Feb-2026 18:13:04",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Rolex Rings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ROLEXRINGS_12022026181230_Intimation.pdf"
     }
   ]
 }

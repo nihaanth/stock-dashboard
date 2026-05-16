@@ -8,25 +8,9 @@
   "price": 272.45,
   "market_cap_cr": 2993.23,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 217.35,
-      "prev_close": 223.37,
-      "volume": 87785,
-      "deliverable_qty": 41184,
-      "delivery_pct": 46.91
-    },
-    {
-      "date": "2026-02-13",
-      "close": 219.83,
-      "prev_close": 217.35,
-      "volume": 128433,
-      "deliverable_qty": 42724,
-      "delivery_pct": 33.27
-    },
     {
       "date": "2026-02-16",
       "close": 225.09,
@@ -466,9 +450,31 @@
       "volume": 159844,
       "deliverable_qty": 76703,
       "delivery_pct": 47.99
+    },
+    {
+      "date": "2026-05-15",
+      "close": 268.3,
+      "prev_close": 270.3,
+      "volume": 258302,
+      "deliverable_qty": 98407,
+      "delivery_pct": 38.1
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 18:22:26",
+      "an_dt": "14-May-2026 18:22:26",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "ADF Foods Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADFFOODS1_14052026181917_EarningsCallAudioRecording14052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:13:32",
+      "an_dt": "14-May-2026 17:13:32",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "ADF Foods Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADFFOODS1_14052026171232_ADFNewspaperPublicationResults.pdf"
+    },
     {
       "sort_date": "2026-05-13 22:13:54",
       "an_dt": "13-May-2026 22:13:54",
@@ -629,13 +635,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "ADF Foods Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADFFOODS1_18022026185822_NPSpecialwindow.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:20:00",
-      "an_dt": "12-Feb-2026 17:20:00",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "ADF Foods Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADFFOODS1_12022026171938_ADFEarningsCallTranscript.pdf"
     }
   ]
 }

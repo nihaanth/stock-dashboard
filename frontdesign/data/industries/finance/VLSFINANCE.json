@@ -8,25 +8,9 @@
   "price": 235.52,
   "market_cap_cr": 739.03,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 271.75,
-      "prev_close": 276.5,
-      "volume": 19040,
-      "deliverable_qty": 10739,
-      "delivery_pct": 56.4
-    },
-    {
-      "date": "2026-02-13",
-      "close": 270.4,
-      "prev_close": 271.75,
-      "volume": 10198,
-      "deliverable_qty": 4742,
-      "delivery_pct": 46.5
-    },
     {
       "date": "2026-02-16",
       "close": 264.35,
@@ -466,6 +450,14 @@
       "volume": 7237,
       "deliverable_qty": 4385,
       "delivery_pct": 60.59
+    },
+    {
+      "date": "2026-05-15",
+      "close": 238.49,
+      "prev_close": 229.95,
+      "volume": 23856,
+      "deliverable_qty": 12920,
+      "delivery_pct": 54.16
     }
   ],
   "news": [
@@ -510,20 +502,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "VLS Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VLSFINANCE_17022026135239_NewspaperPublicationResults31122025VLSF.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:16:33",
-      "an_dt": "13-Feb-2026 16:16:33",
-      "desc": "Record Date",
-      "sm_name": "VLS Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VLSFINANCE_13022026161602_OutcomeofBoardMeeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:55:05",
-      "an_dt": "13-Feb-2026 15:55:05",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "VLS Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VLSFINANCE_13022026155405_Financial_Results.pdf"
     }
   ]
 }

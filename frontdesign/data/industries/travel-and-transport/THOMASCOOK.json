@@ -8,25 +8,9 @@
   "price": 92.95,
   "market_cap_cr": 4330.11,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 112.88,
-      "prev_close": 115.04,
-      "volume": 383870,
-      "deliverable_qty": 212748,
-      "delivery_pct": 55.42
-    },
-    {
-      "date": "2026-02-13",
-      "close": 113.01,
-      "prev_close": 112.88,
-      "volume": 467832,
-      "deliverable_qty": 202390,
-      "delivery_pct": 43.26
-    },
     {
       "date": "2026-02-16",
       "close": 111.58,
@@ -466,9 +450,31 @@
       "volume": 4143665,
       "deliverable_qty": 2085854,
       "delivery_pct": 50.34
+    },
+    {
+      "date": "2026-05-15",
+      "close": 94.74,
+      "prev_close": 92.36,
+      "volume": 1078195,
+      "deliverable_qty": 495899,
+      "delivery_pct": 45.99
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:30:36",
+      "an_dt": "14-May-2026 17:30:36",
+      "desc": "Press Release",
+      "sm_name": "Thomas Cook  (India)  Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THOMASCOOK_14052026172924_Stock_Exchange_Intimation_-_Press_Release_Sterling_14052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:19:19",
+      "an_dt": "14-May-2026 17:19:19",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Thomas Cook  (India)  Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THOMASCOOK_14052026171450_Stock_Exchange_Intimation_-_Newspaper_Publication_May_12_2026.pdf"
+    },
     {
       "sort_date": "2026-05-13 18:38:07",
       "an_dt": "13-May-2026 18:38:07",
@@ -909,34 +915,6 @@
       "desc": "Press Release",
       "sm_name": "Thomas Cook  (India)  Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/THOMASCOOK_17022026122829_SEINTIMATIONSTERLING17022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 12:08:03",
-      "an_dt": "13-Feb-2026 12:08:03",
-      "desc": "Press Release",
-      "sm_name": "Thomas Cook  (India)  Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THOMASCOOK_13022026120336_PressReleaseSterling13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:58:00",
-      "an_dt": "12-Feb-2026 18:58:00",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Thomas Cook  (India)  Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THOMASCOOK_12022026185453_Transcript-Analyst_Call.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:26:16",
-      "an_dt": "12-Feb-2026 16:26:16",
-      "desc": "General Updates",
-      "sm_name": "Thomas Cook  (India)  Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THOMASCOOK_12022026162335_SE_INTIMATION_allotment_of_equity_shares_under_esop_scheme_120226.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 12:27:42",
-      "an_dt": "12-Feb-2026 12:27:42",
-      "desc": "Press Release",
-      "sm_name": "Thomas Cook  (India)  Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THOMASCOOK_12022026121922_SEINTIMATION_PRESSRELEASE_12022026.pdf"
     }
   ]
 }

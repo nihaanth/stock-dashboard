@@ -8,25 +8,9 @@
   "price": 389.95,
   "market_cap_cr": 805.64,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 402.9,
-      "prev_close": 422.6,
-      "volume": 5665,
-      "deliverable_qty": 3329,
-      "delivery_pct": 58.76
-    },
-    {
-      "date": "2026-02-13",
-      "close": 418.2,
-      "prev_close": 402.9,
-      "volume": 16420,
-      "deliverable_qty": 11530,
-      "delivery_pct": 70.22
-    },
     {
       "date": "2026-02-16",
       "close": 414.8,
@@ -466,6 +450,14 @@
       "volume": 2370,
       "deliverable_qty": 1896,
       "delivery_pct": 80.0
+    },
+    {
+      "date": "2026-05-15",
+      "close": 370.8,
+      "prev_close": 383.4,
+      "volume": 9496,
+      "deliverable_qty": 2501,
+      "delivery_pct": 26.34
     }
   ],
   "news": [
@@ -517,20 +509,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Innovana Thinklabs Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INNOVANA_14022026174311_Final_Newspaper.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:01:41",
-      "an_dt": "13-Feb-2026 19:01:41",
-      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "sm_name": "Innovana Thinklabs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INNOVANA_13022026190132_Statement_of_Deviation_or_Variation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:24:05",
-      "an_dt": "13-Feb-2026 18:24:05",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Innovana Thinklabs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INNOVANA_13022026182212_Outcome_of_Board_Meeting.pdf"
     }
   ]
 }

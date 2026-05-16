@@ -8,25 +8,9 @@
   "price": 892.3,
   "market_cap_cr": 14141.84,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 943.25,
-      "prev_close": 937.9,
-      "volume": 106712,
-      "deliverable_qty": 46137,
-      "delivery_pct": 43.24
-    },
-    {
-      "date": "2026-02-13",
-      "close": 913.0,
-      "prev_close": 943.25,
-      "volume": 88066,
-      "deliverable_qty": 43363,
-      "delivery_pct": 49.24
-    },
     {
       "date": "2026-02-16",
       "close": 894.45,
@@ -466,6 +450,14 @@
       "volume": 106062,
       "deliverable_qty": 55610,
       "delivery_pct": 52.43
+    },
+    {
+      "date": "2026-05-15",
+      "close": 990.15,
+      "prev_close": 1004.4,
+      "volume": 54236,
+      "deliverable_qty": 24724,
+      "delivery_pct": 45.59
     }
   ],
   "news": [
@@ -531,13 +523,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Jubilant Pharmova Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JUBLPHARMA_27022026170146_Covering_letter_-_Newspaper_Transfer_of_shares_to_IEPF2702.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 23:10:22",
-      "an_dt": "13-Feb-2026 23:10:22",
-      "desc": "General Updates",
-      "sm_name": "Jubilant Pharmova Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JUBLPHARMA_13022026230920_FinalDisclosureFeb2026.pdf"
     }
   ]
 }

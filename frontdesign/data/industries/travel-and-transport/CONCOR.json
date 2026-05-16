@@ -8,25 +8,9 @@
   "price": 530.0,
   "market_cap_cr": 40365.75,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 506.85,
-      "prev_close": 515.15,
-      "volume": 656800,
-      "deliverable_qty": 313263,
-      "delivery_pct": 47.7
-    },
-    {
-      "date": "2026-02-13",
-      "close": 498.3,
-      "prev_close": 506.85,
-      "volume": 588653,
-      "deliverable_qty": 267445,
-      "delivery_pct": 45.43
-    },
     {
       "date": "2026-02-16",
       "close": 503.75,
@@ -466,9 +450,24 @@
       "volume": 1928354,
       "deliverable_qty": 1037626,
       "delivery_pct": 53.81
+    },
+    {
+      "date": "2026-05-15",
+      "close": 518.8,
+      "prev_close": 522.95,
+      "volume": 498510,
+      "deliverable_qty": 167306,
+      "delivery_pct": 33.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:24:12",
+      "an_dt": "15-May-2026 17:24:12",
+      "desc": "Press Release",
+      "sm_name": "Container Corporation of India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CONCOR_15052026172247_CONCOR_SE_15052026.pdf"
+    },
     {
       "sort_date": "2026-05-11 12:35:00",
       "an_dt": "11-May-2026 12:35:00",

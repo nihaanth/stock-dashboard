@@ -8,25 +8,9 @@
   "price": 1077.0,
   "market_cap_cr": 5897.77,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1285.4,
-      "prev_close": 1275.4,
-      "volume": 155451,
-      "deliverable_qty": 79184,
-      "delivery_pct": 50.94
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1234.2,
-      "prev_close": 1285.4,
-      "volume": 98667,
-      "deliverable_qty": 43977,
-      "delivery_pct": 44.57
-    },
     {
       "date": "2026-02-16",
       "close": 1152.7,
@@ -466,9 +450,24 @@
       "volume": 426379,
       "deliverable_qty": 79134,
       "delivery_pct": 18.56
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1014.1,
+      "prev_close": 1016.7,
+      "volume": 117556,
+      "deliverable_qty": 31382,
+      "delivery_pct": 26.7
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 18:33:24",
+      "an_dt": "14-May-2026 18:33:24",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "C.E. Info Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAPMYINDIA_14052026183225_MMI_Q4FY26_Earnings_Call.pdf"
+    },
     {
       "sort_date": "2026-04-06 19:34:02",
       "an_dt": "06-Apr-2026 19:34:02",
@@ -517,48 +516,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "C.E. Info Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAPMYINDIA_15022026124533_Newspaper_Publication_UFR_31_Dec_2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:55:02",
-      "an_dt": "13-Feb-2026 19:55:02",
-      "desc": "General Updates",
-      "sm_name": "C.E. Info Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAPMYINDIA_13022026195453_MMI_Investor_Presentation_Q3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:53:24",
-      "an_dt": "13-Feb-2026 19:53:24",
-      "desc": "Press Release",
-      "sm_name": "C.E. Info Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAPMYINDIA_13022026195316_MMI_Press_Release_Q3_FY2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:08:35",
-      "an_dt": "13-Feb-2026 19:08:35",
-      "desc": "Acquisition",
-      "sm_name": "C.E. Info Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAPMYINDIA_13022026190827_BM_Outcome_13_Feb_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:03:13",
-      "an_dt": "13-Feb-2026 19:03:13",
-      "desc": "Integrated Filing- Financial",
-      "sm_name": "C.E. Info Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAPMYINDIA_13022026190307_BM_Outcome_13_Feb_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:01:41",
-      "an_dt": "13-Feb-2026 19:01:41",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "C.E. Info Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAPMYINDIA_13022026190016_BM_Outcome_13_Feb_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:57:38",
-      "an_dt": "13-Feb-2026 18:57:38",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "C.E. Info Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAPMYINDIA_13022026185729_BM_Outcome_13_Feb_2026.pdf"
     }
   ]
 }

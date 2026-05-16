@@ -8,25 +8,9 @@
   "price": 4142.0,
   "market_cap_cr": 23188.56,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 2783.3,
-      "prev_close": 2832.7,
-      "volume": 288158,
-      "deliverable_qty": 84918,
-      "delivery_pct": 29.47
-    },
-    {
-      "date": "2026-02-13",
-      "close": 2768.8,
-      "prev_close": 2783.3,
-      "volume": 256905,
-      "deliverable_qty": 59111,
-      "delivery_pct": 23.01
-    },
     {
       "date": "2026-02-16",
       "close": 2828.4,
@@ -466,9 +450,73 @@
       "volume": 835377,
       "deliverable_qty": 216683,
       "delivery_pct": 25.94
+    },
+    {
+      "date": "2026-05-15",
+      "close": 3876.5,
+      "prev_close": 4010.5,
+      "volume": 3470053,
+      "deliverable_qty": 594769,
+      "delivery_pct": 17.14
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 16:39:28",
+      "an_dt": "15-May-2026 16:39:28",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Data Patterns (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Datapatterns_15052026163916_IntimationofNewspaperAdvertisement.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 16:30:46",
+      "an_dt": "15-May-2026 16:30:46",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Data Patterns (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Datapatterns_15052026162957_SubmissionofMonitoringAgencyReport31Mar26.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 16:20:56",
+      "an_dt": "15-May-2026 16:20:56",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Data Patterns (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Datapatterns_15052026162029_IntimationofInvestorCallRecording15May2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 22:24:58",
+      "an_dt": "14-May-2026 22:24:58",
+      "desc": "Investor Presentation",
+      "sm_name": "Data Patterns (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Datapatterns_14052026222433_SubmissionofEarningsPresentationQ4FY202526.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 20:36:53",
+      "an_dt": "14-May-2026 20:36:53",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Data Patterns (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Datapatterns_14052026203510_OutcomeofBoardMeeting14May2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 19:50:48",
+      "an_dt": "14-May-2026 19:50:48",
+      "desc": "Press Release",
+      "sm_name": "Data Patterns (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Datapatterns_14052026195022_IntimationofPressReleaseQ4FY26.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 18:53:33",
+      "an_dt": "14-May-2026 18:53:33",
+      "desc": "Record Date",
+      "sm_name": "Data Patterns (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Datapatterns_14052026185252_OutcomeofBoardMeeting14May2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 18:50:02",
+      "an_dt": "14-May-2026 18:50:02",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Data Patterns (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Datapatterns_14052026184801_OutcomeofBoardMeeting14May2026.pdf"
+    },
     {
       "sort_date": "2026-05-12 17:21:35",
       "an_dt": "12-May-2026 17:21:35",
@@ -510,20 +558,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "Data Patterns (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Datapatterns_15032026172016_Intimation-of-Receiving-New-Order-15-Mar-2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:53:19",
-      "an_dt": "13-Feb-2026 16:53:19",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Data Patterns (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Datapatterns_13022026165304_SubmissionofMonitoring_AgencyReport31Dec25.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:11:12",
-      "an_dt": "12-Feb-2026 18:11:12",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Data Patterns (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Datapatterns_12022026181047_IntimationTranscriptofEarningsCallQ3Fy26.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 753.1,
   "market_cap_cr": 97551.5,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 770.65,
-      "prev_close": 770.4,
-      "volume": 1374355,
-      "deliverable_qty": 1023223,
-      "delivery_pct": 74.45
-    },
-    {
-      "date": "2026-02-13",
-      "close": 760.15,
-      "prev_close": 770.65,
-      "volume": 966405,
-      "deliverable_qty": 617876,
-      "delivery_pct": 63.94
-    },
     {
       "date": "2026-02-16",
       "close": 772.85,
@@ -466,9 +450,24 @@
       "volume": 1690380,
       "deliverable_qty": 902379,
       "delivery_pct": 53.38
+    },
+    {
+      "date": "2026-05-15",
+      "close": 841.15,
+      "prev_close": 835.0,
+      "volume": 1462080,
+      "deliverable_qty": 862564,
+      "delivery_pct": 59.0
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 15:48:39",
+      "an_dt": "14-May-2026 15:48:39",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Marico Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/marico_14052026154815_SEint__1_.pdf"
+    },
     {
       "sort_date": "2026-05-13 15:39:28",
       "an_dt": "13-May-2026 15:39:28",
@@ -664,34 +663,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Marico Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/marico_17022026191535_SEIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:46:29",
-      "an_dt": "13-Feb-2026 18:46:29",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Marico Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/marico_13022026184236_Audiorecording.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:50:02",
-      "an_dt": "13-Feb-2026 16:50:02",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Marico Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/marico_13022026164911_SE_intimation-F.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:50:56",
-      "an_dt": "13-Feb-2026 14:50:56",
-      "desc": "Investor Presentation",
-      "sm_name": "Marico Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/marico_13022026144948_SEppt.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:00:11",
-      "an_dt": "12-Feb-2026 13:00:11",
-      "desc": "Change in Management",
-      "sm_name": "Marico Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/marico_12022026125946_SEint.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 403.75,
   "market_cap_cr": 886.78,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 431.55,
-      "prev_close": 437.9,
-      "volume": 10063,
-      "deliverable_qty": 3022,
-      "delivery_pct": 30.03
-    },
-    {
-      "date": "2026-02-13",
-      "close": 429.2,
-      "prev_close": 431.55,
-      "volume": 7668,
-      "deliverable_qty": 4410,
-      "delivery_pct": 57.51
-    },
     {
       "date": "2026-02-16",
       "close": 430.95,
@@ -466,6 +450,14 @@
       "volume": 54139,
       "deliverable_qty": 23235,
       "delivery_pct": 42.92
+    },
+    {
+      "date": "2026-05-15",
+      "close": 219.18,
+      "prev_close": 217.35,
+      "volume": 57817,
+      "deliverable_qty": 13235,
+      "delivery_pct": 22.89
     }
   ],
   "news": [
@@ -538,13 +530,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "A B Cotspin India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABCOTSPIN_03032026153651_VR_SR.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 12:11:21",
-      "an_dt": "12-Feb-2026 12:11:21",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "A B Cotspin India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABCOTSPIN_12022026121108_Newspaper_Publication_12022026_sign.pdf"
     }
   ]
 }

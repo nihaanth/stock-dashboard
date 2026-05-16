@@ -8,25 +8,9 @@
   "price": 351.6,
   "market_cap_cr": 1952.46,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 351.1,
-      "prev_close": 370.45,
-      "volume": 187471,
-      "deliverable_qty": 98222,
-      "delivery_pct": 52.39
-    },
-    {
-      "date": "2026-02-13",
-      "close": 330.6,
-      "prev_close": 351.1,
-      "volume": 206772,
-      "deliverable_qty": 122688,
-      "delivery_pct": 59.33
-    },
     {
       "date": "2026-02-16",
       "close": 300.9,
@@ -466,6 +450,14 @@
       "volume": 139934,
       "deliverable_qty": 48478,
       "delivery_pct": 34.64
+    },
+    {
+      "date": "2026-05-15",
+      "close": 324.65,
+      "prev_close": 330.95,
+      "volume": 148326,
+      "deliverable_qty": 61279,
+      "delivery_pct": 41.31
     }
   ],
   "news": [
@@ -650,27 +642,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "EMS Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMSLIMITED_14022026151003_Intimation_Newspaper_Advertisement.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:53:00",
-      "an_dt": "13-Feb-2026 17:53:00",
-      "desc": "Updates",
-      "sm_name": "EMS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMSLIMITED_13022026175242_Outcome_of_Board_Meeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:49:00",
-      "an_dt": "13-Feb-2026 17:49:00",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "EMS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMSLIMITED_13022026174559_Outcome_of_Board_Meeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:44:01",
-      "an_dt": "13-Feb-2026 17:44:01",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "EMS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMSLIMITED_13022026174330_Outcome_of_Board_Meeting.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 863.1,
   "market_cap_cr": 2675.96,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1090.4,
-      "prev_close": 1050.85,
-      "volume": 540125,
-      "deliverable_qty": 111772,
-      "delivery_pct": 20.69
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1082.8,
-      "prev_close": 1090.4,
-      "volume": 399533,
-      "deliverable_qty": 54768,
-      "delivery_pct": 13.71
-    },
     {
       "date": "2026-02-16",
       "close": 1069.75,
@@ -466,9 +450,24 @@
       "volume": 37867,
       "deliverable_qty": 13779,
       "delivery_pct": 36.39
+    },
+    {
+      "date": "2026-05-15",
+      "close": 834.2,
+      "prev_close": 841.3,
+      "volume": 15804,
+      "deliverable_qty": 8367,
+      "delivery_pct": 52.94
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:11:07",
+      "an_dt": "15-May-2026 19:11:07",
+      "desc": "General Updates",
+      "sm_name": "Pokarna Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POKARNA_15052026191055_Pokarna_Demand_Notice_-_Mines_and_Geology.pdf"
+    },
     {
       "sort_date": "2026-04-29 12:58:56",
       "an_dt": "29-Apr-2026 12:58:56",

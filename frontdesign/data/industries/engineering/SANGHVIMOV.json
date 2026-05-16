@@ -8,25 +8,9 @@
   "price": 330.25,
   "market_cap_cr": 2859.17,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 296.05,
-      "prev_close": 292.9,
-      "volume": 121180,
-      "deliverable_qty": 45366,
-      "delivery_pct": 37.44
-    },
-    {
-      "date": "2026-02-13",
-      "close": 289.45,
-      "prev_close": 296.05,
-      "volume": 119695,
-      "deliverable_qty": 52588,
-      "delivery_pct": 43.94
-    },
     {
       "date": "2026-02-16",
       "close": 281.9,
@@ -466,9 +450,24 @@
       "volume": 132658,
       "deliverable_qty": 76499,
       "delivery_pct": 57.67
+    },
+    {
+      "date": "2026-05-15",
+      "close": 302.7,
+      "prev_close": 313.5,
+      "volume": 216078,
+      "deliverable_qty": 101814,
+      "delivery_pct": 47.12
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 19:06:05",
+      "an_dt": "14-May-2026 19:06:05",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Sanghvi Movers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANGHVIMOV_14052026190548_SignedAnalystMeet.pdf"
+    },
     {
       "sort_date": "2026-05-05 10:56:29",
       "an_dt": "05-May-2026 10:56:29",
@@ -559,13 +558,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Sanghvi Movers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANGHVIMOV_16022026170049_SEIntimationAnalysts_Meet.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:30:06",
-      "an_dt": "13-Feb-2026 15:30:06",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Sanghvi Movers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANGHVIMOV_13022026152955_SE_INTIMATION_TRANSCRIPT.pdf"
     }
   ]
 }

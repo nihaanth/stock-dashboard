@@ -8,25 +8,9 @@
   "price": 75.31,
   "market_cap_cr": 1113.6,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 70.42,
-      "prev_close": 70.88,
-      "volume": 66483,
-      "deliverable_qty": 35165,
-      "delivery_pct": 52.89
-    },
-    {
-      "date": "2026-02-13",
-      "close": 69.32,
-      "prev_close": 70.42,
-      "volume": 88876,
-      "deliverable_qty": 50674,
-      "delivery_pct": 57.02
-    },
     {
       "date": "2026-02-16",
       "close": 70.05,
@@ -466,6 +450,14 @@
       "volume": 101242,
       "deliverable_qty": 35117,
       "delivery_pct": 34.69
+    },
+    {
+      "date": "2026-05-15",
+      "close": 73.64,
+      "prev_close": 72.67,
+      "volume": 75478,
+      "deliverable_qty": 37385,
+      "delivery_pct": 49.53
     }
   ],
   "news": [
@@ -552,27 +544,6 @@
       "desc": "General Updates",
       "sm_name": "Shree Digvijay Cement Co.Ltd",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHREEDIG_13032026134746_Reg__30_13032026_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:25:18",
-      "an_dt": "13-Feb-2026 18:25:18",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Shree Digvijay Cement Co.Ltd",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHREEDIG_13022026182512_SDCCL_News_Publication_13-Feb-2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:07:24",
-      "an_dt": "12-Feb-2026 18:07:24",
-      "desc": "Shareholders meeting",
-      "sm_name": "Shree Digvijay Cement Co.Ltd",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHREEDIG_12022026180717_SDCCL_Intimation__POstal_Ballot_Notice.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 10:37:03",
-      "an_dt": "12-Feb-2026 10:37:03",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Shree Digvijay Cement Co.Ltd",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHREEDIG_12022026102613_SDCCl_Financial_Result_31_Dec_2025.pdf"
     }
   ]
 }

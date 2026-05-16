@@ -8,25 +8,9 @@
   "price": 815.3,
   "market_cap_cr": 10979.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 777.6,
-      "prev_close": 795.3,
-      "volume": 356519,
-      "deliverable_qty": 147743,
-      "delivery_pct": 41.44
-    },
-    {
-      "date": "2026-02-13",
-      "close": 764.8,
-      "prev_close": 777.6,
-      "volume": 304091,
-      "deliverable_qty": 113648,
-      "delivery_pct": 37.37
-    },
     {
       "date": "2026-02-16",
       "close": 752.85,
@@ -466,9 +450,31 @@
       "volume": 647835,
       "deliverable_qty": 167813,
       "delivery_pct": 25.9
+    },
+    {
+      "date": "2026-05-15",
+      "close": 763.3,
+      "prev_close": 771.9,
+      "volume": 404641,
+      "deliverable_qty": 125456,
+      "delivery_pct": 31.0
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 10:50:04",
+      "an_dt": "14-May-2026 10:50:04",
+      "desc": "General Updates",
+      "sm_name": "TITAGARH RAIL SYSTEMS LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TWL_14052026104839_Q4StatementofDeviation14052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 10:42:10",
+      "an_dt": "14-May-2026 10:42:10",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "TITAGARH RAIL SYSTEMS LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TWL_14052026103931_MonitoringAgencyReport14052026.pdf"
+    },
     {
       "sort_date": "2026-04-19 19:16:20",
       "an_dt": "19-Apr-2026 19:16:20",
@@ -580,34 +586,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "TITAGARH RAIL SYSTEMS LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TWL_15022026121552_IntimationtoSEnewspaperpublication15022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 22:03:32",
-      "an_dt": "13-Feb-2026 22:03:32",
-      "desc": "General Updates",
-      "sm_name": "TITAGARH RAIL SYSTEMS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TWL_13022026220322_StatementofDeviation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:53:37",
-      "an_dt": "13-Feb-2026 21:53:37",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "TITAGARH RAIL SYSTEMS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TWL_13022026215320_MonitoringAgencyReport31122025.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:42:07",
-      "an_dt": "13-Feb-2026 21:42:07",
-      "desc": "Change in Director(s)",
-      "sm_name": "TITAGARH RAIL SYSTEMS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TWL_13022026214156_OutcomeofBM13022026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:39:42",
-      "an_dt": "13-Feb-2026 21:39:42",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "TITAGARH RAIL SYSTEMS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TWL_13022026213924_OutcomeofBM13022026signed.pdf"
     }
   ]
 }

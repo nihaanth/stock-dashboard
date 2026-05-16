@@ -8,25 +8,9 @@
   "price": 191.1,
   "market_cap_cr": 18386.76,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 179.3,
-      "prev_close": 177.61,
-      "volume": 1178185,
-      "deliverable_qty": 815923,
-      "delivery_pct": 69.25
-    },
-    {
-      "date": "2026-02-13",
-      "close": 177.24,
-      "prev_close": 179.3,
-      "volume": 399020,
-      "deliverable_qty": 171466,
-      "delivery_pct": 42.97
-    },
     {
       "date": "2026-02-16",
       "close": 175.08,
@@ -466,9 +450,31 @@
       "volume": 1127568,
       "deliverable_qty": 538548,
       "delivery_pct": 47.76
+    },
+    {
+      "date": "2026-05-15",
+      "close": 185.01,
+      "prev_close": 186.34,
+      "volume": 2123867,
+      "deliverable_qty": 742422,
+      "delivery_pct": 34.96
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 16:40:13",
+      "an_dt": "14-May-2026 16:40:13",
+      "desc": "Investor Presentation",
+      "sm_name": "Capri Global Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CGCL_14052026164000_Intimation_Corporate_Presentation.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 15:44:07",
+      "an_dt": "14-May-2026 15:44:07",
+      "desc": "Press Release",
+      "sm_name": "Capri Global Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CGCL_14052026154339_Intimation_PR_Crosses1000_GoldLoanBranches.pdf"
+    },
     {
       "sort_date": "2026-05-08 13:52:00",
       "an_dt": "08-May-2026 13:52:00",
@@ -755,13 +761,6 @@
       "desc": "General Updates",
       "sm_name": "Capri Global Capital Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CGCL_20022026191451_Intimaiton_StockExchange_ESGRatings.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:15:44",
-      "an_dt": "12-Feb-2026 15:15:44",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Capri Global Capital Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CGCL_12022026151526_Intimation.pdf"
     }
   ]
 }

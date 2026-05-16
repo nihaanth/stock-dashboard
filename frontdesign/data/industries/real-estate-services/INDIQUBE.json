@@ -8,25 +8,9 @@
   "price": 171.88,
   "market_cap_cr": 3643.82,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 182.41,
-      "prev_close": 181.88,
-      "volume": 119346,
-      "deliverable_qty": 81292,
-      "delivery_pct": 68.11
-    },
-    {
-      "date": "2026-02-13",
-      "close": 181.06,
-      "prev_close": 182.41,
-      "volume": 26860,
-      "deliverable_qty": 15495,
-      "delivery_pct": 57.69
-    },
     {
       "date": "2026-02-16",
       "close": 172.82,
@@ -466,9 +450,24 @@
       "volume": 38496,
       "deliverable_qty": 20011,
       "delivery_pct": 51.98
+    },
+    {
+      "date": "2026-05-15",
+      "close": 167.63,
+      "prev_close": 158.52,
+      "volume": 36969,
+      "deliverable_qty": 19525,
+      "delivery_pct": 52.81
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 19:01:37",
+      "an_dt": "14-May-2026 19:01:37",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Indiqube Spaces Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIQUBE_14052026185930_Prior_Intimation_InvestorMeet_21052026_V3.pdf"
+    },
     {
       "sort_date": "2026-05-13 21:56:11",
       "an_dt": "13-May-2026 21:56:11",
@@ -594,13 +593,6 @@
       "desc": "Updates",
       "sm_name": "Indiqube Spaces Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIQUBE_16022026102512_Prior_Intimation_Voluntary_Proposed_acquisition_of_shares.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:30:55",
-      "an_dt": "13-Feb-2026 17:30:55",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Indiqube Spaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIQUBE_13022026173041_Intimation_Transcript_Earnings_Call.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 170.24,
   "market_cap_cr": 2843.43,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 153.75,
-      "prev_close": 149.0,
-      "volume": 693579,
-      "deliverable_qty": 284778,
-      "delivery_pct": 41.06
-    },
-    {
-      "date": "2026-02-13",
-      "close": 151.3,
-      "prev_close": 153.75,
-      "volume": 331829,
-      "deliverable_qty": 101898,
-      "delivery_pct": 30.71
-    },
     {
       "date": "2026-02-16",
       "close": 146.6,
@@ -466,9 +450,24 @@
       "volume": 395254,
       "deliverable_qty": 169367,
       "delivery_pct": 42.85
+    },
+    {
+      "date": "2026-05-15",
+      "close": 164.48,
+      "prev_close": 167.46,
+      "volume": 250263,
+      "deliverable_qty": 97750,
+      "delivery_pct": 39.06
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 10:23:25",
+      "an_dt": "15-May-2026 10:23:25",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "NOCIL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NOCIL_15052026102316_PDF_CONFERENCE_CALL_SIGNED.pdf"
+    },
     {
       "sort_date": "2026-05-11 14:17:55",
       "an_dt": "11-May-2026 14:17:55",
@@ -587,20 +586,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "NOCIL Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NOCIL_18022026143836_TranscriptofEarningscall_PDF_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:11:34",
-      "an_dt": "13-Feb-2026 15:11:34",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "NOCIL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NOCIL_13022026151115_NewspaperPDF_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:23:13",
-      "an_dt": "12-Feb-2026 16:23:13",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "NOCIL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NOCIL_12022026162258_Intimation_RecordingofConferenceCall_PDF_Signed.pdf"
     }
   ]
 }

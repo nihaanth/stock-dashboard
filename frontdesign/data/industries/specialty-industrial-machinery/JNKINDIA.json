@@ -8,25 +8,9 @@
   "price": 370.3,
   "market_cap_cr": 2071.97,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 242.22,
-      "prev_close": 253.41,
-      "volume": 255788,
-      "deliverable_qty": 96218,
-      "delivery_pct": 37.62
-    },
-    {
-      "date": "2026-02-13",
-      "close": 241.38,
-      "prev_close": 242.22,
-      "volume": 219408,
-      "deliverable_qty": 67524,
-      "delivery_pct": 30.78
-    },
     {
       "date": "2026-02-16",
       "close": 237.25,
@@ -466,9 +450,24 @@
       "volume": 214972,
       "deliverable_qty": 102509,
       "delivery_pct": 47.68
+    },
+    {
+      "date": "2026-05-15",
+      "close": 329.95,
+      "prev_close": 344.95,
+      "volume": 111977,
+      "deliverable_qty": 65151,
+      "delivery_pct": 58.18
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 16:55:14",
+      "an_dt": "15-May-2026 16:55:14",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "JNK India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JNKINDIA23_15052026165500_JNK_Monitoring_Agency_Covering_letter_with_report.pdf"
+    },
     {
       "sort_date": "2026-04-09 16:15:08",
       "an_dt": "09-Apr-2026 16:15:08",
@@ -510,20 +509,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "JNK India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JNKINDIA23_12032026155811_JNK_Outcome_of_BM__00000004_.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:10:35",
-      "an_dt": "13-Feb-2026 18:10:35",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "JNK India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JNKINDIA23_13022026180958_Q3_FY26_earnings_call_transcript.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:19:06",
-      "an_dt": "13-Feb-2026 16:19:06",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "JNK India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JNKINDIA23_13022026161853_JNK_Monitoring_Agency_Covering_letter_with_report.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 463.75,
   "market_cap_cr": 14698.92,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 459.25,
-      "prev_close": 457.8,
-      "volume": 43582,
-      "deliverable_qty": 22132,
-      "delivery_pct": 50.78
-    },
-    {
-      "date": "2026-02-13",
-      "close": 455.05,
-      "prev_close": 459.25,
-      "volume": 53932,
-      "deliverable_qty": 28183,
-      "delivery_pct": 52.26
-    },
     {
       "date": "2026-02-16",
       "close": 453.95,
@@ -466,9 +450,38 @@
       "volume": 40445,
       "deliverable_qty": 15715,
       "delivery_pct": 38.86
+    },
+    {
+      "date": "2026-05-15",
+      "close": 450.1,
+      "prev_close": 446.25,
+      "volume": 44487,
+      "deliverable_qty": 24627,
+      "delivery_pct": 55.36
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:14:38",
+      "an_dt": "15-May-2026 19:14:38",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Dr. Agarwal's Health Care Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DRAGARWALS_15052026191429_C004_AHCL_MA_sd.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 11:29:20",
+      "an_dt": "15-May-2026 11:29:20",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "Dr. Agarwal's Health Care Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DRAGARWALS_15052026112900_C003_Receipt_Demand_Notice_sd.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 15:17:54",
+      "an_dt": "14-May-2026 15:17:54",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Dr. Agarwal's Health Care Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DRAGARWALS_14052026151615_C002_Prior_Intimation_sd.pdf"
+    },
     {
       "sort_date": "2026-05-11 17:51:39",
       "an_dt": "11-May-2026 17:51:39",
@@ -552,13 +565,6 @@
       "desc": "Amalgamation/Merger",
       "sm_name": "Dr. Agarwal's Health Care Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DRAGARWALS_17022026132624_AHCL_NOC_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:19:57",
-      "an_dt": "12-Feb-2026 16:19:57",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Dr. Agarwal's Health Care Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DRAGARWALS_12022026161948_C70_Analyst_Meet_Intimation.pdf"
     }
   ]
 }

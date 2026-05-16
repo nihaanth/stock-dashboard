@@ -8,25 +8,9 @@
   "price": 556.65,
   "market_cap_cr": 97754.79,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 479.5,
-      "prev_close": 482.35,
-      "volume": 831728,
-      "deliverable_qty": 384739,
-      "delivery_pct": 46.26
-    },
-    {
-      "date": "2026-02-13",
-      "close": 474.7,
-      "prev_close": 479.5,
-      "volume": 1171877,
-      "deliverable_qty": 625619,
-      "delivery_pct": 53.39
-    },
     {
       "date": "2026-02-16",
       "close": 489.95,
@@ -466,9 +450,31 @@
       "volume": 4110399,
       "deliverable_qty": 1566652,
       "delivery_pct": 38.11
+    },
+    {
+      "date": "2026-05-15",
+      "close": 515.05,
+      "prev_close": 512.8,
+      "volume": 4853676,
+      "deliverable_qty": 2035216,
+      "delivery_pct": 41.93
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 15:39:14",
+      "an_dt": "15-May-2026 15:39:14",
+      "desc": "General Updates",
+      "sm_name": "JSW Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_15052026153906_Lettertonseresubmission.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:21:01",
+      "an_dt": "14-May-2026 17:21:01",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "JSW Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_14052026172052_LettertoBSENSEMonitoringAgencyReport_f.pdf"
+    },
     {
       "sort_date": "2026-05-11 16:12:01",
       "an_dt": "11-May-2026 16:12:01",
@@ -713,13 +719,6 @@
       "desc": "General Updates",
       "sm_name": "JSW Energy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_16022026190244_DraftExchangeSolalitePowerPrivateLimited.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:47:42",
-      "an_dt": "13-Feb-2026 18:47:42",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "JSW Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_13022026184551_LettertoBSENSEInstitutionalInvestorsMeeting13022026.pdf"
     }
   ]
 }

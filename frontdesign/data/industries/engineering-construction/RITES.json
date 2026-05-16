@@ -8,25 +8,9 @@
   "price": 205.2,
   "market_cap_cr": 9861.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 222.65,
-      "prev_close": 226.15,
-      "volume": 407120,
-      "deliverable_qty": 194123,
-      "delivery_pct": 47.68
-    },
-    {
-      "date": "2026-02-13",
-      "close": 218.66,
-      "prev_close": 222.65,
-      "volume": 402532,
-      "deliverable_qty": 180916,
-      "delivery_pct": 44.94
-    },
     {
       "date": "2026-02-16",
       "close": 220.23,
@@ -466,9 +450,45 @@
       "volume": 364339,
       "deliverable_qty": 156178,
       "delivery_pct": 42.87
+    },
+    {
+      "date": "2026-05-15",
+      "close": 211.21,
+      "prev_close": 213.45,
+      "volume": 272286,
+      "deliverable_qty": 102254,
+      "delivery_pct": 37.55
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 15:49:23",
+      "an_dt": "14-May-2026 15:49:23",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "RITES Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RITES_14052026154850_IntimationSigned.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 14:39:51",
+      "an_dt": "14-May-2026 14:39:51",
+      "desc": "Change in Management",
+      "sm_name": "RITES Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RITES_14052026143903_Intimation14052026signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 12:36:52",
+      "an_dt": "14-May-2026 12:36:52",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "RITES Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RITES_14052026123638_IntimationSigned.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 12:27:01",
+      "an_dt": "14-May-2026 12:27:01",
+      "desc": "General Updates",
+      "sm_name": "RITES Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RITES_14052026122644_IntimationSigned.pdf"
+    },
     {
       "sort_date": "2026-05-05 18:08:48",
       "an_dt": "05-May-2026 18:08:48",
@@ -615,20 +635,6 @@
       "desc": "Change in Director(s)",
       "sm_name": "RITES Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RITES_24022026184944_IntimationSigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:34:01",
-      "an_dt": "13-Feb-2026 14:34:01",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "RITES Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RITES_13022026143331_IntimationSigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 10:38:07",
-      "an_dt": "13-Feb-2026 10:38:07",
-      "desc": "Change in Management",
-      "sm_name": "RITES Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RITES_13022026103546_IntimationSigned.pdf"
     }
   ]
 }

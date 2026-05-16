@@ -8,25 +8,9 @@
   "price": 584.25,
   "market_cap_cr": 2650.75,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 576.25,
-      "prev_close": 572.0,
-      "volume": 58668,
-      "deliverable_qty": 26271,
-      "delivery_pct": 44.78
-    },
-    {
-      "date": "2026-02-13",
-      "close": 570.85,
-      "prev_close": 576.25,
-      "volume": 80902,
-      "deliverable_qty": 28594,
-      "delivery_pct": 35.34
-    },
     {
       "date": "2026-02-16",
       "close": 559.05,
@@ -466,9 +450,24 @@
       "volume": 39051,
       "deliverable_qty": 17815,
       "delivery_pct": 45.62
+    },
+    {
+      "date": "2026-05-15",
+      "close": 572.95,
+      "prev_close": 548.4,
+      "volume": 102341,
+      "deliverable_qty": 43153,
+      "delivery_pct": 42.17
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:24:00",
+      "an_dt": "14-May-2026 17:24:00",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Siyaram Silk Mills Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SIYSIL_14052026172312_IntimationofInvestorMeet21052026.pdf"
+    },
     {
       "sort_date": "2026-04-30 12:47:28",
       "an_dt": "30-Apr-2026 12:47:28",

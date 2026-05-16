@@ -8,25 +8,9 @@
   "price": 2798.5,
   "market_cap_cr": 82949.22,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 2841.5,
-      "prev_close": 2949.1,
-      "volume": 395601,
-      "deliverable_qty": 183035,
-      "delivery_pct": 46.27
-    },
-    {
-      "date": "2026-02-13",
-      "close": 2833.4,
-      "prev_close": 2841.5,
-      "volume": 196550,
-      "deliverable_qty": 104194,
-      "delivery_pct": 53.01
-    },
     {
       "date": "2026-02-16",
       "close": 2847.8,
@@ -466,9 +450,24 @@
       "volume": 642859,
       "deliverable_qty": 381125,
       "delivery_pct": 59.29
+    },
+    {
+      "date": "2026-05-15",
+      "close": 2689.5,
+      "prev_close": 2729.4,
+      "volume": 345387,
+      "deliverable_qty": 189340,
+      "delivery_pct": 54.82
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:59:25",
+      "an_dt": "15-May-2026 19:59:25",
+      "desc": "Capacity addition",
+      "sm_name": "SRF Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ekta_maheshwari_15052026195455_IntimationCapatalisationMay2026.pdf"
+    },
     {
       "sort_date": "2026-05-12 20:04:08",
       "an_dt": "12-May-2026 20:04:08",

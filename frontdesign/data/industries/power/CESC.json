@@ -8,25 +8,9 @@
   "price": 160.83,
   "market_cap_cr": 21319.15,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 154.06,
-      "prev_close": 155.94,
-      "volume": 927947,
-      "deliverable_qty": 398217,
-      "delivery_pct": 42.91
-    },
-    {
-      "date": "2026-02-13",
-      "close": 150.33,
-      "prev_close": 154.06,
-      "volume": 1903977,
-      "deliverable_qty": 933811,
-      "delivery_pct": 49.05
-    },
     {
       "date": "2026-02-16",
       "close": 154.47,
@@ -466,6 +450,14 @@
       "volume": 2241623,
       "deliverable_qty": 1043829,
       "delivery_pct": 46.57
+    },
+    {
+      "date": "2026-05-15",
+      "close": 180.09,
+      "prev_close": 184.46,
+      "volume": 1285444,
+      "deliverable_qty": 608596,
+      "delivery_pct": 47.35
     }
   ],
   "news": [
@@ -629,13 +621,6 @@
       "desc": "Clarification - Financial Results",
       "sm_name": "CESC Limited",
       "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-02-12 15:44:49",
-      "an_dt": "12-Feb-2026 15:44:49",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "CESC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CESC_12022026154420_1.pdf"
     }
   ]
 }

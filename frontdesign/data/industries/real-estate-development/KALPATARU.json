@@ -8,25 +8,9 @@
   "price": 302.8,
   "market_cap_cr": 6235.08,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 350.5,
-      "prev_close": 332.95,
-      "volume": 141655,
-      "deliverable_qty": 52853,
-      "delivery_pct": 37.31
-    },
-    {
-      "date": "2026-02-13",
-      "close": 348.4,
-      "prev_close": 350.5,
-      "volume": 79377,
-      "deliverable_qty": 25085,
-      "delivery_pct": 31.6
-    },
     {
       "date": "2026-02-16",
       "close": 336.4,
@@ -466,9 +450,24 @@
       "volume": 3118153,
       "deliverable_qty": 513344,
       "delivery_pct": 16.46
+    },
+    {
+      "date": "2026-05-15",
+      "close": 330.95,
+      "prev_close": 344.85,
+      "volume": 145223,
+      "deliverable_qty": 43090,
+      "delivery_pct": 29.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 16:18:48",
+      "an_dt": "14-May-2026 16:18:48",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Kalpataru Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IMREVATINAIR_14052026161706_KL_Intimation_of_Transcript_of_Earning_call_Q4_FY26.pdf"
+    },
     {
       "sort_date": "2026-05-13 18:35:23",
       "an_dt": "13-May-2026 18:35:23",
@@ -629,13 +628,6 @@
       "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
       "sm_name": "Kalpataru Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IMREVATINAIR_17022026110329_Reg_30_Disclosure_GST_Demand_Order_to_Ananta_Landmarks.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:11:22",
-      "an_dt": "12-Feb-2026 18:11:22",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Kalpataru Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IMREVATINAIR_12022026181047_KL_Outcome_of_Investor_institutional_meet.pdf"
     }
   ]
 }

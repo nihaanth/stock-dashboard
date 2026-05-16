@@ -8,25 +8,9 @@
   "price": 443.25,
   "market_cap_cr": 2140.08,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 475.4,
-      "prev_close": 469.95,
-      "volume": 91599,
-      "deliverable_qty": 50615,
-      "delivery_pct": 55.26
-    },
-    {
-      "date": "2026-02-13",
-      "close": 465.0,
-      "prev_close": 475.4,
-      "volume": 41527,
-      "deliverable_qty": 19407,
-      "delivery_pct": 46.73
-    },
     {
       "date": "2026-02-16",
       "close": 443.9,
@@ -466,6 +450,14 @@
       "volume": 96197,
       "deliverable_qty": 64285,
       "delivery_pct": 66.83
+    },
+    {
+      "date": "2026-05-15",
+      "close": 445.95,
+      "prev_close": 444.35,
+      "volume": 161442,
+      "deliverable_qty": 73672,
+      "delivery_pct": 45.63
     }
   ],
   "news": [
@@ -657,27 +649,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "MM Forgings Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MMFL_17022026105435_MMFNP.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:40:49",
-      "an_dt": "13-Feb-2026 17:40:49",
-      "desc": "General Updates",
-      "sm_name": "MM Forgings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MMFL_13022026174043_MMFQ3FY26PPT.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:01:09",
-      "an_dt": "13-Feb-2026 17:01:09",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "MM Forgings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MMFL_13022026165929_RESULTS_Q3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:53:02",
-      "an_dt": "13-Feb-2026 16:53:02",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "MM Forgings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MMFL_13022026164757_RESULTS_Q3FY26.pdf"
     }
   ]
 }

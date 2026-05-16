@@ -8,25 +8,9 @@
   "price": 270.25,
   "market_cap_cr": 77386.3,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 280.14,
-      "prev_close": 277.54,
-      "volume": 7460373,
-      "deliverable_qty": 4052598,
-      "delivery_pct": 54.32
-    },
-    {
-      "date": "2026-02-13",
-      "close": 270.95,
-      "prev_close": 280.14,
-      "volume": 8182107,
-      "deliverable_qty": 4715913,
-      "delivery_pct": 57.64
-    },
     {
       "date": "2026-02-16",
       "close": 275.21,
@@ -466,9 +450,31 @@
       "volume": 2963479,
       "deliverable_qty": 1515507,
       "delivery_pct": 51.14
+    },
+    {
+      "date": "2026-05-15",
+      "close": 272.4,
+      "prev_close": 273.0,
+      "volume": 3254422,
+      "deliverable_qty": 1480310,
+      "delivery_pct": 45.49
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:51:29",
+      "an_dt": "15-May-2026 17:51:29",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "FSN E-Commerce Ventures Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NYKAA_15052026175058_outcomeofbm15052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 12:08:37",
+      "an_dt": "14-May-2026 12:08:37",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "FSN E-Commerce Ventures Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NYKAA_14052026120656_Intimation_Letter_Q4FY26_Results.pdf"
+    },
     {
       "sort_date": "2026-05-13 21:04:22",
       "an_dt": "13-May-2026 21:04:22",
@@ -566,13 +572,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "FSN E-Commerce Ventures Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NYKAA_26022026200614_Schedule_of_Investor_Meet_March_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 22:37:41",
-      "an_dt": "12-Feb-2026 22:37:41",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "FSN E-Commerce Ventures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NYKAA_12022026223732_NykaaIntimation.pdf"
     }
   ]
 }

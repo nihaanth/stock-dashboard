@@ -8,25 +8,9 @@
   "price": 971.0,
   "market_cap_cr": 4629.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 997.4,
-      "prev_close": 1009.1,
-      "volume": 75885,
-      "deliverable_qty": 38094,
-      "delivery_pct": 50.2
-    },
-    {
-      "date": "2026-02-13",
-      "close": 973.1,
-      "prev_close": 997.4,
-      "volume": 86792,
-      "deliverable_qty": 48985,
-      "delivery_pct": 56.44
-    },
     {
       "date": "2026-02-16",
       "close": 987.4,
@@ -466,6 +450,14 @@
       "volume": 271613,
       "deliverable_qty": 91015,
       "delivery_pct": 33.51
+    },
+    {
+      "date": "2026-05-15",
+      "close": 985.3,
+      "prev_close": 977.6,
+      "volume": 99783,
+      "deliverable_qty": 54205,
+      "delivery_pct": 54.32
     }
   ],
   "news": [
@@ -503,34 +495,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Indigo Paints Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIGOPNTS_14022026155808_SE_Intimation_Newspaper_FRD25_SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:18:58",
-      "an_dt": "13-Feb-2026 20:18:58",
-      "desc": "Investor Presentation",
-      "sm_name": "Indigo Paints Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIGOPNTS_13022026201822_SE_Intimation_Investor_Presentation_D25_SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:48:59",
-      "an_dt": "13-Feb-2026 18:48:59",
-      "desc": "Capacity addition",
-      "sm_name": "Indigo Paints Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIGOPNTS_13022026184842_Regulation30_OutcomeofBoardMeeting_-_Jodhpur_Plant_SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:47:40",
-      "an_dt": "13-Feb-2026 18:47:40",
-      "desc": "Commencement of commercial production/operations",
-      "sm_name": "Indigo Paints Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIGOPNTS_13022026184622_Regulation30_OutcomeofBoardMeeting_-_Jodhpur_Plant_SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:47:46",
-      "an_dt": "13-Feb-2026 17:47:46",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Indigo Paints Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIGOPNTS_13022026174326_BM_Outcome_FR.pdf"
     }
   ]
 }

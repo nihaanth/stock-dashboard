@@ -8,25 +8,9 @@
   "price": 384.05,
   "market_cap_cr": 2868.92,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 416.25,
-      "prev_close": 418.75,
-      "volume": 53605,
-      "deliverable_qty": 27435,
-      "delivery_pct": 51.18
-    },
-    {
-      "date": "2026-02-13",
-      "close": 403.45,
-      "prev_close": 416.25,
-      "volume": 144967,
-      "deliverable_qty": 80478,
-      "delivery_pct": 55.51
-    },
     {
       "date": "2026-02-16",
       "close": 396.65,
@@ -466,9 +450,24 @@
       "volume": 171160,
       "deliverable_qty": 84027,
       "delivery_pct": 49.09
+    },
+    {
+      "date": "2026-05-15",
+      "close": 384.8,
+      "prev_close": 386.0,
+      "volume": 92317,
+      "deliverable_qty": 43721,
+      "delivery_pct": 47.36
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 11:04:27",
+      "an_dt": "15-May-2026 11:04:27",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Medi Assist Healthcare Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDIASSIST_15052026110359_MAHSEarningsCallTranscript.pdf"
+    },
     {
       "sort_date": "2026-05-12 07:42:43",
       "an_dt": "12-May-2026 07:42:43",
@@ -650,13 +649,6 @@
       "desc": "General Updates",
       "sm_name": "Medi Assist Healthcare Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDIASSIST_17022026130141_MAHSSEIntimationReg30Updated.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:46:31",
-      "an_dt": "12-Feb-2026 17:46:31",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Medi Assist Healthcare Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDIASSIST_12022026174256_MAHS_transcript_feb26-signed.pdf"
     }
   ]
 }

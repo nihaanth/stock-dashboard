@@ -8,25 +8,9 @@
   "price": 1329.3,
   "market_cap_cr": 35054.16,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 831.15,
-      "prev_close": 838.85,
-      "volume": 299356,
-      "deliverable_qty": 165440,
-      "delivery_pct": 55.27
-    },
-    {
-      "date": "2026-02-13",
-      "close": 802.65,
-      "prev_close": 831.15,
-      "volume": 248115,
-      "deliverable_qty": 140101,
-      "delivery_pct": 56.47
-    },
     {
       "date": "2026-02-16",
       "close": 811.65,
@@ -466,9 +450,24 @@
       "volume": 797656,
       "deliverable_qty": 383262,
       "delivery_pct": 48.05
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1309.0,
+      "prev_close": 1367.5,
+      "volume": 939307,
+      "deliverable_qty": 453373,
+      "delivery_pct": 48.27
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 08:36:37",
+      "an_dt": "15-May-2026 08:36:37",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "Welspun Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WELCORP_15052026083622_SELettersigned.pdf"
+    },
     {
       "sort_date": "2026-04-28 19:38:20",
       "an_dt": "28-Apr-2026 19:38:20",
@@ -566,13 +565,6 @@
       "desc": "General Updates",
       "sm_name": "Welspun Corp Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WELCORP_25022026221821_DMCCIncorporationsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 22:29:25",
-      "an_dt": "12-Feb-2026 22:29:25",
-      "desc": "Acquisition",
-      "sm_name": "Welspun Corp Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WELCORP_12022026222751_SE30signed.pdf"
     }
   ]
 }

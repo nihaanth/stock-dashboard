@@ -8,25 +8,9 @@
   "price": 872.7,
   "market_cap_cr": 1060.51,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 819.9,
-      "prev_close": 815.4,
-      "volume": 8120,
-      "deliverable_qty": 5745,
-      "delivery_pct": 70.75
-    },
-    {
-      "date": "2026-02-13",
-      "close": 800.9,
-      "prev_close": 819.9,
-      "volume": 5112,
-      "deliverable_qty": 3442,
-      "delivery_pct": 67.33
-    },
     {
       "date": "2026-02-16",
       "close": 817.05,
@@ -466,9 +450,24 @@
       "volume": 18850,
       "deliverable_qty": 11258,
       "delivery_pct": 59.72
+    },
+    {
+      "date": "2026-05-15",
+      "close": 867.95,
+      "prev_close": 901.85,
+      "volume": 5217,
+      "deliverable_qty": 2816,
+      "delivery_pct": 53.98
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 15:45:19",
+      "an_dt": "14-May-2026 15:45:19",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Gandhi Special Tubes Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GANDHITUBE_14052026154501_Final_Newspaper_Advts.pdf"
+    },
     {
       "sort_date": "2026-04-23 15:05:00",
       "an_dt": "23-Apr-2026 15:05:00",
@@ -503,13 +502,6 @@
       "desc": "Spurt in Volume",
       "sm_name": "Gandhi Special Tubes Limited",
       "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-02-12 13:29:00",
-      "an_dt": "12-Feb-2026 13:29:00",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Gandhi Special Tubes Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GANDHITUBE_12022026132814_Outcome_of_BM___Newspapersf.pdf"
     }
   ]
 }

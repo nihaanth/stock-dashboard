@@ -8,25 +8,9 @@
   "price": 343.85,
   "market_cap_cr": 2388.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 337.05,
-      "prev_close": 362.85,
-      "volume": 451045,
-      "deliverable_qty": 203298,
-      "delivery_pct": 45.07
-    },
-    {
-      "date": "2026-02-13",
-      "close": 322.9,
-      "prev_close": 337.05,
-      "volume": 268160,
-      "deliverable_qty": 123665,
-      "delivery_pct": 46.12
-    },
     {
       "date": "2026-02-16",
       "close": 324.6,
@@ -466,6 +450,14 @@
       "volume": 110647,
       "deliverable_qty": 43890,
       "delivery_pct": 39.67
+    },
+    {
+      "date": "2026-05-15",
+      "close": 317.35,
+      "prev_close": 328.2,
+      "volume": 149458,
+      "deliverable_qty": 79157,
+      "delivery_pct": 52.96
     }
   ],
   "news": [
@@ -503,13 +495,6 @@
       "desc": "General Updates",
       "sm_name": "HLE Glascoat Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HLEGLASCOAT_03032026180623_Reg_30_Report_on_Fractional_Shares_03032026sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:08:09",
-      "an_dt": "13-Feb-2026 16:08:09",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "HLE Glascoat Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HLEGLASCOAT_13022026160752_NEWSPAPERADVERTISEMENT_UFRQ32025_26_sd.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 316.65,
   "market_cap_cr": 4957.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 278.05,
-      "prev_close": 277.75,
-      "volume": 40446,
-      "deliverable_qty": 15489,
-      "delivery_pct": 38.3
-    },
-    {
-      "date": "2026-02-13",
-      "close": 275.7,
-      "prev_close": 278.05,
-      "volume": 35053,
-      "deliverable_qty": 12640,
-      "delivery_pct": 36.06
-    },
     {
       "date": "2026-02-16",
       "close": 272.35,
@@ -466,9 +450,24 @@
       "volume": 67246,
       "deliverable_qty": 20585,
       "delivery_pct": 30.61
+    },
+    {
+      "date": "2026-05-15",
+      "close": 303.95,
+      "prev_close": 299.7,
+      "volume": 67549,
+      "deliverable_qty": 27425,
+      "delivery_pct": 40.6
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:39:25",
+      "an_dt": "14-May-2026 17:39:25",
+      "desc": "Reply to Clarification- Financial results",
+      "sm_name": "Bansal Wire Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANSALWIRE_07052026133405_Clarification_to_NSE_query.pdf"
+    },
     {
       "sort_date": "2026-05-11 15:23:31",
       "an_dt": "11-May-2026 15:23:31",

@@ -8,25 +8,9 @@
   "price": 808.7,
   "market_cap_cr": 1456.93,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 774.05,
-      "prev_close": 791.55,
-      "volume": 18524,
-      "deliverable_qty": 9392,
-      "delivery_pct": 50.7
-    },
-    {
-      "date": "2026-02-13",
-      "close": 752.15,
-      "prev_close": 774.05,
-      "volume": 18007,
-      "deliverable_qty": 9413,
-      "delivery_pct": 52.27
-    },
     {
       "date": "2026-02-16",
       "close": 723.4,
@@ -466,9 +450,24 @@
       "volume": 28692,
       "deliverable_qty": 11385,
       "delivery_pct": 39.68
+    },
+    {
+      "date": "2026-05-15",
+      "close": 708.0,
+      "prev_close": 733.45,
+      "volume": 36045,
+      "deliverable_qty": 19506,
+      "delivery_pct": 54.12
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 10:43:38",
+      "an_dt": "14-May-2026 10:43:38",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Tinna Rubber and Infrastructure Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TINNARUBBER_14052026104010_SEIntimationTRILQIPMonitoringReport14May26.pdf"
+    },
     {
       "sort_date": "2026-05-13 17:14:51",
       "an_dt": "13-May-2026 17:14:51",
@@ -538,13 +537,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Tinna Rubber and Infrastructure Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TINNARUBBER_07032026150407_SE_Intimation_Investor_Meet_12March2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 12:41:39",
-      "an_dt": "12-Feb-2026 12:41:39",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Tinna Rubber and Infrastructure Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TINNARUBBER_12022026123521_SEIntimationTRILEarningCallTranscript_12Feb26submission.pdf"
     }
   ]
 }

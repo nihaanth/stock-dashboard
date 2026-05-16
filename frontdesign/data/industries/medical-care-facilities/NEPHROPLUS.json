@@ -8,25 +8,9 @@
   "price": 567.35,
   "market_cap_cr": 5692.83,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 575.25,
-      "prev_close": 581.95,
-      "volume": 183232,
-      "deliverable_qty": 56065,
-      "delivery_pct": 30.6
-    },
-    {
-      "date": "2026-02-13",
-      "close": 572.7,
-      "prev_close": 575.25,
-      "volume": 117242,
-      "deliverable_qty": 43634,
-      "delivery_pct": 37.22
-    },
     {
       "date": "2026-02-16",
       "close": 556.0,
@@ -466,9 +450,24 @@
       "volume": 231748,
       "deliverable_qty": 83472,
       "delivery_pct": 36.02
+    },
+    {
+      "date": "2026-05-15",
+      "close": 643.95,
+      "prev_close": 583.3,
+      "volume": 1267477,
+      "deliverable_qty": 371832,
+      "delivery_pct": 29.34
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:39:11",
+      "an_dt": "14-May-2026 17:39:11",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Nephrocare Health Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEPHROCARE1_14052026173849_DisclosureofMonitoringAgencyReport.pdf"
+    },
     {
       "sort_date": "2026-05-12 18:17:30",
       "an_dt": "12-May-2026 18:17:30",
@@ -538,20 +537,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Nephrocare Health Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEPHROCARE1_18022026173922_Intimation_on_Investors_call_-_Transcripts_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:36:55",
-      "an_dt": "12-Feb-2026 13:36:55",
-      "desc": "Agreements",
-      "sm_name": "Nephrocare Health Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEPHROCARE1_12022026133637_IntimationunderReg_30.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:06:25",
-      "an_dt": "12-Feb-2026 13:06:25",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Nephrocare Health Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEPHROCARE1_12022026130442_DisclosureofMonitoringAgencyReportdt1202026.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 698.45,
   "market_cap_cr": 8043.6,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 688.7,
-      "prev_close": 701.15,
-      "volume": 59957,
-      "deliverable_qty": 25039,
-      "delivery_pct": 41.76
-    },
-    {
-      "date": "2026-02-13",
-      "close": 687.0,
-      "prev_close": 688.7,
-      "volume": 129989,
-      "deliverable_qty": 49931,
-      "delivery_pct": 38.41
-    },
     {
       "date": "2026-02-16",
       "close": 672.35,
@@ -466,6 +450,14 @@
       "volume": 46792,
       "deliverable_qty": 20313,
       "delivery_pct": 43.41
+    },
+    {
+      "date": "2026-05-15",
+      "close": 645.95,
+      "prev_close": 650.45,
+      "volume": 70514,
+      "deliverable_qty": 23589,
+      "delivery_pct": 33.45
     }
   ],
   "news": [
@@ -545,13 +537,6 @@
       "desc": "General Updates",
       "sm_name": "63 moons technologies limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/63MOONS_18022026203028_UpdateNTTstakesale18022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:35:22",
-      "an_dt": "13-Feb-2026 21:35:22",
-      "desc": "Sale or disposal",
-      "sm_name": "63 moons technologies limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/63MOONS_13022026213435_LetterSaleofstake13022026.pdf"
     }
   ]
 }

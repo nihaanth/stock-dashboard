@@ -8,25 +8,9 @@
   "price": 272.15,
   "market_cap_cr": 2879.05,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 218.2,
-      "prev_close": 214.22,
-      "volume": 6072672,
-      "deliverable_qty": 1841510,
-      "delivery_pct": 30.32
-    },
-    {
-      "date": "2026-02-13",
-      "close": 217.82,
-      "prev_close": 218.2,
-      "volume": 6571043,
-      "deliverable_qty": 1670603,
-      "delivery_pct": 25.42
-    },
     {
       "date": "2026-02-16",
       "close": 221.97,
@@ -466,9 +450,24 @@
       "volume": 3575846,
       "deliverable_qty": 1252931,
       "delivery_pct": 35.04
+    },
+    {
+      "date": "2026-05-15",
+      "close": 277.65,
+      "prev_close": 289.4,
+      "volume": 3063726,
+      "deliverable_qty": 1442240,
+      "delivery_pct": 47.07
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:57:47",
+      "an_dt": "14-May-2026 17:57:47",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Bliss GVS Pharma Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLISSGVS_14052026175740_Intimation_Publication_Adv.pdf"
+    },
     {
       "sort_date": "2026-05-12 23:08:24",
       "an_dt": "12-May-2026 23:08:24",
@@ -573,27 +572,6 @@
       "desc": "General Updates",
       "sm_name": "Bliss GVS Pharma Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLISSGVS_17022026194820_Intimation_of_TDS_Communication.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:22:51",
-      "an_dt": "13-Feb-2026 11:22:51",
-      "desc": "Rumour Verification - Regulation 30(11)",
-      "sm_name": "Bliss GVS Pharma Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLISSGVS_13022026112242_Clarification_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:17:52",
-      "an_dt": "12-Feb-2026 19:17:52",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Bliss GVS Pharma Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLISSGVS_12022026191735_IntimationofPublicationofUnauditedFinancialResults.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:15:48",
-      "an_dt": "12-Feb-2026 19:15:48",
-      "desc": "Appointment",
-      "sm_name": "Bliss GVS Pharma Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLISSGVS_12022026191526_Intimation_of_Appointment_of_SMP.pdf"
     }
   ]
 }

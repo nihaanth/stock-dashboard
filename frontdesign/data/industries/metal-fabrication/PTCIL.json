@@ -8,25 +8,9 @@
   "price": 17058.0,
   "market_cap_cr": 25574.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 18677.0,
-      "prev_close": 18342.0,
-      "volume": 18731,
-      "deliverable_qty": 7173,
-      "delivery_pct": 38.29
-    },
-    {
-      "date": "2026-02-13",
-      "close": 18384.0,
-      "prev_close": 18677.0,
-      "volume": 20174,
-      "deliverable_qty": 9253,
-      "delivery_pct": 45.87
-    },
     {
       "date": "2026-02-16",
       "close": 18002.0,
@@ -466,9 +450,24 @@
       "volume": 8261,
       "deliverable_qty": 3020,
       "delivery_pct": 36.56
+    },
+    {
+      "date": "2026-05-15",
+      "close": 16788.0,
+      "prev_close": 16699.0,
+      "volume": 10056,
+      "deliverable_qty": 4760,
+      "delivery_pct": 47.33
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 15:00:31",
+      "an_dt": "15-May-2026 15:00:31",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "PTC Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PTCINDUSTRIES_15052026145953_Q4_FY26_Monitoring_Agency_Report.pdf"
+    },
     {
       "sort_date": "2026-05-11 09:39:17",
       "an_dt": "11-May-2026 09:39:17",

@@ -8,25 +8,9 @@
   "price": 375.05,
   "market_cap_cr": 1060.15,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 363.6,
-      "prev_close": 373.85,
-      "volume": 12534,
-      "deliverable_qty": 9364,
-      "delivery_pct": 74.71
-    },
-    {
-      "date": "2026-02-13",
-      "close": 369.45,
-      "prev_close": 363.6,
-      "volume": 16202,
-      "deliverable_qty": 12808,
-      "delivery_pct": 79.05
-    },
     {
       "date": "2026-02-16",
       "close": 358.7,
@@ -466,6 +450,14 @@
       "volume": 14665,
       "deliverable_qty": 12574,
       "delivery_pct": 85.74
+    },
+    {
+      "date": "2026-05-15",
+      "close": 364.4,
+      "prev_close": 361.9,
+      "volume": 38998,
+      "deliverable_qty": 35221,
+      "delivery_pct": 90.31
     }
   ],
   "news": [
@@ -552,20 +544,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Crest Ventures Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CREST_14022026113930_SE_Intimation_Newspaper_Advertisement_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 13:30:52",
-      "an_dt": "13-Feb-2026 13:30:52",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Crest Ventures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CREST_13022026132955_Outcome_of_BM.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 13:19:59",
-      "an_dt": "13-Feb-2026 13:19:59",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Crest Ventures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CREST_13022026131914_Outcome_of_BM.pdf"
     }
   ]
 }

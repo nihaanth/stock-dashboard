@@ -8,25 +8,9 @@
   "price": 1389.8,
   "market_cap_cr": 4619.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1121.5,
-      "prev_close": 1101.2,
-      "volume": 72372,
-      "deliverable_qty": 42319,
-      "delivery_pct": 58.47
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1085.2,
-      "prev_close": 1121.5,
-      "volume": 126602,
-      "deliverable_qty": 31919,
-      "delivery_pct": 25.21
-    },
     {
       "date": "2026-02-16",
       "close": 1132.7,
@@ -466,6 +450,14 @@
       "volume": 148388,
       "deliverable_qty": 61359,
       "delivery_pct": 41.35
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1329.0,
+      "prev_close": 1322.5,
+      "volume": 122208,
+      "deliverable_qty": 47718,
+      "delivery_pct": 39.05
     }
   ],
   "news": [
@@ -545,41 +537,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Goodluck India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOODLUCK_14022026124331_Intimation_Newspaper.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:55:17",
-      "an_dt": "13-Feb-2026 14:55:17",
-      "desc": "Press Release",
-      "sm_name": "Goodluck India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOODLUCK_13022026145504_OutcomeofBoardMeeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:44:21",
-      "an_dt": "13-Feb-2026 14:44:21",
-      "desc": "Record Date",
-      "sm_name": "Goodluck India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOODLUCK_13022026144333_OutcomeofBoardMeeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:41:49",
-      "an_dt": "13-Feb-2026 14:41:49",
-      "desc": "Dividend",
-      "sm_name": "Goodluck India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOODLUCK_13022026144056_OutcomeofBoardMeeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:38:32",
-      "an_dt": "13-Feb-2026 14:38:32",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Goodluck India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOODLUCK_13022026143716_OutcomeofBoardMeeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:35:50",
-      "an_dt": "13-Feb-2026 14:35:50",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Goodluck India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOODLUCK_13022026143533_OutcomeofBoardMeeting.pdf"
     }
   ]
 }

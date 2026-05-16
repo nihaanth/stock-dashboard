@@ -8,25 +8,9 @@
   "price": 1458.3,
   "market_cap_cr": 13236.04,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1147.1,
-      "prev_close": 1166.6,
-      "volume": 19404,
-      "deliverable_qty": 9923,
-      "delivery_pct": 51.14
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1169.4,
-      "prev_close": 1147.1,
-      "volume": 256811,
-      "deliverable_qty": 134436,
-      "delivery_pct": 52.35
-    },
     {
       "date": "2026-02-16",
       "close": 1172.0,
@@ -466,9 +450,24 @@
       "volume": 285700,
       "deliverable_qty": 114657,
       "delivery_pct": 40.13
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1433.0,
+      "prev_close": 1429.5,
+      "volume": 141805,
+      "deliverable_qty": 74108,
+      "delivery_pct": 52.26
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:48:53",
+      "an_dt": "15-May-2026 17:48:53",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "INOX India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAMLESHS_15052026174840_SEIntimation20052026signed.pdf"
+    },
     {
       "sort_date": "2026-05-13 18:12:11",
       "an_dt": "13-May-2026 18:12:11",
@@ -678,48 +677,6 @@
       "desc": "Disclosure under SEBI Takeover Regulations",
       "sm_name": "INOX India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_18022026184155_INOXINDIA.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:49:12",
-      "an_dt": "13-Feb-2026 17:49:12",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "INOX India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAMLESHS_13022026174900_SEReg30Audiorecordings13022026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:35:12",
-      "an_dt": "12-Feb-2026 19:35:12",
-      "desc": "Investor Presentation",
-      "sm_name": "INOX India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAMLESHS_12022026193406_SEReg30InvestorPresentation12022026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:30:33",
-      "an_dt": "12-Feb-2026 19:30:33",
-      "desc": "Press Release",
-      "sm_name": "INOX India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAMLESHS_12022026192954_SEPressRelease12022026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:11:54",
-      "an_dt": "12-Feb-2026 19:11:54",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "INOX India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAMLESHS_12022026190841_OutcomeofBM12022026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:06:44",
-      "an_dt": "12-Feb-2026 19:06:44",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "INOX India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAMLESHS_12022026190614_OutcomeofBM12022026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 12:43:39",
-      "an_dt": "12-Feb-2026 12:43:39",
-      "desc": "Options to purchase securities",
-      "sm_name": "INOX India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAMLESHS_12022026124309_Reg30GrantofESOP12022026signed12.pdf"
     }
   ]
 }

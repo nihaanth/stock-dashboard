@@ -8,25 +8,9 @@
   "price": 107.93,
   "market_cap_cr": 90945.38,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 89.08,
-      "prev_close": 88.99,
-      "volume": 1767896,
-      "deliverable_qty": 912913,
-      "delivery_pct": 51.64
-    },
-    {
-      "date": "2026-02-13",
-      "close": 89.01,
-      "prev_close": 89.08,
-      "volume": 2357251,
-      "deliverable_qty": 1176051,
-      "delivery_pct": 49.89
-    },
     {
       "date": "2026-02-16",
       "close": 89.53,
@@ -466,9 +450,24 @@
       "volume": 13323471,
       "deliverable_qty": 4530737,
       "delivery_pct": 34.01
+    },
+    {
+      "date": "2026-05-15",
+      "close": 107.99,
+      "prev_close": 109.51,
+      "volume": 3894473,
+      "deliverable_qty": 1244312,
+      "delivery_pct": 31.95
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 12:24:33",
+      "an_dt": "14-May-2026 12:24:33",
+      "desc": "General Updates",
+      "sm_name": "NTPC Green Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/gauravrai02_14052026122335_StxDisclosureReg3014052026.pdf"
+    },
     {
       "sort_date": "2026-04-24 16:39:57",
       "an_dt": "24-Apr-2026 16:39:57",
@@ -591,7 +590,7 @@
     {
       "sort_date": "2026-03-06 10:44:36",
       "an_dt": "06-Mar-2026 10:44:36",
-      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
+      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
       "sm_name": "NTPC Green Energy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/dinesh01_06032026103556_Intimation_7_3_.pdf"
     },

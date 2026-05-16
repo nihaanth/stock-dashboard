@@ -8,25 +8,9 @@
   "price": 2713.0,
   "market_cap_cr": 183988.28,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 2925.5,
-      "prev_close": 2932.6,
-      "volume": 420088,
-      "deliverable_qty": 245536,
-      "delivery_pct": 58.45
-    },
-    {
-      "date": "2026-02-13",
-      "close": 2888.0,
-      "prev_close": 2925.5,
-      "volume": 419620,
-      "deliverable_qty": 242881,
-      "delivery_pct": 57.88
-    },
     {
       "date": "2026-02-16",
       "close": 2912.7,
@@ -466,9 +450,24 @@
       "volume": 1332833,
       "deliverable_qty": 774130,
       "delivery_pct": 58.08
+    },
+    {
+      "date": "2026-05-15",
+      "close": 2933.8,
+      "prev_close": 2938.7,
+      "volume": 1586864,
+      "deliverable_qty": 1011435,
+      "delivery_pct": 63.74
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 20:16:13",
+      "an_dt": "15-May-2026 20:16:13",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Grasim Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRASIM_15052026201508_SEintimation.pdf"
+    },
     {
       "sort_date": "2026-05-08 18:08:05",
       "an_dt": "08-May-2026 18:08:05",
@@ -608,13 +607,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Grasim Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRASIM_18022026184456_SEIntimationInvestorsmeetsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:20:33",
-      "an_dt": "13-Feb-2026 17:20:33",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Grasim Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRASIM_13022026172025_SEIntimationTranscriptFinalsigned.pdf"
     }
   ]
 }

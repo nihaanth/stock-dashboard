@@ -8,25 +8,9 @@
   "price": 289.1,
   "market_cap_cr": 18758.68,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 265.4,
-      "prev_close": 258.21,
-      "volume": 3953946,
-      "deliverable_qty": 1278617,
-      "delivery_pct": 32.34
-    },
-    {
-      "date": "2026-02-13",
-      "close": 258.65,
-      "prev_close": 265.4,
-      "volume": 1366289,
-      "deliverable_qty": 713359,
-      "delivery_pct": 52.21
-    },
     {
       "date": "2026-02-16",
       "close": 267.9,
@@ -466,9 +450,24 @@
       "volume": 2569171,
       "deliverable_qty": 1216238,
       "delivery_pct": 47.34
+    },
+    {
+      "date": "2026-05-15",
+      "close": 287.9,
+      "prev_close": 289.25,
+      "volume": 1091931,
+      "deliverable_qty": 418317,
+      "delivery_pct": 38.31
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 11:46:27",
+      "an_dt": "15-May-2026 11:46:27",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Godawari Power And Ispat limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPIL_15052026114614_GPILNSEBSEREG3015052026.pdf"
+    },
     {
       "sort_date": "2026-05-13 16:57:49",
       "an_dt": "13-May-2026 16:57:49",
@@ -734,20 +733,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Godawari Power And Ispat limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPIL_14022026152022_GPILNSEBSEPUBLICATIONOFNOTICE14022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:42:16",
-      "an_dt": "12-Feb-2026 17:42:16",
-      "desc": "Updates",
-      "sm_name": "Godawari Power And Ispat limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPIL_12022026174111_GPILNSEBSEUPDATEREGARDINGBMQ.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:48:41",
-      "an_dt": "12-Feb-2026 15:48:41",
-      "desc": "Shareholders meeting",
-      "sm_name": "Godawari Power And Ispat limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPIL_12022026154829_GPILNSEBSENOTICEOFEGM12022026.pdf"
     }
   ]
 }

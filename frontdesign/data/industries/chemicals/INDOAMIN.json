@@ -8,25 +8,9 @@
   "price": 120.8,
   "market_cap_cr": 876.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 114.13,
-      "prev_close": 115.13,
-      "volume": 30261,
-      "deliverable_qty": 20599,
-      "delivery_pct": 68.07
-    },
-    {
-      "date": "2026-02-13",
-      "close": 113.42,
-      "prev_close": 114.13,
-      "volume": 26399,
-      "deliverable_qty": 16244,
-      "delivery_pct": 61.53
-    },
     {
       "date": "2026-02-16",
       "close": 112.93,
@@ -466,9 +450,31 @@
       "volume": 45223,
       "deliverable_qty": 21919,
       "delivery_pct": 48.47
+    },
+    {
+      "date": "2026-05-15",
+      "close": 127.47,
+      "prev_close": 128.06,
+      "volume": 172704,
+      "deliverable_qty": 60679,
+      "delivery_pct": 35.13
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 18:18:10",
+      "an_dt": "14-May-2026 18:18:10",
+      "desc": "Spurt in Volume",
+      "sm_name": "Indo Amines Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDOAMINES_14052026181757_ClarificationNSE14May2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:57:43",
+      "an_dt": "14-May-2026 17:57:43",
+      "desc": "Spurt in Volume",
+      "sm_name": "Indo Amines Limited",
+      "attchmntFile": "-"
+    },
     {
       "sort_date": "2026-05-06 16:58:42",
       "an_dt": "06-May-2026 16:58:42",

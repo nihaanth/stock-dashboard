@@ -8,25 +8,9 @@
   "price": 1680.9,
   "market_cap_cr": 84701.15,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1453.7,
-      "prev_close": 1428.6,
-      "volume": 809304,
-      "deliverable_qty": 291361,
-      "delivery_pct": 36.0
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1462.6,
-      "prev_close": 1453.7,
-      "volume": 621000,
-      "deliverable_qty": 263895,
-      "delivery_pct": 42.5
-    },
     {
       "date": "2026-02-16",
       "close": 1471.4,
@@ -466,9 +450,24 @@
       "volume": 1542289,
       "deliverable_qty": 565478,
       "delivery_pct": 36.66
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1466.0,
+      "prev_close": 1457.7,
+      "volume": 336572,
+      "deliverable_qty": 147409,
+      "delivery_pct": 43.8
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:12:27",
+      "an_dt": "15-May-2026 17:12:27",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Torrent Power Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TORNTPOWER_15052026170900_Transcript_-_SE_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-13 13:12:40",
       "an_dt": "13-May-2026 13:12:40",
@@ -706,20 +705,6 @@
       "desc": "Acquisition",
       "sm_name": "Torrent Power Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TORNTPOWER_16022026115719_Inti.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:04:52",
-      "an_dt": "13-Feb-2026 18:04:52",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Torrent Power Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TORNTPOWER_13022026180443_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:09:13",
-      "an_dt": "12-Feb-2026 16:09:13",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Torrent Power Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TORNTPOWER_12022026160853_Intimation.pdf"
     }
   ]
 }

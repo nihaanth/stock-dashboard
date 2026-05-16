@@ -8,25 +8,9 @@
   "price": 1096.0,
   "market_cap_cr": 2657.73,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 925.85,
-      "prev_close": 859.7,
-      "volume": 272641,
-      "deliverable_qty": 95859,
-      "delivery_pct": 35.16
-    },
-    {
-      "date": "2026-02-13",
-      "close": 852.9,
-      "prev_close": 925.85,
-      "volume": 113632,
-      "deliverable_qty": 40213,
-      "delivery_pct": 35.39
-    },
     {
       "date": "2026-02-16",
       "close": 851.45,
@@ -466,6 +450,14 @@
       "volume": 45277,
       "deliverable_qty": 33763,
       "delivery_pct": 74.57
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1154.3,
+      "prev_close": 1100.2,
+      "volume": 123267,
+      "deliverable_qty": 74765,
+      "delivery_pct": 60.65
     }
   ],
   "news": [
@@ -517,20 +509,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Shankara Buildpro Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BUILDPRO_18022026110034_Filing.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:38:10",
-      "an_dt": "12-Feb-2026 16:38:10",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Shankara Buildpro Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BUILDPRO_12022026163803_Letter-_Con_Call.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:36:26",
-      "an_dt": "12-Feb-2026 16:36:26",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Shankara Buildpro Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BUILDPRO_12022026163618_Filing.pdf"
     }
   ]
 }

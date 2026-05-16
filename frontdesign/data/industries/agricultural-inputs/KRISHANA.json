@@ -8,25 +8,9 @@
   "price": 580.25,
   "market_cap_cr": 3587.55,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 527.8,
-      "prev_close": 520.75,
-      "volume": 121712,
-      "deliverable_qty": 66771,
-      "delivery_pct": 54.86
-    },
-    {
-      "date": "2026-02-13",
-      "close": 512.5,
-      "prev_close": 527.8,
-      "volume": 52105,
-      "deliverable_qty": 27451,
-      "delivery_pct": 52.68
-    },
     {
       "date": "2026-02-16",
       "close": 518.05,
@@ -466,9 +450,24 @@
       "volume": 279001,
       "deliverable_qty": 134100,
       "delivery_pct": 48.06
+    },
+    {
+      "date": "2026-05-15",
+      "close": 669.65,
+      "prev_close": 689.05,
+      "volume": 283490,
+      "deliverable_qty": 132871,
+      "delivery_pct": 46.87
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 19:09:49",
+      "an_dt": "14-May-2026 19:09:49",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Krishana Phoschem Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KRISHANA_14052026190651_NSEINVESTMEET210526SITOUP.pdf"
+    },
     {
       "sort_date": "2026-04-21 10:48:57",
       "an_dt": "21-Apr-2026 10:48:57",

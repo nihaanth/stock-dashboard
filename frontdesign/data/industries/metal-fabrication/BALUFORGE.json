@@ -8,25 +8,9 @@
   "price": 529.1,
   "market_cap_cr": 6425.68,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 503.0,
-      "prev_close": 508.25,
-      "volume": 1031259,
-      "deliverable_qty": 471853,
-      "delivery_pct": 45.76
-    },
-    {
-      "date": "2026-02-13",
-      "close": 501.35,
-      "prev_close": 503.0,
-      "volume": 1051131,
-      "deliverable_qty": 374495,
-      "delivery_pct": 35.63
-    },
     {
       "date": "2026-02-16",
       "close": 492.85,
@@ -466,6 +450,14 @@
       "volume": 494044,
       "deliverable_qty": 195777,
       "delivery_pct": 39.63
+    },
+    {
+      "date": "2026-05-15",
+      "close": 478.15,
+      "prev_close": 492.45,
+      "volume": 307038,
+      "deliverable_qty": 148886,
+      "delivery_pct": 48.49
     }
   ],
   "news": [
@@ -538,48 +530,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Balu Forge Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BALUFORGE_16022026183514_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 13:38:22",
-      "an_dt": "13-Feb-2026 13:38:22",
-      "desc": "Press Release (Revised)",
-      "sm_name": "Balu Forge Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BALUFORGE_13022026133814_Media.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 20:34:26",
-      "an_dt": "12-Feb-2026 20:34:26",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Balu Forge Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BALUFORGE_12022026203350_Report.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 20:21:54",
-      "an_dt": "12-Feb-2026 20:21:54",
-      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "sm_name": "Balu Forge Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BALUFORGE_12022026202138_Deviation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 20:05:15",
-      "an_dt": "12-Feb-2026 20:05:15",
-      "desc": "Press Release",
-      "sm_name": "Balu Forge Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BALUFORGE_12022026200509_Media.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:58:35",
-      "an_dt": "12-Feb-2026 19:58:35",
-      "desc": "General Updates",
-      "sm_name": "Balu Forge Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BALUFORGE_12022026195828_Earnings.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:42:58",
-      "an_dt": "12-Feb-2026 19:42:58",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Balu Forge Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BALUFORGE_12022026194227_Outcome.pdf"
     }
   ]
 }

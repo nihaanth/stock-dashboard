@@ -8,25 +8,9 @@
   "price": 240.5,
   "market_cap_cr": 2488.61,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 287.55,
-      "prev_close": 296.75,
-      "volume": 55877,
-      "deliverable_qty": 32753,
-      "delivery_pct": 58.62
-    },
-    {
-      "date": "2026-02-13",
-      "close": 280.0,
-      "prev_close": 287.55,
-      "volume": 62936,
-      "deliverable_qty": 34993,
-      "delivery_pct": 55.6
-    },
     {
       "date": "2026-02-16",
       "close": 278.2,
@@ -466,13 +450,28 @@
       "volume": 121100,
       "deliverable_qty": 67225,
       "delivery_pct": 55.51
+    },
+    {
+      "date": "2026-05-15",
+      "close": 241.7,
+      "prev_close": 247.85,
+      "volume": 60730,
+      "deliverable_qty": 34570,
+      "delivery_pct": 56.92
     }
   ],
   "news": [
     {
+      "sort_date": "2026-05-15 16:51:09",
+      "an_dt": "15-May-2026 16:51:09",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Ddev Plastiks Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DDEVPLASTIKS_15052026165031_Earnings_Call.pdf"
+    },
+    {
       "sort_date": "2026-05-13 18:00:08",
       "an_dt": "13-May-2026 18:00:08",
-      "desc": "Registrar &amp;amp; Share Transfer Agent Update",
+      "desc": "Registrar &amp;amp;amp;amp;amp; Share Transfer Agent Update",
       "sm_name": "Ddev Plastiks Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DDEVPLASTIKS_13052026175956_Intimation.pdf"
     },
@@ -531,20 +530,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Ddev Plastiks Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DDEVPLASTIKS_04032026131607_Regulation_30-Investor_Meet_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:28:02",
-      "an_dt": "13-Feb-2026 18:28:02",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Ddev Plastiks Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DDEVPLASTIKS_13022026182745_Outcome-Transcripts.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:32:17",
-      "an_dt": "12-Feb-2026 15:32:17",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Ddev Plastiks Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DDEVPLASTIKS_12022026153200_Regulation_47-_Interim_Dividend_Newspaper_Publication-Intimation.pdf"
     }
   ]
 }

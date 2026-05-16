@@ -8,25 +8,9 @@
   "price": 420.8,
   "market_cap_cr": 4797.33,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 350.85,
-      "prev_close": 356.75,
-      "volume": 1266504,
-      "deliverable_qty": 554453,
-      "delivery_pct": 43.78
-    },
-    {
-      "date": "2026-02-13",
-      "close": 333.25,
-      "prev_close": 350.85,
-      "volume": 1783443,
-      "deliverable_qty": 908200,
-      "delivery_pct": 50.92
-    },
     {
       "date": "2026-02-16",
       "close": 333.85,
@@ -466,6 +450,14 @@
       "volume": 522015,
       "deliverable_qty": 219223,
       "delivery_pct": 42.0
+    },
+    {
+      "date": "2026-05-15",
+      "close": 385.05,
+      "prev_close": 388.05,
+      "volume": 346514,
+      "deliverable_qty": 143827,
+      "delivery_pct": 41.51
     }
   ],
   "news": [
@@ -573,20 +565,6 @@
       "desc": "Awarding of order(s)/contract(s)",
       "sm_name": "Oswal Pumps Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/OSWALPUMPS_02032026151043_SELetterOSEPLPMKusumOPL02032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:38:13",
-      "an_dt": "13-Feb-2026 11:38:13",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Oswal Pumps Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OSWALPUMPS_13022026113714_SELetterTranscriptofearningcall13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 10:54:36",
-      "an_dt": "12-Feb-2026 10:54:36",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Oswal Pumps Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OSWALPUMPS_12022026105329_OPLAmbitGlobalPrivateClientUpnextConference202612022026.pdf"
     }
   ]
 }

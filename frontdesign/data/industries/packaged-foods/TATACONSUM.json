@@ -8,25 +8,9 @@
   "price": 1090.3,
   "market_cap_cr": 107906.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1149.3,
-      "prev_close": 1152.6,
-      "volume": 624666,
-      "deliverable_qty": 360406,
-      "delivery_pct": 57.7
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1132.2,
-      "prev_close": 1149.3,
-      "volume": 525887,
-      "deliverable_qty": 292377,
-      "delivery_pct": 55.6
-    },
     {
       "date": "2026-02-16",
       "close": 1139.2,
@@ -466,9 +450,24 @@
       "volume": 2412317,
       "deliverable_qty": 1412991,
       "delivery_pct": 58.57
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1234.0,
+      "prev_close": 1228.3,
+      "volume": 2755516,
+      "deliverable_qty": 1727068,
+      "delivery_pct": 62.68
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:22:58",
+      "an_dt": "15-May-2026 18:22:58",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "TATA CONSUMER PRODUCTS LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Kajal_15052026182238_TCPL_Analystmeeting_15-05-2026signed.pdf"
+    },
     {
       "sort_date": "2026-05-13 12:40:09",
       "an_dt": "13-May-2026 12:40:09",

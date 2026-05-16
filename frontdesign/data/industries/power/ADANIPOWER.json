@@ -8,25 +8,9 @@
   "price": 222.03,
   "market_cap_cr": 428178.09,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 149.79,
-      "prev_close": 150.91,
-      "volume": 8553724,
-      "deliverable_qty": 3056106,
-      "delivery_pct": 35.73
-    },
-    {
-      "date": "2026-02-13",
-      "close": 139.9,
-      "prev_close": 149.79,
-      "volume": 38679559,
-      "deliverable_qty": 14983242,
-      "delivery_pct": 38.74
-    },
     {
       "date": "2026-02-16",
       "close": 142.77,
@@ -466,9 +450,24 @@
       "volume": 49608338,
       "deliverable_qty": 18494277,
       "delivery_pct": 37.28
+    },
+    {
+      "date": "2026-05-15",
+      "close": 221.33,
+      "prev_close": 224.49,
+      "volume": 60020608,
+      "deliverable_qty": 9528244,
+      "delivery_pct": 15.87
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:15:12",
+      "an_dt": "14-May-2026 17:15:12",
+      "desc": "News Verification",
+      "sm_name": "Adani Power Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADANIPOWER_14052026171502_APLNSEClarificationonNewsItem14052026.pdf"
+    },
     {
       "sort_date": "2026-05-13 15:35:29",
       "an_dt": "13-May-2026 15:35:29",
@@ -664,13 +663,6 @@
       "desc": "Updates",
       "sm_name": "Adani Power Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADANIPOWER_24022026083037_APLPressReleasereceiptofLoA24022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 07:22:47",
-      "an_dt": "12-Feb-2026 07:22:47",
-      "desc": "General Updates",
-      "sm_name": "Adani Power Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADANIPOWER_12022026072236_APLincorporationsubsidiaryAAEL12022026.pdf"
     }
   ]
 }

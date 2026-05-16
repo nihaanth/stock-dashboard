@@ -8,25 +8,9 @@
   "price": 550.65,
   "market_cap_cr": 8221.33,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 595.05,
-      "prev_close": 611.45,
-      "volume": 73762,
-      "deliverable_qty": 39295,
-      "delivery_pct": 53.27
-    },
-    {
-      "date": "2026-02-13",
-      "close": 582.3,
-      "prev_close": 595.05,
-      "volume": 72424,
-      "deliverable_qty": 32235,
-      "delivery_pct": 44.51
-    },
     {
       "date": "2026-02-16",
       "close": 584.45,
@@ -466,6 +450,14 @@
       "volume": 113012,
       "deliverable_qty": 54580,
       "delivery_pct": 48.3
+    },
+    {
+      "date": "2026-05-15",
+      "close": 637.2,
+      "prev_close": 617.0,
+      "volume": 571511,
+      "deliverable_qty": 174981,
+      "delivery_pct": 30.62
     }
   ],
   "news": [
@@ -601,13 +593,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Healthcare Global Enterprises Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HCG1_17022026193637_Outcome_-_Rights_Issue_-_17_February_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:37:05",
-      "an_dt": "13-Feb-2026 21:37:05",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Healthcare Global Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HCG1_13022026213323_Earnings_Call_Transcript_-_13_Feb_2026.pdf"
     }
   ]
 }

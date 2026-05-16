@@ -8,25 +8,9 @@
   "price": 186.57,
   "market_cap_cr": 2601.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 266.1,
-      "prev_close": 276.4,
-      "volume": 342615,
-      "deliverable_qty": 181966,
-      "delivery_pct": 53.11
-    },
-    {
-      "date": "2026-02-13",
-      "close": 267.35,
-      "prev_close": 266.1,
-      "volume": 230026,
-      "deliverable_qty": 128734,
-      "delivery_pct": 55.96
-    },
     {
       "date": "2026-02-16",
       "close": 256.95,
@@ -466,9 +450,24 @@
       "volume": 1066849,
       "deliverable_qty": 484016,
       "delivery_pct": 45.37
+    },
+    {
+      "date": "2026-05-15",
+      "close": 178.21,
+      "prev_close": 177.19,
+      "volume": 1370526,
+      "deliverable_qty": 552908,
+      "delivery_pct": 40.34
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:08:47",
+      "an_dt": "15-May-2026 17:08:47",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "EFC (I) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EFCILTD_15052026170824_EFCIL-Monitoring_Agency_Report.pdf"
+    },
     {
       "sort_date": "2026-05-10 18:15:52",
       "an_dt": "10-May-2026 18:15:52",
@@ -664,13 +663,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "EFC (I) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EFCILTD_14022026192605_Outcome_Final.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:39:18",
-      "an_dt": "12-Feb-2026 19:39:18",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "EFC (I) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EFCILTD_12022026193848_Monitoring_Agency_Report.pdf"
     }
   ]
 }

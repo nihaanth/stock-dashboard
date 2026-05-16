@@ -8,25 +8,9 @@
   "price": 3872.9,
   "market_cap_cr": 16764.1,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 3769.1,
-      "prev_close": 3849.7,
-      "volume": 14947,
-      "deliverable_qty": 7717,
-      "delivery_pct": 51.63
-    },
-    {
-      "date": "2026-02-13",
-      "close": 3653.6,
-      "prev_close": 3769.1,
-      "volume": 51319,
-      "deliverable_qty": 13818,
-      "delivery_pct": 26.93
-    },
     {
       "date": "2026-02-16",
       "close": 3633.4,
@@ -466,6 +450,14 @@
       "volume": 48239,
       "deliverable_qty": 13127,
       "delivery_pct": 27.21
+    },
+    {
+      "date": "2026-05-15",
+      "close": 3855.2,
+      "prev_close": 3897.0,
+      "volume": 13560,
+      "deliverable_qty": 6135,
+      "delivery_pct": 45.24
     }
   ],
   "news": [
@@ -531,20 +523,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "BASF India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BASFIL_14022026122633_Advertisement14022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:25:38",
-      "an_dt": "13-Feb-2026 14:25:38",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "BASF India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BASFIL_13022026142438_FR13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:09:29",
-      "an_dt": "13-Feb-2026 14:09:29",
-      "desc": "General Updates",
-      "sm_name": "BASF India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BASFIL_13022026140852_SELetter13022026.pdf"
     }
   ]
 }

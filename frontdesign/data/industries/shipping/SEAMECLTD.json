@@ -8,25 +8,9 @@
   "price": 1515.3,
   "market_cap_cr": 3866.14,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1367.0,
-      "prev_close": 1340.9,
-      "volume": 43212,
-      "deliverable_qty": 23277,
-      "delivery_pct": 53.87
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1374.7,
-      "prev_close": 1367.0,
-      "volume": 112720,
-      "deliverable_qty": 58455,
-      "delivery_pct": 51.86
-    },
     {
       "date": "2026-02-16",
       "close": 1386.2,
@@ -466,9 +450,24 @@
       "volume": 34079,
       "deliverable_qty": 17611,
       "delivery_pct": 51.68
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1517.8,
+      "prev_close": 1487.9,
+      "volume": 39727,
+      "deliverable_qty": 24320,
+      "delivery_pct": 61.22
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 18:08:52",
+      "an_dt": "14-May-2026 18:08:52",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Seamec Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SEAMECLTD_14052026180818_BSENSEIntimationofInvestormeet14052026.pdf"
+    },
     {
       "sort_date": "2026-05-13 12:04:30",
       "an_dt": "13-May-2026 12:04:30",

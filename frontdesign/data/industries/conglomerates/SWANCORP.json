@@ -8,25 +8,9 @@
   "price": 340.35,
   "market_cap_cr": 10668.51,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 416.95,
-      "prev_close": 424.45,
-      "volume": 284084,
-      "deliverable_qty": 128152,
-      "delivery_pct": 45.11
-    },
-    {
-      "date": "2026-02-13",
-      "close": 408.65,
-      "prev_close": 416.95,
-      "volume": 346560,
-      "deliverable_qty": 156278,
-      "delivery_pct": 45.09
-    },
     {
       "date": "2026-02-16",
       "close": 405.8,
@@ -466,6 +450,14 @@
       "volume": 557206,
       "deliverable_qty": 179460,
       "delivery_pct": 32.21
+    },
+    {
+      "date": "2026-05-15",
+      "close": 318.55,
+      "prev_close": 323.3,
+      "volume": 1011427,
+      "deliverable_qty": 392820,
+      "delivery_pct": 38.84
     }
   ],
   "news": [
@@ -580,20 +572,6 @@
       "desc": "Resignation",
       "sm_name": "SWAN CORP LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SWANENERGY_20022026181055_SCL-_Regulation_30-_Resignation_of_Ashishkumar_Bairagra.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:52:58",
-      "an_dt": "13-Feb-2026 18:52:58",
-      "desc": "Giving guarantees/indemnity/ becoming a surety for third party",
-      "sm_name": "SWAN CORP LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SWANENERGY_13022026185237_Reg_30.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 11:58:59",
-      "an_dt": "12-Feb-2026 11:58:59",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "SWAN CORP LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SWANENERGY_12022026115743_Letter_to_SE.pdf"
     }
   ]
 }

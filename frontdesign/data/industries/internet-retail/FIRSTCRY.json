@@ -8,25 +8,9 @@
   "price": 229.51,
   "market_cap_cr": 11135.14,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 267.8,
-      "prev_close": 275.4,
-      "volume": 1004083,
-      "deliverable_qty": 520451,
-      "delivery_pct": 51.83
-    },
-    {
-      "date": "2026-02-13",
-      "close": 269.8,
-      "prev_close": 267.8,
-      "volume": 1019948,
-      "deliverable_qty": 559686,
-      "delivery_pct": 54.87
-    },
     {
       "date": "2026-02-16",
       "close": 239.7,
@@ -466,9 +450,24 @@
       "volume": 647154,
       "deliverable_qty": 233526,
       "delivery_pct": 36.09
+    },
+    {
+      "date": "2026-05-15",
+      "close": 224.22,
+      "prev_close": 230.0,
+      "volume": 449546,
+      "deliverable_qty": 197930,
+      "delivery_pct": 44.03
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:52:43",
+      "an_dt": "14-May-2026 17:52:43",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Brainbees Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BRAINBEES_14052026175229_Disclosure_MonitoringAgencyReport_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-13 23:24:21",
       "an_dt": "13-May-2026 23:24:21",
@@ -608,41 +607,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Brainbees Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BRAINBEES_14022026122326_DisclosureunderRegulation47NewspaperAd_Dec25_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 22:57:57",
-      "an_dt": "13-Feb-2026 22:57:57",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Brainbees Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BRAINBEES_13022026225729_Investor_MeetOutcomeRecording_Dec_25.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:46:24",
-      "an_dt": "13-Feb-2026 18:46:24",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Brainbees Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BRAINBEES_13022026184601_Disclosure_MonitoringAgencyReport_Dec_25.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:49:15",
-      "an_dt": "13-Feb-2026 17:49:15",
-      "desc": "Change in Director(s)",
-      "sm_name": "Brainbees Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BRAINBEES_13022026174841_OutcomeofBoardMeeting_Dec_25_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:42:28",
-      "an_dt": "13-Feb-2026 17:42:28",
-      "desc": "Investor Presentation",
-      "sm_name": "Brainbees Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BRAINBEES_13022026174215_InvestorPresentation_Dec_25_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:40:16",
-      "an_dt": "13-Feb-2026 17:40:16",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Brainbees Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BRAINBEES_13022026173730_OutcomeofBoardMeeting_Dec_25_signed.pdf"
     }
   ]
 }

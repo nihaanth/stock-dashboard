@@ -8,25 +8,9 @@
   "price": 121.07,
   "market_cap_cr": 722.41,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 127.03,
-      "prev_close": 130.02,
-      "volume": 22693,
-      "deliverable_qty": 14899,
-      "delivery_pct": 65.65
-    },
-    {
-      "date": "2026-02-13",
-      "close": 127.39,
-      "prev_close": 127.03,
-      "volume": 80264,
-      "deliverable_qty": 30346,
-      "delivery_pct": 37.81
-    },
     {
       "date": "2026-02-16",
       "close": 125.29,
@@ -466,9 +450,31 @@
       "volume": 63806,
       "deliverable_qty": 35191,
       "delivery_pct": 55.15
+    },
+    {
+      "date": "2026-05-15",
+      "close": 115.16,
+      "prev_close": 114.43,
+      "volume": 129489,
+      "deliverable_qty": 40523,
+      "delivery_pct": 31.29
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 14:00:35",
+      "an_dt": "15-May-2026 14:00:35",
+      "desc": "Updates",
+      "sm_name": "TV Today Network Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TVTODAY_15052026135632_Board_Meeting_Outcome_15052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 14:00:35",
+      "an_dt": "15-May-2026 14:00:35",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "TV Today Network Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TVTODAY_15052026135317_Board_Meeting_Outcome_15052026.pdf"
+    },
     {
       "sort_date": "2026-04-30 12:41:20",
       "an_dt": "30-Apr-2026 12:41:20",
@@ -538,13 +544,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "TV Today Network Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TVTODAY_14022026140536_SE_Intimation_Newspaper_Ad_Financials.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:46:28",
-      "an_dt": "13-Feb-2026 17:46:28",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "TV Today Network Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TVTODAY_13022026174602_Board_Meeting_Outcome_13022026.pdf"
     }
   ]
 }

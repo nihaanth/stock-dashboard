@@ -8,25 +8,9 @@
   "price": 422.05,
   "market_cap_cr": 6875.97,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 400.0,
-      "prev_close": 397.35,
-      "volume": 1066786,
-      "deliverable_qty": 472609,
-      "delivery_pct": 44.3
-    },
-    {
-      "date": "2026-02-13",
-      "close": 400.5,
-      "prev_close": 400.0,
-      "volume": 1991605,
-      "deliverable_qty": 423256,
-      "delivery_pct": 21.25
-    },
     {
       "date": "2026-02-16",
       "close": 409.75,
@@ -466,9 +450,24 @@
       "volume": 1131096,
       "deliverable_qty": 370724,
       "delivery_pct": 32.78
+    },
+    {
+      "date": "2026-05-15",
+      "close": 431.4,
+      "prev_close": 418.3,
+      "volume": 2409843,
+      "deliverable_qty": 880557,
+      "delivery_pct": 36.54
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 15:21:43",
+      "an_dt": "14-May-2026 15:21:43",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Shreeji Shipping Global Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHREEJI_14052026152128_Monitoring_Agency_Report_March_2026.pdf"
+    },
     {
       "sort_date": "2026-04-29 10:57:46",
       "an_dt": "29-Apr-2026 10:57:46",
@@ -545,13 +544,6 @@
       "desc": "General Updates",
       "sm_name": "Shreeji Shipping Global Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHREEJI_16022026234913_REG_30.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:19:57",
-      "an_dt": "13-Feb-2026 15:19:57",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Shreeji Shipping Global Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHREEJI_13022026151939_MA_REPORT.pdf"
     }
   ]
 }

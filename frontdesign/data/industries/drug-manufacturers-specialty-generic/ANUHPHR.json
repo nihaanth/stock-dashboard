@@ -8,25 +8,9 @@
   "price": 82.68,
   "market_cap_cr": 828.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 81.74,
-      "prev_close": 82.76,
-      "volume": 24873,
-      "deliverable_qty": 15927,
-      "delivery_pct": 64.03
-    },
-    {
-      "date": "2026-02-13",
-      "close": 81.17,
-      "prev_close": 81.74,
-      "volume": 27842,
-      "deliverable_qty": 16767,
-      "delivery_pct": 60.22
-    },
     {
       "date": "2026-02-16",
       "close": 81.08,
@@ -466,6 +450,14 @@
       "volume": 32632,
       "deliverable_qty": 21281,
       "delivery_pct": 65.22
+    },
+    {
+      "date": "2026-05-15",
+      "close": 78.59,
+      "prev_close": 78.98,
+      "volume": 20873,
+      "deliverable_qty": 14877,
+      "delivery_pct": 71.27
     }
   ],
   "news": [
@@ -517,13 +509,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Anuh Pharma Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANUHNSE_18022026163359_Special_Window_for_transfer.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:22:01",
-      "an_dt": "13-Feb-2026 16:22:01",
-      "desc": "Investor Presentation",
-      "sm_name": "Anuh Pharma Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANUHNSE_13022026162146_Intimation_for_investor_presentation.pdf"
     }
   ]
 }

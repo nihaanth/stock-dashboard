@@ -8,25 +8,9 @@
   "price": 974.15,
   "market_cap_cr": 73544.25,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 928.55,
-      "prev_close": 918.85,
-      "volume": 2457834,
-      "deliverable_qty": 907956,
-      "delivery_pct": 36.94
-    },
-    {
-      "date": "2026-02-13",
-      "close": 916.75,
-      "prev_close": 928.55,
-      "volume": 1221319,
-      "deliverable_qty": 606047,
-      "delivery_pct": 49.62
-    },
     {
       "date": "2026-02-16",
       "close": 915.75,
@@ -466,9 +450,24 @@
       "volume": 1066144,
       "deliverable_qty": 518740,
       "delivery_pct": 48.66
+    },
+    {
+      "date": "2026-05-15",
+      "close": 963.65,
+      "prev_close": 970.65,
+      "volume": 736724,
+      "deliverable_qty": 375034,
+      "delivery_pct": 50.91
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:17:04",
+      "an_dt": "15-May-2026 17:17:04",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Fortis Healthcare Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FORTIS_15052026171541_InvestorMeetwithAttachment.pdf"
+    },
     {
       "sort_date": "2026-04-29 13:48:57",
       "an_dt": "29-Apr-2026 13:48:57",
@@ -615,41 +614,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Fortis Healthcare Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FORTIS_14022026133338_iiiiiiiiiiiiiiii.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:59:39",
-      "an_dt": "13-Feb-2026 19:59:39",
-      "desc": "General Updates",
-      "sm_name": "Fortis Healthcare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FORTIS_13022026195926_final.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:17:06",
-      "an_dt": "13-Feb-2026 19:17:06",
-      "desc": "Investor Presentation",
-      "sm_name": "Fortis Healthcare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FORTIS_13022026191655_FINAL.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:13:36",
-      "an_dt": "13-Feb-2026 19:13:36",
-      "desc": "Press Release",
-      "sm_name": "Fortis Healthcare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FORTIS_13022026191312_FINAL.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:52:16",
-      "an_dt": "13-Feb-2026 18:52:16",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Fortis Healthcare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FORTIS_13022026185135_final.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:49:35",
-      "an_dt": "13-Feb-2026 18:49:35",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Fortis Healthcare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FORTIS_13022026184615_final.pdf"
     }
   ]
 }

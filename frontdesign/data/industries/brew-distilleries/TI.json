@@ -8,25 +8,9 @@
   "price": 421.65,
   "market_cap_cr": 10421.96,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 450.15,
-      "prev_close": 453.6,
-      "volume": 185638,
-      "deliverable_qty": 89020,
-      "delivery_pct": 47.95
-    },
-    {
-      "date": "2026-02-13",
-      "close": 450.7,
-      "prev_close": 450.15,
-      "volume": 261780,
-      "deliverable_qty": 124865,
-      "delivery_pct": 47.7
-    },
     {
       "date": "2026-02-16",
       "close": 449.15,
@@ -466,9 +450,31 @@
       "volume": 465336,
       "deliverable_qty": 208710,
       "delivery_pct": 44.85
+    },
+    {
+      "date": "2026-05-15",
+      "close": 431.45,
+      "prev_close": 428.25,
+      "volume": 385812,
+      "deliverable_qty": 180373,
+      "delivery_pct": 46.75
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:56:00",
+      "an_dt": "15-May-2026 17:56:00",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Tilaknagar Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/gthakur_15052026175432_SEINTIMATION-MA.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 12:58:35",
+      "an_dt": "14-May-2026 12:58:35",
+      "desc": "Press Release",
+      "sm_name": "Tilaknagar Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/gthakur_14052026125531_SEINTIMATION_PragExpansion.pdf"
+    },
     {
       "sort_date": "2026-04-24 12:00:26",
       "an_dt": "24-Apr-2026 12:00:26",
@@ -615,41 +621,6 @@
       "desc": "Monitoring Agency Report",
       "sm_name": "Tilaknagar Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/gthakur_14022026151102_TIMAReportintimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:09:35",
-      "an_dt": "13-Feb-2026 19:09:35",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Tilaknagar Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/gthakur_13022026190852_TIAudioIntimation_Feb2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:40:17",
-      "an_dt": "13-Feb-2026 18:40:17",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Tilaknagar Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/gthakur_13022026183953_Intimation_Investor_meet_18022026_draft.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:57:01",
-      "an_dt": "13-Feb-2026 16:57:01",
-      "desc": "Investor Presentation",
-      "sm_name": "Tilaknagar Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/gthakur_13022026165648_TIEarningspresentationQ3.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:52:48",
-      "an_dt": "13-Feb-2026 16:52:48",
-      "desc": "Press Release",
-      "sm_name": "Tilaknagar Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/gthakur_13022026165231_TIPressrelease_Dec2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:48:13",
-      "an_dt": "13-Feb-2026 16:48:13",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Tilaknagar Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/gthakur_13022026164745_TIResultsDec2025_merged.pdf"
     }
   ]
 }

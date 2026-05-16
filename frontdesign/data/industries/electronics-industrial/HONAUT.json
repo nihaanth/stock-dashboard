@@ -8,25 +8,9 @@
   "price": 29340.0,
   "market_cap_cr": 25958.15,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 31865.0,
-      "prev_close": 32220.0,
-      "volume": 2217,
-      "deliverable_qty": 992,
-      "delivery_pct": 44.75
-    },
-    {
-      "date": "2026-02-13",
-      "close": 31375.0,
-      "prev_close": 31865.0,
-      "volume": 3289,
-      "deliverable_qty": 1596,
-      "delivery_pct": 48.53
-    },
     {
       "date": "2026-02-16",
       "close": 31195.0,
@@ -466,6 +450,14 @@
       "volume": 4851,
       "deliverable_qty": 2391,
       "delivery_pct": 49.29
+    },
+    {
+      "date": "2026-05-15",
+      "close": 28975.0,
+      "prev_close": 28720.0,
+      "volume": 2989,
+      "deliverable_qty": 1634,
+      "delivery_pct": 54.67
     }
   ],
   "news": [
@@ -517,13 +509,6 @@
       "desc": "Trading Window",
       "sm_name": "Honeywell Automation India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HONAUT_27032026175027_ClosureOfTradingWindow01042026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:55:19",
-      "an_dt": "12-Feb-2026 13:55:19",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Honeywell Automation India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HONAUT_12022026135451_SEIntimation120226.pdf"
     }
   ]
 }

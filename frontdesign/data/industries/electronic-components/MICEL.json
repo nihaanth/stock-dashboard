@@ -8,25 +8,9 @@
   "price": 52.32,
   "market_cap_cr": 1260.97,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 41.68,
-      "prev_close": 42.45,
-      "volume": 503636,
-      "deliverable_qty": 253592,
-      "delivery_pct": 50.35
-    },
-    {
-      "date": "2026-02-13",
-      "close": 42.1,
-      "prev_close": 41.68,
-      "volume": 1870347,
-      "deliverable_qty": 1325524,
-      "delivery_pct": 70.87
-    },
     {
       "date": "2026-02-16",
       "close": 41.67,
@@ -466,6 +450,14 @@
       "volume": 381079,
       "deliverable_qty": 316640,
       "delivery_pct": 83.09
+    },
+    {
+      "date": "2026-05-15",
+      "close": 44.38,
+      "prev_close": 45.69,
+      "volume": 1222306,
+      "deliverable_qty": 620202,
+      "delivery_pct": 50.74
     }
   ],
   "news": [
@@ -615,13 +607,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "MIC Electronics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MICEL_30032026192347_BM_Outcome_300326_Final.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:28:17",
-      "an_dt": "13-Feb-2026 11:28:17",
-      "desc": "General Updates",
-      "sm_name": "MIC Electronics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MICEL_13022026112809_MOU_Refit.pdf"
     }
   ]
 }

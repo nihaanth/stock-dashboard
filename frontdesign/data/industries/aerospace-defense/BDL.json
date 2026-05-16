@@ -8,25 +8,9 @@
   "price": 1401.3,
   "market_cap_cr": 51366.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1271.6,
-      "prev_close": 1282.6,
-      "volume": 1009251,
-      "deliverable_qty": 235997,
-      "delivery_pct": 23.38
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1243.6,
-      "prev_close": 1271.6,
-      "volume": 1058754,
-      "deliverable_qty": 316227,
-      "delivery_pct": 29.87
-    },
     {
       "date": "2026-02-16",
       "close": 1253.7,
@@ -466,9 +450,24 @@
       "volume": 1009976,
       "deliverable_qty": 277432,
       "delivery_pct": 27.47
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1325.4,
+      "prev_close": 1353.1,
+      "volume": 849999,
+      "deliverable_qty": 189458,
+      "delivery_pct": 22.29
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 14:41:41",
+      "an_dt": "15-May-2026 14:41:41",
+      "desc": "Press Release",
+      "sm_name": "Bharat Dynamics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BDL_15052026144122_BDLMR15052026VizagLand.pdf"
+    },
     {
       "sort_date": "2026-04-30 19:27:31",
       "an_dt": "30-Apr-2026 19:27:31",

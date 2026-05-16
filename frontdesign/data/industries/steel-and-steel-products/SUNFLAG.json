@@ -8,25 +8,9 @@
   "price": 383.5,
   "market_cap_cr": 6911.42,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 253.86,
-      "prev_close": 255.68,
-      "volume": 71305,
-      "deliverable_qty": 36338,
-      "delivery_pct": 50.96
-    },
-    {
-      "date": "2026-02-13",
-      "close": 245.09,
-      "prev_close": 253.86,
-      "volume": 103661,
-      "deliverable_qty": 64320,
-      "delivery_pct": 62.05
-    },
     {
       "date": "2026-02-16",
       "close": 243.66,
@@ -466,9 +450,24 @@
       "volume": 581341,
       "deliverable_qty": 198753,
       "delivery_pct": 34.19
+    },
+    {
+      "date": "2026-05-15",
+      "close": 373.45,
+      "prev_close": 378.1,
+      "volume": 263377,
+      "deliverable_qty": 94398,
+      "delivery_pct": 35.84
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 15:21:23",
+      "an_dt": "15-May-2026 15:21:23",
+      "desc": "General Updates",
+      "sm_name": "Sunflag Iron And Steel Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNFLAG_15052026151509_Regulation30-_Successful__Bidder_-Tambia_South.pdf"
+    },
     {
       "sort_date": "2026-05-06 12:56:30",
       "an_dt": "06-May-2026 12:56:30",
@@ -510,20 +509,6 @@
       "desc": "Trading Window",
       "sm_name": "Sunflag Iron And Steel Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNFLAG_20032026171439_SE_Notice_Clo_Trading_Window_March26.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:51:43",
-      "an_dt": "13-Feb-2026 15:51:43",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Sunflag Iron And Steel Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNFLAG_13022026154335_Outcome_BM_13Feb2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:41:27",
-      "an_dt": "13-Feb-2026 15:41:27",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Sunflag Iron And Steel Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNFLAG_13022026154024_Outcome_BM_13Feb2026.pdf"
     }
   ]
 }

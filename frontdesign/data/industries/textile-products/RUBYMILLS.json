@@ -8,25 +8,9 @@
   "price": 230.69,
   "market_cap_cr": 771.43,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 212.64,
-      "prev_close": 213.64,
-      "volume": 4389,
-      "deliverable_qty": 3346,
-      "delivery_pct": 76.24
-    },
-    {
-      "date": "2026-02-13",
-      "close": 205.66,
-      "prev_close": 212.64,
-      "volume": 15418,
-      "deliverable_qty": 5508,
-      "delivery_pct": 35.72
-    },
     {
       "date": "2026-02-16",
       "close": 205.57,
@@ -466,6 +450,14 @@
       "volume": 7520,
       "deliverable_qty": 5117,
       "delivery_pct": 68.05
+    },
+    {
+      "date": "2026-05-15",
+      "close": 227.84,
+      "prev_close": 230.49,
+      "volume": 5271,
+      "deliverable_qty": 3615,
+      "delivery_pct": 68.58
     }
   ],
   "news": [
@@ -559,13 +551,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "The Ruby Mills Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/COMSEC_16022026170935_Newspaperpublicationsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:30:34",
-      "an_dt": "13-Feb-2026 20:30:34",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "The Ruby Mills Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COMSEC_13022026202657_Outcomeofboardmeetingsigned13022026.pdf"
     }
   ]
 }

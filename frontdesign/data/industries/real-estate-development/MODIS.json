@@ -8,25 +8,9 @@
   "price": 368.6,
   "market_cap_cr": 722.13,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 328.75,
-      "prev_close": 334.05,
-      "volume": 28876,
-      "deliverable_qty": 18201,
-      "delivery_pct": 63.03
-    },
-    {
-      "date": "2026-02-13",
-      "close": 332.1,
-      "prev_close": 328.75,
-      "volume": 5001,
-      "deliverable_qty": 2368,
-      "delivery_pct": 47.35
-    },
     {
       "date": "2026-02-16",
       "close": 334.25,
@@ -466,9 +450,38 @@
       "volume": 184742,
       "deliverable_qty": 105198,
       "delivery_pct": 56.94
+    },
+    {
+      "date": "2026-05-15",
+      "close": 362.8,
+      "prev_close": 363.55,
+      "volume": 70298,
+      "deliverable_qty": 42032,
+      "delivery_pct": 59.79
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:22:45",
+      "an_dt": "15-May-2026 19:22:45",
+      "desc": "Investor Presentation",
+      "sm_name": "Modis Navnirman Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MODIS_15052026192146_Investor_Presentation_Q4_FY26_Output.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 19:19:55",
+      "an_dt": "15-May-2026 19:19:55",
+      "desc": "Press Release",
+      "sm_name": "Modis Navnirman Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MODIS_15052026191930_Media_Release_with_Covering_letter_V1-output.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 13:46:31",
+      "an_dt": "15-May-2026 13:46:31",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Modis Navnirman Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MODIS_15052026134109_Outcome_of_the_Board_Meeting_15052026_with_Financials_output.pdf"
+    },
     {
       "sort_date": "2026-05-12 12:45:12",
       "an_dt": "12-May-2026 12:45:12",
@@ -580,20 +593,6 @@
       "desc": "Investor Presentation",
       "sm_name": "Modis Navnirman Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MODIS_14022026171857_Investor_Presentation_9M_FY26_with_cl-output.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:34:28",
-      "an_dt": "13-Feb-2026 18:34:28",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Modis Navnirman Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MODIS_13022026183259_2025-26_7th_BM_Outcome_with_Financials-new-output.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:02:36",
-      "an_dt": "13-Feb-2026 11:02:36",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Modis Navnirman Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MODIS_13022026110212_Concall.pdf"
     }
   ]
 }

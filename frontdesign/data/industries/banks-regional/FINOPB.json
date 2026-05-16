@@ -8,25 +8,9 @@
   "price": 132.81,
   "market_cap_cr": 1105.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 226.13,
-      "prev_close": 227.54,
-      "volume": 92336,
-      "deliverable_qty": 43530,
-      "delivery_pct": 47.14
-    },
-    {
-      "date": "2026-02-13",
-      "close": 218.44,
-      "prev_close": 226.13,
-      "volume": 160930,
-      "deliverable_qty": 108897,
-      "delivery_pct": 67.67
-    },
     {
       "date": "2026-02-16",
       "close": 214.83,
@@ -466,6 +450,14 @@
       "volume": 154004,
       "deliverable_qty": 91377,
       "delivery_pct": 59.33
+    },
+    {
+      "date": "2026-05-15",
+      "close": 119.27,
+      "prev_close": 122.82,
+      "volume": 220575,
+      "deliverable_qty": 99873,
+      "delivery_pct": 45.28
     }
   ],
   "news": [
@@ -846,13 +838,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Fino Payments Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINOPB_18022026150339_Bandhan_AMC.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:39:07",
-      "an_dt": "12-Feb-2026 18:39:07",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Fino Payments Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINOPB_12022026183837_Cover_Dolat.pdf"
     }
   ]
 }

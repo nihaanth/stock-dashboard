@@ -8,25 +8,9 @@
   "price": 509.25,
   "market_cap_cr": 11985.75,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 592.1,
-      "prev_close": 595.15,
-      "volume": 138682,
-      "deliverable_qty": 59910,
-      "delivery_pct": 43.2
-    },
-    {
-      "date": "2026-02-13",
-      "close": 598.0,
-      "prev_close": 592.1,
-      "volume": 467092,
-      "deliverable_qty": 210659,
-      "delivery_pct": 45.1
-    },
     {
       "date": "2026-02-16",
       "close": 595.15,
@@ -466,9 +450,24 @@
       "volume": 287425,
       "deliverable_qty": 180826,
       "delivery_pct": 62.91
+    },
+    {
+      "date": "2026-05-15",
+      "close": 525.2,
+      "prev_close": 508.4,
+      "volume": 427204,
+      "deliverable_qty": 202175,
+      "delivery_pct": 47.33
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:40:43",
+      "an_dt": "14-May-2026 17:40:43",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Minda Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MINDACORP_14052026173152_conferencecallnsebsefinal.pdf"
+    },
     {
       "sort_date": "2026-05-12 17:08:00",
       "an_dt": "12-May-2026 17:08:00",
@@ -538,20 +537,6 @@
       "desc": "General Updates",
       "sm_name": "Minda Corporation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MINDACORP_09032026202109_NSEBSE.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:51:26",
-      "an_dt": "13-Feb-2026 11:51:26",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Minda Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MINDACORP_13022026115054_Intimation_for_dispatch_of_Notice_sdd.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:00:10",
-      "an_dt": "12-Feb-2026 13:00:10",
-      "desc": "Updates",
-      "sm_name": "Minda Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MINDACORP_12022026125835_NSEBSE.pdf"
     }
   ]
 }

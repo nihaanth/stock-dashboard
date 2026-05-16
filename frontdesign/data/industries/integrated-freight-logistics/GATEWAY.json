@@ -8,25 +8,9 @@
   "price": 58.19,
   "market_cap_cr": 2907.43,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 60.57,
-      "prev_close": 64.07,
-      "volume": 1604810,
-      "deliverable_qty": 896774,
-      "delivery_pct": 55.88
-    },
-    {
-      "date": "2026-02-13",
-      "close": 58.84,
-      "prev_close": 60.57,
-      "volume": 876386,
-      "deliverable_qty": 439894,
-      "delivery_pct": 50.19
-    },
     {
       "date": "2026-02-16",
       "close": 58.45,
@@ -466,9 +450,24 @@
       "volume": 662110,
       "deliverable_qty": 348288,
       "delivery_pct": 52.6
+    },
+    {
+      "date": "2026-05-15",
+      "close": 56.58,
+      "prev_close": 56.9,
+      "volume": 499470,
+      "deliverable_qty": 255828,
+      "delivery_pct": 51.22
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 11:43:58",
+      "an_dt": "14-May-2026 11:43:58",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Gateway Distriparks Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GATEWAY_14052026114013_IntimationGS.pdf"
+    },
     {
       "sort_date": "2026-05-13 18:08:12",
       "an_dt": "13-May-2026 18:08:12",
@@ -573,20 +572,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Gateway Distriparks Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GATEWAY_05032026172935_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:23:37",
-      "an_dt": "12-Feb-2026 16:23:37",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Gateway Distriparks Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GATEWAY_12022026162328_INTIMATION.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:15:50",
-      "an_dt": "12-Feb-2026 16:15:50",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Gateway Distriparks Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GATEWAY_12022026160718_Transcript.pdf"
     }
   ]
 }

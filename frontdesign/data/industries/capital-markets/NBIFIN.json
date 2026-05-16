@@ -8,25 +8,9 @@
   "price": 2053.3,
   "market_cap_cr": 606.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1970.0,
-      "prev_close": 1980.3,
-      "volume": 261,
-      "deliverable_qty": 248,
-      "delivery_pct": 95.02
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1957.5,
-      "prev_close": 1970.0,
-      "volume": 121,
-      "deliverable_qty": 120,
-      "delivery_pct": 99.17
-    },
     {
       "date": "2026-02-16",
       "close": 1965.6,
@@ -466,9 +450,24 @@
       "volume": 995,
       "deliverable_qty": 616,
       "delivery_pct": 61.91
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1945.0,
+      "prev_close": 1936.0,
+      "volume": 272,
+      "deliverable_qty": 257,
+      "delivery_pct": 94.49
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 12:55:00",
+      "an_dt": "14-May-2026 12:55:00",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "N. B. I. Industrial Finance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NBIFIN_14052026125452_NBI_March26_publish.pdf"
+    },
     {
       "sort_date": "2026-05-13 16:32:18",
       "an_dt": "13-May-2026 16:32:18",

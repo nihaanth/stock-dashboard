@@ -8,25 +8,9 @@
   "price": 1177.0,
   "market_cap_cr": 476332.79,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1386.0,
-      "prev_close": 1471.9,
-      "volume": 26048896,
-      "deliverable_qty": 14378387,
-      "delivery_pct": 55.2
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1369.1,
-      "prev_close": 1386.0,
-      "volume": 45785709,
-      "deliverable_qty": 20879125,
-      "delivery_pct": 45.6
-    },
     {
       "date": "2026-02-16",
       "close": 1365.6,
@@ -466,9 +450,24 @@
       "volume": 6664111,
       "deliverable_qty": 3533941,
       "delivery_pct": 53.03
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1119.0,
+      "prev_close": 1095.0,
+      "volume": 17482450,
+      "deliverable_qty": 10852181,
+      "delivery_pct": 62.07
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 22:12:02",
+      "an_dt": "15-May-2026 22:12:02",
+      "desc": "Updates",
+      "sm_name": "Infosys Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INFY_15052026221137_SEfiling_Investorconference_15052026.pdf"
+    },
     {
       "sort_date": "2026-05-11 20:44:05",
       "an_dt": "11-May-2026 20:44:05",
@@ -986,27 +985,6 @@
       "desc": "Updates",
       "sm_name": "Infosys Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Infosys_17022026092732_PR_17022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 22:58:50",
-      "an_dt": "13-Feb-2026 22:58:50",
-      "desc": "General Updates",
-      "sm_name": "Infosys Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Infosys_13022026225816_SE_Filing_Reg30_13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 20:13:04",
-      "an_dt": "12-Feb-2026 20:13:04",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Infosys Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Infosys_12022026201255_SEintimation_Newspaperad_12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:31:28",
-      "an_dt": "12-Feb-2026 15:31:28",
-      "desc": "Updates",
-      "sm_name": "Infosys Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Infosys_12022026153113_PR_12022026.pdf"
     }
   ]
 }

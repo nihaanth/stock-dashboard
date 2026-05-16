@@ -8,25 +8,9 @@
   "price": 501.25,
   "market_cap_cr": 7780.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 539.7,
-      "prev_close": 544.35,
-      "volume": 153392,
-      "deliverable_qty": 33768,
-      "delivery_pct": 22.01
-    },
-    {
-      "date": "2026-02-13",
-      "close": 521.8,
-      "prev_close": 539.7,
-      "volume": 99933,
-      "deliverable_qty": 31303,
-      "delivery_pct": 31.32
-    },
     {
       "date": "2026-02-16",
       "close": 514.8,
@@ -466,9 +450,38 @@
       "volume": 226685,
       "deliverable_qty": 98978,
       "delivery_pct": 43.66
+    },
+    {
+      "date": "2026-05-15",
+      "close": 473.2,
+      "prev_close": 467.7,
+      "volume": 54873,
+      "deliverable_qty": 18076,
+      "delivery_pct": 32.94
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 16:13:34",
+      "an_dt": "14-May-2026 16:13:34",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "WESTLIFE FOODWORLD LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RadhaWestlife_14052026161317_InvestorMeet_Bank_of_Americas_flagship_India_conference.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 16:11:54",
+      "an_dt": "14-May-2026 16:11:54",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "WESTLIFE FOODWORLD LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RadhaWestlife_14052026161127_InvestorMeet_Axis_Capitals_Rising_Stars_Conference.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 16:08:12",
+      "an_dt": "14-May-2026 16:08:12",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "WESTLIFE FOODWORLD LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RadhaWestlife_14052026160528_InvestorMeet_360_One_Capital.pdf"
+    },
     {
       "sort_date": "2026-05-11 15:18:12",
       "an_dt": "11-May-2026 15:18:12",

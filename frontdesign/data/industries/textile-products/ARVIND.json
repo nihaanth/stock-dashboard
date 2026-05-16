@@ -8,25 +8,9 @@
   "price": 440.85,
   "market_cap_cr": 11555.32,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 366.15,
-      "prev_close": 359.0,
-      "volume": 809483,
-      "deliverable_qty": 294476,
-      "delivery_pct": 36.38
-    },
-    {
-      "date": "2026-02-13",
-      "close": 385.1,
-      "prev_close": 366.15,
-      "volume": 2178374,
-      "deliverable_qty": 718099,
-      "delivery_pct": 32.96
-    },
     {
       "date": "2026-02-16",
       "close": 376.45,
@@ -466,9 +450,45 @@
       "volume": 542814,
       "deliverable_qty": 205634,
       "delivery_pct": 37.88
+    },
+    {
+      "date": "2026-05-15",
+      "close": 451.1,
+      "prev_close": 439.0,
+      "volume": 896654,
+      "deliverable_qty": 301142,
+      "delivery_pct": 33.59
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:53:54",
+      "an_dt": "15-May-2026 19:53:54",
+      "desc": "Press Release",
+      "sm_name": "Arvind Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARVIND1_15052026195346_Arvind.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 19:51:03",
+      "an_dt": "15-May-2026 19:51:03",
+      "desc": "Investor Presentation",
+      "sm_name": "Arvind Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARVIND1_15052026195054_Arvind.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 19:44:31",
+      "an_dt": "15-May-2026 19:44:31",
+      "desc": "Dividend",
+      "sm_name": "Arvind Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARVIND1_15052026194419_SE_Disclosure_for_Dividend_BM_150526.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 19:30:51",
+      "an_dt": "15-May-2026 19:30:51",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Arvind Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARVIND1_15052026193026_Arvind.pdf"
+    },
     {
       "sort_date": "2026-05-11 18:29:30",
       "an_dt": "11-May-2026 18:29:30",
@@ -629,13 +649,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Arvind Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARVIND1_20022026150327_Arvindsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 12:25:20",
-      "an_dt": "13-Feb-2026 12:25:20",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Arvind Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARVIND1_13022026122453_Arvind.pdf"
     }
   ]
 }

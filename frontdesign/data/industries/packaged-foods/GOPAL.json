@@ -8,25 +8,9 @@
   "price": 324.85,
   "market_cap_cr": 4049.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 303.1,
-      "prev_close": 306.25,
-      "volume": 46934,
-      "deliverable_qty": 24125,
-      "delivery_pct": 51.4
-    },
-    {
-      "date": "2026-02-13",
-      "close": 299.45,
-      "prev_close": 303.1,
-      "volume": 51687,
-      "deliverable_qty": 22964,
-      "delivery_pct": 44.43
-    },
     {
       "date": "2026-02-16",
       "close": 309.0,
@@ -466,9 +450,31 @@
       "volume": 862157,
       "deliverable_qty": 310907,
       "delivery_pct": 36.06
+    },
+    {
+      "date": "2026-05-15",
+      "close": 290.65,
+      "prev_close": 298.9,
+      "volume": 125304,
+      "deliverable_qty": 44200,
+      "delivery_pct": 35.27
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 18:13:40",
+      "an_dt": "14-May-2026 18:13:40",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Gopal Snacks Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOPALSNACKS_14052026181324_IntimationIM.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 12:17:00",
+      "an_dt": "14-May-2026 12:17:00",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Gopal Snacks Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOPALSNACKS_14052026121649_GSLNPQ426.pdf"
+    },
     {
       "sort_date": "2026-05-13 15:35:24",
       "an_dt": "13-May-2026 15:35:24",
@@ -601,13 +607,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Gopal Snacks Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOPALSNACKS_17022026102500_IntimationIM.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:24:24",
-      "an_dt": "12-Feb-2026 18:24:24",
-      "desc": "General Updates",
-      "sm_name": "Gopal Snacks Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOPALSNACKS_12022026182413_GSTupdate12022026.pdf"
     }
   ]
 }

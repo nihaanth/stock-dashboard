@@ -8,25 +8,9 @@
   "price": 56.61,
   "market_cap_cr": 1069.43,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 65.23,
-      "prev_close": 66.26,
-      "volume": 1074821,
-      "deliverable_qty": 252163,
-      "delivery_pct": 23.46
-    },
-    {
-      "date": "2026-02-13",
-      "close": 63.08,
-      "prev_close": 65.23,
-      "volume": 474477,
-      "deliverable_qty": 159604,
-      "delivery_pct": 33.64
-    },
     {
       "date": "2026-02-16",
       "close": 61.82,
@@ -466,6 +450,14 @@
       "volume": 549307,
       "deliverable_qty": 193769,
       "delivery_pct": 35.28
+    },
+    {
+      "date": "2026-05-15",
+      "close": 57.45,
+      "prev_close": 58.42,
+      "volume": 210468,
+      "deliverable_qty": 105691,
+      "delivery_pct": 50.22
     }
   ],
   "news": [
@@ -510,13 +502,6 @@
       "desc": "Trading Window",
       "sm_name": "Roto Pumps Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ROTO_31032026191544_Closure_of_trading_window_Q4_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:15:05",
-      "an_dt": "12-Feb-2026 19:15:05",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Roto Pumps Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ROTO_12022026191204_SE_Intimation_Newspaper_results_Signed.pdf"
     }
   ]
 }

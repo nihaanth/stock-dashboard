@@ -8,25 +8,9 @@
   "price": 655.65,
   "market_cap_cr": 1018.63,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 573.5,
-      "prev_close": 568.2,
-      "volume": 15761,
-      "deliverable_qty": 9009,
-      "delivery_pct": 57.16
-    },
-    {
-      "date": "2026-02-13",
-      "close": 534.9,
-      "prev_close": 573.5,
-      "volume": 48839,
-      "deliverable_qty": 20648,
-      "delivery_pct": 42.28
-    },
     {
       "date": "2026-02-16",
       "close": 539.45,
@@ -466,9 +450,24 @@
       "volume": 17876,
       "deliverable_qty": 9474,
       "delivery_pct": 53.0
+    },
+    {
+      "date": "2026-05-15",
+      "close": 616.2,
+      "prev_close": 626.35,
+      "volume": 14153,
+      "deliverable_qty": 6506,
+      "delivery_pct": 45.97
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 20:11:15",
+      "an_dt": "15-May-2026 20:11:15",
+      "desc": "Change in Management",
+      "sm_name": "Swelect Energy Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SWELECTES_15052026201046_SE_Intimation_SMP_Retirement_Final_Sd.pdf"
+    },
     {
       "sort_date": "2026-05-02 22:05:04",
       "an_dt": "02-May-2026 22:05:04",
@@ -580,20 +579,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Swelect Energy Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SWELECTES_14022026133209_SE_Intimation_newspaper_UFR_Final_Upload.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:54:47",
-      "an_dt": "13-Feb-2026 21:54:47",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Swelect Energy Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SWELECTES_13022026215433_SE_outcome_UFR31122025_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:48:28",
-      "an_dt": "13-Feb-2026 21:48:28",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Swelect Energy Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SWELECTES_13022026213846_SE_outcome_UFR31122025_signed.pdf"
     }
   ]
 }

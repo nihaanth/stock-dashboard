@@ -8,25 +8,9 @@
   "price": 326.65,
   "market_cap_cr": 12013.69,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 337.6,
-      "prev_close": 342.1,
-      "volume": 111913,
-      "deliverable_qty": 49816,
-      "delivery_pct": 44.51
-    },
-    {
-      "date": "2026-02-13",
-      "close": 332.25,
-      "prev_close": 337.6,
-      "volume": 116290,
-      "deliverable_qty": 47373,
-      "delivery_pct": 40.74
-    },
     {
       "date": "2026-02-16",
       "close": 326.3,
@@ -466,6 +450,14 @@
       "volume": 946940,
       "deliverable_qty": 221045,
       "delivery_pct": 23.34
+    },
+    {
+      "date": "2026-05-15",
+      "close": 336.5,
+      "prev_close": 330.8,
+      "volume": 1360286,
+      "deliverable_qty": 743594,
+      "delivery_pct": 54.66
     }
   ],
   "news": [
@@ -636,13 +628,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Afcons Infrastructure Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_16022026150506_Afcons_Intimation_Transcript_of_Earnings_Call.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 10:57:35",
-      "an_dt": "12-Feb-2026 10:57:35",
-      "desc": "General Updates",
-      "sm_name": "Afcons Infrastructure Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_12022026105720_Afcons_Intimationofsubmissionofapplication.pdf"
     }
   ]
 }

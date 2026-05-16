@@ -8,25 +8,9 @@
   "price": 2201.2,
   "market_cap_cr": 42002.65,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 2464.0,
-      "prev_close": 2588.2,
-      "volume": 1136104,
-      "deliverable_qty": 572177,
-      "delivery_pct": 50.36
-    },
-    {
-      "date": "2026-02-13",
-      "close": 2458.4,
-      "prev_close": 2464.0,
-      "volume": 1725163,
-      "deliverable_qty": 993948,
-      "delivery_pct": 57.61
-    },
     {
       "date": "2026-02-16",
       "close": 2461.5,
@@ -466,9 +450,24 @@
       "volume": 314728,
       "deliverable_qty": 153136,
       "delivery_pct": 48.66
+    },
+    {
+      "date": "2026-05-15",
+      "close": 2083.2,
+      "prev_close": 2115.1,
+      "volume": 432690,
+      "deliverable_qty": 128384,
+      "delivery_pct": 29.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:19:03",
+      "an_dt": "14-May-2026 17:19:03",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "MphasiS Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MPHASIS_14052026171837_MphasisLtd_Reg30_14May2026_sd.pdf"
+    },
     {
       "sort_date": "2026-05-11 08:21:00",
       "an_dt": "11-May-2026 08:21:00",

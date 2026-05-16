@@ -8,25 +8,9 @@
   "price": 77.66,
   "market_cap_cr": 78009.74,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 76.5,
-      "prev_close": 77.58,
-      "volume": 13309440,
-      "deliverable_qty": 8467584,
-      "delivery_pct": 63.62
-    },
-    {
-      "date": "2026-02-13",
-      "close": 75.47,
-      "prev_close": 76.5,
-      "volume": 10066742,
-      "deliverable_qty": 5334163,
-      "delivery_pct": 52.99
-    },
     {
       "date": "2026-02-16",
       "close": 77.04,
@@ -466,9 +450,52 @@
       "volume": 11438834,
       "deliverable_qty": 4803436,
       "delivery_pct": 41.99
+    },
+    {
+      "date": "2026-05-15",
+      "close": 76.79,
+      "prev_close": 78.45,
+      "volume": 8674290,
+      "deliverable_qty": 3361004,
+      "delivery_pct": 38.75
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 21:17:56",
+      "an_dt": "15-May-2026 21:17:56",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "NHPC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NHPC_15052026211645_STX_ResultsFY202546_Outcome_BM15052026_.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 21:14:53",
+      "an_dt": "15-May-2026 21:14:53",
+      "desc": "Dividend",
+      "sm_name": "NHPC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NHPC_15052026211341_STX_ResultsFY202546_Outcome_BM15052026_.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 21:11:27",
+      "an_dt": "15-May-2026 21:11:27",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "NHPC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NHPC_15052026210922_STX_ResultsFY202546_Outcome_BM15052026_.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 09:53:17",
+      "an_dt": "15-May-2026 09:53:17",
+      "desc": "Change in Director(s)",
+      "sm_name": "NHPC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NHPC_15052026095259_STX_appointment_Govt_ND_.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 16:17:56",
+      "an_dt": "14-May-2026 16:17:56",
+      "desc": "General Updates",
+      "sm_name": "NHPC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NHPC_14052026161734_STX_update_Change_Govt_ND_.pdf"
+    },
     {
       "sort_date": "2026-05-13 18:02:47",
       "an_dt": "13-May-2026 18:02:47",
@@ -636,13 +663,6 @@
       "desc": "General Updates",
       "sm_name": "NHPC Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NHPC_14022026184858_STX_ESG_Rating.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:36:59",
-      "an_dt": "12-Feb-2026 18:36:59",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "NHPC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NHPC_12022026183633_STX_Transcript_Concall_12022026.pdf"
     }
   ]
 }

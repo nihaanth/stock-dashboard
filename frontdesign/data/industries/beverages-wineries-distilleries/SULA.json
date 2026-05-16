@@ -8,25 +8,9 @@
   "price": 172.47,
   "market_cap_cr": 1456.46,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 181.26,
-      "prev_close": 183.98,
-      "volume": 434178,
-      "deliverable_qty": 244086,
-      "delivery_pct": 56.22
-    },
-    {
-      "date": "2026-02-13",
-      "close": 178.68,
-      "prev_close": 181.26,
-      "volume": 261898,
-      "deliverable_qty": 126532,
-      "delivery_pct": 48.31
-    },
     {
       "date": "2026-02-16",
       "close": 176.32,
@@ -466,6 +450,14 @@
       "volume": 304341,
       "deliverable_qty": 121208,
       "delivery_pct": 39.83
+    },
+    {
+      "date": "2026-05-15",
+      "close": 160.23,
+      "prev_close": 162.97,
+      "volume": 243953,
+      "deliverable_qty": 133599,
+      "delivery_pct": 54.76
     }
   ],
   "news": [
@@ -573,13 +565,6 @@
       "desc": "General Updates",
       "sm_name": "Sula Vineyards Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SULA_20032026182509_Reg_30_-_update_on_RS_reappointment.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:28:44",
-      "an_dt": "13-Feb-2026 15:28:44",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Sula Vineyards Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SULA_13022026152818_SE_intimation_transcript.pdf"
     }
   ]
 }

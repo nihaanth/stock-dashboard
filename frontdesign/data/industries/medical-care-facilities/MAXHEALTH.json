@@ -8,25 +8,9 @@
   "price": 1037.95,
   "market_cap_cr": 101017.83,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1062.9,
-      "prev_close": 1055.15,
-      "volume": 3354447,
-      "deliverable_qty": 2221188,
-      "delivery_pct": 66.22
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1053.6,
-      "prev_close": 1062.9,
-      "volume": 2745794,
-      "deliverable_qty": 1738664,
-      "delivery_pct": 63.32
-    },
     {
       "date": "2026-02-16",
       "close": 1075.85,
@@ -466,9 +450,31 @@
       "volume": 1056295,
       "deliverable_qty": 541785,
       "delivery_pct": 51.29
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1050.1,
+      "prev_close": 1049.55,
+      "volume": 1471140,
+      "deliverable_qty": 855187,
+      "delivery_pct": 58.13
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 12:08:45",
+      "an_dt": "15-May-2026 12:08:45",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Max Healthcare Institute Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAXHEALTH_15052026120752_SE_Intimation_Earnings_Call.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 21:35:21",
+      "an_dt": "14-May-2026 21:35:21",
+      "desc": "Shareholders meeting",
+      "sm_name": "Max Healthcare Institute Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAXHEALTH_14052026213356_SE_Intimation_Minutes_Postal_Ballot.pdf"
+    },
     {
       "sort_date": "2026-05-13 13:18:14",
       "an_dt": "13-May-2026 13:18:14",
@@ -601,13 +607,6 @@
       "desc": "Investor Presentation",
       "sm_name": "Max Healthcare Institute Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAXHEALTH_20022026190152_SE_Intimation_Investor_Presentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 22:29:17",
-      "an_dt": "12-Feb-2026 22:29:17",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Max Healthcare Institute Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAXHEALTH_12022026222827_SE_Intimation_Earnings_Call_Transcript.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 115.51,
   "market_cap_cr": 10941.82,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 125.41,
-      "prev_close": 125.16,
-      "volume": 9837629,
-      "deliverable_qty": 2997957,
-      "delivery_pct": 30.47
-    },
-    {
-      "date": "2026-02-13",
-      "close": 122.44,
-      "prev_close": 125.41,
-      "volume": 5899922,
-      "deliverable_qty": 1986070,
-      "delivery_pct": 33.66
-    },
     {
       "date": "2026-02-16",
       "close": 120.37,
@@ -466,9 +450,24 @@
       "volume": 3462373,
       "deliverable_qty": 1262234,
       "delivery_pct": 36.46
+    },
+    {
+      "date": "2026-05-15",
+      "close": 113.39,
+      "prev_close": 115.84,
+      "volume": 2685295,
+      "deliverable_qty": 1393207,
+      "delivery_pct": 51.88
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:57:00",
+      "an_dt": "15-May-2026 17:57:00",
+      "desc": "Shareholders meeting",
+      "sm_name": "Edelweiss Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EDELWEISS_15052026175639_ExchangeIntimation.pdf"
+    },
     {
       "sort_date": "2026-05-06 16:38:57",
       "an_dt": "06-May-2026 16:38:57",
@@ -615,13 +614,6 @@
       "desc": "Updates",
       "sm_name": "Edelweiss Financial Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EDELWEISS_24022026010837_ExchangeIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:26:34",
-      "an_dt": "12-Feb-2026 15:26:34",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Edelweiss Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EDELWEISS_12022026152613_Transcript.pdf"
     }
   ]
 }

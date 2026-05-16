@@ -8,25 +8,9 @@
   "price": 349.55,
   "market_cap_cr": 7562.13,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 386.3,
-      "prev_close": 409.5,
-      "volume": 1551603,
-      "deliverable_qty": 448679,
-      "delivery_pct": 28.92
-    },
-    {
-      "date": "2026-02-13",
-      "close": 377.05,
-      "prev_close": 386.3,
-      "volume": 605877,
-      "deliverable_qty": 214131,
-      "delivery_pct": 35.34
-    },
     {
       "date": "2026-02-16",
       "close": 381.5,
@@ -466,9 +450,24 @@
       "volume": 147209,
       "deliverable_qty": 83314,
       "delivery_pct": 56.6
+    },
+    {
+      "date": "2026-05-15",
+      "close": 404.5,
+      "prev_close": 401.55,
+      "volume": 42781,
+      "deliverable_qty": 25250,
+      "delivery_pct": 59.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 12:09:54",
+      "an_dt": "15-May-2026 12:09:54",
+      "desc": "Action(s) taken or orders passed",
+      "sm_name": "Amagi Media Labs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMAGI_15052026120937_OrderbyIncomeTax.pdf"
+    },
     {
       "sort_date": "2026-05-13 14:51:29",
       "an_dt": "13-May-2026 14:51:29",
@@ -650,20 +649,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Amagi Media Labs Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMAGI_18022026155217_EarningsCallTranscript.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:45:42",
-      "an_dt": "12-Feb-2026 15:45:42",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Amagi Media Labs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMAGI_12022026154401_Audiorecording.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:45:42",
-      "an_dt": "12-Feb-2026 15:45:42",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Amagi Media Labs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMAGI_12022026154205_NewspaperAd.pdf"
     }
   ]
 }

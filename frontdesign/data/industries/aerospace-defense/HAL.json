@@ -8,25 +8,9 @@
   "price": 4756.3,
   "market_cap_cr": 318089.44,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 4158.9,
-      "prev_close": 4133.0,
-      "volume": 2759493,
-      "deliverable_qty": 778846,
-      "delivery_pct": 28.22
-    },
-    {
-      "date": "2026-02-13",
-      "close": 4212.4,
-      "prev_close": 4158.9,
-      "volume": 3532180,
-      "deliverable_qty": 894010,
-      "delivery_pct": 25.31
-    },
     {
       "date": "2026-02-16",
       "close": 4226.1,
@@ -466,9 +450,31 @@
       "volume": 1092960,
       "deliverable_qty": 382592,
       "delivery_pct": 35.01
+    },
+    {
+      "date": "2026-05-15",
+      "close": 4386.2,
+      "prev_close": 4608.0,
+      "volume": 2201976,
+      "deliverable_qty": 805539,
+      "delivery_pct": 36.58
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:50:08",
+      "an_dt": "15-May-2026 17:50:08",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Hindustan Aeronautics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HAL_15052026174321_ConferenceCall_15052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 12:45:14",
+      "an_dt": "14-May-2026 12:45:14",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Hindustan Aeronautics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HAL_14052026124453_financialresults_Mar26_.pdf"
+    },
     {
       "sort_date": "2026-05-11 16:47:06",
       "an_dt": "11-May-2026 16:47:06",
@@ -573,41 +579,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Hindustan Aeronautics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HAL_18022026162432_InvestorsMeet_23022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 09:44:12",
-      "an_dt": "13-Feb-2026 09:44:12",
-      "desc": "Updates",
-      "sm_name": "Hindustan Aeronautics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HAL_13022026094317_newsclarification_13022026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:33:18",
-      "an_dt": "12-Feb-2026 18:33:18",
-      "desc": "General Updates",
-      "sm_name": "Hindustan Aeronautics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HAL_12022026183025_PIB_Dornier_12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:24:40",
-      "an_dt": "12-Feb-2026 13:24:40",
-      "desc": "Record Date",
-      "sm_name": "Hindustan Aeronautics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HAL_12022026132424_FinancialResults_31122025.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:23:13",
-      "an_dt": "12-Feb-2026 13:23:13",
-      "desc": "Dividend",
-      "sm_name": "Hindustan Aeronautics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HAL_12022026132200_FinancialResults_31122025.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:19:41",
-      "an_dt": "12-Feb-2026 13:19:41",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Hindustan Aeronautics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HAL_12022026131810_FinancialResults_31122025.pdf"
     }
   ]
 }

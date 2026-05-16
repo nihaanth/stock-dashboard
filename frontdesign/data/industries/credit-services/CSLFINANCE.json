@@ -8,25 +8,9 @@
   "price": 232.77,
   "market_cap_cr": 523.44,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 262.7,
-      "prev_close": 262.1,
-      "volume": 11058,
-      "deliverable_qty": 6587,
-      "delivery_pct": 59.57
-    },
-    {
-      "date": "2026-02-13",
-      "close": 259.0,
-      "prev_close": 262.7,
-      "volume": 11376,
-      "deliverable_qty": 8093,
-      "delivery_pct": 71.14
-    },
     {
       "date": "2026-02-16",
       "close": 249.95,
@@ -466,6 +450,14 @@
       "volume": 14790,
       "deliverable_qty": 6790,
       "delivery_pct": 45.91
+    },
+    {
+      "date": "2026-05-15",
+      "close": 230.02,
+      "prev_close": 229.19,
+      "volume": 11769,
+      "deliverable_qty": 9233,
+      "delivery_pct": 78.45
     }
   ],
   "news": [
@@ -566,34 +558,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "CSL Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CSLFINANCELIMITED_14022026204413_Finalcoverletter.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:25:09",
-      "an_dt": "13-Feb-2026 16:25:09",
-      "desc": "Investor Presentation",
-      "sm_name": "CSL Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CSLFINANCELIMITED_13022026162458_PPTFINAL.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:10:43",
-      "an_dt": "13-Feb-2026 16:10:43",
-      "desc": "Change in Auditors",
-      "sm_name": "CSL Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CSLFINANCELIMITED_13022026161033_OUTCOMEFINAL.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:00:57",
-      "an_dt": "13-Feb-2026 16:00:57",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "CSL Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CSLFINANCELIMITED_13022026155912_OUTCOMEFINAL.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:43:24",
-      "an_dt": "13-Feb-2026 15:43:24",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "CSL Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CSLFINANCELIMITED_13022026154023_OUTCOMEFINAL.pdf"
     }
   ]
 }

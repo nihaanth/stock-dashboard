@@ -8,25 +8,9 @@
   "price": 282.75,
   "market_cap_cr": 3619.71,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 268.28,
-      "prev_close": 265.27,
-      "volume": 752311,
-      "deliverable_qty": 422840,
-      "delivery_pct": 56.21
-    },
-    {
-      "date": "2026-02-13",
-      "close": 268.82,
-      "prev_close": 268.28,
-      "volume": 465791,
-      "deliverable_qty": 246135,
-      "delivery_pct": 52.84
-    },
     {
       "date": "2026-02-16",
       "close": 262.61,
@@ -466,9 +450,31 @@
       "volume": 270348,
       "deliverable_qty": 110082,
       "delivery_pct": 40.72
+    },
+    {
+      "date": "2026-05-15",
+      "close": 269.3,
+      "prev_close": 273.1,
+      "volume": 539106,
+      "deliverable_qty": 199572,
+      "delivery_pct": 37.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:17:46",
+      "an_dt": "15-May-2026 19:17:46",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Indo Thai Securities Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDOTHAI_15052026191736_Disclosure_Reg32_31032026.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 19:14:08",
+      "an_dt": "15-May-2026 19:14:08",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Indo Thai Securities Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDOTHAI_15052026191353_Outcome_15052026.pdf"
+    },
     {
       "sort_date": "2026-05-08 16:51:45",
       "an_dt": "08-May-2026 16:51:45",
@@ -545,20 +551,6 @@
       "desc": "Adoption of new line(s) of business",
       "sm_name": "Indo Thai Securities Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDOTHAI_16022026163408_Disclosure16022026_newlineofbuiness.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:07:34",
-      "an_dt": "12-Feb-2026 19:07:34",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Indo Thai Securities Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDOTHAI_12022026190548_Outcome_12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:02:49",
-      "an_dt": "12-Feb-2026 19:02:49",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Indo Thai Securities Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDOTHAI_12022026190211_Outcome_12022026.pdf"
     }
   ]
 }

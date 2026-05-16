@@ -8,25 +8,9 @@
   "price": 1914.4,
   "market_cap_cr": 192031.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 2022.1,
-      "prev_close": 2026.3,
-      "volume": 426707,
-      "deliverable_qty": 200546,
-      "delivery_pct": 47.0
-    },
-    {
-      "date": "2026-02-13",
-      "close": 2034.2,
-      "prev_close": 2022.1,
-      "volume": 1240712,
-      "deliverable_qty": 619787,
-      "delivery_pct": 49.95
-    },
     {
       "date": "2026-02-16",
       "close": 2042.4,
@@ -466,9 +450,24 @@
       "volume": 853301,
       "deliverable_qty": 500887,
       "delivery_pct": 58.7
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1864.5,
+      "prev_close": 1866.7,
+      "volume": 851184,
+      "deliverable_qty": 545987,
+      "delivery_pct": 64.14
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 15:40:03",
+      "an_dt": "15-May-2026 15:40:03",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "SBI Life Insurance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBILIFE_15052026153950_SE_15052026_signed.pdf"
+    },
     {
       "sort_date": "2026-04-28 20:41:26",
       "an_dt": "28-Apr-2026 20:41:26",

@@ -8,25 +8,9 @@
   "price": 159.22,
   "market_cap_cr": 2499.43,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 208.68,
-      "prev_close": 209.59,
-      "volume": 185444,
-      "deliverable_qty": 105572,
-      "delivery_pct": 56.93
-    },
-    {
-      "date": "2026-02-13",
-      "close": 201.74,
-      "prev_close": 208.68,
-      "volume": 182479,
-      "deliverable_qty": 113788,
-      "delivery_pct": 62.36
-    },
     {
       "date": "2026-02-16",
       "close": 196.59,
@@ -466,9 +450,24 @@
       "volume": 144339,
       "deliverable_qty": 63962,
       "delivery_pct": 44.31
+    },
+    {
+      "date": "2026-05-15",
+      "close": 194.25,
+      "prev_close": 177.63,
+      "volume": 2958960,
+      "deliverable_qty": 630079,
+      "delivery_pct": 21.29
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 20:40:43",
+      "an_dt": "15-May-2026 20:40:43",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Dishman Carbogen Amcis Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCAL_15052026204028_IntimationofConCall15052026F.pdf"
+    },
     {
       "sort_date": "2026-05-05 19:33:41",
       "an_dt": "05-May-2026 19:33:41",

@@ -8,25 +8,9 @@
   "price": 1490.4,
   "market_cap_cr": 101164.24,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1469.0,
-      "prev_close": 1518.8,
-      "volume": 3797885,
-      "deliverable_qty": 1200680,
-      "delivery_pct": 31.61
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1511.2,
-      "prev_close": 1469.0,
-      "volume": 1200452,
-      "deliverable_qty": 417508,
-      "delivery_pct": 34.78
-    },
     {
       "date": "2026-02-16",
       "close": 1516.1,
@@ -466,6 +450,14 @@
       "volume": 654322,
       "deliverable_qty": 451883,
       "delivery_pct": 69.06
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1579.8,
+      "prev_close": 1566.0,
+      "volume": 707026,
+      "deliverable_qty": 398279,
+      "delivery_pct": 56.33
     }
   ],
   "news": [
@@ -580,20 +572,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "LG Electronics India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LGEINDIA_18022026163717_Intimation_of_Transcript_of_Earning_Call.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:04:01",
-      "an_dt": "12-Feb-2026 19:04:01",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "LG Electronics India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LGEINDIA_12022026190316_Intimation_of_Audio_Recording.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 14:49:36",
-      "an_dt": "12-Feb-2026 14:49:36",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "LG Electronics India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LGEINDIA_12022026144923_Newspaper_Publication.pdf"
     }
   ]
 }

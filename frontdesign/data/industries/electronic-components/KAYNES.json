@@ -8,25 +8,9 @@
   "price": 3878.6,
   "market_cap_cr": 26019.82,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 4086.6,
-      "prev_close": 4154.7,
-      "volume": 1664611,
-      "deliverable_qty": 281927,
-      "delivery_pct": 16.94
-    },
-    {
-      "date": "2026-02-13",
-      "close": 3942.5,
-      "prev_close": 4086.6,
-      "volume": 1889857,
-      "deliverable_qty": 281349,
-      "delivery_pct": 14.89
-    },
     {
       "date": "2026-02-16",
       "close": 3966.6,
@@ -466,9 +450,38 @@
       "volume": 1915230,
       "deliverable_qty": 318194,
       "delivery_pct": 16.61
+    },
+    {
+      "date": "2026-05-15",
+      "close": 3271.9,
+      "prev_close": 3336.5,
+      "volume": 7578637,
+      "deliverable_qty": 951132,
+      "delivery_pct": 12.55
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:39:01",
+      "an_dt": "14-May-2026 17:39:01",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Kaynes Technology India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAYNESTECH_14052026173851_EaringCallIntimationaudiorecordingFinalSigned.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:36:45",
+      "an_dt": "14-May-2026 17:36:45",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Kaynes Technology India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAYNESTECH_14052026173630_FinancialsNewspaperAdvt14052026FinalSigned.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:34:20",
+      "an_dt": "14-May-2026 17:34:20",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Kaynes Technology India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAYNESTECH_14052026173355_MonitoringAgencyReportFinalSigned.pdf"
+    },
     {
       "sort_date": "2026-05-13 23:51:09",
       "an_dt": "13-May-2026 23:51:09",
@@ -608,13 +621,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Kaynes Technology India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAYNESTECH_06032026171227_InvestorMeetQ3FY26March2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 21:25:28",
-      "an_dt": "12-Feb-2026 21:25:28",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Kaynes Technology India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAYNESTECH_12022026212332_EaningscallTranscriptQ32026Signed.pdf"
     }
   ]
 }

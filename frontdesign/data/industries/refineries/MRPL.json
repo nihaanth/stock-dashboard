@@ -8,25 +8,9 @@
   "price": 160.33,
   "market_cap_cr": 28099.42,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 191.12,
-      "prev_close": 193.72,
-      "volume": 5987418,
-      "deliverable_qty": 1399554,
-      "delivery_pct": 23.37
-    },
-    {
-      "date": "2026-02-13",
-      "close": 185.6,
-      "prev_close": 191.12,
-      "volume": 5232925,
-      "deliverable_qty": 1489632,
-      "delivery_pct": 28.47
-    },
     {
       "date": "2026-02-16",
       "close": 186.0,
@@ -466,9 +450,24 @@
       "volume": 6273437,
       "deliverable_qty": 1398570,
       "delivery_pct": 22.29
+    },
+    {
+      "date": "2026-05-15",
+      "close": 150.32,
+      "prev_close": 153.63,
+      "volume": 3613519,
+      "deliverable_qty": 1319834,
+      "delivery_pct": 36.52
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 12:31:26",
+      "an_dt": "14-May-2026 12:31:26",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "Mangalore Refinery and Petrochemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MRPL_14052026123059_intimationofcourtorderSd.pdf"
+    },
     {
       "sort_date": "2026-04-27 13:21:26",
       "an_dt": "27-Apr-2026 13:21:26",

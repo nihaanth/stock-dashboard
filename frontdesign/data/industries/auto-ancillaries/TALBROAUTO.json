@@ -8,25 +8,9 @@
   "price": 265.8,
   "market_cap_cr": 1640.73,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 283.95,
-      "prev_close": 286.2,
-      "volume": 123296,
-      "deliverable_qty": 44843,
-      "delivery_pct": 36.37
-    },
-    {
-      "date": "2026-02-13",
-      "close": 283.85,
-      "prev_close": 283.95,
-      "volume": 103560,
-      "deliverable_qty": 51677,
-      "delivery_pct": 49.9
-    },
     {
       "date": "2026-02-16",
       "close": 278.55,
@@ -466,9 +450,24 @@
       "volume": 422202,
       "deliverable_qty": 142188,
       "delivery_pct": 33.68
+    },
+    {
+      "date": "2026-05-15",
+      "close": 322.3,
+      "prev_close": 327.25,
+      "volume": 84453,
+      "deliverable_qty": 40269,
+      "delivery_pct": 47.68
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 14:49:29",
+      "an_dt": "15-May-2026 14:49:29",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Talbros Automotive Components Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TALBROAUTO_15052026144737_Newspapermergedsigned.pdf"
+    },
     {
       "sort_date": "2026-05-13 15:44:17",
       "an_dt": "13-May-2026 15:44:17",
@@ -580,20 +579,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Talbros Automotive Components Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TALBROAUTO_17022026163013_EarningsCallTranscriptsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:32:00",
-      "an_dt": "12-Feb-2026 17:32:00",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Talbros Automotive Components Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TALBROAUTO_12022026173145_EarningConferenceCallsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 12:29:02",
-      "an_dt": "12-Feb-2026 12:29:02",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Talbros Automotive Components Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TALBROAUTO_12022026122851_NewspaperPubmergedsigned.pdf"
     }
   ]
 }

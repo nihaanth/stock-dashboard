@@ -8,25 +8,9 @@
   "price": 1200.7,
   "market_cap_cr": 15930.87,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 966.4,
-      "prev_close": 981.4,
-      "volume": 99980,
-      "deliverable_qty": 41189,
-      "delivery_pct": 41.2
-    },
-    {
-      "date": "2026-02-13",
-      "close": 966.9,
-      "prev_close": 966.4,
-      "volume": 91324,
-      "deliverable_qty": 43579,
-      "delivery_pct": 47.72
-    },
     {
       "date": "2026-02-16",
       "close": 965.8,
@@ -466,9 +450,45 @@
       "volume": 109958,
       "deliverable_qty": 46728,
       "delivery_pct": 42.5
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1111.5,
+      "prev_close": 1106.3,
+      "volume": 325672,
+      "deliverable_qty": 149092,
+      "delivery_pct": 45.78
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 20:21:20",
+      "an_dt": "15-May-2026 20:21:20",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_15052026202020_9.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 16:27:56",
+      "an_dt": "15-May-2026 16:27:56",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_15052026162650_Results.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 16:14:51",
+      "an_dt": "15-May-2026 16:14:51",
+      "desc": "Investor Presentation",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_15052026160245_inv.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 16:01:36",
+      "an_dt": "15-May-2026 16:01:36",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_15052026160101_Results.pdf"
+    },
     {
       "sort_date": "2026-05-11 10:22:07",
       "an_dt": "11-May-2026 10:22:07",

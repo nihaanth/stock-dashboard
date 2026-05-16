@@ -8,25 +8,9 @@
   "price": 752.55,
   "market_cap_cr": 294109.39,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 702.75,
-      "prev_close": 701.15,
-      "volume": 8735305,
-      "deliverable_qty": 3729681,
-      "delivery_pct": 42.7
-    },
-    {
-      "date": "2026-02-13",
-      "close": 673.65,
-      "prev_close": 702.75,
-      "volume": 15868021,
-      "deliverable_qty": 7648092,
-      "delivery_pct": 48.2
-    },
     {
       "date": "2026-02-16",
       "close": 679.8,
@@ -466,9 +450,31 @@
       "volume": 72680545,
       "deliverable_qty": 28443858,
       "delivery_pct": 39.14
+    },
+    {
+      "date": "2026-05-15",
+      "close": 331.05,
+      "prev_close": 338.9,
+      "volume": 56392805,
+      "deliverable_qty": 24381306,
+      "delivery_pct": 43.23
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:16:22",
+      "an_dt": "15-May-2026 19:16:22",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Vedanta Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_15052026162222_Vedanta.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 17:44:05",
+      "an_dt": "15-May-2026 17:44:05",
+      "desc": "Amendment(s)",
+      "sm_name": "Vedanta Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VEDL_15052026174133_VEDLDisclosureApexARReg305AIntimationsigned.pdf"
+    },
     {
       "sort_date": "2026-05-08 19:12:23",
       "an_dt": "08-May-2026 19:12:23",
@@ -860,13 +866,6 @@
       "desc": "Updates",
       "sm_name": "Vedanta Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VEDL_19022026214356_VEDLSEIntimationinvestorpresentationsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:13:35",
-      "an_dt": "12-Feb-2026 17:13:35",
-      "desc": "Updates",
-      "sm_name": "Vedanta Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VEDL_12022026171207_VEDLSEintimationInsightsbyVedantaJan2026signed.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 1225.2,
   "market_cap_cr": 2554.62,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1230.8,
-      "prev_close": 1392.2,
-      "volume": 145377,
-      "deliverable_qty": 66881,
-      "delivery_pct": 46.01
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1170.3,
-      "prev_close": 1230.8,
-      "volume": 118309,
-      "deliverable_qty": 51534,
-      "delivery_pct": 43.56
-    },
     {
       "date": "2026-02-16",
       "close": 1175.2,
@@ -466,9 +450,31 @@
       "volume": 27074,
       "deliverable_qty": 12553,
       "delivery_pct": 46.37
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1051.2,
+      "prev_close": 1040.1,
+      "volume": 43553,
+      "deliverable_qty": 21702,
+      "delivery_pct": 49.83
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 19:01:35",
+      "an_dt": "14-May-2026 19:01:35",
+      "desc": "Press Release",
+      "sm_name": "Network People Services Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NPST_14052026190043_SE_Intimation_Press_release_Bank_in_a_box_14052026_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 18:47:16",
+      "an_dt": "14-May-2026 18:47:16",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Network People Services Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NPST_14052026184624_SE_intimation_Monitoring_Agency_Report_14052026_signed.pdf"
+    },
     {
       "sort_date": "2026-04-20 18:43:24",
       "an_dt": "20-Apr-2026 18:43:24",
@@ -545,41 +551,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Network People Services Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NPST_14022026233014_SE_Intimation_Newspaper_publication_14022026_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:46:44",
-      "an_dt": "13-Feb-2026 14:46:44",
-      "desc": "Shareholders meeting",
-      "sm_name": "Network People Services Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NPST_13022026144632_Postal_Ballot_Notice_Final_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 20:21:59",
-      "an_dt": "12-Feb-2026 20:21:59",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Network People Services Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NPST_12022026202145_SE_intimation_-_Audio_recording_of_Analyst_call_12022026_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:57:02",
-      "an_dt": "12-Feb-2026 17:57:02",
-      "desc": "General Updates",
-      "sm_name": "Network People Services Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NPST_12022026175653_Clarification_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:57:32",
-      "an_dt": "12-Feb-2026 15:57:32",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Network People Services Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NPST_12022026155722_Newspaper_Publication_Q3_2026_NPST__1_.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:53:32",
-      "an_dt": "12-Feb-2026 15:53:32",
-      "desc": "Investor Presentation",
-      "sm_name": "Network People Services Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NPST_12022026155317_Q3_FY26_-_Investor_Presentation_signed.pdf"
     }
   ]
 }

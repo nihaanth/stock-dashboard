@@ -8,25 +8,9 @@
   "price": 9065.5,
   "market_cap_cr": 136481.56,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 7768.0,
-      "prev_close": 7814.0,
-      "volume": 145735,
-      "deliverable_qty": 94021,
-      "delivery_pct": 64.52
-    },
-    {
-      "date": "2026-02-13",
-      "close": 7587.5,
-      "prev_close": 7768.0,
-      "volume": 160046,
-      "deliverable_qty": 89555,
-      "delivery_pct": 55.96
-    },
     {
       "date": "2026-02-16",
       "close": 7636.0,
@@ -466,9 +450,24 @@
       "volume": 423358,
       "deliverable_qty": 190976,
       "delivery_pct": 45.11
+    },
+    {
+      "date": "2026-05-15",
+      "close": 9152.5,
+      "prev_close": 9217.5,
+      "volume": 202982,
+      "deliverable_qty": 66083,
+      "delivery_pct": 32.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 18:20:28",
+      "an_dt": "14-May-2026 18:20:28",
+      "desc": "General Updates",
+      "sm_name": "Polycab India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POLYCAB_14052026182019_Intimationtostockexchange.pdf"
+    },
     {
       "sort_date": "2026-05-11 19:24:15",
       "an_dt": "11-May-2026 19:24:15",
@@ -734,20 +733,6 @@
       "desc": "Appointment",
       "sm_name": "Polycab India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/POLYCAB_16022026151358_Intimation_of_SMP_appointment-Gyan_Shanker_Pandey.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:22:22",
-      "an_dt": "13-Feb-2026 16:22:22",
-      "desc": "General Updates",
-      "sm_name": "Polycab India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POLYCAB_13022026162213_Intimationtostockexchange.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 09:54:40",
-      "an_dt": "12-Feb-2026 09:54:40",
-      "desc": "General Updates",
-      "sm_name": "Polycab India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POLYCAB_12022026095430_Intimationtostockexchange.pdf"
     }
   ]
 }

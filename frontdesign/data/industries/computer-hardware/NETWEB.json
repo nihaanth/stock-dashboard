@@ -8,25 +8,9 @@
   "price": 4295.2,
   "market_cap_cr": 24457.17,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 3201.9,
-      "prev_close": 3153.1,
-      "volume": 4691685,
-      "deliverable_qty": 2407469,
-      "delivery_pct": 51.31
-    },
-    {
-      "date": "2026-02-13",
-      "close": 3097.3,
-      "prev_close": 3201.9,
-      "volume": 564539,
-      "deliverable_qty": 159929,
-      "delivery_pct": 28.33
-    },
     {
       "date": "2026-02-16",
       "close": 3067.5,
@@ -466,9 +450,24 @@
       "volume": 1258971,
       "deliverable_qty": 292110,
       "delivery_pct": 23.2
+    },
+    {
+      "date": "2026-05-15",
+      "close": 3840.5,
+      "prev_close": 3907.6,
+      "volume": 736868,
+      "deliverable_qty": 152663,
+      "delivery_pct": 20.72
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 11:28:14",
+      "an_dt": "15-May-2026 11:28:14",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Netweb Technologies India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_17042026185956_NETWEB.pdf"
+    },
     {
       "sort_date": "2026-05-07 16:29:37",
       "an_dt": "07-May-2026 16:29:37",

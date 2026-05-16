@@ -8,25 +8,9 @@
   "price": 1300.5,
   "market_cap_cr": 5610.53,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1002.3,
-      "prev_close": 1007.5,
-      "volume": 35393,
-      "deliverable_qty": 20687,
-      "delivery_pct": 58.45
-    },
-    {
-      "date": "2026-02-13",
-      "close": 977.3,
-      "prev_close": 1002.3,
-      "volume": 68807,
-      "deliverable_qty": 41761,
-      "delivery_pct": 60.69
-    },
     {
       "date": "2026-02-16",
       "close": 990.9,
@@ -466,9 +450,52 @@
       "volume": 37947,
       "deliverable_qty": 14841,
       "delivery_pct": 39.11
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1216.4,
+      "prev_close": 1248.5,
+      "volume": 23346,
+      "deliverable_qty": 15041,
+      "delivery_pct": 64.43
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:03:07",
+      "an_dt": "15-May-2026 18:03:07",
+      "desc": "General Updates",
+      "sm_name": "Epigral Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MFL_15052026180300_EpigralBRSR20256.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 18:01:30",
+      "an_dt": "15-May-2026 18:01:30",
+      "desc": "General Updates",
+      "sm_name": "Epigral Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MFL_15052026180122_EpigralAnnualReport202526.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 17:55:09",
+      "an_dt": "15-May-2026 17:55:09",
+      "desc": "Shareholders meeting",
+      "sm_name": "Epigral Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MFL_15052026175458_EpigralAnnualReport202526.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 11:39:39",
+      "an_dt": "14-May-2026 11:39:39",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Epigral Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MFL_14052026113930_EpigralNewsAdv31032026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 11:32:48",
+      "an_dt": "14-May-2026 11:32:48",
+      "desc": "Record Date",
+      "sm_name": "Epigral Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MFL_14052026113232_RECORDDATE.pdf"
+    },
     {
       "sort_date": "2026-05-12 11:14:31",
       "an_dt": "12-May-2026 11:14:31",

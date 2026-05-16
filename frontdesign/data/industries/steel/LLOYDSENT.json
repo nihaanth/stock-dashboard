@@ -8,25 +8,9 @@
   "price": 71.49,
   "market_cap_cr": 10913.32,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 57.21,
-      "prev_close": 58.07,
-      "volume": 1472354,
-      "deliverable_qty": 739540,
-      "delivery_pct": 50.23
-    },
-    {
-      "date": "2026-02-13",
-      "close": 55.27,
-      "prev_close": 57.21,
-      "volume": 2055207,
-      "deliverable_qty": 1329659,
-      "delivery_pct": 64.7
-    },
     {
       "date": "2026-02-16",
       "close": 54.78,
@@ -466,9 +450,24 @@
       "volume": 3602883,
       "deliverable_qty": 1697172,
       "delivery_pct": 47.11
+    },
+    {
+      "date": "2026-05-15",
+      "close": 70.5,
+      "prev_close": 72.49,
+      "volume": 2749159,
+      "deliverable_qty": 1161362,
+      "delivery_pct": 42.24
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 12:31:51",
+      "an_dt": "14-May-2026 12:31:51",
+      "desc": "General Updates",
+      "sm_name": "Lloyds Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGTL2008_14052026123112_CCIIntimationLEWL.pdf"
+    },
     {
       "sort_date": "2026-05-09 18:45:36",
       "an_dt": "09-May-2026 18:45:36",

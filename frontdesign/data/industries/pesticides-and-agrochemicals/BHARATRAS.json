@@ -8,25 +8,9 @@
   "price": 1586.8,
   "market_cap_cr": 2637.43,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1745.6,
-      "prev_close": 1793.1,
-      "volume": 16065,
-      "deliverable_qty": 7182,
-      "delivery_pct": 44.71
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1670.5,
-      "prev_close": 1745.6,
-      "volume": 40373,
-      "deliverable_qty": 14204,
-      "delivery_pct": 35.18
-    },
     {
       "date": "2026-02-16",
       "close": 1697.3,
@@ -466,9 +450,24 @@
       "volume": 7129,
       "deliverable_qty": 1910,
       "delivery_pct": 26.79
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1380.1,
+      "prev_close": 1401.4,
+      "volume": 4154,
+      "deliverable_qty": 2358,
+      "delivery_pct": 56.76
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 12:02:55",
+      "an_dt": "14-May-2026 12:02:55",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Bharat Rasayan Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARATRAS_14052026120229_Published_Notice_14052026__BHARATRAS.pdf"
+    },
     {
       "sort_date": "2026-05-13 14:24:39",
       "an_dt": "13-May-2026 14:24:39",
@@ -545,27 +544,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Bharat Rasayan Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARATRAS_14022026150740_Published_Results__BHARATRAS.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:38:53",
-      "an_dt": "12-Feb-2026 17:38:53",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Bharat Rasayan Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARATRAS_12022026173724_UFR_31_12_2025__BHARATRAS.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:36:05",
-      "an_dt": "12-Feb-2026 17:36:05",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Bharat Rasayan Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARATRAS_12022026173313_UFR_31_12_2025__BHARATRAS.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:24:37",
-      "an_dt": "12-Feb-2026 17:24:37",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Bharat Rasayan Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARATRAS_12022026172340_UFR_31_12_2025__BHARATRAS.pdf"
     }
   ]
 }

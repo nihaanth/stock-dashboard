@@ -8,25 +8,9 @@
   "price": 84.03,
   "market_cap_cr": 1531.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 90.27,
-      "prev_close": 90.59,
-      "volume": 92707,
-      "deliverable_qty": 48269,
-      "delivery_pct": 52.07
-    },
-    {
-      "date": "2026-02-13",
-      "close": 89.12,
-      "prev_close": 90.27,
-      "volume": 192999,
-      "deliverable_qty": 108943,
-      "delivery_pct": 56.45
-    },
     {
       "date": "2026-02-16",
       "close": 90.16,
@@ -466,9 +450,24 @@
       "volume": 231594,
       "deliverable_qty": 108429,
       "delivery_pct": 46.82
+    },
+    {
+      "date": "2026-05-15",
+      "close": 100.57,
+      "prev_close": 99.65,
+      "volume": 280404,
+      "deliverable_qty": 175389,
+      "delivery_pct": 62.55
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:23:55",
+      "an_dt": "14-May-2026 17:23:55",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Sanstar Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANSTAR_14052026171843_Monitoring_Agency_Report_-Q4.pdf"
+    },
     {
       "sort_date": "2026-05-12 13:31:00",
       "an_dt": "12-May-2026 13:31:00",
@@ -510,27 +509,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Sanstar Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANSTAR_14022026154101_31122025-Newspaper_Advertisement.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:54:34",
-      "an_dt": "13-Feb-2026 19:54:34",
-      "desc": "Updates",
-      "sm_name": "Sanstar Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANSTAR_13022026195425_31122025-Press_Release.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:47:04",
-      "an_dt": "13-Feb-2026 19:47:04",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Sanstar Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANSTAR_13022026194634_SANSTAR_LIMITED_MA_Report-31032025.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:33:30",
-      "an_dt": "13-Feb-2026 19:33:30",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Sanstar Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANSTAR_13022026193312_Outcome_of_Board_Meeting-Q3.pdf"
     }
   ]
 }

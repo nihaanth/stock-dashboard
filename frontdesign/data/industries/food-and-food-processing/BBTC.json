@@ -8,25 +8,9 @@
   "price": 1509.4,
   "market_cap_cr": 10531.37,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1813.0,
-      "prev_close": 1854.2,
-      "volume": 30146,
-      "deliverable_qty": 11382,
-      "delivery_pct": 37.76
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1791.9,
-      "prev_close": 1813.0,
-      "volume": 24420,
-      "deliverable_qty": 8434,
-      "delivery_pct": 34.54
-    },
     {
       "date": "2026-02-16",
       "close": 1801.9,
@@ -466,9 +450,24 @@
       "volume": 58505,
       "deliverable_qty": 24721,
       "delivery_pct": 42.25
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1522.8,
+      "prev_close": 1537.9,
+      "volume": 28708,
+      "deliverable_qty": 11171,
+      "delivery_pct": 38.91
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 15:00:40",
+      "an_dt": "15-May-2026 15:00:40",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "The Bombay Burmah Trading Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KML_15052026150027_SE_Newspaper_Results_Mar26.pdf"
+    },
     {
       "sort_date": "2026-05-13 18:22:57",
       "an_dt": "13-May-2026 18:22:57",
@@ -573,41 +572,6 @@
       "desc": "Updates",
       "sm_name": "The Bombay Burmah Trading Corporation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KML_14022026210829_SEIntimationTDSNotice14022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:32:56",
-      "an_dt": "13-Feb-2026 17:32:56",
-      "desc": "Record Date",
-      "sm_name": "The Bombay Burmah Trading Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KML_13022026173238_BBTCL-Results_Dec2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:30:08",
-      "an_dt": "13-Feb-2026 17:30:08",
-      "desc": "Change in Director(s)",
-      "sm_name": "The Bombay Burmah Trading Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KML_13022026172951_BBTCL-Results_Dec2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:27:00",
-      "an_dt": "13-Feb-2026 17:27:00",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "The Bombay Burmah Trading Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KML_13022026172609_BBTCL-Results_Dec2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:24:38",
-      "an_dt": "13-Feb-2026 17:24:38",
-      "desc": "Dividend",
-      "sm_name": "The Bombay Burmah Trading Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KML_13022026172333_BBTCL-Results_Dec2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:17:30",
-      "an_dt": "13-Feb-2026 17:17:30",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "The Bombay Burmah Trading Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KML_13022026171521_BBTCL-Results_Dec2025.pdf"
     }
   ]
 }

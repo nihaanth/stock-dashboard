@@ -8,25 +8,9 @@
   "price": 614.6,
   "market_cap_cr": 19544.28,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 591.45,
-      "prev_close": 594.2,
-      "volume": 2437355,
-      "deliverable_qty": 743695,
-      "delivery_pct": 30.51
-    },
-    {
-      "date": "2026-02-13",
-      "close": 571.1,
-      "prev_close": 591.45,
-      "volume": 2178121,
-      "deliverable_qty": 848670,
-      "delivery_pct": 38.96
-    },
     {
       "date": "2026-02-16",
       "close": 563.8,
@@ -466,9 +450,38 @@
       "volume": 2461900,
       "deliverable_qty": 569246,
       "delivery_pct": 23.12
+    },
+    {
+      "date": "2026-05-15",
+      "close": 652.6,
+      "prev_close": 663.5,
+      "volume": 3451686,
+      "deliverable_qty": 661999,
+      "delivery_pct": 19.18
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:44:48",
+      "an_dt": "15-May-2026 18:44:48",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Gujarat Mineral Development Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GMDCLTD_15052026184409_newspaperadvertisementsigned.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 19:07:14",
+      "an_dt": "14-May-2026 19:07:14",
+      "desc": "Dividend",
+      "sm_name": "Gujarat Mineral Development Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GMDCLTD_14052026190625_resultsmay.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 19:05:10",
+      "an_dt": "14-May-2026 19:05:10",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Gujarat Mineral Development Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GMDCLTD_14052026190307_resultsmay.pdf"
+    },
     {
       "sort_date": "2026-04-13 14:15:25",
       "an_dt": "13-Apr-2026 14:15:25",
@@ -545,13 +558,6 @@
       "desc": "Updates",
       "sm_name": "Gujarat Mineral Development Corporation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GMDCLTD_16022026185650_stock_exchange_letter_for_newspaper_advts.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:23:24",
-      "an_dt": "13-Feb-2026 18:23:24",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Gujarat Mineral Development Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GMDCLTD_13022026182038_financial_reults_december_2026_Signed.pdf"
     }
   ]
 }

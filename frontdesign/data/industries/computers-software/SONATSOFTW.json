@@ -8,25 +8,9 @@
   "price": 298.95,
   "market_cap_cr": 8274.77,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 288.65,
-      "prev_close": 314.95,
-      "volume": 1774175,
-      "deliverable_qty": 1052052,
-      "delivery_pct": 59.3
-    },
-    {
-      "date": "2026-02-13",
-      "close": 279.1,
-      "prev_close": 288.65,
-      "volume": 1956919,
-      "deliverable_qty": 556278,
-      "delivery_pct": 28.43
-    },
     {
       "date": "2026-02-16",
       "close": 273.5,
@@ -466,9 +450,24 @@
       "volume": 1675656,
       "deliverable_qty": 408930,
       "delivery_pct": 24.4
+    },
+    {
+      "date": "2026-05-15",
+      "close": 265.75,
+      "prev_close": 266.3,
+      "volume": 625974,
+      "deliverable_qty": 153109,
+      "delivery_pct": 24.46
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 11:05:03",
+      "an_dt": "15-May-2026 11:05:03",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Sonata Software Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_17042026181710_SONATSOFTW.pdf"
+    },
     {
       "sort_date": "2026-05-11 22:22:01",
       "an_dt": "11-May-2026 22:22:01",
@@ -650,27 +649,6 @@
       "desc": "Updates",
       "sm_name": "Sonata Software Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_16022026202636_analystcall16022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:02:53",
-      "an_dt": "13-Feb-2026 18:02:53",
-      "desc": "Updates",
-      "sm_name": "Sonata Software Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_13022026180241_analystcall13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 21:15:28",
-      "an_dt": "12-Feb-2026 21:15:28",
-      "desc": "Updates",
-      "sm_name": "Sonata Software Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_12022026211510_analystcall12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 21:08:33",
-      "an_dt": "12-Feb-2026 21:08:33",
-      "desc": "Updates",
-      "sm_name": "Sonata Software Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_12022026210806_analystcall12022026.pdf"
     }
   ]
 }

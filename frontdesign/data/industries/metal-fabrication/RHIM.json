@@ -8,25 +8,9 @@
   "price": 386.25,
   "market_cap_cr": 7976.12,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 457.1,
-      "prev_close": 460.45,
-      "volume": 62117,
-      "deliverable_qty": 35045,
-      "delivery_pct": 56.42
-    },
-    {
-      "date": "2026-02-13",
-      "close": 436.65,
-      "prev_close": 457.1,
-      "volume": 112914,
-      "deliverable_qty": 64714,
-      "delivery_pct": 57.31
-    },
     {
       "date": "2026-02-16",
       "close": 462.25,
@@ -466,6 +450,14 @@
       "volume": 61498,
       "deliverable_qty": 29579,
       "delivery_pct": 48.1
+    },
+    {
+      "date": "2026-05-15",
+      "close": 388.3,
+      "prev_close": 394.55,
+      "volume": 98462,
+      "deliverable_qty": 44822,
+      "delivery_pct": 45.52
     }
   ],
   "news": [
@@ -559,34 +551,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "RHI MAGNESITA INDIA LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RHIM_16022026145554_NP.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:09:29",
-      "an_dt": "13-Feb-2026 17:09:29",
-      "desc": "Investor Presentation",
-      "sm_name": "RHI MAGNESITA INDIA LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RHIM_13022026170919_Uploading.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:57:23",
-      "an_dt": "13-Feb-2026 16:57:23",
-      "desc": "Press Release",
-      "sm_name": "RHI MAGNESITA INDIA LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RHIM_13022026165710_PR.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:40:53",
-      "an_dt": "13-Feb-2026 16:40:53",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "RHI MAGNESITA INDIA LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RHIM_13022026163808_merged_ocred.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:33:13",
-      "an_dt": "13-Feb-2026 16:33:13",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "RHI MAGNESITA INDIA LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RHIM_13022026163156_merged_ocred.pdf"
     }
   ]
 }

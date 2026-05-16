@@ -8,25 +8,9 @@
   "price": 1301.3,
   "market_cap_cr": 17135.45,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1214.7,
-      "prev_close": 1201.9,
-      "volume": 25648,
-      "deliverable_qty": 13662,
-      "delivery_pct": 53.27
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1170.7,
-      "prev_close": 1214.7,
-      "volume": 144562,
-      "deliverable_qty": 74202,
-      "delivery_pct": 51.33
-    },
     {
       "date": "2026-02-16",
       "close": 1209.1,
@@ -466,6 +450,14 @@
       "volume": 92332,
       "deliverable_qty": 40433,
       "delivery_pct": 43.79
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1098.4,
+      "prev_close": 1144.3,
+      "volume": 86714,
+      "deliverable_qty": 54931,
+      "delivery_pct": 63.35
     }
   ],
   "news": [
@@ -510,41 +502,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Travel Food Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRAVELFOOD_14022026140011_TFSLNewspaperAd14022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:10:21",
-      "an_dt": "13-Feb-2026 19:10:21",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Travel Food Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRAVELFOOD_13022026190841_TFSLAudioRecording13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 22:35:02",
-      "an_dt": "12-Feb-2026 22:35:02",
-      "desc": "Investor Presentation",
-      "sm_name": "Travel Food Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRAVELFOOD_12022026223308_TFSLPresentation12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 22:31:14",
-      "an_dt": "12-Feb-2026 22:31:14",
-      "desc": "Press Release",
-      "sm_name": "Travel Food Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRAVELFOOD_12022026222939_TFSLPressRelease12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:25:41",
-      "an_dt": "12-Feb-2026 18:25:41",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Travel Food Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRAVELFOOD_12022026182239_TFSLoutcomeofBM12022026S.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:21:10",
-      "an_dt": "12-Feb-2026 18:21:10",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Travel Food Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRAVELFOOD_12022026182101_TFSLoutcomeofBM12022026S.pdf"
     }
   ]
 }

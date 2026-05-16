@@ -8,25 +8,9 @@
   "price": 635.45,
   "market_cap_cr": 890.11,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 699.0,
-      "prev_close": 720.55,
-      "volume": 71183,
-      "deliverable_qty": 30236,
-      "delivery_pct": 42.48
-    },
-    {
-      "date": "2026-02-13",
-      "close": 692.5,
-      "prev_close": 699.0,
-      "volume": 20191,
-      "deliverable_qty": 10859,
-      "delivery_pct": 53.78
-    },
     {
       "date": "2026-02-16",
       "close": 695.45,
@@ -466,9 +450,38 @@
       "volume": 40224,
       "deliverable_qty": 25317,
       "delivery_pct": 62.94
+    },
+    {
+      "date": "2026-05-15",
+      "close": 625.7,
+      "prev_close": 643.6,
+      "volume": 17557,
+      "deliverable_qty": 8216,
+      "delivery_pct": 46.8
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 15:21:55",
+      "an_dt": "15-May-2026 15:21:55",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Deccan Cements Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DECCANCE_15052026152145_NewspaperNotice.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 20:15:51",
+      "an_dt": "14-May-2026 20:15:51",
+      "desc": "Shareholders meeting",
+      "sm_name": "Deccan Cements Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DECCANCE_14052026201542_PostalBallotNoticetoSE.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:18:32",
+      "an_dt": "14-May-2026 17:18:32",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Deccan Cements Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DECCANCE_14052026171817_Outcome.pdf"
+    },
     {
       "sort_date": "2026-04-29 17:02:28",
       "an_dt": "29-Apr-2026 17:02:28",
@@ -503,27 +516,6 @@
       "desc": "Press Release",
       "sm_name": "Deccan Cements Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DECCANCE_10032026124014_NewspaperPublication.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:32:22",
-      "an_dt": "13-Feb-2026 16:32:22",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Deccan Cements Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DECCANCE_13022026163212_NewspaperPublication.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:24:21",
-      "an_dt": "12-Feb-2026 13:24:21",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Deccan Cements Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DECCANCE_12022026132408_Outcome.PDF"
-    },
-    {
-      "sort_date": "2026-02-12 13:15:57",
-      "an_dt": "12-Feb-2026 13:15:57",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Deccan Cements Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DECCANCE_12022026131542_Outcome.PDF"
     }
   ]
 }

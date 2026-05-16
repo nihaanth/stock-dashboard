@@ -8,25 +8,9 @@
   "price": 982.25,
   "market_cap_cr": 5013.49,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 902.85,
-      "prev_close": 893.15,
-      "volume": 125150,
-      "deliverable_qty": 66475,
-      "delivery_pct": 53.12
-    },
-    {
-      "date": "2026-02-13",
-      "close": 870.5,
-      "prev_close": 902.85,
-      "volume": 109258,
-      "deliverable_qty": 54274,
-      "delivery_pct": 49.68
-    },
     {
       "date": "2026-02-16",
       "close": 846.5,
@@ -466,6 +450,14 @@
       "volume": 98816,
       "deliverable_qty": 44235,
       "delivery_pct": 44.77
+    },
+    {
+      "date": "2026-05-15",
+      "close": 918.35,
+      "prev_close": 933.8,
+      "volume": 66610,
+      "deliverable_qty": 31215,
+      "delivery_pct": 46.86
     }
   ],
   "news": [
@@ -524,13 +516,6 @@
       "desc": "Trading Window",
       "sm_name": "Kaveri Seed Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KSCL_24032026150515_TradingWindowCirculardated24032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 12:13:30",
-      "an_dt": "13-Feb-2026 12:13:30",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Kaveri Seed Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KSCL_13022026121221_EarningsFeb2026.pdf"
     }
   ]
 }

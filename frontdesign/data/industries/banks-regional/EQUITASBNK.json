@@ -8,25 +8,9 @@
   "price": 69.8,
   "market_cap_cr": 7968.18,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 68.88,
-      "prev_close": 68.29,
-      "volume": 3711505,
-      "deliverable_qty": 1936665,
-      "delivery_pct": 52.18
-    },
-    {
-      "date": "2026-02-13",
-      "close": 68.54,
-      "prev_close": 68.88,
-      "volume": 3034579,
-      "deliverable_qty": 1286691,
-      "delivery_pct": 42.4
-    },
     {
       "date": "2026-02-16",
       "close": 68.48,
@@ -466,9 +450,24 @@
       "volume": 2032600,
       "deliverable_qty": 1129154,
       "delivery_pct": 55.55
+    },
+    {
+      "date": "2026-05-15",
+      "close": 67.96,
+      "prev_close": 68.32,
+      "volume": 2425300,
+      "deliverable_qty": 1261146,
+      "delivery_pct": 52.0
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 12:43:12",
+      "an_dt": "14-May-2026 12:43:12",
+      "desc": "General Updates",
+      "sm_name": "Equitas Small Finance Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EQUITASBNK_14052026124303_RBIApproval2026.pdf"
+    },
     {
       "sort_date": "2026-05-13 16:12:16",
       "an_dt": "13-May-2026 16:12:16",
@@ -664,13 +663,6 @@
       "desc": "General Updates",
       "sm_name": "Equitas Small Finance Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EQUITASBNK_25022026183324_ESGrating.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:29:22",
-      "an_dt": "13-Feb-2026 18:29:22",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Equitas Small Finance Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EQUITASBNK_13022026182912_ESFBLNewspaperpublication.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 3763.9,
   "market_cap_cr": 5446.98,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 4861.3,
-      "prev_close": 4420.8,
-      "volume": 341190,
-      "deliverable_qty": 132795,
-      "delivery_pct": 38.92
-    },
-    {
-      "date": "2026-02-13",
-      "close": 4670.6,
-      "prev_close": 4861.3,
-      "volume": 267902,
-      "deliverable_qty": 75114,
-      "delivery_pct": 28.04
-    },
     {
       "date": "2026-02-16",
       "close": 4871.8,
@@ -466,6 +450,14 @@
       "volume": 26402,
       "deliverable_qty": 10572,
       "delivery_pct": 40.04
+    },
+    {
+      "date": "2026-05-15",
+      "close": 3634.4,
+      "prev_close": 3706.5,
+      "volume": 55764,
+      "deliverable_qty": 24081,
+      "delivery_pct": 43.18
     }
   ],
   "news": [
@@ -657,13 +649,6 @@
       "desc": "General Updates",
       "sm_name": "SML Mahindra Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SMLISUZU_14022026132134_100-Response_NSE_SML_Price_Movement-14_Feb_2026_Signed_PM.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:07:27",
-      "an_dt": "13-Feb-2026 20:07:27",
-      "desc": "Price movement",
-      "sm_name": "SML Mahindra Limited",
-      "attchmntFile": "-"
     }
   ]
 }

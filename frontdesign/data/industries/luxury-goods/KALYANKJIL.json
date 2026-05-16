@@ -8,25 +8,9 @@
   "price": 385.2,
   "market_cap_cr": 39781.15,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 432.5,
-      "prev_close": 426.95,
-      "volume": 6967117,
-      "deliverable_qty": 1230831,
-      "delivery_pct": 17.67
-    },
-    {
-      "date": "2026-02-13",
-      "close": 418.05,
-      "prev_close": 432.5,
-      "volume": 6604401,
-      "deliverable_qty": 1544722,
-      "delivery_pct": 23.39
-    },
     {
       "date": "2026-02-16",
       "close": 427.05,
@@ -466,6 +450,14 @@
       "volume": 43617380,
       "deliverable_qty": 8832358,
       "delivery_pct": 20.25
+    },
+    {
+      "date": "2026-05-15",
+      "close": 353.05,
+      "prev_close": 361.0,
+      "volume": 6416858,
+      "deliverable_qty": 2061104,
+      "delivery_pct": 32.12
     }
   ],
   "news": [
@@ -594,20 +586,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Kalyan Jewellers India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KALYANKJIL_09032026112912_ESOP_ALLOTMENT.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 12:54:36",
-      "an_dt": "13-Feb-2026 12:54:36",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Kalyan Jewellers India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KALYANKJIL_13022026125422_Newspaper_Publication.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 12:51:23",
-      "an_dt": "12-Feb-2026 12:51:23",
-      "desc": "Shareholders meeting",
-      "sm_name": "Kalyan Jewellers India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KALYANKJIL_12022026125101_Notice_signed.pdf"
     }
   ]
 }

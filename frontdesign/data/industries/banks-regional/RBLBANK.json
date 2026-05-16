@@ -8,25 +8,9 @@
   "price": 316.1,
   "market_cap_cr": 19545.89,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 317.0,
-      "prev_close": 308.8,
-      "volume": 5678200,
-      "deliverable_qty": 1559870,
-      "delivery_pct": 27.47
-    },
-    {
-      "date": "2026-02-13",
-      "close": 313.8,
-      "prev_close": 317.0,
-      "volume": 3835217,
-      "deliverable_qty": 1633098,
-      "delivery_pct": 42.58
-    },
     {
       "date": "2026-02-16",
       "close": 314.35,
@@ -466,9 +450,31 @@
       "volume": 2581636,
       "deliverable_qty": 869306,
       "delivery_pct": 33.67
+    },
+    {
+      "date": "2026-05-15",
+      "close": 338.1,
+      "prev_close": 337.2,
+      "volume": 3913506,
+      "deliverable_qty": 1038882,
+      "delivery_pct": 26.55
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:29:05",
+      "an_dt": "15-May-2026 19:29:05",
+      "desc": "Press Release",
+      "sm_name": "RBL Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RBLBANK_15052026192852_PressRelease15052026Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 18:22:02",
+      "an_dt": "15-May-2026 18:22:02",
+      "desc": "Updates",
+      "sm_name": "RBL Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RBLBANK_15052026182122_Reg30SEIntimation15052026Signed.pdf"
+    },
     {
       "sort_date": "2026-05-12 19:08:41",
       "an_dt": "12-May-2026 19:08:41",
@@ -909,20 +915,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "RBL Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RBLBANK_14022026140413_IntimationInvestorMeetFeb142026Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 20:50:20",
-      "an_dt": "12-Feb-2026 20:50:20",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "RBL Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RBLBANK_12022026204935_IntimationInvestorMeetFeb122026Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:58:45",
-      "an_dt": "12-Feb-2026 19:58:45",
-      "desc": "Shareholders meeting",
-      "sm_name": "RBL Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RBLBANK_12022026195735_PostalBallotIntimation12022026.pdf"
     }
   ]
 }

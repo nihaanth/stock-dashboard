@@ -8,25 +8,9 @@
   "price": 212.38,
   "market_cap_cr": 23531.52,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 213.01,
-      "prev_close": 219.12,
-      "volume": 332567,
-      "deliverable_qty": 144334,
-      "delivery_pct": 43.4
-    },
-    {
-      "date": "2026-02-13",
-      "close": 214.25,
-      "prev_close": 213.01,
-      "volume": 674274,
-      "deliverable_qty": 234894,
-      "delivery_pct": 34.84
-    },
     {
       "date": "2026-02-16",
       "close": 206.94,
@@ -466,6 +450,14 @@
       "volume": 568765,
       "deliverable_qty": 263722,
       "delivery_pct": 46.37
+    },
+    {
+      "date": "2026-05-15",
+      "close": 197.72,
+      "prev_close": 200.17,
+      "volume": 510770,
+      "deliverable_qty": 271939,
+      "delivery_pct": 53.24
     }
   ],
   "news": [
@@ -517,13 +509,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Aegis Vopak Terminals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVTL_26032026174621_AVTL_BM_Outcome_26032026_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:09:10",
-      "an_dt": "13-Feb-2026 19:09:10",
-      "desc": "Agreements",
-      "sm_name": "Aegis Vopak Terminals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVTL_13022026190856_AVTL_SE_DOA_Signed.pdf"
     }
   ]
 }

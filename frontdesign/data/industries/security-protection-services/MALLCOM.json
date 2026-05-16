@@ -8,25 +8,9 @@
   "price": 1090.0,
   "market_cap_cr": 680.16,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1195.7,
-      "prev_close": 1198.3,
-      "volume": 1334,
-      "deliverable_qty": 1014,
-      "delivery_pct": 76.01
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1178.7,
-      "prev_close": 1195.7,
-      "volume": 876,
-      "deliverable_qty": 479,
-      "delivery_pct": 54.68
-    },
     {
       "date": "2026-02-16",
       "close": 1125.4,
@@ -466,6 +450,14 @@
       "volume": 2418,
       "deliverable_qty": 1709,
       "delivery_pct": 70.68
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1009.2,
+      "prev_close": 1030.2,
+      "volume": 5041,
+      "deliverable_qty": 3410,
+      "delivery_pct": 67.65
     }
   ],
   "news": [
@@ -503,13 +495,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Mallcom (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MALLCOM_24032026154047_Intimation_of_Investor_Analyst_Meeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:41:18",
-      "an_dt": "12-Feb-2026 16:41:18",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Mallcom (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MALLCOM_12022026164059_NP_SW.pdf"
     }
   ]
 }

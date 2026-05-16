@@ -8,25 +8,9 @@
   "price": 878.2,
   "market_cap_cr": 2427.09,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 852.55,
-      "prev_close": 830.65,
-      "volume": 30318,
-      "deliverable_qty": 15026,
-      "delivery_pct": 49.56
-    },
-    {
-      "date": "2026-02-13",
-      "close": 834.3,
-      "prev_close": 852.55,
-      "volume": 9091,
-      "deliverable_qty": 5096,
-      "delivery_pct": 56.06
-    },
     {
       "date": "2026-02-16",
       "close": 819.35,
@@ -466,9 +450,24 @@
       "volume": 57014,
       "deliverable_qty": 20308,
       "delivery_pct": 35.62
+    },
+    {
+      "date": "2026-05-15",
+      "close": 895.3,
+      "prev_close": 888.5,
+      "volume": 40241,
+      "deliverable_qty": 10684,
+      "delivery_pct": 26.55
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 19:36:42",
+      "an_dt": "15-May-2026 19:36:42",
+      "desc": "Investor Presentation",
+      "sm_name": "Rane (Madras) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RML_15052026192829_RML_SE_Earnings_Presentation_18052026_S.pdf"
+    },
     {
       "sort_date": "2026-05-11 19:17:27",
       "an_dt": "11-May-2026 19:17:27",

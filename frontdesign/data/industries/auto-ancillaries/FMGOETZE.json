@@ -8,25 +8,9 @@
   "price": 444.45,
   "market_cap_cr": 2472.57,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 441.65,
-      "prev_close": 447.25,
-      "volume": 70575,
-      "deliverable_qty": 37651,
-      "delivery_pct": 53.35
-    },
-    {
-      "date": "2026-02-13",
-      "close": 430.2,
-      "prev_close": 441.65,
-      "volume": 50092,
-      "deliverable_qty": 25685,
-      "delivery_pct": 51.28
-    },
     {
       "date": "2026-02-16",
       "close": 426.3,
@@ -466,6 +450,14 @@
       "volume": 33984,
       "deliverable_qty": 19146,
       "delivery_pct": 56.34
+    },
+    {
+      "date": "2026-05-15",
+      "close": 436.15,
+      "prev_close": 437.9,
+      "volume": 34326,
+      "deliverable_qty": 13527,
+      "delivery_pct": 39.41
     }
   ],
   "news": [
@@ -510,13 +502,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Federal-Mogul Goetze (India) Limited.",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Federal_23022026164213_Final_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:00:51",
-      "an_dt": "12-Feb-2026 16:00:51",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Federal-Mogul Goetze (India) Limited.",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Federal_12022026160024_Newspaper_Intimation_BM-_10_FEB_2026.pdf"
     }
   ]
 }

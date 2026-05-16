@@ -8,25 +8,9 @@
   "price": 1370.2,
   "market_cap_cr": 14214.54,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1530.4,
-      "prev_close": 1561.3,
-      "volume": 18587,
-      "deliverable_qty": 11130,
-      "delivery_pct": 59.88
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1498.7,
-      "prev_close": 1530.4,
-      "volume": 14397,
-      "deliverable_qty": 8317,
-      "delivery_pct": 57.77
-    },
     {
       "date": "2026-02-16",
       "close": 1490.7,
@@ -466,9 +450,24 @@
       "volume": 119713,
       "deliverable_qty": 50621,
       "delivery_pct": 42.29
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1322.8,
+      "prev_close": 1346.5,
+      "volume": 47796,
+      "deliverable_qty": 24224,
+      "delivery_pct": 50.68
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 12:18:18",
+      "an_dt": "14-May-2026 12:18:18",
+      "desc": "Updates",
+      "sm_name": "Vinati Organics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VINATIORGA_14052026121652_524200_Reg_30_Update_14052026.pdf"
+    },
     {
       "sort_date": "2026-05-13 11:03:30",
       "an_dt": "13-May-2026 11:03:30",
@@ -545,13 +544,6 @@
       "desc": "General Updates",
       "sm_name": "Vinati Organics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VINATIORGA_20032026112712_524200_Reg_30_Restructuring_20032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 10:21:07",
-      "an_dt": "13-Feb-2026 10:21:07",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Vinati Organics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VINATIORGA_13022026102045_524200_Newspaper_Publication_130226.pdf"
     }
   ]
 }

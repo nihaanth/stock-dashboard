@@ -8,25 +8,9 @@
   "price": 126.19,
   "market_cap_cr": 16891.47,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 119.65,
-      "prev_close": 118.54,
-      "volume": 2114709,
-      "deliverable_qty": 819033,
-      "delivery_pct": 38.73
-    },
-    {
-      "date": "2026-02-13",
-      "close": 119.43,
-      "prev_close": 119.65,
-      "volume": 1343607,
-      "deliverable_qty": 556812,
-      "delivery_pct": 41.44
-    },
     {
       "date": "2026-02-16",
       "close": 119.03,
@@ -466,9 +450,38 @@
       "volume": 1268084,
       "deliverable_qty": 398407,
       "delivery_pct": 31.42
+    },
+    {
+      "date": "2026-05-15",
+      "close": 123.17,
+      "prev_close": 122.25,
+      "volume": 950893,
+      "deliverable_qty": 425955,
+      "delivery_pct": 44.8
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 21:15:21",
+      "an_dt": "15-May-2026 21:15:21",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "JSW Cement Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JSWCL_15052026211510_Upload.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 18:39:32",
+      "an_dt": "14-May-2026 18:39:32",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "JSW Cement Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JSWCL_14052026183823_Monitoring_Agency_with_annexure.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:18:13",
+      "an_dt": "14-May-2026 17:18:13",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "JSW Cement Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JSWCL_14052026171412_Prior_Intimation_with_Invite_dsc.pdf"
+    },
     {
       "sort_date": "2026-05-07 19:28:57",
       "an_dt": "07-May-2026 19:28:57",
@@ -566,13 +579,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "JSW Cement Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JSWCL_26022026173844_SE_Intimation_Postal_Ballot_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 13:41:34",
-      "an_dt": "13-Feb-2026 13:41:34",
-      "desc": "Investor Presentation",
-      "sm_name": "JSW Cement Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JSWCL_13022026133942_SE_Intimation_Investor_Presentation_DSC.pdf"
     }
   ]
 }

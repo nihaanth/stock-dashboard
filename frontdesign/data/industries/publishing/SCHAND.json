@@ -8,25 +8,9 @@
   "price": 168.08,
   "market_cap_cr": 592.85,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 159.58,
-      "prev_close": 161.64,
-      "volume": 25854,
-      "deliverable_qty": 10067,
-      "delivery_pct": 38.94
-    },
-    {
-      "date": "2026-02-13",
-      "close": 160.47,
-      "prev_close": 159.58,
-      "volume": 25442,
-      "deliverable_qty": 13164,
-      "delivery_pct": 51.74
-    },
     {
       "date": "2026-02-16",
       "close": 163.57,
@@ -466,9 +450,24 @@
       "volume": 20787,
       "deliverable_qty": 15829,
       "delivery_pct": 76.15
+    },
+    {
+      "date": "2026-05-15",
+      "close": 168.93,
+      "prev_close": 168.4,
+      "volume": 24635,
+      "deliverable_qty": 14271,
+      "delivery_pct": 57.93
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 16:36:23",
+      "an_dt": "15-May-2026 16:36:23",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "S Chand And Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SCHAND_15052026163601_IntimationofInvestorsCallQ4FY2615052026.pdf"
+    },
     {
       "sort_date": "2026-05-07 19:03:59",
       "an_dt": "07-May-2026 19:03:59",
@@ -489,34 +488,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "S Chand And Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SCHAND_16022026172253_Transcriptofconferencecall16022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:33:14",
-      "an_dt": "13-Feb-2026 16:33:14",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "S Chand And Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SCHAND_13022026163253_Intimationofaudiorecordingconferencecall13112025.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:22:25",
-      "an_dt": "13-Feb-2026 16:22:25",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "S Chand And Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SCHAND_13022026162154_Newspaperpublication13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:20:00",
-      "an_dt": "12-Feb-2026 16:20:00",
-      "desc": "Investor Presentation",
-      "sm_name": "S Chand And Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SCHAND_12022026161937_InvestorsPresentationQ3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:06:50",
-      "an_dt": "12-Feb-2026 16:06:50",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "S Chand And Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SCHAND_12022026160429_OutcomeofBoardmeeting12022026.pdf"
     }
   ]
 }

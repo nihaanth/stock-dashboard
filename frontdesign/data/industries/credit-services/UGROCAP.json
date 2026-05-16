@@ -8,25 +8,9 @@
   "price": 100.73,
   "market_cap_cr": 1539.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 135.08,
-      "prev_close": 135.65,
-      "volume": 646704,
-      "deliverable_qty": 488873,
-      "delivery_pct": 75.59
-    },
-    {
-      "date": "2026-02-13",
-      "close": 135.27,
-      "prev_close": 135.08,
-      "volume": 151022,
-      "deliverable_qty": 75690,
-      "delivery_pct": 50.12
-    },
     {
       "date": "2026-02-16",
       "close": 129.43,
@@ -466,9 +450,24 @@
       "volume": 181840,
       "deliverable_qty": 74254,
       "delivery_pct": 40.83
+    },
+    {
+      "date": "2026-05-15",
+      "close": 98.6,
+      "prev_close": 99.73,
+      "volume": 116084,
+      "deliverable_qty": 59732,
+      "delivery_pct": 51.46
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:24:10",
+      "an_dt": "15-May-2026 18:24:10",
+      "desc": "Allotment of Securities",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_15052026182314_OutcomeCP15052026.pdf"
+    },
     {
       "sort_date": "2026-05-12 17:55:36",
       "an_dt": "12-May-2026 17:55:36",
@@ -755,20 +754,6 @@
       "desc": "Allotment of Securities",
       "sm_name": "Ugro Capital Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_25022026192803_OutcomeCP25012026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:12:38",
-      "an_dt": "13-Feb-2026 16:12:38",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Ugro Capital Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_13022026161155_IntimationofEarningscalltranscript13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:43:10",
-      "an_dt": "13-Feb-2026 11:43:10",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Ugro Capital Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_13022026114253_IntimationofMonitoringAgencyreport31122025.pdf"
     }
   ]
 }

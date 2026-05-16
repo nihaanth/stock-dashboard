@@ -8,25 +8,9 @@
   "price": 515.95,
   "market_cap_cr": 30358.68,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 480.6,
-      "prev_close": 480.4,
-      "volume": 327949,
-      "deliverable_qty": 154209,
-      "delivery_pct": 47.02
-    },
-    {
-      "date": "2026-02-13",
-      "close": 467.85,
-      "prev_close": 480.6,
-      "volume": 234045,
-      "deliverable_qty": 118275,
-      "delivery_pct": 50.54
-    },
     {
       "date": "2026-02-16",
       "close": 470.2,
@@ -466,9 +450,24 @@
       "volume": 285688,
       "deliverable_qty": 153788,
       "delivery_pct": 53.83
+    },
+    {
+      "date": "2026-05-15",
+      "close": 501.7,
+      "prev_close": 507.0,
+      "volume": 128023,
+      "deliverable_qty": 65487,
+      "delivery_pct": 51.15
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 14:23:52",
+      "an_dt": "15-May-2026 14:23:52",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Star Health and Allied Insurance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STARHEALTH_15052026142228_PB_NewspaperAd_15052026_SD.pdf"
+    },
     {
       "sort_date": "2026-05-13 19:35:11",
       "an_dt": "13-May-2026 19:35:11",

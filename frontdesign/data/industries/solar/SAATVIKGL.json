@@ -8,25 +8,9 @@
   "price": 462.1,
   "market_cap_cr": 5873.52,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 413.45,
-      "prev_close": 411.95,
-      "volume": 152561,
-      "deliverable_qty": 65768,
-      "delivery_pct": 43.11
-    },
-    {
-      "date": "2026-02-13",
-      "close": 419.3,
-      "prev_close": 413.45,
-      "volume": 124102,
-      "deliverable_qty": 53614,
-      "delivery_pct": 43.2
-    },
     {
       "date": "2026-02-16",
       "close": 416.4,
@@ -466,6 +450,14 @@
       "volume": 60798,
       "deliverable_qty": 22623,
       "delivery_pct": 37.21
+    },
+    {
+      "date": "2026-05-15",
+      "close": 448.05,
+      "prev_close": 453.45,
+      "volume": 59878,
+      "deliverable_qty": 33387,
+      "delivery_pct": 55.76
     }
   ],
   "news": [
@@ -636,27 +628,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Saatvik Green Energy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAATVIK_16022026125232_InvestormeetIntimationsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:41:41",
-      "an_dt": "13-Feb-2026 11:41:41",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Saatvik Green Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAATVIK_13022026114128_Monitoring_Agency_Intimation_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:22:23",
-      "an_dt": "12-Feb-2026 18:22:23",
-      "desc": "Acquisition",
-      "sm_name": "Saatvik Green Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAATVIK_12022026181941_Intimation_Under_Reg_30_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:13:28",
-      "an_dt": "12-Feb-2026 16:13:28",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Saatvik Green Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAATVIK_12022026160850_Investor_Meet_SIGNED.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 390.45,
   "market_cap_cr": 63226.79,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 375.05,
-      "prev_close": 375.2,
-      "volume": 8323909,
-      "deliverable_qty": 2310214,
-      "delivery_pct": 27.75
-    },
-    {
-      "date": "2026-02-13",
-      "close": 377.95,
-      "prev_close": 375.05,
-      "volume": 5387172,
-      "deliverable_qty": 1085537,
-      "delivery_pct": 20.15
-    },
     {
       "date": "2026-02-16",
       "close": 380.35,
@@ -466,9 +450,24 @@
       "volume": 11445147,
       "deliverable_qty": 4893404,
       "delivery_pct": 42.76
+    },
+    {
+      "date": "2026-05-15",
+      "close": 430.1,
+      "prev_close": 419.0,
+      "volume": 8177038,
+      "deliverable_qty": 3332400,
+      "delivery_pct": 40.75
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 16:29:51",
+      "an_dt": "14-May-2026 16:29:51",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Biocon Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIOCON_14052026162935_Cover_Letter_Transcript_Earnings_Call.pdf"
+    },
     {
       "sort_date": "2026-05-11 08:33:04",
       "an_dt": "11-May-2026 08:33:04",
@@ -776,55 +775,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Biocon Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIOCON_14022026151510_AD.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:36:47",
-      "an_dt": "13-Feb-2026 15:36:47",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Biocon Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIOCON_13022026153608_Earning_Calls_outcome13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 08:23:48",
-      "an_dt": "13-Feb-2026 08:23:48",
-      "desc": "Investor Presentation",
-      "sm_name": "Biocon Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIOCON_13022026082327_Presentataion13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:47:07",
-      "an_dt": "12-Feb-2026 19:47:07",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Biocon Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIOCON_12022026194647_SE_Intimation_-_Monitoring_Agency.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:42:23",
-      "an_dt": "12-Feb-2026 19:42:23",
-      "desc": "Press Release",
-      "sm_name": "Biocon Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIOCON_12022026194149_Press_Release12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:28:26",
-      "an_dt": "12-Feb-2026 19:28:26",
-      "desc": "General Updates",
-      "sm_name": "Biocon Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIOCON_12022026192802_Outcome_of_BM12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:13:34",
-      "an_dt": "12-Feb-2026 19:13:34",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Biocon Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIOCON_12022026191251_Outcome_of_BM12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:10:16",
-      "an_dt": "12-Feb-2026 19:10:16",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Biocon Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIOCON_12022026190829_Outcome_of_BM12022026.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 145.63,
   "market_cap_cr": 3221.53,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 156.29,
-      "prev_close": 158.23,
-      "volume": 92383,
-      "deliverable_qty": 57806,
-      "delivery_pct": 62.57
-    },
-    {
-      "date": "2026-02-13",
-      "close": 156.03,
-      "prev_close": 156.29,
-      "volume": 75966,
-      "deliverable_qty": 41884,
-      "delivery_pct": 55.14
-    },
     {
       "date": "2026-02-16",
       "close": 158.08,
@@ -466,9 +450,31 @@
       "volume": 92481,
       "deliverable_qty": 46256,
       "delivery_pct": 50.02
+    },
+    {
+      "date": "2026-05-15",
+      "close": 140.79,
+      "prev_close": 141.66,
+      "volume": 44884,
+      "deliverable_qty": 21776,
+      "delivery_pct": 48.52
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 16:10:01",
+      "an_dt": "14-May-2026 16:10:01",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Navneet Education Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Navneet26_14052026160949_NewspaperAdvertisementFinal.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 15:31:39",
+      "an_dt": "14-May-2026 15:31:39",
+      "desc": "Shareholders meeting",
+      "sm_name": "Navneet Education Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Navneet26_14052026153128_1CCMNoticetoequityshareholdersNEL.pdf"
+    },
     {
       "sort_date": "2026-04-07 12:20:04",
       "an_dt": "07-Apr-2026 12:20:04",

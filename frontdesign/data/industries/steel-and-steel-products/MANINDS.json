@@ -8,25 +8,9 @@
   "price": 468.6,
   "market_cap_cr": 3514.95,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 429.6,
-      "prev_close": 434.95,
-      "volume": 6579491,
-      "deliverable_qty": 718996,
-      "delivery_pct": 10.93
-    },
-    {
-      "date": "2026-02-13",
-      "close": 424.15,
-      "prev_close": 429.6,
-      "volume": 888822,
-      "deliverable_qty": 158633,
-      "delivery_pct": 17.85
-    },
     {
       "date": "2026-02-16",
       "close": 416.35,
@@ -466,6 +450,14 @@
       "volume": 267809,
       "deliverable_qty": 139334,
       "delivery_pct": 52.03
+    },
+    {
+      "date": "2026-05-15",
+      "close": 560.15,
+      "prev_close": 551.15,
+      "volume": 855352,
+      "deliverable_qty": 404243,
+      "delivery_pct": 47.26
     }
   ],
   "news": [
@@ -524,27 +516,6 @@
       "desc": "Updates",
       "sm_name": "Man Industries (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANINDS_26022026110453_MIIL_Intimation_of_Newspaper_Publication_25022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:39:49",
-      "an_dt": "13-Feb-2026 11:39:49",
-      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "sm_name": "Man Industries (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANINDS_13022026113936_MIIL_Statement_of_Deviation_or_Variation_31122025.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:32:10",
-      "an_dt": "12-Feb-2026 16:32:10",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Man Industries (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANINDS_12022026163203_MIIL_Monitoring_Agency_Report_31122025.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 11:53:10",
-      "an_dt": "12-Feb-2026 11:53:10",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Man Industries (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANINDS_12022026115302_MIIL_Concall_Transcript_09022026.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 1110.8,
   "market_cap_cr": 7445.33,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 952.8,
-      "prev_close": 967.3,
-      "volume": 57811,
-      "deliverable_qty": 25123,
-      "delivery_pct": 43.46
-    },
-    {
-      "date": "2026-02-13",
-      "close": 951.6,
-      "prev_close": 952.8,
-      "volume": 134294,
-      "deliverable_qty": 53873,
-      "delivery_pct": 40.12
-    },
     {
       "date": "2026-02-16",
       "close": 935.95,
@@ -466,9 +450,38 @@
       "volume": 227602,
       "deliverable_qty": 110499,
       "delivery_pct": 48.55
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1019.3,
+      "prev_close": 1084.3,
+      "volume": 207341,
+      "deliverable_qty": 97917,
+      "delivery_pct": 47.23
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:43:37",
+      "an_dt": "14-May-2026 17:43:37",
+      "desc": "Updates",
+      "sm_name": "India Glycols Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIAGLYCO_14052026174320_OutcomeofBM.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:40:53",
+      "an_dt": "14-May-2026 17:40:53",
+      "desc": "Change in Management",
+      "sm_name": "India Glycols Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIAGLYCO_14052026174040_Reg_30.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:38:37",
+      "an_dt": "14-May-2026 17:38:37",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "India Glycols Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIAGLYCO_14052026173640_OutcomeofBM.pdf"
+    },
     {
       "sort_date": "2026-05-07 18:29:59",
       "an_dt": "07-May-2026 18:29:59",
@@ -650,20 +663,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "India Glycols Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIAGLYCO_17022026171138_Transcript.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:49:39",
-      "an_dt": "12-Feb-2026 18:49:39",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "India Glycols Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIAGLYCO_12022026184905_AudiorecordingQ39MFY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:40:23",
-      "an_dt": "12-Feb-2026 15:40:23",
-      "desc": "Investor Presentation",
-      "sm_name": "India Glycols Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIAGLYCO_12022026154007_InvestorPresentation.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 1623.1,
   "market_cap_cr": 13518.64,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1740.4,
-      "prev_close": 1767.6,
-      "volume": 246745,
-      "deliverable_qty": 102568,
-      "delivery_pct": 41.57
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1735.9,
-      "prev_close": 1740.4,
-      "volume": 171064,
-      "deliverable_qty": 47249,
-      "delivery_pct": 27.62
-    },
     {
       "date": "2026-02-16",
       "close": 1720.1,
@@ -466,9 +450,24 @@
       "volume": 289257,
       "deliverable_qty": 70289,
       "delivery_pct": 24.3
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1788.1,
+      "prev_close": 1833.4,
+      "volume": 165510,
+      "deliverable_qty": 67202,
+      "delivery_pct": 40.6
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 14:55:44",
+      "an_dt": "15-May-2026 14:55:44",
+      "desc": "Appointment",
+      "sm_name": "BEML Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BEML_15052026145448_BSENSE-SIGNED.pdf"
+    },
     {
       "sort_date": "2026-05-01 13:25:39",
       "an_dt": "01-May-2026 13:25:39",
@@ -538,13 +537,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "BEML Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BEML_18022026152135_Intimation_of_Loss_share_18_02_26.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:55:36",
-      "an_dt": "12-Feb-2026 17:55:36",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "BEML Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BEML_12022026175128_12022026_Invetsors_meet_outcome.pdf"
     }
   ]
 }

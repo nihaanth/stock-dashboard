@@ -8,25 +8,9 @@
   "price": 96.63,
   "market_cap_cr": 985.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 118.36,
-      "prev_close": 119.88,
-      "volume": 68803,
-      "deliverable_qty": 33729,
-      "delivery_pct": 49.02
-    },
-    {
-      "date": "2026-02-13",
-      "close": 120.46,
-      "prev_close": 118.36,
-      "volume": 162805,
-      "deliverable_qty": 79209,
-      "delivery_pct": 48.65
-    },
     {
       "date": "2026-02-16",
       "close": 121.1,
@@ -466,6 +450,14 @@
       "volume": 63591,
       "deliverable_qty": 26550,
       "delivery_pct": 41.75
+    },
+    {
+      "date": "2026-05-15",
+      "close": 99.54,
+      "prev_close": 101.18,
+      "volume": 53625,
+      "deliverable_qty": 29961,
+      "delivery_pct": 55.87
     }
   ],
   "news": [
@@ -601,27 +593,6 @@
       "desc": "Press Release",
       "sm_name": "Western Carriers (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WCIL_14022026142419_WCIL_PRESS_RELEASE.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:15:28",
-      "an_dt": "13-Feb-2026 19:15:28",
-      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "sm_name": "Western Carriers (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WCIL_13022026191506_FINAL_WCIL_SOD_.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:37:48",
-      "an_dt": "13-Feb-2026 17:37:48",
-      "desc": "General Updates",
-      "sm_name": "Western Carriers (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WCIL_13022026173525_REG_30__WCIL_APPOINTMENT_SIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:15:35",
-      "an_dt": "13-Feb-2026 17:15:35",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Western Carriers (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WCIL_13022026171509_FINAL_WCIL_OUTCOME_DEC_2025.pdf"
     }
   ]
 }

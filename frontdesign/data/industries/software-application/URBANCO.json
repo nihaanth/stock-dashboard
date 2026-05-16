@@ -8,25 +8,9 @@
   "price": 126.06,
   "market_cap_cr": 19440.73,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 121.08,
-      "prev_close": 123.54,
-      "volume": 2501043,
-      "deliverable_qty": 1456777,
-      "delivery_pct": 58.25
-    },
-    {
-      "date": "2026-02-13",
-      "close": 121.25,
-      "prev_close": 121.08,
-      "volume": 2561165,
-      "deliverable_qty": 1320371,
-      "delivery_pct": 51.55
-    },
     {
       "date": "2026-02-16",
       "close": 117.17,
@@ -466,9 +450,24 @@
       "volume": 5692744,
       "deliverable_qty": 2009045,
       "delivery_pct": 35.29
+    },
+    {
+      "date": "2026-05-15",
+      "close": 120.94,
+      "prev_close": 123.75,
+      "volume": 3405245,
+      "deliverable_qty": 1624991,
+      "delivery_pct": 47.72
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 22:41:26",
+      "an_dt": "14-May-2026 22:41:26",
+      "desc": "Action(s) taken or orders passed",
+      "sm_name": "Urban Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/URBANCO_14052026224111_Stampdutyorder_UC_14052026.pdf"
+    },
     {
       "sort_date": "2026-05-11 20:25:58",
       "an_dt": "11-May-2026 20:25:58",
@@ -671,13 +670,6 @@
       "desc": "Press Release",
       "sm_name": "Urban Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/URBANCO_23022026115353_UC_PR_23022026_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:53:33",
-      "an_dt": "13-Feb-2026 18:53:33",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Urban Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/URBANCO_13022026185309_Investor_Meeting_SE_Intimation_13022026.pdf"
     }
   ]
 }

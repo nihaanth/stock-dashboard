@@ -8,25 +8,9 @@
   "price": 112.3,
   "market_cap_cr": 8892.45,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 131.23,
-      "prev_close": 134.17,
-      "volume": 4352052,
-      "deliverable_qty": 2346313,
-      "delivery_pct": 53.91
-    },
-    {
-      "date": "2026-02-13",
-      "close": 127.6,
-      "prev_close": 131.23,
-      "volume": 3582998,
-      "deliverable_qty": 2013472,
-      "delivery_pct": 56.2
-    },
     {
       "date": "2026-02-16",
       "close": 125.87,
@@ -466,9 +450,38 @@
       "volume": 2763567,
       "deliverable_qty": 991967,
       "delivery_pct": 35.89
+    },
+    {
+      "date": "2026-05-15",
+      "close": 111.23,
+      "prev_close": 112.51,
+      "volume": 2056737,
+      "deliverable_qty": 994497,
+      "delivery_pct": 48.35
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 22:35:30",
+      "an_dt": "15-May-2026 22:35:30",
+      "desc": "Press Release",
+      "sm_name": "Lemon Tree Hotels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LEMONTREE_15052026223414_HOA.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 22:02:03",
+      "an_dt": "15-May-2026 22:02:03",
+      "desc": "Press Release",
+      "sm_name": "Lemon Tree Hotels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LEMONTREE_15052026220027_Disclosure_Reg_30_Chirang.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 21:29:30",
+      "an_dt": "14-May-2026 21:29:30",
+      "desc": "Press Release",
+      "sm_name": "Lemon Tree Hotels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LEMONTREE_14052026212622_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-08 15:44:50",
       "an_dt": "08-May-2026 15:44:50",

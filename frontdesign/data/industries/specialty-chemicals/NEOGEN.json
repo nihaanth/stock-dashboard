@@ -8,25 +8,9 @@
   "price": 1741.9,
   "market_cap_cr": 4769.61,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1301.2,
-      "prev_close": 1302.2,
-      "volume": 56147,
-      "deliverable_qty": 21886,
-      "delivery_pct": 38.98
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1286.4,
-      "prev_close": 1301.2,
-      "volume": 22337,
-      "deliverable_qty": 8320,
-      "delivery_pct": 37.25
-    },
     {
       "date": "2026-02-16",
       "close": 1288.4,
@@ -466,6 +450,14 @@
       "volume": 58164,
       "deliverable_qty": 18055,
       "delivery_pct": 31.04
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1664.8,
+      "prev_close": 1687.1,
+      "volume": 17089,
+      "deliverable_qty": 7930,
+      "delivery_pct": 46.4
     }
   ],
   "news": [
@@ -657,55 +649,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Neogen Chemicals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEOGEN_18022026132854_TranscriptDEC25.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:50:40",
-      "an_dt": "12-Feb-2026 18:50:40",
-      "desc": "General Updates",
-      "sm_name": "Neogen Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEOGEN_12022026185023_Dahej_Fire_UPDATE_Insurance_12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:48:40",
-      "an_dt": "12-Feb-2026 18:48:40",
-      "desc": "Disruption of Operations",
-      "sm_name": "Neogen Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEOGEN_12022026184823_Dahej_Fire_UPDATE_Insurance_12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:09:19",
-      "an_dt": "12-Feb-2026 17:09:19",
-      "desc": "General Updates",
-      "sm_name": "Neogen Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEOGEN_12022026170908_CoveringLetterRecording12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:07:28",
-      "an_dt": "12-Feb-2026 17:07:28",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Neogen Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEOGEN_12022026170709_CoveringLetterRecording12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 00:14:17",
-      "an_dt": "12-Feb-2026 00:14:17",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Neogen Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEOGEN_12022026001406_ep.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 00:12:36",
-      "an_dt": "12-Feb-2026 00:12:36",
-      "desc": "Press Release",
-      "sm_name": "Neogen Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEOGEN_12022026001225_PR.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 00:10:06",
-      "an_dt": "12-Feb-2026 00:10:06",
-      "desc": "Investor Presentation",
-      "sm_name": "Neogen Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEOGEN_12022026000954_ep.pdf"
     }
   ]
 }

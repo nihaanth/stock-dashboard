@@ -8,25 +8,9 @@
   "price": 171.7,
   "market_cap_cr": 628.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 185.85,
-      "prev_close": 187.04,
-      "volume": 36417,
-      "deliverable_qty": 21992,
-      "delivery_pct": 60.39
-    },
-    {
-      "date": "2026-02-13",
-      "close": 175.51,
-      "prev_close": 185.85,
-      "volume": 60396,
-      "deliverable_qty": 29563,
-      "delivery_pct": 48.95
-    },
     {
       "date": "2026-02-16",
       "close": 172.46,
@@ -466,6 +450,14 @@
       "volume": 13089,
       "deliverable_qty": 7401,
       "delivery_pct": 56.54
+    },
+    {
+      "date": "2026-05-15",
+      "close": 163.63,
+      "prev_close": 163.0,
+      "volume": 15810,
+      "deliverable_qty": 10197,
+      "delivery_pct": 64.5
     }
   ],
   "news": [
@@ -482,34 +474,6 @@
       "desc": "Trading Window",
       "sm_name": "Chemcon Speciality Chemicals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CHEMCON_25032026114610_CTW26marchuploaded25032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:04:47",
-      "an_dt": "13-Feb-2026 17:04:47",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Chemcon Speciality Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CHEMCON_13022026170438_Npq3uploaded13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:42:29",
-      "an_dt": "13-Feb-2026 16:42:29",
-      "desc": "Investor Presentation",
-      "sm_name": "Chemcon Speciality Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CHEMCON_13022026164214_IPFeb26uploaded13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:40:29",
-      "an_dt": "12-Feb-2026 18:40:29",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Chemcon Speciality Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CHEMCON_12022026184005_BMoutcomeuploaded12022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:38:18",
-      "an_dt": "12-Feb-2026 18:38:18",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Chemcon Speciality Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CHEMCON_12022026183401_BMoutcomeuploaded12022026.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 399.4,
   "market_cap_cr": 1858.44,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 418.5,
-      "prev_close": 418.65,
-      "volume": 16978,
-      "deliverable_qty": 9465,
-      "delivery_pct": 55.75
-    },
-    {
-      "date": "2026-02-13",
-      "close": 408.25,
-      "prev_close": 418.5,
-      "volume": 9426,
-      "deliverable_qty": 5455,
-      "delivery_pct": 57.87
-    },
     {
       "date": "2026-02-16",
       "close": 400.25,
@@ -466,6 +450,14 @@
       "volume": 252064,
       "deliverable_qty": 230428,
       "delivery_pct": 91.42
+    },
+    {
+      "date": "2026-05-15",
+      "close": 406.95,
+      "prev_close": 412.95,
+      "volume": 11561,
+      "deliverable_qty": 7229,
+      "delivery_pct": 62.53
     }
   ],
   "news": [
@@ -552,27 +544,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Hinduja Global Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HGSN_19022026164408_SELetterTranscript.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:48:21",
-      "an_dt": "13-Feb-2026 18:48:21",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Hinduja Global Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HGSN_13022026184652_Earnings_Call-Audio_Recording.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:54:32",
-      "an_dt": "13-Feb-2026 15:54:32",
-      "desc": "Investor Presentation",
-      "sm_name": "Hinduja Global Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HGSN_13022026155410_SELetterPresentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 12:22:24",
-      "an_dt": "12-Feb-2026 12:22:24",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Hinduja Global Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HGSN_12022026122207_Newspaper.pdf"
     }
   ]
 }

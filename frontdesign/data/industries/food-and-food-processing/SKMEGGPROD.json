@@ -8,25 +8,9 @@
   "price": 173.13,
   "market_cap_cr": 912.84,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 180.23,
-      "prev_close": 178.48,
-      "volume": 391005,
-      "deliverable_qty": 124008,
-      "delivery_pct": 31.72
-    },
-    {
-      "date": "2026-02-13",
-      "close": 179.91,
-      "prev_close": 180.23,
-      "volume": 329036,
-      "deliverable_qty": 123389,
-      "delivery_pct": 37.5
-    },
     {
       "date": "2026-02-16",
       "close": 182.4,
@@ -466,6 +450,14 @@
       "volume": 117502,
       "deliverable_qty": 65974,
       "delivery_pct": 56.15
+    },
+    {
+      "date": "2026-05-15",
+      "close": 180.53,
+      "prev_close": 182.35,
+      "volume": 191321,
+      "deliverable_qty": 111138,
+      "delivery_pct": 58.09
     }
   ],
   "news": [
@@ -517,13 +509,6 @@
       "desc": "Updates",
       "sm_name": "SKM Egg Products Export (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SKMEGGPROD_02032026113224_SKMEGGSEBISAST02032026F.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:34:30",
-      "an_dt": "13-Feb-2026 15:34:30",
-      "desc": "Updates",
-      "sm_name": "SKM Egg Products Export (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SKMEGGPROD_13022026153417_SKMEGGSEBISAST13022026F.pdf"
     }
   ]
 }

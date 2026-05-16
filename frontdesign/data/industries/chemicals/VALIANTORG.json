@@ -8,25 +8,9 @@
   "price": 306.2,
   "market_cap_cr": 857.96,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 275.18,
-      "prev_close": 275.39,
-      "volume": 11538,
-      "deliverable_qty": 5810,
-      "delivery_pct": 50.36
-    },
-    {
-      "date": "2026-02-13",
-      "close": 267.47,
-      "prev_close": 275.18,
-      "volume": 18835,
-      "deliverable_qty": 9456,
-      "delivery_pct": 50.2
-    },
     {
       "date": "2026-02-16",
       "close": 246.18,
@@ -466,6 +450,14 @@
       "volume": 69687,
       "deliverable_qty": 29212,
       "delivery_pct": 41.92
+    },
+    {
+      "date": "2026-05-15",
+      "close": 296.6,
+      "prev_close": 284.0,
+      "volume": 95114,
+      "deliverable_qty": 41947,
+      "delivery_pct": 44.1
     }
   ],
   "news": [
@@ -524,20 +516,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Valiant Organics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VALIANTORG_14022026120048_Intimation-NP.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:02:26",
-      "an_dt": "13-Feb-2026 17:02:26",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Valiant Organics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VALIANTORG_13022026170136_Intimation-BM_outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:00:37",
-      "an_dt": "13-Feb-2026 17:00:37",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Valiant Organics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VALIANTORG_13022026170011_Intimation-BM_outcome.pdf"
     }
   ]
 }

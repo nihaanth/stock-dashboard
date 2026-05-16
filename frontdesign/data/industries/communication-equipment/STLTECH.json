@@ -8,25 +8,9 @@
   "price": 242.78,
   "market_cap_cr": 11850.88,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 154.53,
-      "prev_close": 143.7,
-      "volume": 22115250,
-      "deliverable_qty": 4866053,
-      "delivery_pct": 22.0
-    },
-    {
-      "date": "2026-02-13",
-      "close": 155.66,
-      "prev_close": 154.53,
-      "volume": 11968272,
-      "deliverable_qty": 2938250,
-      "delivery_pct": 24.55
-    },
     {
       "date": "2026-02-16",
       "close": 153.91,
@@ -470,6 +454,27 @@
   ],
   "news": [
     {
+      "sort_date": "2026-05-15 22:17:30",
+      "an_dt": "15-May-2026 22:17:30",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Sterlite Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STLTECH_15052026221654_SEIntimationallotmentMay26_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 18:22:52",
+      "an_dt": "15-May-2026 18:22:52",
+      "desc": "Shareholders meeting",
+      "sm_name": "Sterlite Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STLTECH_15052026182004_SEintimation_PostalBallotNotice_15may2026_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:38:24",
+      "an_dt": "14-May-2026 17:38:24",
+      "desc": "Reply to Clarification- Financial results",
+      "sm_name": "Sterlite Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STLTECH_06052026125159_Clarification_signed.pdf"
+    },
+    {
       "sort_date": "2026-05-13 19:31:04",
       "an_dt": "13-May-2026 19:31:04",
       "desc": "Action(s) taken or orders passed",
@@ -664,13 +669,6 @@
       "desc": "General Updates",
       "sm_name": "Sterlite Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/STLTECH_26022026183858_SEintimationEGMAddendum_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 11:26:41",
-      "an_dt": "12-Feb-2026 11:26:41",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Sterlite Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STLTECH_12022026112615_InvestorMeetInvitationcover_letter_signed.pdf"
     }
   ]
 }

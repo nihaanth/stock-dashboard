@@ -8,25 +8,9 @@
   "price": 296.8,
   "market_cap_cr": 4182.97,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 249.7,
-      "prev_close": 258.6,
-      "volume": 122996,
-      "deliverable_qty": 76292,
-      "delivery_pct": 62.03
-    },
-    {
-      "date": "2026-02-13",
-      "close": 239.65,
-      "prev_close": 249.7,
-      "volume": 143311,
-      "deliverable_qty": 75750,
-      "delivery_pct": 52.86
-    },
     {
       "date": "2026-02-16",
       "close": 233.35,
@@ -466,9 +450,24 @@
       "volume": 418452,
       "deliverable_qty": 205074,
       "delivery_pct": 49.01
+    },
+    {
+      "date": "2026-05-15",
+      "close": 275.4,
+      "prev_close": 280.7,
+      "volume": 317293,
+      "deliverable_qty": 146530,
+      "delivery_pct": 46.18
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 15:11:22",
+      "an_dt": "15-May-2026 15:11:22",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Ellenbarrie Industrial Gases Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELLENBARRIE2024_15052026151017_Announcement_Monitoring_Agency_Report_31032026.pdf"
+    },
     {
       "sort_date": "2026-04-15 20:34:54",
       "an_dt": "15-Apr-2026 20:34:54",

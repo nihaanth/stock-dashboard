@@ -8,25 +8,9 @@
   "price": 934.65,
   "market_cap_cr": 1175.99,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 972.85,
-      "prev_close": 974.55,
-      "volume": 4906,
-      "deliverable_qty": 1782,
-      "delivery_pct": 36.32
-    },
-    {
-      "date": "2026-02-13",
-      "close": 948.25,
-      "prev_close": 972.85,
-      "volume": 5361,
-      "deliverable_qty": 2461,
-      "delivery_pct": 45.91
-    },
     {
       "date": "2026-02-16",
       "close": 930.8,
@@ -466,9 +450,38 @@
       "volume": 6601,
       "deliverable_qty": 3608,
       "delivery_pct": 54.66
+    },
+    {
+      "date": "2026-05-15",
+      "close": 986.6,
+      "prev_close": 970.65,
+      "volume": 7244,
+      "deliverable_qty": 4497,
+      "delivery_pct": 62.08
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 20:02:08",
+      "an_dt": "15-May-2026 20:02:08",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Excel Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXCELINDUS_ROID_86265_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-05-15 19:32:51",
+      "an_dt": "15-May-2026 19:32:51",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Excel Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXCELINDUS_ROID_86258_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-05-15 19:26:32",
+      "an_dt": "15-May-2026 19:26:32",
+      "desc": "Change in Management",
+      "sm_name": "Excel Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXCELINDUS_15052026192621_Reg_30_Change_in_Management_Disclosure_signed.pdf"
+    },
     {
       "sort_date": "2026-05-11 12:17:01",
       "an_dt": "11-May-2026 12:17:01",
@@ -538,13 +551,6 @@
       "desc": "Updates",
       "sm_name": "Excel Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXCELINDUS_24022026163122_ReclassificationofPromotertoPublicNSE.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:00:57",
-      "an_dt": "12-Feb-2026 15:00:57",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Excel Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXCELINDUS_12022026150042_Newspaper_Advertisement_signed.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 64.99,
   "market_cap_cr": 7905.3,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 70.04,
-      "prev_close": 70.89,
-      "volume": 2416919,
-      "deliverable_qty": 807986,
-      "delivery_pct": 33.43
-    },
-    {
-      "date": "2026-02-13",
-      "close": 73.8,
-      "prev_close": 70.04,
-      "volume": 19443779,
-      "deliverable_qty": 6769672,
-      "delivery_pct": 34.82
-    },
     {
       "date": "2026-02-16",
       "close": 72.48,
@@ -466,9 +450,24 @@
       "volume": 2446503,
       "deliverable_qty": 919952,
       "delivery_pct": 37.6
+    },
+    {
+      "date": "2026-05-15",
+      "close": 62.66,
+      "prev_close": 63.48,
+      "volume": 1886513,
+      "deliverable_qty": 854974,
+      "delivery_pct": 45.32
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:16:20",
+      "an_dt": "14-May-2026 17:16:20",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Aditya Birla Fashion and Retail Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABFRL_14052026171438_SE.pdf"
+    },
     {
       "sort_date": "2026-04-23 19:34:18",
       "an_dt": "23-Apr-2026 19:34:18",

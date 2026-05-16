@@ -8,25 +8,9 @@
   "price": 137.74,
   "market_cap_cr": 2747.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 133.2,
-      "prev_close": 134.89,
-      "volume": 147984,
-      "deliverable_qty": 89037,
-      "delivery_pct": 60.17
-    },
-    {
-      "date": "2026-02-13",
-      "close": 131.41,
-      "prev_close": 133.2,
-      "volume": 185070,
-      "deliverable_qty": 95482,
-      "delivery_pct": 51.59
-    },
     {
       "date": "2026-02-16",
       "close": 129.37,
@@ -466,9 +450,80 @@
       "volume": 139559,
       "deliverable_qty": 66903,
       "delivery_pct": 47.94
+    },
+    {
+      "date": "2026-05-15",
+      "close": 136.33,
+      "prev_close": 134.3,
+      "volume": 316442,
+      "deliverable_qty": 95377,
+      "delivery_pct": 30.14
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 21:20:52",
+      "an_dt": "15-May-2026 21:20:52",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Standard Engineering Technology Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLTPL_15052026212040_Investor_meet_Outcome_15052025__.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 13:11:55",
+      "an_dt": "15-May-2026 13:11:55",
+      "desc": "Investor Presentation",
+      "sm_name": "Standard Engineering Technology Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLTPL_15052026131145_Investor_Presentation_15052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 12:13:51",
+      "an_dt": "15-May-2026 12:13:51",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Standard Engineering Technology Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLTPL_15052026121341_Newspaper_Advertisement_15052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:23:39",
+      "an_dt": "14-May-2026 17:23:39",
+      "desc": "Change in Director(s)",
+      "sm_name": "Standard Engineering Technology Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLTPL_14052026172325_Out_come_of_Board_Meeting.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:17:14",
+      "an_dt": "14-May-2026 17:17:14",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Standard Engineering Technology Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLTPL_14052026171704_Monitoring_Agency_Report_14052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 16:13:18",
+      "an_dt": "14-May-2026 16:13:18",
+      "desc": "Change in Management",
+      "sm_name": "Standard Engineering Technology Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLTPL_14052026161307_Out_come_of_Board_Meeting.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 16:03:19",
+      "an_dt": "14-May-2026 16:03:19",
+      "desc": "Options to purchase securities",
+      "sm_name": "Standard Engineering Technology Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLTPL_14052026160308_Intimation_Grant.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 13:02:57",
+      "an_dt": "14-May-2026 13:02:57",
+      "desc": "Press Release",
+      "sm_name": "Standard Engineering Technology Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLTPL_14052026130242_Press_release_14052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 11:57:16",
+      "an_dt": "14-May-2026 11:57:16",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Standard Engineering Technology Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLTPL_14052026115658_Out_come_of_Board_Meeting.pdf"
+    },
     {
       "sort_date": "2026-05-12 19:38:50",
       "an_dt": "12-May-2026 19:38:50",
@@ -531,20 +586,6 @@
       "desc": "Reply to Clarification- Financial results",
       "sm_name": "Standard Engineering Technology Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLTPL_17022026182743_NSE_Clarification_letter_-Financial_Results.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:23:16",
-      "an_dt": "13-Feb-2026 16:23:16",
-      "desc": "Clarification - Financial Results",
-      "sm_name": "Standard Engineering Technology Limited",
-      "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-02-12 19:46:22",
-      "an_dt": "12-Feb-2026 19:46:22",
-      "desc": "General Updates",
-      "sm_name": "Standard Engineering Technology Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLTPL_12022026194609_Press_release_New_Logo_launch.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 2072.3,
   "market_cap_cr": 8810.88,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1365.4,
-      "prev_close": 1300.4,
-      "volume": 396365,
-      "deliverable_qty": 166653,
-      "delivery_pct": 42.05
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1422.1,
-      "prev_close": 1365.4,
-      "volume": 295271,
-      "deliverable_qty": 164330,
-      "delivery_pct": 55.65
-    },
     {
       "date": "2026-02-16",
       "close": 1434.8,
@@ -466,6 +450,14 @@
       "volume": 94455,
       "deliverable_qty": 49904,
       "delivery_pct": 52.83
+    },
+    {
+      "date": "2026-05-15",
+      "close": 2058.3,
+      "prev_close": 2062.5,
+      "volume": 71476,
+      "deliverable_qty": 37918,
+      "delivery_pct": 53.05
     }
   ],
   "news": [
@@ -573,13 +565,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "AXISCADES Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISCADES_14022026092305_SEIntimationTranscript.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:46:10",
-      "an_dt": "13-Feb-2026 15:46:10",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "AXISCADES Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISCADES_13022026154440_SEIntimation18022026.pdf"
     }
   ]
 }

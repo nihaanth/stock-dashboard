@@ -8,25 +8,9 @@
   "price": 56.93,
   "market_cap_cr": 1891.45,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 34.11,
-      "prev_close": 34.08,
-      "volume": 281361,
-      "deliverable_qty": 125417,
-      "delivery_pct": 44.58
-    },
-    {
-      "date": "2026-02-13",
-      "close": 32.52,
-      "prev_close": 34.11,
-      "volume": 473510,
-      "deliverable_qty": 207498,
-      "delivery_pct": 43.82
-    },
     {
       "date": "2026-02-16",
       "close": 32.29,
@@ -466,9 +450,24 @@
       "volume": 9750250,
       "deliverable_qty": 4213028,
       "delivery_pct": 43.21
+    },
+    {
+      "date": "2026-05-15",
+      "close": 61.61,
+      "prev_close": 61.63,
+      "volume": 3029519,
+      "deliverable_qty": 1287688,
+      "delivery_pct": 42.5
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 20:30:15",
+      "an_dt": "14-May-2026 20:30:15",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Confidence Petroleum India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CONFIPET_14052026203003_CPIL-MONITERING_AGENCY_REPORT-MAR-2026.pdf"
+    },
     {
       "sort_date": "2026-05-04 19:23:56",
       "an_dt": "04-May-2026 19:23:56",

@@ -8,25 +8,9 @@
   "price": 227.62,
   "market_cap_cr": 1792.06,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 217.51,
-      "prev_close": 222.46,
-      "volume": 437978,
-      "deliverable_qty": 154549,
-      "delivery_pct": 35.29
-    },
-    {
-      "date": "2026-02-13",
-      "close": 212.17,
-      "prev_close": 217.51,
-      "volume": 476555,
-      "deliverable_qty": 146900,
-      "delivery_pct": 30.83
-    },
     {
       "date": "2026-02-16",
       "close": 211.31,
@@ -466,9 +450,24 @@
       "volume": 3580396,
       "deliverable_qty": 780481,
       "delivery_pct": 21.8
+    },
+    {
+      "date": "2026-05-15",
+      "close": 188.9,
+      "prev_close": 192.45,
+      "volume": 1865156,
+      "deliverable_qty": 417706,
+      "delivery_pct": 22.4
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:48:39",
+      "an_dt": "15-May-2026 18:48:39",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "One Mobikwik Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_15052026184823_Transcript_of_the_Earnings_Call.pdf"
+    },
     {
       "sort_date": "2026-05-13 11:56:53",
       "an_dt": "13-May-2026 11:56:53",
@@ -615,13 +614,6 @@
       "desc": "Granting/withdrawal/surrender/cancellation/suspension of key licenses/ regulatory approvals",
       "sm_name": "One Mobikwik Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_23022026225813_Intimation_1.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:03:41",
-      "an_dt": "12-Feb-2026 19:03:41",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "One Mobikwik Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_12022026190220_Intimation_Signed.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 135.03,
   "market_cap_cr": 7464.56,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 130.48,
-      "prev_close": 127.84,
-      "volume": 5719671,
-      "deliverable_qty": 1065696,
-      "delivery_pct": 18.63
-    },
-    {
-      "date": "2026-02-13",
-      "close": 133.43,
-      "prev_close": 130.48,
-      "volume": 2763054,
-      "deliverable_qty": 912127,
-      "delivery_pct": 33.01
-    },
     {
       "date": "2026-02-16",
       "close": 128.03,
@@ -466,6 +450,14 @@
       "volume": 403762,
       "deliverable_qty": 196182,
       "delivery_pct": 48.59
+    },
+    {
+      "date": "2026-05-15",
+      "close": 129.36,
+      "prev_close": 133.38,
+      "volume": 263140,
+      "deliverable_qty": 129755,
+      "delivery_pct": 49.31
     }
   ],
   "news": [
@@ -510,34 +502,6 @@
       "desc": "Updates",
       "sm_name": "Redtape Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/REDTAPE_17022026153044_Highlights_for_Q3.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:16:27",
-      "an_dt": "13-Feb-2026 11:16:27",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Redtape Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/REDTAPE_13022026111612_Newspaper_Advertisement.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 14:17:11",
-      "an_dt": "12-Feb-2026 14:17:11",
-      "desc": "Updates",
-      "sm_name": "Redtape Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/REDTAPE_12022026141655_Outcome_BoardMeeting_Dec_2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 14:06:41",
-      "an_dt": "12-Feb-2026 14:06:41",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Redtape Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/REDTAPE_12022026140407_Outcome_BoardMeeting_Dec_2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:58:24",
-      "an_dt": "12-Feb-2026 13:58:24",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Redtape Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/REDTAPE_12022026135753_Outcome_BoardMeeting_Dec_2025.pdf"
     }
   ]
 }

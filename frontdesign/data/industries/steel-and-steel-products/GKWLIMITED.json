@@ -8,25 +8,9 @@
   "price": 1732.0,
   "market_cap_cr": 1033.4,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1700.0,
-      "prev_close": 1717.8,
-      "volume": 1104,
-      "deliverable_qty": 812,
-      "delivery_pct": 73.55
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1701.6,
-      "prev_close": 1700.0,
-      "volume": 213,
-      "deliverable_qty": 146,
-      "delivery_pct": 68.54
-    },
     {
       "date": "2026-02-16",
       "close": 1729.2,
@@ -466,6 +450,14 @@
       "volume": 325,
       "deliverable_qty": 249,
       "delivery_pct": 76.62
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1666.0,
+      "prev_close": 1671.0,
+      "volume": 88,
+      "deliverable_qty": 77,
+      "delivery_pct": 87.5
     }
   ],
   "news": [
@@ -517,13 +509,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "GKW Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GKWLIMITED_16022026135131_GKWLIMITED_Specialwindow_NEWSPAPER_16022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 11:15:22",
-      "an_dt": "12-Feb-2026 11:15:22",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "GKW Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GKWLIMITED_12022026111457_Newspaper_Publication_UFR31122025.pdf"
     }
   ]
 }

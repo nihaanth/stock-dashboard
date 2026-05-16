@@ -8,25 +8,9 @@
   "price": 562.15,
   "market_cap_cr": 10225.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 636.0,
-      "prev_close": 613.0,
-      "volume": 802983,
-      "deliverable_qty": 366959,
-      "delivery_pct": 45.7
-    },
-    {
-      "date": "2026-02-13",
-      "close": 634.9,
-      "prev_close": 636.0,
-      "volume": 478144,
-      "deliverable_qty": 238578,
-      "delivery_pct": 49.9
-    },
     {
       "date": "2026-02-16",
       "close": 629.6,
@@ -466,6 +450,14 @@
       "volume": 727080,
       "deliverable_qty": 392547,
       "delivery_pct": 53.99
+    },
+    {
+      "date": "2026-05-15",
+      "close": 530.7,
+      "prev_close": 528.35,
+      "volume": 894921,
+      "deliverable_qty": 563403,
+      "delivery_pct": 62.96
     }
   ],
   "news": [
@@ -559,13 +551,6 @@
       "desc": "Updates",
       "sm_name": "BLACKBUCK LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZINKA2015_16022026184902_DisclosureunderSEBISASTReg2011.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 14:54:14",
-      "an_dt": "12-Feb-2026 14:54:14",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "BLACKBUCK LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZINKA2015_12022026145147_Investor_Call_Transcript_November_12_2026.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 245.15,
   "market_cap_cr": 1228.02,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 326.0,
-      "prev_close": 295.3,
-      "volume": 244199,
-      "deliverable_qty": 30545,
-      "delivery_pct": 12.51
-    },
-    {
-      "date": "2026-02-13",
-      "close": 317.3,
-      "prev_close": 326.0,
-      "volume": 76106,
-      "deliverable_qty": 9228,
-      "delivery_pct": 12.13
-    },
     {
       "date": "2026-02-16",
       "close": 309.6,
@@ -466,9 +450,24 @@
       "volume": 19882,
       "deliverable_qty": 12679,
       "delivery_pct": 63.77
+    },
+    {
+      "date": "2026-05-15",
+      "close": 244.35,
+      "prev_close": 245.0,
+      "volume": 31429,
+      "deliverable_qty": 3217,
+      "delivery_pct": 10.24
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 20:07:58",
+      "an_dt": "14-May-2026 20:07:58",
+      "desc": "Fraud/Default/Arrest",
+      "sm_name": "Laxmi Goldorna House Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LGHL_14052026200748_jay_fraud.pdf"
+    },
     {
       "sort_date": "2026-04-30 18:56:22",
       "an_dt": "30-Apr-2026 18:56:22",
@@ -496,20 +495,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Laxmi Goldorna House Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LGHL_16022026185826_newspaperdecfinancials.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:18:43",
-      "an_dt": "13-Feb-2026 17:18:43",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Laxmi Goldorna House Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LGHL_13022026171618_BMOUTCOME13022026_SIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:15:30",
-      "an_dt": "13-Feb-2026 17:15:30",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Laxmi Goldorna House Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LGHL_13022026171515_BMOUTCOME13022026_SIGNED.pdf"
     }
   ]
 }

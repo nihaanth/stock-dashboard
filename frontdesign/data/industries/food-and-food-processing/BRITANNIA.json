@@ -8,25 +8,9 @@
   "price": 5589.0,
   "market_cap_cr": 134621.29,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 6102.0,
-      "prev_close": 6019.0,
-      "volume": 455997,
-      "deliverable_qty": 294024,
-      "delivery_pct": 64.48
-    },
-    {
-      "date": "2026-02-13",
-      "close": 5980.5,
-      "prev_close": 6102.0,
-      "volume": 159821,
-      "deliverable_qty": 81337,
-      "delivery_pct": 50.89
-    },
     {
       "date": "2026-02-16",
       "close": 6106.0,
@@ -466,9 +450,24 @@
       "volume": 405228,
       "deliverable_qty": 230448,
       "delivery_pct": 56.87
+    },
+    {
+      "date": "2026-05-15",
+      "close": 5406.0,
+      "prev_close": 5372.5,
+      "volume": 151714,
+      "deliverable_qty": 85550,
+      "delivery_pct": 56.39
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 20:29:22",
+      "an_dt": "15-May-2026 20:29:22",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Britannia Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BRITANNIA1_15052026202803_Intimation_signed.pdf"
+    },
     {
       "sort_date": "2026-05-11 19:51:15",
       "an_dt": "11-May-2026 19:51:15",
@@ -657,20 +656,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Britannia Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BRITANNIA1_16022026213645_Intimation_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:48:35",
-      "an_dt": "12-Feb-2026 17:48:35",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Britannia Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BRITANNIA1_12022026174724_SEIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 00:26:54",
-      "an_dt": "12-Feb-2026 00:26:54",
-      "desc": "Shareholders meeting",
-      "sm_name": "Britannia Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BRITANNIA1_12022026002614_Intimation_Signed.pdf"
     }
   ]
 }

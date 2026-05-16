@@ -8,25 +8,9 @@
   "price": 93.28,
   "market_cap_cr": 898.32,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 93.51,
-      "prev_close": 97.0,
-      "volume": 106463,
-      "deliverable_qty": 55701,
-      "delivery_pct": 52.32
-    },
-    {
-      "date": "2026-02-13",
-      "close": 93.37,
-      "prev_close": 93.51,
-      "volume": 88192,
-      "deliverable_qty": 34520,
-      "delivery_pct": 39.14
-    },
     {
       "date": "2026-02-16",
       "close": 92.26,
@@ -466,9 +450,31 @@
       "volume": 103514,
       "deliverable_qty": 65585,
       "delivery_pct": 63.36
+    },
+    {
+      "date": "2026-05-15",
+      "close": 88.07,
+      "prev_close": 90.1,
+      "volume": 123281,
+      "deliverable_qty": 65290,
+      "delivery_pct": 52.96
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:43:16",
+      "an_dt": "15-May-2026 17:43:16",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "OM INFRA LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OMINFRAL_15052026174309_ilovepdf_merged__11_.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 17:28:33",
+      "an_dt": "15-May-2026 17:28:33",
+      "desc": "Change in Auditors",
+      "sm_name": "OM INFRA LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OMINFRAL_15052026172821_ilovepdf_merged__10_.pdf"
+    },
     {
       "sort_date": "2026-05-13 19:52:25",
       "an_dt": "13-May-2026 19:52:25",
@@ -524,13 +530,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "OM INFRA LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/OMINFRAL_04032026203715_meeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 13:38:36",
-      "an_dt": "12-Feb-2026 13:38:36",
-      "desc": "Investor Presentation",
-      "sm_name": "OM INFRA LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OMINFRAL_12022026133827_ilovepdf_merged__6_.pdf"
     }
   ]
 }

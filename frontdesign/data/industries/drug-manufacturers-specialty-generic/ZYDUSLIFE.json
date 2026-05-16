@@ -8,25 +8,9 @@
   "price": 956.95,
   "market_cap_cr": 96291.56,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 920.95,
-      "prev_close": 898.3,
-      "volume": 1614220,
-      "deliverable_qty": 457687,
-      "delivery_pct": 28.35
-    },
-    {
-      "date": "2026-02-13",
-      "close": 904.7,
-      "prev_close": 920.95,
-      "volume": 474515,
-      "deliverable_qty": 186452,
-      "delivery_pct": 39.29
-    },
     {
       "date": "2026-02-16",
       "close": 910.45,
@@ -466,9 +450,24 @@
       "volume": 680562,
       "deliverable_qty": 330267,
       "delivery_pct": 48.53
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1011.7,
+      "prev_close": 991.7,
+      "volume": 1996110,
+      "deliverable_qty": 828246,
+      "delivery_pct": 41.49
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 11:25:03",
+      "an_dt": "15-May-2026 11:25:03",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Zydus Lifesciences Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_17042026185119_ZYDUSLIFE.pdf"
+    },
     {
       "sort_date": "2026-05-13 20:59:02",
       "an_dt": "13-May-2026 20:59:02",
@@ -769,13 +768,6 @@
       "desc": "Press Release",
       "sm_name": "Zydus Lifesciences Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Cadilahc_14022026100930_PR14022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 08:26:47",
-      "an_dt": "12-Feb-2026 08:26:47",
-      "desc": "General Updates",
-      "sm_name": "Zydus Lifesciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Cadilahc_12022026082609_SEIntimation1222026.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 183.39,
   "market_cap_cr": 612.53,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 200.18,
-      "prev_close": 206.46,
-      "volume": 83006,
-      "deliverable_qty": 46253,
-      "delivery_pct": 55.72
-    },
-    {
-      "date": "2026-02-13",
-      "close": 192.85,
-      "prev_close": 200.18,
-      "volume": 119431,
-      "deliverable_qty": 74577,
-      "delivery_pct": 62.44
-    },
     {
       "date": "2026-02-16",
       "close": 187.11,
@@ -466,9 +450,24 @@
       "volume": 36938,
       "deliverable_qty": 19564,
       "delivery_pct": 52.96
+    },
+    {
+      "date": "2026-05-15",
+      "close": 203.37,
+      "prev_close": 203.99,
+      "volume": 61940,
+      "deliverable_qty": 34769,
+      "delivery_pct": 56.13
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:23:33",
+      "an_dt": "15-May-2026 17:23:33",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Patel Retail Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PATEL_15052026171821_PRL_Monitoring_Report.pdf"
+    },
     {
       "sort_date": "2026-04-24 13:35:44",
       "an_dt": "24-Apr-2026 13:35:44",

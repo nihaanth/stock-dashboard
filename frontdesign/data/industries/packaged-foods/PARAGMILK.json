@@ -8,25 +8,9 @@
   "price": 213.52,
   "market_cap_cr": 2669.18,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 234.05,
-      "prev_close": 237.1,
-      "volume": 293748,
-      "deliverable_qty": 126128,
-      "delivery_pct": 42.94
-    },
-    {
-      "date": "2026-02-13",
-      "close": 221.95,
-      "prev_close": 234.05,
-      "volume": 660272,
-      "deliverable_qty": 340596,
-      "delivery_pct": 51.58
-    },
     {
       "date": "2026-02-16",
       "close": 216.25,
@@ -466,9 +450,31 @@
       "volume": 653820,
       "deliverable_qty": 245029,
       "delivery_pct": 37.48
+    },
+    {
+      "date": "2026-05-15",
+      "close": 218.01,
+      "prev_close": 221.2,
+      "volume": 315928,
+      "deliverable_qty": 165867,
+      "delivery_pct": 52.5
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 20:36:06",
+      "an_dt": "15-May-2026 20:36:06",
+      "desc": "General Updates",
+      "sm_name": "Parag Milk Foods Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARAGMILK_15052026203553_Corrigendum.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:17:25",
+      "an_dt": "14-May-2026 17:17:25",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Parag Milk Foods Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARAGMILK_14052026171715_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-12 15:05:51",
       "an_dt": "12-May-2026 15:05:51",

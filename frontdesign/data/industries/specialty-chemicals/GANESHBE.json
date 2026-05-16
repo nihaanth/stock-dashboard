@@ -8,25 +8,9 @@
   "price": 93.78,
   "market_cap_cr": 675.12,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 82.24,
-      "prev_close": 80.1,
-      "volume": 644986,
-      "deliverable_qty": 546194,
-      "delivery_pct": 84.68
-    },
-    {
-      "date": "2026-02-13",
-      "close": 79.62,
-      "prev_close": 82.24,
-      "volume": 146696,
-      "deliverable_qty": 90320,
-      "delivery_pct": 61.57
-    },
     {
       "date": "2026-02-16",
       "close": 77.84,
@@ -466,6 +450,14 @@
       "volume": 211511,
       "deliverable_qty": 120282,
       "delivery_pct": 56.87
+    },
+    {
+      "date": "2026-05-15",
+      "close": 93.83,
+      "prev_close": 98.69,
+      "volume": 81490,
+      "deliverable_qty": 45081,
+      "delivery_pct": 55.32
     }
   ],
   "news": [
@@ -510,20 +502,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Ganesh Benzoplast Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GANESHBE_16022026105347_NewspaperPublication31122025.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:43:12",
-      "an_dt": "13-Feb-2026 16:43:12",
-      "desc": "Change in Management",
-      "sm_name": "Ganesh Benzoplast Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GANESHBE_13022026164226_Regulation30disclosure13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:25:30",
-      "an_dt": "13-Feb-2026 14:25:30",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Ganesh Benzoplast Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GANESHBE_13022026142308_resultsQ3.pdf"
     }
   ]
 }

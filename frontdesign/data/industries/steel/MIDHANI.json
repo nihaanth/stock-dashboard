@@ -8,25 +8,9 @@
   "price": 407.0,
   "market_cap_cr": 7624.74,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 369.05,
-      "prev_close": 369.95,
-      "volume": 368530,
-      "deliverable_qty": 125517,
-      "delivery_pct": 34.06
-    },
-    {
-      "date": "2026-02-13",
-      "close": 360.95,
-      "prev_close": 369.05,
-      "volume": 360085,
-      "deliverable_qty": 90725,
-      "delivery_pct": 25.2
-    },
     {
       "date": "2026-02-16",
       "close": 361.65,
@@ -466,6 +450,14 @@
       "volume": 3418966,
       "deliverable_qty": 1030347,
       "delivery_pct": 30.14
+    },
+    {
+      "date": "2026-05-15",
+      "close": 408.05,
+      "prev_close": 421.9,
+      "volume": 775487,
+      "deliverable_qty": 269298,
+      "delivery_pct": 34.73
     }
   ],
   "news": [
@@ -559,27 +551,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Mishra Dhatu Nigam Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MIDHANI_14022026234122_Mdn_NewspaperAds_14022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:37:20",
-      "an_dt": "12-Feb-2026 17:37:20",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Mishra Dhatu Nigam Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MIDHANI_12022026173708_MDN_Concall_Q3Dec2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:13:19",
-      "an_dt": "12-Feb-2026 17:13:19",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Mishra Dhatu Nigam Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MIDHANI_12022026171057_Outcome_12022026104748.PDF"
-    },
-    {
-      "sort_date": "2026-02-12 17:08:01",
-      "an_dt": "12-Feb-2026 17:08:01",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Mishra Dhatu Nigam Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MIDHANI_12022026170753_Outcome_12022026104748.PDF"
     }
   ]
 }

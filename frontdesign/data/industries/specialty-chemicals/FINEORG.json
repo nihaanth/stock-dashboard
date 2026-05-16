@@ -8,25 +8,9 @@
   "price": 4634.0,
   "market_cap_cr": 14207.83,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 4596.6,
-      "prev_close": 4627.0,
-      "volume": 10805,
-      "deliverable_qty": 7003,
-      "delivery_pct": 64.81
-    },
-    {
-      "date": "2026-02-13",
-      "close": 4422.9,
-      "prev_close": 4596.6,
-      "volume": 20938,
-      "deliverable_qty": 9254,
-      "delivery_pct": 44.2
-    },
     {
       "date": "2026-02-16",
       "close": 4393.0,
@@ -466,6 +450,14 @@
       "volume": 6801,
       "deliverable_qty": 3179,
       "delivery_pct": 46.74
+    },
+    {
+      "date": "2026-05-15",
+      "close": 4631.3,
+      "prev_close": 4714.6,
+      "volume": 4489,
+      "deliverable_qty": 2425,
+      "delivery_pct": 54.02
     }
   ],
   "news": [
@@ -517,34 +509,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Fine Organic Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINEORG_17022026181438_IntimationofInvestormeeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:47:02",
-      "an_dt": "13-Feb-2026 16:47:02",
-      "desc": "Investor Presentation",
-      "sm_name": "Fine Organic Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINEORG_13022026164641_Investorpresentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:45:22",
-      "an_dt": "13-Feb-2026 16:45:22",
-      "desc": "Press Release",
-      "sm_name": "Fine Organic Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINEORG_13022026164506_Investor_Release.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:53:21",
-      "an_dt": "13-Feb-2026 14:53:21",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Fine Organic Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINEORG_13022026145307_Newspaper_Advertisement_-_Financial_Results.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:30:12",
-      "an_dt": "12-Feb-2026 16:30:12",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Fine Organic Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINEORG_12022026162820_Outcome_of_the_Meeting.pdf"
     }
   ]
 }

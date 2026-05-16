@@ -8,25 +8,9 @@
   "price": 471.85,
   "market_cap_cr": 6462.03,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 577.45,
-      "prev_close": 588.35,
-      "volume": 7763,
-      "deliverable_qty": 4663,
-      "delivery_pct": 60.07
-    },
-    {
-      "date": "2026-02-13",
-      "close": 563.85,
-      "prev_close": 577.45,
-      "volume": 10962,
-      "deliverable_qty": 6536,
-      "delivery_pct": 59.62
-    },
     {
       "date": "2026-02-16",
       "close": 558.2,
@@ -466,9 +450,24 @@
       "volume": 1218848,
       "deliverable_qty": 167675,
       "delivery_pct": 13.76
+    },
+    {
+      "date": "2026-05-15",
+      "close": 526.05,
+      "prev_close": 518.15,
+      "volume": 155454,
+      "deliverable_qty": 26090,
+      "delivery_pct": 16.78
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 11:25:44",
+      "an_dt": "15-May-2026 11:25:44",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "TTK Prestige Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_17042026185434_TTKPRESTIG.pdf"
+    },
     {
       "sort_date": "2026-05-11 13:17:55",
       "an_dt": "11-May-2026 13:17:55",
@@ -601,13 +600,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "TTK Prestige Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TTKPRESTIG1_16022026162146_Notice_Stock_Exchange_2026_Feb26_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 14:55:04",
-      "an_dt": "12-Feb-2026 14:55:04",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "TTK Prestige Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TTKPRESTIG1_12022026145106_Outcome_Analyst_Conferences_12022026_signed.pdf"
     }
   ]
 }

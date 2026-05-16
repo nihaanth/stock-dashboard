@@ -8,25 +8,9 @@
   "price": 122.41,
   "market_cap_cr": 583.53,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 110.18,
-      "prev_close": 110.24,
-      "volume": 19483,
-      "deliverable_qty": 10540,
-      "delivery_pct": 54.1
-    },
-    {
-      "date": "2026-02-13",
-      "close": 108.0,
-      "prev_close": 110.18,
-      "volume": 49929,
-      "deliverable_qty": 32176,
-      "delivery_pct": 64.44
-    },
     {
       "date": "2026-02-16",
       "close": 109.75,
@@ -466,9 +450,45 @@
       "volume": 16244,
       "deliverable_qty": 12274,
       "delivery_pct": 75.56
+    },
+    {
+      "date": "2026-05-15",
+      "close": 116.07,
+      "prev_close": 116.64,
+      "volume": 8199,
+      "deliverable_qty": 6347,
+      "delivery_pct": 77.41
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 21:57:38",
+      "an_dt": "15-May-2026 21:57:38",
+      "desc": "Press Release",
+      "sm_name": "Entertainment Network (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENIL_15052026215723_ENILPressRelease.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 21:55:09",
+      "an_dt": "15-May-2026 21:55:09",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Entertainment Network (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENIL_15052026215424_ENIL20260515Reg33results.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 21:51:14",
+      "an_dt": "15-May-2026 21:51:14",
+      "desc": "Dividend",
+      "sm_name": "Entertainment Network (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENIL_15052026215012_ENIL20260515Reg33results.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 21:47:20",
+      "an_dt": "15-May-2026 21:47:20",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Entertainment Network (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENIL_15052026214552_ENIL20260515Reg33results.pdf"
+    },
     {
       "sort_date": "2026-05-13 22:19:59",
       "an_dt": "13-May-2026 22:19:59",
@@ -531,13 +551,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Entertainment Network (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENIL_17022026114414_ENIL20260211TranscriptQ3FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 14:29:00",
-      "an_dt": "12-Feb-2026 14:29:00",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Entertainment Network (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENIL_12022026142841_ENIL20260210Reg33ResultsNewspapers.pdf"
     }
   ]
 }

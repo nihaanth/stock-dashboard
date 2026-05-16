@@ -8,25 +8,9 @@
   "price": 543.75,
   "market_cap_cr": 7021.88,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 516.45,
-      "prev_close": 521.6,
-      "volume": 215094,
-      "deliverable_qty": 98740,
-      "delivery_pct": 45.91
-    },
-    {
-      "date": "2026-02-13",
-      "close": 508.0,
-      "prev_close": 516.45,
-      "volume": 121385,
-      "deliverable_qty": 53374,
-      "delivery_pct": 43.97
-    },
     {
       "date": "2026-02-16",
       "close": 510.15,
@@ -466,9 +450,24 @@
       "volume": 89889,
       "deliverable_qty": 47179,
       "delivery_pct": 52.49
+    },
+    {
+      "date": "2026-05-15",
+      "close": 552.1,
+      "prev_close": 552.0,
+      "volume": 207706,
+      "deliverable_qty": 140335,
+      "delivery_pct": 67.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 22:42:51",
+      "an_dt": "15-May-2026 22:42:51",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aditya Vision Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADITYAVISION_15052026224235_EarningcallTranscriptAVLUpload1505202finall.pdf"
+    },
     {
       "sort_date": "2026-05-09 17:25:42",
       "an_dt": "09-May-2026 17:25:42",

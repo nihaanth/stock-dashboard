@@ -8,25 +8,9 @@
   "price": 510.4,
   "market_cap_cr": 14570.88,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 623.65,
-      "prev_close": 617.75,
-      "volume": 1671768,
-      "deliverable_qty": 372724,
-      "delivery_pct": 22.3
-    },
-    {
-      "date": "2026-02-13",
-      "close": 615.45,
-      "prev_close": 623.65,
-      "volume": 1419692,
-      "deliverable_qty": 282945,
-      "delivery_pct": 19.93
-    },
     {
       "date": "2026-02-16",
       "close": 619.6,
@@ -466,9 +450,38 @@
       "volume": 1432631,
       "deliverable_qty": 368228,
       "delivery_pct": 25.7
+    },
+    {
+      "date": "2026-05-15",
+      "close": 487.1,
+      "prev_close": 491.75,
+      "volume": 1195634,
+      "deliverable_qty": 274615,
+      "delivery_pct": 22.97
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 16:17:35",
+      "an_dt": "15-May-2026 16:17:35",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "PG Electroplast Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PGEL_15052026161726_WithdrawalIntimation15052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 15:54:48",
+      "an_dt": "15-May-2026 15:54:48",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "PG Electroplast Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PGEL_15052026155349_MAReport31032026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 14:47:02",
+      "an_dt": "14-May-2026 14:47:02",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "PG Electroplast Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PGEL_14052026144648_EarningsCallIntimation14052026.pdf"
+    },
     {
       "sort_date": "2026-05-04 15:00:17",
       "an_dt": "04-May-2026 15:00:17",
@@ -545,13 +558,6 @@
       "desc": "Credit Rating",
       "sm_name": "PG Electroplast Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PGEL_14022026151021_CreditRatingCRISIL.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 13:28:03",
-      "an_dt": "13-Feb-2026 13:28:03",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "PG Electroplast Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PGEL_13022026132736_MAReportDec25.pdf"
     }
   ]
 }

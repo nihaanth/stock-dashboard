@@ -8,25 +8,9 @@
   "price": 1004.1,
   "market_cap_cr": 236233.24,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1082.8,
-      "prev_close": 1056.8,
-      "volume": 8462756,
-      "deliverable_qty": 4699965,
-      "delivery_pct": 55.54
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1065.8,
-      "prev_close": 1082.8,
-      "volume": 4555743,
-      "deliverable_qty": 2615249,
-      "delivery_pct": 57.41
-    },
     {
       "date": "2026-02-16",
       "close": 1085.4,
@@ -466,9 +450,24 @@
       "volume": 10747950,
       "deliverable_qty": 6913040,
       "delivery_pct": 64.32
+    },
+    {
+      "date": "2026-05-15",
+      "close": 937.9,
+      "prev_close": 935.1,
+      "volume": 5759607,
+      "deliverable_qty": 2874680,
+      "delivery_pct": 49.91
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 16:18:06",
+      "an_dt": "14-May-2026 16:18:06",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Shriram Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_14052026161703_BSENSE1452026_Upload.pdf"
+    },
     {
       "sort_date": "2026-05-13 17:29:39",
       "an_dt": "13-May-2026 17:29:39",
@@ -965,34 +964,6 @@
       "desc": "Credit Rating",
       "sm_name": "Shriram Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_17022026145258_BSENSEIntimationofCreditRatingCARE170226.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:00:49",
-      "an_dt": "13-Feb-2026 18:00:49",
-      "desc": "Credit Rating- New",
-      "sm_name": "Shriram Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_13022026180028_BSENSEIntimationofCreditRatingCARE1302026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:50:59",
-      "an_dt": "13-Feb-2026 17:50:59",
-      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "sm_name": "Shriram Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_13022026175048_BSENSE_13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:16:13",
-      "an_dt": "13-Feb-2026 14:16:13",
-      "desc": "General Updates",
-      "sm_name": "Shriram Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_13022026141415_Draft_BSENSERBIcommunicationFeb13.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 09:28:32",
-      "an_dt": "13-Feb-2026 09:28:32",
-      "desc": "General Updates",
-      "sm_name": "Shriram Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mathew_13022026092816_BSENSEIntimationunderReg30.pdf"
     }
   ]
 }

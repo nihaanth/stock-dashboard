@@ -8,25 +8,9 @@
   "price": 163.81,
   "market_cap_cr": 125046.1,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 181.0,
-      "prev_close": 180.33,
-      "volume": 13347286,
-      "deliverable_qty": 6989132,
-      "delivery_pct": 52.36
-    },
-    {
-      "date": "2026-02-13",
-      "close": 178.87,
-      "prev_close": 181.0,
-      "volume": 8733451,
-      "deliverable_qty": 4236756,
-      "delivery_pct": 48.51
-    },
     {
       "date": "2026-02-16",
       "close": 183.09,
@@ -466,9 +450,24 @@
       "volume": 11841874,
       "deliverable_qty": 5351327,
       "delivery_pct": 45.19
+    },
+    {
+      "date": "2026-05-15",
+      "close": 161.94,
+      "prev_close": 164.9,
+      "volume": 9269427,
+      "deliverable_qty": 4387695,
+      "delivery_pct": 47.34
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:43:12",
+      "an_dt": "14-May-2026 17:43:12",
+      "desc": "Appointment",
+      "sm_name": "Union Bank of India",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIONBANK_14052026174303_14052026_Appointment_of_Director_Debasish_Prusty.pdf"
+    },
     {
       "sort_date": "2026-05-12 21:21:50",
       "an_dt": "12-May-2026 21:21:50",
@@ -741,20 +740,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Union Bank of India",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIONBANK_16022026185303_Outcome_Analyst_Meet_16022026_NSE_BSE.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:17:17",
-      "an_dt": "13-Feb-2026 17:17:17",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Union Bank of India",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIONBANK_13022026171400_Outcome_13022026_NSE_BSE.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:02:19",
-      "an_dt": "12-Feb-2026 18:02:19",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Union Bank of India",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIONBANK_12022026180044_12022026_Outcome.pdf"
     }
   ]
 }

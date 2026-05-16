@@ -8,25 +8,9 @@
   "price": 352.95,
   "market_cap_cr": 11487.94,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 299.25,
-      "prev_close": 291.95,
-      "volume": 1978746,
-      "deliverable_qty": 851886,
-      "delivery_pct": 43.05
-    },
-    {
-      "date": "2026-02-13",
-      "close": 301.45,
-      "prev_close": 299.25,
-      "volume": 21608840,
-      "deliverable_qty": 4876804,
-      "delivery_pct": 22.57
-    },
     {
       "date": "2026-02-16",
       "close": 306.15,
@@ -466,9 +450,24 @@
       "volume": 920906,
       "deliverable_qty": 671290,
       "delivery_pct": 72.89
+    },
+    {
+      "date": "2026-05-15",
+      "close": 354.0,
+      "prev_close": 352.9,
+      "volume": 1171603,
+      "deliverable_qty": 458402,
+      "delivery_pct": 39.13
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 10:44:41",
+      "an_dt": "15-May-2026 10:44:41",
+      "desc": "General Updates",
+      "sm_name": "Honasa Consumer Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HONASA16_15052026104424_Regulation_30_Intimation_of_Arbitral_Award_14th_May_2026_S.pdf"
+    },
     {
       "sort_date": "2026-05-13 17:02:05",
       "an_dt": "13-May-2026 17:02:05",
@@ -559,55 +558,6 @@
       "desc": "Updates",
       "sm_name": "Honasa Consumer Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HONASA16_17022026123544_RSM_Update.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:07:13",
-      "an_dt": "13-Feb-2026 16:07:13",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Honasa Consumer Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HONASA16_13022026160640_7_Newspaper_Publication_S.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 21:43:14",
-      "an_dt": "12-Feb-2026 21:43:14",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Honasa Consumer Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HONASA16_12022026214254_Recording_of_Investor_Conference_Call.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 21:39:47",
-      "an_dt": "12-Feb-2026 21:39:47",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Honasa Consumer Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HONASA16_12022026213834_Recording_of_Investor_Conference_Call.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:24:02",
-      "an_dt": "12-Feb-2026 16:24:02",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Honasa Consumer Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HONASA16_12022026162336_5_Monitoring_Agency_S.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:15:22",
-      "an_dt": "12-Feb-2026 16:15:22",
-      "desc": "Investor Presentation",
-      "sm_name": "Honasa Consumer Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HONASA16_12022026161432_Investor_Presentation_S.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 16:08:30",
-      "an_dt": "12-Feb-2026 16:08:30",
-      "desc": "Press Release",
-      "sm_name": "Honasa Consumer Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HONASA16_12022026160805_Press_Release_S.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:56:57",
-      "an_dt": "12-Feb-2026 15:56:57",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Honasa Consumer Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HONASA16_12022026155420_Outcome_of_BM_S.pdf"
     }
   ]
 }

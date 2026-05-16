@@ -8,25 +8,9 @@
   "price": 419.35,
   "market_cap_cr": 3927.3,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 350.8,
-      "prev_close": 318.95,
-      "volume": 2178090,
-      "deliverable_qty": 428581,
-      "delivery_pct": 19.68
-    },
-    {
-      "date": "2026-02-13",
-      "close": 337.15,
-      "prev_close": 350.8,
-      "volume": 238026,
-      "deliverable_qty": 101547,
-      "delivery_pct": 42.66
-    },
     {
       "date": "2026-02-16",
       "close": 340.2,
@@ -466,9 +450,24 @@
       "volume": 200187,
       "deliverable_qty": 96659,
       "delivery_pct": 48.28
+    },
+    {
+      "date": "2026-05-15",
+      "close": 400.4,
+      "prev_close": 399.5,
+      "volume": 111626,
+      "deliverable_qty": 56065,
+      "delivery_pct": 50.23
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 16:48:10",
+      "an_dt": "15-May-2026 16:48:10",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "SMS Pharmaceuticals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SMSPHARMA_15052026164758_Final_MAQ4_2026.pdf"
+    },
     {
       "sort_date": "2026-05-02 12:24:26",
       "an_dt": "02-May-2026 12:24:26",

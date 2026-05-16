@@ -8,25 +8,9 @@
   "price": 129.14,
   "market_cap_cr": 11484.42,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 125.91,
-      "prev_close": 127.16,
-      "volume": 4363115,
-      "deliverable_qty": 2204481,
-      "delivery_pct": 50.53
-    },
-    {
-      "date": "2026-02-13",
-      "close": 123.95,
-      "prev_close": 125.91,
-      "volume": 19551693,
-      "deliverable_qty": 3860192,
-      "delivery_pct": 19.74
-    },
     {
       "date": "2026-02-16",
       "close": 124.97,
@@ -466,6 +450,14 @@
       "volume": 9296236,
       "deliverable_qty": 3627443,
       "delivery_pct": 39.02
+    },
+    {
+      "date": "2026-05-15",
+      "close": 125.27,
+      "prev_close": 128.44,
+      "volume": 3538830,
+      "deliverable_qty": 1309122,
+      "delivery_pct": 36.99
     }
   ],
   "news": [
@@ -657,27 +649,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Indian Energy Exchange Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IEX_16022026165458_Signed_IEX_Analsyt_Meet_16_02_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:49:27",
-      "an_dt": "13-Feb-2026 18:49:27",
-      "desc": "News Verification",
-      "sm_name": "Indian Energy Exchange Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IEX_13022026184901_Signed_IEX_Reply_NSE_News_Verification_13_02_26.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:29:01",
-      "an_dt": "13-Feb-2026 17:29:01",
-      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-      "sm_name": "Indian Energy Exchange Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IEX_13022026172823_Signed_IEX_Intimation_APTEL_Order_13_02_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 14:56:17",
-      "an_dt": "13-Feb-2026 14:56:17",
-      "desc": "News Verification",
-      "sm_name": "Indian Energy Exchange Limited",
-      "attchmntFile": "-"
     }
   ]
 }

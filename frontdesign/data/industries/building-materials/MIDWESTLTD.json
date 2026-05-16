@@ -8,25 +8,9 @@
   "price": 1335.2,
   "market_cap_cr": 4828.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1474.5,
-      "prev_close": 1507.3,
-      "volume": 110354,
-      "deliverable_qty": 27931,
-      "delivery_pct": 25.31
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1380.1,
-      "prev_close": 1474.5,
-      "volume": 94003,
-      "deliverable_qty": 38259,
-      "delivery_pct": 40.7
-    },
     {
       "date": "2026-02-16",
       "close": 1356.6,
@@ -466,9 +450,24 @@
       "volume": 25385,
       "deliverable_qty": 8642,
       "delivery_pct": 34.04
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1330.6,
+      "prev_close": 1325.6,
+      "volume": 19218,
+      "deliverable_qty": 9386,
+      "delivery_pct": 48.84
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 14:37:32",
+      "an_dt": "15-May-2026 14:37:32",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Midwest Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MIDWEST_15052026143708_Monitoring_Agency_Report_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-06 19:12:34",
       "an_dt": "06-May-2026 19:12:34",
@@ -538,34 +537,6 @@
       "desc": "Monitoring Agency Report",
       "sm_name": "Midwest Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MIDWEST_14022026120533_FinalMonitoringAgencyReport.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 19:07:46",
-      "an_dt": "12-Feb-2026 19:07:46",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Midwest Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MIDWEST_12022026190632_Audio_Link_Q3_FY_2025-26_Earnings_Call.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:57:57",
-      "an_dt": "12-Feb-2026 15:57:57",
-      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "sm_name": "Midwest Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MIDWEST_12022026155202_Statement_of_deviation_final.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:46:59",
-      "an_dt": "12-Feb-2026 15:46:59",
-      "desc": "Investor Presentation",
-      "sm_name": "Midwest Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MIDWEST_12022026154607_Investor_presentation_final.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:21:21",
-      "an_dt": "12-Feb-2026 15:21:21",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Midwest Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MIDWEST_12022026151953_OutcomeofBMfinal.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 910.9,
   "market_cap_cr": 20290.14,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 914.6,
-      "prev_close": 931.3,
-      "volume": 6878,
-      "deliverable_qty": 3918,
-      "delivery_pct": 56.96
-    },
-    {
-      "date": "2026-02-13",
-      "close": 911.75,
-      "prev_close": 914.6,
-      "volume": 11329,
-      "deliverable_qty": 6328,
-      "delivery_pct": 55.86
-    },
     {
       "date": "2026-02-16",
       "close": 902.8,
@@ -466,9 +450,31 @@
       "volume": 6304,
       "deliverable_qty": 3128,
       "delivery_pct": 49.62
+    },
+    {
+      "date": "2026-05-15",
+      "close": 941.75,
+      "prev_close": 943.3,
+      "volume": 15397,
+      "deliverable_qty": 10781,
+      "delivery_pct": 70.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:39:54",
+      "an_dt": "15-May-2026 18:39:54",
+      "desc": "Shareholders meeting",
+      "sm_name": "Hatsun Agro Product Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HATSUN_15052026183928_HAPLPBVRMay26sd.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 18:32:14",
+      "an_dt": "15-May-2026 18:32:14",
+      "desc": "Appointment",
+      "sm_name": "Hatsun Agro Product Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HATSUN_15052026183204_ApptofIDMrRHarshan.pdf"
+    },
     {
       "sort_date": "2026-04-14 17:11:41",
       "an_dt": "14-Apr-2026 17:11:41",

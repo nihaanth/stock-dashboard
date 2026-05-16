@@ -8,25 +8,9 @@
   "price": 803.65,
   "market_cap_cr": 508308.44,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 880.95,
-      "prev_close": 875.3,
-      "volume": 1155429,
-      "deliverable_qty": 696006,
-      "delivery_pct": 60.24
-    },
-    {
-      "date": "2026-02-13",
-      "close": 862.4,
-      "prev_close": 880.95,
-      "volume": 875027,
-      "deliverable_qty": 406933,
-      "delivery_pct": 46.51
-    },
     {
       "date": "2026-02-16",
       "close": 869.15,
@@ -466,9 +450,31 @@
       "volume": 882880,
       "deliverable_qty": 304760,
       "delivery_pct": 34.52
+    },
+    {
+      "date": "2026-05-15",
+      "close": 799.15,
+      "prev_close": 805.0,
+      "volume": 1398395,
+      "deliverable_qty": 568777,
+      "delivery_pct": 40.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:15:48",
+      "an_dt": "15-May-2026 18:15:48",
+      "desc": "Updates",
+      "sm_name": "Life Insurance Corporation Of India",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LIC_BOARD_15052026181537_Earning_Call_Invite_210526.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 19:09:50",
+      "an_dt": "14-May-2026 19:09:50",
+      "desc": "Updates",
+      "sm_name": "Life Insurance Corporation Of India",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LIC_BOARD_14052026190928_ESG_rating.pdf"
+    },
     {
       "sort_date": "2026-05-13 23:13:23",
       "an_dt": "13-May-2026 23:13:23",
@@ -706,20 +712,6 @@
       "desc": "General Updates",
       "sm_name": "Life Insurance Corporation Of India",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LIC_BOARD_17022026130405_Investor_conferences_17022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 16:34:52",
-      "an_dt": "13-Feb-2026 16:34:52",
-      "desc": "General Updates",
-      "sm_name": "Life Insurance Corporation Of India",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LIC_BOARD_13022026163441_Product_Launch_13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:03:35",
-      "an_dt": "12-Feb-2026 17:03:35",
-      "desc": "General Updates",
-      "sm_name": "Life Insurance Corporation Of India",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LIC_BOARD_12022026170327_Transcript_Investors_Meet_12022026.pdf"
     }
   ]
 }

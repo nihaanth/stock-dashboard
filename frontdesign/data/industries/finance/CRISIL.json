@@ -8,25 +8,9 @@
   "price": 4090.0,
   "market_cap_cr": 29910.17,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 4665.2,
-      "prev_close": 4695.6,
-      "volume": 36057,
-      "deliverable_qty": 17129,
-      "delivery_pct": 47.51
-    },
-    {
-      "date": "2026-02-13",
-      "close": 4443.2,
-      "prev_close": 4665.2,
-      "volume": 133926,
-      "deliverable_qty": 67196,
-      "delivery_pct": 50.17
-    },
     {
       "date": "2026-02-16",
       "close": 4588.2,
@@ -466,9 +450,24 @@
       "volume": 34653,
       "deliverable_qty": 17488,
       "delivery_pct": 50.47
+    },
+    {
+      "date": "2026-05-15",
+      "close": 4137.6,
+      "prev_close": 4131.6,
+      "volume": 40985,
+      "deliverable_qty": 20983,
+      "delivery_pct": 51.2
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 12:15:39",
+      "an_dt": "14-May-2026 12:15:39",
+      "desc": "Shareholders meeting",
+      "sm_name": "CRISIL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRISIL_14052026121506_SignedBSENSE.pdf"
+    },
     {
       "sort_date": "2026-05-07 16:46:12",
       "an_dt": "07-May-2026 16:46:12",
@@ -636,62 +635,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "CRISIL Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRISIL_14022026191718_SignedBSENSE.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 23:02:03",
-      "an_dt": "13-Feb-2026 23:02:03",
-      "desc": "Investor Presentation",
-      "sm_name": "CRISIL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRISIL_13022026230116_SignedBSENSE.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:50:47",
-      "an_dt": "13-Feb-2026 18:50:47",
-      "desc": "Appointment",
-      "sm_name": "CRISIL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRISIL_13022026185008_SignedBSENSE_V1.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:43:56",
-      "an_dt": "13-Feb-2026 18:43:56",
-      "desc": "Appointment",
-      "sm_name": "CRISIL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRISIL_13022026184248_SignedBSENSE_V1.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:05:19",
-      "an_dt": "13-Feb-2026 18:05:19",
-      "desc": "Record Date",
-      "sm_name": "CRISIL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRISIL_13022026180403_SignedBSENSE.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:52:35",
-      "an_dt": "13-Feb-2026 17:52:35",
-      "desc": "General Updates",
-      "sm_name": "CRISIL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRISIL_13022026175031_SignedBSENSE.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:38:56",
-      "an_dt": "13-Feb-2026 17:38:56",
-      "desc": "Press Release",
-      "sm_name": "CRISIL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRISIL_13022026173841_SignedBSENSE.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:31:07",
-      "an_dt": "13-Feb-2026 17:31:07",
-      "desc": "Dividend",
-      "sm_name": "CRISIL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRISIL_13022026173021_SignedBSENSE_V1.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:27:32",
-      "an_dt": "13-Feb-2026 17:27:32",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "CRISIL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRISIL_13022026172616_SignedBSENSE_V1.pdf"
     }
   ]
 }

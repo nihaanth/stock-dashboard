@@ -8,25 +8,9 @@
   "price": 593.9,
   "market_cap_cr": 896.07,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 443.6,
-      "prev_close": 451.65,
-      "volume": 7498,
-      "deliverable_qty": 4435,
-      "delivery_pct": 59.15
-    },
-    {
-      "date": "2026-02-13",
-      "close": 431.8,
-      "prev_close": 443.6,
-      "volume": 35161,
-      "deliverable_qty": 22289,
-      "delivery_pct": 63.39
-    },
     {
       "date": "2026-02-16",
       "close": 426.2,
@@ -466,6 +450,14 @@
       "volume": 135873,
       "deliverable_qty": 51868,
       "delivery_pct": 38.17
+    },
+    {
+      "date": "2026-05-15",
+      "close": 482.95,
+      "prev_close": 506.8,
+      "volume": 107324,
+      "deliverable_qty": 53439,
+      "delivery_pct": 49.79
     }
   ],
   "news": [
@@ -559,20 +551,6 @@
       "desc": "Updates",
       "sm_name": "Arrow Greentech Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARROWGREEN_15022026195736_CommentsOfBoardofDirector13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 19:10:39",
-      "an_dt": "13-Feb-2026 19:10:39",
-      "desc": "Updates",
-      "sm_name": "Arrow Greentech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARROWGREEN_13022026191004_PressRelease13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:45:58",
-      "an_dt": "13-Feb-2026 18:45:58",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Arrow Greentech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARROWGREEN_13022026184428_OutcomeOfBoardMeeting13022026.pdf"
     }
   ]
 }

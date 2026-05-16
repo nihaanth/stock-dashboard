@@ -8,25 +8,9 @@
   "price": 896.15,
   "market_cap_cr": 9894.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1017.0,
-      "prev_close": 1061.9,
-      "volume": 400280,
-      "deliverable_qty": 204400,
-      "delivery_pct": 51.06
-    },
-    {
-      "date": "2026-02-13",
-      "close": 995.2,
-      "prev_close": 1017.0,
-      "volume": 370990,
-      "deliverable_qty": 136279,
-      "delivery_pct": 36.73
-    },
     {
       "date": "2026-02-16",
       "close": 990.5,
@@ -466,9 +450,24 @@
       "volume": 294459,
       "deliverable_qty": 118408,
       "delivery_pct": 40.21
+    },
+    {
+      "date": "2026-05-15",
+      "close": 870.7,
+      "prev_close": 871.85,
+      "volume": 122437,
+      "deliverable_qty": 50338,
+      "delivery_pct": 41.11
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 18:11:11",
+      "an_dt": "14-May-2026 18:11:11",
+      "desc": "General Updates",
+      "sm_name": "Cyient Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CYIENT_14052026181053_GrantOfStockOptions14052026signedfinal.pdf"
+    },
     {
       "sort_date": "2026-05-13 16:22:23",
       "an_dt": "13-May-2026 16:22:23",

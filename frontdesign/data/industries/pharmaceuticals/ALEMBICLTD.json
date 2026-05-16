@@ -8,25 +8,9 @@
   "price": 92.62,
   "market_cap_cr": 2378.31,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 98.58,
-      "prev_close": 99.12,
-      "volume": 168717,
-      "deliverable_qty": 105658,
-      "delivery_pct": 62.62
-    },
-    {
-      "date": "2026-02-13",
-      "close": 95.47,
-      "prev_close": 98.58,
-      "volume": 244042,
-      "deliverable_qty": 140043,
-      "delivery_pct": 57.38
-    },
     {
       "date": "2026-02-16",
       "close": 94.92,
@@ -466,6 +450,14 @@
       "volume": 215987,
       "deliverable_qty": 98601,
       "delivery_pct": 45.65
+    },
+    {
+      "date": "2026-05-15",
+      "close": 89.95,
+      "prev_close": 91.34,
+      "volume": 109204,
+      "deliverable_qty": 57524,
+      "delivery_pct": 52.68
     }
   ],
   "news": [
@@ -496,20 +488,6 @@
       "desc": "Trading Window",
       "sm_name": "Alembic Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALEMBICLTD_27032026144600_SE_Intimation_Closure_of_Trading_Window.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 15:13:03",
-      "an_dt": "13-Feb-2026 15:13:03",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Alembic Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALEMBICLTD_13022026145536_AL_Intimation_Newspaper_Publication_13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:24:44",
-      "an_dt": "12-Feb-2026 17:24:44",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Alembic Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALEMBICLTD_12022026171714_AL_BM_Outcome_12022026.pdf"
     }
   ]
 }

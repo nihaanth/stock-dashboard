@@ -8,25 +8,9 @@
   "price": 107.61,
   "market_cap_cr": 766.16,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 109.16,
-      "prev_close": 112.94,
-      "volume": 113787,
-      "deliverable_qty": 67973,
-      "delivery_pct": 59.74
-    },
-    {
-      "date": "2026-02-13",
-      "close": 105.98,
-      "prev_close": 109.16,
-      "volume": 71552,
-      "deliverable_qty": 37135,
-      "delivery_pct": 51.9
-    },
     {
       "date": "2026-02-16",
       "close": 103.08,
@@ -466,9 +450,24 @@
       "volume": 48399,
       "deliverable_qty": 20133,
       "delivery_pct": 41.6
+    },
+    {
+      "date": "2026-05-15",
+      "close": 101.4,
+      "prev_close": 104.47,
+      "volume": 34838,
+      "deliverable_qty": 22554,
+      "delivery_pct": 64.74
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 19:07:39",
+      "an_dt": "14-May-2026 19:07:39",
+      "desc": "Credit Rating- Others",
+      "sm_name": "Popular Vehicles and Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9072530155_14052026190652_Intimation_CreditRating_Sd.pdf"
+    },
     {
       "sort_date": "2026-05-06 14:42:57",
       "an_dt": "06-May-2026 14:42:57",

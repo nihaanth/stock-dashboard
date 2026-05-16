@@ -8,25 +8,9 @@
   "price": 2744.3,
   "market_cap_cr": 3101.92,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 2515.7,
-      "prev_close": 2542.1,
-      "volume": 20732,
-      "deliverable_qty": 10860,
-      "delivery_pct": 52.38
-    },
-    {
-      "date": "2026-02-13",
-      "close": 2501.1,
-      "prev_close": 2515.7,
-      "volume": 15961,
-      "deliverable_qty": 6464,
-      "delivery_pct": 40.5
-    },
     {
       "date": "2026-02-16",
       "close": 2454.9,
@@ -466,9 +450,38 @@
       "volume": 76778,
       "deliverable_qty": 41683,
       "delivery_pct": 54.29
+    },
+    {
+      "date": "2026-05-15",
+      "close": 2563.8,
+      "prev_close": 2486.2,
+      "volume": 63313,
+      "deliverable_qty": 26311,
+      "delivery_pct": 41.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 16:31:50",
+      "an_dt": "14-May-2026 16:31:50",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Bharat Bijlee Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBL_14052026163044_BBLReg47NewspaperCuttingUAFR31032026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 16:11:15",
+      "an_dt": "14-May-2026 16:11:15",
+      "desc": "Revised Record date",
+      "sm_name": "Bharat Bijlee Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBL_14052026160737_BBLRecordDateNoticeRevisedBSENSE.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 15:56:02",
+      "an_dt": "14-May-2026 15:56:02",
+      "desc": "Revised Record date",
+      "sm_name": "Bharat Bijlee Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBL_14052026155440_BBLRecordDateNoticeRevisedBSENSE.pdf"
+    },
     {
       "sort_date": "2026-05-12 21:06:45",
       "an_dt": "12-May-2026 21:06:45",

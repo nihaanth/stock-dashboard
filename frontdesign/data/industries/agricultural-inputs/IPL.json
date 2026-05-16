@@ -8,25 +8,9 @@
   "price": 147.09,
   "market_cap_cr": 1700.22,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 167.77,
-      "prev_close": 171.91,
-      "volume": 114577,
-      "deliverable_qty": 66775,
-      "delivery_pct": 58.28
-    },
-    {
-      "date": "2026-02-13",
-      "close": 166.4,
-      "prev_close": 167.77,
-      "volume": 125047,
-      "deliverable_qty": 62106,
-      "delivery_pct": 49.67
-    },
     {
       "date": "2026-02-16",
       "close": 162.38,
@@ -466,6 +450,14 @@
       "volume": 297865,
       "deliverable_qty": 102666,
       "delivery_pct": 34.47
+    },
+    {
+      "date": "2026-05-15",
+      "close": 165.21,
+      "prev_close": 169.05,
+      "volume": 221876,
+      "deliverable_qty": 73157,
+      "delivery_pct": 32.97
     }
   ],
   "news": [
@@ -510,20 +502,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "India Pesticides Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IPL_17022026170901_Earning_call_Transcript.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:24:32",
-      "an_dt": "12-Feb-2026 17:24:32",
-      "desc": "General Updates",
-      "sm_name": "India Pesticides Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IPL_12022026172419_Outcome_of_BM_searchable.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 12:17:40",
-      "an_dt": "12-Feb-2026 12:17:40",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "India Pesticides Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IPL_12022026121727_letter_for_con-call_Audio_Recording_signed.pdf"
     }
   ]
 }

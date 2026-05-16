@@ -8,25 +8,9 @@
   "price": 352.95,
   "market_cap_cr": 92491.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 344.65,
-      "prev_close": 344.25,
-      "volume": 5135493,
-      "deliverable_qty": 2792477,
-      "delivery_pct": 54.38
-    },
-    {
-      "date": "2026-02-13",
-      "close": 336.2,
-      "prev_close": 344.65,
-      "volume": 5436281,
-      "deliverable_qty": 2235261,
-      "delivery_pct": 41.12
-    },
     {
       "date": "2026-02-16",
       "close": 345.05,
@@ -466,9 +450,31 @@
       "volume": 2904276,
       "deliverable_qty": 1233714,
       "delivery_pct": 42.48
+    },
+    {
+      "date": "2026-05-15",
+      "close": 357.15,
+      "prev_close": 349.65,
+      "volume": 4558484,
+      "deliverable_qty": 1253811,
+      "delivery_pct": 27.5
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 21:44:28",
+      "an_dt": "15-May-2026 21:44:28",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "Aditya Birla Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/rsrai_15052026214403_ABCL_SE_Disclosure_Tax_authoritysigned.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 17:36:50",
+      "an_dt": "14-May-2026 17:36:50",
+      "desc": "Allotment of Securities",
+      "sm_name": "Aditya Birla Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/palavjain_14052026173612_ABCL_NCD_allotmet_May_14_2026_Reg_30.pdf"
+    },
     {
       "sort_date": "2026-05-12 16:21:06",
       "an_dt": "12-May-2026 16:21:06",

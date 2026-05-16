@@ -8,25 +8,9 @@
   "price": 124.08,
   "market_cap_cr": 4173.38,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 156.77,
-      "prev_close": 159.15,
-      "volume": 5038628,
-      "deliverable_qty": 1425108,
-      "delivery_pct": 28.28
-    },
-    {
-      "date": "2026-02-13",
-      "close": 152.37,
-      "prev_close": 156.77,
-      "volume": 2475454,
-      "deliverable_qty": 1116784,
-      "delivery_pct": 45.11
-    },
     {
       "date": "2026-02-16",
       "close": 150.11,
@@ -466,9 +450,24 @@
       "volume": 8184846,
       "deliverable_qty": 2288145,
       "delivery_pct": 27.96
+    },
+    {
+      "date": "2026-05-15",
+      "close": 156.99,
+      "prev_close": 160.33,
+      "volume": 5881806,
+      "deliverable_qty": 1943791,
+      "delivery_pct": 33.05
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 21:20:51",
+      "an_dt": "14-May-2026 21:20:51",
+      "desc": "General Updates",
+      "sm_name": "Rain Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAIN_14052026211931_RIL_-_Management_commentry_and_Transcript_Q1_2026.pdf"
+    },
     {
       "sort_date": "2026-05-12 18:48:26",
       "an_dt": "12-May-2026 18:48:26",

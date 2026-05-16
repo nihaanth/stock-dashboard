@@ -8,25 +8,9 @@
   "price": 1650.8,
   "market_cap_cr": 16752.24,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1316.5,
-      "prev_close": 1387.6,
-      "volume": 407308,
-      "deliverable_qty": 188872,
-      "delivery_pct": 46.37
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1289.2,
-      "prev_close": 1316.5,
-      "volume": 237678,
-      "deliverable_qty": 111499,
-      "delivery_pct": 46.91
-    },
     {
       "date": "2026-02-16",
       "close": 1300.8,
@@ -466,9 +450,24 @@
       "volume": 115548,
       "deliverable_qty": 42763,
       "delivery_pct": 37.01
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1498.9,
+      "prev_close": 1521.0,
+      "volume": 50871,
+      "deliverable_qty": 19366,
+      "delivery_pct": 38.07
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 20:22:15",
+      "an_dt": "15-May-2026 20:22:15",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Poly Medicure Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POLYMED_15052026202108_MA_report_Signed_Final_For_Upload.pdf"
+    },
     {
       "sort_date": "2026-04-30 20:08:30",
       "an_dt": "30-Apr-2026 20:08:30",
@@ -559,20 +558,6 @@
       "desc": "General Updates",
       "sm_name": "Poly Medicure Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/POLYMED_28022026151652_Intimation_Investors_call_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:20:09",
-      "an_dt": "13-Feb-2026 11:20:09",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Poly Medicure Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POLYMED_13022026111950_Monitoring_Agency_report_31dec_2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:16:37",
-      "an_dt": "13-Feb-2026 11:16:37",
-      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "sm_name": "Poly Medicure Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POLYMED_13022026111539_Statement_of_Deviation_Reg_32.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 401.2,
   "market_cap_cr": 2509.96,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 412.9,
-      "prev_close": 416.3,
-      "volume": 76577,
-      "deliverable_qty": 45503,
-      "delivery_pct": 59.42
-    },
-    {
-      "date": "2026-02-13",
-      "close": 404.4,
-      "prev_close": 412.9,
-      "volume": 67681,
-      "deliverable_qty": 39823,
-      "delivery_pct": 58.84
-    },
     {
       "date": "2026-02-16",
       "close": 404.65,
@@ -466,9 +450,24 @@
       "volume": 89425,
       "deliverable_qty": 45061,
       "delivery_pct": 50.39
+    },
+    {
+      "date": "2026-05-15",
+      "close": 389.15,
+      "prev_close": 382.95,
+      "volume": 484400,
+      "deliverable_qty": 330574,
+      "delivery_pct": 68.24
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:24:19",
+      "an_dt": "15-May-2026 17:24:19",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Repco Home Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/REPCOHOME_15052026172403_Concall.pdf"
+    },
     {
       "sort_date": "2026-04-03 14:04:46",
       "an_dt": "03-Apr-2026 14:04:46",
@@ -503,13 +502,6 @@
       "desc": "Credit Rating- Others",
       "sm_name": "Repco Home Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/REPCOHOME_20022026170948_Rating.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 13:53:27",
-      "an_dt": "13-Feb-2026 13:53:27",
-      "desc": "Shareholders meeting",
-      "sm_name": "Repco Home Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/REPCOHOME_13022026135236_Result.pdf"
     }
   ]
 }

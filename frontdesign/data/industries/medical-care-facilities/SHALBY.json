@@ -8,25 +8,9 @@
   "price": 165.46,
   "market_cap_cr": 1775.37,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 168.37,
-      "prev_close": 179.57,
-      "volume": 339744,
-      "deliverable_qty": 160990,
-      "delivery_pct": 47.39
-    },
-    {
-      "date": "2026-02-13",
-      "close": 156.77,
-      "prev_close": 168.37,
-      "volume": 387072,
-      "deliverable_qty": 183588,
-      "delivery_pct": 47.43
-    },
     {
       "date": "2026-02-16",
       "close": 154.78,
@@ -466,9 +450,24 @@
       "volume": 49785,
       "deliverable_qty": 19962,
       "delivery_pct": 40.1
+    },
+    {
+      "date": "2026-05-15",
+      "close": 158.12,
+      "prev_close": 159.75,
+      "volume": 45435,
+      "deliverable_qty": 30230,
+      "delivery_pct": 66.53
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 18:03:40",
+      "an_dt": "14-May-2026 18:03:40",
+      "desc": "General Updates",
+      "sm_name": "Shalby Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHALBYLTD_14052026174956_12Ningenstrikeoff.pdf"
+    },
     {
       "sort_date": "2026-05-05 16:55:13",
       "an_dt": "05-May-2026 16:55:13",
@@ -587,20 +586,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Shalby Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHALBYLTD_17022026195909_96PostalBallot_notice.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 13:02:08",
-      "an_dt": "13-Feb-2026 13:02:08",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Shalby Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHALBYLTD_13022026130156_95NewspaperAd.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:24:31",
-      "an_dt": "12-Feb-2026 18:24:31",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Shalby Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHALBYLTD_12022026182418_94AudioRecordingConcall.pdf"
     }
   ]
 }

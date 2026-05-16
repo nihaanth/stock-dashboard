@@ -8,25 +8,9 @@
   "price": 204.42,
   "market_cap_cr": 18190.91,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 188.27,
-      "prev_close": 191.81,
-      "volume": 6584472,
-      "deliverable_qty": 2628029,
-      "delivery_pct": 39.91
-    },
-    {
-      "date": "2026-02-13",
-      "close": 186.71,
-      "prev_close": 188.27,
-      "volume": 5220884,
-      "deliverable_qty": 1863071,
-      "delivery_pct": 35.68
-    },
     {
       "date": "2026-02-16",
       "close": 184.8,
@@ -466,9 +450,31 @@
       "volume": 2643491,
       "deliverable_qty": 993265,
       "delivery_pct": 37.57
+    },
+    {
+      "date": "2026-05-15",
+      "close": 209.46,
+      "prev_close": 209.66,
+      "volume": 4263116,
+      "deliverable_qty": 2074080,
+      "delivery_pct": 48.65
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:45:57",
+      "an_dt": "15-May-2026 18:45:57",
+      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
+      "sm_name": "Belrise Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BELRISE_15052026184542_BELRISE_Statement_of_Deviation_or_variation_March_2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 18:44:41",
+      "an_dt": "15-May-2026 18:44:41",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Belrise Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BELRISE_15052026184422_BELRISE_Monitoring_Agency_Report_March_2026_.pdf"
+    },
     {
       "sort_date": "2026-04-13 14:51:39",
       "an_dt": "13-Apr-2026 14:51:39",
@@ -538,13 +544,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Belrise Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BELRISE_18032026172354_BELRISESchedule_ofanalystinvestor_meet18032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:46:56",
-      "an_dt": "12-Feb-2026 18:46:56",
-      "desc": "Credit Rating",
-      "sm_name": "Belrise Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BELRISE_12022026184439_BELRISE_Intimation_of_CRISIL_Rating_12022026_Clean.pdf"
     }
   ]
 }

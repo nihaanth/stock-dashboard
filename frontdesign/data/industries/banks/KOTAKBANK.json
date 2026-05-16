@@ -8,25 +8,9 @@
   "price": 381.05,
   "market_cap_cr": 379010.05,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 426.25,
-      "prev_close": 429.55,
-      "volume": 14003384,
-      "deliverable_qty": 8240348,
-      "delivery_pct": 58.85
-    },
-    {
-      "date": "2026-02-13",
-      "close": 420.65,
-      "prev_close": 426.25,
-      "volume": 23233320,
-      "deliverable_qty": 16123696,
-      "delivery_pct": 69.4
-    },
     {
       "date": "2026-02-16",
       "close": 425.6,
@@ -466,9 +450,38 @@
       "volume": 16267456,
       "deliverable_qty": 11167113,
       "delivery_pct": 68.65
+    },
+    {
+      "date": "2026-05-15",
+      "close": 387.05,
+      "prev_close": 383.2,
+      "volume": 19461437,
+      "deliverable_qty": 11920722,
+      "delivery_pct": 61.25
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 23:17:37",
+      "an_dt": "15-May-2026 23:17:37",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Kotak Mahindra Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KOTAK_15052026231653_SEIntESOPAllotment15052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 21:15:50",
+      "an_dt": "15-May-2026 21:15:50",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Kotak Mahindra Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KOTAK_15052026211520_GrantIntimation15052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 16:58:41",
+      "an_dt": "14-May-2026 16:58:41",
+      "desc": "General Updates",
+      "sm_name": "Kotak Mahindra Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KOTAK_14052026165801_SELetterTransfertoIEPF2026.pdf"
+    },
     {
       "sort_date": "2026-05-08 23:21:43",
       "an_dt": "08-May-2026 23:21:43",

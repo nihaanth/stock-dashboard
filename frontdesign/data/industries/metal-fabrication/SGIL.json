@@ -8,25 +8,9 @@
   "price": 602.5,
   "market_cap_cr": 935.98,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 491.1,
-      "prev_close": 458.65,
-      "volume": 339350,
-      "deliverable_qty": 144334,
-      "delivery_pct": 42.53
-    },
-    {
-      "date": "2026-02-13",
-      "close": 484.25,
-      "prev_close": 491.1,
-      "volume": 189914,
-      "deliverable_qty": 98456,
-      "delivery_pct": 51.84
-    },
     {
       "date": "2026-02-16",
       "close": 515.7,
@@ -466,6 +450,14 @@
       "volume": 6255,
       "deliverable_qty": 2485,
       "delivery_pct": 39.73
+    },
+    {
+      "date": "2026-05-15",
+      "close": 561.9,
+      "prev_close": 567.55,
+      "volume": 3717,
+      "deliverable_qty": 2212,
+      "delivery_pct": 59.51
     }
   ],
   "news": [
@@ -510,27 +502,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Synergy Green Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGIL_19022026124620_Intimation_of_Postal_Ballot_Notice.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 18:32:54",
-      "an_dt": "12-Feb-2026 18:32:54",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Synergy Green Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGIL_12022026183246_Transcript_11022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 12:40:29",
-      "an_dt": "12-Feb-2026 12:40:29",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Synergy Green Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGIL_12022026124014_Newspaper_Publication.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 11:42:34",
-      "an_dt": "12-Feb-2026 11:42:34",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Synergy Green Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGIL_12022026114223_Outcome_investors_Meet.pdf"
     }
   ]
 }

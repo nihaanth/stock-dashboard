@@ -8,25 +8,9 @@
   "price": 317.2,
   "market_cap_cr": 28928.6,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 2752.0,
-      "prev_close": 2781.1,
-      "volume": 458423,
-      "deliverable_qty": 123781,
-      "delivery_pct": 27.0
-    },
-    {
-      "date": "2026-02-13",
-      "close": 2698.3,
-      "prev_close": 2752.0,
-      "volume": 603593,
-      "deliverable_qty": 163259,
-      "delivery_pct": 27.05
-    },
     {
       "date": "2026-02-16",
       "close": 2572.8,
@@ -466,6 +450,14 @@
       "volume": 4043706,
       "deliverable_qty": 1303351,
       "delivery_pct": 32.23
+    },
+    {
+      "date": "2026-05-15",
+      "close": 306.85,
+      "prev_close": 303.7,
+      "volume": 6072039,
+      "deliverable_qty": 1551866,
+      "delivery_pct": 25.56
     }
   ],
   "news": [
@@ -692,13 +684,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Angel One Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANGEL8896_18022026212359_AngelOnelimitedPostalBallot2026Final.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 15:27:21",
-      "an_dt": "12-Feb-2026 15:27:21",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Angel One Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANGEL8896_12022026152654_February122026intimationofallotment.pdf"
     }
   ]
 }

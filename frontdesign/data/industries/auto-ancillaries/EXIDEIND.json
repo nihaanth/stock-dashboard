@@ -8,25 +8,9 @@
   "price": 352.7,
   "market_cap_cr": 29979.5,
   "industry_source": "webarchive",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 338.05,
-      "prev_close": 341.1,
-      "volume": 1708279,
-      "deliverable_qty": 938414,
-      "delivery_pct": 54.93
-    },
-    {
-      "date": "2026-02-13",
-      "close": 336.8,
-      "prev_close": 338.05,
-      "volume": 1628679,
-      "deliverable_qty": 745945,
-      "delivery_pct": 45.8
-    },
     {
       "date": "2026-02-16",
       "close": 340.85,
@@ -466,6 +450,14 @@
       "volume": 1652680,
       "deliverable_qty": 538310,
       "delivery_pct": 32.57
+    },
+    {
+      "date": "2026-05-15",
+      "close": 349.05,
+      "prev_close": 349.7,
+      "volume": 2182792,
+      "deliverable_qty": 1102257,
+      "delivery_pct": 50.5
     }
   ],
   "news": [
@@ -601,13 +593,6 @@
       "desc": "Updates",
       "sm_name": "Exide Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXIDEIND_16022026180110_sdSEInvestormeet.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 17:49:07",
-      "an_dt": "12-Feb-2026 17:49:07",
-      "desc": "Clarification - Financial Results",
-      "sm_name": "Exide Industries Limited",
-      "attchmntFile": "-"
     }
   ]
 }

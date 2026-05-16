@@ -8,25 +8,9 @@
   "price": 190.68,
   "market_cap_cr": 1120.58,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 181.03,
-      "prev_close": 190.6,
-      "volume": 6384,
-      "deliverable_qty": 2700,
-      "delivery_pct": 42.29
-    },
-    {
-      "date": "2026-02-13",
-      "close": 179.72,
-      "prev_close": 181.03,
-      "volume": 32358,
-      "deliverable_qty": 15809,
-      "delivery_pct": 48.86
-    },
     {
       "date": "2026-02-16",
       "close": 184.84,
@@ -466,6 +450,14 @@
       "volume": 8206,
       "deliverable_qty": 3714,
       "delivery_pct": 45.26
+    },
+    {
+      "date": "2026-05-15",
+      "close": 228.04,
+      "prev_close": 227.94,
+      "volume": 11165,
+      "deliverable_qty": 8088,
+      "delivery_pct": 72.44
     }
   ],
   "news": [
@@ -559,27 +551,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "AYM Syntex Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYMSYNTEX_16022026125531_AYMSLReg47NewspaperPublication16022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:49:05",
-      "an_dt": "13-Feb-2026 21:49:05",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "AYM Syntex Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYMSYNTEX_13022026214853_AYMSLMonitoringAgencyReport13022026sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:38:30",
-      "an_dt": "13-Feb-2026 21:38:30",
-      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "sm_name": "AYM Syntex Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYMSYNTEX_13022026213815_AYMSLRegulation32_1_13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 20:51:20",
-      "an_dt": "13-Feb-2026 20:51:20",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "AYM Syntex Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYMSYNTEX_13022026205016_OutcomeofBoardMeeting130226.pdf"
     }
   ]
 }

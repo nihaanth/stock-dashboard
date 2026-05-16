@@ -8,25 +8,9 @@
   "price": 1464.7,
   "market_cap_cr": 73235.0,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1681.9,
-      "prev_close": 1689.3,
-      "volume": 65791,
-      "deliverable_qty": 37147,
-      "delivery_pct": 56.46
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1668.7,
-      "prev_close": 1681.9,
-      "volume": 46525,
-      "deliverable_qty": 24860,
-      "delivery_pct": 53.43
-    },
     {
       "date": "2026-02-16",
       "close": 1679.7,
@@ -466,9 +450,31 @@
       "volume": 67282,
       "deliverable_qty": 27995,
       "delivery_pct": 41.61
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1562.3,
+      "prev_close": 1509.7,
+      "volume": 242264,
+      "deliverable_qty": 94270,
+      "delivery_pct": 38.91
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 17:22:15",
+      "an_dt": "14-May-2026 17:22:15",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Bharti Hexacom Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HexacomApril20_14052026171929_BHL_Earnings_Call_OutcomeStx_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 13:07:26",
+      "an_dt": "14-May-2026 13:07:26",
+      "desc": "General Updates",
+      "sm_name": "Bharti Hexacom Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HexacomApril20_14052026130512_BHL_stx_intimation.pdf"
+    },
     {
       "sort_date": "2026-05-13 19:34:29",
       "an_dt": "13-May-2026 19:34:29",
@@ -601,13 +607,6 @@
       "desc": "Action(s) taken or orders passed",
       "sm_name": "Bharti Hexacom Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HexacomApril20_18022026130622_BHL_Stx_Intimation_-_DoT_Notice.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 18:31:24",
-      "an_dt": "13-Feb-2026 18:31:24",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Bharti Hexacom Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HexacomApril20_13022026183101_BHL_Earning_Call_Transcript.pdf"
     }
   ]
 }

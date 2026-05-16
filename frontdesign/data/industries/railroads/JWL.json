@@ -8,25 +8,9 @@
   "price": 290.25,
   "market_cap_cr": 12404.43,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 299.7,
-      "prev_close": 310.25,
-      "volume": 2156677,
-      "deliverable_qty": 523674,
-      "delivery_pct": 24.28
-    },
-    {
-      "date": "2026-02-13",
-      "close": 293.75,
-      "prev_close": 299.7,
-      "volume": 918061,
-      "deliverable_qty": 237587,
-      "delivery_pct": 25.88
-    },
     {
       "date": "2026-02-16",
       "close": 290.75,
@@ -466,6 +450,14 @@
       "volume": 1728568,
       "deliverable_qty": 326892,
       "delivery_pct": 18.91
+    },
+    {
+      "date": "2026-05-15",
+      "close": 275.15,
+      "prev_close": 281.4,
+      "volume": 902055,
+      "deliverable_qty": 334945,
+      "delivery_pct": 37.13
     }
   ],
   "news": [
@@ -545,27 +537,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Jupiter Wagons Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CEBBCO_17022026133151_SETRANSCRIPT13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 21:09:51",
-      "an_dt": "13-Feb-2026 21:09:51",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Jupiter Wagons Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CEBBCO_13022026210939_SEINVMEET13022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 13:01:04",
-      "an_dt": "13-Feb-2026 13:01:04",
-      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "sm_name": "Jupiter Wagons Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CEBBCO_13022026130053_StatementDeviation1022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-12 11:54:12",
-      "an_dt": "12-Feb-2026 11:54:12",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Jupiter Wagons Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CEBBCO_12022026115348_SENEWSPAPERFR311222025.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 1157.4,
   "market_cap_cr": 10442.12,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 1252.6,
-      "prev_close": 1135.9,
-      "volume": 1347580,
-      "deliverable_qty": 320889,
-      "delivery_pct": 23.81
-    },
-    {
-      "date": "2026-02-13",
-      "close": 1256.0,
-      "prev_close": 1252.6,
-      "volume": 638702,
-      "deliverable_qty": 201205,
-      "delivery_pct": 31.5
-    },
     {
       "date": "2026-02-16",
       "close": 1231.2,
@@ -466,9 +450,38 @@
       "volume": 3721467,
       "deliverable_qty": 817905,
       "delivery_pct": 21.98
+    },
+    {
+      "date": "2026-05-15",
+      "close": 969.0,
+      "prev_close": 958.5,
+      "volume": 1762142,
+      "deliverable_qty": 452457,
+      "delivery_pct": 25.68
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-14 16:19:56",
+      "an_dt": "14-May-2026 16:19:56",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Sharda Cropchem Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHARDACROP_14052026161944_NSE.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 12:51:33",
+      "an_dt": "14-May-2026 12:51:33",
+      "desc": "Dividend",
+      "sm_name": "Sharda Cropchem Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHARDACROP_14052026125121_NSE.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 11:50:01",
+      "an_dt": "14-May-2026 11:50:01",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Sharda Cropchem Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHARDACROP_14052026114941_NSE.pdf"
+    },
     {
       "sort_date": "2026-05-13 18:34:10",
       "an_dt": "13-May-2026 18:34:10",

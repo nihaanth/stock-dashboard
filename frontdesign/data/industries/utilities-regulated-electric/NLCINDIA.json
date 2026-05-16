@@ -8,25 +8,9 @@
   "price": 329.7,
   "market_cap_cr": 45717.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 259.65,
-      "prev_close": 256.8,
-      "volume": 1616282,
-      "deliverable_qty": 521799,
-      "delivery_pct": 32.28
-    },
-    {
-      "date": "2026-02-13",
-      "close": 259.3,
-      "prev_close": 259.65,
-      "volume": 1711761,
-      "deliverable_qty": 662721,
-      "delivery_pct": 38.72
-    },
     {
       "date": "2026-02-16",
       "close": 256.85,
@@ -466,9 +450,31 @@
       "volume": 5353741,
       "deliverable_qty": 2291679,
       "delivery_pct": 42.81
+    },
+    {
+      "date": "2026-05-15",
+      "close": 352.8,
+      "prev_close": 370.9,
+      "volume": 11521132,
+      "deliverable_qty": 2754272,
+      "delivery_pct": 23.91
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 18:00:13",
+      "an_dt": "15-May-2026 18:00:13",
+      "desc": "Updates",
+      "sm_name": "NLC India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLCINDIA_15052026175833_FinResultsQ4-OCR_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 12:18:17",
+      "an_dt": "14-May-2026 12:18:17",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "NLC India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLCINDIA_14052026121759_Newspaper_Advertisement-Signed.pdf"
+    },
     {
       "sort_date": "2026-05-13 21:22:34",
       "an_dt": "13-May-2026 21:22:34",

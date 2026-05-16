@@ -8,25 +8,9 @@
   "price": 1065.6,
   "market_cap_cr": 68016.12,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 965.45,
-      "prev_close": 950.25,
-      "volume": 1566282,
-      "deliverable_qty": 986920,
-      "delivery_pct": 63.01
-    },
-    {
-      "date": "2026-02-13",
-      "close": 912.4,
-      "prev_close": 965.45,
-      "volume": 1020844,
-      "deliverable_qty": 477317,
-      "delivery_pct": 46.76
-    },
     {
       "date": "2026-02-16",
       "close": 923.7,
@@ -466,9 +450,38 @@
       "volume": 1591692,
       "deliverable_qty": 912163,
       "delivery_pct": 57.31
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1100.6,
+      "prev_close": 1092.3,
+      "volume": 843168,
+      "deliverable_qty": 453142,
+      "delivery_pct": 53.74
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 16:12:47",
+      "an_dt": "15-May-2026 16:12:47",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Nippon Life India Asset Management Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RNLAM_15052026161232_SE_Letter_Saksham_Niveshak.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 18:21:30",
+      "an_dt": "14-May-2026 18:21:30",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Nippon Life India Asset Management Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RNLAM_14052026182059_SE_Intimation_May_27.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 18:21:30",
+      "an_dt": "14-May-2026 18:21:30",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Nippon Life India Asset Management Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RNLAM_14052026181955_SE_Intimation_May_22.pdf"
+    },
     {
       "sort_date": "2026-05-11 13:33:16",
       "an_dt": "11-May-2026 13:33:16",

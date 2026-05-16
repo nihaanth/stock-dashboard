@@ -8,25 +8,9 @@
   "price": 292.16,
   "market_cap_cr": 1141.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 260.33,
-      "prev_close": 258.61,
-      "volume": 65742,
-      "deliverable_qty": 41696,
-      "delivery_pct": 63.42
-    },
-    {
-      "date": "2026-02-13",
-      "close": 252.89,
-      "prev_close": 260.33,
-      "volume": 44112,
-      "deliverable_qty": 22776,
-      "delivery_pct": 51.63
-    },
     {
       "date": "2026-02-16",
       "close": 253.54,
@@ -466,9 +450,31 @@
       "volume": 41147,
       "deliverable_qty": 25310,
       "delivery_pct": 61.51
+    },
+    {
+      "date": "2026-05-15",
+      "close": 361.95,
+      "prev_close": 360.25,
+      "volume": 54244,
+      "deliverable_qty": 28981,
+      "delivery_pct": 53.43
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:09:49",
+      "an_dt": "15-May-2026 17:09:49",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "United Foodbrands Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BARBEQUE_15052026170838_IntimationofScheduleofInvestorsMeet.pdf"
+    },
+    {
+      "sort_date": "2026-05-14 19:16:14",
+      "an_dt": "14-May-2026 19:16:14",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "United Foodbrands Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BARBEQUE_14052026191440_ReschedulingOfEarningsConCallIntimationQ4FY26.pdf"
+    },
     {
       "sort_date": "2026-05-13 19:47:24",
       "an_dt": "13-May-2026 19:47:24",
@@ -573,13 +579,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "United Foodbrands Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BARBEQUE_17022026162135_SEIntimationPostalBallotNotice.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 17:24:58",
-      "an_dt": "13-Feb-2026 17:24:58",
-      "desc": "Updates",
-      "sm_name": "United Foodbrands Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BARBEQUE_13022026172317_ClarificationonMediaReportsCCPAServiceCharge.pdf"
     }
   ]
 }

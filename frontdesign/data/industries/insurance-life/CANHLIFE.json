@@ -8,25 +8,9 @@
   "price": 144.93,
   "market_cap_cr": 13757.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-13",
+  "as_of": "2026-05-15",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-12",
-      "close": 147.09,
-      "prev_close": 148.64,
-      "volume": 1350049,
-      "deliverable_qty": 1050697,
-      "delivery_pct": 77.83
-    },
-    {
-      "date": "2026-02-13",
-      "close": 151.61,
-      "prev_close": 147.09,
-      "volume": 1626233,
-      "deliverable_qty": 701110,
-      "delivery_pct": 43.11
-    },
     {
       "date": "2026-02-16",
       "close": 153.87,
@@ -466,9 +450,31 @@
       "volume": 456677,
       "deliverable_qty": 170791,
       "delivery_pct": 37.4
+    },
+    {
+      "date": "2026-05-15",
+      "close": 135.43,
+      "prev_close": 136.89,
+      "volume": 230231,
+      "deliverable_qty": 100872,
+      "delivery_pct": 43.81
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-15 17:12:46",
+      "an_dt": "15-May-2026 17:12:46",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Canara HSBC Life Insurance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANARAHSBCLIFE_15052026171214_Investor_meet_intimation-_May_2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-15 16:54:44",
+      "an_dt": "15-May-2026 16:54:44",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Canara HSBC Life Insurance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANARAHSBCLIFE_15052026165215_Investor_meet_intimation-_May_2026.pdf"
+    },
     {
       "sort_date": "2026-04-30 17:02:02",
       "an_dt": "30-Apr-2026 17:02:02",
@@ -650,13 +656,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Canara HSBC Life Insurance Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANARAHSBCLIFE_16022026190906_Intimation_for_postal_ballot_notice.pdf"
-    },
-    {
-      "sort_date": "2026-02-13 11:42:07",
-      "an_dt": "13-Feb-2026 11:42:07",
-      "desc": "Updates",
-      "sm_name": "Canara HSBC Life Insurance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANARAHSBCLIFE_13022026114149_Intimation_to_stock_exchange_13th_February_2026.pdf"
     }
   ]
 }
