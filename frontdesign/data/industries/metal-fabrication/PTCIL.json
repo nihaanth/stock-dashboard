@@ -8,17 +8,9 @@
   "price": 17058.0,
   "market_cap_cr": 25574.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 18002.0,
-      "prev_close": 18384.0,
-      "volume": 19759,
-      "deliverable_qty": 5410,
-      "delivery_pct": 27.38
-    },
     {
       "date": "2026-02-17",
       "close": 18277.0,
@@ -458,6 +450,14 @@
       "volume": 10056,
       "deliverable_qty": 4760,
       "delivery_pct": 47.33
+    },
+    {
+      "date": "2026-05-18",
+      "close": 16252.0,
+      "prev_close": 16788.0,
+      "volume": 15504,
+      "deliverable_qty": 6296,
+      "delivery_pct": 40.61
     }
   ],
   "news": [
@@ -551,13 +551,6 @@
       "desc": "Press Release",
       "sm_name": "PTC Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PTCINDUSTRIES_18022026181707_20260218_Press_release_Q3FY26_Earning_Exchange.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 11:52:29",
-      "an_dt": "16-Feb-2026 11:52:29",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "PTC Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PTCINDUSTRIES_16022026115218_Q3FY26_Disclosure_Newspaper_Result_published.pdf"
     }
   ]
 }

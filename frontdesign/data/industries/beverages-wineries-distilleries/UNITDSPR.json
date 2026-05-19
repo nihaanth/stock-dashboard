@@ -8,17 +8,9 @@
   "price": 1231.5,
   "market_cap_cr": 89579.46,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 1401.0,
-      "prev_close": 1402.4,
-      "volume": 151661,
-      "deliverable_qty": 84770,
-      "delivery_pct": 55.89
-    },
     {
       "date": "2026-02-17",
       "close": 1424.0,
@@ -458,9 +450,24 @@
       "volume": 3849617,
       "deliverable_qty": 1093120,
       "delivery_pct": 28.4
+    },
+    {
+      "date": "2026-05-18",
+      "close": 1315.7,
+      "prev_close": 1320.7,
+      "volume": 837730,
+      "deliverable_qty": 310664,
+      "delivery_pct": 37.08
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 15:53:31",
+      "an_dt": "18-May-2026 15:53:31",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "United Spirits Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20042026125645_43.pdf"
+    },
     {
       "sort_date": "2026-05-17 18:50:00",
       "an_dt": "17-May-2026 18:50:00",

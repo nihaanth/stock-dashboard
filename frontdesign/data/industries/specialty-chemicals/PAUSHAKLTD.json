@@ -8,17 +8,9 @@
   "price": 496.45,
   "market_cap_cr": 1224.09,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 493.5,
-      "prev_close": 501.2,
-      "volume": 5655,
-      "deliverable_qty": 3850,
-      "delivery_pct": 68.08
-    },
     {
       "date": "2026-02-17",
       "close": 504.2,
@@ -458,9 +450,24 @@
       "volume": 17066,
       "deliverable_qty": 10445,
       "delivery_pct": 61.2
+    },
+    {
+      "date": "2026-05-18",
+      "close": 452.05,
+      "prev_close": 461.4,
+      "volume": 8850,
+      "deliverable_qty": 4867,
+      "delivery_pct": 54.99
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 15:56:00",
+      "an_dt": "18-May-2026 15:56:00",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Paushak Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20042026124757_50.pdf"
+    },
     {
       "sort_date": "2026-05-06 18:17:51",
       "an_dt": "06-May-2026 18:17:51",

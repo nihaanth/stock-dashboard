@@ -8,17 +8,9 @@
   "price": 347.4,
   "market_cap_cr": 6303.69,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 343.35,
-      "prev_close": 335.75,
-      "volume": 177208,
-      "deliverable_qty": 93999,
-      "delivery_pct": 53.04
-    },
     {
       "date": "2026-02-17",
       "close": 337.8,
@@ -458,6 +450,14 @@
       "volume": 67831,
       "deliverable_qty": 36244,
       "delivery_pct": 53.43
+    },
+    {
+      "date": "2026-05-18",
+      "close": 313.15,
+      "prev_close": 319.4,
+      "volume": 99634,
+      "deliverable_qty": 53277,
+      "delivery_pct": 53.47
     }
   ],
   "news": [
@@ -607,20 +607,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "MAS Financial Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASFIN_21022026151806_Final.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 21:40:25",
-      "an_dt": "16-Feb-2026 21:40:25",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "MAS Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASFIN_16022026213954_MFSLSECEQ2026_18_Investor_audio.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 16:45:28",
-      "an_dt": "16-Feb-2026 16:45:28",
-      "desc": "Investor Presentation",
-      "sm_name": "MAS Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASFIN_16022026164520_PPT.pdf"
     }
   ]
 }

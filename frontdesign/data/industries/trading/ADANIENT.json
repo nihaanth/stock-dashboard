@@ -8,17 +8,9 @@
   "price": 2500.2,
   "market_cap_cr": 342763.48,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 2184.6,
-      "prev_close": 2136.6,
-      "volume": 1824808,
-      "deliverable_qty": 584979,
-      "delivery_pct": 32.06
-    },
     {
       "date": "2026-02-17",
       "close": 2242.9,
@@ -458,9 +450,31 @@
       "volume": 6742083,
       "deliverable_qty": 1182501,
       "delivery_pct": 17.54
+    },
+    {
+      "date": "2026-05-18",
+      "close": 2689.8,
+      "prev_close": 2716.0,
+      "volume": 2033884,
+      "deliverable_qty": 406906,
+      "delivery_pct": 20.01
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 21:18:39",
+      "an_dt": "18-May-2026 21:18:39",
+      "desc": "Agreements",
+      "sm_name": "Adani Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/nishant_joshi_adani_com_18052026211830_AELSEIntimationReg30OFACDisclosure.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 20:41:16",
+      "an_dt": "18-May-2026 20:41:16",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Adani Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/nishant_joshi_adani_com_18052026204111_Intimation_NewspaperAd_remindernoticedispatch_finalupload.pdf"
+    },
     {
       "sort_date": "2026-05-16 17:49:13",
       "an_dt": "16-May-2026 17:49:13",
@@ -810,13 +824,6 @@
       "desc": "Press Release",
       "sm_name": "Adani Enterprises Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/nishant_joshi_adani_com_17022026122704_AELIntimationforMediaRelease17022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 19:16:27",
-      "an_dt": "16-Feb-2026 19:16:27",
-      "desc": "Incorporation",
-      "sm_name": "Adani Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/nishant_joshi_adani_com_16022026191617_AELintimationACX_NMPTL.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 2747.2,
   "market_cap_cr": 117708.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 2842.2,
-      "prev_close": 2813.2,
-      "volume": 272866,
-      "deliverable_qty": 163321,
-      "delivery_pct": 59.85
-    },
     {
       "date": "2026-02-17",
       "close": 2863.6,
@@ -458,9 +450,31 @@
       "volume": 429762,
       "deliverable_qty": 212098,
       "delivery_pct": 49.35
+    },
+    {
+      "date": "2026-05-18",
+      "close": 2625.1,
+      "prev_close": 2703.5,
+      "volume": 990806,
+      "deliverable_qty": 548977,
+      "delivery_pct": 55.41
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 15:38:44",
+      "an_dt": "18-May-2026 15:38:44",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "HDFC Asset Management Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20042026121630_Discl6.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 09:02:01",
+      "an_dt": "18-May-2026 09:02:01",
+      "desc": "General Updates",
+      "sm_name": "HDFC Asset Management Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DEEPTI_18052026090102_NSEBSE_18052026_.pdf"
+    },
     {
       "sort_date": "2026-05-15 17:42:56",
       "an_dt": "15-May-2026 17:42:56",

@@ -8,17 +8,9 @@
   "price": 1272.3,
   "market_cap_cr": 1502.45,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 1441.6,
-      "prev_close": 1201.4,
-      "volume": 1024732,
-      "deliverable_qty": 169398,
-      "delivery_pct": 16.53
-    },
     {
       "date": "2026-02-17",
       "close": 1631.8,
@@ -458,9 +450,24 @@
       "volume": 9005,
       "deliverable_qty": 4859,
       "delivery_pct": 53.96
+    },
+    {
+      "date": "2026-05-18",
+      "close": 1251.0,
+      "prev_close": 1250.7,
+      "volume": 28929,
+      "deliverable_qty": 16252,
+      "delivery_pct": 56.18
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 14:55:40",
+      "an_dt": "18-May-2026 14:55:40",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "RACL Geartech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20042026113946_Intimation2.pdf"
+    },
     {
       "sort_date": "2026-04-25 12:20:47",
       "an_dt": "25-Apr-2026 12:20:47",

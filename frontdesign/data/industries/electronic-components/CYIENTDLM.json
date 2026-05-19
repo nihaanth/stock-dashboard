@@ -8,17 +8,9 @@
   "price": 424.4,
   "market_cap_cr": 3368.23,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 355.9,
-      "prev_close": 363.35,
-      "volume": 88670,
-      "deliverable_qty": 47322,
-      "delivery_pct": 53.37
-    },
     {
       "date": "2026-02-17",
       "close": 364.15,
@@ -458,9 +450,24 @@
       "volume": 227646,
       "deliverable_qty": 112657,
       "delivery_pct": 49.49
+    },
+    {
+      "date": "2026-05-18",
+      "close": 416.75,
+      "prev_close": 416.25,
+      "volume": 246750,
+      "deliverable_qty": 121750,
+      "delivery_pct": 49.34
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 21:23:28",
+      "an_dt": "18-May-2026 21:23:28",
+      "desc": "Appointment",
+      "sm_name": "Cyient DLM Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9880504433_18052026212316_Reg_30_SMP_appointment_Rama_Alapati.pdf"
+    },
     {
       "sort_date": "2026-05-15 11:51:14",
       "an_dt": "15-May-2026 11:51:14",

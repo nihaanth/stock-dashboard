@@ -8,17 +8,9 @@
   "price": 634.95,
   "market_cap_cr": 90380.83,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 691.0,
-      "prev_close": 699.9,
-      "volume": 1206215,
-      "deliverable_qty": 505531,
-      "delivery_pct": 41.91
-    },
     {
       "date": "2026-02-17",
       "close": 687.75,
@@ -458,9 +450,24 @@
       "volume": 2003906,
       "deliverable_qty": 958915,
       "delivery_pct": 47.85
+    },
+    {
+      "date": "2026-05-18",
+      "close": 648.55,
+      "prev_close": 656.25,
+      "volume": 3030365,
+      "deliverable_qty": 2067349,
+      "delivery_pct": 68.22
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 14:58:25",
+      "an_dt": "18-May-2026 14:58:25",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "The Indian Hotels Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/bakhtawar_irani_tajhotels_com_18052026145801_Analyst_Meet_Intimation_May_21_2026.pdf"
+    },
     {
       "sort_date": "2026-05-14 17:37:47",
       "an_dt": "14-May-2026 17:37:47",
@@ -600,13 +607,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "The Indian Hotels Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDHOTEL_19022026125343_TRANSSCRIPTS.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 12:09:27",
-      "an_dt": "16-Feb-2026 12:09:27",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "The Indian Hotels Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/bakhtawar_irani_tajhotels_com_16022026120902_investorintimation.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 698.45,
   "market_cap_cr": 8043.6,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 672.35,
-      "prev_close": 687.0,
-      "volume": 93613,
-      "deliverable_qty": 68257,
-      "delivery_pct": 72.91
-    },
     {
       "date": "2026-02-17",
       "close": 644.35,
@@ -458,9 +450,38 @@
       "volume": 70514,
       "deliverable_qty": 23589,
       "delivery_pct": 33.45
+    },
+    {
+      "date": "2026-05-18",
+      "close": 677.35,
+      "prev_close": 645.95,
+      "volume": 173214,
+      "deliverable_qty": 56588,
+      "delivery_pct": 32.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 19:30:38",
+      "an_dt": "18-May-2026 19:30:38",
+      "desc": "Change in Director(s)",
+      "sm_name": "63 moons technologies limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/63MOONS_18052026193025_BMOutcome18052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 19:29:25",
+      "an_dt": "18-May-2026 19:29:25",
+      "desc": "Dividend",
+      "sm_name": "63 moons technologies limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/63MOONS_18052026192907_BMOutcome18052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 19:23:56",
+      "an_dt": "18-May-2026 19:23:56",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "63 moons technologies limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/63MOONS_18052026191847_FR31March2026.pdf"
+    },
     {
       "sort_date": "2026-05-07 10:20:02",
       "an_dt": "07-May-2026 10:20:02",

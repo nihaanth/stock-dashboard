@@ -8,17 +8,9 @@
   "price": 432.4,
   "market_cap_cr": 27384.83,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 479.25,
-      "prev_close": 489.65,
-      "volume": 812390,
-      "deliverable_qty": 476598,
-      "delivery_pct": 58.67
-    },
     {
       "date": "2026-02-17",
       "close": 478.4,
@@ -458,9 +450,24 @@
       "volume": 9044984,
       "deliverable_qty": 2267878,
       "delivery_pct": 25.07
+    },
+    {
+      "date": "2026-05-18",
+      "close": 375.15,
+      "prev_close": 394.5,
+      "volume": 2250527,
+      "deliverable_qty": 942979,
+      "delivery_pct": 41.9
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 17:47:02",
+      "an_dt": "18-May-2026 17:47:02",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Apollo Tyres Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_18052026174646_transcriptintimation.pdf"
+    },
     {
       "sort_date": "2026-05-15 18:10:01",
       "an_dt": "15-May-2026 18:10:01",
@@ -614,13 +621,6 @@
       "desc": "General Updates",
       "sm_name": "Apollo Tyres Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_18022026111126_intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 15:08:29",
-      "an_dt": "16-Feb-2026 15:08:29",
-      "desc": "General Updates",
-      "sm_name": "Apollo Tyres Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APOLLOTYRE1_16022026150804_participationintimation.pdf"
     }
   ]
 }

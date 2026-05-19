@@ -8,17 +8,9 @@
   "price": 391.05,
   "market_cap_cr": 68605.81,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 385.75,
-      "prev_close": 390.6,
-      "volume": 286535,
-      "deliverable_qty": 146108,
-      "delivery_pct": 50.99
-    },
     {
       "date": "2026-02-17",
       "close": 389.2,
@@ -458,9 +450,24 @@
       "volume": 378500,
       "deliverable_qty": 208385,
       "delivery_pct": 55.06
+    },
+    {
+      "date": "2026-05-18",
+      "close": 391.8,
+      "prev_close": 387.45,
+      "volume": 506884,
+      "deliverable_qty": 243558,
+      "delivery_pct": 48.05
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 17:35:35",
+      "an_dt": "18-May-2026 17:35:35",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "General Insurance Corporation of India",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20042026132919_20.pdf"
+    },
     {
       "sort_date": "2026-05-15 20:38:53",
       "an_dt": "15-May-2026 20:38:53",
@@ -537,13 +544,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "General Insurance Corporation of India",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GICRE_24022026215650_SEIntimationInvestorMeet27022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 14:35:28",
-      "an_dt": "16-Feb-2026 14:35:28",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "General Insurance Corporation of India",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GICRE_16022026143513_SEintimationTranscriptofInvestorcall11thfeb2026signed.pdf"
     }
   ]
 }

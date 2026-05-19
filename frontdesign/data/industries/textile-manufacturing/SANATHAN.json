@@ -8,17 +8,9 @@
   "price": 442.25,
   "market_cap_cr": 3732.77,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 428.4,
-      "prev_close": 427.3,
-      "volume": 14373,
-      "deliverable_qty": 8396,
-      "delivery_pct": 58.42
-    },
     {
       "date": "2026-02-17",
       "close": 424.05,
@@ -458,9 +450,31 @@
       "volume": 11006,
       "deliverable_qty": 7074,
       "delivery_pct": 64.27
+    },
+    {
+      "date": "2026-05-18",
+      "close": 424.85,
+      "prev_close": 433.1,
+      "volume": 23296,
+      "deliverable_qty": 11377,
+      "delivery_pct": 48.84
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 18:05:07",
+      "an_dt": "18-May-2026 18:05:07",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Sanathan Textiles Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANATHAN_18052026180039_STL_EarningCall_Audio.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 15:22:15",
+      "an_dt": "18-May-2026 15:22:15",
+      "desc": "Investor Presentation",
+      "sm_name": "Sanathan Textiles Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANATHAN_18052026152155_STL_Q4_Investor_Presentation_forsign.pdf"
+    },
     {
       "sort_date": "2026-05-16 14:53:45",
       "an_dt": "16-May-2026 14:53:45",

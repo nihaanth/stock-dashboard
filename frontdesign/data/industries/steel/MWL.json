@@ -8,17 +8,9 @@
   "price": 268.05,
   "market_cap_cr": 796.13,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 267.1,
-      "prev_close": 271.2,
-      "volume": 27829,
-      "deliverable_qty": 3353,
-      "delivery_pct": 12.05
-    },
     {
       "date": "2026-02-17",
       "close": 267.2,
@@ -458,9 +450,24 @@
       "volume": 65533,
       "deliverable_qty": 31757,
       "delivery_pct": 48.46
+    },
+    {
+      "date": "2026-05-18",
+      "close": 365.7,
+      "prev_close": 355.1,
+      "volume": 251605,
+      "deliverable_qty": 108082,
+      "delivery_pct": 42.96
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 17:28:20",
+      "an_dt": "18-May-2026 17:28:20",
+      "desc": "Shareholders meeting",
+      "sm_name": "Mangalam Worldwide Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MWL_18052026172502_NOTICEOFPOSTALBALLOTSIGNED.pdf"
+    },
     {
       "sort_date": "2026-05-16 12:11:57",
       "an_dt": "16-May-2026 12:11:57",

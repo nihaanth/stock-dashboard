@@ -8,17 +8,9 @@
   "price": 114.54,
   "market_cap_cr": 53527.15,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 120.07,
-      "prev_close": 121.91,
-      "volume": 2841683,
-      "deliverable_qty": 1411904,
-      "delivery_pct": 49.69
-    },
     {
       "date": "2026-02-17",
       "close": 120.06,
@@ -458,9 +450,24 @@
       "volume": 15293693,
       "deliverable_qty": 5156950,
       "delivery_pct": 33.72
+    },
+    {
+      "date": "2026-05-18",
+      "close": 121.63,
+      "prev_close": 118.99,
+      "volume": 17147994,
+      "deliverable_qty": 7155357,
+      "delivery_pct": 41.73
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 13:52:48",
+      "an_dt": "18-May-2026 13:52:48",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Vishal Mega Mart Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VMMP2024_18052026134923_Signed_Stock_Exchange_Intimation_Exercise_ESOPs_May_18_2026.pdf"
+    },
     {
       "sort_date": "2026-05-15 15:17:19",
       "an_dt": "15-May-2026 15:17:19",
@@ -628,13 +635,6 @@
       "desc": "General Updates",
       "sm_name": "Vishal Mega Mart Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VMMP2024_19022026174231_Regulation_30_Disclosure_Feb_19_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 15:47:18",
-      "an_dt": "16-Feb-2026 15:47:18",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Vishal Mega Mart Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VMMP2024_16022026154347_Intimation_to_Stock_Exchanges_Investor_Meet_Feb_2026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 1059.8,
   "market_cap_cr": 18224.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 847.15,
-      "prev_close": 900.0,
-      "volume": 6818588,
-      "deliverable_qty": 3909649,
-      "delivery_pct": 57.34
-    },
     {
       "date": "2026-02-17",
       "close": 888.25,
@@ -458,9 +450,24 @@
       "volume": 507971,
       "deliverable_qty": 251807,
       "delivery_pct": 49.57
+    },
+    {
+      "date": "2026-05-18",
+      "close": 924.6,
+      "prev_close": 940.0,
+      "volume": 450361,
+      "deliverable_qty": 201324,
+      "delivery_pct": 44.7
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 19:20:15",
+      "an_dt": "18-May-2026 19:20:15",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Fractal Analytics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FRACTAL_18052026191927_Meet.pdf"
+    },
     {
       "sort_date": "2026-05-14 17:14:28",
       "an_dt": "14-May-2026 17:14:28",
@@ -712,34 +719,6 @@
       "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
       "sm_name": "Fractal Analytics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FRACTAL_18022026152043_BSENSE_Pendinglitigation.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 16:45:31",
-      "an_dt": "16-Feb-2026 16:45:31",
-      "desc": "Trading Window",
-      "sm_name": "Fractal Analytics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FRACTAL_16022026164353_NSEBSE4.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 16:37:02",
-      "an_dt": "16-Feb-2026 16:37:02",
-      "desc": "Updates",
-      "sm_name": "Fractal Analytics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FRACTAL_16022026163427_NSEBSE3.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 16:23:18",
-      "an_dt": "16-Feb-2026 16:23:18",
-      "desc": "Updates",
-      "sm_name": "Fractal Analytics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FRACTAL_16022026161559_NSEBSE2.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 16:08:50",
-      "an_dt": "16-Feb-2026 16:08:50",
-      "desc": "Updates",
-      "sm_name": "Fractal Analytics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FRACTAL_16022026160535_NSEBSE1.pdf"
     }
   ]
 }

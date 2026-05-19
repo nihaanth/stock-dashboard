@@ -8,17 +8,9 @@
   "price": 1126.0,
   "market_cap_cr": 13820.11,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 901.3,
-      "prev_close": 919.8,
-      "volume": 99703,
-      "deliverable_qty": 62388,
-      "delivery_pct": 62.57
-    },
     {
       "date": "2026-02-17",
       "close": 903.45,
@@ -458,6 +450,14 @@
       "volume": 218077,
       "deliverable_qty": 135475,
       "delivery_pct": 62.12
+    },
+    {
+      "date": "2026-05-18",
+      "close": 1055.3,
+      "prev_close": 1044.6,
+      "volume": 102303,
+      "deliverable_qty": 61446,
+      "delivery_pct": 60.06
     }
   ],
   "news": [
@@ -544,13 +544,6 @@
       "desc": "Updates",
       "sm_name": "Alivus Life Sciences Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLS_25022026195057_BSE_NSE_Regulation30_25022026_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 11:43:41",
-      "an_dt": "16-Feb-2026 11:43:41",
-      "desc": "General Updates",
-      "sm_name": "Alivus Life Sciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLS_16022026114211_BSE_NSE_Regulation30_16022026_Signed.pdf"
     }
   ]
 }

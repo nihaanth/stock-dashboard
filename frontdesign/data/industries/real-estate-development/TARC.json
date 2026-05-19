@@ -8,17 +8,9 @@
   "price": 134.2,
   "market_cap_cr": 3960.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 154.28,
-      "prev_close": 152.38,
-      "volume": 684637,
-      "deliverable_qty": 199906,
-      "delivery_pct": 29.2
-    },
     {
       "date": "2026-02-17",
       "close": 154.35,
@@ -458,9 +450,24 @@
       "volume": 249288,
       "deliverable_qty": 128065,
       "delivery_pct": 51.37
+    },
+    {
+      "date": "2026-05-18",
+      "close": 128.79,
+      "prev_close": 130.35,
+      "volume": 440523,
+      "deliverable_qty": 213224,
+      "delivery_pct": 48.4
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 16:13:06",
+      "an_dt": "18-May-2026 16:13:06",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "TARC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20042026130335_39.pdf"
+    },
     {
       "sort_date": "2026-05-12 18:45:55",
       "an_dt": "12-May-2026 18:45:55",

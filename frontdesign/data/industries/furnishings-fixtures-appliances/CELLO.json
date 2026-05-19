@@ -8,17 +8,9 @@
   "price": 412.75,
   "market_cap_cr": 9117.03,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 477.25,
-      "prev_close": 507.7,
-      "volume": 348069,
-      "deliverable_qty": 137353,
-      "delivery_pct": 39.46
-    },
     {
       "date": "2026-02-17",
       "close": 467.0,
@@ -458,6 +450,14 @@
       "volume": 90547,
       "deliverable_qty": 45498,
       "delivery_pct": 50.25
+    },
+    {
+      "date": "2026-05-18",
+      "close": 387.15,
+      "prev_close": 397.0,
+      "volume": 262136,
+      "deliverable_qty": 169591,
+      "delivery_pct": 64.7
     }
   ],
   "news": [
@@ -488,20 +488,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Cello World Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CELLO2023_20022026184641_Transcriptintimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 18:45:46",
-      "an_dt": "16-Feb-2026 18:45:46",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Cello World Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CELLO2023_16022026184536_OutcomeofinvestormeetCWL.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 14:54:21",
-      "an_dt": "16-Feb-2026 14:54:21",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Cello World Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CELLO2023_16022026145413_NewspaperintimationCWL.pdf"
     }
   ]
 }

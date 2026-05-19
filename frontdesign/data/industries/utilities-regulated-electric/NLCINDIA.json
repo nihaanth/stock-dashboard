@@ -8,17 +8,9 @@
   "price": 329.7,
   "market_cap_cr": 45717.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 256.85,
-      "prev_close": 259.3,
-      "volume": 1522312,
-      "deliverable_qty": 760291,
-      "delivery_pct": 49.94
-    },
     {
       "date": "2026-02-17",
       "close": 261.75,
@@ -458,6 +450,14 @@
       "volume": 11521132,
       "deliverable_qty": 2754272,
       "delivery_pct": 23.91
+    },
+    {
+      "date": "2026-05-18",
+      "close": 348.15,
+      "prev_close": 352.8,
+      "volume": 7356479,
+      "deliverable_qty": 2781523,
+      "delivery_pct": 37.81
     }
   ],
   "news": [
@@ -691,20 +691,6 @@
       "desc": "General Updates",
       "sm_name": "NLC India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLCINDIA_20022026172250_SE_intimation_of_CP_42__20_02_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 18:58:01",
-      "an_dt": "16-Feb-2026 18:58:01",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "NLC India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLCINDIA_16022026185558_Transcripts10022026Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 17:38:16",
-      "an_dt": "16-Feb-2026 17:38:16",
-      "desc": "Updates",
-      "sm_name": "NLC India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLCINDIA_16022026173229_Intimation_to_Stock_Exchanges-Fines.pdf"
     }
   ]
 }

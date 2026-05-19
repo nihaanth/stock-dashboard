@@ -8,17 +8,9 @@
   "price": 96.63,
   "market_cap_cr": 985.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 121.1,
-      "prev_close": 120.46,
-      "volume": 257888,
-      "deliverable_qty": 75314,
-      "delivery_pct": 29.2
-    },
     {
       "date": "2026-02-17",
       "close": 119.67,
@@ -458,9 +450,38 @@
       "volume": 53625,
       "deliverable_qty": 29961,
       "delivery_pct": 55.87
+    },
+    {
+      "date": "2026-05-18",
+      "close": 95.96,
+      "prev_close": 99.54,
+      "volume": 111905,
+      "deliverable_qty": 57378,
+      "delivery_pct": 51.27
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 16:33:46",
+      "an_dt": "18-May-2026 16:33:46",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Western Carriers (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WCIL_18052026163319_WCIL_Concall_Audio_Link_Intimation_Q4.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 11:43:48",
+      "an_dt": "18-May-2026 11:43:48",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Western Carriers (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WCIL_18052026114329_NEWSPAPER_WCIL_UPLOAD.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 10:06:19",
+      "an_dt": "18-May-2026 10:06:19",
+      "desc": "Investor Presentation",
+      "sm_name": "Western Carriers (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WCIL_18052026100601_WCIL_IP_MAR_2026_.pdf"
+    },
     {
       "sort_date": "2026-05-16 22:31:31",
       "an_dt": "16-May-2026 22:31:31",
@@ -579,13 +600,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Western Carriers (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WCIL_20022026195259_WCIL_Earnings_Call_Transcript_Dec_2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 18:51:47",
-      "an_dt": "16-Feb-2026 18:51:47",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Western Carriers (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WCIL_16022026185132_WCIL_Concall_Audio_Link_Intimation__Q3_FY26__final__1_.pdf"
     }
   ]
 }

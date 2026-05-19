@@ -8,17 +8,9 @@
   "price": 163.1,
   "market_cap_cr": 7146.77,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 187.79,
-      "prev_close": 196.8,
-      "volume": 2340921,
-      "deliverable_qty": 1112504,
-      "delivery_pct": 47.52
-    },
     {
       "date": "2026-02-17",
       "close": 189.07,
@@ -458,6 +450,14 @@
       "volume": 795415,
       "deliverable_qty": 347712,
       "delivery_pct": 43.71
+    },
+    {
+      "date": "2026-05-18",
+      "close": 161.32,
+      "prev_close": 165.62,
+      "volume": 441672,
+      "deliverable_qty": 194145,
+      "delivery_pct": 43.96
     }
   ],
   "news": [
@@ -754,13 +754,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Le Travenues Technology Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IXIGO_19022026225413_Announcement_Reg_30_Outcome_of_Analysts_Investors_Meetings_19022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 20:12:59",
-      "an_dt": "16-Feb-2026 20:12:59",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Le Travenues Technology Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IXIGO_16022026201247_Announcement_Reg_30_Schedule_of_Analyst_Investor_Meeting_19022026.pdf"
     }
   ]
 }

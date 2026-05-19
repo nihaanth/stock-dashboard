@@ -8,17 +8,9 @@
   "price": 149.86,
   "market_cap_cr": 1907.28,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 110.29,
-      "prev_close": 108.79,
-      "volume": 124112,
-      "deliverable_qty": 75707,
-      "delivery_pct": 61.0
-    },
     {
       "date": "2026-02-17",
       "close": 114.54,
@@ -458,9 +450,38 @@
       "volume": 168911,
       "deliverable_qty": 106094,
       "delivery_pct": 62.81
+    },
+    {
+      "date": "2026-05-18",
+      "close": 144.81,
+      "prev_close": 147.81,
+      "volume": 369963,
+      "deliverable_qty": 232364,
+      "delivery_pct": 62.81
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 18:04:17",
+      "an_dt": "18-May-2026 18:04:17",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Sportking India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPORTKING_18052026180053_Outcome_of_Board_Meeting.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 12:08:54",
+      "an_dt": "18-May-2026 12:08:54",
+      "desc": "Press Release",
+      "sm_name": "Sportking India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPORTKING_18052026120835_Letter_to_Stock_Exchange.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 11:30:47",
+      "an_dt": "18-May-2026 11:30:47",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Sportking India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPORTKING_18052026113030_Letter_to_Stock_Exchnage.pdf"
+    },
     {
       "sort_date": "2026-05-16 21:25:45",
       "an_dt": "16-May-2026 21:25:45",
@@ -544,13 +565,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Sportking India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPORTKING_21022026102216_Letter_to_stock_exchnage.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 17:23:08",
-      "an_dt": "16-Feb-2026 17:23:08",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Sportking India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPORTKING_16022026172246_Transcripts_of_Earning_Call.pdf"
     }
   ]
 }

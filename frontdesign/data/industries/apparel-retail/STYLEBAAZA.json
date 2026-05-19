@@ -8,17 +8,9 @@
   "price": 415.85,
   "market_cap_cr": 3102.96,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 350.1,
-      "prev_close": 353.65,
-      "volume": 516178,
-      "deliverable_qty": 203140,
-      "delivery_pct": 39.35
-    },
     {
       "date": "2026-02-17",
       "close": 345.2,
@@ -458,9 +450,45 @@
       "volume": 901146,
       "deliverable_qty": 493728,
       "delivery_pct": 54.79
+    },
+    {
+      "date": "2026-05-18",
+      "close": 370.05,
+      "prev_close": 389.6,
+      "volume": 887627,
+      "deliverable_qty": 403448,
+      "delivery_pct": 45.45
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 20:30:13",
+      "an_dt": "18-May-2026 20:30:13",
+      "desc": "Press Release",
+      "sm_name": "Baazar Style Retail Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BSRL2024_18052026202947_Combined_Press_Release_180526.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 20:10:05",
+      "an_dt": "18-May-2026 20:10:05",
+      "desc": "Investor Presentation",
+      "sm_name": "Baazar Style Retail Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BSRL2024_18052026200954_Combined_Investors_PresentationsQ418052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 19:52:38",
+      "an_dt": "18-May-2026 19:52:38",
+      "desc": "Allotment of Securities",
+      "sm_name": "Baazar Style Retail Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BSRL2024_18052026195226_SignedOutcomeofBoardmeeting.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 19:31:23",
+      "an_dt": "18-May-2026 19:31:23",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Baazar Style Retail Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BSRL2024_18052026191546_SignedOutcomeofBoardmeeting.pdf"
+    },
     {
       "sort_date": "2026-05-15 12:23:58",
       "an_dt": "15-May-2026 12:23:58",
@@ -656,13 +684,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Baazar Style Retail Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BSRL2024_17022026175943_Transcriptmergedsign.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 19:48:34",
-      "an_dt": "16-Feb-2026 19:48:34",
-      "desc": "General Updates",
-      "sm_name": "Baazar Style Retail Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BSRL2024_16022026194823_AnnexureIReg30.pdf"
     }
   ]
 }

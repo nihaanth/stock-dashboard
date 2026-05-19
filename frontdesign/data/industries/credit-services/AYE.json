@@ -8,17 +8,9 @@
   "price": 143.64,
   "market_cap_cr": 3511.98,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 128.91,
-      "prev_close": 129.0,
-      "volume": 9822584,
-      "deliverable_qty": 4282670,
-      "delivery_pct": 43.6
-    },
     {
       "date": "2026-02-17",
       "close": 134.93,
@@ -458,6 +450,14 @@
       "volume": 1161569,
       "deliverable_qty": 323638,
       "delivery_pct": 27.86
+    },
+    {
+      "date": "2026-05-18",
+      "close": 128.11,
+      "prev_close": 125.27,
+      "volume": 859875,
+      "deliverable_qty": 249254,
+      "delivery_pct": 28.99
     }
   ],
   "news": [
@@ -691,41 +691,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Aye Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYEFINANCE_27022026175830_AYE_EarningCalls.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 16:09:22",
-      "an_dt": "16-Feb-2026 16:09:22",
-      "desc": "Updates",
-      "sm_name": "Aye Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYEFINANCE_16022026160530_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 16:02:33",
-      "an_dt": "16-Feb-2026 16:02:33",
-      "desc": "Updates",
-      "sm_name": "Aye Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYEFINANCE_16022026160201_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 15:59:34",
-      "an_dt": "16-Feb-2026 15:59:34",
-      "desc": "Updates",
-      "sm_name": "Aye Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYEFINANCE_16022026155814_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 15:55:29",
-      "an_dt": "16-Feb-2026 15:55:29",
-      "desc": "Updates",
-      "sm_name": "Aye Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYEFINANCE_16022026155125_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 15:42:06",
-      "an_dt": "16-Feb-2026 15:42:06",
-      "desc": "Trading Window",
-      "sm_name": "Aye Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYEFINANCE_16022026154152_Intimation.pdf"
     }
   ]
 }

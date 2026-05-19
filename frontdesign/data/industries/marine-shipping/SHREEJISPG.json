@@ -8,17 +8,9 @@
   "price": 422.05,
   "market_cap_cr": 6875.97,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 409.75,
-      "prev_close": 400.5,
-      "volume": 1000044,
-      "deliverable_qty": 340409,
-      "delivery_pct": 34.04
-    },
     {
       "date": "2026-02-17",
       "close": 417.05,
@@ -458,9 +450,31 @@
       "volume": 2409843,
       "deliverable_qty": 880557,
       "delivery_pct": 36.54
+    },
+    {
+      "date": "2026-05-18",
+      "close": 431.15,
+      "prev_close": 431.4,
+      "volume": 767847,
+      "deliverable_qty": 202122,
+      "delivery_pct": 26.32
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 14:48:38",
+      "an_dt": "18-May-2026 14:48:38",
+      "desc": "Shareholders meeting",
+      "sm_name": "Shreeji Shipping Global Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHREEJI_18052026144828_Postal_Ballot_Notice.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 12:00:48",
+      "an_dt": "18-May-2026 12:00:48",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Shreeji Shipping Global Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHREEJI_18052026120020_BM_Outcome.pdf"
+    },
     {
       "sort_date": "2026-05-14 15:21:43",
       "an_dt": "14-May-2026 15:21:43",
@@ -537,13 +551,6 @@
       "desc": "Trading Window",
       "sm_name": "Shreeji Shipping Global Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHREEJI_17022026001635_TRADING_WINDOW_CLOSURE.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 23:49:43",
-      "an_dt": "16-Feb-2026 23:49:43",
-      "desc": "General Updates",
-      "sm_name": "Shreeji Shipping Global Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHREEJI_16022026234913_REG_30.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 818.0,
   "market_cap_cr": 3242.7,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 786.3,
-      "prev_close": 785.9,
-      "volume": 15476,
-      "deliverable_qty": 7198,
-      "delivery_pct": 46.51
-    },
     {
       "date": "2026-02-17",
       "close": 799.25,
@@ -458,9 +450,24 @@
       "volume": 43190,
       "deliverable_qty": 17836,
       "delivery_pct": 41.3
+    },
+    {
+      "date": "2026-05-18",
+      "close": 756.6,
+      "prev_close": 786.75,
+      "volume": 66525,
+      "deliverable_qty": 34793,
+      "delivery_pct": 52.3
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 18:12:07",
+      "an_dt": "18-May-2026 18:12:07",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "PSP Projects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PSPPROJECT_18052026181125_20260518_Investor_Meet_Intimation_11.pdf"
+    },
     {
       "sort_date": "2026-05-06 16:53:15",
       "an_dt": "06-May-2026 16:53:15",

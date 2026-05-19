@@ -8,17 +8,9 @@
   "price": 407.4,
   "market_cap_cr": 8990.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 428.65,
-      "prev_close": 439.3,
-      "volume": 35915,
-      "deliverable_qty": 20081,
-      "delivery_pct": 55.91
-    },
     {
       "date": "2026-02-17",
       "close": 435.55,
@@ -458,6 +450,14 @@
       "volume": 38347,
       "deliverable_qty": 22589,
       "delivery_pct": 58.91
+    },
+    {
+      "date": "2026-05-18",
+      "close": 387.3,
+      "prev_close": 391.7,
+      "volume": 66679,
+      "deliverable_qty": 37926,
+      "delivery_pct": 56.88
     }
   ],
   "news": [
@@ -502,13 +502,6 @@
       "desc": "Trading Window",
       "sm_name": "TSF INVESTMENTS LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNDARMHLD_24032026164326_sdTWC31032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 12:53:31",
-      "an_dt": "16-Feb-2026 12:53:31",
-      "desc": "Cessation",
-      "sm_name": "TSF INVESTMENTS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNDARMHLD_16022026125321_TSFINVCessationofID.pdf"
     }
   ]
 }

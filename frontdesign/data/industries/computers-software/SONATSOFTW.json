@@ -8,17 +8,9 @@
   "price": 298.95,
   "market_cap_cr": 8274.77,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 273.5,
-      "prev_close": 279.1,
-      "volume": 773560,
-      "deliverable_qty": 271645,
-      "delivery_pct": 35.12
-    },
     {
       "date": "2026-02-17",
       "close": 283.95,
@@ -458,9 +450,24 @@
       "volume": 625974,
       "deliverable_qty": 153109,
       "delivery_pct": 24.46
+    },
+    {
+      "date": "2026-05-18",
+      "close": 259.95,
+      "prev_close": 265.75,
+      "volume": 813097,
+      "deliverable_qty": 305071,
+      "delivery_pct": 37.52
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 16:37:28",
+      "an_dt": "18-May-2026 16:37:28",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Sonata Software Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_18052026163712_transcriptofearningscall.pdf"
+    },
     {
       "sort_date": "2026-05-15 11:05:03",
       "an_dt": "15-May-2026 11:05:03",
@@ -642,13 +649,6 @@
       "desc": "Updates",
       "sm_name": "Sonata Software Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_18022026231733_analystcall18022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 20:31:35",
-      "an_dt": "16-Feb-2026 20:31:35",
-      "desc": "Updates",
-      "sm_name": "Sonata Software Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_16022026202636_analystcall16022026.pdf"
     }
   ]
 }

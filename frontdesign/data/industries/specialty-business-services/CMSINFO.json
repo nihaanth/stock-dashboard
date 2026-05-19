@@ -8,17 +8,9 @@
   "price": 293.5,
   "market_cap_cr": 4832.11,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 315.75,
-      "prev_close": 322.4,
-      "volume": 816117,
-      "deliverable_qty": 578096,
-      "delivery_pct": 70.83
-    },
     {
       "date": "2026-02-17",
       "close": 319.65,
@@ -458,9 +450,24 @@
       "volume": 1140162,
       "deliverable_qty": 619851,
       "delivery_pct": 54.37
+    },
+    {
+      "date": "2026-05-18",
+      "close": 301.4,
+      "prev_close": 302.95,
+      "volume": 359884,
+      "deliverable_qty": 178012,
+      "delivery_pct": 49.46
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 15:54:47",
+      "an_dt": "18-May-2026 15:54:47",
+      "desc": "Public Announcement - Buyback of Shares",
+      "sm_name": "CMS Info Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CMSINFO_18052026155318_Binder2.pdf"
+    },
     {
       "sort_date": "2026-05-16 14:06:54",
       "an_dt": "16-May-2026 14:06:54",

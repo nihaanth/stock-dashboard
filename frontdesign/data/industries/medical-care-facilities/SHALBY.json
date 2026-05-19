@@ -8,17 +8,9 @@
   "price": 165.46,
   "market_cap_cr": 1775.37,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 154.78,
-      "prev_close": 156.77,
-      "volume": 192615,
-      "deliverable_qty": 83366,
-      "delivery_pct": 43.28
-    },
     {
       "date": "2026-02-17",
       "close": 159.54,
@@ -458,9 +450,24 @@
       "volume": 45435,
       "deliverable_qty": 30230,
       "delivery_pct": 66.53
+    },
+    {
+      "date": "2026-05-18",
+      "close": 159.32,
+      "prev_close": 158.12,
+      "volume": 79761,
+      "deliverable_qty": 49194,
+      "delivery_pct": 61.68
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 15:13:31",
+      "an_dt": "18-May-2026 15:13:31",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shalby Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHALBYLTD_18052026151242_13scheduleEarningscall.pdf"
+    },
     {
       "sort_date": "2026-05-14 18:03:40",
       "an_dt": "14-May-2026 18:03:40",

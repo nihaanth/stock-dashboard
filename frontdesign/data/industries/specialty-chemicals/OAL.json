@@ -8,17 +8,9 @@
   "price": 304.6,
   "market_cap_cr": 1025.09,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 284.75,
-      "prev_close": 298.1,
-      "volume": 12482,
-      "deliverable_qty": 6708,
-      "delivery_pct": 53.74
-    },
     {
       "date": "2026-02-17",
       "close": 286.85,
@@ -458,9 +450,24 @@
       "volume": 3608,
       "deliverable_qty": 2143,
       "delivery_pct": 59.4
+    },
+    {
+      "date": "2026-05-18",
+      "close": 296.95,
+      "prev_close": 304.35,
+      "volume": 6908,
+      "deliverable_qty": 5531,
+      "delivery_pct": 80.07
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 17:41:59",
+      "an_dt": "18-May-2026 17:41:59",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Oriental Aromatics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OAL_18052026174111_Intimation.pdf"
+    },
     {
       "sort_date": "2026-04-20 17:25:47",
       "an_dt": "20-Apr-2026 17:25:47",
@@ -509,13 +516,6 @@
       "desc": "Credit Rating- Others",
       "sm_name": "Oriental Aromatics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/OAL_23022026162944_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 17:44:54",
-      "an_dt": "16-Feb-2026 17:44:54",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Oriental Aromatics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OAL_16022026174319_Intimation.pdf"
     }
   ]
 }

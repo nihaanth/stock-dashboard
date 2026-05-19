@@ -8,17 +8,9 @@
   "price": 408.75,
   "market_cap_cr": 33026.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 460.7,
-      "prev_close": 464.15,
-      "volume": 1446943,
-      "deliverable_qty": 392851,
-      "delivery_pct": 27.15
-    },
     {
       "date": "2026-02-17",
       "close": 475.95,
@@ -458,6 +450,14 @@
       "volume": 1266334,
       "deliverable_qty": 500473,
       "delivery_pct": 39.52
+    },
+    {
+      "date": "2026-05-18",
+      "close": 415.15,
+      "prev_close": 413.35,
+      "volume": 804490,
+      "deliverable_qty": 339756,
+      "delivery_pct": 42.23
     }
   ],
   "news": [
@@ -775,13 +775,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Poonawalla Fincorp Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/POONAWALLA_18022026133521_202526PFLIntimationAllotmentofESOP18Feb2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 13:18:20",
-      "an_dt": "16-Feb-2026 13:18:20",
-      "desc": "Issue of Securities",
-      "sm_name": "Poonawalla Fincorp Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POONAWALLA_16022026131752_IntimationIssuanceofNCDs16022026.pdf"
     }
   ]
 }

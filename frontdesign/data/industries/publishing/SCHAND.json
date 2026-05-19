@@ -8,17 +8,9 @@
   "price": 168.08,
   "market_cap_cr": 592.85,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 163.57,
-      "prev_close": 160.47,
-      "volume": 22079,
-      "deliverable_qty": 14291,
-      "delivery_pct": 64.73
-    },
     {
       "date": "2026-02-17",
       "close": 161.91,
@@ -458,6 +450,14 @@
       "volume": 24635,
       "deliverable_qty": 14271,
       "delivery_pct": 57.93
+    },
+    {
+      "date": "2026-05-18",
+      "close": 167.72,
+      "prev_close": 168.93,
+      "volume": 33500,
+      "deliverable_qty": 23501,
+      "delivery_pct": 70.15
     }
   ],
   "news": [
@@ -481,13 +481,6 @@
       "desc": "Trading Window",
       "sm_name": "S Chand And Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SCHAND_26032026171108_Closureoftradingwindow26032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 17:23:19",
-      "an_dt": "16-Feb-2026 17:23:19",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "S Chand And Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SCHAND_16022026172253_Transcriptofconferencecall16022026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 1878.4,
   "market_cap_cr": 1974.75,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 1698.6,
-      "prev_close": 1662.5,
-      "volume": 166752,
-      "deliverable_qty": 95528,
-      "delivery_pct": 57.29
-    },
     {
       "date": "2026-02-17",
       "close": 1664.0,
@@ -458,6 +450,14 @@
       "volume": 36424,
       "deliverable_qty": 16573,
       "delivery_pct": 45.5
+    },
+    {
+      "date": "2026-05-18",
+      "close": 1719.8,
+      "prev_close": 1787.2,
+      "volume": 43175,
+      "deliverable_qty": 21357,
+      "delivery_pct": 49.47
     }
   ],
   "news": [
@@ -544,13 +544,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Arman Financial Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARMANFIN_20022026150534_Earnings_Call_Transcript_Covering_Letter.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 19:12:00",
-      "an_dt": "16-Feb-2026 19:12:00",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Arman Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARMANFIN_16022026191152_Audio_Recording_Covering_Letter.pdf"
     }
   ]
 }

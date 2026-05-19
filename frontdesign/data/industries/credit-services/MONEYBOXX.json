@@ -8,17 +8,9 @@
   "price": 71.97,
   "market_cap_cr": 502.42,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 61.31,
-      "prev_close": 60.35,
-      "volume": 40365,
-      "deliverable_qty": 23672,
-      "delivery_pct": 58.64
-    },
     {
       "date": "2026-02-17",
       "close": 61.07,
@@ -458,6 +450,14 @@
       "volume": 8755,
       "deliverable_qty": 7243,
       "delivery_pct": 82.73
+    },
+    {
+      "date": "2026-05-18",
+      "close": 73.12,
+      "prev_close": 70.42,
+      "volume": 114231,
+      "deliverable_qty": 91690,
+      "delivery_pct": 80.27
     }
   ],
   "news": [
@@ -586,13 +586,6 @@
       "desc": "General Updates",
       "sm_name": "Moneyboxx Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONEYBOXX_18022026134843_EGM_Notice_announcement.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 15:30:10",
-      "an_dt": "16-Feb-2026 15:30:10",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Moneyboxx Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONEYBOXX_16022026152608_Transcript_Final.pdf"
     }
   ]
 }

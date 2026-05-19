@@ -8,17 +8,9 @@
   "price": 1767.3,
   "market_cap_cr": 407178.68,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 1540.1,
-      "prev_close": 1519.0,
-      "volume": 1644108,
-      "deliverable_qty": 781154,
-      "delivery_pct": 47.51
-    },
     {
       "date": "2026-02-17",
       "close": 1566.3,
@@ -458,9 +450,24 @@
       "volume": 5622212,
       "deliverable_qty": 2185623,
       "delivery_pct": 38.87
+    },
+    {
+      "date": "2026-05-18",
+      "close": 1787.7,
+      "prev_close": 1795.1,
+      "volume": 2562978,
+      "deliverable_qty": 1208810,
+      "delivery_pct": 47.16
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 15:26:15",
+      "an_dt": "18-May-2026 15:26:15",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Adani Ports and Special Economic Zone Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/rkbhagia_18052026152545_SEINTIMATION.pdf"
+    },
     {
       "sort_date": "2026-05-15 20:34:13",
       "an_dt": "15-May-2026 20:34:13",
@@ -719,20 +726,6 @@
       "desc": "Updates",
       "sm_name": "Adani Ports and Special Economic Zone Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/rkbhagia_18022026102258_SEIntimation18022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 21:44:18",
-      "an_dt": "16-Feb-2026 21:44:18",
-      "desc": "Updates",
-      "sm_name": "Adani Ports and Special Economic Zone Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/rkbhagia_16022026214405_Incorporationintimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 21:40:14",
-      "an_dt": "16-Feb-2026 21:40:14",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Adani Ports and Special Economic Zone Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/rkbhagia_16022026214003_Investormeetintimation.pdf"
     }
   ]
 }

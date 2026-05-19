@@ -8,17 +8,9 @@
   "price": 500.15,
   "market_cap_cr": 1147.77,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 429.05,
-      "prev_close": 392.0,
-      "volume": 2262179,
-      "deliverable_qty": 301864,
-      "delivery_pct": 13.34
-    },
     {
       "date": "2026-02-17",
       "close": 418.7,
@@ -458,6 +450,14 @@
       "volume": 49839,
       "deliverable_qty": 21891,
       "delivery_pct": 43.92
+    },
+    {
+      "date": "2026-05-18",
+      "close": 487.15,
+      "prev_close": 480.4,
+      "volume": 108162,
+      "deliverable_qty": 49811,
+      "delivery_pct": 46.05
     }
   ],
   "news": [
@@ -537,13 +537,6 @@
       "desc": "General Updates",
       "sm_name": "SRM Contractors Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SRMCONTRACT_17022026121200_recording_intimation_final.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 10:01:14",
-      "an_dt": "16-Feb-2026 10:01:14",
-      "desc": "Investor Presentation",
-      "sm_name": "SRM Contractors Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SRMCONTRACT_16022026100059_PPt_final_intimation__1_.pdf"
     }
   ]
 }

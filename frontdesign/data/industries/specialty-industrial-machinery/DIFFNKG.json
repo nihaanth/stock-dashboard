@@ -8,17 +8,9 @@
   "price": 320.85,
   "market_cap_cr": 1191.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 273.66,
-      "prev_close": 271.06,
-      "volume": 101568,
-      "deliverable_qty": 51883,
-      "delivery_pct": 51.08
-    },
     {
       "date": "2026-02-17",
       "close": 280.15,
@@ -458,9 +450,31 @@
       "volume": 116783,
       "deliverable_qty": 57365,
       "delivery_pct": 49.12
+    },
+    {
+      "date": "2026-05-18",
+      "close": 314.65,
+      "prev_close": 305.55,
+      "volume": 282232,
+      "deliverable_qty": 113143,
+      "delivery_pct": 40.09
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 16:36:08",
+      "an_dt": "18-May-2026 16:36:08",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Diffusion Engineers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIFFUSION_18052026163516_Audiolink18052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 13:29:28",
+      "an_dt": "18-May-2026 13:29:28",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Diffusion Engineers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIFFUSION_18052026132858_Newspaperpublication18052026.pdf"
+    },
     {
       "sort_date": "2026-05-17 16:18:42",
       "an_dt": "17-May-2026 16:18:42",

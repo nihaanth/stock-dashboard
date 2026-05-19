@@ -8,17 +8,9 @@
   "price": 1412.2,
   "market_cap_cr": 37339.29,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 1612.1,
-      "prev_close": 1628.8,
-      "volume": 54794,
-      "deliverable_qty": 26975,
-      "delivery_pct": 49.23
-    },
     {
       "date": "2026-02-17",
       "close": 1598.8,
@@ -458,9 +450,24 @@
       "volume": 219090,
       "deliverable_qty": 107393,
       "delivery_pct": 49.02
+    },
+    {
+      "date": "2026-05-18",
+      "close": 1354.5,
+      "prev_close": 1367.8,
+      "volume": 215653,
+      "deliverable_qty": 127270,
+      "delivery_pct": 59.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 11:53:10",
+      "an_dt": "18-May-2026 11:53:10",
+      "desc": "Updates",
+      "sm_name": "United Breweries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UBLSJR_18052026115222_DisclosurePunjabBrewery18052026.pdf"
+    },
     {
       "sort_date": "2026-05-12 17:36:37",
       "an_dt": "12-May-2026 17:36:37",
@@ -656,13 +663,6 @@
       "desc": "Updates",
       "sm_name": "United Breweries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/UBLSJR_20022026110306_FinalUBLDisclosurePressRelease20022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 19:36:46",
-      "an_dt": "16-Feb-2026 19:36:46",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "United Breweries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UBLSJR_16022026193608_UBLIntimationTranscriptFY2026.pdf"
     }
   ]
 }

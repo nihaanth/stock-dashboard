@@ -8,17 +8,9 @@
   "price": 484.15,
   "market_cap_cr": 6554.33,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 566.95,
-      "prev_close": 562.0,
-      "volume": 33230,
-      "deliverable_qty": 18073,
-      "delivery_pct": 54.39
-    },
     {
       "date": "2026-02-17",
       "close": 557.85,
@@ -458,9 +450,24 @@
       "volume": 38798,
       "deliverable_qty": 15616,
       "delivery_pct": 40.25
+    },
+    {
+      "date": "2026-05-18",
+      "close": 483.85,
+      "prev_close": 496.25,
+      "volume": 41591,
+      "deliverable_qty": 18185,
+      "delivery_pct": 43.72
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 16:09:34",
+      "an_dt": "18-May-2026 16:09:34",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "WeWork India Management Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WEWORK_18052026160610_WeWork_-_Q4_Earnings_Call.pdf"
+    },
     {
       "sort_date": "2026-05-04 10:56:25",
       "an_dt": "04-May-2026 10:56:25",
@@ -635,13 +642,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "WeWork India Management Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WEWORK_19022026142641_WeWork_-_Kotak_Chasing_Growth_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 11:52:41",
-      "an_dt": "16-Feb-2026 11:52:41",
-      "desc": "Press Release",
-      "sm_name": "WeWork India Management Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WEWORK_16022026115222_WeWork_-_Media_Release_WeWork_Atrium.pdf"
     }
   ]
 }

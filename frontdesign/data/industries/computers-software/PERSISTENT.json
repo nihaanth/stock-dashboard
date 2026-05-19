@@ -8,17 +8,9 @@
   "price": 5377.4,
   "market_cap_cr": 84084.21,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 5582.0,
-      "prev_close": 5479.0,
-      "volume": 501990,
-      "deliverable_qty": 235926,
-      "delivery_pct": 47.0
-    },
     {
       "date": "2026-02-17",
       "close": 5628.0,
@@ -458,9 +450,24 @@
       "volume": 766506,
       "deliverable_qty": 310620,
       "delivery_pct": 40.52
+    },
+    {
+      "date": "2026-05-18",
+      "close": 4944.1,
+      "prev_close": 4702.1,
+      "volume": 572955,
+      "deliverable_qty": 157217,
+      "delivery_pct": 27.44
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 12:30:52",
+      "an_dt": "18-May-2026 12:30:52",
+      "desc": "Press Release",
+      "sm_name": "Persistent Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_18052026122655_PSLPressReleaseMay182026signed.pdf"
+    },
     {
       "sort_date": "2026-05-15 15:44:33",
       "an_dt": "15-May-2026 15:44:33",
@@ -957,13 +964,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Persistent Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_18022026114824_PSLUpdateonIntimationofInvestorAnalystsessionWednesdayFebruary182026Sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 18:50:12",
-      "an_dt": "16-Feb-2026 18:50:12",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Persistent Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_16022026185001_PSLIntimationofInvestorAnalystsessionMondayFebruary162026Sd.pdf"
     }
   ]
 }

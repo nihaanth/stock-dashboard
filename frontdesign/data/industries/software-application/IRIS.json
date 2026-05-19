@@ -8,17 +8,9 @@
   "price": 244.19,
   "market_cap_cr": 502.26,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 261.6,
-      "prev_close": 235.65,
-      "volume": 83786,
-      "deliverable_qty": 40743,
-      "delivery_pct": 48.63
-    },
     {
       "date": "2026-02-17",
       "close": 271.15,
@@ -458,9 +450,31 @@
       "volume": 47547,
       "deliverable_qty": 34405,
       "delivery_pct": 72.36
+    },
+    {
+      "date": "2026-05-18",
+      "close": 226.49,
+      "prev_close": 235.04,
+      "volume": 25628,
+      "deliverable_qty": 14276,
+      "delivery_pct": 55.7
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 18:33:58",
+      "an_dt": "18-May-2026 18:33:58",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "IRIS RegTech Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRIS_18052026183339_IRIS_Recording_EarningsCall_18052026_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 13:36:47",
+      "an_dt": "18-May-2026 13:36:47",
+      "desc": "Investor Presentation",
+      "sm_name": "IRIS RegTech Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRIS_18052026133621_IRIS_Submission_PPT_EarningsCall_18May26_signed.pdf"
+    },
     {
       "sort_date": "2026-05-17 12:46:51",
       "an_dt": "17-May-2026 12:46:51",

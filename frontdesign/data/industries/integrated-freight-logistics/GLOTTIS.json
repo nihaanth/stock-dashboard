@@ -8,17 +8,9 @@
   "price": 59.89,
   "market_cap_cr": 553.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 48.99,
-      "prev_close": 52.37,
-      "volume": 426827,
-      "deliverable_qty": 301664,
-      "delivery_pct": 70.68
-    },
     {
       "date": "2026-02-17",
       "close": 49.4,
@@ -458,6 +450,14 @@
       "volume": 88538,
       "deliverable_qty": 40608,
       "delivery_pct": 45.87
+    },
+    {
+      "date": "2026-05-18",
+      "close": 60.48,
+      "prev_close": 57.94,
+      "volume": 245426,
+      "deliverable_qty": 147176,
+      "delivery_pct": 59.97
     }
   ],
   "news": [
@@ -551,27 +551,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Glottis Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLOTTISLTD_19022026200109_Intimation_on_Earning_call_recordings.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 17:28:14",
-      "an_dt": "16-Feb-2026 17:28:14",
-      "desc": "Investor Presentation",
-      "sm_name": "Glottis Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLOTTISLTD_16022026172802_Intimation_-_Investor_Presentation-Glottis_Limited.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 17:26:21",
-      "an_dt": "16-Feb-2026 17:26:21",
-      "desc": "Press Release",
-      "sm_name": "Glottis Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLOTTISLTD_16022026172535_Intimation_-_Press_Release.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 16:58:01",
-      "an_dt": "16-Feb-2026 16:58:01",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Glottis Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLOTTISLTD_16022026165533_Intimation_Earnings_Call.pdf"
     }
   ]
 }

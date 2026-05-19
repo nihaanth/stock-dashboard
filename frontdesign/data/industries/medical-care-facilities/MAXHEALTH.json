@@ -8,17 +8,9 @@
   "price": 1037.95,
   "market_cap_cr": 101017.83,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 1075.85,
-      "prev_close": 1053.6,
-      "volume": 2524162,
-      "deliverable_qty": 1594317,
-      "delivery_pct": 63.16
-    },
     {
       "date": "2026-02-17",
       "close": 1076.15,
@@ -458,9 +450,24 @@
       "volume": 1471140,
       "deliverable_qty": 855187,
       "delivery_pct": 58.13
+    },
+    {
+      "date": "2026-05-18",
+      "close": 1058.55,
+      "prev_close": 1050.1,
+      "volume": 1558086,
+      "deliverable_qty": 855850,
+      "delivery_pct": 54.93
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 20:19:49",
+      "an_dt": "18-May-2026 20:19:49",
+      "desc": "General Updates",
+      "sm_name": "Max Healthcare Institute Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAXHEALTH_18052026201905_SE_Intimation_Acquisition_of_shares_KHL.pdf"
+    },
     {
       "sort_date": "2026-05-15 12:08:45",
       "an_dt": "15-May-2026 12:08:45",

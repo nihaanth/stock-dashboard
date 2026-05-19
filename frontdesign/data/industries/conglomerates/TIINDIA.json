@@ -8,17 +8,9 @@
   "price": 2992.2,
   "market_cap_cr": 57914.88,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 2504.4,
-      "prev_close": 2498.6,
-      "volume": 138570,
-      "deliverable_qty": 65835,
-      "delivery_pct": 47.51
-    },
     {
       "date": "2026-02-17",
       "close": 2462.7,
@@ -458,9 +450,24 @@
       "volume": 566267,
       "deliverable_qty": 295551,
       "delivery_pct": 52.19
+    },
+    {
+      "date": "2026-05-18",
+      "close": 2815.0,
+      "prev_close": 2850.3,
+      "volume": 327362,
+      "deliverable_qty": 165020,
+      "delivery_pct": 50.41
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 11:28:35",
+      "an_dt": "18-May-2026 11:28:35",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Tube Investments of India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIINDIA_18052026112824_TIINSEBSEDisclosureTranscriptEarningsCall.pdf"
+    },
     {
       "sort_date": "2026-05-14 15:24:39",
       "an_dt": "14-May-2026 15:24:39",
@@ -635,13 +642,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Tube Investments of India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIINDIA_17022026175738_TIINDIAPostalBallotNPAdvt.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 13:21:39",
-      "an_dt": "16-Feb-2026 13:21:39",
-      "desc": "Shareholders meeting",
-      "sm_name": "Tube Investments of India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIINDIA_16022026132129_TIIPostalBallotSEIntimation.pdf"
     }
   ]
 }

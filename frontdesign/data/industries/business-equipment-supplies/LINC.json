@@ -8,17 +8,9 @@
   "price": 98.62,
   "market_cap_cr": 586.84,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 110.36,
-      "prev_close": 108.27,
-      "volume": 24555,
-      "deliverable_qty": 16477,
-      "delivery_pct": 67.1
-    },
     {
       "date": "2026-02-17",
       "close": 110.47,
@@ -458,6 +450,14 @@
       "volume": 41215,
       "deliverable_qty": 21673,
       "delivery_pct": 52.59
+    },
+    {
+      "date": "2026-05-18",
+      "close": 94.61,
+      "prev_close": 96.68,
+      "volume": 20565,
+      "deliverable_qty": 10556,
+      "delivery_pct": 51.33
     }
   ],
   "news": [
@@ -509,13 +509,6 @@
       "desc": "Trading Window",
       "sm_name": "Linc Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIPANKARDE_25032026142939_TWC_Q4_2526_S.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 14:51:46",
-      "an_dt": "16-Feb-2026 14:51:46",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Linc Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIPANKARDE_16022026144947_Transcript_Q3_2526_S.pdf"
     }
   ]
 }

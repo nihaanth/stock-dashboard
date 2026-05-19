@@ -8,17 +8,9 @@
   "price": 1420.0,
   "market_cap_cr": 19970.97,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 1581.1,
-      "prev_close": 1560.5,
-      "volume": 67309,
-      "deliverable_qty": 33425,
-      "delivery_pct": 49.66
-    },
     {
       "date": "2026-02-17",
       "close": 1561.2,
@@ -458,9 +450,24 @@
       "volume": 178777,
       "deliverable_qty": 77884,
       "delivery_pct": 43.56
+    },
+    {
+      "date": "2026-05-18",
+      "close": 1456.2,
+      "prev_close": 1477.1,
+      "volume": 320343,
+      "deliverable_qty": 181527,
+      "delivery_pct": 56.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 20:09:18",
+      "an_dt": "18-May-2026 20:09:18",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Affle 3i Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFFLE_18052026200901_Earning_call_transcript_Q4_18052026.pdf"
+    },
     {
       "sort_date": "2026-05-15 16:29:52",
       "an_dt": "15-May-2026 16:29:52",

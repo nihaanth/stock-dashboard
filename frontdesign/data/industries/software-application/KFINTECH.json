@@ -8,17 +8,9 @@
   "price": 900.55,
   "market_cap_cr": 15536.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 1000.9,
-      "prev_close": 968.1,
-      "volume": 2252528,
-      "deliverable_qty": 448105,
-      "delivery_pct": 19.89
-    },
     {
       "date": "2026-02-17",
       "close": 1020.6,
@@ -458,6 +450,14 @@
       "volume": 2022597,
       "deliverable_qty": 1326970,
       "delivery_pct": 65.61
+    },
+    {
+      "date": "2026-05-18",
+      "close": 813.3,
+      "prev_close": 808.2,
+      "volume": 1676085,
+      "deliverable_qty": 711721,
+      "delivery_pct": 42.46
     }
   ],
   "news": [
@@ -677,27 +677,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Kfin Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KFINTECHNSE_18022026155807_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 20:18:01",
-      "an_dt": "16-Feb-2026 20:18:01",
-      "desc": "Appointment",
-      "sm_name": "Kfin Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KFINTECHNSE_16022026201644_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 15:50:22",
-      "an_dt": "16-Feb-2026 15:50:22",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Kfin Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KFINTECHNSE_16022026155000_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 09:58:03",
-      "an_dt": "16-Feb-2026 09:58:03",
-      "desc": "Resignation",
-      "sm_name": "Kfin Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KFINTECHNSE_16022026095754_Intimation.pdf"
     }
   ]
 }

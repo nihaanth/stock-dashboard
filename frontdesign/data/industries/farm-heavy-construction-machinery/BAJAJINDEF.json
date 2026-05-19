@@ -8,17 +8,9 @@
   "price": 308.35,
   "market_cap_cr": 986.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 264.0,
-      "prev_close": 267.8,
-      "volume": 16231,
-      "deliverable_qty": 11066,
-      "delivery_pct": 68.18
-    },
     {
       "date": "2026-02-17",
       "close": 267.0,
@@ -458,9 +450,24 @@
       "volume": 9585,
       "deliverable_qty": 6548,
       "delivery_pct": 68.32
+    },
+    {
+      "date": "2026-05-18",
+      "close": 275.6,
+      "prev_close": 281.0,
+      "volume": 13255,
+      "deliverable_qty": 6657,
+      "delivery_pct": 50.22
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 15:37:34",
+      "an_dt": "18-May-2026 15:37:34",
+      "desc": "Shareholders meeting",
+      "sm_name": "Indef Manufacturing Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BAJAJINDEF_18052026153415_VotingresultsMay15Signed.pdf"
+    },
     {
       "sort_date": "2026-04-29 12:17:00",
       "an_dt": "29-Apr-2026 12:17:00",

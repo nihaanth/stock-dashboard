@@ -8,17 +8,9 @@
   "price": 3472.9,
   "market_cap_cr": 13566.09,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 2809.2,
-      "prev_close": 2738.0,
-      "volume": 177406,
-      "deliverable_qty": 109362,
-      "delivery_pct": 61.65
-    },
     {
       "date": "2026-02-17",
       "close": 2833.0,
@@ -458,9 +450,38 @@
       "volume": 73969,
       "deliverable_qty": 42535,
       "delivery_pct": 57.5
+    },
+    {
+      "date": "2026-05-18",
+      "close": 3095.6,
+      "prev_close": 3091.8,
+      "volume": 73232,
+      "deliverable_qty": 40005,
+      "delivery_pct": 54.63
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 16:01:47",
+      "an_dt": "18-May-2026 16:01:47",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Privi Speciality Chemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20042026123440_Rao.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 15:41:32",
+      "an_dt": "18-May-2026 15:41:32",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Privi Speciality Chemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20042026121801_Mahesh.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 11:08:01",
+      "an_dt": "18-May-2026 11:08:01",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Privi Speciality Chemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FAIRCHEMDP_18052026110730_StockExchangeIntimationInvestorConference.pdf"
+    },
     {
       "sort_date": "2026-05-15 13:02:05",
       "an_dt": "15-May-2026 13:02:05",
@@ -593,13 +614,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Privi Speciality Chemicals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FAIRCHEMDP_17022026163439_LettertoBSEandNSECancellationofCall.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 17:51:02",
-      "an_dt": "16-Feb-2026 17:51:02",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Privi Speciality Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FAIRCHEMDP_16022026175028_LettertoBSENSEtranscript.pdf"
     }
   ]
 }

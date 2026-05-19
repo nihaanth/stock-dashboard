@@ -8,17 +8,9 @@
   "price": 115.1,
   "market_cap_cr": 578.26,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 123.33,
-      "prev_close": 124.09,
-      "volume": 179479,
-      "deliverable_qty": 82982,
-      "delivery_pct": 46.23
-    },
     {
       "date": "2026-02-17",
       "close": 126.21,
@@ -458,9 +450,38 @@
       "volume": 46329,
       "deliverable_qty": 5379,
       "delivery_pct": 11.61
+    },
+    {
+      "date": "2026-05-18",
+      "close": 105.69,
+      "prev_close": 112.16,
+      "volume": 129413,
+      "deliverable_qty": 49795,
+      "delivery_pct": 38.48
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 14:35:47",
+      "an_dt": "18-May-2026 14:35:47",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Manba Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANBA_18052026143456_BM_Outcome_F.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 14:32:51",
+      "an_dt": "18-May-2026 14:32:51",
+      "desc": "Dividend",
+      "sm_name": "Manba Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANBA_18052026143127_BM_Outcome_F.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 14:28:45",
+      "an_dt": "18-May-2026 14:28:45",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Manba Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANBA_18052026142409_BM_Outcome_F.pdf"
+    },
     {
       "sort_date": "2026-04-30 18:32:28",
       "an_dt": "30-Apr-2026 18:32:28",

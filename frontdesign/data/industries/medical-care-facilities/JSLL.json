@@ -8,17 +8,9 @@
   "price": 661.15,
   "market_cap_cr": 8218.14,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 688.7,
-      "prev_close": 698.35,
-      "volume": 194203,
-      "deliverable_qty": 104305,
-      "delivery_pct": 53.71
-    },
     {
       "date": "2026-02-17",
       "close": 705.75,
@@ -458,6 +450,14 @@
       "volume": 611371,
       "deliverable_qty": 276289,
       "delivery_pct": 45.19
+    },
+    {
+      "date": "2026-05-18",
+      "close": 631.4,
+      "prev_close": 639.1,
+      "volume": 284230,
+      "deliverable_qty": 118000,
+      "delivery_pct": 41.52
     }
   ],
   "news": [
@@ -565,13 +565,6 @@
       "desc": "General Updates",
       "sm_name": "Jeena Sikho Lifecare Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JEENASIKHO_19022026131859_Intimation_accrediation_Dehradun_hospital_19_02_2026__Sign.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 18:44:59",
-      "an_dt": "16-Feb-2026 18:44:59",
-      "desc": "General Updates",
-      "sm_name": "Jeena Sikho Lifecare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JEENASIKHO_16022026184450_Intimation_16_02_2026_Proposal_for_new_hospital_Ahmedabad_Sign.pdf"
     }
   ]
 }

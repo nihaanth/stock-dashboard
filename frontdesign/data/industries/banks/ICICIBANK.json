@@ -8,17 +8,9 @@
   "price": 1351.1,
   "market_cap_cr": 967549.49,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 1411.6,
-      "prev_close": 1414.6,
-      "volume": 5000042,
-      "deliverable_qty": 2763183,
-      "delivery_pct": 55.26
-    },
     {
       "date": "2026-02-17",
       "close": 1407.5,
@@ -458,9 +450,24 @@
       "volume": 11745614,
       "deliverable_qty": 7703623,
       "delivery_pct": 65.59
+    },
+    {
+      "date": "2026-05-18",
+      "close": 1251.1,
+      "prev_close": 1244.5,
+      "volume": 13918850,
+      "deliverable_qty": 9092626,
+      "delivery_pct": 65.33
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 07:51:27",
+      "an_dt": "18-May-2026 07:51:27",
+      "desc": "General Updates",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_18052026075002_NSEBSE18052026.pdf"
+    },
     {
       "sort_date": "2026-05-15 10:30:37",
       "an_dt": "15-May-2026 10:30:37",
@@ -831,13 +838,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "ICICI Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_17022026113032_Lettertoexchange.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 14:55:52",
-      "an_dt": "16-Feb-2026 14:55:52",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "ICICI Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_16022026145449_Stock_Exchange_disclosure_on_special_window.pdf"
     }
   ]
 }

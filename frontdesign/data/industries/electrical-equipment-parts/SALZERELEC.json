@@ -8,17 +8,9 @@
   "price": 772.05,
   "market_cap_cr": 1365.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 644.45,
-      "prev_close": 662.8,
-      "volume": 58590,
-      "deliverable_qty": 22400,
-      "delivery_pct": 38.23
-    },
     {
       "date": "2026-02-17",
       "close": 673.55,
@@ -458,6 +450,14 @@
       "volume": 152709,
       "deliverable_qty": 48887,
       "delivery_pct": 32.01
+    },
+    {
+      "date": "2026-05-18",
+      "close": 683.95,
+      "prev_close": 711.05,
+      "volume": 73875,
+      "deliverable_qty": 33561,
+      "delivery_pct": 45.43
     }
   ],
   "news": [
@@ -537,13 +537,6 @@
       "desc": "Press Release",
       "sm_name": "Salzer Electronics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SALZERELEC_04032026134433_Salzer_Wirepas_Certified_Press_Release.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 22:50:58",
-      "an_dt": "16-Feb-2026 22:50:58",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Salzer Electronics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SALZERELEC_16022026225016_Disclosure_Under_30_Transcript.pdf"
     }
   ]
 }

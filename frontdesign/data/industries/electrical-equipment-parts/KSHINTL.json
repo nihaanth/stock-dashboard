@@ -8,17 +8,9 @@
   "price": 638.1,
   "market_cap_cr": 4323.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 353.95,
-      "prev_close": 360.95,
-      "volume": 95041,
-      "deliverable_qty": 51405,
-      "delivery_pct": 54.09
-    },
     {
       "date": "2026-02-17",
       "close": 374.0,
@@ -458,9 +450,31 @@
       "volume": 179576,
       "deliverable_qty": 66913,
       "delivery_pct": 37.26
+    },
+    {
+      "date": "2026-05-18",
+      "close": 636.5,
+      "prev_close": 635.25,
+      "volume": 204469,
+      "deliverable_qty": 63037,
+      "delivery_pct": 30.83
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 20:36:39",
+      "an_dt": "18-May-2026 20:36:39",
+      "desc": "Updates",
+      "sm_name": "KSH International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_18052026203558_KSHILIntimationofCommissionofSolarPowerPlant18052026signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 20:18:38",
+      "an_dt": "18-May-2026 20:18:38",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "KSH International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_18052026201806_KSHIntimationofInvestorMeetmultiple18052026signed.pdf"
+    },
     {
       "sort_date": "2026-05-14 22:12:40",
       "an_dt": "14-May-2026 22:12:40",

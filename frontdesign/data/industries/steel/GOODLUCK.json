@@ -8,17 +8,9 @@
   "price": 1389.8,
   "market_cap_cr": 4619.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 1132.7,
-      "prev_close": 1085.2,
-      "volume": 172838,
-      "deliverable_qty": 89756,
-      "delivery_pct": 51.93
-    },
     {
       "date": "2026-02-17",
       "close": 1217.1,
@@ -458,6 +450,14 @@
       "volume": 122208,
       "deliverable_qty": 47718,
       "delivery_pct": 39.05
+    },
+    {
+      "date": "2026-05-18",
+      "close": 1341.9,
+      "prev_close": 1329.0,
+      "volume": 201027,
+      "deliverable_qty": 79171,
+      "delivery_pct": 39.38
     }
   ],
   "news": [
@@ -516,13 +516,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Goodluck India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOODLUCK_20022026130818_Earningcalltranscript.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 16:06:34",
-      "an_dt": "16-Feb-2026 16:06:34",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Goodluck India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOODLUCK_16022026160556_ConcallAudiorecordingintimation.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 84.03,
   "market_cap_cr": 1531.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 90.16,
-      "prev_close": 89.12,
-      "volume": 127348,
-      "deliverable_qty": 60545,
-      "delivery_pct": 47.54
-    },
     {
       "date": "2026-02-17",
       "close": 89.96,
@@ -458,9 +450,31 @@
       "volume": 280404,
       "deliverable_qty": 175389,
       "delivery_pct": 62.55
+    },
+    {
+      "date": "2026-05-18",
+      "close": 109.36,
+      "prev_close": 100.57,
+      "volume": 7384664,
+      "deliverable_qty": 1293516,
+      "delivery_pct": 17.52
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 19:58:07",
+      "an_dt": "18-May-2026 19:58:07",
+      "desc": "Spurt in Volume",
+      "sm_name": "Sanstar Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANSTAR_18052026195649_NSE_Reply_18052026_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 17:55:02",
+      "an_dt": "18-May-2026 17:55:02",
+      "desc": "Spurt in Volume",
+      "sm_name": "Sanstar Limited",
+      "attchmntFile": "-"
+    },
     {
       "sort_date": "2026-05-14 17:23:55",
       "an_dt": "14-May-2026 17:23:55",

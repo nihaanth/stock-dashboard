@@ -8,17 +8,9 @@
   "price": 361.15,
   "market_cap_cr": 8266.36,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 356.7,
-      "prev_close": 364.1,
-      "volume": 691392,
-      "deliverable_qty": 358962,
-      "delivery_pct": 51.92
-    },
     {
       "date": "2026-02-17",
       "close": 371.25,
@@ -458,9 +450,31 @@
       "volume": 949805,
       "deliverable_qty": 339510,
       "delivery_pct": 35.75
+    },
+    {
+      "date": "2026-05-18",
+      "close": 328.65,
+      "prev_close": 338.85,
+      "volume": 1043048,
+      "deliverable_qty": 517058,
+      "delivery_pct": 49.57
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 15:13:23",
+      "an_dt": "18-May-2026 15:13:23",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "KRBL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIBHU_18052026150834_REG30_Concall_Audio_Recording_18-05-2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 14:31:26",
+      "an_dt": "18-May-2026 14:31:26",
+      "desc": "Updates",
+      "sm_name": "KRBL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIBHU_18052026142925_REG30_Media-Interaction_NDTV_18-05-2026.pdf"
+    },
     {
       "sort_date": "2026-05-15 16:09:39",
       "an_dt": "15-May-2026 16:09:39",
@@ -642,20 +656,6 @@
       "desc": "General Updates",
       "sm_name": "KRBL Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIBHU_17022026114248_Stx_ET_17022026_Sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 17:08:43",
-      "an_dt": "16-Feb-2026 17:08:43",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "KRBL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIBHU_16022026170512_STX_EarningsCallRescheduled_19022026_Sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 12:47:27",
-      "an_dt": "16-Feb-2026 12:47:27",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "KRBL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIBHU_16022026124654_STX_NP_16022026_Sd.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 172.22,
   "market_cap_cr": 1241.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 173.6,
-      "prev_close": 189.25,
-      "volume": 46359,
-      "deliverable_qty": 25316,
-      "delivery_pct": 54.61
-    },
     {
       "date": "2026-02-17",
       "close": 183.14,
@@ -458,6 +450,14 @@
       "volume": 17659,
       "deliverable_qty": 11279,
       "delivery_pct": 63.87
+    },
+    {
+      "date": "2026-05-18",
+      "close": 157.85,
+      "prev_close": 165.77,
+      "volume": 71273,
+      "deliverable_qty": 39931,
+      "delivery_pct": 56.03
     }
   ],
   "news": [
@@ -607,20 +607,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "IFGL Refractories Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IFGLEXPOR_17022026182718_Disclosure_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 18:11:12",
-      "an_dt": "16-Feb-2026 18:11:12",
-      "desc": "Investor Presentation",
-      "sm_name": "IFGL Refractories Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IFGLEXPOR_16022026180915_InvestorPresentation_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 15:11:14",
-      "an_dt": "16-Feb-2026 15:11:14",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "IFGL Refractories Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IFGLEXPOR_16022026151100_NewspaperAdvertisement_signed.pdf"
     }
   ]
 }

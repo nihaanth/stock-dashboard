@@ -8,17 +8,9 @@
   "price": 88.65,
   "market_cap_cr": 23935.5,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 99.81,
-      "prev_close": 98.08,
-      "volume": 13225540,
-      "deliverable_qty": 2765764,
-      "delivery_pct": 20.91
-    },
     {
       "date": "2026-02-17",
       "close": 98.51,
@@ -458,6 +450,14 @@
       "volume": 7648496,
       "deliverable_qty": 2763198,
       "delivery_pct": 36.13
+    },
+    {
+      "date": "2026-05-18",
+      "close": 91.66,
+      "prev_close": 93.82,
+      "volume": 9136004,
+      "deliverable_qty": 2440807,
+      "delivery_pct": 26.72
     }
   ],
   "news": [
@@ -635,20 +635,6 @@
       "desc": "Updates",
       "sm_name": "NBCC (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NBCC_17022026114914_work_order.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 15:45:49",
-      "an_dt": "16-Feb-2026 15:45:49",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "NBCC (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NBCC_16022026154535_Stock_Exchange_Intimation_Audio.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 13:10:54",
-      "an_dt": "16-Feb-2026 13:10:54",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "NBCC (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NBCC_16022026131045_Stock_Exchange_Intimation_newspaper.pdf"
     }
   ]
 }

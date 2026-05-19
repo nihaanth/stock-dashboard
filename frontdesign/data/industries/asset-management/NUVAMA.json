@@ -8,17 +8,9 @@
   "price": 1598.8,
   "market_cap_cr": 29104.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 1287.3,
-      "prev_close": 1299.7,
-      "volume": 837645,
-      "deliverable_qty": 227523,
-      "delivery_pct": 27.16
-    },
     {
       "date": "2026-02-17",
       "close": 1290.8,
@@ -458,9 +450,24 @@
       "volume": 447569,
       "deliverable_qty": 146340,
       "delivery_pct": 32.7
+    },
+    {
+      "date": "2026-05-18",
+      "close": 1439.6,
+      "prev_close": 1458.5,
+      "volume": 588115,
+      "deliverable_qty": 298965,
+      "delivery_pct": 50.83
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 19:24:34",
+      "an_dt": "18-May-2026 19:24:34",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Nuvama Wealth Management Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NWML_18052026192118_SE_Transcipt_Q4FY26.pdf"
+    },
     {
       "sort_date": "2026-05-12 16:20:48",
       "an_dt": "12-May-2026 16:20:48",
@@ -600,13 +607,6 @@
       "desc": "Credit Rating- Revision",
       "sm_name": "Nuvama Wealth Management Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NWML_20022026232743_NWML_-_Credit_Rating.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 20:46:57",
-      "an_dt": "16-Feb-2026 20:46:57",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Nuvama Wealth Management Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NWML_16022026204638_SE_ESOPAllotment1602.pdf"
     }
   ]
 }

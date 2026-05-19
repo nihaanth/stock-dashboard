@@ -8,17 +8,9 @@
   "price": 224.68,
   "market_cap_cr": 7479.38,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 231.28,
-      "prev_close": 244.0,
-      "volume": 6719067,
-      "deliverable_qty": 3255349,
-      "delivery_pct": 48.45
-    },
     {
       "date": "2026-02-17",
       "close": 227.23,
@@ -458,9 +450,24 @@
       "volume": 877545,
       "deliverable_qty": 440666,
       "delivery_pct": 50.22
+    },
+    {
+      "date": "2026-05-18",
+      "close": 218.0,
+      "prev_close": 221.93,
+      "volume": 1935520,
+      "deliverable_qty": 1024897,
+      "delivery_pct": 52.95
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 22:10:37",
+      "an_dt": "18-May-2026 22:10:37",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Religare Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RELIGARE_18052026220140_RELUPDATE18052026.pdf"
+    },
     {
       "sort_date": "2026-05-13 22:30:32",
       "an_dt": "13-May-2026 22:30:32",
@@ -705,13 +712,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Religare Enterprises Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RELIGARE_20022026230606_RELUPDATE20022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 20:21:52",
-      "an_dt": "16-Feb-2026 20:21:52",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Religare Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RELIGARE_16022026201851_RELUPDATE16022026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 166.71,
   "market_cap_cr": 10466.83,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 150.05,
-      "prev_close": 151.93,
-      "volume": 1479828,
-      "deliverable_qty": 623575,
-      "delivery_pct": 42.14
-    },
     {
       "date": "2026-02-17",
       "close": 152.15,
@@ -458,6 +450,14 @@
       "volume": 2512122,
       "deliverable_qty": 1227484,
       "delivery_pct": 48.86
+    },
+    {
+      "date": "2026-05-18",
+      "close": 152.7,
+      "prev_close": 160.68,
+      "volume": 3232164,
+      "deliverable_qty": 1446924,
+      "delivery_pct": 44.77
     }
   ],
   "news": [
@@ -621,13 +621,6 @@
       "desc": "Action(s) taken or orders passed",
       "sm_name": "NCC Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NCC_18022026164954_Reg_30_18Feb26.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 13:05:33",
-      "an_dt": "16-Feb-2026 13:05:33",
-      "desc": "Demise",
-      "sm_name": "NCC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NCC_16022026130522_Reg30.pdf"
     }
   ]
 }

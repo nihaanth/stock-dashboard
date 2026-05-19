@@ -8,17 +8,9 @@
   "price": 580.65,
   "market_cap_cr": 3908.66,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 505.7,
-      "prev_close": 515.15,
-      "volume": 53590,
-      "deliverable_qty": 34932,
-      "delivery_pct": 65.18
-    },
     {
       "date": "2026-02-17",
       "close": 517.6,
@@ -458,6 +450,14 @@
       "volume": 60543,
       "deliverable_qty": 37464,
       "delivery_pct": 61.88
+    },
+    {
+      "date": "2026-05-18",
+      "close": 579.2,
+      "prev_close": 573.0,
+      "volume": 92555,
+      "deliverable_qty": 54351,
+      "delivery_pct": 58.72
     }
   ],
   "news": [
@@ -649,13 +649,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Vishnu Chemicals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VISHNU_17022026160031_Investor_Meeting_Intimation_20th_February_2026_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 16:03:24",
-      "an_dt": "16-Feb-2026 16:03:24",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Vishnu Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VISHNU_16022026160124_Investor_Meeting_Intimation_19th_February_2026_signed.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 184.3,
   "market_cap_cr": 1470.6,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 187.55,
-      "prev_close": 186.38,
-      "volume": 250387,
-      "deliverable_qty": 78822,
-      "delivery_pct": 31.48
-    },
     {
       "date": "2026-02-17",
       "close": 188.24,
@@ -458,9 +450,24 @@
       "volume": 236879,
       "deliverable_qty": 90168,
       "delivery_pct": 38.07
+    },
+    {
+      "date": "2026-05-18",
+      "close": 192.12,
+      "prev_close": 198.59,
+      "volume": 274851,
+      "deliverable_qty": 130194,
+      "delivery_pct": 47.37
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 13:35:16",
+      "an_dt": "18-May-2026 13:35:16",
+      "desc": "Shareholders meeting",
+      "sm_name": "SPML Infra Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPMLINFRA_18052026133455_EGM_voting_result_with_scrutinizer_report.pdf"
+    },
     {
       "sort_date": "2026-05-16 16:46:38",
       "an_dt": "16-May-2026 16:46:38",
@@ -649,27 +656,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "SPML Infra Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPMLINFRA_17022026142546_Financial_result_output.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 16:55:16",
-      "an_dt": "16-Feb-2026 16:55:16",
-      "desc": "Investor Presentation",
-      "sm_name": "SPML Infra Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPMLINFRA_16022026165431_Investor_presentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 16:47:56",
-      "an_dt": "16-Feb-2026 16:47:56",
-      "desc": "Updates",
-      "sm_name": "SPML Infra Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPMLINFRA_16022026164609_Updated_LRR.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 16:41:12",
-      "an_dt": "16-Feb-2026 16:41:12",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "SPML Infra Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPMLINFRA_16022026164050_Newspaper_publication_attachment-output.pdf"
     }
   ]
 }

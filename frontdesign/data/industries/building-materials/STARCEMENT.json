@@ -8,17 +8,9 @@
   "price": 228.45,
   "market_cap_cr": 9233.5,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 214.97,
-      "prev_close": 216.47,
-      "volume": 236441,
-      "deliverable_qty": 149613,
-      "delivery_pct": 63.28
-    },
     {
       "date": "2026-02-17",
       "close": 217.4,
@@ -458,6 +450,14 @@
       "volume": 96624,
       "deliverable_qty": 60339,
       "delivery_pct": 62.45
+    },
+    {
+      "date": "2026-05-18",
+      "close": 212.41,
+      "prev_close": 215.12,
+      "volume": 95853,
+      "deliverable_qty": 34146,
+      "delivery_pct": 35.62
     }
   ],
   "news": [
@@ -530,13 +530,6 @@
       "desc": "Commencement of commercial production/operations",
       "sm_name": "Star Cement Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/STARCEMENT_20022026115240_Intimation_to_Stock_Exchnage_-_Commercial_Production.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 16:02:54",
-      "an_dt": "16-Feb-2026 16:02:54",
-      "desc": "General Updates",
-      "sm_name": "Star Cement Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STARCEMENT_16022026160144_Appointment_of_Senior_Mgt_Signed.pdf"
     }
   ]
 }

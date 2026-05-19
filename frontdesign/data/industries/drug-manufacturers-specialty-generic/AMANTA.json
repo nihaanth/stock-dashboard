@@ -8,17 +8,9 @@
   "price": 136.84,
   "market_cap_cr": 531.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 103.11,
-      "prev_close": 105.02,
-      "volume": 21666,
-      "deliverable_qty": 13540,
-      "delivery_pct": 62.49
-    },
     {
       "date": "2026-02-17",
       "close": 108.39,
@@ -458,6 +450,14 @@
       "volume": 107817,
       "deliverable_qty": 51453,
       "delivery_pct": 47.72
+    },
+    {
+      "date": "2026-05-18",
+      "close": 125.82,
+      "prev_close": 129.43,
+      "volume": 101274,
+      "deliverable_qty": 49724,
+      "delivery_pct": 49.1
     }
   ],
   "news": [
@@ -565,20 +565,6 @@
       "desc": "Updates",
       "sm_name": "Amanta Healthcare Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMANTA_27022026165948_Intimation_Under_SEBI_PIT_Regulations.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 16:32:10",
-      "an_dt": "16-Feb-2026 16:32:10",
-      "desc": "Credit Rating",
-      "sm_name": "Amanta Healthcare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMANTA_16022026163142_Intimation_for_credit_rating.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 14:37:40",
-      "an_dt": "16-Feb-2026 14:37:40",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Amanta Healthcare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMANTA_16022026143641_Announcement_under_Regulation_30__LODR_-Earnings_Call_Transcript.pdf"
     }
   ]
 }

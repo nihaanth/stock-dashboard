@@ -8,17 +8,9 @@
   "price": 496.4,
   "market_cap_cr": 3346.76,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 475.6,
-      "prev_close": 482.95,
-      "volume": 27163,
-      "deliverable_qty": 16638,
-      "delivery_pct": 61.25
-    },
     {
       "date": "2026-02-17",
       "close": 480.8,
@@ -458,6 +450,14 @@
       "volume": 83679,
       "deliverable_qty": 57960,
       "delivery_pct": 69.26
+    },
+    {
+      "date": "2026-05-18",
+      "close": 475.2,
+      "prev_close": 482.8,
+      "volume": 23480,
+      "deliverable_qty": 10610,
+      "delivery_pct": 45.19
     }
   ],
   "news": [
@@ -586,20 +586,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Marathon Nextgen Realty Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARATHON_17022026160825_SEAUDIO.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 20:10:13",
-      "an_dt": "16-Feb-2026 20:10:13",
-      "desc": "Investor Presentation",
-      "sm_name": "Marathon Nextgen Realty Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARATHON_16022026200958_INVESTORPRESENTATION.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 18:49:56",
-      "an_dt": "16-Feb-2026 18:49:56",
-      "desc": "Press Release",
-      "sm_name": "Marathon Nextgen Realty Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARATHON_16022026184941_PRESS_RELEASE.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 798.8,
   "market_cap_cr": 1685.97,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 787.45,
-      "prev_close": 804.9,
-      "volume": 18033,
-      "deliverable_qty": 9826,
-      "delivery_pct": 54.49
-    },
     {
       "date": "2026-02-17",
       "close": 787.6,
@@ -458,9 +450,38 @@
       "volume": 95053,
       "deliverable_qty": 66825,
       "delivery_pct": 70.3
+    },
+    {
+      "date": "2026-05-18",
+      "close": 776.2,
+      "prev_close": 779.4,
+      "volume": 36067,
+      "deliverable_qty": 20961,
+      "delivery_pct": 58.12
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 22:48:03",
+      "an_dt": "18-May-2026 22:48:03",
+      "desc": "General Updates",
+      "sm_name": "Windlas Biotech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WINDLAS_18052026224741_Update_WBL.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 18:49:19",
+      "an_dt": "18-May-2026 18:49:19",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Windlas Biotech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WINDLAS_18052026184858_ECI_18052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 18:16:22",
+      "an_dt": "18-May-2026 18:16:22",
+      "desc": "Closure of Buy Back",
+      "sm_name": "Windlas Biotech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WINDLAS_18052026180357_Extt_18052026_up.pdf"
+    },
     {
       "sort_date": "2026-05-16 12:34:23",
       "an_dt": "16-May-2026 12:34:23",
@@ -551,20 +572,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Windlas Biotech Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WINDLAS_17022026125633_NP_ADVT_17022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 17:54:01",
-      "an_dt": "16-Feb-2026 17:54:01",
-      "desc": "Shareholders meeting",
-      "sm_name": "Windlas Biotech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WINDLAS_16022026175334_SH_NOTICE_UP2.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 17:20:59",
-      "an_dt": "16-Feb-2026 17:20:59",
-      "desc": "Shareholders meeting",
-      "sm_name": "Windlas Biotech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WINDLAS_16022026171222_NOTICE_SH_MEETING_UP.pdf"
     }
   ]
 }

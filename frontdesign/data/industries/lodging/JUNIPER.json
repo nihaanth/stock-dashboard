@@ -8,17 +8,9 @@
   "price": 208.52,
   "market_cap_cr": 4639.62,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 239.75,
-      "prev_close": 243.53,
-      "volume": 108469,
-      "deliverable_qty": 54921,
-      "delivery_pct": 50.63
-    },
     {
       "date": "2026-02-17",
       "close": 239.79,
@@ -458,9 +450,24 @@
       "volume": 49058,
       "deliverable_qty": 22253,
       "delivery_pct": 45.36
+    },
+    {
+      "date": "2026-05-18",
+      "close": 199.01,
+      "prev_close": 201.98,
+      "volume": 90820,
+      "deliverable_qty": 47833,
+      "delivery_pct": 52.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 11:40:53",
+      "an_dt": "18-May-2026 11:40:53",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Juniper Hotels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9930371292_18052026114037_Intimation_Earning_Call_signed.pdf"
+    },
     {
       "sort_date": "2026-05-15 16:54:08",
       "an_dt": "15-May-2026 16:54:08",
@@ -523,13 +530,6 @@
       "desc": "General Updates",
       "sm_name": "Juniper Hotels Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/9930371292_25022026154414_Reg_30_Disclosure.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 18:45:35",
-      "an_dt": "16-Feb-2026 18:45:35",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Juniper Hotels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9930371292_16022026184526_Transcript-signed.pdf"
     }
   ]
 }

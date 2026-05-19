@@ -8,17 +8,9 @@
   "price": 861.5,
   "market_cap_cr": 16601.28,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 865.2,
-      "prev_close": 872.8,
-      "volume": 735395,
-      "deliverable_qty": 290120,
-      "delivery_pct": 39.45
-    },
     {
       "date": "2026-02-17",
       "close": 863.2,
@@ -458,9 +450,24 @@
       "volume": 944499,
       "deliverable_qty": 312128,
       "delivery_pct": 33.05
+    },
+    {
+      "date": "2026-05-18",
+      "close": 969.95,
+      "prev_close": 1013.25,
+      "volume": 1069302,
+      "deliverable_qty": 470751,
+      "delivery_pct": 44.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 17:58:03",
+      "an_dt": "18-May-2026 17:58:03",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Syrma SGS Technology Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SYRMASGS_18052026175750_EarningsCallTranscript_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-12 21:59:15",
       "an_dt": "12-May-2026 21:59:15",

@@ -8,17 +8,9 @@
   "price": 203.21,
   "market_cap_cr": 2887.63,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 215.42,
-      "prev_close": 221.35,
-      "volume": 385173,
-      "deliverable_qty": 226378,
-      "delivery_pct": 58.77
-    },
     {
       "date": "2026-02-17",
       "close": 211.76,
@@ -458,9 +450,24 @@
       "volume": 1382240,
       "deliverable_qty": 695318,
       "delivery_pct": 50.3
+    },
+    {
+      "date": "2026-05-18",
+      "close": 206.32,
+      "prev_close": 212.3,
+      "volume": 422785,
+      "deliverable_qty": 211570,
+      "delivery_pct": 50.04
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 22:23:13",
+      "an_dt": "18-May-2026 22:23:13",
+      "desc": "Shareholders meeting",
+      "sm_name": "Hubtown Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUBTOWN_18052026222254_Intimation-Notice_of_ESH.pdf"
+    },
     {
       "sort_date": "2026-05-16 11:12:26",
       "an_dt": "16-May-2026 11:12:26",
@@ -600,20 +607,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Hubtown Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUBTOWN_10032026173926_EGMOutcome10032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 13:54:26",
-      "an_dt": "16-Feb-2026 13:54:26",
-      "desc": "Shareholders meeting",
-      "sm_name": "Hubtown Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUBTOWN_16022026135416_IntimationofNoticeStockExchange.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 12:00:05",
-      "an_dt": "16-Feb-2026 12:00:05",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Hubtown Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUBTOWN_16022026115949_FinancialNewspapercuttingSD.pdf"
     }
   ]
 }

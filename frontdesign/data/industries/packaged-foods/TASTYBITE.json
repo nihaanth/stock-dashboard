@@ -8,17 +8,9 @@
   "price": 8015.5,
   "market_cap_cr": 2056.78,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 8167.0,
-      "prev_close": 7672.5,
-      "volume": 27138,
-      "deliverable_qty": 6252,
-      "delivery_pct": 23.04
-    },
     {
       "date": "2026-02-17",
       "close": 7976.5,
@@ -458,6 +450,14 @@
       "volume": 969,
       "deliverable_qty": 516,
       "delivery_pct": 53.25
+    },
+    {
+      "date": "2026-05-18",
+      "close": 7400.0,
+      "prev_close": 7608.0,
+      "volume": 3888,
+      "deliverable_qty": 2299,
+      "delivery_pct": 59.13
     }
   ],
   "news": [
@@ -523,13 +523,6 @@
       "desc": "Appointment",
       "sm_name": "Tasty Bite Eatables Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TASTYBITE_09032026143148_TFS_DIR_APPOINTMENT_INTIMATION_SIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 17:07:34",
-      "an_dt": "16-Feb-2026 17:07:34",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Tasty Bite Eatables Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TASTYBITE_16022026170716_newspaper_intimation_signed.pdf"
     }
   ]
 }

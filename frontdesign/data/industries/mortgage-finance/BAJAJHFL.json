@@ -8,17 +8,9 @@
   "price": 85.03,
   "market_cap_cr": 70818.61,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 88.83,
-      "prev_close": 89.29,
-      "volume": 3130312,
-      "deliverable_qty": 1808852,
-      "delivery_pct": 57.79
-    },
     {
       "date": "2026-02-17",
       "close": 88.74,
@@ -458,9 +450,24 @@
       "volume": 2286650,
       "deliverable_qty": 1206899,
       "delivery_pct": 52.78
+    },
+    {
+      "date": "2026-05-18",
+      "close": 83.79,
+      "prev_close": 83.85,
+      "volume": 4032753,
+      "deliverable_qty": 1956295,
+      "delivery_pct": 48.51
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 12:19:30",
+      "an_dt": "18-May-2026 12:19:30",
+      "desc": "Issue of Securities",
+      "sm_name": "Bajaj Housing Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHFL_18052026121903_SE_intimation_allotment_under_S33T12.pdf"
+    },
     {
       "sort_date": "2026-05-12 12:39:16",
       "an_dt": "12-May-2026 12:39:16",

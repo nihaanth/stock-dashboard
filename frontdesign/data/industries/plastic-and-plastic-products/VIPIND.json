@@ -8,17 +8,9 @@
   "price": 297.05,
   "market_cap_cr": 4219.65,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 380.05,
-      "prev_close": 390.2,
-      "volume": 172515,
-      "deliverable_qty": 74467,
-      "delivery_pct": 43.17
-    },
     {
       "date": "2026-02-17",
       "close": 382.15,
@@ -458,9 +450,31 @@
       "volume": 611627,
       "deliverable_qty": 221136,
       "delivery_pct": 36.16
+    },
+    {
+      "date": "2026-05-18",
+      "close": 292.45,
+      "prev_close": 302.55,
+      "volume": 1563344,
+      "deliverable_qty": 595680,
+      "delivery_pct": 38.1
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 18:34:21",
+      "an_dt": "18-May-2026 18:34:21",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "VIP Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIPIND_ROID_86620_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-05-18 18:10:02",
+      "an_dt": "18-May-2026 18:10:02",
+      "desc": "Change in Management",
+      "sm_name": "VIP Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIPINDUSTRIES_18052026180950_SEUpload.pdf"
+    },
     {
       "sort_date": "2026-05-16 15:53:40",
       "an_dt": "16-May-2026 15:53:40",
@@ -614,13 +628,6 @@
       "desc": "Action(s) initiated or orders passed",
       "sm_name": "VIP Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIPINDUSTRIES_24022026223638_VIPIntimationGSTInvestigation.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 17:10:12",
-      "an_dt": "16-Feb-2026 17:10:12",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "VIP Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIPINDUSTRIES_16022026170944_Coveringletternewspaperpublicationwithclippings.pdf"
     }
   ]
 }

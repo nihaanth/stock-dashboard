@@ -8,17 +8,9 @@
   "price": 2436.2,
   "market_cap_cr": 41270.7,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 2597.3,
-      "prev_close": 2594.4,
-      "volume": 34053,
-      "deliverable_qty": 16432,
-      "delivery_pct": 48.25
-    },
     {
       "date": "2026-02-17",
       "close": 2603.6,
@@ -458,9 +450,24 @@
       "volume": 44704,
       "deliverable_qty": 23211,
       "delivery_pct": 51.92
+    },
+    {
+      "date": "2026-05-18",
+      "close": 2389.8,
+      "prev_close": 2438.8,
+      "volume": 70066,
+      "deliverable_qty": 42320,
+      "delivery_pct": 60.4
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 13:05:35",
+      "an_dt": "18-May-2026 13:05:35",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "GlaxoSmithKline Pharmaceuticals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLAXO1924_18052026130527_AnalystMeetOutcome_-_Transcript.pdf"
+    },
     {
       "sort_date": "2026-05-14 11:47:31",
       "an_dt": "14-May-2026 11:47:31",
@@ -642,13 +649,6 @@
       "desc": "Action(s) initiated or orders passed",
       "sm_name": "GlaxoSmithKline Pharmaceuticals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLAXO1924_23022026104840_Disclosure_Regulation_30_-_23rd_February_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 17:04:58",
-      "an_dt": "16-Feb-2026 17:04:58",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "GlaxoSmithKline Pharmaceuticals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLAXO1924_16022026170448_AnalystMeetOutcomeTranscript.pdf"
     }
   ]
 }

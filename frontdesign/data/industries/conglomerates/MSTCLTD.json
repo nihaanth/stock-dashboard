@@ -8,17 +8,9 @@
   "price": 438.75,
   "market_cap_cr": 3088.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 480.7,
-      "prev_close": 477.4,
-      "volume": 170238,
-      "deliverable_qty": 87160,
-      "delivery_pct": 51.2
-    },
     {
       "date": "2026-02-17",
       "close": 481.6,
@@ -458,6 +450,14 @@
       "volume": 83275,
       "deliverable_qty": 43567,
       "delivery_pct": 52.32
+    },
+    {
+      "date": "2026-05-18",
+      "close": 417.2,
+      "prev_close": 422.25,
+      "volume": 96792,
+      "deliverable_qty": 50321,
+      "delivery_pct": 51.99
     }
   ],
   "news": [
@@ -530,13 +530,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Mstc Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MSTCLTD_17022026155003_SE713.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 16:45:18",
-      "an_dt": "16-Feb-2026 16:45:18",
-      "desc": "General Updates",
-      "sm_name": "Mstc Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MSTCLTD_16022026163828_SE712.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 471.7,
   "market_cap_cr": 8369.0,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 331.15,
-      "prev_close": 328.65,
-      "volume": 633955,
-      "deliverable_qty": 222344,
-      "delivery_pct": 35.07
-    },
     {
       "date": "2026-02-17",
       "close": 334.45,
@@ -458,9 +450,24 @@
       "volume": 1512472,
       "deliverable_qty": 391351,
       "delivery_pct": 25.87
+    },
+    {
+      "date": "2026-05-18",
+      "close": 436.7,
+      "prev_close": 445.75,
+      "volume": 1721253,
+      "deliverable_qty": 480464,
+      "delivery_pct": 27.91
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 18:21:59",
+      "an_dt": "18-May-2026 18:21:59",
+      "desc": "General Updates",
+      "sm_name": "Tejas Networks Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TEJASNET_18052026181936_Letter_to_Shareholders_-_IEPF_4.pdf"
+    },
     {
       "sort_date": "2026-05-15 18:21:24",
       "an_dt": "15-May-2026 18:21:24",

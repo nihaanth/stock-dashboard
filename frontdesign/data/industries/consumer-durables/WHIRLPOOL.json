@@ -8,17 +8,9 @@
   "price": 910.0,
   "market_cap_cr": 11549.75,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 898.2,
-      "prev_close": 898.4,
-      "volume": 201157,
-      "deliverable_qty": 100504,
-      "delivery_pct": 49.96
-    },
     {
       "date": "2026-02-17",
       "close": 934.65,
@@ -458,9 +450,24 @@
       "volume": 181159,
       "deliverable_qty": 51739,
       "delivery_pct": 28.56
+    },
+    {
+      "date": "2026-05-18",
+      "close": 854.95,
+      "prev_close": 855.25,
+      "volume": 176518,
+      "deliverable_qty": 76462,
+      "delivery_pct": 43.32
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 19:57:03",
+      "an_dt": "18-May-2026 19:57:03",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Whirlpool of India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WHIRLPOOL_18052026195638_SE_intimation_Analystcall_signed.pdf"
+    },
     {
       "sort_date": "2026-05-13 21:52:19",
       "an_dt": "13-May-2026 21:52:19",
@@ -565,13 +572,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Whirlpool of India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WHIRLPOOL_24022026185702_Intimation_PostalBallot_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 17:57:18",
-      "an_dt": "16-Feb-2026 17:57:18",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Whirlpool of India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WHIRLPOOL_16022026175618_ConCall_WhirlpoolofIndiaLimited_signed.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 5187.5,
   "market_cap_cr": 12051.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 4287.3,
-      "prev_close": 4224.7,
-      "volume": 63359,
-      "deliverable_qty": 28254,
-      "delivery_pct": 44.59
-    },
     {
       "date": "2026-02-17",
       "close": 4364.0,
@@ -458,6 +450,14 @@
       "volume": 71400,
       "deliverable_qty": 28482,
       "delivery_pct": 39.89
+    },
+    {
+      "date": "2026-05-18",
+      "close": 5382.9,
+      "prev_close": 5403.4,
+      "volume": 65670,
+      "deliverable_qty": 27690,
+      "delivery_pct": 42.17
     }
   ],
   "news": [
@@ -740,13 +740,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Garware Hi-Tech Films Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRWRHITECH_20022026213203_GHFL_Intimation_Notice_of_Postal_ballot.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 16:57:32",
-      "an_dt": "16-Feb-2026 16:57:32",
-      "desc": "Updates",
-      "sm_name": "Garware Hi-Tech Films Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRWRHITECH_16022026165406_GHFL_Intimation_of_Calender_Event.pdf"
     }
   ]
 }

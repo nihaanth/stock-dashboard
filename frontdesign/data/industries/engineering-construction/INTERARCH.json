@@ -8,17 +8,9 @@
   "price": 2103.1,
   "market_cap_cr": 3527.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 1890.4,
-      "prev_close": 1924.3,
-      "volume": 77373,
-      "deliverable_qty": 37633,
-      "delivery_pct": 48.64
-    },
     {
       "date": "2026-02-17",
       "close": 1959.5,
@@ -458,9 +450,24 @@
       "volume": 283081,
       "deliverable_qty": 148871,
       "delivery_pct": 52.59
+    },
+    {
+      "date": "2026-05-18",
+      "close": 1632.0,
+      "prev_close": 1768.0,
+      "volume": 454559,
+      "deliverable_qty": 216042,
+      "delivery_pct": 47.53
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 17:52:58",
+      "an_dt": "18-May-2026 17:52:58",
+      "desc": "General Updates",
+      "sm_name": "Interarch Building Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTERARCH1983_18052026175252_Regulation_30_Market_rumour_clarification.pdf"
+    },
     {
       "sort_date": "2026-05-15 15:35:45",
       "an_dt": "15-May-2026 15:35:45",

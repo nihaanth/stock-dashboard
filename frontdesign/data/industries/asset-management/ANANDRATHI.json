@@ -8,17 +8,9 @@
   "price": 3592.2,
   "market_cap_cr": 29822.67,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 2999.9,
-      "prev_close": 2989.1,
-      "volume": 153501,
-      "deliverable_qty": 84843,
-      "delivery_pct": 55.27
-    },
     {
       "date": "2026-02-17",
       "close": 3002.0,
@@ -458,6 +450,14 @@
       "volume": 136679,
       "deliverable_qty": 78293,
       "delivery_pct": 57.28
+    },
+    {
+      "date": "2026-05-18",
+      "close": 3575.7,
+      "prev_close": 3583.1,
+      "volume": 123536,
+      "deliverable_qty": 65810,
+      "delivery_pct": 53.27
     }
   ],
   "news": [
@@ -649,27 +649,6 @@
       "desc": "Cessation",
       "sm_name": "Anand Rathi Wealth Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANANDRATHI_14032026184057_IntimationIDsd.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 22:17:21",
-      "an_dt": "16-Feb-2026 22:17:21",
-      "desc": "Shareholders meeting",
-      "sm_name": "Anand Rathi Wealth Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANANDRATHI_16022026221644_ProceedingsofpostalballotSd.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 21:53:40",
-      "an_dt": "16-Feb-2026 21:53:40",
-      "desc": "Shareholders meeting",
-      "sm_name": "Anand Rathi Wealth Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANANDRATHI_16022026215322_VotingresultwithscrutinizerreportSD.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 17:46:13",
-      "an_dt": "16-Feb-2026 17:46:13",
-      "desc": "General Updates",
-      "sm_name": "Anand Rathi Wealth Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANANDRATHI_16022026174535_INTIMATIONGIFTcitySD.pdf"
     }
   ]
 }

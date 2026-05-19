@@ -8,17 +8,9 @@
   "price": 987.5,
   "market_cap_cr": 12691.62,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 1070.05,
-      "prev_close": 1069.35,
-      "volume": 42206,
-      "deliverable_qty": 16175,
-      "delivery_pct": 38.32
-    },
     {
       "date": "2026-02-17",
       "close": 1080.85,
@@ -458,9 +450,24 @@
       "volume": 78642,
       "deliverable_qty": 29472,
       "delivery_pct": 37.48
+    },
+    {
+      "date": "2026-05-18",
+      "close": 947.1,
+      "prev_close": 965.05,
+      "volume": 81676,
+      "deliverable_qty": 32029,
+      "delivery_pct": 39.21
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 15:58:53",
+      "an_dt": "18-May-2026 15:58:53",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "UTI Asset Management Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CSUTIAMC_18052026155843_Intimation_Investor_Meet_19052026_Cancellation.pdf"
+    },
     {
       "sort_date": "2026-05-11 14:31:44",
       "an_dt": "11-May-2026 14:31:44",
@@ -607,13 +614,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "UTI Asset Management Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CSUTIAMC_20022026104017_Intimation_Investor_Meet_04032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 17:48:57",
-      "an_dt": "16-Feb-2026 17:48:57",
-      "desc": "Updates",
-      "sm_name": "UTI Asset Management Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CSUTIAMC_16022026174846_Intimation_of_Change_in_Committee_Composition.pdf"
     }
   ]
 }

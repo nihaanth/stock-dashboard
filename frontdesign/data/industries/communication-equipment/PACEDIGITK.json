@@ -8,17 +8,9 @@
   "price": 187.39,
   "market_cap_cr": 4044.84,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 179.73,
-      "prev_close": 180.72,
-      "volume": 1165768,
-      "deliverable_qty": 233468,
-      "delivery_pct": 20.03
-    },
     {
       "date": "2026-02-17",
       "close": 186.02,
@@ -458,9 +450,24 @@
       "volume": 1226405,
       "deliverable_qty": 623790,
       "delivery_pct": 50.86
+    },
+    {
+      "date": "2026-05-18",
+      "close": 176.11,
+      "prev_close": 179.1,
+      "volume": 2311814,
+      "deliverable_qty": 607288,
+      "delivery_pct": 26.27
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 11:46:01",
+      "an_dt": "18-May-2026 11:46:01",
+      "desc": "Press Release",
+      "sm_name": "Pace Digitek Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PACE_18052026114543_Intimation-_Press_Release_NIRL_Sd.pdf"
+    },
     {
       "sort_date": "2026-05-16 19:35:04",
       "an_dt": "16-May-2026 19:35:04",
@@ -642,13 +649,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "Pace Digitek Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PACE_18022026163454_Receipt_of_order-LPPL.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 20:02:46",
-      "an_dt": "16-Feb-2026 20:02:46",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Pace Digitek Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PACE_16022026200225_Intimation-_Transcript_Q3.pdf"
     }
   ]
 }

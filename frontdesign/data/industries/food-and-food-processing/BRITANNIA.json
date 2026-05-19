@@ -8,17 +8,9 @@
   "price": 5589.0,
   "market_cap_cr": 134621.29,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 6106.0,
-      "prev_close": 5980.5,
-      "volume": 255274,
-      "deliverable_qty": 135770,
-      "delivery_pct": 53.19
-    },
     {
       "date": "2026-02-17",
       "close": 6145.5,
@@ -458,9 +450,24 @@
       "volume": 151714,
       "deliverable_qty": 85550,
       "delivery_pct": 56.39
+    },
+    {
+      "date": "2026-05-18",
+      "close": 5380.5,
+      "prev_close": 5406.0,
+      "volume": 374914,
+      "deliverable_qty": 255029,
+      "delivery_pct": 68.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 19:51:34",
+      "an_dt": "18-May-2026 19:51:34",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Britannia Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BRITANNIA1_18052026195032_Intimation_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-15 20:29:22",
       "an_dt": "15-May-2026 20:29:22",
@@ -649,13 +656,6 @@
       "desc": "Action(s) taken or orders passed",
       "sm_name": "Britannia Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BRITANNIA1_03032026005031_Intimation_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 21:37:10",
-      "an_dt": "16-Feb-2026 21:37:10",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Britannia Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BRITANNIA1_16022026213645_Intimation_signed.pdf"
     }
   ]
 }

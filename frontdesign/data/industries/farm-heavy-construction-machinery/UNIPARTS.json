@@ -8,17 +8,9 @@
   "price": 496.5,
   "market_cap_cr": 2241.78,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 492.85,
-      "prev_close": 515.65,
-      "volume": 138789,
-      "deliverable_qty": 75733,
-      "delivery_pct": 54.57
-    },
     {
       "date": "2026-02-17",
       "close": 495.1,
@@ -458,9 +450,24 @@
       "volume": 84658,
       "deliverable_qty": 47437,
       "delivery_pct": 56.03
+    },
+    {
+      "date": "2026-05-18",
+      "close": 532.7,
+      "prev_close": 537.15,
+      "volume": 122994,
+      "deliverable_qty": 71389,
+      "delivery_pct": 58.04
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 18:53:23",
+      "an_dt": "18-May-2026 18:53:23",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Uniparts India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Earth_2018_18052026185315_Q426EarningCallIntimation.pdf"
+    },
     {
       "sort_date": "2026-04-17 21:38:27",
       "an_dt": "17-Apr-2026 21:38:27",

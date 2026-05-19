@@ -8,17 +8,9 @@
   "price": 464.45,
   "market_cap_cr": 286227.93,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 422.5,
-      "prev_close": 408.95,
-      "volume": 9719418,
-      "deliverable_qty": 3913220,
-      "delivery_pct": 40.26
-    },
     {
       "date": "2026-02-17",
       "close": 421.55,
@@ -458,6 +450,14 @@
       "volume": 7859575,
       "deliverable_qty": 1872361,
       "delivery_pct": 23.82
+    },
+    {
+      "date": "2026-05-18",
+      "close": 462.1,
+      "prev_close": 462.2,
+      "volume": 7735499,
+      "deliverable_qty": 2124174,
+      "delivery_pct": 27.46
     }
   ],
   "news": [
@@ -740,20 +740,6 @@
       "desc": "Press Release",
       "sm_name": "Coal India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/COALINDIA_27022026125441_Press_Release.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 12:40:04",
-      "an_dt": "16-Feb-2026 12:40:04",
-      "desc": "Press Release",
-      "sm_name": "Coal India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COALINDIA_16022026123936_Press_Release.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 11:47:01",
-      "an_dt": "16-Feb-2026 11:47:01",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Coal India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COALINDIA_16022026114652_Newspaper_publication_on_Tax.pdf"
     }
   ]
 }

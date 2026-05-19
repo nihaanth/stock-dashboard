@@ -8,17 +8,9 @@
   "price": 134.98,
   "market_cap_cr": 771.08,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 172.72,
-      "prev_close": 168.21,
-      "volume": 1675338,
-      "deliverable_qty": 372766,
-      "delivery_pct": 22.25
-    },
     {
       "date": "2026-02-17",
       "close": 175.49,
@@ -458,6 +450,14 @@
       "volume": 96069,
       "deliverable_qty": 44118,
       "delivery_pct": 45.92
+    },
+    {
+      "date": "2026-05-18",
+      "close": 155.83,
+      "prev_close": 156.24,
+      "volume": 72715,
+      "deliverable_qty": 44797,
+      "delivery_pct": 61.61
     }
   ],
   "news": [
@@ -607,13 +607,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Stanley Lifestyles Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/STANLEY2023_17022026111457_esops.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 20:34:42",
-      "an_dt": "16-Feb-2026 20:34:42",
-      "desc": "Monitoring Agency Report",
-      "sm_name": "Stanley Lifestyles Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STANLEY2023_16022026203157_ICRAdec25.pdf"
     }
   ]
 }

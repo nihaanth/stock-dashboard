@@ -8,17 +8,9 @@
   "price": 171.88,
   "market_cap_cr": 3643.82,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 172.82,
-      "prev_close": 181.06,
-      "volume": 59017,
-      "deliverable_qty": 29622,
-      "delivery_pct": 50.19
-    },
     {
       "date": "2026-02-17",
       "close": 175.06,
@@ -458,6 +450,14 @@
       "volume": 36969,
       "deliverable_qty": 19525,
       "delivery_pct": 52.81
+    },
+    {
+      "date": "2026-05-18",
+      "close": 171.17,
+      "prev_close": 167.63,
+      "volume": 85341,
+      "deliverable_qty": 35295,
+      "delivery_pct": 41.36
     }
   ],
   "news": [
@@ -600,13 +600,6 @@
       "desc": "Cessation",
       "sm_name": "Indiqube Spaces Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIQUBE_25022026212722_Intimation_of_resignation_of_KMP_SMP.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 10:25:43",
-      "an_dt": "16-Feb-2026 10:25:43",
-      "desc": "Updates",
-      "sm_name": "Indiqube Spaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIQUBE_16022026102512_Prior_Intimation_Voluntary_Proposed_acquisition_of_shares.pdf"
     }
   ]
 }

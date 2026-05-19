@@ -8,17 +8,9 @@
   "price": 1196.6,
   "market_cap_cr": 76603.96,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 1123.1,
-      "prev_close": 1126.3,
-      "volume": 2605903,
-      "deliverable_qty": 1468148,
-      "delivery_pct": 56.34
-    },
     {
       "date": "2026-02-17",
       "close": 1169.3,
@@ -458,9 +450,24 @@
       "volume": 1303265,
       "deliverable_qty": 468958,
       "delivery_pct": 35.98
+    },
+    {
+      "date": "2026-05-18",
+      "close": 1105.1,
+      "prev_close": 1131.2,
+      "volume": 1794222,
+      "deliverable_qty": 685279,
+      "delivery_pct": 38.19
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 09:04:23",
+      "an_dt": "18-May-2026 09:04:23",
+      "desc": "Press Release",
+      "sm_name": "One 97 Communications Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PAYTM_18052026090030_SECoveringPressRelease.pdf"
+    },
     {
       "sort_date": "2026-05-12 16:34:07",
       "an_dt": "12-May-2026 16:34:07",

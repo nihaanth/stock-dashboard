@@ -8,17 +8,9 @@
   "price": 505.2,
   "market_cap_cr": 7824.23,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 370.85,
-      "prev_close": 372.75,
-      "volume": 1168453,
-      "deliverable_qty": 378535,
-      "delivery_pct": 32.4
-    },
     {
       "date": "2026-02-17",
       "close": 371.05,
@@ -458,6 +450,14 @@
       "volume": 1875274,
       "deliverable_qty": 543149,
       "delivery_pct": 28.96
+    },
+    {
+      "date": "2026-05-18",
+      "close": 442.45,
+      "prev_close": 446.2,
+      "volume": 868924,
+      "deliverable_qty": 393224,
+      "delivery_pct": 45.25
     }
   ],
   "news": [
@@ -551,13 +551,6 @@
       "desc": "Credit Rating- Revision",
       "sm_name": "SKY GOLD AND DIAMONDS LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SKYGOLD_17022026115531_CreditRatingIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 14:27:39",
-      "an_dt": "16-Feb-2026 14:27:39",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "SKY GOLD AND DIAMONDS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SKYGOLD_16022026142717_TranscriptEarningCall.pdf"
     }
   ]
 }

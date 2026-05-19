@@ -8,17 +8,9 @@
   "price": 1529.0,
   "market_cap_cr": 2083.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 1484.7,
-      "prev_close": 1414.8,
-      "volume": 108277,
-      "deliverable_qty": 33393,
-      "delivery_pct": 30.84
-    },
     {
       "date": "2026-02-17",
       "close": 1491.2,
@@ -458,6 +450,14 @@
       "volume": 9231,
       "deliverable_qty": 4806,
       "delivery_pct": 52.06
+    },
+    {
+      "date": "2026-05-18",
+      "close": 1528.2,
+      "prev_close": 1525.3,
+      "volume": 10314,
+      "deliverable_qty": 6328,
+      "delivery_pct": 61.35
     }
   ],
   "news": [
@@ -537,13 +537,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Pix Transmissions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHYBUV_21022026165635_Newspaper_advt.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 11:19:20",
-      "an_dt": "16-Feb-2026 11:19:20",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Pix Transmissions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHYBUV_16022026111904_Advt.pdf"
     }
   ]
 }

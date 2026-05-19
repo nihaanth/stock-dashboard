@@ -8,17 +8,9 @@
   "price": 137.84,
   "market_cap_cr": 2832.06,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 161.7,
-      "prev_close": 160.54,
-      "volume": 185776,
-      "deliverable_qty": 89384,
-      "delivery_pct": 48.11
-    },
     {
       "date": "2026-02-17",
       "close": 161.29,
@@ -458,9 +450,24 @@
       "volume": 192415,
       "deliverable_qty": 55582,
       "delivery_pct": 28.89
+    },
+    {
+      "date": "2026-05-18",
+      "close": 134.98,
+      "prev_close": 136.45,
+      "volume": 162204,
+      "deliverable_qty": 70548,
+      "delivery_pct": 43.49
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 16:12:34",
+      "an_dt": "18-May-2026 16:12:34",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Orient Cement Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20042026130448_38.pdf"
+    },
     {
       "sort_date": "2026-05-13 16:54:21",
       "an_dt": "13-May-2026 16:54:21",

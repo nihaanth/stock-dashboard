@@ -8,17 +8,9 @@
   "price": 560.35,
   "market_cap_cr": 22749.05,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 597.45,
-      "prev_close": 598.25,
-      "volume": 657508,
-      "deliverable_qty": 224101,
-      "delivery_pct": 34.08
-    },
     {
       "date": "2026-02-17",
       "close": 603.95,
@@ -458,9 +450,24 @@
       "volume": 542706,
       "deliverable_qty": 196536,
       "delivery_pct": 36.21
+    },
+    {
+      "date": "2026-05-18",
+      "close": 629.4,
+      "prev_close": 620.45,
+      "volume": 1139487,
+      "deliverable_qty": 480021,
+      "delivery_pct": 42.13
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 11:10:10",
+      "an_dt": "18-May-2026 11:10:10",
+      "desc": "Press Release",
+      "sm_name": "Tata Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TTLNSE_18052026110956_SE_Intimation_Press_Release_Frost_and_Sullivan_S.pdf"
+    },
     {
       "sort_date": "2026-05-08 18:29:36",
       "an_dt": "08-May-2026 18:29:36",

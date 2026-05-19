@@ -8,17 +8,9 @@
   "price": 10503.5,
   "market_cap_cr": 63767.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 11751.0,
-      "prev_close": 11417.0,
-      "volume": 600256,
-      "deliverable_qty": 139747,
-      "delivery_pct": 23.28
-    },
     {
       "date": "2026-02-17",
       "close": 11637.0,
@@ -458,6 +450,14 @@
       "volume": 647788,
       "deliverable_qty": 127965,
       "delivery_pct": 19.75
+    },
+    {
+      "date": "2026-05-18",
+      "close": 10780.0,
+      "prev_close": 10979.0,
+      "volume": 571332,
+      "deliverable_qty": 152493,
+      "delivery_pct": 26.69
     }
   ],
   "news": [
@@ -726,13 +726,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Dixon Technologies (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIXON_17022026115636_InvestorMeetOutcome17022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 17:35:46",
-      "an_dt": "16-Feb-2026 17:35:46",
-      "desc": "Allotment of Securities",
-      "sm_name": "Dixon Technologies (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIXON_16022026173501_Reg30ESOPAllotment.pdf"
     }
   ]
 }

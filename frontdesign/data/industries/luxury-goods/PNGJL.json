@@ -8,17 +8,9 @@
   "price": 662.35,
   "market_cap_cr": 8988.64,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 555.05,
-      "prev_close": 566.95,
-      "volume": 134144,
-      "deliverable_qty": 67413,
-      "delivery_pct": 50.25
-    },
     {
       "date": "2026-02-17",
       "close": 554.7,
@@ -458,6 +450,14 @@
       "volume": 588893,
       "deliverable_qty": 378168,
       "delivery_pct": 64.22
+    },
+    {
+      "date": "2026-05-18",
+      "close": 545.25,
+      "prev_close": 573.9,
+      "volume": 76698,
+      "deliverable_qty": 76698,
+      "delivery_pct": 100.0
     }
   ],
   "news": [
@@ -691,13 +691,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "P N Gadgil Jewellers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNGJEWELLERS_24022026153455_IntimationOfPostalBallotNotice.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 12:16:20",
-      "an_dt": "16-Feb-2026 12:16:20",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "P N Gadgil Jewellers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNGJEWELLERS_16022026121601_IntimationofTranscriptDecember2025.pdf"
     }
   ]
 }

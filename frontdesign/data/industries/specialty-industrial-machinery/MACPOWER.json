@@ -8,17 +8,9 @@
   "price": 1185.8,
   "market_cap_cr": 1186.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 924.7,
-      "prev_close": 899.4,
-      "volume": 23210,
-      "deliverable_qty": 12847,
-      "delivery_pct": 55.35
-    },
     {
       "date": "2026-02-17",
       "close": 923.5,
@@ -458,9 +450,24 @@
       "volume": 13297,
       "deliverable_qty": 7970,
       "delivery_pct": 59.94
+    },
+    {
+      "date": "2026-05-18",
+      "close": 1101.9,
+      "prev_close": 1088.3,
+      "volume": 19221,
+      "deliverable_qty": 9972,
+      "delivery_pct": 51.88
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 14:54:08",
+      "an_dt": "18-May-2026 14:54:08",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Macpower CNC Machines Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MACPOWER_18052026144921_Q4FY26ConcallInvite.pdf"
+    },
     {
       "sort_date": "2026-04-30 12:32:00",
       "an_dt": "30-Apr-2026 12:32:00",

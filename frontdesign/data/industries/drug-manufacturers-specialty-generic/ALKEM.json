@@ -8,17 +8,9 @@
   "price": 5364.5,
   "market_cap_cr": 64140.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 5480.5,
-      "prev_close": 5402.5,
-      "volume": 132794,
-      "deliverable_qty": 26421,
-      "delivery_pct": 19.9
-    },
     {
       "date": "2026-02-17",
       "close": 5456.5,
@@ -458,9 +450,24 @@
       "volume": 64559,
       "deliverable_qty": 25491,
       "delivery_pct": 39.48
+    },
+    {
+      "date": "2026-05-18",
+      "close": 5468.0,
+      "prev_close": 5486.0,
+      "volume": 122385,
+      "deliverable_qty": 64220,
+      "delivery_pct": 52.47
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 12:35:24",
+      "an_dt": "18-May-2026 12:35:24",
+      "desc": "General Updates",
+      "sm_name": "Alkem Laboratories Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALKEM_18052026123440_Reg30Appointmentofchanakya_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-08 18:38:38",
       "an_dt": "08-May-2026 18:38:38",
@@ -628,27 +635,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Alkem Laboratories Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALKEM_17022026171353_ScheduleofInvestorMeet_February_2026_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 19:44:38",
-      "an_dt": "16-Feb-2026 19:44:38",
-      "desc": "Investor Presentation",
-      "sm_name": "Alkem Laboratories Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALKEM_16022026194316_Presentaionintimation_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 17:13:38",
-      "an_dt": "16-Feb-2026 17:13:38",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Alkem Laboratories Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALKEM_16022026171243_signedIntimationAlkemEarningsCallTranscript.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 15:03:53",
-      "an_dt": "16-Feb-2026 15:03:53",
-      "desc": "General Updates",
-      "sm_name": "Alkem Laboratories Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALKEM_16022026150337_stockexchangelettersigned.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 265.9,
   "market_cap_cr": 4651.57,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 284.9,
-      "prev_close": 290.9,
-      "volume": 347441,
-      "deliverable_qty": 243536,
-      "delivery_pct": 70.09
-    },
     {
       "date": "2026-02-17",
       "close": 283.65,
@@ -458,9 +450,31 @@
       "volume": 94593,
       "deliverable_qty": 48584,
       "delivery_pct": 51.36
+    },
+    {
+      "date": "2026-05-18",
+      "close": 243.7,
+      "prev_close": 248.05,
+      "volume": 399881,
+      "deliverable_qty": 94316,
+      "delivery_pct": 23.59
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 15:01:56",
+      "an_dt": "18-May-2026 15:01:56",
+      "desc": "Investor Presentation",
+      "sm_name": "VRL Logistics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VRLLOGI_18052026150108_Earningpresentation18052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 13:18:49",
+      "an_dt": "18-May-2026 13:18:49",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "VRL Logistics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VRLLOGI_18052026131134_OutcomeofBoardMeeting18052026.pdf"
+    },
     {
       "sort_date": "2026-05-12 17:58:20",
       "an_dt": "12-May-2026 17:58:20",

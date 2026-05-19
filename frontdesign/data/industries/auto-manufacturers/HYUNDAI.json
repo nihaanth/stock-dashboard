@@ -8,17 +8,9 @@
   "price": 1906.9,
   "market_cap_cr": 154943.46,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 2165.4,
-      "prev_close": 2179.5,
-      "volume": 287149,
-      "deliverable_qty": 168305,
-      "delivery_pct": 58.61
-    },
     {
       "date": "2026-02-17",
       "close": 2191.2,
@@ -458,6 +450,14 @@
       "volume": 694646,
       "deliverable_qty": 249528,
       "delivery_pct": 35.92
+    },
+    {
+      "date": "2026-05-18",
+      "close": 1781.9,
+      "prev_close": 1825.2,
+      "volume": 1409253,
+      "deliverable_qty": 933256,
+      "delivery_pct": 66.22
     }
   ],
   "news": [
@@ -628,13 +628,6 @@
       "desc": "Press Release",
       "sm_name": "Hyundai Motor India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HMILNSE_01032026110037_PR.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 09:01:55",
-      "an_dt": "16-Feb-2026 09:01:55",
-      "desc": "Change in Management",
-      "sm_name": "Hyundai Motor India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HMILNSE_16022026090144_SMP_SE_Disclosures.pdf"
     }
   ]
 }

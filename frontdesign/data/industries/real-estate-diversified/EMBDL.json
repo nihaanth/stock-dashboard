@@ -8,7 +8,7 @@
   "price": 50.21,
   "market_cap_cr": 6982.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
     {
@@ -66,6 +66,14 @@
       "volume": 3126769,
       "deliverable_qty": 1671598,
       "delivery_pct": 53.46
+    },
+    {
+      "date": "2026-05-18",
+      "close": 67.25,
+      "prev_close": 70.24,
+      "volume": 2533502,
+      "deliverable_qty": 1216096,
+      "delivery_pct": 48.0
     }
   ],
   "news": [
@@ -292,13 +300,6 @@
       "desc": "Corporate Insolvency Resolution Process",
       "sm_name": "Embassy Developments Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMBDL_20022026140514_EDL_Intimation_NCLATupdate_200226.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 16:55:15",
-      "an_dt": "16-Feb-2026 16:55:15",
-      "desc": "Press Release",
-      "sm_name": "Embassy Developments Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMBDL_16022026165507_PressRelease.pdf"
     }
   ]
 }

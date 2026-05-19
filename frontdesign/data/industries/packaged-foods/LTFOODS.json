@@ -8,17 +8,9 @@
   "price": 416.3,
   "market_cap_cr": 14456.14,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 426.5,
-      "prev_close": 434.8,
-      "volume": 263516,
-      "deliverable_qty": 115518,
-      "delivery_pct": 43.84
-    },
     {
       "date": "2026-02-17",
       "close": 425.6,
@@ -458,9 +450,24 @@
       "volume": 734531,
       "deliverable_qty": 282105,
       "delivery_pct": 38.41
+    },
+    {
+      "date": "2026-05-18",
+      "close": 404.55,
+      "prev_close": 409.35,
+      "volume": 298483,
+      "deliverable_qty": 97538,
+      "delivery_pct": 32.68
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 16:47:39",
+      "an_dt": "18-May-2026 16:47:39",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "LT Foods Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/532783_18052026164651_Investor_Call.pdf"
+    },
     {
       "sort_date": "2026-05-16 14:30:12",
       "an_dt": "16-May-2026 14:30:12",
@@ -684,13 +691,6 @@
       "desc": "General Updates",
       "sm_name": "LT Foods Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/532783_20022026172157_Reg_30-_Dubai_inc.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 15:53:52",
-      "an_dt": "16-Feb-2026 15:53:52",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "LT Foods Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/532783_16022026155335_Intimation.pdf"
     }
   ]
 }

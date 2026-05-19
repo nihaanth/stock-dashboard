@@ -8,17 +8,9 @@
   "price": 36615.0,
   "market_cap_cr": 108021.99,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 35485.0,
-      "prev_close": 35695.0,
-      "volume": 9980,
-      "deliverable_qty": 3829,
-      "delivery_pct": 38.37
-    },
     {
       "date": "2026-02-17",
       "close": 35370.0,
@@ -458,9 +450,31 @@
       "volume": 25058,
       "deliverable_qty": 7400,
       "delivery_pct": 29.53
+    },
+    {
+      "date": "2026-05-18",
+      "close": 37155.0,
+      "prev_close": 37740.0,
+      "volume": 21448,
+      "deliverable_qty": 7464,
+      "delivery_pct": 34.8
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 20:33:07",
+      "an_dt": "18-May-2026 20:33:07",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Bosch Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BOSCHLTD1_18052026203250_LettertoSE2nd100daysAD16may26sig.pdf"
+    },
+    {
+      "sort_date": "2026-05-18 20:03:34",
+      "an_dt": "18-May-2026 20:03:34",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Bosch Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BOSCHLTD1_18052026200313_lettertosedated18may26sig.pdf"
+    },
     {
       "sort_date": "2026-05-11 14:39:16",
       "an_dt": "11-May-2026 14:39:16",
@@ -593,13 +607,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Bosch Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BOSCHLTD2025_17022026180736_LettertoSE17022026sign.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 18:19:33",
-      "an_dt": "16-Feb-2026 18:19:33",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Bosch Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BOSCHLTD2025_16022026181912_LettertoexchangenewspaperAD14feb26.pdf"
     }
   ]
 }

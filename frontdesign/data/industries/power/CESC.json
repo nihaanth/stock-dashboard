@@ -8,17 +8,9 @@
   "price": 160.83,
   "market_cap_cr": 21319.15,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 154.47,
-      "prev_close": 150.33,
-      "volume": 1268149,
-      "deliverable_qty": 472869,
-      "delivery_pct": 37.29
-    },
     {
       "date": "2026-02-17",
       "close": 155.65,
@@ -458,6 +450,14 @@
       "volume": 1285444,
       "deliverable_qty": 608596,
       "delivery_pct": 47.35
+    },
+    {
+      "date": "2026-05-18",
+      "close": 176.4,
+      "prev_close": 180.09,
+      "volume": 3507494,
+      "deliverable_qty": 1943568,
+      "delivery_pct": 55.41
     }
   ],
   "news": [
@@ -600,27 +600,6 @@
       "desc": "Reply to Clarification- Financial results",
       "sm_name": "CESC Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CESC_17022026180312_Final_Reply.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 18:52:54",
-      "an_dt": "16-Feb-2026 18:52:54",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "CESC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CESC_16022026185207_1.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 18:35:30",
-      "an_dt": "16-Feb-2026 18:35:30",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "CESC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CESC_16022026183517_1.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 15:02:14",
-      "an_dt": "16-Feb-2026 15:02:14",
-      "desc": "Clarification - Financial Results",
-      "sm_name": "CESC Limited",
-      "attchmntFile": "-"
     }
   ]
 }

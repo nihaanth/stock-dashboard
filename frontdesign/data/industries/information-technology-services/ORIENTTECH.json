@@ -8,17 +8,9 @@
   "price": 307.6,
   "market_cap_cr": 1408.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 295.75,
-      "prev_close": 335.35,
-      "volume": 1588184,
-      "deliverable_qty": 416794,
-      "delivery_pct": 26.24
-    },
     {
       "date": "2026-02-17",
       "close": 293.75,
@@ -458,6 +450,14 @@
       "volume": 209795,
       "deliverable_qty": 78438,
       "delivery_pct": 37.39
+    },
+    {
+      "date": "2026-05-18",
+      "close": 265.05,
+      "prev_close": 275.7,
+      "volume": 213028,
+      "deliverable_qty": 91161,
+      "delivery_pct": 42.79
     }
   ],
   "news": [
@@ -551,13 +551,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Orient Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Orient97_17022026175847_OutcomeofBM13022026Final_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 15:42:19",
-      "an_dt": "16-Feb-2026 15:42:19",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Orient Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Orient97_16022026154048_IntimationofEarningscall_finalsigned.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 2472.6,
   "market_cap_cr": 894608.34,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 2706.6,
-      "prev_close": 2692.2,
-      "volume": 2918730,
-      "deliverable_qty": 1261501,
-      "delivery_pct": 43.22
-    },
     {
       "date": "2026-02-17",
       "close": 2717.4,
@@ -458,9 +450,24 @@
       "volume": 3410637,
       "deliverable_qty": 1487406,
       "delivery_pct": 43.61
+    },
+    {
+      "date": "2026-05-18",
+      "close": 2283.2,
+      "prev_close": 2264.0,
+      "volume": 3773336,
+      "deliverable_qty": 1929481,
+      "delivery_pct": 51.13
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 20:09:49",
+      "an_dt": "18-May-2026 20:09:49",
+      "desc": "General Updates",
+      "sm_name": "Tata Consultancy Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_18052026200929_SE_Letter_signed.pdf"
+    },
     {
       "sort_date": "2026-05-16 13:33:08",
       "an_dt": "16-May-2026 13:33:08",
@@ -754,13 +761,6 @@
       "desc": "Updates",
       "sm_name": "Tata Consultancy Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_19022026081906_PR_19Feb26_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 12:25:05",
-      "an_dt": "16-Feb-2026 12:25:05",
-      "desc": "Updates",
-      "sm_name": "Tata Consultancy Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_16022026121739_PR_16Feb26_signed.pdf"
     }
   ]
 }

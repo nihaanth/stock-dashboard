@@ -8,17 +8,9 @@
   "price": 441.2,
   "market_cap_cr": 659.94,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 607.05,
-      "prev_close": 697.9,
-      "volume": 120104,
-      "deliverable_qty": 48545,
-      "delivery_pct": 40.42
-    },
     {
       "date": "2026-02-17",
       "close": 622.85,
@@ -458,6 +450,14 @@
       "volume": 26129,
       "deliverable_qty": 14835,
       "delivery_pct": 56.78
+    },
+    {
+      "date": "2026-05-18",
+      "close": 404.25,
+      "prev_close": 415.35,
+      "volume": 20197,
+      "deliverable_qty": 10473,
+      "delivery_pct": 51.85
     }
   ],
   "news": [
@@ -509,27 +509,6 @@
       "desc": "Credit Rating",
       "sm_name": "Agarwal Industrial Corporation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AGARIND_12032026121631_Credit_Rating.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 17:16:38",
-      "an_dt": "16-Feb-2026 17:16:38",
-      "desc": "General Updates",
-      "sm_name": "Agarwal Industrial Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AGARIND_16022026171610_General_Overview.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 16:48:44",
-      "an_dt": "16-Feb-2026 16:48:44",
-      "desc": "General Updates",
-      "sm_name": "Agarwal Industrial Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AGARIND_16022026164835_General_Overview.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 11:47:39",
-      "an_dt": "16-Feb-2026 11:47:39",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Agarwal Industrial Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AGARIND_16022026114727_NewspaperAdvtFS.pdf"
     }
   ]
 }

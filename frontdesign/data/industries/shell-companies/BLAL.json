@@ -8,17 +8,9 @@
   "price": 201.15,
   "market_cap_cr": 837.68,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 188.19,
-      "prev_close": 191.55,
-      "volume": 26833,
-      "deliverable_qty": 18611,
-      "delivery_pct": 69.36
-    },
     {
       "date": "2026-02-17",
       "close": 189.35,
@@ -458,9 +450,24 @@
       "volume": 25787,
       "deliverable_qty": 9100,
       "delivery_pct": 35.29
+    },
+    {
+      "date": "2026-05-18",
+      "close": 191.2,
+      "prev_close": 190.67,
+      "volume": 44353,
+      "deliverable_qty": 20650,
+      "delivery_pct": 46.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-18 17:28:49",
+      "an_dt": "18-May-2026 17:28:49",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "BEML Land Assets Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLAL_18052026172616_STANDALONE_FINANCAL_RESULTS_OF_BEML__LAND_ASSETS.pdf"
+    },
     {
       "sort_date": "2026-05-08 08:32:39",
       "an_dt": "08-May-2026 08:32:39",
@@ -516,13 +523,6 @@
       "desc": "Trading Window",
       "sm_name": "BEML Land Assets Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLAL_26032026113151_Trading_Window_Closure.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 21:54:19",
-      "an_dt": "16-Feb-2026 21:54:19",
-      "desc": "Appointment",
-      "sm_name": "BEML Land Assets Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLAL_16022026215345_Reappointment.pdf"
     }
   ]
 }

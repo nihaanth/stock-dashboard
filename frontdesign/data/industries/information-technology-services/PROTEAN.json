@@ -8,17 +8,9 @@
   "price": 561.45,
   "market_cap_cr": 2280.43,
   "industry_source": "yfinance",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 617.9,
-      "prev_close": 633.6,
-      "volume": 180876,
-      "deliverable_qty": 103780,
-      "delivery_pct": 57.38
-    },
     {
       "date": "2026-02-17",
       "close": 626.6,
@@ -458,6 +450,14 @@
       "volume": 154733,
       "deliverable_qty": 76090,
       "delivery_pct": 49.18
+    },
+    {
+      "date": "2026-05-18",
+      "close": 527.05,
+      "prev_close": 531.0,
+      "volume": 150008,
+      "deliverable_qty": 56856,
+      "delivery_pct": 37.9
     }
   ],
   "news": [
@@ -523,13 +523,6 @@
       "desc": "Demerger",
       "sm_name": "Protean eGov Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PROTEANCS_27022026184328_Covering_letter_Protean_final.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 16:18:30",
-      "an_dt": "16-Feb-2026 16:18:30",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Protean eGov Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PROTEANCS_16022026161817_Earnings_Call_Transcript_Cover_Letter.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 666.0,
   "market_cap_cr": 1088.03,
   "industry_source": "webarchive",
-  "as_of": "2026-05-17",
+  "as_of": "2026-05-18",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-16",
-      "close": 820.35,
-      "prev_close": 786.8,
-      "volume": 13635,
-      "deliverable_qty": 7742,
-      "delivery_pct": 56.78
-    },
     {
       "date": "2026-02-17",
       "close": 823.35,
@@ -458,6 +450,14 @@
       "volume": 23618,
       "deliverable_qty": 15066,
       "delivery_pct": 63.79
+    },
+    {
+      "date": "2026-05-18",
+      "close": 645.4,
+      "prev_close": 659.05,
+      "volume": 7340,
+      "deliverable_qty": 4080,
+      "delivery_pct": 55.59
     }
   ],
   "news": [
@@ -579,13 +579,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Alicon Castalloy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALICON_19022026175442_Letter_to_SEs_for_Transcript.pdf"
-    },
-    {
-      "sort_date": "2026-02-16 17:20:01",
-      "an_dt": "16-Feb-2026 17:20:01",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Alicon Castalloy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALICON_16022026171852_Letter_to_SEs_for_Audio__003_.pdf"
     }
   ]
 }
