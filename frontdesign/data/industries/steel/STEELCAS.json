@@ -8,25 +8,9 @@
   "price": 278.55,
   "market_cap_cr": 2818.93,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 237.16,
-      "prev_close": 231.58,
-      "volume": 41942,
-      "deliverable_qty": 17750,
-      "delivery_pct": 42.32
-    },
-    {
-      "date": "2026-02-18",
-      "close": 237.85,
-      "prev_close": 237.16,
-      "volume": 78473,
-      "deliverable_qty": 42097,
-      "delivery_pct": 53.65
-    },
     {
       "date": "2026-02-19",
       "close": 232.77,
@@ -458,9 +442,24 @@
       "volume": 29602,
       "deliverable_qty": 14734,
       "delivery_pct": 49.77
+    },
+    {
+      "date": "2026-05-20",
+      "close": 284.05,
+      "prev_close": 278.75,
+      "volume": 21562,
+      "deliverable_qty": 8336,
+      "delivery_pct": 38.66
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 20:23:28",
+      "an_dt": "20-May-2026 20:23:28",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Steelcast Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STEELCAS_20052026202306_MergedIntimationtoSEs.pdf"
+    },
     {
       "sort_date": "2026-04-10 18:02:33",
       "an_dt": "10-Apr-2026 18:02:33",

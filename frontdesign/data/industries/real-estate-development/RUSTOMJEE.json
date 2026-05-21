@@ -8,25 +8,9 @@
   "price": 401.2,
   "market_cap_cr": 5064.48,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 459.2,
-      "prev_close": 466.4,
-      "volume": 81242,
-      "deliverable_qty": 49549,
-      "delivery_pct": 60.99
-    },
-    {
-      "date": "2026-02-18",
-      "close": 448.2,
-      "prev_close": 459.2,
-      "volume": 44730,
-      "deliverable_qty": 28666,
-      "delivery_pct": 64.09
-    },
     {
       "date": "2026-02-19",
       "close": 442.25,
@@ -458,6 +442,14 @@
       "volume": 34040,
       "deliverable_qty": 16672,
       "delivery_pct": 48.98
+    },
+    {
+      "date": "2026-05-20",
+      "close": 394.9,
+      "prev_close": 400.4,
+      "volume": 30284,
+      "deliverable_qty": 17096,
+      "delivery_pct": 56.45
     }
   ],
   "news": [
@@ -579,13 +571,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Keystone Realtors Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RUSTOMJEE_19022026141824_IM_20260224.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 16:56:14",
-      "an_dt": "18-Feb-2026 16:56:14",
-      "desc": "Appointment",
-      "sm_name": "Keystone Realtors Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RUSTOMJEE_18022026165606_Mukesh_Singh_Appointment.pdf"
     }
   ]
 }

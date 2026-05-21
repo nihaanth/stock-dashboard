@@ -8,25 +8,9 @@
   "price": 544.4,
   "market_cap_cr": 2091.53,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 569.1,
-      "prev_close": 558.3,
-      "volume": 12557,
-      "deliverable_qty": 5115,
-      "delivery_pct": 40.73
-    },
-    {
-      "date": "2026-02-18",
-      "close": 572.05,
-      "prev_close": 569.1,
-      "volume": 10424,
-      "deliverable_qty": 5117,
-      "delivery_pct": 49.09
-    },
     {
       "date": "2026-02-19",
       "close": 567.4,
@@ -458,9 +442,31 @@
       "volume": 13665,
       "deliverable_qty": 5985,
       "delivery_pct": 43.8
+    },
+    {
+      "date": "2026-05-20",
+      "close": 511.95,
+      "prev_close": 510.3,
+      "volume": 4962,
+      "deliverable_qty": 2596,
+      "delivery_pct": 52.32
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 15:17:02",
+      "an_dt": "20-May-2026 15:17:02",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "TCI Express Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TCIEXP_20052026151642_RevisedStockExchangeUplaoding.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 13:12:22",
+      "an_dt": "20-May-2026 13:12:22",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "TCI Express Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TCIEXP_20052026131156_StockExchangeUplaod.pdf"
+    },
     {
       "sort_date": "2026-05-17 16:06:37",
       "an_dt": "17-May-2026 16:06:37",

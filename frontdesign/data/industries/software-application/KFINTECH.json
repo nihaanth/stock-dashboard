@@ -8,25 +8,9 @@
   "price": 900.55,
   "market_cap_cr": 15536.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1020.6,
-      "prev_close": 1000.9,
-      "volume": 2964027,
-      "deliverable_qty": 481476,
-      "delivery_pct": 16.24
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1039.3,
-      "prev_close": 1020.6,
-      "volume": 1311588,
-      "deliverable_qty": 359982,
-      "delivery_pct": 27.45
-    },
     {
       "date": "2026-02-19",
       "close": 1015.9,
@@ -458,9 +442,31 @@
       "volume": 1676085,
       "deliverable_qty": 711721,
       "delivery_pct": 42.46
+    },
+    {
+      "date": "2026-05-20",
+      "close": 828.05,
+      "prev_close": 824.7,
+      "volume": 810763,
+      "deliverable_qty": 356198,
+      "delivery_pct": 43.93
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 22:46:32",
+      "an_dt": "20-May-2026 22:46:32",
+      "desc": "Updates",
+      "sm_name": "Kfin Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KFINTECHNSE_20052026224613_Intimation__00F_.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 12:36:50",
+      "an_dt": "20-May-2026 12:36:50",
+      "desc": "Press Release",
+      "sm_name": "Kfin Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KFINTECHNSE_20052026123618_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-13 15:41:38",
       "an_dt": "13-May-2026 15:41:38",
@@ -670,13 +676,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Kfin Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KFINTECHNSE_23022026154451_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 15:58:20",
-      "an_dt": "18-Feb-2026 15:58:20",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Kfin Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KFINTECHNSE_18022026155807_Intimation.pdf"
     }
   ]
 }

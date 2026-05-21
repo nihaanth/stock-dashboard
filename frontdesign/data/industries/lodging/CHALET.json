@@ -8,25 +8,9 @@
   "price": 759.5,
   "market_cap_cr": 16632.6,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 872.3,
-      "prev_close": 862.4,
-      "volume": 78542,
-      "deliverable_qty": 36576,
-      "delivery_pct": 46.57
-    },
-    {
-      "date": "2026-02-18",
-      "close": 870.65,
-      "prev_close": 872.3,
-      "volume": 42324,
-      "deliverable_qty": 19389,
-      "delivery_pct": 45.81
-    },
     {
       "date": "2026-02-19",
       "close": 862.1,
@@ -458,6 +442,14 @@
       "volume": 98462,
       "deliverable_qty": 35564,
       "delivery_pct": 36.12
+    },
+    {
+      "date": "2026-05-20",
+      "close": 800.1,
+      "prev_close": 800.95,
+      "volume": 71855,
+      "deliverable_qty": 43171,
+      "delivery_pct": 60.08
     }
   ],
   "news": [
@@ -628,13 +620,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Chalet Hotels Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CHALET_23022026181359_OutcomeBoardMeeting23022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 19:28:49",
-      "an_dt": "17-Feb-2026 19:28:49",
-      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-      "sm_name": "Chalet Hotels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CHALET_17022026192830_Reg30StayOrderGBA17022026.pdf"
     }
   ]
 }

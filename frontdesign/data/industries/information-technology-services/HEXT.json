@@ -8,25 +8,9 @@
   "price": 502.25,
   "market_cap_cr": 30609.98,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 594.3,
-      "prev_close": 575.75,
-      "volume": 1127040,
-      "deliverable_qty": 445198,
-      "delivery_pct": 39.5
-    },
-    {
-      "date": "2026-02-18",
-      "close": 571.75,
-      "prev_close": 594.3,
-      "volume": 3025462,
-      "deliverable_qty": 2142925,
-      "delivery_pct": 70.83
-    },
     {
       "date": "2026-02-19",
       "close": 539.35,
@@ -458,9 +442,38 @@
       "volume": 309124,
       "deliverable_qty": 155196,
       "delivery_pct": 50.21
+    },
+    {
+      "date": "2026-05-20",
+      "close": 512.2,
+      "prev_close": 510.55,
+      "volume": 869424,
+      "deliverable_qty": 314782,
+      "delivery_pct": 36.21
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 21:40:20",
+      "an_dt": "20-May-2026 21:40:20",
+      "desc": "Press Release",
+      "sm_name": "Hexaware Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEXAWARETECH_20052026214011_Press_Release.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 21:36:48",
+      "an_dt": "20-May-2026 21:36:48",
+      "desc": "Disclosure of material issue",
+      "sm_name": "Hexaware Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEXAWARETECH_20052026213637_Outcome_of_Board_Meeting.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 21:33:21",
+      "an_dt": "20-May-2026 21:33:21",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Hexaware Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEXAWARETECH_20052026213200_Outcome_of_Board_Meeting.pdf"
+    },
     {
       "sort_date": "2026-05-14 17:51:20",
       "an_dt": "14-May-2026 17:51:20",
@@ -705,20 +718,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Hexaware Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEXAWARETECH_23022026124234_IntimationInvestorConference.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:02:54",
-      "an_dt": "17-Feb-2026 17:02:54",
-      "desc": "Updates",
-      "sm_name": "Hexaware Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEXAWARETECH_17022026170245_Final_PR.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 15:19:36",
-      "an_dt": "17-Feb-2026 15:19:36",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Hexaware Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEXAWARETECH_17022026151906_Lettertostockexchangefortheadvertisment.pdf"
     }
   ]
 }

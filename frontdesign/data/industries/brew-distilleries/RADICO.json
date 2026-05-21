@@ -8,25 +8,9 @@
   "price": 3489.7,
   "market_cap_cr": 46738.02,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 2822.3,
-      "prev_close": 2791.3,
-      "volume": 447241,
-      "deliverable_qty": 311848,
-      "delivery_pct": 69.73
-    },
-    {
-      "date": "2026-02-18",
-      "close": 2787.8,
-      "prev_close": 2822.3,
-      "volume": 235770,
-      "deliverable_qty": 169132,
-      "delivery_pct": 71.74
-    },
     {
       "date": "2026-02-19",
       "close": 2725.4,
@@ -458,9 +442,31 @@
       "volume": 154912,
       "deliverable_qty": 89467,
       "delivery_pct": 57.75
+    },
+    {
+      "date": "2026-05-20",
+      "close": 3565.9,
+      "prev_close": 3599.9,
+      "volume": 302978,
+      "deliverable_qty": 125707,
+      "delivery_pct": 41.49
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 14:50:01",
+      "an_dt": "20-May-2026 14:50:01",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Radico Khaitan Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RADICO_20052026144555_Intimation_for_investors_meeting.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 17:45:32",
+      "an_dt": "19-May-2026 17:45:32",
+      "desc": "Updates",
+      "sm_name": "Radico Khaitan Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RADICO_19052026174455_Intimation_annual_compliance_report.pdf"
+    },
     {
       "sort_date": "2026-05-12 16:21:00",
       "an_dt": "12-May-2026 16:21:00",
@@ -628,20 +634,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Radico Khaitan Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RADICO_03032026124534_intimation03032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 13:19:37",
-      "an_dt": "17-Feb-2026 13:19:37",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Radico Khaitan Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RADICO_17022026131836_meeting1702026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 13:01:18",
-      "an_dt": "17-Feb-2026 13:01:18",
-      "desc": "Investor Presentation",
-      "sm_name": "Radico Khaitan Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RADICO_17022026130053_presentation17feb.pdf"
     }
   ]
 }

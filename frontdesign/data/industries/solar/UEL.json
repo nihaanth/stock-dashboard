@@ -8,25 +8,9 @@
   "price": 151.33,
   "market_cap_cr": 2018.71,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 170.94,
-      "prev_close": 179.93,
-      "volume": 1923,
-      "deliverable_qty": 1921,
-      "delivery_pct": 99.9
-    },
-    {
-      "date": "2026-02-18",
-      "close": 162.4,
-      "prev_close": 170.94,
-      "volume": 2817,
-      "deliverable_qty": 2816,
-      "delivery_pct": 99.96
-    },
     {
       "date": "2026-02-19",
       "close": 170.52,
@@ -458,9 +442,24 @@
       "volume": 9412,
       "deliverable_qty": 5408,
       "delivery_pct": 57.46
+    },
+    {
+      "date": "2026-05-20",
+      "close": 144.09,
+      "prev_close": 147.4,
+      "volume": 16608,
+      "deliverable_qty": 6027,
+      "delivery_pct": 36.29
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 10:58:27",
+      "an_dt": "19-May-2026 10:58:27",
+      "desc": "Reply to Clarification- Financial results",
+      "sm_name": "Ujaas Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UEL_18052026172705_FinancialResults31032026ocr.pdf"
+    },
     {
       "sort_date": "2026-05-08 15:11:26",
       "an_dt": "08-May-2026 15:11:26",

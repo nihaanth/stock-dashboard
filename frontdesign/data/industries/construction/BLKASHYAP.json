@@ -8,25 +8,9 @@
   "price": 58.17,
   "market_cap_cr": 1311.63,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 50.05,
-      "prev_close": 50.09,
-      "volume": 238700,
-      "deliverable_qty": 112622,
-      "delivery_pct": 47.18
-    },
-    {
-      "date": "2026-02-18",
-      "close": 50.09,
-      "prev_close": 50.05,
-      "volume": 186408,
-      "deliverable_qty": 94437,
-      "delivery_pct": 50.66
-    },
     {
       "date": "2026-02-19",
       "close": 50.48,
@@ -458,6 +442,14 @@
       "volume": 288742,
       "deliverable_qty": 163846,
       "delivery_pct": 56.74
+    },
+    {
+      "date": "2026-05-20",
+      "close": 56.51,
+      "prev_close": 54.73,
+      "volume": 532433,
+      "deliverable_qty": 323237,
+      "delivery_pct": 60.71
     }
   ],
   "news": [
@@ -502,20 +494,6 @@
       "desc": "General Updates",
       "sm_name": "B. L. Kashyap and Sons Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLKASHYAP_19032026164432_BLK_Reclassification.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 15:41:32",
-      "an_dt": "18-Feb-2026 15:41:32",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "B. L. Kashyap and Sons Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLKASHYAP_18022026153944_Award_of_Project.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:37:50",
-      "an_dt": "17-Feb-2026 12:37:50",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "B. L. Kashyap and Sons Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLKASHYAP_17022026123733_BLK_Newspaper_Clip.pdf"
     }
   ]
 }

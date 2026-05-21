@@ -8,25 +8,9 @@
   "price": 1429.4,
   "market_cap_cr": 386745.97,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1482.6,
-      "prev_close": 1461.8,
-      "volume": 2840341,
-      "deliverable_qty": 1281453,
-      "delivery_pct": 45.12
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1467.2,
-      "prev_close": 1482.6,
-      "volume": 2036245,
-      "deliverable_qty": 1101059,
-      "delivery_pct": 54.07
-    },
     {
       "date": "2026-02-19",
       "close": 1450.4,
@@ -458,9 +442,31 @@
       "volume": 2588569,
       "deliverable_qty": 1185393,
       "delivery_pct": 45.79
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1169.8,
+      "prev_close": 1179.4,
+      "volume": 1415960,
+      "deliverable_qty": 664665,
+      "delivery_pct": 46.94
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 18:32:55",
+      "an_dt": "20-May-2026 18:32:55",
+      "desc": "Updates",
+      "sm_name": "HCL Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HCLTECH_20052026183230_Release20May2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 15:08:15",
+      "an_dt": "19-May-2026 15:08:15",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "HCL Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HCLTECH_19052026150452_Intimationtostockexchanges.pdf"
+    },
     {
       "sort_date": "2026-05-14 19:43:12",
       "an_dt": "14-May-2026 19:43:12",
@@ -754,20 +760,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "HCL Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HCLTECH_19022026173934_Intimationtostockexchanges-SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 19:31:33",
-      "an_dt": "17-Feb-2026 19:31:33",
-      "desc": "Updates",
-      "sm_name": "HCL Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HCLTECH_17022026193120_Release17Feb2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:38:35",
-      "an_dt": "17-Feb-2026 12:38:35",
-      "desc": "Updates",
-      "sm_name": "HCL Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HCLTECH_17022026123828_InvestorConference17Feb2026.pdf"
     }
   ]
 }

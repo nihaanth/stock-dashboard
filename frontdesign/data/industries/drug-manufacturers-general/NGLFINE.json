@@ -8,25 +8,9 @@
   "price": 2279.5,
   "market_cap_cr": 1408.28,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 2257.1,
-      "prev_close": 2289.4,
-      "volume": 4769,
-      "deliverable_qty": 3370,
-      "delivery_pct": 70.66
-    },
-    {
-      "date": "2026-02-18",
-      "close": 2323.4,
-      "prev_close": 2257.1,
-      "volume": 12909,
-      "deliverable_qty": 7494,
-      "delivery_pct": 58.05
-    },
     {
       "date": "2026-02-19",
       "close": 2257.1,
@@ -458,9 +442,24 @@
       "volume": 5441,
       "deliverable_qty": 2628,
       "delivery_pct": 48.3
+    },
+    {
+      "date": "2026-05-20",
+      "close": 2410.1,
+      "prev_close": 2276.7,
+      "volume": 16647,
+      "deliverable_qty": 8068,
+      "delivery_pct": 48.47
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 23:09:08",
+      "an_dt": "19-May-2026 23:09:08",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "NGL Fine-Chem Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NGL2022_19052026230901_Intimation_-_Earning_Call_Signed.pdf"
+    },
     {
       "sort_date": "2026-04-06 16:49:41",
       "an_dt": "06-Apr-2026 16:49:41",

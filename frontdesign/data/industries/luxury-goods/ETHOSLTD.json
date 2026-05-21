@@ -8,25 +8,9 @@
   "price": 2359.6,
   "market_cap_cr": 6313.75,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 2459.0,
-      "prev_close": 2455.6,
-      "volume": 30860,
-      "deliverable_qty": 19481,
-      "delivery_pct": 63.13
-    },
-    {
-      "date": "2026-02-18",
-      "close": 2516.0,
-      "prev_close": 2459.0,
-      "volume": 12303,
-      "deliverable_qty": 6304,
-      "delivery_pct": 51.24
-    },
     {
       "date": "2026-02-19",
       "close": 2471.8,
@@ -458,6 +442,14 @@
       "volume": 20477,
       "deliverable_qty": 12515,
       "delivery_pct": 61.12
+    },
+    {
+      "date": "2026-05-20",
+      "close": 2356.3,
+      "prev_close": 2317.4,
+      "volume": 14065,
+      "deliverable_qty": 5430,
+      "delivery_pct": 38.61
     }
   ],
   "news": [
@@ -656,13 +648,6 @@
       "desc": "Updates",
       "sm_name": "Ethos Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ETHOS_24022026135217_Disclosure_Opening_of_new_boutique.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:49:47",
-      "an_dt": "17-Feb-2026 12:49:47",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Ethos Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ETHOS_17022026124808_Outcome_of_Board_Meeting.pdf"
     }
   ]
 }

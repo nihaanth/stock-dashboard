@@ -8,25 +8,9 @@
   "price": 204.42,
   "market_cap_cr": 18190.91,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 187.87,
-      "prev_close": 184.8,
-      "volume": 5083624,
-      "deliverable_qty": 1504090,
-      "delivery_pct": 29.59
-    },
-    {
-      "date": "2026-02-18",
-      "close": 185.46,
-      "prev_close": 187.87,
-      "volume": 7286990,
-      "deliverable_qty": 2454373,
-      "delivery_pct": 33.68
-    },
     {
       "date": "2026-02-19",
       "close": 183.61,
@@ -458,9 +442,24 @@
       "volume": 2734979,
       "deliverable_qty": 1297695,
       "delivery_pct": 47.45
+    },
+    {
+      "date": "2026-05-20",
+      "close": 209.98,
+      "prev_close": 209.27,
+      "volume": 1343151,
+      "deliverable_qty": 525128,
+      "delivery_pct": 39.1
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 22:04:19",
+      "an_dt": "20-May-2026 22:04:19",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Belrise Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BELRISE_20052026220353_BELRISE_Intimation_of_Earnings_Call_20052026.pdf"
+    },
     {
       "sort_date": "2026-05-15 18:45:57",
       "an_dt": "15-May-2026 18:45:57",

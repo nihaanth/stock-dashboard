@@ -8,25 +8,9 @@
   "price": 183.67,
   "market_cap_cr": 1324.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 216.9,
-      "prev_close": 213.46,
-      "volume": 532771,
-      "deliverable_qty": 195500,
-      "delivery_pct": 36.69
-    },
-    {
-      "date": "2026-02-18",
-      "close": 217.58,
-      "prev_close": 216.9,
-      "volume": 364078,
-      "deliverable_qty": 220140,
-      "delivery_pct": 60.47
-    },
     {
       "date": "2026-02-19",
       "close": 214.0,
@@ -458,6 +442,14 @@
       "volume": 338968,
       "deliverable_qty": 125638,
       "delivery_pct": 37.06
+    },
+    {
+      "date": "2026-05-20",
+      "close": 221.24,
+      "prev_close": 209.67,
+      "volume": 1436079,
+      "deliverable_qty": 573353,
+      "delivery_pct": 39.92
     }
   ],
   "news": [
@@ -558,13 +550,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Shanti Gold International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHANTIGOLD_24022026142711_Analyst_Grp_Meet_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 16:59:39",
-      "an_dt": "17-Feb-2026 16:59:39",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Shanti Gold International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHANTIGOLD_17022026165924_Transcript_Q3_FY26.pdf"
     }
   ]
 }

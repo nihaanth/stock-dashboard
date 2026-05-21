@@ -8,25 +8,9 @@
   "price": 182.74,
   "market_cap_cr": 2253.65,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 204.39,
-      "prev_close": 209.64,
-      "volume": 649703,
-      "deliverable_qty": 120411,
-      "delivery_pct": 18.53
-    },
-    {
-      "date": "2026-02-18",
-      "close": 205.89,
-      "prev_close": 204.39,
-      "volume": 557888,
-      "deliverable_qty": 108639,
-      "delivery_pct": 19.47
-    },
     {
       "date": "2026-02-19",
       "close": 202.01,
@@ -458,9 +442,24 @@
       "volume": 168440,
       "deliverable_qty": 83605,
       "delivery_pct": 49.63
+    },
+    {
+      "date": "2026-05-20",
+      "close": 204.69,
+      "prev_close": 203.78,
+      "volume": 200882,
+      "deliverable_qty": 101803,
+      "delivery_pct": 50.68
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 16:57:02",
+      "an_dt": "20-May-2026 16:57:02",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Hikal Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HIKAL_20052026165630_SEIntimationResultsCall.pdf"
+    },
     {
       "sort_date": "2026-04-14 15:26:30",
       "an_dt": "14-Apr-2026 15:26:30",
@@ -502,34 +501,6 @@
       "desc": "Trading Window",
       "sm_name": "Hikal Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HIKAL_25032026182108_Trading_WindowMarch2026qtr4.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:02:34",
-      "an_dt": "18-Feb-2026 17:02:34",
-      "desc": "Updates",
-      "sm_name": "Hikal Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HIKAL_18022026170228_Intimation_Under_Regulation_7_2_a.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 16:32:30",
-      "an_dt": "18-Feb-2026 16:32:30",
-      "desc": "Disclosure under SEBI Takeover Regulations",
-      "sm_name": "Hikal Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_18022026151404_HIKAL.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 16:13:48",
-      "an_dt": "18-Feb-2026 16:13:48",
-      "desc": "General Updates",
-      "sm_name": "Hikal Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HIKAL_18022026161333_Reg_30_Final_disclosure_of_intimation_of_castilia.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:52:19",
-      "an_dt": "17-Feb-2026 18:52:19",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Hikal Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HIKAL_17022026185113_TranscriptNSEBSE.pdf"
     }
   ]
 }

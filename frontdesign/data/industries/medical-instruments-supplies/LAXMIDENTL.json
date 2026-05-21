@@ -8,25 +8,9 @@
   "price": 214.85,
   "market_cap_cr": 1180.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 181.51,
-      "prev_close": 181.93,
-      "volume": 231752,
-      "deliverable_qty": 105963,
-      "delivery_pct": 45.72
-    },
-    {
-      "date": "2026-02-18",
-      "close": 187.3,
-      "prev_close": 181.51,
-      "volume": 394049,
-      "deliverable_qty": 91405,
-      "delivery_pct": 23.2
-    },
     {
       "date": "2026-02-19",
       "close": 197.09,
@@ -458,6 +442,14 @@
       "volume": 57137,
       "deliverable_qty": 25201,
       "delivery_pct": 44.11
+    },
+    {
+      "date": "2026-05-20",
+      "close": 203.03,
+      "prev_close": 204.24,
+      "volume": 47708,
+      "deliverable_qty": 18003,
+      "delivery_pct": 37.74
     }
   ],
   "news": [
@@ -565,13 +557,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Laxmi Dental Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LAXMI_26022026191210_SIGNED_Laxmi_Dental_Stock_Exchange_Intimation_-_Group_Meetings.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 22:43:18",
-      "an_dt": "17-Feb-2026 22:43:18",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Laxmi Dental Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LAXMI_17022026224159_Transcript_of_the_Q3FY26_Earnings_Conference_Call.pdf"
     }
   ]
 }

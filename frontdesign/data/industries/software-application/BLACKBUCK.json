@@ -8,25 +8,9 @@
   "price": 562.15,
   "market_cap_cr": 10225.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 616.0,
-      "prev_close": 629.6,
-      "volume": 507904,
-      "deliverable_qty": 263619,
-      "delivery_pct": 51.9
-    },
-    {
-      "date": "2026-02-18",
-      "close": 624.85,
-      "prev_close": 616.0,
-      "volume": 638695,
-      "deliverable_qty": 470133,
-      "delivery_pct": 73.61
-    },
     {
       "date": "2026-02-19",
       "close": 613.65,
@@ -458,9 +442,38 @@
       "volume": 345888,
       "deliverable_qty": 143166,
       "delivery_pct": 41.39
+    },
+    {
+      "date": "2026-05-20",
+      "close": 531.2,
+      "prev_close": 532.45,
+      "volume": 2275273,
+      "deliverable_qty": 1025247,
+      "delivery_pct": 45.06
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 19:07:55",
+      "an_dt": "19-May-2026 19:07:55",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "BLACKBUCK LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZINKA2015_19052026190705_Announcement_Investor_Meet_Outcome_Audio.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 14:44:52",
+      "an_dt": "19-May-2026 14:44:52",
+      "desc": "Investor Presentation",
+      "sm_name": "BLACKBUCK LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZINKA2015_19052026144430_Announcement_Investor_Meet_-_Presentation.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 14:27:25",
+      "an_dt": "19-May-2026 14:27:25",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "BLACKBUCK LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZINKA2015_19052026142554_Board_Meeting_Outcome.pdf"
+    },
     {
       "sort_date": "2026-05-13 17:12:58",
       "an_dt": "13-May-2026 17:12:58",
@@ -537,13 +550,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "BLACKBUCK LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZINKA2015_24022026192003_Intimation_ESOP_Allotment.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 16:13:39",
-      "an_dt": "18-Feb-2026 16:13:39",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "BLACKBUCK LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZINKA2015_18022026161036_Intimation_Investor_Meet_18_Feb_26.pdf"
     }
   ]
 }

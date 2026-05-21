@@ -8,25 +8,9 @@
   "price": 1803.4,
   "market_cap_cr": 20674.66,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1295.2,
-      "prev_close": 1197.6,
-      "volume": 518607,
-      "deliverable_qty": 144919,
-      "delivery_pct": 27.94
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1333.6,
-      "prev_close": 1295.2,
-      "volume": 823613,
-      "deliverable_qty": 312425,
-      "delivery_pct": 37.93
-    },
     {
       "date": "2026-02-19",
       "close": 1325.1,
@@ -458,9 +442,38 @@
       "volume": 395170,
       "deliverable_qty": 161447,
       "delivery_pct": 40.86
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1867.4,
+      "prev_close": 1854.5,
+      "volume": 268507,
+      "deliverable_qty": 115832,
+      "delivery_pct": 43.14
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 18:53:41",
+      "an_dt": "19-May-2026 18:53:41",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Onesource Specialty Pharma Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_19052026185025_OS_Transcript_of_Earnings_Call.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 10:55:31",
+      "an_dt": "19-May-2026 10:55:31",
+      "desc": "Updates",
+      "sm_name": "Onesource Specialty Pharma Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_19052026105523_OCR_Financial_results.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 10:49:13",
+      "an_dt": "19-May-2026 10:49:13",
+      "desc": "Updates",
+      "sm_name": "Onesource Specialty Pharma Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_19052026104905_SMP_Resignation_13May2026.pdf"
+    },
     {
       "sort_date": "2026-05-16 13:15:28",
       "an_dt": "16-May-2026 13:15:28",

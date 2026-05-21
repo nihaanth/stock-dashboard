@@ -8,25 +8,9 @@
   "price": 140.81,
   "market_cap_cr": 1634.6,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 149.3,
-      "prev_close": 157.11,
-      "volume": 1029964,
-      "deliverable_qty": 480096,
-      "delivery_pct": 46.61
-    },
-    {
-      "date": "2026-02-18",
-      "close": 146.07,
-      "prev_close": 149.3,
-      "volume": 611357,
-      "deliverable_qty": 252182,
-      "delivery_pct": 41.25
-    },
     {
       "date": "2026-02-19",
       "close": 142.72,
@@ -458,9 +442,31 @@
       "volume": 1195225,
       "deliverable_qty": 310647,
       "delivery_pct": 25.99
+    },
+    {
+      "date": "2026-05-20",
+      "close": 165.39,
+      "prev_close": 165.75,
+      "volume": 3103295,
+      "deliverable_qty": 852714,
+      "delivery_pct": 27.48
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 18:08:09",
+      "an_dt": "19-May-2026 18:08:09",
+      "desc": "Monitoring Agency Report",
+      "sm_name": "Stallion India Fluorochemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STALLION_19052026180758_MAReport_IPOforQ4FY26-Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 10:46:51",
+      "an_dt": "19-May-2026 10:46:51",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Stallion India Fluorochemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STALLION_19052026104543_Earningcallrecordingsigned.pdf"
+    },
     {
       "sort_date": "2026-05-15 16:56:11",
       "an_dt": "15-May-2026 16:56:11",
@@ -614,13 +620,6 @@
       "desc": "Press Release",
       "sm_name": "Stallion India Fluorochemicals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/STALLION_23022026092520_PressreleaseSigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 19:00:46",
-      "an_dt": "17-Feb-2026 19:00:46",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Stallion India Fluorochemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STALLION_17022026190036_NewspaperadvtforRightIssueSigned.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 202.97,
   "market_cap_cr": 212652.08,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 215.69,
-      "prev_close": 213.26,
-      "volume": 26941553,
-      "deliverable_qty": 8961417,
-      "delivery_pct": 33.26
-    },
-    {
-      "date": "2026-02-18",
-      "close": 211.95,
-      "prev_close": 215.69,
-      "volume": 22679760,
-      "deliverable_qty": 7299713,
-      "delivery_pct": 32.19
-    },
     {
       "date": "2026-02-19",
       "close": 211.21,
@@ -458,9 +442,31 @@
       "volume": 16327369,
       "deliverable_qty": 8062166,
       "delivery_pct": 49.38
+    },
+    {
+      "date": "2026-05-20",
+      "close": 197.12,
+      "prev_close": 195.17,
+      "volume": 16201692,
+      "deliverable_qty": 9337265,
+      "delivery_pct": 57.63
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 18:27:03",
+      "an_dt": "20-May-2026 18:27:03",
+      "desc": "Updates",
+      "sm_name": "Wipro Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Cslogin_20052026182555_SEIntimation20052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 18:17:59",
+      "an_dt": "19-May-2026 18:17:59",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Wipro Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Cslogin_19052026181356_SEIntimationAnalystcall19052026.pdf"
+    },
     {
       "sort_date": "2026-05-15 16:01:04",
       "an_dt": "15-May-2026 16:01:04",
@@ -845,13 +851,6 @@
       "desc": "Updates",
       "sm_name": "Wipro Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Cslogin_25022026160610_SE.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:00:32",
-      "an_dt": "18-Feb-2026 17:00:32",
-      "desc": "Updates",
-      "sm_name": "Wipro Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Cslogin_18022026165807_SE.pdf"
     }
   ]
 }

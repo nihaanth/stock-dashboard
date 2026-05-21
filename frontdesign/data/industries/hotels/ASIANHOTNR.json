@@ -8,25 +8,9 @@
   "price": 294.8,
   "market_cap_cr": 1256.83,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 294.9,
-      "prev_close": 289.65,
-      "volume": 38358,
-      "deliverable_qty": 9104,
-      "delivery_pct": 23.73
-    },
-    {
-      "date": "2026-02-18",
-      "close": 301.1,
-      "prev_close": 294.9,
-      "volume": 16372,
-      "deliverable_qty": 4399,
-      "delivery_pct": 26.87
-    },
     {
       "date": "2026-02-19",
       "close": 300.05,
@@ -458,9 +442,24 @@
       "volume": 39633,
       "deliverable_qty": 32838,
       "delivery_pct": 82.86
+    },
+    {
+      "date": "2026-05-20",
+      "close": 299.75,
+      "prev_close": 295.05,
+      "volume": 13902,
+      "deliverable_qty": 10776,
+      "delivery_pct": 77.51
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 18:22:00",
+      "an_dt": "19-May-2026 18:22:00",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Asian Hotels (North) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASIANHOTNR_19052026182142_NewspaperAdvertisement19052026.pdf"
+    },
     {
       "sort_date": "2026-05-18 19:33:26",
       "an_dt": "18-May-2026 19:33:26",

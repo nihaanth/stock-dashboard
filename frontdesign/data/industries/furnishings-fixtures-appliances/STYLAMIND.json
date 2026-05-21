@@ -8,25 +8,9 @@
   "price": 2552.2,
   "market_cap_cr": 4328.21,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 2219.7,
-      "prev_close": 2218.9,
-      "volume": 143496,
-      "deliverable_qty": 74547,
-      "delivery_pct": 51.95
-    },
-    {
-      "date": "2026-02-18",
-      "close": 2231.3,
-      "prev_close": 2219.7,
-      "volume": 43761,
-      "deliverable_qty": 21634,
-      "delivery_pct": 49.44
-    },
     {
       "date": "2026-02-19",
       "close": 2230.6,
@@ -458,9 +442,24 @@
       "volume": 150396,
       "deliverable_qty": 43160,
       "delivery_pct": 28.7
+    },
+    {
+      "date": "2026-05-20",
+      "close": 2741.7,
+      "prev_close": 2773.0,
+      "volume": 46876,
+      "deliverable_qty": 21592,
+      "delivery_pct": 46.06
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 18:03:37",
+      "an_dt": "20-May-2026 18:03:37",
+      "desc": "Updates",
+      "sm_name": "Stylam Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20052026180041_STYLAMIND.zip"
+    },
     {
       "sort_date": "2026-05-16 15:45:02",
       "an_dt": "16-May-2026 15:45:02",
@@ -607,48 +606,6 @@
       "desc": "Credit Rating- Revision",
       "sm_name": "Stylam Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/STYLAMIND_10032026130009_Intimation_Credit_Rating.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:45:32",
-      "an_dt": "18-Feb-2026 17:45:32",
-      "desc": "Resignation of Independent director",
-      "sm_name": "Stylam Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STYLAMIND_ROID_79463_KMP_Doc.zip"
-    },
-    {
-      "sort_date": "2026-02-18 11:58:12",
-      "an_dt": "18-Feb-2026 11:58:12",
-      "desc": "General Updates",
-      "sm_name": "Stylam Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STYLAMIND_18022026115804_OUTCOME.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 11:44:47",
-      "an_dt": "18-Feb-2026 11:44:47",
-      "desc": "Resignation",
-      "sm_name": "Stylam Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STYLAMIND_18022026114439_OUTCOME.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 11:42:19",
-      "an_dt": "18-Feb-2026 11:42:19",
-      "desc": "Resignation",
-      "sm_name": "Stylam Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STYLAMIND_18022026114206_OUTCOME.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 11:36:13",
-      "an_dt": "18-Feb-2026 11:36:13",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Stylam Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STYLAMIND_18022026113601_OUTCOME.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 15:23:51",
-      "an_dt": "17-Feb-2026 15:23:51",
-      "desc": "Disclosure under SEBI Takeover Regulations",
-      "sm_name": "Stylam Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_17022026152144_STYLAMIND.pdf"
     }
   ]
 }

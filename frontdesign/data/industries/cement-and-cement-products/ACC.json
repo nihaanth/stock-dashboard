@@ -8,25 +8,9 @@
   "price": 1410.5,
   "market_cap_cr": 26487.39,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1639.4,
-      "prev_close": 1632.2,
-      "volume": 148310,
-      "deliverable_qty": 63535,
-      "delivery_pct": 42.84
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1640.6,
-      "prev_close": 1639.4,
-      "volume": 65970,
-      "deliverable_qty": 33312,
-      "delivery_pct": 50.5
-    },
     {
       "date": "2026-02-19",
       "close": 1617.6,
@@ -458,6 +442,14 @@
       "volume": 346093,
       "deliverable_qty": 192025,
       "delivery_pct": 55.48
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1351.6,
+      "prev_close": 1359.3,
+      "volume": 95705,
+      "deliverable_qty": 59553,
+      "delivery_pct": 62.23
     }
   ],
   "news": [
@@ -635,20 +627,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "ACC Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACC_1_27022026195025_CoveringACC_Investor_Meet_27022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 20:14:24",
-      "an_dt": "18-Feb-2026 20:14:24",
-      "desc": "Shareholders meeting",
-      "sm_name": "ACC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACC_1_18022026200819_Final_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 19:20:30",
-      "an_dt": "17-Feb-2026 19:20:30",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "ACC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACC_1_17022026192005_CoveringACC_Investor_Meet_17022026.pdf"
     }
   ]
 }

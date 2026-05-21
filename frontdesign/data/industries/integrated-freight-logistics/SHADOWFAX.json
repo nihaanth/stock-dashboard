@@ -8,25 +8,9 @@
   "price": 164.72,
   "market_cap_cr": 9613.42,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 119.36,
-      "prev_close": 121.09,
-      "volume": 3007472,
-      "deliverable_qty": 1541792,
-      "delivery_pct": 51.27
-    },
-    {
-      "date": "2026-02-18",
-      "close": 122.54,
-      "prev_close": 119.36,
-      "volume": 1214767,
-      "deliverable_qty": 390054,
-      "delivery_pct": 32.11
-    },
     {
       "date": "2026-02-19",
       "close": 120.77,
@@ -458,9 +442,38 @@
       "volume": 6824448,
       "deliverable_qty": 1796814,
       "delivery_pct": 26.33
+    },
+    {
+      "date": "2026-05-20",
+      "close": 195.33,
+      "prev_close": 189.45,
+      "volume": 6203569,
+      "deliverable_qty": 2793225,
+      "delivery_pct": 45.03
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 15:56:16",
+      "an_dt": "20-May-2026 15:56:16",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shadowfax Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9900590024_20052026155428_Analyst_Meet.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 13:41:37",
+      "an_dt": "20-May-2026 13:41:37",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shadowfax Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9900590024_20052026133626_Earnings_Call_Transcript_Shadowfax_Q4FY26_.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 16:13:04",
+      "an_dt": "19-May-2026 16:13:04",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Shadowfax Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_16042026180129_SHADOWFAX.pdf"
+    },
     {
       "sort_date": "2026-05-18 19:56:31",
       "an_dt": "18-May-2026 19:56:31",
@@ -642,13 +655,6 @@
       "desc": "Press Release",
       "sm_name": "Shadowfax Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/9900590024_26022026132105_PRFeb26_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 23:00:51",
-      "an_dt": "18-Feb-2026 23:00:51",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Shadowfax Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9900590024_18022026225811_Shadowfax__Q3_FY26_Earnings_Conference_Call__Transcript_Feb_12_2026.pdf"
     }
   ]
 }

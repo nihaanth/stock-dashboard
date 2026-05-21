@@ -8,25 +8,9 @@
   "price": 1234.0,
   "market_cap_cr": 19108.07,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1106.8,
-      "prev_close": 1122.8,
-      "volume": 22527,
-      "deliverable_qty": 11571,
-      "delivery_pct": 51.37
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1106.0,
-      "prev_close": 1106.8,
-      "volume": 21986,
-      "deliverable_qty": 10652,
-      "delivery_pct": 48.45
-    },
     {
       "date": "2026-02-19",
       "close": 1082.1,
@@ -458,9 +442,24 @@
       "volume": 39274,
       "deliverable_qty": 18335,
       "delivery_pct": 46.68
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1098.1,
+      "prev_close": 1098.4,
+      "volume": 32304,
+      "deliverable_qty": 14927,
+      "delivery_pct": 46.21
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 15:29:48",
+      "an_dt": "19-May-2026 15:29:48",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "DCM Shriram Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCMSHRIRAM_19052026152938_ADVTIEPF19052026SIGNED.pdf"
+    },
     {
       "sort_date": "2026-05-15 21:56:39",
       "an_dt": "15-May-2026 21:56:39",

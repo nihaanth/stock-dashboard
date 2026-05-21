@@ -8,25 +8,9 @@
   "price": 1220.5,
   "market_cap_cr": 19541.6,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1257.7,
-      "prev_close": 1253.7,
-      "volume": 96457,
-      "deliverable_qty": 41386,
-      "delivery_pct": 42.91
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1276.6,
-      "prev_close": 1257.7,
-      "volume": 285902,
-      "deliverable_qty": 119164,
-      "delivery_pct": 41.68
-    },
     {
       "date": "2026-02-19",
       "close": 1280.2,
@@ -458,9 +442,24 @@
       "volume": 168175,
       "deliverable_qty": 78955,
       "delivery_pct": 46.95
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1293.9,
+      "prev_close": 1310.0,
+      "volume": 145892,
+      "deliverable_qty": 77347,
+      "delivery_pct": 53.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 17:56:51",
+      "an_dt": "19-May-2026 17:56:51",
+      "desc": "Suspension of Trading",
+      "sm_name": "CREDITACCESS GRAMEEN LIMITED",
+      "attchmntFile": "-"
+    },
     {
       "sort_date": "2026-05-15 10:13:47",
       "an_dt": "15-May-2026 10:13:47",
@@ -642,13 +641,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "CREDITACCESS GRAMEEN LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CREDITACC_19022026104342_CAGL_SE_ESOPAllotment_19022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 20:01:27",
-      "an_dt": "17-Feb-2026 20:01:27",
-      "desc": "Action(s) taken or orders passed",
-      "sm_name": "CREDITACCESS GRAMEEN LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CREDITACC_17022026200107_CA_Grameen_Reg_30_SE_Fine_Payment_17022026.pdf"
     }
   ]
 }

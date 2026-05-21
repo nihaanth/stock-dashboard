@@ -8,25 +8,9 @@
   "price": 142.39,
   "market_cap_cr": 1168.38,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 129.28,
-      "prev_close": 129.34,
-      "volume": 124927,
-      "deliverable_qty": 91798,
-      "delivery_pct": 73.48
-    },
-    {
-      "date": "2026-02-18",
-      "close": 128.41,
-      "prev_close": 129.28,
-      "volume": 48163,
-      "deliverable_qty": 27220,
-      "delivery_pct": 56.52
-    },
     {
       "date": "2026-02-19",
       "close": 127.7,
@@ -458,9 +442,31 @@
       "volume": 77663,
       "deliverable_qty": 45418,
       "delivery_pct": 58.48
+    },
+    {
+      "date": "2026-05-20",
+      "close": 141.91,
+      "prev_close": 142.84,
+      "volume": 81271,
+      "deliverable_qty": 32982,
+      "delivery_pct": 40.58
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 15:11:16",
+      "an_dt": "20-May-2026 15:11:16",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "GPT Healthcare Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPTHEALTHCARE_20052026151055_GHLNewsPaper.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 15:28:17",
+      "an_dt": "19-May-2026 15:28:17",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "GPT Healthcare Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPTHEALTHCARE_19052026152804_GHLAudioCall.pdf"
+    },
     {
       "sort_date": "2026-05-18 18:45:32",
       "an_dt": "18-May-2026 18:45:32",

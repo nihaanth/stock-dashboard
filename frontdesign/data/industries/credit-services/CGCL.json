@@ -8,25 +8,9 @@
   "price": 191.1,
   "market_cap_cr": 18386.76,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 173.13,
-      "prev_close": 175.08,
-      "volume": 543341,
-      "deliverable_qty": 286499,
-      "delivery_pct": 52.73
-    },
-    {
-      "date": "2026-02-18",
-      "close": 178.52,
-      "prev_close": 173.13,
-      "volume": 1057135,
-      "deliverable_qty": 534126,
-      "delivery_pct": 50.53
-    },
     {
       "date": "2026-02-19",
       "close": 172.92,
@@ -458,9 +442,38 @@
       "volume": 1505857,
       "deliverable_qty": 355536,
       "delivery_pct": 23.61
+    },
+    {
+      "date": "2026-05-20",
+      "close": 185.93,
+      "prev_close": 182.39,
+      "volume": 6729983,
+      "deliverable_qty": 3999407,
+      "delivery_pct": 59.43
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 15:04:12",
+      "an_dt": "20-May-2026 15:04:12",
+      "desc": "Credit Rating- New",
+      "sm_name": "Capri Global Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CGCL_20052026150339_Intimation_CreditRating_Moody.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 15:00:21",
+      "an_dt": "20-May-2026 15:00:21",
+      "desc": "Credit Rating- New",
+      "sm_name": "Capri Global Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CGCL_20052026150001_Intimation_CreditRating_Fitch.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 22:06:32",
+      "an_dt": "19-May-2026 22:06:32",
+      "desc": "General Updates",
+      "sm_name": "Capri Global Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CGCL_19052026220320_Intimation_Upload_OfferingCircular_IndiaINX.pdf"
+    },
     {
       "sort_date": "2026-05-14 16:40:13",
       "an_dt": "14-May-2026 16:40:13",

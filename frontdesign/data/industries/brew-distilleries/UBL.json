@@ -8,25 +8,9 @@
   "price": 1412.2,
   "market_cap_cr": 37339.29,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1598.8,
-      "prev_close": 1612.1,
-      "volume": 59641,
-      "deliverable_qty": 33510,
-      "delivery_pct": 56.19
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1614.6,
-      "prev_close": 1598.8,
-      "volume": 35821,
-      "deliverable_qty": 12991,
-      "delivery_pct": 36.27
-    },
     {
       "date": "2026-02-19",
       "close": 1607.6,
@@ -458,9 +442,24 @@
       "volume": 215653,
       "deliverable_qty": 127270,
       "delivery_pct": 59.02
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1348.8,
+      "prev_close": 1348.3,
+      "volume": 62482,
+      "deliverable_qty": 26262,
+      "delivery_pct": 42.03
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 18:27:33",
+      "an_dt": "19-May-2026 18:27:33",
+      "desc": "Product launch",
+      "sm_name": "United Breweries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UBLSJR_19052026182707_DisclosureMaterialEventHeinekenSilver19052026.pdf"
+    },
     {
       "sort_date": "2026-05-18 11:53:10",
       "an_dt": "18-May-2026 11:53:10",

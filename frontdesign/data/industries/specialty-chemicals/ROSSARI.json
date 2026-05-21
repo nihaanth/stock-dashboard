@@ -8,25 +8,9 @@
   "price": 525.4,
   "market_cap_cr": 2910.28,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 518.95,
-      "prev_close": 510.95,
-      "volume": 23230,
-      "deliverable_qty": 10999,
-      "delivery_pct": 47.35
-    },
-    {
-      "date": "2026-02-18",
-      "close": 516.75,
-      "prev_close": 518.95,
-      "volume": 25208,
-      "deliverable_qty": 11893,
-      "delivery_pct": 47.18
-    },
     {
       "date": "2026-02-19",
       "close": 511.3,
@@ -458,6 +442,14 @@
       "volume": 77818,
       "deliverable_qty": 30620,
       "delivery_pct": 39.35
+    },
+    {
+      "date": "2026-05-20",
+      "close": 507.4,
+      "prev_close": 504.95,
+      "volume": 116114,
+      "deliverable_qty": 48474,
+      "delivery_pct": 41.75
     }
   ],
   "news": [
@@ -586,13 +578,6 @@
       "desc": "Updates",
       "sm_name": "Rossari Biotech Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ROSSARI_24032026210307_20260324_Intimation_of_change_of_name_of_Rossari_Global_DMCC.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 19:01:10",
-      "an_dt": "18-Feb-2026 19:01:10",
-      "desc": "Updates",
-      "sm_name": "Rossari Biotech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ROSSARI_18022026185811_20260218_Intimation_of_capital_infusion_in_KSA_18022026.pdf"
     }
   ]
 }

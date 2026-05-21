@@ -8,25 +8,9 @@
   "price": 410.5,
   "market_cap_cr": 7504.27,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 289.14,
-      "prev_close": 298.52,
-      "volume": 4070669,
-      "deliverable_qty": 510067,
-      "delivery_pct": 12.53
-    },
-    {
-      "date": "2026-02-18",
-      "close": 295.52,
-      "prev_close": 289.14,
-      "volume": 3039871,
-      "deliverable_qty": 505178,
-      "delivery_pct": 16.62
-    },
     {
       "date": "2026-02-19",
       "close": 291.08,
@@ -458,6 +442,14 @@
       "volume": 342032,
       "deliverable_qty": 128849,
       "delivery_pct": 37.67
+    },
+    {
+      "date": "2026-05-20",
+      "close": 396.6,
+      "prev_close": 381.9,
+      "volume": 685932,
+      "deliverable_qty": 193121,
+      "delivery_pct": 28.15
     }
   ],
   "news": [
@@ -523,13 +515,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Precision Wires India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRECWIRE_19022026183630_NEWSLetterPB.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 18:35:34",
-      "an_dt": "18-Feb-2026 18:35:34",
-      "desc": "Shareholders meeting",
-      "sm_name": "Precision Wires India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRECWIRE_18022026183447_PBNotice.pdf"
     }
   ]
 }

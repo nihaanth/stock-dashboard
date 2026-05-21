@@ -8,25 +8,9 @@
   "price": 971.0,
   "market_cap_cr": 4629.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 978.0,
-      "prev_close": 987.4,
-      "volume": 119525,
-      "deliverable_qty": 54972,
-      "delivery_pct": 45.99
-    },
-    {
-      "date": "2026-02-18",
-      "close": 974.5,
-      "prev_close": 978.0,
-      "volume": 93066,
-      "deliverable_qty": 47429,
-      "delivery_pct": 50.96
-    },
     {
       "date": "2026-02-19",
       "close": 965.5,
@@ -458,9 +442,24 @@
       "volume": 186407,
       "deliverable_qty": 138732,
       "delivery_pct": 74.42
+    },
+    {
+      "date": "2026-05-20",
+      "close": 983.75,
+      "prev_close": 955.75,
+      "volume": 140587,
+      "deliverable_qty": 73029,
+      "delivery_pct": 51.95
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 18:29:42",
+      "an_dt": "19-May-2026 18:29:42",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Indigo Paints Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIGOPNTS_19052026182835_Indigo_Paints_Q4FY26_concall_inviteM26SD.pdf"
+    },
     {
       "sort_date": "2026-04-07 21:29:13",
       "an_dt": "07-Apr-2026 21:29:13",

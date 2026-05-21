@@ -8,25 +8,9 @@
   "price": 77.41,
   "market_cap_cr": 1362.42,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 78.04,
-      "prev_close": 78.26,
-      "volume": 101900,
-      "deliverable_qty": 49910,
-      "delivery_pct": 48.98
-    },
-    {
-      "date": "2026-02-18",
-      "close": 76.86,
-      "prev_close": 78.04,
-      "volume": 241329,
-      "deliverable_qty": 157637,
-      "delivery_pct": 65.32
-    },
     {
       "date": "2026-02-19",
       "close": 76.61,
@@ -458,9 +442,31 @@
       "volume": 91777,
       "deliverable_qty": 42597,
       "delivery_pct": 46.41
+    },
+    {
+      "date": "2026-05-20",
+      "close": 78.8,
+      "prev_close": 76.9,
+      "volume": 329126,
+      "deliverable_qty": 145901,
+      "delivery_pct": 44.33
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 11:15:22",
+      "an_dt": "20-May-2026 11:15:22",
+      "desc": "Action(s) taken or orders passed",
+      "sm_name": "Dolat Algotech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DOLATALGO_20052026111416_20-05-2026-DISC-REG-30-signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 12:16:55",
+      "an_dt": "19-May-2026 12:16:55",
+      "desc": "Action(s) taken or orders passed",
+      "sm_name": "Dolat Algotech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DOLATALGO_19052026121641_19-05-2026-DISC-REG-30-signed.pdf"
+    },
     {
       "sort_date": "2026-05-16 14:59:42",
       "an_dt": "16-May-2026 14:59:42",

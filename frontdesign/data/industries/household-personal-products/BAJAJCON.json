@@ -8,25 +8,9 @@
   "price": 420.55,
   "market_cap_cr": 5493.15,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 373.95,
-      "prev_close": 375.0,
-      "volume": 355877,
-      "deliverable_qty": 158523,
-      "delivery_pct": 44.54
-    },
-    {
-      "date": "2026-02-18",
-      "close": 374.0,
-      "prev_close": 373.95,
-      "volume": 368737,
-      "deliverable_qty": 217079,
-      "delivery_pct": 58.87
-    },
     {
       "date": "2026-02-19",
       "close": 366.6,
@@ -458,9 +442,24 @@
       "volume": 596808,
       "deliverable_qty": 319393,
       "delivery_pct": 53.52
+    },
+    {
+      "date": "2026-05-20",
+      "close": 549.85,
+      "prev_close": 526.75,
+      "volume": 832478,
+      "deliverable_qty": 298321,
+      "delivery_pct": 35.84
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 15:14:57",
+      "an_dt": "20-May-2026 15:14:57",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Bajaj Consumer Care Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BAJAJCON_20052026151226_20260520_Exchanges_Investor_Conference_ICICI_Securities.pdf"
+    },
     {
       "sort_date": "2026-05-01 11:45:12",
       "an_dt": "01-May-2026 11:45:12",

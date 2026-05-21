@@ -8,25 +8,9 @@
   "price": 99.83,
   "market_cap_cr": 17253.0,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 99.88,
-      "prev_close": 101.19,
-      "volume": 14901171,
-      "deliverable_qty": 4239644,
-      "delivery_pct": 28.45
-    },
-    {
-      "date": "2026-02-18",
-      "close": 98.87,
-      "prev_close": 99.88,
-      "volume": 14029166,
-      "deliverable_qty": 3908335,
-      "delivery_pct": 27.86
-    },
     {
       "date": "2026-02-19",
       "close": 96.65,
@@ -458,6 +442,14 @@
       "volume": 12904050,
       "deliverable_qty": 4202833,
       "delivery_pct": 32.57
+    },
+    {
+      "date": "2026-05-20",
+      "close": 95.27,
+      "prev_close": 96.3,
+      "volume": 5713347,
+      "deliverable_qty": 1637835,
+      "delivery_pct": 28.67
     }
   ],
   "news": [
@@ -509,13 +501,6 @@
       "desc": "Press Release",
       "sm_name": "Inox Wind Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INOXWIND_19022026090105_IWL_PRforIGESL.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 18:53:38",
-      "an_dt": "18-Feb-2026 18:53:38",
-      "desc": "General Updates",
-      "sm_name": "Inox Wind Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INOXWIND_18022026185249_IWL_IntimationFor_transmission.pdf"
     }
   ]
 }

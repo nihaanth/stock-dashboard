@@ -8,25 +8,9 @@
   "price": 428.05,
   "market_cap_cr": 3091.01,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 465.85,
-      "prev_close": 469.25,
-      "volume": 17774,
-      "deliverable_qty": 13410,
-      "delivery_pct": 75.45
-    },
-    {
-      "date": "2026-02-18",
-      "close": 463.1,
-      "prev_close": 465.85,
-      "volume": 26036,
-      "deliverable_qty": 18928,
-      "delivery_pct": 72.7
-    },
     {
       "date": "2026-02-19",
       "close": 456.45,
@@ -458,6 +442,14 @@
       "volume": 34025,
       "deliverable_qty": 17658,
       "delivery_pct": 51.9
+    },
+    {
+      "date": "2026-05-20",
+      "close": 403.55,
+      "prev_close": 401.8,
+      "volume": 13799,
+      "deliverable_qty": 6302,
+      "delivery_pct": 45.67
     }
   ],
   "news": [
@@ -551,13 +543,6 @@
       "desc": "General Updates",
       "sm_name": "UFLEX Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DineshSharma_19022026173605_SIGNEDUFLEXNSEBSEREG3019FEB26.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 15:44:08",
-      "an_dt": "17-Feb-2026 15:44:08",
-      "desc": "Investor Presentation",
-      "sm_name": "UFLEX Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DineshSharma_17022026154153_SIGNEDUFLEXNSEBSEIP17FEB26.pdf"
     }
   ]
 }

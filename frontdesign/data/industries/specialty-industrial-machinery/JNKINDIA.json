@@ -8,25 +8,9 @@
   "price": 370.3,
   "market_cap_cr": 2071.97,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 239.07,
-      "prev_close": 237.25,
-      "volume": 116230,
-      "deliverable_qty": 44199,
-      "delivery_pct": 38.03
-    },
-    {
-      "date": "2026-02-18",
-      "close": 249.22,
-      "prev_close": 239.07,
-      "volume": 411199,
-      "deliverable_qty": 156337,
-      "delivery_pct": 38.02
-    },
     {
       "date": "2026-02-19",
       "close": 241.51,
@@ -458,9 +442,59 @@
       "volume": 281869,
       "deliverable_qty": 134504,
       "delivery_pct": 47.72
+    },
+    {
+      "date": "2026-05-20",
+      "close": 373.15,
+      "prev_close": 353.9,
+      "volume": 1379424,
+      "deliverable_qty": 573304,
+      "delivery_pct": 41.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 20:25:56",
+      "an_dt": "20-May-2026 20:25:56",
+      "desc": "Investor Presentation",
+      "sm_name": "JNK India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JNKINDIA23_20052026202543_Q4FY26_Earnings_presentation_new.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 20:15:09",
+      "an_dt": "20-May-2026 20:15:09",
+      "desc": "Press Release",
+      "sm_name": "JNK India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JNKINDIA23_20052026201454_Q4FY26_Press_Release_.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 19:18:08",
+      "an_dt": "20-May-2026 19:18:08",
+      "desc": "Dividend",
+      "sm_name": "JNK India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JNKINDIA23_20052026191625_outcome_of_bm_alongwith_results_final.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 18:44:07",
+      "an_dt": "20-May-2026 18:44:07",
+      "desc": "Change in Management",
+      "sm_name": "JNK India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JNKINDIA23_20052026184000_outcome_of_bm_alongwith_results_final.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 18:30:07",
+      "an_dt": "20-May-2026 18:30:07",
+      "desc": "Integrated Filing- Financial",
+      "sm_name": "JNK India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JNKINDIA23_20052026182932_outcome_of_bm_alongwith_results_final.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 18:10:20",
+      "an_dt": "20-May-2026 18:10:20",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "JNK India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JNKINDIA23_20052026180618_outcome_of_bm_alongwith_results_final.pdf"
+    },
     {
       "sort_date": "2026-05-18 19:11:18",
       "an_dt": "18-May-2026 19:11:18",

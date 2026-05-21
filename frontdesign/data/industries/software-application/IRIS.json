@@ -8,25 +8,9 @@
   "price": 244.19,
   "market_cap_cr": 502.26,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 271.15,
-      "prev_close": 261.6,
-      "volume": 73633,
-      "deliverable_qty": 46251,
-      "delivery_pct": 62.81
-    },
-    {
-      "date": "2026-02-18",
-      "close": 277.0,
-      "prev_close": 271.15,
-      "volume": 44666,
-      "deliverable_qty": 19104,
-      "delivery_pct": 42.77
-    },
     {
       "date": "2026-02-19",
       "close": 270.6,
@@ -458,6 +442,14 @@
       "volume": 25628,
       "deliverable_qty": 14276,
       "delivery_pct": 55.7
+    },
+    {
+      "date": "2026-05-20",
+      "close": 240.76,
+      "prev_close": 226.49,
+      "volume": 51526,
+      "deliverable_qty": 21069,
+      "delivery_pct": 40.89
     }
   ],
   "news": [
@@ -572,13 +564,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "IRIS RegTech Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRIS_25022026123012_IRIS_investor_meet_Club_Millionaire_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 19:21:39",
-      "an_dt": "18-Feb-2026 19:21:39",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "IRIS RegTech Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRIS_18022026192126_IRIS_Intimation_InvestorMeetFarley_Capital_signed.pdf"
     }
   ]
 }

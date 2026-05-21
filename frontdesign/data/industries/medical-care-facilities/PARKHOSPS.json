@@ -8,25 +8,9 @@
   "price": 259.79,
   "market_cap_cr": 11221.13,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 178.33,
-      "prev_close": 175.7,
-      "volume": 941338,
-      "deliverable_qty": 575337,
-      "delivery_pct": 61.12
-    },
-    {
-      "date": "2026-02-18",
-      "close": 179.89,
-      "prev_close": 178.33,
-      "volume": 1297213,
-      "deliverable_qty": 616343,
-      "delivery_pct": 47.51
-    },
     {
       "date": "2026-02-19",
       "close": 184.24,
@@ -458,9 +442,24 @@
       "volume": 480716,
       "deliverable_qty": 222718,
       "delivery_pct": 46.33
+    },
+    {
+      "date": "2026-05-20",
+      "close": 256.21,
+      "prev_close": 247.48,
+      "volume": 859167,
+      "deliverable_qty": 369338,
+      "delivery_pct": 42.99
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 16:07:57",
+      "an_dt": "20-May-2026 16:07:57",
+      "desc": "Acquisition",
+      "sm_name": "Park Medi World Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARKMEDIWORLD2025_20052026160747_healplus200526.pdf"
+    },
     {
       "sort_date": "2026-05-18 16:15:22",
       "an_dt": "18-May-2026 16:15:22",

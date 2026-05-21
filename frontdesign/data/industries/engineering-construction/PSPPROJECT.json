@@ -8,25 +8,9 @@
   "price": 818.0,
   "market_cap_cr": 3242.7,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 799.25,
-      "prev_close": 786.3,
-      "volume": 31616,
-      "deliverable_qty": 16475,
-      "delivery_pct": 52.11
-    },
-    {
-      "date": "2026-02-18",
-      "close": 787.45,
-      "prev_close": 799.25,
-      "volume": 13754,
-      "deliverable_qty": 7275,
-      "delivery_pct": 52.89
-    },
     {
       "date": "2026-02-19",
       "close": 780.4,
@@ -458,9 +442,24 @@
       "volume": 66525,
       "deliverable_qty": 34793,
       "delivery_pct": 52.3
+    },
+    {
+      "date": "2026-05-20",
+      "close": 767.15,
+      "prev_close": 773.0,
+      "volume": 30263,
+      "deliverable_qty": 12630,
+      "delivery_pct": 41.73
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 09:51:56",
+      "an_dt": "20-May-2026 09:51:56",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "PSP Projects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20042026172004_PSPPROJECT.pdf"
+    },
     {
       "sort_date": "2026-05-18 18:12:07",
       "an_dt": "18-May-2026 18:12:07",

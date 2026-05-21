@@ -8,25 +8,9 @@
   "price": 390.45,
   "market_cap_cr": 63226.79,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 379.35,
-      "prev_close": 380.35,
-      "volume": 1118253,
-      "deliverable_qty": 452756,
-      "delivery_pct": 40.49
-    },
-    {
-      "date": "2026-02-18",
-      "close": 378.95,
-      "prev_close": 379.35,
-      "volume": 1489234,
-      "deliverable_qty": 581468,
-      "delivery_pct": 39.04
-    },
     {
       "date": "2026-02-19",
       "close": 382.65,
@@ -458,6 +442,14 @@
       "volume": 3394086,
       "deliverable_qty": 1587795,
       "delivery_pct": 46.78
+    },
+    {
+      "date": "2026-05-20",
+      "close": 432.7,
+      "prev_close": 428.15,
+      "volume": 4845230,
+      "deliverable_qty": 2301266,
+      "delivery_pct": 47.5
     }
   ],
   "news": [
@@ -754,20 +746,6 @@
       "desc": "Press Release",
       "sm_name": "Biocon Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIOCON_24022026210330_Pressrelease24022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:20:00",
-      "an_dt": "17-Feb-2026 17:20:00",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Biocon Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIOCON_17022026171942_Cover_Letter_Transcript_Earnings_Call_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 16:50:39",
-      "an_dt": "17-Feb-2026 16:50:39",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Biocon Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIOCON_17022026165022_InvestorMeeting17022026.pdf"
     }
   ]
 }

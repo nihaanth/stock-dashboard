@@ -8,25 +8,9 @@
   "price": 718.05,
   "market_cap_cr": 5779.07,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 669.65,
-      "prev_close": 673.35,
-      "volume": 86389,
-      "deliverable_qty": 41001,
-      "delivery_pct": 47.46
-    },
-    {
-      "date": "2026-02-18",
-      "close": 689.9,
-      "prev_close": 669.65,
-      "volume": 329766,
-      "deliverable_qty": 246465,
-      "delivery_pct": 74.74
-    },
     {
       "date": "2026-02-19",
       "close": 684.65,
@@ -458,6 +442,14 @@
       "volume": 168023,
       "deliverable_qty": 120032,
       "delivery_pct": 71.44
+    },
+    {
+      "date": "2026-05-20",
+      "close": 725.25,
+      "prev_close": 720.6,
+      "volume": 150604,
+      "deliverable_qty": 60013,
+      "delivery_pct": 39.85
     }
   ],
   "news": [
@@ -523,13 +515,6 @@
       "desc": "Clarification - Financial Results",
       "sm_name": "Supriya Lifescience Limited",
       "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-02-17 10:47:45",
-      "an_dt": "17-Feb-2026 10:47:45",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Supriya Lifescience Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUPRIYA_17022026104715_Transcript170226.pdf"
     }
   ]
 }

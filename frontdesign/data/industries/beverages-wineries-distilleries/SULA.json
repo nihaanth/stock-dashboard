@@ -8,25 +8,9 @@
   "price": 172.47,
   "market_cap_cr": 1456.46,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 180.12,
-      "prev_close": 176.32,
-      "volume": 246462,
-      "deliverable_qty": 116124,
-      "delivery_pct": 47.12
-    },
-    {
-      "date": "2026-02-18",
-      "close": 179.85,
-      "prev_close": 180.12,
-      "volume": 566816,
-      "deliverable_qty": 206793,
-      "delivery_pct": 36.48
-    },
     {
       "date": "2026-02-19",
       "close": 182.39,
@@ -458,9 +442,45 @@
       "volume": 265475,
       "deliverable_qty": 132859,
       "delivery_pct": 50.05
+    },
+    {
+      "date": "2026-05-20",
+      "close": 159.89,
+      "prev_close": 160.4,
+      "volume": 201504,
+      "deliverable_qty": 69188,
+      "delivery_pct": 34.34
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 16:53:07",
+      "an_dt": "19-May-2026 16:53:07",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Sula Vineyards Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SULA_ROID_86807_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-05-19 16:51:08",
+      "an_dt": "19-May-2026 16:51:08",
+      "desc": "Appointment",
+      "sm_name": "Sula Vineyards Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SULA_19052026165100_SE_intimation_for_change_in_CFO_Final.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 16:48:34",
+      "an_dt": "19-May-2026 16:48:34",
+      "desc": "Cessation",
+      "sm_name": "Sula Vineyards Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SULA_19052026164806_SE_intimation_for_change_in_CFO_Final.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 16:44:16",
+      "an_dt": "19-May-2026 16:44:16",
+      "desc": "Change in Management",
+      "sm_name": "Sula Vineyards Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SULA_19052026164403_SE_intimation_for_change_in_CFO_Final.pdf"
+    },
     {
       "sort_date": "2026-05-13 15:18:03",
       "an_dt": "13-May-2026 15:18:03",

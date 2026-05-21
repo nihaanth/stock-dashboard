@@ -8,25 +8,9 @@
   "price": 534.6,
   "market_cap_cr": 6387.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 496.7,
-      "prev_close": 500.05,
-      "volume": 55240,
-      "deliverable_qty": 27064,
-      "delivery_pct": 48.99
-    },
-    {
-      "date": "2026-02-18",
-      "close": 495.25,
-      "prev_close": 496.7,
-      "volume": 20445,
-      "deliverable_qty": 10059,
-      "delivery_pct": 49.2
-    },
     {
       "date": "2026-02-19",
       "close": 483.35,
@@ -458,6 +442,14 @@
       "volume": 41758,
       "deliverable_qty": 21359,
       "delivery_pct": 51.15
+    },
+    {
+      "date": "2026-05-20",
+      "close": 522.2,
+      "prev_close": 522.8,
+      "volume": 11587,
+      "deliverable_qty": 4997,
+      "delivery_pct": 43.13
     }
   ],
   "news": [
@@ -593,20 +585,6 @@
       "desc": "General Updates",
       "sm_name": "Hindustan Foods Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/9136565850_26022026121444_Intimation_Receipt_of_Order_HFL_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 16:00:54",
-      "an_dt": "17-Feb-2026 16:00:54",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Hindustan Foods Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9136565850_17022026160017_Intimation_to_Stock_exchange.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 11:53:43",
-      "an_dt": "17-Feb-2026 11:53:43",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Hindustan Foods Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9136565850_17022026115248_Transcript_Signed.pdf"
     }
   ]
 }

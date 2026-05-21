@@ -8,25 +8,9 @@
   "price": 1515.3,
   "market_cap_cr": 3866.14,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1374.8,
-      "prev_close": 1386.2,
-      "volume": 239578,
-      "deliverable_qty": 95751,
-      "delivery_pct": 39.97
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1354.3,
-      "prev_close": 1374.8,
-      "volume": 101054,
-      "deliverable_qty": 50043,
-      "delivery_pct": 49.52
-    },
     {
       "date": "2026-02-19",
       "close": 1314.0,
@@ -458,9 +442,31 @@
       "volume": 76297,
       "deliverable_qty": 33390,
       "delivery_pct": 43.76
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1617.2,
+      "prev_close": 1561.6,
+      "volume": 252747,
+      "deliverable_qty": 73714,
+      "delivery_pct": 29.17
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 12:14:16",
+      "an_dt": "20-May-2026 12:14:16",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Seamec Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SEAMECLTD_20052026121345_BSENSENewspaperpublicationFinResults20052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 18:36:43",
+      "an_dt": "19-May-2026 18:36:43",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Seamec Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SEAMECLTD_19052026183631_BSENSEAudioRecording19052026.pdf"
+    },
     {
       "sort_date": "2026-05-18 20:10:40",
       "an_dt": "18-May-2026 20:10:40",
@@ -663,13 +669,6 @@
       "desc": "Updates",
       "sm_name": "Seamec Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SEAMECLTD_19022026111534_BSENSESEAMECPRINCESSofhire19022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 08:19:07",
-      "an_dt": "18-Feb-2026 08:19:07",
-      "desc": "Updates",
-      "sm_name": "Seamec Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SEAMECLTD_18022026081858_NSEBSEIntimationoffhireSDforDD18022026.pdf"
     }
   ]
 }

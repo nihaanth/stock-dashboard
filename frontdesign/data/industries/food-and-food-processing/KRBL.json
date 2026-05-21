@@ -8,25 +8,9 @@
   "price": 361.15,
   "market_cap_cr": 8266.36,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 371.25,
-      "prev_close": 356.7,
-      "volume": 704435,
-      "deliverable_qty": 291574,
-      "delivery_pct": 41.39
-    },
-    {
-      "date": "2026-02-18",
-      "close": 379.65,
-      "prev_close": 371.25,
-      "volume": 1084486,
-      "deliverable_qty": 282822,
-      "delivery_pct": 26.08
-    },
     {
       "date": "2026-02-19",
       "close": 373.1,
@@ -458,6 +442,14 @@
       "volume": 1043048,
       "deliverable_qty": 517058,
       "delivery_pct": 49.57
+    },
+    {
+      "date": "2026-05-20",
+      "close": 329.95,
+      "prev_close": 333.2,
+      "volume": 584415,
+      "deliverable_qty": 266954,
+      "delivery_pct": 45.68
     }
   ],
   "news": [
@@ -649,13 +641,6 @@
       "desc": "Resignation",
       "sm_name": "KRBL Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIBHU_19022026190438_STX_Reg_30_ResignationofCS19022026_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 11:43:10",
-      "an_dt": "17-Feb-2026 11:43:10",
-      "desc": "General Updates",
-      "sm_name": "KRBL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIBHU_17022026114248_Stx_ET_17022026_Sd.pdf"
     }
   ]
 }

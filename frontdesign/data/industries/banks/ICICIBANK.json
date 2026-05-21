@@ -8,25 +8,9 @@
   "price": 1351.1,
   "market_cap_cr": 967549.49,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1407.5,
-      "prev_close": 1411.6,
-      "volume": 11756187,
-      "deliverable_qty": 4271702,
-      "delivery_pct": 36.34
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1408.2,
-      "prev_close": 1407.5,
-      "volume": 4758071,
-      "deliverable_qty": 2718133,
-      "delivery_pct": 57.13
-    },
     {
       "date": "2026-02-19",
       "close": 1388.8,
@@ -458,9 +442,31 @@
       "volume": 13918850,
       "deliverable_qty": 9092626,
       "delivery_pct": 65.33
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1237.3,
+      "prev_close": 1240.8,
+      "volume": 14953103,
+      "deliverable_qty": 10326267,
+      "delivery_pct": 69.06
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 18:43:24",
+      "an_dt": "20-May-2026 18:43:24",
+      "desc": "General Updates",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_20052026184105_BSENSE.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 10:52:07",
+      "an_dt": "19-May-2026 10:52:07",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_19052026105146_Lettertoexchange.pdf"
+    },
     {
       "sort_date": "2026-05-18 07:51:27",
       "an_dt": "18-May-2026 07:51:27",
@@ -824,20 +830,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "ICICI Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_20022026105855_LETTER_TO_EXCHANGE.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:47:23",
-      "an_dt": "17-Feb-2026 12:47:23",
-      "desc": "General Updates",
-      "sm_name": "ICICI Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICI2022_17022026124624_BSENSE.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 11:30:46",
-      "an_dt": "17-Feb-2026 11:30:46",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "ICICI Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_17022026113032_Lettertoexchange.pdf"
     }
   ]
 }

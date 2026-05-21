@@ -8,25 +8,9 @@
   "price": 127.29,
   "market_cap_cr": 2581.66,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 122.44,
-      "prev_close": 116.61,
-      "volume": 883589,
-      "deliverable_qty": 389873,
-      "delivery_pct": 44.12
-    },
-    {
-      "date": "2026-02-18",
-      "close": 125.62,
-      "prev_close": 122.44,
-      "volume": 1557022,
-      "deliverable_qty": 462223,
-      "delivery_pct": 29.69
-    },
     {
       "date": "2026-02-19",
       "close": 120.34,
@@ -458,9 +442,24 @@
       "volume": 799686,
       "deliverable_qty": 303215,
       "delivery_pct": 37.92
+    },
+    {
+      "date": "2026-05-20",
+      "close": 126.04,
+      "prev_close": 125.56,
+      "volume": 266496,
+      "deliverable_qty": 115054,
+      "delivery_pct": 43.17
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 12:14:33",
+      "an_dt": "19-May-2026 12:14:33",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "GK Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GKENERGY_19052026121403_Transcript_sd.pdf"
+    },
     {
       "sort_date": "2026-05-14 15:34:06",
       "an_dt": "14-May-2026 15:34:06",

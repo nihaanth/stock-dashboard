@@ -8,25 +8,9 @@
   "price": 12843.0,
   "market_cap_cr": 51588.17,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 9556.0,
-      "prev_close": 9524.0,
-      "volume": 31823,
-      "deliverable_qty": 15440,
-      "delivery_pct": 48.52
-    },
-    {
-      "date": "2026-02-18",
-      "close": 10182.0,
-      "prev_close": 9556.0,
-      "volume": 465984,
-      "deliverable_qty": 127125,
-      "delivery_pct": 27.28
-    },
     {
       "date": "2026-02-19",
       "close": 10063.5,
@@ -458,9 +442,24 @@
       "volume": 116704,
       "deliverable_qty": 50062,
       "delivery_pct": 42.9
+    },
+    {
+      "date": "2026-05-20",
+      "close": 12676.0,
+      "prev_close": 12327.0,
+      "volume": 77431,
+      "deliverable_qty": 24384,
+      "delivery_pct": 31.49
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 18:21:33",
+      "an_dt": "19-May-2026 18:21:33",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Apar Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APARINDSSM_19052026182102_PublishedAdvertisement.pdf"
+    },
     {
       "sort_date": "2026-05-18 18:43:45",
       "an_dt": "18-May-2026 18:43:45",

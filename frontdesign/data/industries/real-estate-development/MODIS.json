@@ -8,25 +8,9 @@
   "price": 368.6,
   "market_cap_cr": 722.13,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 325.55,
-      "prev_close": 334.25,
-      "volume": 7751,
-      "deliverable_qty": 6672,
-      "delivery_pct": 86.08
-    },
-    {
-      "date": "2026-02-18",
-      "close": 329.9,
-      "prev_close": 325.55,
-      "volume": 14903,
-      "deliverable_qty": 11101,
-      "delivery_pct": 74.49
-    },
     {
       "date": "2026-02-19",
       "close": 322.65,
@@ -458,6 +442,14 @@
       "volume": 21635,
       "deliverable_qty": 13465,
       "delivery_pct": 62.24
+    },
+    {
+      "date": "2026-05-20",
+      "close": 348.8,
+      "prev_close": 349.2,
+      "volume": 7326,
+      "deliverable_qty": 4444,
+      "delivery_pct": 60.66
     }
   ],
   "news": [
@@ -579,20 +571,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Modis Navnirman Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MODIS_20022026200349_MNL_2025_26_Q3_9Months_Conference_Transript-WCL-Outcome-output.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:38:57",
-      "an_dt": "17-Feb-2026 17:38:57",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Modis Navnirman Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MODIS_17022026173821_Concall_intimation_-_Q3_FY26_AUDIO.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 13:24:45",
-      "an_dt": "17-Feb-2026 13:24:45",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Modis Navnirman Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MODIS_17022026132402_Covering_Letter_for_News_Add-new-output.pdf"
     }
   ]
 }

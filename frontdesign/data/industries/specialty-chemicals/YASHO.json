@@ -8,25 +8,9 @@
   "price": 1713.8,
   "market_cap_cr": 2069.5,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1496.4,
-      "prev_close": 1460.9,
-      "volume": 60435,
-      "deliverable_qty": 41546,
-      "delivery_pct": 68.74
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1498.5,
-      "prev_close": 1496.4,
-      "volume": 17492,
-      "deliverable_qty": 12578,
-      "delivery_pct": 71.91
-    },
     {
       "date": "2026-02-19",
       "close": 1490.1,
@@ -458,9 +442,38 @@
       "volume": 16211,
       "deliverable_qty": 9699,
       "delivery_pct": 59.83
+    },
+    {
+      "date": "2026-05-20",
+      "close": 2058.9,
+      "prev_close": 1818.8,
+      "volume": 264019,
+      "deliverable_qty": 61879,
+      "delivery_pct": 23.44
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 11:18:18",
+      "an_dt": "20-May-2026 11:18:18",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Yasho Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/8291904474_20052026111758_audio_intimation_revised.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 17:30:43",
+      "an_dt": "19-May-2026 17:30:43",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Yasho Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/8291904474_19052026173027_audio_intimation.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 14:31:32",
+      "an_dt": "19-May-2026 14:31:32",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Yasho Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/8291904474_19052026143118_newspaper_results_Q4FY26.pdf"
+    },
     {
       "sort_date": "2026-05-18 21:27:36",
       "an_dt": "18-May-2026 21:27:36",
@@ -544,13 +557,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Yasho Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/8291904474_24022026180516_intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 15:57:49",
-      "an_dt": "17-Feb-2026 15:57:49",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Yasho Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/8291904474_17022026155740_Intimation_Transcript_Q3FY26.pdf"
     }
   ]
 }

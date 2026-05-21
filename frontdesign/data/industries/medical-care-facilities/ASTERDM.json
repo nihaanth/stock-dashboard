@@ -8,25 +8,9 @@
   "price": 666.05,
   "market_cap_cr": 34438.76,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 625.9,
-      "prev_close": 620.65,
-      "volume": 697704,
-      "deliverable_qty": 334329,
-      "delivery_pct": 47.92
-    },
-    {
-      "date": "2026-02-18",
-      "close": 629.2,
-      "prev_close": 625.9,
-      "volume": 426300,
-      "deliverable_qty": 229540,
-      "delivery_pct": 53.84
-    },
     {
       "date": "2026-02-19",
       "close": 636.8,
@@ -458,9 +442,31 @@
       "volume": 646189,
       "deliverable_qty": 362892,
       "delivery_pct": 56.16
+    },
+    {
+      "date": "2026-05-20",
+      "close": 764.85,
+      "prev_close": 748.9,
+      "volume": 522688,
+      "deliverable_qty": 259900,
+      "delivery_pct": 49.72
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 10:42:02",
+      "an_dt": "19-May-2026 10:42:02",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Aster DM Healthcare Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20042026133814_13.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 10:40:40",
+      "an_dt": "19-May-2026 10:40:40",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Aster DM Healthcare Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20042026133730_12.pdf"
+    },
     {
       "sort_date": "2026-05-18 17:39:21",
       "an_dt": "18-May-2026 17:39:21",

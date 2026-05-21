@@ -8,25 +8,9 @@
   "price": 498.9,
   "market_cap_cr": 21737.26,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 460.6,
-      "prev_close": 462.05,
-      "volume": 165412,
-      "deliverable_qty": 116773,
-      "delivery_pct": 70.6
-    },
-    {
-      "date": "2026-02-18",
-      "close": 471.7,
-      "prev_close": 460.6,
-      "volume": 227782,
-      "deliverable_qty": 94867,
-      "delivery_pct": 41.65
-    },
     {
       "date": "2026-02-19",
       "close": 476.0,
@@ -458,9 +442,24 @@
       "volume": 225286,
       "deliverable_qty": 119869,
       "delivery_pct": 53.21
+    },
+    {
+      "date": "2026-05-20",
+      "close": 479.7,
+      "prev_close": 472.7,
+      "volume": 428454,
+      "deliverable_qty": 244055,
+      "delivery_pct": 56.96
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 12:19:36",
+      "an_dt": "19-May-2026 12:19:36",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aadhar Housing Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AHFL2021_19052026121921_Analyst_meet_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-11 17:09:41",
       "an_dt": "11-May-2026 17:09:41",

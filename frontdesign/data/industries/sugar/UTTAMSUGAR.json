@@ -8,25 +8,9 @@
   "price": 245.32,
   "market_cap_cr": 938.18,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 210.24,
-      "prev_close": 208.35,
-      "volume": 71147,
-      "deliverable_qty": 38340,
-      "delivery_pct": 53.89
-    },
-    {
-      "date": "2026-02-18",
-      "close": 208.18,
-      "prev_close": 210.24,
-      "volume": 32468,
-      "deliverable_qty": 21853,
-      "delivery_pct": 67.31
-    },
     {
       "date": "2026-02-19",
       "close": 201.06,
@@ -458,6 +442,14 @@
       "volume": 59544,
       "deliverable_qty": 31827,
       "delivery_pct": 53.45
+    },
+    {
+      "date": "2026-05-20",
+      "close": 245.25,
+      "prev_close": 245.6,
+      "volume": 82693,
+      "deliverable_qty": 26393,
+      "delivery_pct": 31.92
     }
   ],
   "news": [
@@ -558,13 +550,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Uttam Sugar Mills Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/UTTAMSUGAR_19032026171129_ScrutinizerReportAndVotingResultsSigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 16:00:23",
-      "an_dt": "17-Feb-2026 16:00:23",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Uttam Sugar Mills Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UTTAMSUGAR_17022026160013_Newspaperadvertisementsigned.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 168.08,
   "market_cap_cr": 592.85,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 161.91,
-      "prev_close": 163.57,
-      "volume": 37266,
-      "deliverable_qty": 24450,
-      "delivery_pct": 65.61
-    },
-    {
-      "date": "2026-02-18",
-      "close": 160.05,
-      "prev_close": 161.91,
-      "volume": 34596,
-      "deliverable_qty": 18152,
-      "delivery_pct": 52.47
-    },
     {
       "date": "2026-02-19",
       "close": 159.04,
@@ -458,9 +442,24 @@
       "volume": 33500,
       "deliverable_qty": 23501,
       "delivery_pct": 70.15
+    },
+    {
+      "date": "2026-05-20",
+      "close": 176.27,
+      "prev_close": 173.17,
+      "volume": 45152,
+      "deliverable_qty": 29438,
+      "delivery_pct": 65.2
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 19:01:57",
+      "an_dt": "20-May-2026 19:01:57",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "S Chand And Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_16042026181445_SCHAND1.pdf"
+    },
     {
       "sort_date": "2026-05-15 16:36:23",
       "an_dt": "15-May-2026 16:36:23",

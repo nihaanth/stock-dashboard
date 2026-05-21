@@ -8,25 +8,9 @@
   "price": 142.24,
   "market_cap_cr": 1121.47,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 114.03,
-      "prev_close": 111.92,
-      "volume": 1503754,
-      "deliverable_qty": 977074,
-      "delivery_pct": 64.98
-    },
-    {
-      "date": "2026-02-18",
-      "close": 113.43,
-      "prev_close": 114.03,
-      "volume": 516449,
-      "deliverable_qty": 242603,
-      "delivery_pct": 46.98
-    },
     {
       "date": "2026-02-19",
       "close": 110.62,
@@ -458,6 +442,14 @@
       "volume": 774954,
       "deliverable_qty": 262026,
       "delivery_pct": 33.81
+    },
+    {
+      "date": "2026-05-20",
+      "close": 140.39,
+      "prev_close": 143.33,
+      "volume": 436779,
+      "deliverable_qty": 108942,
+      "delivery_pct": 24.94
     }
   ],
   "news": [
@@ -600,13 +592,6 @@
       "desc": "Resignation",
       "sm_name": "Gujarat Kidney And Super Speciality Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GKSL2025_03032026134057_Intimation_of_Resignation_of_CS.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 13:15:15",
-      "an_dt": "17-Feb-2026 13:15:15",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Gujarat Kidney And Super Speciality Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GKSL2025_17022026131431_ilovepdf_merged_compressed.pdf"
     }
   ]
 }

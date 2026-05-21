@@ -8,25 +8,9 @@
   "price": 1688.0,
   "market_cap_cr": 15730.49,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 3609.7,
-      "prev_close": 3629.2,
-      "volume": 274920,
-      "deliverable_qty": 59512,
-      "delivery_pct": 21.65
-    },
-    {
-      "date": "2026-02-18",
-      "close": 3646.4,
-      "prev_close": 3609.7,
-      "volume": 124991,
-      "deliverable_qty": 39464,
-      "delivery_pct": 31.57
-    },
     {
       "date": "2026-02-19",
       "close": 3580.8,
@@ -458,9 +442,31 @@
       "volume": 195399,
       "deliverable_qty": 81042,
       "delivery_pct": 41.48
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1518.1,
+      "prev_close": 1553.8,
+      "volume": 181636,
+      "deliverable_qty": 68725,
+      "delivery_pct": 37.84
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 16:47:48",
+      "an_dt": "19-May-2026 16:47:48",
+      "desc": "Updates",
+      "sm_name": "eClerx Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ECLERX_19052026164518_BSENSEInvMeetNipponLifeIndiaAssetManagement19052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 13:09:54",
+      "an_dt": "19-May-2026 13:09:54",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "eClerx Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ECLERX_19052026130939_TranscriptEarningCall31032026.pdf"
+    },
     {
       "sort_date": "2026-05-15 18:37:41",
       "an_dt": "15-May-2026 18:37:41",
@@ -649,13 +655,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "eClerx Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ECLERX_19022026171923_BSENSEInvMeetMotilalOswalAssetManagementCompanyLtd19022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 15:37:26",
-      "an_dt": "17-Feb-2026 15:37:26",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "eClerx Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ECLERX_17022026153712_BSENSEInvMeetWhiteOakCapitalAssetManagementLtd17022026.pdf"
     }
   ]
 }

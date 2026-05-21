@@ -8,25 +8,9 @@
   "price": 307.6,
   "market_cap_cr": 1408.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 293.75,
-      "prev_close": 295.75,
-      "volume": 769686,
-      "deliverable_qty": 183174,
-      "delivery_pct": 23.8
-    },
-    {
-      "date": "2026-02-18",
-      "close": 316.85,
-      "prev_close": 293.75,
-      "volume": 2346025,
-      "deliverable_qty": 280077,
-      "delivery_pct": 11.94
-    },
     {
       "date": "2026-02-19",
       "close": 322.2,
@@ -458,6 +442,14 @@
       "volume": 213028,
       "deliverable_qty": 91161,
       "delivery_pct": 42.79
+    },
+    {
+      "date": "2026-05-20",
+      "close": 269.85,
+      "prev_close": 267.7,
+      "volume": 106824,
+      "deliverable_qty": 29458,
+      "delivery_pct": 27.58
     }
   ],
   "news": [
@@ -544,13 +536,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Orient Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Orient97_24022026172802_Intimation_of_Postal_Ballot_Notice_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:06:06",
-      "an_dt": "17-Feb-2026 18:06:06",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Orient Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Orient97_17022026175847_OutcomeofBM13022026Final_signed.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 3472.9,
   "market_cap_cr": 13566.09,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 2833.0,
-      "prev_close": 2809.2,
-      "volume": 82953,
-      "deliverable_qty": 60470,
-      "delivery_pct": 72.9
-    },
-    {
-      "date": "2026-02-18",
-      "close": 2865.6,
-      "prev_close": 2833.0,
-      "volume": 100019,
-      "deliverable_qty": 59233,
-      "delivery_pct": 59.22
-    },
     {
       "date": "2026-02-19",
       "close": 2883.5,
@@ -458,9 +442,24 @@
       "volume": 73232,
       "deliverable_qty": 40005,
       "delivery_pct": 54.63
+    },
+    {
+      "date": "2026-05-20",
+      "close": 3173.0,
+      "prev_close": 3086.0,
+      "volume": 88932,
+      "deliverable_qty": 57219,
+      "delivery_pct": 64.34
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 11:01:12",
+      "an_dt": "19-May-2026 11:01:12",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Privi Speciality Chemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20042026154434_PRIVISCL.pdf"
+    },
     {
       "sort_date": "2026-05-18 16:01:47",
       "an_dt": "18-May-2026 16:01:47",
@@ -607,13 +606,6 @@
       "desc": "General Updates",
       "sm_name": "Privi Speciality Chemicals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FAIRCHEMDP_10032026180408_LettertoBSENSEReg30InvestmentinSolarPower10032026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 16:35:04",
-      "an_dt": "17-Feb-2026 16:35:04",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Privi Speciality Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FAIRCHEMDP_17022026163439_LettertoBSEandNSECancellationofCall.pdf"
     }
   ]
 }

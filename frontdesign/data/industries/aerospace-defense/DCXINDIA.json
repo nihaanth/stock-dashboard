@@ -8,25 +8,9 @@
   "price": 175.13,
   "market_cap_cr": 1951.01,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 185.43,
-      "prev_close": 178.06,
-      "volume": 1217690,
-      "deliverable_qty": 369733,
-      "delivery_pct": 30.36
-    },
-    {
-      "date": "2026-02-18",
-      "close": 183.11,
-      "prev_close": 185.43,
-      "volume": 956278,
-      "deliverable_qty": 256137,
-      "delivery_pct": 26.78
-    },
     {
       "date": "2026-02-19",
       "close": 179.24,
@@ -458,6 +442,14 @@
       "volume": 872489,
       "deliverable_qty": 366927,
       "delivery_pct": 42.06
+    },
+    {
+      "date": "2026-05-20",
+      "close": 193.98,
+      "prev_close": 194.98,
+      "volume": 995274,
+      "deliverable_qty": 431122,
+      "delivery_pct": 43.32
     }
   ],
   "news": [
@@ -579,13 +571,6 @@
       "desc": "Press Release",
       "sm_name": "DCX Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCX_2022_03032026182308_PRESS_RELEASE.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 16:41:28",
-      "an_dt": "18-Feb-2026 16:41:28",
-      "desc": "General Updates",
-      "sm_name": "DCX Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCX_2022_18022026164116_Receipt_of_Purchase_Orders_-_18th_February_2026.pdf"
     }
   ]
 }

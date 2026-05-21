@@ -8,25 +8,9 @@
   "price": 114.54,
   "market_cap_cr": 53527.15,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 120.06,
-      "prev_close": 120.07,
-      "volume": 2621732,
-      "deliverable_qty": 1357725,
-      "delivery_pct": 51.79
-    },
-    {
-      "date": "2026-02-18",
-      "close": 120.1,
-      "prev_close": 120.06,
-      "volume": 2993084,
-      "deliverable_qty": 1355224,
-      "delivery_pct": 45.28
-    },
     {
       "date": "2026-02-19",
       "close": 118.62,
@@ -458,9 +442,24 @@
       "volume": 17147994,
       "deliverable_qty": 7155357,
       "delivery_pct": 41.73
+    },
+    {
+      "date": "2026-05-20",
+      "close": 122.14,
+      "prev_close": 121.56,
+      "volume": 8861120,
+      "deliverable_qty": 4342282,
+      "delivery_pct": 49.0
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 13:38:29",
+      "an_dt": "19-May-2026 13:38:29",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Vishal Mega Mart Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VMMP2024_19052026133703_Disclosure_Transcript_VMM_May_2026_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-18 13:52:48",
       "an_dt": "18-May-2026 13:52:48",

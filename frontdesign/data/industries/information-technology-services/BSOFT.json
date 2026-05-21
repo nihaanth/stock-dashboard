@@ -8,25 +8,9 @@
   "price": 365.05,
   "market_cap_cr": 10202.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 385.85,
-      "prev_close": 390.4,
-      "volume": 2461016,
-      "deliverable_qty": 570576,
-      "delivery_pct": 23.18
-    },
-    {
-      "date": "2026-02-18",
-      "close": 375.8,
-      "prev_close": 385.85,
-      "volume": 1489630,
-      "deliverable_qty": 495204,
-      "delivery_pct": 33.24
-    },
     {
       "date": "2026-02-19",
       "close": 385.95,
@@ -458,6 +442,14 @@
       "volume": 1080302,
       "deliverable_qty": 397205,
       "delivery_pct": 36.77
+    },
+    {
+      "date": "2026-05-20",
+      "close": 319.6,
+      "prev_close": 320.9,
+      "volume": 696599,
+      "deliverable_qty": 322206,
+      "delivery_pct": 46.25
     }
   ],
   "news": [
@@ -614,13 +606,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "BIRLASOFT LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BSOFT_20022026115152_SEIntimationNP.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:25:04",
-      "an_dt": "17-Feb-2026 18:25:04",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "BIRLASOFT LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BSOFT_17022026182159_SEOutcome.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 1034.2,
   "market_cap_cr": 28186.78,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1071.4,
-      "prev_close": 1071.4,
-      "volume": 14608,
-      "deliverable_qty": 6947,
-      "delivery_pct": 47.56
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1069.2,
-      "prev_close": 1071.4,
-      "volume": 30340,
-      "deliverable_qty": 12201,
-      "delivery_pct": 40.21
-    },
     {
       "date": "2026-02-19",
       "close": 1055.8,
@@ -458,9 +442,59 @@
       "volume": 31110,
       "deliverable_qty": 15206,
       "delivery_pct": 48.88
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1042.8,
+      "prev_close": 1052.0,
+      "volume": 15714,
+      "deliverable_qty": 7202,
+      "delivery_pct": 45.83
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 19:58:22",
+      "an_dt": "20-May-2026 19:58:22",
+      "desc": "Dividend",
+      "sm_name": "Metro Brands Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/METROBRAND_20052026195752_20052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 19:56:14",
+      "an_dt": "20-May-2026 19:56:14",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Metro Brands Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/METROBRAND_20052026195606_20052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 19:47:07",
+      "an_dt": "20-May-2026 19:47:07",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Metro Brands Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/METROBRAND_20052026194403_20052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 19:35:02",
+      "an_dt": "20-May-2026 19:35:02",
+      "desc": "Change in Auditors",
+      "sm_name": "Metro Brands Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/METROBRAND_20052026193444_Reg_30_-_Appointment_of_Internal_Auditor_final_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 19:33:18",
+      "an_dt": "20-May-2026 19:33:18",
+      "desc": "Investor Presentation",
+      "sm_name": "Metro Brands Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/METROBRAND_20052026193244_Earnings_Presentation_FY26-disclosure_final_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 19:26:19",
+      "an_dt": "20-May-2026 19:26:19",
+      "desc": "Press Release",
+      "sm_name": "Metro Brands Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/METROBRAND_20052026192608_Press_release_final_signed.pdf"
+    },
     {
       "sort_date": "2026-05-13 18:09:14",
       "an_dt": "13-May-2026 18:09:14",
@@ -544,13 +578,6 @@
       "desc": "General Updates",
       "sm_name": "Metro Brands Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/METROBRAND_20022026164903_NSE_ESG_rating_discl_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:24:42",
-      "an_dt": "17-Feb-2026 12:24:42",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Metro Brands Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/METROBRAND_17022026122435_IntimationtoSE.pdf"
     }
   ]
 }

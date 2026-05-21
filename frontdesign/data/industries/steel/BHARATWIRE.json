@@ -8,25 +8,9 @@
   "price": 252.83,
   "market_cap_cr": 1734.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 175.1,
-      "prev_close": 175.46,
-      "volume": 95939,
-      "deliverable_qty": 52389,
-      "delivery_pct": 54.61
-    },
-    {
-      "date": "2026-02-18",
-      "close": 186.96,
-      "prev_close": 175.1,
-      "volume": 6932713,
-      "deliverable_qty": 649865,
-      "delivery_pct": 9.37
-    },
     {
       "date": "2026-02-19",
       "close": 185.21,
@@ -458,6 +442,14 @@
       "volume": 869944,
       "deliverable_qty": 315802,
       "delivery_pct": 36.3
+    },
+    {
+      "date": "2026-05-20",
+      "close": 218.8,
+      "prev_close": 218.3,
+      "volume": 325593,
+      "deliverable_qty": 107959,
+      "delivery_pct": 33.16
     }
   ],
   "news": [
@@ -565,13 +557,6 @@
       "desc": "Investor Presentation",
       "sm_name": "Bharat Wire Ropes Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARATWIRE_20022026183833_Investor_Presentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 15:11:02",
-      "an_dt": "17-Feb-2026 15:11:02",
-      "desc": "Investor Presentation",
-      "sm_name": "Bharat Wire Ropes Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARATWIRE_17022026151050_IntimationSD.pdf"
     }
   ]
 }

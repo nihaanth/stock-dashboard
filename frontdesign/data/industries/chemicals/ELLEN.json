@@ -8,25 +8,9 @@
   "price": 296.8,
   "market_cap_cr": 4182.97,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 245.75,
-      "prev_close": 233.35,
-      "volume": 349218,
-      "deliverable_qty": 214055,
-      "delivery_pct": 61.3
-    },
-    {
-      "date": "2026-02-18",
-      "close": 254.05,
-      "prev_close": 245.75,
-      "volume": 850799,
-      "deliverable_qty": 333962,
-      "delivery_pct": 39.25
-    },
     {
       "date": "2026-02-19",
       "close": 245.95,
@@ -458,9 +442,31 @@
       "volume": 300180,
       "deliverable_qty": 132191,
       "delivery_pct": 44.04
+    },
+    {
+      "date": "2026-05-20",
+      "close": 282.2,
+      "prev_close": 279.55,
+      "volume": 200002,
+      "deliverable_qty": 83263,
+      "delivery_pct": 41.63
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 10:10:32",
+      "an_dt": "20-May-2026 10:10:32",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Ellenbarrie Industrial Gases Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20042026180739_ELLEN.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 09:26:38",
+      "an_dt": "19-May-2026 09:26:38",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Ellenbarrie Industrial Gases Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELLENBARRIE2024_19052026092629_Announcement_Earnings_Conference_Call_25052026.pdf"
+    },
     {
       "sort_date": "2026-05-15 15:11:22",
       "an_dt": "15-May-2026 15:11:22",

@@ -8,25 +8,9 @@
   "price": 1987.0,
   "market_cap_cr": 94996.21,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1751.2,
-      "prev_close": 1727.4,
-      "volume": 1658775,
-      "deliverable_qty": 863088,
-      "delivery_pct": 52.03
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1771.4,
-      "prev_close": 1751.2,
-      "volume": 1977808,
-      "deliverable_qty": 1261138,
-      "delivery_pct": 63.76
-    },
     {
       "date": "2026-02-19",
       "close": 1758.2,
@@ -458,9 +442,24 @@
       "volume": 472953,
       "deliverable_qty": 202781,
       "delivery_pct": 42.88
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1888.2,
+      "prev_close": 1857.3,
+      "volume": 953954,
+      "deliverable_qty": 411265,
+      "delivery_pct": 43.11
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 12:02:58",
+      "an_dt": "19-May-2026 12:02:58",
+      "desc": "Press Release",
+      "sm_name": "Bharat Forge Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANILSHINDE_19052026120241_SEIntimationPressRelease_signed.pdf"
+    },
     {
       "sort_date": "2026-05-15 15:22:31",
       "an_dt": "15-May-2026 15:22:31",
@@ -719,13 +718,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Bharat Forge Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANILSHINDE_27022026125714_SEIntimationInvestorcall.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 15:28:52",
-      "an_dt": "18-Feb-2026 15:28:52",
-      "desc": "Press Release",
-      "sm_name": "Bharat Forge Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANILSHINDE_18022026152824_SEIntimationPressRelease.pdf"
     }
   ]
 }

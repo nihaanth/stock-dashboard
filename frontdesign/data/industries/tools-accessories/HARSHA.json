@@ -8,25 +8,9 @@
   "price": 410.85,
   "market_cap_cr": 3740.55,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 382.25,
-      "prev_close": 379.7,
-      "volume": 13130,
-      "deliverable_qty": 7774,
-      "delivery_pct": 59.21
-    },
-    {
-      "date": "2026-02-18",
-      "close": 387.6,
-      "prev_close": 382.25,
-      "volume": 23469,
-      "deliverable_qty": 13331,
-      "delivery_pct": 56.8
-    },
     {
       "date": "2026-02-19",
       "close": 380.05,
@@ -458,9 +442,24 @@
       "volume": 72341,
       "deliverable_qty": 37911,
       "delivery_pct": 52.41
+    },
+    {
+      "date": "2026-05-20",
+      "close": 404.35,
+      "prev_close": 408.25,
+      "volume": 81569,
+      "deliverable_qty": 35739,
+      "delivery_pct": 43.81
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 11:18:55",
+      "an_dt": "19-May-2026 11:18:55",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Harsha Engineers International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20042026160340_HARSHA.pdf"
+    },
     {
       "sort_date": "2026-05-12 14:16:09",
       "an_dt": "12-May-2026 14:16:09",

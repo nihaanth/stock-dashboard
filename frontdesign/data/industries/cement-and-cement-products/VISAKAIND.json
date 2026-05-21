@@ -8,25 +8,9 @@
   "price": 76.91,
   "market_cap_cr": 664.54,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 64.89,
-      "prev_close": 65.05,
-      "volume": 51347,
-      "deliverable_qty": 31868,
-      "delivery_pct": 62.06
-    },
-    {
-      "date": "2026-02-18",
-      "close": 64.54,
-      "prev_close": 64.89,
-      "volume": 25752,
-      "deliverable_qty": 13463,
-      "delivery_pct": 52.28
-    },
     {
       "date": "2026-02-19",
       "close": 64.27,
@@ -458,9 +442,24 @@
       "volume": 350000,
       "deliverable_qty": 203080,
       "delivery_pct": 58.02
+    },
+    {
+      "date": "2026-05-20",
+      "close": 72.42,
+      "prev_close": 73.61,
+      "volume": 100280,
+      "deliverable_qty": 63638,
+      "delivery_pct": 63.46
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 13:03:38",
+      "an_dt": "19-May-2026 13:03:38",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Visaka Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VISAKAIND_19052026130324_Newspaper_Announcement_Intimation_signed.pdf"
+    },
     {
       "sort_date": "2026-05-18 18:09:16",
       "an_dt": "18-May-2026 18:09:16",
@@ -572,13 +571,6 @@
       "desc": "General Updates",
       "sm_name": "Visaka Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VISAKAIND_23022026165521_Regulation_30-Intimation_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 14:50:26",
-      "an_dt": "18-Feb-2026 14:50:26",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Visaka Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VISAKAIND_18022026144951_Intimation_to_Stock_Exchange_Signed.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 385.5,
   "market_cap_cr": 4208.22,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 319.05,
-      "prev_close": 316.35,
-      "volume": 20487,
-      "deliverable_qty": 14154,
-      "delivery_pct": 69.09
-    },
-    {
-      "date": "2026-02-18",
-      "close": 340.75,
-      "prev_close": 319.05,
-      "volume": 403562,
-      "deliverable_qty": 82449,
-      "delivery_pct": 20.43
-    },
     {
       "date": "2026-02-19",
       "close": 327.25,
@@ -458,9 +442,31 @@
       "volume": 213076,
       "deliverable_qty": 94190,
       "delivery_pct": 44.2
+    },
+    {
+      "date": "2026-05-20",
+      "close": 355.6,
+      "prev_close": 356.25,
+      "volume": 79547,
+      "deliverable_qty": 26044,
+      "delivery_pct": 32.74
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 21:17:03",
+      "an_dt": "20-May-2026 21:17:03",
+      "desc": "General Updates",
+      "sm_name": "Gujarat Themis Biosyn Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GUJARATTHEMIS_20052026211652_Reg30IntimationGTBL20052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 19:46:26",
+      "an_dt": "19-May-2026 19:46:26",
+      "desc": "General Updates",
+      "sm_name": "Gujarat Themis Biosyn Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GUJARATTHEMIS_19052026194614_Reg30IntimationGTBL19052026.pdf"
+    },
     {
       "sort_date": "2026-05-06 12:21:11",
       "an_dt": "06-May-2026 12:21:11",

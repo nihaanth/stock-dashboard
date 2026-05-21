@@ -8,25 +8,9 @@
   "price": 407.0,
   "market_cap_cr": 7624.74,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 360.35,
-      "prev_close": 361.65,
-      "volume": 320210,
-      "deliverable_qty": 121676,
-      "delivery_pct": 38.0
-    },
-    {
-      "date": "2026-02-18",
-      "close": 365.0,
-      "prev_close": 360.35,
-      "volume": 359681,
-      "deliverable_qty": 113765,
-      "delivery_pct": 31.63
-    },
     {
       "date": "2026-02-19",
       "close": 353.2,
@@ -458,6 +442,14 @@
       "volume": 650278,
       "deliverable_qty": 223534,
       "delivery_pct": 34.38
+    },
+    {
+      "date": "2026-05-20",
+      "close": 398.65,
+      "prev_close": 388.65,
+      "volume": 1215484,
+      "deliverable_qty": 387479,
+      "delivery_pct": 31.88
     }
   ],
   "news": [
@@ -537,13 +529,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Mishra Dhatu Nigam Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MIDHANI_21022026145118_MDN_ConcallTranscript_Q3Dec2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 16:31:15",
-      "an_dt": "17-Feb-2026 16:31:15",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Mishra Dhatu Nigam Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MIDHANI_17022026163106_MDN_Q3ConcallOutcome_17Feb2026.PDF"
     }
   ]
 }

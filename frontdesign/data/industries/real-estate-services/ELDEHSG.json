@@ -8,25 +8,9 @@
   "price": 866.65,
   "market_cap_cr": 852.18,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 888.9,
-      "prev_close": 891.15,
-      "volume": 3215,
-      "deliverable_qty": 1786,
-      "delivery_pct": 55.55
-    },
-    {
-      "date": "2026-02-18",
-      "close": 866.65,
-      "prev_close": 888.9,
-      "volume": 2657,
-      "deliverable_qty": 1610,
-      "delivery_pct": 60.59
-    },
     {
       "date": "2026-02-19",
       "close": 877.45,
@@ -458,9 +442,24 @@
       "volume": 449,
       "deliverable_qty": 348,
       "delivery_pct": 77.51
+    },
+    {
+      "date": "2026-05-20",
+      "close": 850.0,
+      "prev_close": 818.85,
+      "volume": 318,
+      "deliverable_qty": 313,
+      "delivery_pct": 98.43
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 18:10:34",
+      "an_dt": "19-May-2026 18:10:34",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Eldeco Housing And Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELDECO_19052026181025_IntimationtoSEInvestorsconcall.pdf"
+    },
     {
       "sort_date": "2026-04-10 18:19:59",
       "an_dt": "10-Apr-2026 18:19:59",

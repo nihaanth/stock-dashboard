@@ -8,25 +8,9 @@
   "price": 4211.6,
   "market_cap_cr": 65828.85,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 3783.6,
-      "prev_close": 3797.2,
-      "volume": 16253,
-      "deliverable_qty": 8213,
-      "delivery_pct": 50.53
-    },
-    {
-      "date": "2026-02-18",
-      "close": 3886.0,
-      "prev_close": 3783.6,
-      "volume": 42372,
-      "deliverable_qty": 22163,
-      "delivery_pct": 52.31
-    },
     {
       "date": "2026-02-19",
       "close": 3838.2,
@@ -458,9 +442,31 @@
       "volume": 69970,
       "deliverable_qty": 40629,
       "delivery_pct": 58.07
+    },
+    {
+      "date": "2026-05-20",
+      "close": 4014.9,
+      "prev_close": 3987.8,
+      "volume": 26992,
+      "deliverable_qty": 12747,
+      "delivery_pct": 47.23
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 15:03:47",
+      "an_dt": "19-May-2026 15:03:47",
+      "desc": "Updates",
+      "sm_name": "Schaeffler India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SCHAEFFLERUSER1_19052026150339_Reg30_Intimation_ESGrating_May2026_SES.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 15:02:47",
+      "an_dt": "19-May-2026 15:02:47",
+      "desc": "Updates",
+      "sm_name": "Schaeffler India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SCHAEFFLERUSER1_19052026150225_Reg30_Intimation_ESGrating_May2026_CRISIL_ESG.pdf"
+    },
     {
       "sort_date": "2026-05-15 11:54:14",
       "an_dt": "15-May-2026 11:54:14",
@@ -677,13 +683,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Schaeffler India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SCHAEFFLERUSER1_24022026171309_Schaeffler_Reg30_BMOutcome_Feb242026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:02:21",
-      "an_dt": "17-Feb-2026 12:02:21",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Schaeffler India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SCHAEFFLERUSER1_17022026120216_Schaeffler_Reg30_Intimation_AnalystCall_Feb252026.pdf"
     }
   ]
 }

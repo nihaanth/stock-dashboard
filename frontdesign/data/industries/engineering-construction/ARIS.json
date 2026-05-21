@@ -8,25 +8,9 @@
   "price": 113.87,
   "market_cap_cr": 931.02,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 111.38,
-      "prev_close": 104.71,
-      "volume": 1703292,
-      "deliverable_qty": 660000,
-      "delivery_pct": 38.75
-    },
-    {
-      "date": "2026-02-18",
-      "close": 116.44,
-      "prev_close": 111.38,
-      "volume": 1832894,
-      "deliverable_qty": 886895,
-      "delivery_pct": 48.39
-    },
     {
       "date": "2026-02-19",
       "close": 114.61,
@@ -458,9 +442,24 @@
       "volume": 1563559,
       "deliverable_qty": 717085,
       "delivery_pct": 45.86
+    },
+    {
+      "date": "2026-05-20",
+      "close": 122.5,
+      "prev_close": 125.06,
+      "volume": 832779,
+      "deliverable_qty": 313640,
+      "delivery_pct": 37.66
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 18:58:35",
+      "an_dt": "19-May-2026 18:58:35",
+      "desc": "Updates",
+      "sm_name": "Arisinfra Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARISINFRA2024_19052026185828_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-15 19:41:56",
       "an_dt": "15-May-2026 19:41:56",
@@ -684,13 +683,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Arisinfra Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARISINFRA2024_27022026140258_Granting_of_ESOPS.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:06:33",
-      "an_dt": "17-Feb-2026 18:06:33",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Arisinfra Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARISINFRA2024_17022026180201_REG30_intimation.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 122.59,
   "market_cap_cr": 12726.93,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 125.1,
-      "prev_close": 121.64,
-      "volume": 3967733,
-      "deliverable_qty": 1605705,
-      "delivery_pct": 40.47
-    },
-    {
-      "date": "2026-02-18",
-      "close": 121.48,
-      "prev_close": 125.1,
-      "volume": 6782784,
-      "deliverable_qty": 2878925,
-      "delivery_pct": 42.44
-    },
     {
       "date": "2026-02-19",
       "close": 118.88,
@@ -458,9 +442,31 @@
       "volume": 5905000,
       "deliverable_qty": 2095305,
       "delivery_pct": 35.48
+    },
+    {
+      "date": "2026-05-20",
+      "close": 124.36,
+      "prev_close": 123.98,
+      "volume": 3265621,
+      "deliverable_qty": 1264592,
+      "delivery_pct": 38.72
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 17:58:23",
+      "an_dt": "20-May-2026 17:58:23",
+      "desc": "Clarification - Financial Results",
+      "sm_name": "Paradeep Phosphates Limited",
+      "attchmntFile": "-"
+    },
+    {
+      "sort_date": "2026-05-19 16:26:15",
+      "an_dt": "19-May-2026 16:26:15",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "Paradeep Phosphates Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PPLTD_19052026162258_IntimationofNCLATorder19052026.pdf"
+    },
     {
       "sort_date": "2026-05-18 16:54:54",
       "an_dt": "18-May-2026 16:54:54",
@@ -614,13 +620,6 @@
       "desc": "Press Release",
       "sm_name": "Paradeep Phosphates Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PPLTD_24022026122901_Pressrelease24022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 15:34:47",
-      "an_dt": "17-Feb-2026 15:34:47",
-      "desc": "Disclosure under SEBI Takeover Regulations",
-      "sm_name": "Paradeep Phosphates Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_17022026153318_PARADEEP.pdf"
     }
   ]
 }

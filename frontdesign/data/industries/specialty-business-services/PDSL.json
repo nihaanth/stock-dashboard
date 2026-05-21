@@ -8,25 +8,9 @@
   "price": 292.95,
   "market_cap_cr": 4152.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 319.8,
-      "prev_close": 323.65,
-      "volume": 40077,
-      "deliverable_qty": 21257,
-      "delivery_pct": 53.04
-    },
-    {
-      "date": "2026-02-18",
-      "close": 317.75,
-      "prev_close": 319.8,
-      "volume": 112522,
-      "deliverable_qty": 67583,
-      "delivery_pct": 60.06
-    },
     {
       "date": "2026-02-19",
       "close": 303.95,
@@ -458,9 +442,24 @@
       "volume": 857754,
       "deliverable_qty": 148650,
       "delivery_pct": 17.33
+    },
+    {
+      "date": "2026-05-20",
+      "close": 294.35,
+      "prev_close": 293.8,
+      "volume": 121336,
+      "deliverable_qty": 63442,
+      "delivery_pct": 52.29
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 17:32:46",
+      "an_dt": "20-May-2026 17:32:46",
+      "desc": "General Updates",
+      "sm_name": "PDS Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_20052026173235_Ltr_KYCletters_20052026.pdf"
+    },
     {
       "sort_date": "2026-05-18 19:49:21",
       "an_dt": "18-May-2026 19:49:21",
@@ -663,20 +662,6 @@
       "desc": "Sale or disposal",
       "sm_name": "PDS Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_26022026203950_Ltr_Brand_Collective_26022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 11:23:51",
-      "an_dt": "18-Feb-2026 11:23:51",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "PDS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_18022026112338_Ltr_Newspaper_Advt_Transfer_Lodgement_18022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 16:17:14",
-      "an_dt": "17-Feb-2026 16:17:14",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "PDS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_17022026161622_Ltr_IntimationofConCallTranscript_17022026_sd.pdf"
     }
   ]
 }

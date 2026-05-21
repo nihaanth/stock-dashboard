@@ -8,25 +8,9 @@
   "price": 139.15,
   "market_cap_cr": 1208.33,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 143.63,
-      "prev_close": 143.74,
-      "volume": 1090820,
-      "deliverable_qty": 549665,
-      "delivery_pct": 50.39
-    },
-    {
-      "date": "2026-02-18",
-      "close": 141.88,
-      "prev_close": 143.63,
-      "volume": 1289080,
-      "deliverable_qty": 103190,
-      "delivery_pct": 8.0
-    },
     {
       "date": "2026-02-19",
       "close": 137.53,
@@ -458,9 +442,24 @@
       "volume": 412622,
       "deliverable_qty": 190494,
       "delivery_pct": 46.17
+    },
+    {
+      "date": "2026-05-20",
+      "close": 135.88,
+      "prev_close": 134.73,
+      "volume": 338727,
+      "deliverable_qty": 154116,
+      "delivery_pct": 45.5
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 16:16:00",
+      "an_dt": "19-May-2026 16:16:00",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Ind-Swift Laboratories Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_16042026165025_INDSWFTLAB.pdf"
+    },
     {
       "sort_date": "2026-05-15 15:27:27",
       "an_dt": "15-May-2026 15:27:27",

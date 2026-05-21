@@ -8,25 +8,9 @@
   "price": 335.0,
   "market_cap_cr": 3530.75,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 315.4,
-      "prev_close": 320.65,
-      "volume": 241458,
-      "deliverable_qty": 151731,
-      "delivery_pct": 62.84
-    },
-    {
-      "date": "2026-02-18",
-      "close": 319.8,
-      "prev_close": 315.4,
-      "volume": 130656,
-      "deliverable_qty": 43113,
-      "delivery_pct": 33.0
-    },
     {
       "date": "2026-02-19",
       "close": 317.45,
@@ -458,9 +442,24 @@
       "volume": 164815,
       "deliverable_qty": 51087,
       "delivery_pct": 31.0
+    },
+    {
+      "date": "2026-05-20",
+      "close": 337.5,
+      "prev_close": 333.05,
+      "volume": 103402,
+      "deliverable_qty": 45595,
+      "delivery_pct": 44.09
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 11:00:26",
+      "an_dt": "19-May-2026 11:00:26",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Flair Writing Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/flair2016_19052026105853_Intimation_of_Investors_meet_28052026.pdf"
+    },
     {
       "sort_date": "2026-05-12 19:50:56",
       "an_dt": "12-May-2026 19:50:56",

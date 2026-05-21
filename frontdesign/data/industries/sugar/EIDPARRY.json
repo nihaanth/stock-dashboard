@@ -8,25 +8,9 @@
   "price": 856.45,
   "market_cap_cr": 15244.22,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 916.45,
-      "prev_close": 899.75,
-      "volume": 232705,
-      "deliverable_qty": 138711,
-      "delivery_pct": 59.61
-    },
-    {
-      "date": "2026-02-18",
-      "close": 909.6,
-      "prev_close": 916.45,
-      "volume": 172137,
-      "deliverable_qty": 89613,
-      "delivery_pct": 52.06
-    },
     {
       "date": "2026-02-19",
       "close": 895.55,
@@ -458,6 +442,14 @@
       "volume": 206121,
       "deliverable_qty": 98009,
       "delivery_pct": 47.55
+    },
+    {
+      "date": "2026-05-20",
+      "close": 798.05,
+      "prev_close": 790.55,
+      "volume": 136681,
+      "deliverable_qty": 74255,
+      "delivery_pct": 54.33
     }
   ],
   "news": [
@@ -572,20 +564,6 @@
       "desc": "Press Release",
       "sm_name": "EID Parry India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIDPARRY1_26022026151111_SENewspaperAdvtSD.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:49:19",
-      "an_dt": "18-Feb-2026 17:49:19",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "EID Parry India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIDPARRY1_18022026174715_SETranscriptSd.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 20:30:47",
-      "an_dt": "17-Feb-2026 20:30:47",
-      "desc": "Updates",
-      "sm_name": "EID Parry India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIDPARRY1_17022026203028_SEPromoterReclassificationSD.pdf"
     }
   ]
 }

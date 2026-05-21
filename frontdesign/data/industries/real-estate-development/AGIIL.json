@@ -8,25 +8,9 @@
   "price": 380.3,
   "market_cap_cr": 4753.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 241.05,
-      "prev_close": 247.6,
-      "volume": 1001935,
-      "deliverable_qty": 190956,
-      "delivery_pct": 19.06
-    },
-    {
-      "date": "2026-02-18",
-      "close": 261.8,
-      "prev_close": 241.05,
-      "volume": 11187336,
-      "deliverable_qty": 1312411,
-      "delivery_pct": 11.73
-    },
     {
       "date": "2026-02-19",
       "close": 263.95,
@@ -458,9 +442,45 @@
       "volume": 2074958,
       "deliverable_qty": 532962,
       "delivery_pct": 25.69
+    },
+    {
+      "date": "2026-05-20",
+      "close": 381.7,
+      "prev_close": 381.35,
+      "volume": 3092420,
+      "deliverable_qty": 727645,
+      "delivery_pct": 23.53
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 18:03:47",
+      "an_dt": "20-May-2026 18:03:47",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Agi Infra Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AGIINFRA_20052026180310_FinancialResults31032026.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 17:50:34",
+      "an_dt": "20-May-2026 17:50:34",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Agi Infra Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AGIINFRA_20052026174857_FinancialResults31032026.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 17:41:59",
+      "an_dt": "20-May-2026 17:41:59",
+      "desc": "Dividend",
+      "sm_name": "Agi Infra Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AGIINFRA_20052026173937_FinancialResults31032026.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 17:29:01",
+      "an_dt": "20-May-2026 17:29:01",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Agi Infra Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AGIINFRA_20052026172618_FinancialResults31032026.pdf"
+    },
     {
       "sort_date": "2026-04-22 18:43:16",
       "an_dt": "22-Apr-2026 18:43:16",

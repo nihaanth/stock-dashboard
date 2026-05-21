@@ -8,25 +8,9 @@
   "price": 1198.8,
   "market_cap_cr": 12541.39,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1145.6,
-      "prev_close": 1163.8,
-      "volume": 79230,
-      "deliverable_qty": 36133,
-      "delivery_pct": 45.61
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1149.4,
-      "prev_close": 1145.6,
-      "volume": 103530,
-      "deliverable_qty": 50350,
-      "delivery_pct": 48.63
-    },
     {
       "date": "2026-02-19",
       "close": 1117.3,
@@ -458,6 +442,14 @@
       "volume": 115670,
       "deliverable_qty": 67798,
       "delivery_pct": 58.61
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1116.0,
+      "prev_close": 1143.5,
+      "volume": 111899,
+      "deliverable_qty": 59375,
+      "delivery_pct": 53.06
     }
   ],
   "news": [
@@ -516,13 +508,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Concord Biotech Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CONCORD_20022026101258_Intimation_to_Stock_Exchanges.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 19:39:45",
-      "an_dt": "18-Feb-2026 19:39:45",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Concord Biotech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CONCORD_18022026193930_Earnings_Call_Transcript_Q3-26.pdf"
     }
   ]
 }

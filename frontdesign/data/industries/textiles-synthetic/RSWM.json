@@ -8,25 +8,9 @@
   "price": 150.55,
   "market_cap_cr": 709.12,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 159.21,
-      "prev_close": 162.99,
-      "volume": 21946,
-      "deliverable_qty": 10505,
-      "delivery_pct": 47.87
-    },
-    {
-      "date": "2026-02-18",
-      "close": 157.94,
-      "prev_close": 159.21,
-      "volume": 14940,
-      "deliverable_qty": 9392,
-      "delivery_pct": 62.86
-    },
     {
       "date": "2026-02-19",
       "close": 153.7,
@@ -458,6 +442,14 @@
       "volume": 60222,
       "deliverable_qty": 34185,
       "delivery_pct": 56.76
+    },
+    {
+      "date": "2026-05-20",
+      "close": 159.85,
+      "prev_close": 157.29,
+      "volume": 18535,
+      "deliverable_qty": 12337,
+      "delivery_pct": 66.56
     }
   ],
   "news": [
@@ -712,13 +704,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "RSWM Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RSWM_21022026130313_pread211022026_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:21:42",
-      "an_dt": "17-Feb-2026 18:21:42",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "RSWM Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RSWM_17022026182115_Transcriptq3.pdf"
     }
   ]
 }

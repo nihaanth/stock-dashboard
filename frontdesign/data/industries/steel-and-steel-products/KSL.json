@@ -8,25 +8,9 @@
   "price": 807.75,
   "market_cap_cr": 3526.08,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 757.55,
-      "prev_close": 745.7,
-      "volume": 11291,
-      "deliverable_qty": 5909,
-      "delivery_pct": 52.33
-    },
-    {
-      "date": "2026-02-18",
-      "close": 764.05,
-      "prev_close": 757.55,
-      "volume": 49471,
-      "deliverable_qty": 22704,
-      "delivery_pct": 45.89
-    },
     {
       "date": "2026-02-19",
       "close": 747.3,
@@ -458,9 +442,31 @@
       "volume": 60023,
       "deliverable_qty": 28954,
       "delivery_pct": 48.24
+    },
+    {
+      "date": "2026-05-20",
+      "close": 818.2,
+      "prev_close": 821.85,
+      "volume": 21178,
+      "deliverable_qty": 10698,
+      "delivery_pct": 50.51
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 10:21:12",
+      "an_dt": "20-May-2026 10:21:12",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Kalyani Steels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KSL_20052026102043_Newspaper_Publication_Reg_30-Postal_Ballot_Advt_19052026_KSL_.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 11:28:51",
+      "an_dt": "19-May-2026 11:28:51",
+      "desc": "Shareholders meeting",
+      "sm_name": "Kalyani Steels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KSL_19052026112831_KSL_Postal_Ballot_Intimation_19_05_2026_.pdf"
+    },
     {
       "sort_date": "2026-05-18 10:04:59",
       "an_dt": "18-May-2026 10:04:59",

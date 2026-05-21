@@ -8,25 +8,9 @@
   "price": 878.25,
   "market_cap_cr": 1363.02,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 850.05,
-      "prev_close": 852.6,
-      "volume": 12513,
-      "deliverable_qty": 7405,
-      "delivery_pct": 59.18
-    },
-    {
-      "date": "2026-02-18",
-      "close": 831.55,
-      "prev_close": 850.05,
-      "volume": 10085,
-      "deliverable_qty": 6358,
-      "delivery_pct": 63.04
-    },
     {
       "date": "2026-02-19",
       "close": 823.55,
@@ -458,9 +442,24 @@
       "volume": 56869,
       "deliverable_qty": 23903,
       "delivery_pct": 42.03
+    },
+    {
+      "date": "2026-05-20",
+      "close": 931.45,
+      "prev_close": 921.6,
+      "volume": 57740,
+      "deliverable_qty": 27103,
+      "delivery_pct": 46.94
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 14:31:27",
+      "an_dt": "19-May-2026 14:31:27",
+      "desc": "Action(s) taken or orders passed",
+      "sm_name": "Expleo Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SQS_19052026143035_Intimationunderregulation30readwithClause20May192026.pdf"
+    },
     {
       "sort_date": "2026-05-14 18:13:02",
       "an_dt": "14-May-2026 18:13:02",
@@ -551,13 +550,6 @@
       "desc": "Action(s) taken or orders passed",
       "sm_name": "Expleo Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SQS_24032026205518_IntimationunderRegulation30readwithClause20-AY2012-13.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 20:44:18",
-      "an_dt": "18-Feb-2026 20:44:18",
-      "desc": "General Updates",
-      "sm_name": "Expleo Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SQS_18022026204400_IntimationforclosureofCoimbatoreCompetenceCentre.pdf"
     }
   ]
 }

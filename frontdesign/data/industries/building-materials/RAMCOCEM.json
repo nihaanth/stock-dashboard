@@ -8,25 +8,9 @@
   "price": 950.5,
   "market_cap_cr": 22459.59,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1164.3,
-      "prev_close": 1151.1,
-      "volume": 109057,
-      "deliverable_qty": 45471,
-      "delivery_pct": 41.69
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1142.9,
-      "prev_close": 1164.3,
-      "volume": 278231,
-      "deliverable_qty": 187395,
-      "delivery_pct": 67.35
-    },
     {
       "date": "2026-02-19",
       "close": 1127.2,
@@ -458,9 +442,24 @@
       "volume": 122351,
       "deliverable_qty": 47421,
       "delivery_pct": 38.76
+    },
+    {
+      "date": "2026-05-20",
+      "close": 879.95,
+      "prev_close": 906.65,
+      "volume": 266786,
+      "deliverable_qty": 140987,
+      "delivery_pct": 52.85
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 15:23:14",
+      "an_dt": "19-May-2026 15:23:14",
+      "desc": "General Updates",
+      "sm_name": "The Ramco Cements Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAMCOCEM_19052026152243_litigmay26.pdf"
+    },
     {
       "sort_date": "2026-05-06 17:46:08",
       "an_dt": "06-May-2026 17:46:08",
@@ -523,13 +522,6 @@
       "desc": "General Updates",
       "sm_name": "The Ramco Cements Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAMCOCEM_26022026175143_noncore.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 19:05:06",
-      "an_dt": "17-Feb-2026 19:05:06",
-      "desc": "General Updates",
-      "sm_name": "The Ramco Cements Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAMCOCEM_17022026190442_esgratings.pdf"
     }
   ]
 }

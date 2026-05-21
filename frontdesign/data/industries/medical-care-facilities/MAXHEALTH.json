@@ -8,25 +8,9 @@
   "price": 1037.95,
   "market_cap_cr": 101017.83,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1076.15,
-      "prev_close": 1075.85,
-      "volume": 1701396,
-      "deliverable_qty": 988950,
-      "delivery_pct": 58.13
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1086.25,
-      "prev_close": 1076.15,
-      "volume": 680966,
-      "deliverable_qty": 341348,
-      "delivery_pct": 50.13
-    },
     {
       "date": "2026-02-19",
       "close": 1081.45,
@@ -458,9 +442,31 @@
       "volume": 1558086,
       "deliverable_qty": 855850,
       "delivery_pct": 54.93
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1075.7,
+      "prev_close": 1068.75,
+      "volume": 1767607,
+      "deliverable_qty": 1140870,
+      "delivery_pct": 64.54
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 13:13:45",
+      "an_dt": "20-May-2026 13:13:45",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Max Healthcare Institute Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAXHEALTH_20052026131305_SE_Intimation_Grant_of_ESOPs.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 22:19:11",
+      "an_dt": "19-May-2026 22:19:11",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "Max Healthcare Institute Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAXHEALTH_19052026221841_SE_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-18 20:19:49",
       "an_dt": "18-May-2026 20:19:49",

@@ -8,25 +8,9 @@
   "price": 1535.0,
   "market_cap_cr": 38943.6,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1491.6,
-      "prev_close": 1495.1,
-      "volume": 287861,
-      "deliverable_qty": 164781,
-      "delivery_pct": 57.24
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1490.6,
-      "prev_close": 1491.6,
-      "volume": 75106,
-      "deliverable_qty": 28997,
-      "delivery_pct": 38.61
-    },
     {
       "date": "2026-02-19",
       "close": 1463.9,
@@ -458,6 +442,14 @@
       "volume": 634585,
       "deliverable_qty": 289066,
       "delivery_pct": 45.55
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1646.6,
+      "prev_close": 1656.2,
+      "volume": 273088,
+      "deliverable_qty": 153285,
+      "delivery_pct": 56.13
     }
   ],
   "news": [
@@ -488,13 +480,6 @@
       "desc": "Trading Window",
       "sm_name": "IPCA Laboratories Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IPCALAB_16032026111917_IpcaClosureofTradingWindow.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 13:40:05",
-      "an_dt": "18-Feb-2026 13:40:05",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "IPCA Laboratories Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IPCALAB_18022026133955_IpcaConcallTranscript16022026.pdf"
     }
   ]
 }

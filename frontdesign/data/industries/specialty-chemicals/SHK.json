@@ -8,25 +8,9 @@
   "price": 149.53,
   "market_cap_cr": 2069.81,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 161.81,
-      "prev_close": 164.61,
-      "volume": 265142,
-      "deliverable_qty": 175682,
-      "delivery_pct": 66.26
-    },
-    {
-      "date": "2026-02-18",
-      "close": 164.74,
-      "prev_close": 161.81,
-      "volume": 396078,
-      "deliverable_qty": 225844,
-      "delivery_pct": 57.02
-    },
     {
       "date": "2026-02-19",
       "close": 156.39,
@@ -458,6 +442,14 @@
       "volume": 1503920,
       "deliverable_qty": 744612,
       "delivery_pct": 49.51
+    },
+    {
+      "date": "2026-05-20",
+      "close": 125.52,
+      "prev_close": 125.85,
+      "volume": 449382,
+      "deliverable_qty": 242666,
+      "delivery_pct": 54.0
     }
   ],
   "news": [
@@ -586,13 +578,6 @@
       "desc": "Investor Presentation",
       "sm_name": "S H Kelkar and Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/9152077850_24022026195147_InvestorPresentationKotakGrowthChasingFinalFile.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 11:36:23",
-      "an_dt": "18-Feb-2026 11:36:23",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "S H Kelkar and Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9152077850_18022026113531_SHKInvestorMeetingIntimationFinal.pdf"
     }
   ]
 }

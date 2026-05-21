@@ -8,25 +8,9 @@
   "price": 308.85,
   "market_cap_cr": 6390.88,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 394.35,
-      "prev_close": 385.85,
-      "volume": 962986,
-      "deliverable_qty": 317891,
-      "delivery_pct": 33.01
-    },
-    {
-      "date": "2026-02-18",
-      "close": 392.75,
-      "prev_close": 394.35,
-      "volume": 270043,
-      "deliverable_qty": 99701,
-      "delivery_pct": 36.92
-    },
     {
       "date": "2026-02-19",
       "close": 384.6,
@@ -458,6 +442,14 @@
       "volume": 1131560,
       "deliverable_qty": 317057,
       "delivery_pct": 28.02
+    },
+    {
+      "date": "2026-05-20",
+      "close": 317.95,
+      "prev_close": 325.25,
+      "volume": 1330410,
+      "deliverable_qty": 379107,
+      "delivery_pct": 28.5
     }
   ],
   "news": [
@@ -621,13 +613,6 @@
       "desc": "Clarification - Financial Results",
       "sm_name": "Latent View Analytics Limited",
       "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-02-17 11:24:58",
-      "an_dt": "17-Feb-2026 11:24:58",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Latent View Analytics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LATENTVIEW_17022026112408_SE_Intimation_Analyst_Meet_Feb_17_Signed.pdf"
     }
   ]
 }

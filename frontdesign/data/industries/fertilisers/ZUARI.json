@@ -8,25 +8,9 @@
   "price": 217.54,
   "market_cap_cr": 914.93,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 234.9,
-      "prev_close": 230.95,
-      "volume": 133414,
-      "deliverable_qty": 57815,
-      "delivery_pct": 43.34
-    },
-    {
-      "date": "2026-02-18",
-      "close": 234.4,
-      "prev_close": 234.9,
-      "volume": 96509,
-      "deliverable_qty": 48782,
-      "delivery_pct": 50.55
-    },
     {
       "date": "2026-02-19",
       "close": 233.15,
@@ -458,9 +442,24 @@
       "volume": 358079,
       "deliverable_qty": 217926,
       "delivery_pct": 60.86
+    },
+    {
+      "date": "2026-05-20",
+      "close": 213.77,
+      "prev_close": 214.71,
+      "volume": 50395,
+      "deliverable_qty": 20803,
+      "delivery_pct": 41.28
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 14:45:26",
+      "an_dt": "19-May-2026 14:45:26",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Zuari Agro Chemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_30042026120612_Disc3.pdf"
+    },
     {
       "sort_date": "2026-05-16 11:31:04",
       "an_dt": "16-May-2026 11:31:04",
@@ -614,13 +613,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Zuari Agro Chemicals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZUARI_19022026131308_Zaclnewspaperadvertisemen19022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 15:01:45",
-      "an_dt": "18-Feb-2026 15:01:45",
-      "desc": "Shareholders meeting",
-      "sm_name": "Zuari Agro Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZUARI_18022026150129_Zaclreg30PNBotice18022026signed.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 104.57,
   "market_cap_cr": 1182.53,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 81.69,
-      "prev_close": 79.95,
-      "volume": 317348,
-      "deliverable_qty": 109960,
-      "delivery_pct": 34.65
-    },
-    {
-      "date": "2026-02-18",
-      "close": 81.62,
-      "prev_close": 81.69,
-      "volume": 780740,
-      "deliverable_qty": 328472,
-      "delivery_pct": 42.07
-    },
     {
       "date": "2026-02-19",
       "close": 79.32,
@@ -458,6 +442,14 @@
       "volume": 353749,
       "deliverable_qty": 111691,
       "delivery_pct": 31.57
+    },
+    {
+      "date": "2026-05-20",
+      "close": 99.24,
+      "prev_close": 100.2,
+      "volume": 287085,
+      "deliverable_qty": 74804,
+      "delivery_pct": 26.06
     }
   ],
   "news": [
@@ -621,13 +613,6 @@
       "desc": "Trading Window",
       "sm_name": "Aeroflex Enterprises Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATINDUSTRIES_26032026191231_AEL__Intimation_of_Closure_of_Trading_Window_31032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:47:03",
-      "an_dt": "17-Feb-2026 18:47:03",
-      "desc": "Updates",
-      "sm_name": "Aeroflex Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATINDUSTRIES_17022026184340_AELwebsiteandemailupdate.pdf"
     }
   ]
 }

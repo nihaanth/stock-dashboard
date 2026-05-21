@@ -8,25 +8,9 @@
   "price": 1142.9,
   "market_cap_cr": 1631.81,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1297.3,
-      "prev_close": 1309.5,
-      "volume": 39307,
-      "deliverable_qty": 31032,
-      "delivery_pct": 78.95
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1277.2,
-      "prev_close": 1297.3,
-      "volume": 20919,
-      "deliverable_qty": 14232,
-      "delivery_pct": 68.03
-    },
     {
       "date": "2026-02-19",
       "close": 1254.4,
@@ -458,9 +442,38 @@
       "volume": 234632,
       "deliverable_qty": 41294,
       "delivery_pct": 17.6
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1472.0,
+      "prev_close": 1485.9,
+      "volume": 30986,
+      "deliverable_qty": 19520,
+      "delivery_pct": 63.0
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 15:36:08",
+      "an_dt": "19-May-2026 15:36:08",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Rane Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RANEHOLDIN_19052026153558_RHL_SE_AudioRecording_18052026_SD.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 15:31:00",
+      "an_dt": "19-May-2026 15:31:00",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Rane Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RANEHOLDIN_19052026153049_RHLSE_EGM_Paperpublication_2026_SD.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 15:24:00",
+      "an_dt": "19-May-2026 15:24:00",
+      "desc": "Shareholders meeting",
+      "sm_name": "Rane Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RANEHOLDIN_19052026152346_RHL_EGM_Notice_May_2026_SD.pdf"
+    },
     {
       "sort_date": "2026-05-16 14:18:10",
       "an_dt": "16-May-2026 14:18:10",
@@ -628,13 +641,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Rane Holdings Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RANEHOLDIN_24022026103805_RHL_SE_PB_Feb_2026_SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 19:04:26",
-      "an_dt": "17-Feb-2026 19:04:26",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Rane Holdings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RANEHOLDIN_17022026190348_RHL_SE_Audio_Recording_Feb_2026_SD.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 284.38,
   "market_cap_cr": 9126.85,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 329.5,
-      "prev_close": 331.2,
-      "volume": 392402,
-      "deliverable_qty": 143859,
-      "delivery_pct": 36.66
-    },
-    {
-      "date": "2026-02-18",
-      "close": 333.55,
-      "prev_close": 329.5,
-      "volume": 588371,
-      "deliverable_qty": 189775,
-      "delivery_pct": 32.25
-    },
     {
       "date": "2026-02-19",
       "close": 328.65,
@@ -458,6 +442,14 @@
       "volume": 904754,
       "deliverable_qty": 292289,
       "delivery_pct": 32.31
+    },
+    {
+      "date": "2026-05-20",
+      "close": 320.3,
+      "prev_close": 317.35,
+      "volume": 613119,
+      "deliverable_qty": 162393,
+      "delivery_pct": 26.49
     }
   ],
   "news": [
@@ -859,13 +851,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "Railtel Corporation Of India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAILTEL_19022026154932_Railtel_Order_Book_Company_Rep_190226.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 16:25:24",
-      "an_dt": "18-Feb-2026 16:25:24",
-      "desc": "Credit Rating- Revision",
-      "sm_name": "Railtel Corporation Of India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAILTEL_18022026131752_Intimation_Credit_Rating_2026.pdf"
     }
   ]
 }

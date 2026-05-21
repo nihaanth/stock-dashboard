@@ -8,25 +8,9 @@
   "price": 130.96,
   "market_cap_cr": 17609.68,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 429.55,
-      "prev_close": 406.25,
-      "volume": 5820420,
-      "deliverable_qty": 1536274,
-      "delivery_pct": 26.39
-    },
-    {
-      "date": "2026-02-18",
-      "close": 422.95,
-      "prev_close": 429.55,
-      "volume": 6793895,
-      "deliverable_qty": 1495397,
-      "delivery_pct": 22.01
-    },
     {
       "date": "2026-02-19",
       "close": 414.2,
@@ -458,9 +442,24 @@
       "volume": 24714599,
       "deliverable_qty": 7105597,
       "delivery_pct": 28.75
+    },
+    {
+      "date": "2026-05-20",
+      "close": 119.44,
+      "prev_close": 114.34,
+      "volume": 15603536,
+      "deliverable_qty": 4440042,
+      "delivery_pct": 28.46
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 17:38:42",
+      "an_dt": "20-May-2026 17:38:42",
+      "desc": "Shareholders meeting",
+      "sm_name": "Cupid Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CUPID_20052026173837_Postal_Ballot_Outcome_Proceedings.pdf"
+    },
     {
       "sort_date": "2026-05-16 13:49:32",
       "an_dt": "16-May-2026 13:49:32",
@@ -649,13 +648,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Cupid Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CUPID_24022026131104_EGM_Outcome_Proceedings.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 16:42:15",
-      "an_dt": "18-Feb-2026 16:42:15",
-      "desc": "General Updates",
-      "sm_name": "Cupid Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CUPID_18022026164209_General_Updates_Investor_Cautionary_Advisory.pdf"
     }
   ]
 }

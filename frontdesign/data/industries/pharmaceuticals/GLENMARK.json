@@ -8,25 +8,9 @@
   "price": 2347.3,
   "market_cap_cr": 66241.0,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 2038.8,
-      "prev_close": 2030.5,
-      "volume": 201758,
-      "deliverable_qty": 94762,
-      "delivery_pct": 46.97
-    },
-    {
-      "date": "2026-02-18",
-      "close": 2030.2,
-      "prev_close": 2038.8,
-      "volume": 352158,
-      "deliverable_qty": 191174,
-      "delivery_pct": 54.29
-    },
     {
       "date": "2026-02-19",
       "close": 2016.7,
@@ -458,9 +442,31 @@
       "volume": 429194,
       "deliverable_qty": 200838,
       "delivery_pct": 46.79
+    },
+    {
+      "date": "2026-05-20",
+      "close": 2379.0,
+      "prev_close": 2405.9,
+      "volume": 973567,
+      "deliverable_qty": 454328,
+      "delivery_pct": 46.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 16:23:44",
+      "an_dt": "20-May-2026 16:23:44",
+      "desc": "Press Release",
+      "sm_name": "Glenmark Pharmaceuticals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLENMARK_20052026162325_PR_20052026_SIGNED.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 16:52:14",
+      "an_dt": "19-May-2026 16:52:14",
+      "desc": "Trading Window",
+      "sm_name": "Glenmark Pharmaceuticals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLENMARK_19052026165110_SE_Letter_BBM_2026_signed.pdf"
+    },
     {
       "sort_date": "2026-05-18 08:56:32",
       "an_dt": "18-May-2026 08:56:32",
@@ -551,13 +557,6 @@
       "desc": "General Updates",
       "sm_name": "Glenmark Pharmaceuticals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLENMARK_20022026172933_ESG_Rating_Covering_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 16:26:30",
-      "an_dt": "18-Feb-2026 16:26:30",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Glenmark Pharmaceuticals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLENMARK_18022026162602_BSE_NSE_SpecialWindow_signed.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 1026.0,
   "market_cap_cr": 10075.32,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1044.35,
-      "prev_close": 1032.5,
-      "volume": 266661,
-      "deliverable_qty": 159142,
-      "delivery_pct": 59.68
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1049.7,
-      "prev_close": 1044.35,
-      "volume": 370511,
-      "deliverable_qty": 179517,
-      "delivery_pct": 48.45
-    },
     {
       "date": "2026-02-19",
       "close": 1023.55,
@@ -458,6 +442,14 @@
       "volume": 144811,
       "deliverable_qty": 73869,
       "delivery_pct": 51.01
+    },
+    {
+      "date": "2026-05-20",
+      "close": 996.1,
+      "prev_close": 1013.8,
+      "volume": 106849,
+      "deliverable_qty": 57307,
+      "delivery_pct": 53.63
     }
   ],
   "news": [
@@ -565,13 +557,6 @@
       "desc": "General Updates",
       "sm_name": "PVR INOX Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PVR_20022026152956_PVRINOXOpeningofScreens20022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:24:18",
-      "an_dt": "17-Feb-2026 17:24:18",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "PVR INOX Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PVR_17022026172328_PVRINOXAnalystMeetIntimation17022026.pdf"
     }
   ]
 }

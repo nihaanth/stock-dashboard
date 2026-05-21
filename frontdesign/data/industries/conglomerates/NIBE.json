@@ -8,25 +8,9 @@
   "price": 1024.8,
   "market_cap_cr": 1531.18,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1053.5,
-      "prev_close": 1012.2,
-      "volume": 52235,
-      "deliverable_qty": 25660,
-      "delivery_pct": 49.12
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1128.2,
-      "prev_close": 1053.5,
-      "volume": 240798,
-      "deliverable_qty": 73754,
-      "delivery_pct": 30.63
-    },
     {
       "date": "2026-02-19",
       "close": 1097.8,
@@ -458,9 +442,38 @@
       "volume": 118675,
       "deliverable_qty": 49743,
       "delivery_pct": 41.92
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1174.6,
+      "prev_close": 1108.7,
+      "volume": 341383,
+      "deliverable_qty": 110676,
+      "delivery_pct": 32.42
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 13:02:06",
+      "an_dt": "20-May-2026 13:02:06",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "NIBE Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9028072464_20052026130150_NBpublicaion.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 18:11:19",
+      "an_dt": "19-May-2026 18:11:19",
+      "desc": "Press Release",
+      "sm_name": "NIBE Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9028072464_19052026181050_Pressrealaseupload.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 15:13:14",
+      "an_dt": "19-May-2026 15:13:14",
+      "desc": "Shareholders meeting",
+      "sm_name": "NIBE Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9028072464_19052026151244_Nibepostalballot.pdf"
+    },
     {
       "sort_date": "2026-05-14 15:12:13",
       "an_dt": "14-May-2026 15:12:13",

@@ -8,25 +8,9 @@
   "price": 1272.3,
   "market_cap_cr": 395553.59,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1357.2,
-      "prev_close": 1358.3,
-      "volume": 4513065,
-      "deliverable_qty": 3157080,
-      "delivery_pct": 69.95
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1377.0,
-      "prev_close": 1357.2,
-      "volume": 5556076,
-      "deliverable_qty": 4213522,
-      "delivery_pct": 75.84
-    },
     {
       "date": "2026-02-19",
       "close": 1356.6,
@@ -458,9 +442,38 @@
       "volume": 6052023,
       "deliverable_qty": 4058710,
       "delivery_pct": 67.06
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1249.8,
+      "prev_close": 1238.3,
+      "volume": 3562641,
+      "deliverable_qty": 2100527,
+      "delivery_pct": 58.96
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 17:38:18",
+      "an_dt": "20-May-2026 17:38:18",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Axis Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK1_20052026173631_Analyst20052026Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 23:46:06",
+      "an_dt": "19-May-2026 23:46:06",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Axis Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK1_19052026234545_SE19052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 18:01:17",
+      "an_dt": "19-May-2026 18:01:17",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Axis Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK1_19052026175543_AnalystPSigned.pdf"
+    },
     {
       "sort_date": "2026-05-18 18:27:16",
       "an_dt": "18-May-2026 18:27:16",
@@ -845,34 +858,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Axis Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK1_19022026192117_AP19022026Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 21:05:16",
-      "an_dt": "18-Feb-2026 21:05:16",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Axis Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK1_18022026210509_SchedulePresentation18022026Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 18:07:03",
-      "an_dt": "18-Feb-2026 18:07:03",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Axis Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK1_18022026180523_AnalystPresentation18022026Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 21:26:46",
-      "an_dt": "17-Feb-2026 21:26:46",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Axis Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK_17022026212516_SE17022026_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 19:27:41",
-      "an_dt": "17-Feb-2026 19:27:41",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Axis Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK1_17022026192432_AnalystPresentation17022026Signed.pdf"
     }
   ]
 }

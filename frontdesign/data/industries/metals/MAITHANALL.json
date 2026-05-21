@@ -8,25 +8,9 @@
   "price": 1002.3,
   "market_cap_cr": 2917.85,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1053.0,
-      "prev_close": 1052.3,
-      "volume": 79362,
-      "deliverable_qty": 51854,
-      "delivery_pct": 65.34
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1063.0,
-      "prev_close": 1053.0,
-      "volume": 20007,
-      "deliverable_qty": 10356,
-      "delivery_pct": 51.76
-    },
     {
       "date": "2026-02-19",
       "close": 1023.4,
@@ -458,9 +442,31 @@
       "volume": 45670,
       "deliverable_qty": 22644,
       "delivery_pct": 49.58
+    },
+    {
+      "date": "2026-05-20",
+      "close": 961.65,
+      "prev_close": 961.55,
+      "volume": 19021,
+      "deliverable_qty": 9354,
+      "delivery_pct": 49.18
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 12:25:42",
+      "an_dt": "20-May-2026 12:25:42",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Maithan Alloys Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAITHANALL_20052026122526_Newspaperadvt20526.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 12:44:54",
+      "an_dt": "19-May-2026 12:44:54",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Maithan Alloys Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAITHANALL_19052026124433_Newspaperadvt19052026.pdf"
+    },
     {
       "sort_date": "2026-05-18 16:06:15",
       "an_dt": "18-May-2026 16:06:15",
@@ -614,41 +620,6 @@
       "desc": "Others",
       "sm_name": "Maithan Alloys Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAITHANALL_12032026111050_BOI20260312.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 14:23:47",
-      "an_dt": "18-Feb-2026 14:23:47",
-      "desc": "Others",
-      "sm_name": "Maithan Alloys Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAITHANALL_18022026142330_CanaraBank.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 14:22:24",
-      "an_dt": "18-Feb-2026 14:22:24",
-      "desc": "Others",
-      "sm_name": "Maithan Alloys Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAITHANALL_18022026142210_BankOfBaroda.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 16:21:04",
-      "an_dt": "17-Feb-2026 16:21:04",
-      "desc": "Others",
-      "sm_name": "Maithan Alloys Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAITHANALL_17022026162047_CanaraBank.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 16:19:47",
-      "an_dt": "17-Feb-2026 16:19:47",
-      "desc": "Others",
-      "sm_name": "Maithan Alloys Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAITHANALL_17022026161926_BankOfIndia.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 16:18:27",
-      "an_dt": "17-Feb-2026 16:18:27",
-      "desc": "Others",
-      "sm_name": "Maithan Alloys Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAITHANALL_17022026161503_BankOfBaroda.pdf"
     }
   ]
 }

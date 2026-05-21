@@ -8,25 +8,9 @@
   "price": 14594.0,
   "market_cap_cr": 27681.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 15930.0,
-      "prev_close": 15974.0,
-      "volume": 7879,
-      "deliverable_qty": 3361,
-      "delivery_pct": 42.66
-    },
-    {
-      "date": "2026-02-18",
-      "close": 15557.0,
-      "prev_close": 15930.0,
-      "volume": 7293,
-      "deliverable_qty": 3397,
-      "delivery_pct": 46.58
-    },
     {
       "date": "2026-02-19",
       "close": 15257.0,
@@ -458,6 +442,14 @@
       "volume": 12332,
       "deliverable_qty": 5308,
       "delivery_pct": 43.04
+    },
+    {
+      "date": "2026-05-20",
+      "close": 14410.0,
+      "prev_close": 14325.0,
+      "volume": 7609,
+      "deliverable_qty": 4411,
+      "delivery_pct": 57.97
     }
   ],
   "news": [
@@ -628,20 +620,6 @@
       "desc": "General Updates",
       "sm_name": "ZF Commercial Vehicle Control Systems India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WABCOINDIA_20022026165945_SdSEIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:40:38",
-      "an_dt": "18-Feb-2026 17:40:38",
-      "desc": "Shareholders meeting",
-      "sm_name": "ZF Commercial Vehicle Control Systems India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WABCOINDIA_18022026174022_SdSEPostalBallotNoticeIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 16:42:28",
-      "an_dt": "17-Feb-2026 16:42:28",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "ZF Commercial Vehicle Control Systems India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WABCOINDIA_17022026164205_SdSEEarningCallTranscript.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 1601.0,
   "market_cap_cr": 4810.87,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1653.1,
-      "prev_close": 1617.6,
-      "volume": 46814,
-      "deliverable_qty": 30441,
-      "delivery_pct": 65.03
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1642.2,
-      "prev_close": 1653.1,
-      "volume": 22907,
-      "deliverable_qty": 12967,
-      "delivery_pct": 56.61
-    },
     {
       "date": "2026-02-19",
       "close": 1627.9,
@@ -458,6 +442,14 @@
       "volume": 65388,
       "deliverable_qty": 30674,
       "delivery_pct": 46.91
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1720.2,
+      "prev_close": 1756.1,
+      "volume": 100549,
+      "deliverable_qty": 77627,
+      "delivery_pct": 77.2
     }
   ],
   "news": [
@@ -649,20 +641,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "CARE Ratings Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CARERATINGS_20022026193614_care.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:28:17",
-      "an_dt": "18-Feb-2026 17:28:17",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "CARE Ratings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CARERATINGS_18022026172801_care.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:10:44",
-      "an_dt": "18-Feb-2026 17:10:44",
-      "desc": "Action(s) taken or orders passed",
-      "sm_name": "CARE Ratings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CARERATINGS_18022026171032_CARE.pdf"
     }
   ]
 }

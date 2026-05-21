@@ -8,25 +8,9 @@
   "price": 582.05,
   "market_cap_cr": 18503.08,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 490.95,
-      "prev_close": 490.1,
-      "volume": 135106,
-      "deliverable_qty": 66432,
-      "delivery_pct": 49.17
-    },
-    {
-      "date": "2026-02-18",
-      "close": 487.0,
-      "prev_close": 490.95,
-      "volume": 295053,
-      "deliverable_qty": 161098,
-      "delivery_pct": 54.6
-    },
     {
       "date": "2026-02-19",
       "close": 487.2,
@@ -458,9 +442,38 @@
       "volume": 1269442,
       "deliverable_qty": 648550,
       "delivery_pct": 51.09
+    },
+    {
+      "date": "2026-05-20",
+      "close": 656.55,
+      "prev_close": 638.05,
+      "volume": 8531572,
+      "deliverable_qty": 1497876,
+      "delivery_pct": 17.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 18:38:59",
+      "an_dt": "20-May-2026 18:38:59",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Triveni Turbine Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRITURBINE_20052026183622_Intimation_Regarding_Investor_Conference_26052026_sd.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 18:22:10",
+      "an_dt": "19-May-2026 18:22:10",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Triveni Turbine Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRITURBINE_19052026182138_IntimationRegardingAudioRecording.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 12:17:46",
+      "an_dt": "19-May-2026 12:17:46",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Triveni Turbine Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRITURBINE_19052026121739_IntimationregardingNewsPaperpublication.pdf"
+    },
     {
       "sort_date": "2026-05-18 21:19:03",
       "an_dt": "18-May-2026 21:19:03",
@@ -600,13 +613,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Triveni Turbine Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRITURBINE_24022026191640_STX_PB.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:29:47",
-      "an_dt": "17-Feb-2026 18:29:47",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Triveni Turbine Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRITURBINE_17022026182937_STX_ESOPAllotment17022026.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 9239.5,
   "market_cap_cr": 80441.35,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 6845.0,
-      "prev_close": 6699.0,
-      "volume": 215007,
-      "deliverable_qty": 40991,
-      "delivery_pct": 19.06
-    },
-    {
-      "date": "2026-02-18",
-      "close": 6714.5,
-      "prev_close": 6845.0,
-      "volume": 151155,
-      "deliverable_qty": 55013,
-      "delivery_pct": 36.4
-    },
     {
       "date": "2026-02-19",
       "close": 6652.0,
@@ -458,9 +442,24 @@
       "volume": 332444,
       "deliverable_qty": 76566,
       "delivery_pct": 23.03
+    },
+    {
+      "date": "2026-05-20",
+      "close": 9703.5,
+      "prev_close": 9646.0,
+      "volume": 306099,
+      "deliverable_qty": 88332,
+      "delivery_pct": 28.86
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 11:05:15",
+      "an_dt": "20-May-2026 11:05:15",
+      "desc": "Updates",
+      "sm_name": "Oracle Financial Services Software Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OFSS_20052026110507_InitimationofESOPAllotmentMay202026.pdf"
+    },
     {
       "sort_date": "2026-04-29 10:41:11",
       "an_dt": "29-Apr-2026 10:41:11",
@@ -579,13 +578,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Oracle Financial Services Software Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/OFSS_25022026212320_OutcomeofBoardMeetingFeb252026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 11:13:37",
-      "an_dt": "18-Feb-2026 11:13:37",
-      "desc": "Updates",
-      "sm_name": "Oracle Financial Services Software Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OFSS_18022026111331_InitimationofESOPAllotmentFebruary182026.pdf"
     }
   ]
 }

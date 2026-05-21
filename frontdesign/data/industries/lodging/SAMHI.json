@@ -8,25 +8,9 @@
   "price": 156.42,
   "market_cap_cr": 3479.81,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 165.34,
-      "prev_close": 164.51,
-      "volume": 351668,
-      "deliverable_qty": 194707,
-      "delivery_pct": 55.37
-    },
-    {
-      "date": "2026-02-18",
-      "close": 162.84,
-      "prev_close": 165.34,
-      "volume": 719835,
-      "deliverable_qty": 531252,
-      "delivery_pct": 73.8
-    },
     {
       "date": "2026-02-19",
       "close": 165.24,
@@ -458,9 +442,31 @@
       "volume": 540400,
       "deliverable_qty": 309805,
       "delivery_pct": 57.33
+    },
+    {
+      "date": "2026-05-20",
+      "close": 144.18,
+      "prev_close": 143.38,
+      "volume": 829222,
+      "deliverable_qty": 630412,
+      "delivery_pct": 76.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 16:38:15",
+      "an_dt": "19-May-2026 16:38:15",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Samhi Hotels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Samhi_19052026163738_AmbitConference_25052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 16:13:56",
+      "an_dt": "19-May-2026 16:13:56",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Samhi Hotels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Samhi_19052026161342_Intimation_Earnings_Call_Invite_Q4FY26.pdf"
+    },
     {
       "sort_date": "2026-04-15 17:46:57",
       "an_dt": "15-Apr-2026 17:46:57",
@@ -628,13 +634,6 @@
       "desc": "General Updates",
       "sm_name": "Samhi Hotels Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Samhi_24022026183424_KIADB_sanction_Innmar.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:46:39",
-      "an_dt": "17-Feb-2026 18:46:39",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Samhi Hotels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Samhi_17022026184555_Intimation_KotakConference_25022026.pdf"
     }
   ]
 }

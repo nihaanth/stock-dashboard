@@ -8,25 +8,9 @@
   "price": 290.2,
   "market_cap_cr": 18967.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 270.55,
-      "prev_close": 272.66,
-      "volume": 4061488,
-      "deliverable_qty": 2112294,
-      "delivery_pct": 52.01
-    },
-    {
-      "date": "2026-02-18",
-      "close": 272.52,
-      "prev_close": 270.55,
-      "volume": 1942687,
-      "deliverable_qty": 1038386,
-      "delivery_pct": 53.45
-    },
     {
       "date": "2026-02-19",
       "close": 265.9,
@@ -458,9 +442,31 @@
       "volume": 4483026,
       "deliverable_qty": 1822591,
       "delivery_pct": 40.66
+    },
+    {
+      "date": "2026-05-20",
+      "close": 290.6,
+      "prev_close": 293.6,
+      "volume": 1877603,
+      "deliverable_qty": 748634,
+      "delivery_pct": 39.87
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 19:46:26",
+      "an_dt": "20-May-2026 19:46:26",
+      "desc": "Product launch",
+      "sm_name": "Crompton Greaves Consumer Electricals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Crompton123_20052026194414_IntimationofProductLaunch.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 23:30:27",
+      "an_dt": "19-May-2026 23:30:27",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Crompton Greaves Consumer Electricals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Crompton123_19052026232953_TranscriptofEarningCall.pdf"
+    },
     {
       "sort_date": "2026-05-16 12:48:56",
       "an_dt": "16-May-2026 12:48:56",
@@ -768,20 +774,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Crompton Greaves Consumer Electricals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Crompton123_20022026113314_Analystmeetintimation20022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 14:53:19",
-      "an_dt": "18-Feb-2026 14:53:19",
-      "desc": "Product launch",
-      "sm_name": "Crompton Greaves Consumer Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Crompton123_18022026145305_IntimationofProductLaunch.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:42:58",
-      "an_dt": "17-Feb-2026 17:42:58",
-      "desc": "Product launch",
-      "sm_name": "Crompton Greaves Consumer Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Crompton123_17022026174246_IntimationofProductLaunch.pdf"
     }
   ]
 }

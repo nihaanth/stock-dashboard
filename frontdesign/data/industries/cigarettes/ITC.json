@@ -8,25 +8,9 @@
   "price": 305.85,
   "market_cap_cr": 383213.79,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 325.45,
-      "prev_close": 317.95,
-      "volume": 39360672,
-      "deliverable_qty": 23180436,
-      "delivery_pct": 58.89
-    },
-    {
-      "date": "2026-02-18",
-      "close": 332.45,
-      "prev_close": 325.45,
-      "volume": 35473203,
-      "deliverable_qty": 18663783,
-      "delivery_pct": 52.61
-    },
     {
       "date": "2026-02-19",
       "close": 326.0,
@@ -458,9 +442,24 @@
       "volume": 14422870,
       "deliverable_qty": 6724723,
       "delivery_pct": 46.63
+    },
+    {
+      "date": "2026-05-20",
+      "close": 307.55,
+      "prev_close": 310.3,
+      "volume": 12127920,
+      "deliverable_qty": 7142061,
+      "delivery_pct": 58.89
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 15:39:08",
+      "an_dt": "19-May-2026 15:39:08",
+      "desc": "Acquisition",
+      "sm_name": "ITC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ITC_19052026153852_SE_Mother_Sparsh_.pdf"
+    },
     {
       "sort_date": "2026-05-12 17:23:10",
       "an_dt": "12-May-2026 17:23:10",
@@ -551,13 +550,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "ITC Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ITC_06032026142059_SEIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 14:41:17",
-      "an_dt": "18-Feb-2026 14:41:17",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "ITC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ITC_18022026143926_SEIntimation.pdf"
     }
   ]
 }

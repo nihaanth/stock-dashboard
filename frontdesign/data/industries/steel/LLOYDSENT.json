@@ -8,25 +8,9 @@
   "price": 71.49,
   "market_cap_cr": 10913.32,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 57.22,
-      "prev_close": 54.78,
-      "volume": 2228603,
-      "deliverable_qty": 928992,
-      "delivery_pct": 41.68
-    },
-    {
-      "date": "2026-02-18",
-      "close": 58.67,
-      "prev_close": 57.22,
-      "volume": 2821924,
-      "deliverable_qty": 1706443,
-      "delivery_pct": 60.47
-    },
     {
       "date": "2026-02-19",
       "close": 55.1,
@@ -458,9 +442,31 @@
       "volume": 3598804,
       "deliverable_qty": 1699191,
       "delivery_pct": 47.22
+    },
+    {
+      "date": "2026-05-20",
+      "close": 69.6,
+      "prev_close": 68.51,
+      "volume": 1329333,
+      "deliverable_qty": 668847,
+      "delivery_pct": 50.31
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 17:45:44",
+      "an_dt": "19-May-2026 17:45:44",
+      "desc": "General Updates",
+      "sm_name": "Lloyds Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGTL2008_19052026174536_IntimationofNOC_LEWL.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 16:31:03",
+      "an_dt": "19-May-2026 16:31:03",
+      "desc": "Shareholders meeting",
+      "sm_name": "Lloyds Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGTL2008_19052026163057_Intimationofvotingresult.pdf"
+    },
     {
       "sort_date": "2026-05-16 12:23:07",
       "an_dt": "16-May-2026 12:23:07",

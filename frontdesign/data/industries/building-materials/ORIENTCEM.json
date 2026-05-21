@@ -8,25 +8,9 @@
   "price": 137.84,
   "market_cap_cr": 2832.06,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 161.29,
-      "prev_close": 161.7,
-      "volume": 191529,
-      "deliverable_qty": 86696,
-      "delivery_pct": 45.27
-    },
-    {
-      "date": "2026-02-18",
-      "close": 161.83,
-      "prev_close": 161.29,
-      "volume": 277528,
-      "deliverable_qty": 149726,
-      "delivery_pct": 53.95
-    },
     {
       "date": "2026-02-19",
       "close": 158.0,
@@ -458,6 +442,14 @@
       "volume": 162204,
       "deliverable_qty": 70548,
       "delivery_pct": 43.49
+    },
+    {
+      "date": "2026-05-20",
+      "close": 134.61,
+      "prev_close": 135.53,
+      "volume": 89255,
+      "deliverable_qty": 51854,
+      "delivery_pct": 58.1
     }
   ],
   "news": [
@@ -635,20 +627,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Orient Cement Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORIENTCEM_27022026195208_OCL_Investor_Meet_27_02_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 21:08:38",
-      "an_dt": "18-Feb-2026 21:08:38",
-      "desc": "Shareholders meeting",
-      "sm_name": "Orient Cement Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORIENTCEM_18022026210828_Disclosure_OCL_.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 20:15:36",
-      "an_dt": "17-Feb-2026 20:15:36",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Orient Cement Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORIENTCEM_17022026201523_OCL_Investor_Meet_17_02_2026.pdf"
     }
   ]
 }

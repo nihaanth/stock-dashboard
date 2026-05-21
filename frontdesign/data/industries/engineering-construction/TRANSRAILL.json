@@ -8,25 +8,9 @@
   "price": 548.35,
   "market_cap_cr": 7361.93,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 590.5,
-      "prev_close": 564.65,
-      "volume": 1377376,
-      "deliverable_qty": 467199,
-      "delivery_pct": 33.92
-    },
-    {
-      "date": "2026-02-18",
-      "close": 590.15,
-      "prev_close": 590.5,
-      "volume": 741174,
-      "deliverable_qty": 323706,
-      "delivery_pct": 43.67
-    },
     {
       "date": "2026-02-19",
       "close": 568.1,
@@ -458,9 +442,24 @@
       "volume": 861092,
       "deliverable_qty": 379020,
       "delivery_pct": 44.02
+    },
+    {
+      "date": "2026-05-20",
+      "close": 496.1,
+      "prev_close": 496.8,
+      "volume": 578617,
+      "deliverable_qty": 229995,
+      "delivery_pct": 39.75
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 17:27:20",
+      "an_dt": "19-May-2026 17:27:20",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Transrail Lighting Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRANSRAIL_19052026172626_IntimationearningcallAFRMarch2026.pdf"
+    },
     {
       "sort_date": "2026-05-13 16:14:25",
       "an_dt": "13-May-2026 16:14:25",

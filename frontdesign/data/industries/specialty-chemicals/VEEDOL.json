@@ -8,25 +8,9 @@
   "price": 1506.1,
   "market_cap_cr": 2559.6,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1438.6,
-      "prev_close": 1435.1,
-      "volume": 5830,
-      "deliverable_qty": 2518,
-      "delivery_pct": 43.19
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1429.5,
-      "prev_close": 1438.6,
-      "volume": 7379,
-      "deliverable_qty": 4671,
-      "delivery_pct": 63.3
-    },
     {
       "date": "2026-02-19",
       "close": 1409.0,
@@ -458,9 +442,38 @@
       "volume": 7494,
       "deliverable_qty": 4119,
       "delivery_pct": 54.96
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1435.4,
+      "prev_close": 1425.9,
+      "volume": 13210,
+      "deliverable_qty": 6905,
+      "delivery_pct": 52.27
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 22:28:49",
+      "an_dt": "20-May-2026 22:28:49",
+      "desc": "Appointment",
+      "sm_name": "Veedol Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIDEWATER1_20052026222833_BMOutcome20052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 22:23:27",
+      "an_dt": "20-May-2026 22:23:27",
+      "desc": "Record Date",
+      "sm_name": "Veedol Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIDEWATER1_20052026222256_BMOutcome20052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 22:21:41",
+      "an_dt": "20-May-2026 22:21:41",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Veedol Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIDEWATER1_20052026221911_BMOutcome20052026.pdf"
+    },
     {
       "sort_date": "2026-05-09 18:36:02",
       "an_dt": "09-May-2026 18:36:02",

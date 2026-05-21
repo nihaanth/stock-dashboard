@@ -8,25 +8,9 @@
   "price": 501.25,
   "market_cap_cr": 4112.43,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 467.35,
-      "prev_close": 463.7,
-      "volume": 120009,
-      "deliverable_qty": 58199,
-      "delivery_pct": 48.5
-    },
-    {
-      "date": "2026-02-18",
-      "close": 482.8,
-      "prev_close": 467.35,
-      "volume": 95531,
-      "deliverable_qty": 29088,
-      "delivery_pct": 30.45
-    },
     {
       "date": "2026-02-19",
       "close": 464.95,
@@ -458,9 +442,24 @@
       "volume": 73397,
       "deliverable_qty": 34997,
       "delivery_pct": 47.68
+    },
+    {
+      "date": "2026-05-20",
+      "close": 463.3,
+      "prev_close": 465.05,
+      "volume": 48799,
+      "deliverable_qty": 24954,
+      "delivery_pct": 51.14
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 10:53:59",
+      "an_dt": "19-May-2026 10:53:59",
+      "desc": "Reply to Clarification- Financial results",
+      "sm_name": "eMudhra Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMUDHRA2008_18052026154245_Clari_and_Declaration_upload.pdf"
+    },
     {
       "sort_date": "2026-05-15 17:43:23",
       "an_dt": "15-May-2026 17:43:23",

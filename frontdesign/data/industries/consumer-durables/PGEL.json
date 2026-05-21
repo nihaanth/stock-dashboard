@@ -8,25 +8,9 @@
   "price": 510.4,
   "market_cap_cr": 14570.88,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 626.55,
-      "prev_close": 619.6,
-      "volume": 1111161,
-      "deliverable_qty": 345412,
-      "delivery_pct": 31.09
-    },
-    {
-      "date": "2026-02-18",
-      "close": 627.3,
-      "prev_close": 626.55,
-      "volume": 1059584,
-      "deliverable_qty": 291228,
-      "delivery_pct": 27.49
-    },
     {
       "date": "2026-02-19",
       "close": 606.8,
@@ -458,9 +442,24 @@
       "volume": 4147429,
       "deliverable_qty": 1173589,
       "delivery_pct": 28.3
+    },
+    {
+      "date": "2026-05-20",
+      "close": 461.85,
+      "prev_close": 466.15,
+      "volume": 3676497,
+      "deliverable_qty": 973958,
+      "delivery_pct": 26.49
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 15:49:23",
+      "an_dt": "19-May-2026 15:49:23",
+      "desc": "General Updates",
+      "sm_name": "PG Electroplast Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PGEL_19052026154914_Initimation.pdf"
+    },
     {
       "sort_date": "2026-05-15 16:17:35",
       "an_dt": "15-May-2026 16:17:35",
@@ -544,13 +543,6 @@
       "desc": "Updates",
       "sm_name": "PG Electroplast Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PGEL_09032026112640_REG30INTIMATION09032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:51:07",
-      "an_dt": "17-Feb-2026 12:51:07",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "PG Electroplast Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PGEL_17022026124943_KotakIntimation.pdf"
     }
   ]
 }

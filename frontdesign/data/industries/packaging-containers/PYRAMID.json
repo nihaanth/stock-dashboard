@@ -8,25 +8,9 @@
   "price": 152.71,
   "market_cap_cr": 563.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 152.35,
-      "prev_close": 152.85,
-      "volume": 14421,
-      "deliverable_qty": 10332,
-      "delivery_pct": 71.65
-    },
-    {
-      "date": "2026-02-18",
-      "close": 155.08,
-      "prev_close": 152.35,
-      "volume": 12170,
-      "deliverable_qty": 6756,
-      "delivery_pct": 55.51
-    },
     {
       "date": "2026-02-19",
       "close": 150.84,
@@ -458,9 +442,24 @@
       "volume": 35096,
       "deliverable_qty": 21346,
       "delivery_pct": 60.82
+    },
+    {
+      "date": "2026-05-20",
+      "close": 169.8,
+      "prev_close": 170.81,
+      "volume": 34595,
+      "deliverable_qty": 22054,
+      "delivery_pct": 63.75
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 17:06:55",
+      "an_dt": "20-May-2026 17:06:55",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Pyramid Technoplast Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PYRAMIDTECHNO_20052026170540_Covering_letter_with_Transcript_Q4.pdf"
+    },
     {
       "sort_date": "2026-05-14 15:21:12",
       "an_dt": "14-May-2026 15:21:12",
@@ -551,13 +550,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Pyramid Technoplast Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PYRAMIDTECHNO_13032026184639_Covering_Letter.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 11:32:34",
-      "an_dt": "17-Feb-2026 11:32:34",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Pyramid Technoplast Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PYRAMIDTECHNO_17022026113001_Covering_letter_with_transcript__Q3.pdf"
     }
   ]
 }

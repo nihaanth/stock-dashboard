@@ -8,25 +8,9 @@
   "price": 306.7,
   "market_cap_cr": 10953.98,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 338.2,
-      "prev_close": 336.8,
-      "volume": 108349,
-      "deliverable_qty": 42969,
-      "delivery_pct": 39.66
-    },
-    {
-      "date": "2026-02-18",
-      "close": 346.2,
-      "prev_close": 338.2,
-      "volume": 222185,
-      "deliverable_qty": 123271,
-      "delivery_pct": 55.48
-    },
     {
       "date": "2026-02-19",
       "close": 338.5,
@@ -458,9 +442,24 @@
       "volume": 178273,
       "deliverable_qty": 86237,
       "delivery_pct": 48.37
+    },
+    {
+      "date": "2026-05-20",
+      "close": 314.7,
+      "prev_close": 317.9,
+      "volume": 81905,
+      "deliverable_qty": 28963,
+      "delivery_pct": 35.36
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 11:32:26",
+      "an_dt": "20-May-2026 11:32:26",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Nuvoco Vistas Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NUVOCO_20052026113144_Investor_ConferenceBKSecuritiesFY26.pdf"
+    },
     {
       "sort_date": "2026-05-13 14:34:42",
       "an_dt": "13-May-2026 14:34:42",
@@ -642,20 +641,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Nuvoco Vistas Corporation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NUVOCO_05032026101056_SEIntimation_March5.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 14:39:42",
-      "an_dt": "17-Feb-2026 14:39:42",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Nuvoco Vistas Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NUVOCO_17022026143931_InvestorMeet_KotakSecurities_Q3_FY26.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 14:39:42",
-      "an_dt": "17-Feb-2026 14:39:42",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Nuvoco Vistas Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NUVOCO_17022026143910_Investor_Meet_IIFL_Capital_Q3_FY26.pdf"
     }
   ]
 }

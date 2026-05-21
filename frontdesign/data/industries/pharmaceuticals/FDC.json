@@ -8,25 +8,9 @@
   "price": 380.4,
   "market_cap_cr": 6193.3,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 379.6,
-      "prev_close": 374.15,
-      "volume": 57970,
-      "deliverable_qty": 29708,
-      "delivery_pct": 51.25
-    },
-    {
-      "date": "2026-02-18",
-      "close": 379.15,
-      "prev_close": 379.6,
-      "volume": 58724,
-      "deliverable_qty": 29406,
-      "delivery_pct": 50.07
-    },
     {
       "date": "2026-02-19",
       "close": 376.55,
@@ -458,6 +442,14 @@
       "volume": 129573,
       "deliverable_qty": 46320,
       "delivery_pct": 35.75
+    },
+    {
+      "date": "2026-05-20",
+      "close": 363.6,
+      "prev_close": 362.6,
+      "volume": 82496,
+      "deliverable_qty": 54970,
+      "delivery_pct": 66.63
     }
   ],
   "news": [
@@ -565,13 +557,6 @@
       "desc": "Disclosure under SEBI Takeover Regulations",
       "sm_name": "FDC Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/vipulr_19022026192236_aditidisclosureunder10_6.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 11:20:44",
-      "an_dt": "17-Feb-2026 11:20:44",
-      "desc": "General Updates",
-      "sm_name": "FDC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FDC_17022026112014_Reg_30_Intimation_of_conclusion_of_GST_inspection.pdf"
     }
   ]
 }

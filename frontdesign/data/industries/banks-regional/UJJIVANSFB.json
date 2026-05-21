@@ -8,25 +8,9 @@
   "price": 60.3,
   "market_cap_cr": 11721.69,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 62.62,
-      "prev_close": 61.75,
-      "volume": 7814419,
-      "deliverable_qty": 3406926,
-      "delivery_pct": 43.6
-    },
-    {
-      "date": "2026-02-18",
-      "close": 63.11,
-      "prev_close": 62.62,
-      "volume": 5622153,
-      "deliverable_qty": 2518238,
-      "delivery_pct": 44.79
-    },
     {
       "date": "2026-02-19",
       "close": 62.22,
@@ -458,6 +442,14 @@
       "volume": 14053978,
       "deliverable_qty": 8080224,
       "delivery_pct": 57.49
+    },
+    {
+      "date": "2026-05-20",
+      "close": 53.53,
+      "prev_close": 54.13,
+      "volume": 10669828,
+      "deliverable_qty": 5627692,
+      "delivery_pct": 52.74
     }
   ],
   "news": [
@@ -705,13 +697,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Ujjivan Small Finance Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/UJJIVANBANK_27022026190840_Postal_Ballot_Outcome_February_27_2026_Final.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:27:10",
-      "an_dt": "17-Feb-2026 12:27:10",
-      "desc": "Appointment",
-      "sm_name": "Ujjivan Small Finance Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UJJIVANBANK_17022026122701_135_Intimation_Change_SMP_17022026_Finalised.pdf"
     }
   ]
 }

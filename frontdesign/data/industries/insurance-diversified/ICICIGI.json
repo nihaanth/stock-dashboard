@@ -8,25 +8,9 @@
   "price": 1782.2,
   "market_cap_cr": 88853.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1928.2,
-      "prev_close": 1922.0,
-      "volume": 394676,
-      "deliverable_qty": 264384,
-      "delivery_pct": 66.99
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1959.7,
-      "prev_close": 1928.2,
-      "volume": 1010847,
-      "deliverable_qty": 478895,
-      "delivery_pct": 47.38
-    },
     {
       "date": "2026-02-19",
       "close": 1936.0,
@@ -458,9 +442,24 @@
       "volume": 306298,
       "deliverable_qty": 162405,
       "delivery_pct": 53.02
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1784.8,
+      "prev_close": 1822.8,
+      "volume": 667259,
+      "deliverable_qty": 400516,
+      "delivery_pct": 60.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 19:30:07",
+      "an_dt": "20-May-2026 19:30:07",
+      "desc": "General Updates",
+      "sm_name": "ICICI Lombard General Insurance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIGI_20052026192747_ScheduleofAnalystMeetPreIntimation20052026.pdf"
+    },
     {
       "sort_date": "2026-05-15 21:54:34",
       "an_dt": "15-May-2026 21:54:34",

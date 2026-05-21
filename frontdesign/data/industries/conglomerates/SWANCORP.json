@@ -8,25 +8,9 @@
   "price": 340.35,
   "market_cap_cr": 10668.51,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 413.1,
-      "prev_close": 405.8,
-      "volume": 365170,
-      "deliverable_qty": 155626,
-      "delivery_pct": 42.62
-    },
-    {
-      "date": "2026-02-18",
-      "close": 410.05,
-      "prev_close": 413.1,
-      "volume": 290328,
-      "deliverable_qty": 172040,
-      "delivery_pct": 59.26
-    },
     {
       "date": "2026-02-19",
       "close": 404.0,
@@ -458,9 +442,24 @@
       "volume": 835889,
       "deliverable_qty": 283335,
       "delivery_pct": 33.9
+    },
+    {
+      "date": "2026-05-20",
+      "close": 320.85,
+      "prev_close": 313.8,
+      "volume": 661439,
+      "deliverable_qty": 259905,
+      "delivery_pct": 39.29
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 19:53:01",
+      "an_dt": "19-May-2026 19:53:01",
+      "desc": "Shareholders meeting",
+      "sm_name": "SWAN CORP LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SWANENERGY_19052026193747_SCL_Postal_Ballot_voting_results_SE.pdf"
+    },
     {
       "sort_date": "2026-04-30 17:12:15",
       "an_dt": "30-Apr-2026 17:12:15",

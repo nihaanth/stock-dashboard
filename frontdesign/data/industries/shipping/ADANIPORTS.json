@@ -8,25 +8,9 @@
   "price": 1767.3,
   "market_cap_cr": 407178.68,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1566.3,
-      "prev_close": 1540.1,
-      "volume": 3168457,
-      "deliverable_qty": 1792916,
-      "delivery_pct": 56.59
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1550.8,
-      "prev_close": 1566.3,
-      "volume": 1326139,
-      "deliverable_qty": 630747,
-      "delivery_pct": 47.56
-    },
     {
       "date": "2026-02-19",
       "close": 1513.3,
@@ -458,9 +442,24 @@
       "volume": 2562978,
       "deliverable_qty": 1208810,
       "delivery_pct": 47.16
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1772.6,
+      "prev_close": 1762.8,
+      "volume": 1283223,
+      "deliverable_qty": 423711,
+      "delivery_pct": 33.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 19:12:42",
+      "an_dt": "20-May-2026 19:12:42",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Adani Ports and Special Economic Zone Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/rkbhagia_20052026191220_SEINTIMATION.pdf"
+    },
     {
       "sort_date": "2026-05-18 15:26:15",
       "an_dt": "18-May-2026 15:26:15",
@@ -719,13 +718,6 @@
       "desc": "General Updates",
       "sm_name": "Adani Ports and Special Economic Zone Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/rkbhagia_21022026184938_SEINTIMATION.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 10:23:04",
-      "an_dt": "18-Feb-2026 10:23:04",
-      "desc": "Updates",
-      "sm_name": "Adani Ports and Special Economic Zone Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/rkbhagia_18022026102258_SEIntimation18022026.pdf"
     }
   ]
 }

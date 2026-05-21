@@ -8,25 +8,9 @@
   "price": 2201.2,
   "market_cap_cr": 42002.65,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 2465.2,
-      "prev_close": 2461.5,
-      "volume": 602309,
-      "deliverable_qty": 277850,
-      "delivery_pct": 46.13
-    },
-    {
-      "date": "2026-02-18",
-      "close": 2435.8,
-      "prev_close": 2465.2,
-      "volume": 403020,
-      "deliverable_qty": 146365,
-      "delivery_pct": 36.32
-    },
     {
       "date": "2026-02-19",
       "close": 2376.7,
@@ -458,6 +442,14 @@
       "volume": 572487,
       "deliverable_qty": 188230,
       "delivery_pct": 32.88
+    },
+    {
+      "date": "2026-05-20",
+      "close": 2228.0,
+      "prev_close": 2220.5,
+      "volume": 471319,
+      "deliverable_qty": 202563,
+      "delivery_pct": 42.98
     }
   ],
   "news": [
@@ -656,13 +648,6 @@
       "desc": "Resignation",
       "sm_name": "MphasiS Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MPHASIS_27022026204124_Resignation_of_Director-SE_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 13:17:16",
-      "an_dt": "18-Feb-2026 13:17:16",
-      "desc": "General Updates",
-      "sm_name": "MphasiS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MPHASIS_18022026131659_NSRAL-_Feb_26-final.pdf"
     }
   ]
 }

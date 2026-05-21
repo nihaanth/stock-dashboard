@@ -8,25 +8,9 @@
   "price": 1090.3,
   "market_cap_cr": 107906.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1148.5,
-      "prev_close": 1139.2,
-      "volume": 442621,
-      "deliverable_qty": 198693,
-      "delivery_pct": 44.89
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1169.7,
-      "prev_close": 1148.5,
-      "volume": 641938,
-      "deliverable_qty": 385605,
-      "delivery_pct": 60.07
-    },
     {
       "date": "2026-02-19",
       "close": 1160.5,
@@ -458,6 +442,14 @@
       "volume": 1494098,
       "deliverable_qty": 829816,
       "delivery_pct": 55.54
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1208.7,
+      "prev_close": 1210.9,
+      "volume": 1718132,
+      "deliverable_qty": 1134270,
+      "delivery_pct": 66.02
     }
   ],
   "news": [
@@ -761,13 +753,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "TATA CONSUMER PRODUCTS LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Sukhvinder_26022026122645_TCPL_Newspaper_Publication_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:25:50",
-      "an_dt": "17-Feb-2026 12:25:50",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "TATA CONSUMER PRODUCTS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Sukhvinder_17022026122447_TCPL_Analystmeeting.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 1598.8,
   "market_cap_cr": 29104.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1290.8,
-      "prev_close": 1287.3,
-      "volume": 534242,
-      "deliverable_qty": 278493,
-      "delivery_pct": 52.13
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1317.2,
-      "prev_close": 1290.8,
-      "volume": 293183,
-      "deliverable_qty": 143930,
-      "delivery_pct": 49.09
-    },
     {
       "date": "2026-02-19",
       "close": 1293.6,
@@ -458,9 +442,24 @@
       "volume": 588115,
       "deliverable_qty": 298965,
       "delivery_pct": 50.83
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1476.2,
+      "prev_close": 1467.2,
+      "volume": 450344,
+      "deliverable_qty": 199615,
+      "delivery_pct": 44.33
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 17:58:34",
+      "an_dt": "19-May-2026 17:58:34",
+      "desc": "Change in Auditors",
+      "sm_name": "Nuvama Wealth Management Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NWML_19052026175738_SE_BMOutcome_19052026.pdf"
+    },
     {
       "sort_date": "2026-05-18 19:24:34",
       "an_dt": "18-May-2026 19:24:34",

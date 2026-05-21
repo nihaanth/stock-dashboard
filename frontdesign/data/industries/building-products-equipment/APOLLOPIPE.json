@@ -8,25 +8,9 @@
   "price": 458.45,
   "market_cap_cr": 2013.51,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 326.1,
-      "prev_close": 328.25,
-      "volume": 156031,
-      "deliverable_qty": 61332,
-      "delivery_pct": 39.31
-    },
-    {
-      "date": "2026-02-18",
-      "close": 332.75,
-      "prev_close": 326.1,
-      "volume": 266327,
-      "deliverable_qty": 198872,
-      "delivery_pct": 74.67
-    },
     {
       "date": "2026-02-19",
       "close": 333.05,
@@ -458,9 +442,24 @@
       "volume": 284553,
       "deliverable_qty": 106046,
       "delivery_pct": 37.27
+    },
+    {
+      "date": "2026-05-20",
+      "close": 507.6,
+      "prev_close": 509.1,
+      "volume": 591564,
+      "deliverable_qty": 332011,
+      "delivery_pct": 56.12
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 19:07:39",
+      "an_dt": "20-May-2026 19:07:39",
+      "desc": "Resignation",
+      "sm_name": "Apollo Pipes Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APOLLOPIPE_20052026190724_IntimationStxSMPRESIGNATION20052026.pdf"
+    },
     {
       "sort_date": "2026-05-15 19:02:53",
       "an_dt": "15-May-2026 19:02:53",

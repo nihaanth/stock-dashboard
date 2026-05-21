@@ -8,25 +8,9 @@
   "price": 730.4,
   "market_cap_cr": 20670.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 558.2,
-      "prev_close": 553.5,
-      "volume": 234246,
-      "deliverable_qty": 109739,
-      "delivery_pct": 46.85
-    },
-    {
-      "date": "2026-02-18",
-      "close": 564.9,
-      "prev_close": 558.2,
-      "volume": 202605,
-      "deliverable_qty": 85603,
-      "delivery_pct": 42.25
-    },
     {
       "date": "2026-02-19",
       "close": 551.0,
@@ -458,9 +442,24 @@
       "volume": 1100521,
       "deliverable_qty": 488625,
       "delivery_pct": 44.4
+    },
+    {
+      "date": "2026-05-20",
+      "close": 627.35,
+      "prev_close": 602.85,
+      "volume": 959123,
+      "deliverable_qty": 218985,
+      "delivery_pct": 22.83
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 17:27:21",
+      "an_dt": "20-May-2026 17:27:21",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "NAVA LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NBVENTURES_20052026172627_Disclosure.pdf"
+    },
     {
       "sort_date": "2026-05-16 11:04:54",
       "an_dt": "16-May-2026 11:04:54",

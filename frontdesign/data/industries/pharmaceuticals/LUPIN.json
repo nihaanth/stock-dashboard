@@ -8,25 +8,9 @@
   "price": 2255.9,
   "market_cap_cr": 103143.32,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 2247.5,
-      "prev_close": 2221.5,
-      "volume": 932836,
-      "deliverable_qty": 383372,
-      "delivery_pct": 41.1
-    },
-    {
-      "date": "2026-02-18",
-      "close": 2226.7,
-      "prev_close": 2247.5,
-      "volume": 381520,
-      "deliverable_qty": 185065,
-      "delivery_pct": 48.51
-    },
     {
       "date": "2026-02-19",
       "close": 2228.7,
@@ -458,9 +442,24 @@
       "volume": 907343,
       "deliverable_qty": 464678,
       "delivery_pct": 51.21
+    },
+    {
+      "date": "2026-05-20",
+      "close": 2285.5,
+      "prev_close": 2287.4,
+      "volume": 1189737,
+      "deliverable_qty": 651518,
+      "delivery_pct": 54.76
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 11:43:14",
+      "an_dt": "19-May-2026 11:43:14",
+      "desc": "Press Release",
+      "sm_name": "Lupin Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Lupin2_19052026113941_SELetterPressRelease.pdf"
+    },
     {
       "sort_date": "2026-05-18 21:08:21",
       "an_dt": "18-May-2026 21:08:21",
@@ -796,13 +795,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Lupin Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Lupin2_19022026174850_SE_Intimation_Schedule_of_Analyst_Investors_Meet_19022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:21:28",
-      "an_dt": "17-Feb-2026 17:21:28",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Lupin Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Lupin2_17022026171711_SE_Intimation_of_Investor_Meet_Transcript.pdf"
     }
   ]
 }

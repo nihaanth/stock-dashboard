@@ -8,25 +8,9 @@
   "price": 264.2,
   "market_cap_cr": 68599.15,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 330.7,
-      "prev_close": 342.0,
-      "volume": 7661075,
-      "deliverable_qty": 2225505,
-      "delivery_pct": 29.05
-    },
-    {
-      "date": "2026-02-18",
-      "close": 333.95,
-      "prev_close": 330.7,
-      "volume": 6014459,
-      "deliverable_qty": 2285223,
-      "delivery_pct": 38.0
-    },
     {
       "date": "2026-02-19",
       "close": 326.65,
@@ -458,6 +442,14 @@
       "volume": 12986815,
       "deliverable_qty": 5979154,
       "delivery_pct": 46.04
+    },
+    {
+      "date": "2026-05-20",
+      "close": 256.35,
+      "prev_close": 260.7,
+      "volume": 9905588,
+      "deliverable_qty": 5525154,
+      "delivery_pct": 55.78
     }
   ],
   "news": [
@@ -586,13 +578,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Swiggy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SWIGGY_05032026211631_SE_Intimation_Investor_Meeting_05Mar2026_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 16:43:07",
-      "an_dt": "17-Feb-2026 16:43:07",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Swiggy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SWIGGY_17022026164245_SE_Intimation_Investor_Meetings_Signed.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 105.28,
   "market_cap_cr": 2532.15,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 80.68,
-      "prev_close": 80.2,
-      "volume": 81928,
-      "deliverable_qty": 38461,
-      "delivery_pct": 46.94
-    },
-    {
-      "date": "2026-02-18",
-      "close": 80.95,
-      "prev_close": 80.68,
-      "volume": 74078,
-      "deliverable_qty": 37117,
-      "delivery_pct": 50.11
-    },
     {
       "date": "2026-02-19",
       "close": 76.59,
@@ -458,9 +442,24 @@
       "volume": 841925,
       "deliverable_qty": 285172,
       "delivery_pct": 33.87
+    },
+    {
+      "date": "2026-05-20",
+      "close": 95.88,
+      "prev_close": 97.73,
+      "volume": 369831,
+      "deliverable_qty": 202556,
+      "delivery_pct": 54.77
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 13:24:55",
+      "an_dt": "19-May-2026 13:24:55",
+      "desc": "General Updates",
+      "sm_name": "Nitco Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NITCO_19052026132443_Investorpresentation_SE19052026.pdf"
+    },
     {
       "sort_date": "2026-05-15 14:55:59",
       "an_dt": "15-May-2026 14:55:59",
@@ -600,27 +599,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Nitco Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NITCO_04032026151748_Stock_Exchange_Newspaper_advertisement.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:06:37",
-      "an_dt": "18-Feb-2026 17:06:37",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Nitco Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NITCO_18022026170620_Newspaperadvertisemnt_feb172026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 12:36:53",
-      "an_dt": "18-Feb-2026 12:36:53",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Nitco Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NITCO_18022026123642_Outcome_of_Board_meeting_Dec_2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:10:10",
-      "an_dt": "17-Feb-2026 18:10:10",
-      "desc": "Shareholders meeting",
-      "sm_name": "Nitco Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NITCO_17022026180943_SELetter_noticeofpostalballot.pdf"
     }
   ]
 }

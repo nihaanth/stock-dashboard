@@ -8,25 +8,9 @@
   "price": 580.25,
   "market_cap_cr": 3587.55,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 530.65,
-      "prev_close": 518.05,
-      "volume": 259679,
-      "deliverable_qty": 154646,
-      "delivery_pct": 59.55
-    },
-    {
-      "date": "2026-02-18",
-      "close": 532.05,
-      "prev_close": 530.65,
-      "volume": 139734,
-      "deliverable_qty": 80313,
-      "delivery_pct": 57.48
-    },
     {
       "date": "2026-02-19",
       "close": 510.9,
@@ -458,6 +442,14 @@
       "volume": 175465,
       "deliverable_qty": 76244,
       "delivery_pct": 43.45
+    },
+    {
+      "date": "2026-05-20",
+      "close": 684.35,
+      "prev_close": 681.7,
+      "volume": 119154,
+      "deliverable_qty": 54968,
+      "delivery_pct": 46.13
     }
   ],
   "news": [
@@ -593,13 +585,6 @@
       "desc": "Arrangements for strategic, technical, manufacturing, or marketing tie up",
       "sm_name": "Krishana Phoschem Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KRISHANA_02032026173652_NSEDISCMKTGYARRASIGN0203.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 11:23:54",
-      "an_dt": "18-Feb-2026 11:23:54",
-      "desc": "Credit Rating- Revision",
-      "sm_name": "Krishana Phoschem Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KRISHANA_18022026111847_creditratingNSEUP180226F.pdf"
     }
   ]
 }

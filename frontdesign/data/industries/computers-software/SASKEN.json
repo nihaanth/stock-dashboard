@@ -8,25 +8,9 @@
   "price": 1634.6,
   "market_cap_cr": 2482.38,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1231.1,
-      "prev_close": 1211.2,
-      "volume": 23684,
-      "deliverable_qty": 7117,
-      "delivery_pct": 30.05
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1236.1,
-      "prev_close": 1231.1,
-      "volume": 6270,
-      "deliverable_qty": 3101,
-      "delivery_pct": 49.46
-    },
     {
       "date": "2026-02-19",
       "close": 1207.4,
@@ -458,9 +442,24 @@
       "volume": 494512,
       "deliverable_qty": 95906,
       "delivery_pct": 19.39
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1718.5,
+      "prev_close": 1823.4,
+      "volume": 107454,
+      "deliverable_qty": 28185,
+      "delivery_pct": 26.23
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 23:19:28",
+      "an_dt": "19-May-2026 23:19:28",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Sasken Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SASKEN_19052026231909_Ltr_to_SE_Investor_Meet_NV_Alpha_22_May_2026.pdf"
+    },
     {
       "sort_date": "2026-05-18 20:23:41",
       "an_dt": "18-May-2026 20:23:41",

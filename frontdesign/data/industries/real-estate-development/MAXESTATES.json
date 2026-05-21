@@ -8,25 +8,9 @@
   "price": 374.9,
   "market_cap_cr": 6127.75,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 410.65,
-      "prev_close": 403.35,
-      "volume": 69642,
-      "deliverable_qty": 27314,
-      "delivery_pct": 39.22
-    },
-    {
-      "date": "2026-02-18",
-      "close": 424.4,
-      "prev_close": 410.65,
-      "volume": 110914,
-      "deliverable_qty": 51081,
-      "delivery_pct": 46.05
-    },
     {
       "date": "2026-02-19",
       "close": 417.15,
@@ -458,9 +442,31 @@
       "volume": 74612,
       "deliverable_qty": 50953,
       "delivery_pct": 68.29
+    },
+    {
+      "date": "2026-05-20",
+      "close": 406.0,
+      "prev_close": 405.9,
+      "volume": 55347,
+      "deliverable_qty": 34832,
+      "delivery_pct": 62.93
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 20:03:46",
+      "an_dt": "20-May-2026 20:03:46",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Max Estates Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEL_20052026200258_20260520Investormeeting.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 19:57:39",
+      "an_dt": "20-May-2026 19:57:39",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Max Estates Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEL_20052026195709_20260520EarningCall.pdf"
+    },
     {
       "sort_date": "2026-05-15 19:20:34",
       "an_dt": "15-May-2026 19:20:34",

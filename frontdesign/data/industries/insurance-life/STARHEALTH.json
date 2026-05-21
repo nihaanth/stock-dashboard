@@ -8,25 +8,9 @@
   "price": 515.95,
   "market_cap_cr": 30358.68,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 478.4,
-      "prev_close": 470.2,
-      "volume": 218161,
-      "deliverable_qty": 120572,
-      "delivery_pct": 55.27
-    },
-    {
-      "date": "2026-02-18",
-      "close": 473.6,
-      "prev_close": 478.4,
-      "volume": 221257,
-      "deliverable_qty": 117142,
-      "delivery_pct": 52.94
-    },
     {
       "date": "2026-02-19",
       "close": 459.35,
@@ -458,9 +442,31 @@
       "volume": 341423,
       "deliverable_qty": 238394,
       "delivery_pct": 69.82
+    },
+    {
+      "date": "2026-05-20",
+      "close": 519.8,
+      "prev_close": 517.1,
+      "volume": 290055,
+      "deliverable_qty": 157745,
+      "delivery_pct": 54.38
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 14:42:28",
+      "an_dt": "19-May-2026 14:42:28",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Star Health and Allied Insurance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STARHEALTH_19052026143510_Investor_meets_Single_22052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 11:51:11",
+      "an_dt": "19-May-2026 11:51:11",
+      "desc": "General Updates",
+      "sm_name": "Star Health and Allied Insurance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STARHEALTH_19052026114911_Investor_meets_Single_21052026_Clarification_letter.pdf"
+    },
     {
       "sort_date": "2026-05-18 12:55:53",
       "an_dt": "18-May-2026 12:55:53",
@@ -691,20 +697,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Star Health and Allied Insurance Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/STARHEALTH_20022026115440_AnalystMeet_25_Feb_2026_Single_.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 15:32:03",
-      "an_dt": "18-Feb-2026 15:32:03",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Star Health and Allied Insurance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STARHEALTH_18022026152907_AnalystMeet24Feb2026Group.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 15:19:46",
-      "an_dt": "18-Feb-2026 15:19:46",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Star Health and Allied Insurance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STARHEALTH_18022026151729_AnalystMeet24Feb2026Single.pdf"
     }
   ]
 }

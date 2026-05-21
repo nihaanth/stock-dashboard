@@ -8,25 +8,9 @@
   "price": 1177.0,
   "market_cap_cr": 476332.79,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1391.2,
-      "prev_close": 1365.6,
-      "volume": 25347684,
-      "deliverable_qty": 8513708,
-      "delivery_pct": 33.59
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1373.7,
-      "prev_close": 1391.2,
-      "volume": 20241373,
-      "deliverable_qty": 9098442,
-      "delivery_pct": 44.95
-    },
     {
       "date": "2026-02-19",
       "close": 1370.5,
@@ -458,6 +442,14 @@
       "volume": 12096377,
       "deliverable_qty": 6058529,
       "delivery_pct": 50.09
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1193.7,
+      "prev_close": 1196.9,
+      "volume": 15121010,
+      "deliverable_qty": 10510891,
+      "delivery_pct": 69.51
     }
   ],
   "news": [
@@ -964,27 +956,6 @@
       "desc": "Allotment of Securities",
       "sm_name": "Infosys Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INFY_20022026211602_ESOP_Allotment_Batch91.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:55:58",
-      "an_dt": "17-Feb-2026 17:55:58",
-      "desc": "Updates",
-      "sm_name": "Infosys Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Infosys_17022026175524_PR_17022026_2.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 11:15:04",
-      "an_dt": "17-Feb-2026 11:15:04",
-      "desc": "Updates",
-      "sm_name": "Infosys Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Infosys_17022026111455_SEfiling_InvestorAIday.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 09:27:55",
-      "an_dt": "17-Feb-2026 09:27:55",
-      "desc": "Updates",
-      "sm_name": "Infosys Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Infosys_17022026092732_PR_17022026.pdf"
     }
   ]
 }

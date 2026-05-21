@@ -8,25 +8,9 @@
   "price": 861.45,
   "market_cap_cr": 9155.26,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 745.15,
-      "prev_close": 744.25,
-      "volume": 123553,
-      "deliverable_qty": 54312,
-      "delivery_pct": 43.96
-    },
-    {
-      "date": "2026-02-18",
-      "close": 760.5,
-      "prev_close": 745.15,
-      "volume": 384946,
-      "deliverable_qty": 206009,
-      "delivery_pct": 53.52
-    },
     {
       "date": "2026-02-19",
       "close": 736.9,
@@ -458,9 +442,24 @@
       "volume": 290759,
       "deliverable_qty": 99613,
       "delivery_pct": 34.26
+    },
+    {
+      "date": "2026-05-20",
+      "close": 754.75,
+      "prev_close": 763.15,
+      "volume": 115772,
+      "deliverable_qty": 49649,
+      "delivery_pct": 42.89
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 12:36:27",
+      "an_dt": "20-May-2026 12:36:27",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Clean Science and Technology Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CLEAN_20052026123605_Transcript_of_con_call_14052026.pdf"
+    },
     {
       "sort_date": "2026-05-15 14:42:52",
       "an_dt": "15-May-2026 14:42:52",

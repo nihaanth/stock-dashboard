@@ -8,25 +8,9 @@
   "price": 3617.3,
   "market_cap_cr": 45969.3,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 3919.6,
-      "prev_close": 3885.8,
-      "volume": 256640,
-      "deliverable_qty": 143701,
-      "delivery_pct": 55.99
-    },
-    {
-      "date": "2026-02-18",
-      "close": 3934.8,
-      "prev_close": 3919.6,
-      "volume": 179069,
-      "deliverable_qty": 124535,
-      "delivery_pct": 69.55
-    },
     {
       "date": "2026-02-19",
       "close": 3873.2,
@@ -458,9 +442,24 @@
       "volume": 104903,
       "deliverable_qty": 50099,
       "delivery_pct": 47.76
+    },
+    {
+      "date": "2026-05-20",
+      "close": 3467.7,
+      "prev_close": 3446.3,
+      "volume": 81862,
+      "deliverable_qty": 41612,
+      "delivery_pct": 50.83
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 09:57:33",
+      "an_dt": "20-May-2026 09:57:33",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Supreme Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20042026174203_SUPREMEIND.pdf"
+    },
     {
       "sort_date": "2026-05-05 16:07:23",
       "an_dt": "05-May-2026 16:07:23",
@@ -579,20 +578,6 @@
       "desc": "General Updates",
       "sm_name": "Supreme Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUPREMEIND_26022026153115_IntimationunderReg52ofSEBILODRReg2015fortheQurended31122025.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:02:18",
-      "an_dt": "17-Feb-2026 12:02:18",
-      "desc": "Change in Management",
-      "sm_name": "Supreme Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUPREMEIND_17022026120138_17022926.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 11:58:35",
-      "an_dt": "17-Feb-2026 11:58:35",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Supreme Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUPREMEIND_17022026115806_17022926.pdf"
     }
   ]
 }

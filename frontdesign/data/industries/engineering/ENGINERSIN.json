@@ -8,25 +8,9 @@
   "price": 248.4,
   "market_cap_cr": 13961.13,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 215.27,
-      "prev_close": 226.62,
-      "volume": 81402370,
-      "deliverable_qty": 8481714,
-      "delivery_pct": 10.42
-    },
-    {
-      "date": "2026-02-18",
-      "close": 214.64,
-      "prev_close": 215.27,
-      "volume": 47620038,
-      "deliverable_qty": 5058869,
-      "delivery_pct": 10.62
-    },
     {
       "date": "2026-02-19",
       "close": 217.51,
@@ -458,6 +442,14 @@
       "volume": 3568207,
       "deliverable_qty": 1489595,
       "delivery_pct": 41.75
+    },
+    {
+      "date": "2026-05-20",
+      "close": 241.4,
+      "prev_close": 245.0,
+      "volume": 2870121,
+      "deliverable_qty": 964330,
+      "delivery_pct": 33.6
     }
   ],
   "news": [
@@ -551,20 +543,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Engineers India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_24022026135436_newspaperadvtintdiv2526.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:04:03",
-      "an_dt": "17-Feb-2026 18:04:03",
-      "desc": "Trading Window",
-      "sm_name": "Engineers India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_17022026180339_bmintimation170226.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:02:46",
-      "an_dt": "17-Feb-2026 18:02:46",
-      "desc": "Record Date",
-      "sm_name": "Engineers India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_17022026180025_bmintimation170226.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 503.35,
   "market_cap_cr": 856.66,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 445.9,
-      "prev_close": 456.7,
-      "volume": 3580,
-      "deliverable_qty": 1998,
-      "delivery_pct": 55.81
-    },
-    {
-      "date": "2026-02-18",
-      "close": 441.65,
-      "prev_close": 445.9,
-      "volume": 5765,
-      "deliverable_qty": 4180,
-      "delivery_pct": 72.51
-    },
     {
       "date": "2026-02-19",
       "close": 433.1,
@@ -458,6 +442,14 @@
       "volume": 4245,
       "deliverable_qty": 2926,
       "delivery_pct": 68.93
+    },
+    {
+      "date": "2026-05-20",
+      "close": 460.0,
+      "prev_close": 463.75,
+      "volume": 1853,
+      "deliverable_qty": 1101,
+      "delivery_pct": 59.42
     }
   ],
   "news": [
@@ -558,13 +550,6 @@
       "desc": "Appointment",
       "sm_name": "N R Agarwal Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NRAIL_19022026165146_IntimationReg30AppointmentofSMP19022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 19:10:31",
-      "an_dt": "17-Feb-2026 19:10:31",
-      "desc": "Disclosure under SEBI Takeover Regulations",
-      "sm_name": "N R Agarwal Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_17022026190942_17022026154329_NRAIL.pdf"
     }
   ]
 }

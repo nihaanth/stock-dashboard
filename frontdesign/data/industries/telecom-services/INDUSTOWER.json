@@ -8,25 +8,9 @@
   "price": 410.65,
   "market_cap_cr": 108294.7,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 472.7,
-      "prev_close": 473.7,
-      "volume": 3763634,
-      "deliverable_qty": 2174130,
-      "delivery_pct": 57.77
-    },
-    {
-      "date": "2026-02-18",
-      "close": 477.75,
-      "prev_close": 472.7,
-      "volume": 5407805,
-      "deliverable_qty": 3132517,
-      "delivery_pct": 57.93
-    },
     {
       "date": "2026-02-19",
       "close": 472.9,
@@ -458,6 +442,14 @@
       "volume": 12099517,
       "deliverable_qty": 6469536,
       "delivery_pct": 53.47
+    },
+    {
+      "date": "2026-05-20",
+      "close": 427.85,
+      "prev_close": 430.7,
+      "volume": 4234164,
+      "deliverable_qty": 2418734,
+      "delivery_pct": 57.12
     }
   ],
   "news": [
@@ -579,13 +571,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Indus Towers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARTIINFRATEL_20022026184225_SE_Letter_Newspaper_Ad-IEPF_Indus.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 19:04:21",
-      "an_dt": "17-Feb-2026 19:04:21",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Indus Towers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARTIINFRATEL_17022026190348_InvestorCallSchedule24022026.pdf"
     }
   ]
 }

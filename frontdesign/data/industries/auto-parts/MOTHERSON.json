@@ -8,25 +8,9 @@
   "price": 119.11,
   "market_cap_cr": 125437.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 132.66,
-      "prev_close": 132.31,
-      "volume": 17075133,
-      "deliverable_qty": 9725862,
-      "delivery_pct": 56.96
-    },
-    {
-      "date": "2026-02-18",
-      "close": 133.92,
-      "prev_close": 132.66,
-      "volume": 14682801,
-      "deliverable_qty": 5391703,
-      "delivery_pct": 36.72
-    },
     {
       "date": "2026-02-19",
       "close": 129.88,
@@ -458,9 +442,80 @@
       "volume": 19541162,
       "deliverable_qty": 7940608,
       "delivery_pct": 40.64
+    },
+    {
+      "date": "2026-05-20",
+      "close": 132.17,
+      "prev_close": 131.49,
+      "volume": 56355040,
+      "deliverable_qty": 16199951,
+      "delivery_pct": 28.75
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 19:18:51",
+      "an_dt": "20-May-2026 19:18:51",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Samvardhana Motherson International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOTHERSON_20052026191811_Outcome_Earning_Conference_Call.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 18:40:33",
+      "an_dt": "20-May-2026 18:40:33",
+      "desc": "Record Date",
+      "sm_name": "Samvardhana Motherson International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOTHERSON_20052026183928_Dividend.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 14:42:27",
+      "an_dt": "20-May-2026 14:42:27",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Samvardhana Motherson International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOTHERSON_20052026144215_Disclosure_-_Appointment_of_Cost_and_Internal_Auditor-Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 14:39:49",
+      "an_dt": "20-May-2026 14:39:49",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Samvardhana Motherson International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOTHERSON_20052026143933_Disclosure_-_Appointment_of_Statutory_Auditor-Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 14:37:33",
+      "an_dt": "20-May-2026 14:37:33",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Samvardhana Motherson International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOTHERSON_20052026143718_Disclosure_Fund_Raising-Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 14:35:35",
+      "an_dt": "20-May-2026 14:35:35",
+      "desc": "Press Release",
+      "sm_name": "Samvardhana Motherson International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOTHERSON_20052026143525_Press_Release-Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 14:33:09",
+      "an_dt": "20-May-2026 14:33:09",
+      "desc": "Dividend",
+      "sm_name": "Samvardhana Motherson International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOTHERSON_20052026143215_Outcome.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 14:29:56",
+      "an_dt": "20-May-2026 14:29:56",
+      "desc": "General Updates",
+      "sm_name": "Samvardhana Motherson International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOTHERSON_20052026142533_Presentation-Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 14:29:56",
+      "an_dt": "20-May-2026 14:29:56",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Samvardhana Motherson International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOTHERSON_20052026142357_Outcome.pdf"
+    },
     {
       "sort_date": "2026-05-14 17:17:24",
       "an_dt": "14-May-2026 17:17:24",
@@ -768,13 +823,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Samvardhana Motherson International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOTHERSON_19022026183052_SE_Disclosure_Investor_Meeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 18:53:18",
-      "an_dt": "18-Feb-2026 18:53:18",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Samvardhana Motherson International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOTHERSON_18022026185154_SE_Disclsoure_Investor_Meeting.pdf"
     }
   ]
 }

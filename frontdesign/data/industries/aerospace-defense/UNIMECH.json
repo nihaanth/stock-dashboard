@@ -8,25 +8,9 @@
   "price": 907.35,
   "market_cap_cr": 4614.5,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 940.7,
-      "prev_close": 905.0,
-      "volume": 48539,
-      "deliverable_qty": 21678,
-      "delivery_pct": 44.66
-    },
-    {
-      "date": "2026-02-18",
-      "close": 920.45,
-      "prev_close": 940.7,
-      "volume": 41561,
-      "deliverable_qty": 22194,
-      "delivery_pct": 53.4
-    },
     {
       "date": "2026-02-19",
       "close": 901.5,
@@ -458,6 +442,14 @@
       "volume": 37261,
       "deliverable_qty": 19706,
       "delivery_pct": 52.89
+    },
+    {
+      "date": "2026-05-20",
+      "close": 925.3,
+      "prev_close": 934.3,
+      "volume": 36826,
+      "deliverable_qty": 23791,
+      "delivery_pct": 64.6
     }
   ],
   "news": [
@@ -544,20 +536,6 @@
       "desc": "Trading Window",
       "sm_name": "Unimech Aerospace and Manufacturing Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIMECH_25032026133137_Trading_Window_Closure.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 12:11:12",
-      "an_dt": "18-Feb-2026 12:11:12",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Unimech Aerospace and Manufacturing Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIMECH_18022026121100_Transcrip_StockExchange.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 11:07:05",
-      "an_dt": "17-Feb-2026 11:07:05",
-      "desc": "Resignation",
-      "sm_name": "Unimech Aerospace and Manufacturing Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIMECH_17022026110650_Resignation_CS_signed.pdf"
     }
   ]
 }

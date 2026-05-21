@@ -8,25 +8,9 @@
   "price": 424.75,
   "market_cap_cr": 75337.49,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 516.8,
-      "prev_close": 514.25,
-      "volume": 963143,
-      "deliverable_qty": 515146,
-      "delivery_pct": 53.49
-    },
-    {
-      "date": "2026-02-18",
-      "close": 510.6,
-      "prev_close": 516.8,
-      "volume": 4359136,
-      "deliverable_qty": 1649007,
-      "delivery_pct": 37.83
-    },
     {
       "date": "2026-02-19",
       "close": 501.65,
@@ -458,9 +442,24 @@
       "volume": 1177536,
       "deliverable_qty": 536267,
       "delivery_pct": 45.54
+    },
+    {
+      "date": "2026-05-20",
+      "close": 450.9,
+      "prev_close": 452.8,
+      "volume": 854233,
+      "deliverable_qty": 386982,
+      "delivery_pct": 45.3
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 15:21:16",
+      "an_dt": "19-May-2026 15:21:16",
+      "desc": "Acquisition",
+      "sm_name": "Dabur India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DABUR_19052026152049_Update.pdf"
+    },
     {
       "sort_date": "2026-05-12 17:33:15",
       "an_dt": "12-May-2026 17:33:15",
@@ -733,13 +732,6 @@
       "desc": "Updates",
       "sm_name": "Dabur India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DABUR_20022026150730_Letter.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:49:23",
-      "an_dt": "17-Feb-2026 17:49:23",
-      "desc": "Change in Management",
-      "sm_name": "Dabur India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DABURU_17022026174731_Final.pdf"
     }
   ]
 }

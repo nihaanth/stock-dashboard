@@ -8,25 +8,9 @@
   "price": 152.31,
   "market_cap_cr": 14324.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 152.15,
-      "prev_close": 153.1,
-      "volume": 1356365,
-      "deliverable_qty": 439793,
-      "delivery_pct": 32.42
-    },
-    {
-      "date": "2026-02-18",
-      "close": 151.95,
-      "prev_close": 152.15,
-      "volume": 1308355,
-      "deliverable_qty": 489755,
-      "delivery_pct": 37.43
-    },
     {
       "date": "2026-02-19",
       "close": 149.38,
@@ -458,9 +442,24 @@
       "volume": 2161082,
       "deliverable_qty": 688343,
       "delivery_pct": 31.85
+    },
+    {
+      "date": "2026-05-20",
+      "close": 141.08,
+      "prev_close": 140.9,
+      "volume": 1432896,
+      "deliverable_qty": 404081,
+      "delivery_pct": 28.2
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 14:35:09",
+      "an_dt": "19-May-2026 14:35:09",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Ircon International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCON_19052026143503_STXANALYSTCALLINTIMATION.pdf"
+    },
     {
       "sort_date": "2026-05-07 18:38:43",
       "an_dt": "07-May-2026 18:38:43",
@@ -551,13 +550,6 @@
       "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
       "sm_name": "Ircon International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCON_26022026172229_STEXINTIMATION26022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:31:47",
-      "an_dt": "17-Feb-2026 12:31:47",
-      "desc": "General Updates",
-      "sm_name": "Ircon International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCON_17022026123136_STXLETTERWAIVERINTIMATION.pdf"
     }
   ]
 }

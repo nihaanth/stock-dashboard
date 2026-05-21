@@ -8,25 +8,9 @@
   "price": 3737.3,
   "market_cap_cr": 41054.24,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 3386.8,
-      "prev_close": 3316.2,
-      "volume": 37098,
-      "deliverable_qty": 18369,
-      "delivery_pct": 49.51
-    },
-    {
-      "date": "2026-02-18",
-      "close": 3394.1,
-      "prev_close": 3386.8,
-      "volume": 25329,
-      "deliverable_qty": 13442,
-      "delivery_pct": 53.07
-    },
     {
       "date": "2026-02-19",
       "close": 3411.4,
@@ -458,9 +442,31 @@
       "volume": 114982,
       "deliverable_qty": 66938,
       "delivery_pct": 58.22
+    },
+    {
+      "date": "2026-05-20",
+      "close": 3750.8,
+      "prev_close": 3748.1,
+      "volume": 39527,
+      "deliverable_qty": 19065,
+      "delivery_pct": 48.23
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 13:40:12",
+      "an_dt": "20-May-2026 13:40:12",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Gujarat Fluorochemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FLUOROCHEM_20052026133950_Intimation.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 16:32:34",
+      "an_dt": "19-May-2026 16:32:34",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Gujarat Fluorochemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FLUOROCHEM_19052026163137_GFCLIntimationofconferencecall.pdf"
+    },
     {
       "sort_date": "2026-04-29 11:14:42",
       "an_dt": "29-Apr-2026 11:14:42",
@@ -509,20 +515,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Gujarat Fluorochemicals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FLUOROCHEM_28022026150505_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 18:23:11",
-      "an_dt": "18-Feb-2026 18:23:11",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Gujarat Fluorochemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FLUOROCHEM_18022026182301_GFCL__Trancript_of_ConCall_18February2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 16:32:08",
-      "an_dt": "18-Feb-2026 16:32:08",
-      "desc": "General Updates",
-      "sm_name": "Gujarat Fluorochemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FLUOROCHEM_18022026163155_GFCL_Intimation_for_transmission_of_shares_of_Late_Shri_DK_Jain.pdf"
     }
   ]
 }

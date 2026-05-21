@@ -8,25 +8,9 @@
   "price": 1178.7,
   "market_cap_cr": 18414.64,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 868.3,
-      "prev_close": 859.1,
-      "volume": 607603,
-      "deliverable_qty": 182407,
-      "delivery_pct": 30.02
-    },
-    {
-      "date": "2026-02-18",
-      "close": 870.8,
-      "prev_close": 868.3,
-      "volume": 1183257,
-      "deliverable_qty": 382427,
-      "delivery_pct": 32.32
-    },
     {
       "date": "2026-02-19",
       "close": 884.1,
@@ -458,9 +442,24 @@
       "volume": 4015270,
       "deliverable_qty": 860550,
       "delivery_pct": 21.43
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1231.2,
+      "prev_close": 1256.3,
+      "volume": 1201219,
+      "deliverable_qty": 493237,
+      "delivery_pct": 41.06
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 16:24:28",
+      "an_dt": "19-May-2026 16:24:28",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "TD Power Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TDPOWERSYS_19052026162407_Disclosure_Reg30_Earning_Call_Transcript.pdf"
+    },
     {
       "sort_date": "2026-05-16 10:07:27",
       "an_dt": "16-May-2026 10:07:27",

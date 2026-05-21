@@ -8,25 +8,9 @@
   "price": 463.75,
   "market_cap_cr": 14698.92,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 453.0,
-      "prev_close": 453.95,
-      "volume": 68690,
-      "deliverable_qty": 31695,
-      "delivery_pct": 46.14
-    },
-    {
-      "date": "2026-02-18",
-      "close": 452.6,
-      "prev_close": 453.0,
-      "volume": 64194,
-      "deliverable_qty": 20962,
-      "delivery_pct": 32.65
-    },
     {
       "date": "2026-02-19",
       "close": 450.7,
@@ -458,9 +442,24 @@
       "volume": 33152,
       "deliverable_qty": 14620,
       "delivery_pct": 44.1
+    },
+    {
+      "date": "2026-05-20",
+      "close": 459.7,
+      "prev_close": 456.85,
+      "volume": 48797,
+      "deliverable_qty": 21683,
+      "delivery_pct": 44.44
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 20:18:26",
+      "an_dt": "20-May-2026 20:18:26",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "Dr. Agarwal's Health Care Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DRAGARWALS_20052026201818_C005_Receipt_Demand_Notice_sd.pdf"
+    },
     {
       "sort_date": "2026-05-15 19:14:38",
       "an_dt": "15-May-2026 19:14:38",
@@ -558,13 +557,6 @@
       "desc": "Credit Rating",
       "sm_name": "Dr. Agarwal's Health Care Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DRAGARWALS_23022026181853_C72_Ratings_230226_Final_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 13:26:34",
-      "an_dt": "17-Feb-2026 13:26:34",
-      "desc": "Amalgamation/Merger",
-      "sm_name": "Dr. Agarwal's Health Care Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DRAGARWALS_17022026132624_AHCL_NOC_sd.pdf"
     }
   ]
 }

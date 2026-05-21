@@ -8,25 +8,9 @@
   "price": 4295.2,
   "market_cap_cr": 24457.17,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 3098.8,
-      "prev_close": 3067.5,
-      "volume": 566441,
-      "deliverable_qty": 93525,
-      "delivery_pct": 16.51
-    },
-    {
-      "date": "2026-02-18",
-      "close": 3374.4,
-      "prev_close": 3098.8,
-      "volume": 8918521,
-      "deliverable_qty": 1120256,
-      "delivery_pct": 12.56
-    },
     {
       "date": "2026-02-19",
       "close": 3527.9,
@@ -458,6 +442,14 @@
       "volume": 680371,
       "deliverable_qty": 142713,
       "delivery_pct": 20.98
+    },
+    {
+      "date": "2026-05-20",
+      "close": 3841.7,
+      "prev_close": 3746.4,
+      "volume": 996231,
+      "deliverable_qty": 207310,
+      "delivery_pct": 20.81
     }
   ],
   "news": [
@@ -656,34 +648,6 @@
       "desc": "General Updates",
       "sm_name": "Netweb Technologies India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NETWEB1234_21022026121506_ESG_Report.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 12:19:20",
-      "an_dt": "18-Feb-2026 12:19:20",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Netweb Technologies India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NETWEB1234_18022026121908_Newspaper_Publication_Postal_Ballot.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 07:18:35",
-      "an_dt": "18-Feb-2026 07:18:35",
-      "desc": "Updates",
-      "sm_name": "Netweb Technologies India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NETWEB1234_18022026071821_Product_Launch.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 07:06:17",
-      "an_dt": "18-Feb-2026 07:06:17",
-      "desc": "Press Release",
-      "sm_name": "Netweb Technologies India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NETWEB1234_18022026070604_Press_Release.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:29:19",
-      "an_dt": "17-Feb-2026 17:29:19",
-      "desc": "Shareholders meeting",
-      "sm_name": "Netweb Technologies India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NETWEB1234_17022026172904_Postal_Ballot_Notice__2_.pdf"
     }
   ]
 }

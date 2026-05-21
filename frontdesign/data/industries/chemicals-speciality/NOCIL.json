@@ -8,25 +8,9 @@
   "price": 170.24,
   "market_cap_cr": 2843.43,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 148.92,
-      "prev_close": 146.6,
-      "volume": 319479,
-      "deliverable_qty": 164715,
-      "delivery_pct": 51.56
-    },
-    {
-      "date": "2026-02-18",
-      "close": 147.08,
-      "prev_close": 148.92,
-      "volume": 938362,
-      "deliverable_qty": 458745,
-      "delivery_pct": 48.89
-    },
     {
       "date": "2026-02-19",
       "close": 150.48,
@@ -458,9 +442,24 @@
       "volume": 258278,
       "deliverable_qty": 103545,
       "delivery_pct": 40.09
+    },
+    {
+      "date": "2026-05-20",
+      "close": 167.87,
+      "prev_close": 171.62,
+      "volume": 291327,
+      "deliverable_qty": 120824,
+      "delivery_pct": 41.47
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 19:00:27",
+      "an_dt": "20-May-2026 19:00:27",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "NOCIL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_16042026183029_NOCIL.pdf"
+    },
     {
       "sort_date": "2026-05-15 10:23:25",
       "an_dt": "15-May-2026 10:23:25",
@@ -579,13 +578,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "NOCIL Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NOCIL_26022026162722_RelodgementofTransfer_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 14:38:45",
-      "an_dt": "18-Feb-2026 14:38:45",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "NOCIL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NOCIL_18022026143836_TranscriptofEarningscall_PDF_Signed.pdf"
     }
   ]
 }

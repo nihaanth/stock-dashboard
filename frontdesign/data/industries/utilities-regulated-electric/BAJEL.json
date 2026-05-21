@@ -8,25 +8,9 @@
   "price": 175.63,
   "market_cap_cr": 2031.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 165.74,
-      "prev_close": 159.75,
-      "volume": 324317,
-      "deliverable_qty": 76228,
-      "delivery_pct": 23.5
-    },
-    {
-      "date": "2026-02-18",
-      "close": 165.61,
-      "prev_close": 165.74,
-      "volume": 239863,
-      "deliverable_qty": 88338,
-      "delivery_pct": 36.83
-    },
     {
       "date": "2026-02-19",
       "close": 164.76,
@@ -458,6 +442,14 @@
       "volume": 542095,
       "deliverable_qty": 225101,
       "delivery_pct": 41.52
+    },
+    {
+      "date": "2026-05-20",
+      "close": 176.45,
+      "prev_close": 173.9,
+      "volume": 160533,
+      "deliverable_qty": 67859,
+      "delivery_pct": 42.27
     }
   ],
   "news": [
@@ -544,20 +536,6 @@
       "desc": "Agreements",
       "sm_name": "Bajel Projects Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BAJEL_10032026132657_intimationniifsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 15:28:32",
-      "an_dt": "17-Feb-2026 15:28:32",
-      "desc": "Press Release",
-      "sm_name": "Bajel Projects Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BAJEL_17022026152821_pressreleasesigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 15:04:14",
-      "an_dt": "17-Feb-2026 15:04:14",
-      "desc": "Memorandum of Understanding/Agreements",
-      "sm_name": "Bajel Projects Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BAJEL_17022026150352_finalintimationsigned.pdf"
     }
   ]
 }

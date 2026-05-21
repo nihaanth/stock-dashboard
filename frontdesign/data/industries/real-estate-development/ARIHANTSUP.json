@@ -8,25 +8,9 @@
   "price": 267.5,
   "market_cap_cr": 1156.94,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 265.25,
-      "prev_close": 268.65,
-      "volume": 12640,
-      "deliverable_qty": 6066,
-      "delivery_pct": 47.99
-    },
-    {
-      "date": "2026-02-18",
-      "close": 262.95,
-      "prev_close": 265.25,
-      "volume": 41813,
-      "deliverable_qty": 16511,
-      "delivery_pct": 39.49
-    },
     {
       "date": "2026-02-19",
       "close": 260.55,
@@ -458,9 +442,38 @@
       "volume": 8240130,
       "deliverable_qty": 558508,
       "delivery_pct": 6.78
+    },
+    {
+      "date": "2026-05-20",
+      "close": 239.45,
+      "prev_close": 245.15,
+      "volume": 89475,
+      "deliverable_qty": 16469,
+      "delivery_pct": 18.41
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 19:18:53",
+      "an_dt": "19-May-2026 19:18:53",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Arihant Superstructures Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARIHANTSUP_19052026191843_ASL_Intimation_Investor_Meet_21052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 18:31:24",
+      "an_dt": "19-May-2026 18:31:24",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Arihant Superstructures Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_29042026161008_ARIHANTSUP.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 14:45:28",
+      "an_dt": "19-May-2026 14:45:28",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Arihant Superstructures Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARIHANTSUP_19052026144516_ASL_Audio_Recordings_of_the_Earnings_call_18052026.pdf"
+    },
     {
       "sort_date": "2026-05-16 12:12:07",
       "an_dt": "16-May-2026 12:12:07",
@@ -485,7 +498,7 @@
     {
       "sort_date": "2026-05-15 17:28:49",
       "an_dt": "15-May-2026 17:28:49",
-      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
+      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
       "sm_name": "Arihant Superstructures Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARIHANTSUP_15052026172834_ASL_Intimation_Continuation_with_Existing_RTA.pdf"
     },

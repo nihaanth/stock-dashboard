@@ -8,25 +8,9 @@
   "price": 798.8,
   "market_cap_cr": 1685.97,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 787.6,
-      "prev_close": 787.45,
-      "volume": 20780,
-      "deliverable_qty": 11224,
-      "delivery_pct": 54.01
-    },
-    {
-      "date": "2026-02-18",
-      "close": 786.75,
-      "prev_close": 787.6,
-      "volume": 13211,
-      "deliverable_qty": 7204,
-      "delivery_pct": 54.53
-    },
     {
       "date": "2026-02-19",
       "close": 777.55,
@@ -458,6 +442,14 @@
       "volume": 36067,
       "deliverable_qty": 20961,
       "delivery_pct": 58.12
+    },
+    {
+      "date": "2026-05-20",
+      "close": 798.05,
+      "prev_close": 767.4,
+      "volume": 87345,
+      "deliverable_qty": 57226,
+      "delivery_pct": 65.52
     }
   ],
   "news": [
@@ -565,13 +557,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Windlas Biotech Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WINDLAS_13032026125445_SALCO_13032026_UP.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:57:36",
-      "an_dt": "17-Feb-2026 12:57:36",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Windlas Biotech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WINDLAS_17022026125633_NP_ADVT_17022026.pdf"
     }
   ]
 }

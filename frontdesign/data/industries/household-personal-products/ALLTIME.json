@@ -8,25 +8,9 @@
   "price": 263.19,
   "market_cap_cr": 1724.1,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 251.37,
-      "prev_close": 248.95,
-      "volume": 272359,
-      "deliverable_qty": 247451,
-      "delivery_pct": 90.85
-    },
-    {
-      "date": "2026-02-18",
-      "close": 254.87,
-      "prev_close": 251.37,
-      "volume": 254921,
-      "deliverable_qty": 237303,
-      "delivery_pct": 93.09
-    },
     {
       "date": "2026-02-19",
       "close": 244.71,
@@ -458,6 +442,14 @@
       "volume": 49352,
       "deliverable_qty": 29193,
       "delivery_pct": 59.15
+    },
+    {
+      "date": "2026-05-20",
+      "close": 240.39,
+      "prev_close": 235.39,
+      "volume": 46776,
+      "deliverable_qty": 29648,
+      "delivery_pct": 63.38
     }
   ],
   "news": [
@@ -551,20 +543,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "All Time Plastics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALLTIMEPLASTICSLIMITED_07032026124747_IntimationPlantVisit.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 23:47:36",
-      "an_dt": "18-Feb-2026 23:47:36",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "All Time Plastics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALLTIMEPLASTICSLIMITED_18022026234726_Stock_Exchange_Intimation_of_Meeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 11:24:36",
-      "an_dt": "17-Feb-2026 11:24:36",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "All Time Plastics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALLTIMEPLASTICSLIMITED_17022026112202_SE39-ATPL_Q3FY26_Earnings_Call_Transcript.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 538.75,
   "market_cap_cr": 8248.37,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 489.95,
-      "prev_close": 477.2,
-      "volume": 1546521,
-      "deliverable_qty": 525742,
-      "delivery_pct": 34.0
-    },
-    {
-      "date": "2026-02-18",
-      "close": 487.85,
-      "prev_close": 489.95,
-      "volume": 431060,
-      "deliverable_qty": 141864,
-      "delivery_pct": 32.91
-    },
     {
       "date": "2026-02-19",
       "close": 487.5,
@@ -458,9 +442,24 @@
       "volume": 609959,
       "deliverable_qty": 433337,
       "delivery_pct": 71.04
+    },
+    {
+      "date": "2026-05-20",
+      "close": 514.95,
+      "prev_close": 519.8,
+      "volume": 322065,
+      "deliverable_qty": 215123,
+      "delivery_pct": 66.79
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 19:06:09",
+      "an_dt": "20-May-2026 19:06:09",
+      "desc": "Action(s) taken or orders passed",
+      "sm_name": "Akums Drugs and Pharmaceuticals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NSEAKUMS10_20052026190557_AKUMSITINTIMATION.pdf"
+    },
     {
       "sort_date": "2026-05-18 16:56:38",
       "an_dt": "18-May-2026 16:56:38",

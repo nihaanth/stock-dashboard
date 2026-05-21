@@ -8,25 +8,9 @@
   "price": 4498.0,
   "market_cap_cr": 3233.09,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 5039.4,
-      "prev_close": 5188.6,
-      "volume": 13470,
-      "deliverable_qty": 8290,
-      "delivery_pct": 61.54
-    },
-    {
-      "date": "2026-02-18",
-      "close": 4891.2,
-      "prev_close": 5039.4,
-      "volume": 29120,
-      "deliverable_qty": 13293,
-      "delivery_pct": 45.65
-    },
     {
       "date": "2026-02-19",
       "close": 4889.1,
@@ -458,6 +442,14 @@
       "volume": 16759,
       "deliverable_qty": 10073,
       "delivery_pct": 60.11
+    },
+    {
+      "date": "2026-05-20",
+      "close": 4212.8,
+      "prev_close": 4250.8,
+      "volume": 3518,
+      "deliverable_qty": 2273,
+      "delivery_pct": 64.61
     }
   ],
   "news": [
@@ -502,13 +494,6 @@
       "desc": "Resignation",
       "sm_name": "Vadilal Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VADILALIND_21022026220116_Final.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 09:09:57",
-      "an_dt": "18-Feb-2026 09:09:57",
-      "desc": "Resignation",
-      "sm_name": "Vadilal Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VADILALIND_18022026090805_Resign_of_director_disclosure-1.pdf"
     }
   ]
 }

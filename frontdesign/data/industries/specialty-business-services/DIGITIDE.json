@@ -8,25 +8,9 @@
   "price": 89.14,
   "market_cap_cr": 1328.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 109.36,
-      "prev_close": 106.66,
-      "volume": 218092,
-      "deliverable_qty": 107709,
-      "delivery_pct": 49.39
-    },
-    {
-      "date": "2026-02-18",
-      "close": 109.91,
-      "prev_close": 109.36,
-      "volume": 170056,
-      "deliverable_qty": 85524,
-      "delivery_pct": 50.29
-    },
     {
       "date": "2026-02-19",
       "close": 107.49,
@@ -458,9 +442,38 @@
       "volume": 86412,
       "deliverable_qty": 42776,
       "delivery_pct": 49.5
+    },
+    {
+      "date": "2026-05-20",
+      "close": 85.34,
+      "prev_close": 85.63,
+      "volume": 259706,
+      "deliverable_qty": 108102,
+      "delivery_pct": 41.62
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 11:37:36",
+      "an_dt": "20-May-2026 11:37:36",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Digitide Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIGITIDE_20052026113713_SE_Newspaper.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 16:56:27",
+      "an_dt": "19-May-2026 16:56:27",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Digitide Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIGITIDE_19052026165618_Digitide_AudiorecordingofEarningsCall.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 00:09:32",
+      "an_dt": "19-May-2026 00:09:32",
+      "desc": "General Updates",
+      "sm_name": "Digitide Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIGITIDE_19052026000915_InvestorPPT.pdf"
+    },
     {
       "sort_date": "2026-05-18 23:47:58",
       "an_dt": "18-May-2026 23:47:58",

@@ -8,25 +8,9 @@
   "price": 441.2,
   "market_cap_cr": 659.94,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 622.85,
-      "prev_close": 607.05,
-      "volume": 374926,
-      "deliverable_qty": 68260,
-      "delivery_pct": 18.21
-    },
-    {
-      "date": "2026-02-18",
-      "close": 623.55,
-      "prev_close": 622.85,
-      "volume": 33572,
-      "deliverable_qty": 10471,
-      "delivery_pct": 31.19
-    },
     {
       "date": "2026-02-19",
       "close": 615.55,
@@ -458,9 +442,24 @@
       "volume": 20197,
       "deliverable_qty": 10473,
       "delivery_pct": 51.85
+    },
+    {
+      "date": "2026-05-20",
+      "close": 400.55,
+      "prev_close": 403.75,
+      "volume": 35552,
+      "deliverable_qty": 19169,
+      "delivery_pct": 53.92
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 16:14:09",
+      "an_dt": "19-May-2026 16:14:09",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Agarwal Industrial Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_16042026175056_AGARIND.pdf"
+    },
     {
       "sort_date": "2026-05-16 12:05:52",
       "an_dt": "16-May-2026 12:05:52",

@@ -8,25 +8,9 @@
   "price": 554.65,
   "market_cap_cr": 1836.3,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 516.45,
-      "prev_close": 505.35,
-      "volume": 88219,
-      "deliverable_qty": 21524,
-      "delivery_pct": 24.4
-    },
-    {
-      "date": "2026-02-18",
-      "close": 502.1,
-      "prev_close": 516.45,
-      "volume": 71063,
-      "deliverable_qty": 37144,
-      "delivery_pct": 52.27
-    },
     {
       "date": "2026-02-19",
       "close": 515.2,
@@ -458,9 +442,24 @@
       "volume": 126688,
       "deliverable_qty": 51593,
       "delivery_pct": 40.72
+    },
+    {
+      "date": "2026-05-20",
+      "close": 543.85,
+      "prev_close": 540.5,
+      "volume": 93169,
+      "deliverable_qty": 32201,
+      "delivery_pct": 34.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 16:44:08",
+      "an_dt": "20-May-2026 16:44:08",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Stove Kraft Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STOVEKRAFT_20052026164248_Transcript_of_earnings_Call_13_May_2026.pdf"
+    },
     {
       "sort_date": "2026-05-15 16:29:47",
       "an_dt": "15-May-2026 16:29:47",

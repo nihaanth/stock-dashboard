@@ -8,25 +8,9 @@
   "price": 294.15,
   "market_cap_cr": 11573.7,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 317.55,
-      "prev_close": 300.75,
-      "volume": 15829009,
-      "deliverable_qty": 1054827,
-      "delivery_pct": 6.66
-    },
-    {
-      "date": "2026-02-18",
-      "close": 314.1,
-      "prev_close": 317.55,
-      "volume": 1275741,
-      "deliverable_qty": 232328,
-      "delivery_pct": 18.21
-    },
     {
       "date": "2026-02-19",
       "close": 306.65,
@@ -458,9 +442,24 @@
       "volume": 611159,
       "deliverable_qty": 200431,
       "delivery_pct": 32.8
+    },
+    {
+      "date": "2026-05-20",
+      "close": 292.65,
+      "prev_close": 273.55,
+      "volume": 20683867,
+      "deliverable_qty": 1311747,
+      "delivery_pct": 6.34
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 18:02:44",
+      "an_dt": "20-May-2026 18:02:44",
+      "desc": "Updates",
+      "sm_name": "PCBL Chemical Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PCBL_20052026180133_AnnualSecretarialComplianceReport.pdf"
+    },
     {
       "sort_date": "2026-05-13 10:18:26",
       "an_dt": "13-May-2026 10:18:26",

@@ -8,25 +8,9 @@
   "price": 92.54,
   "market_cap_cr": 1579.24,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 81.7,
-      "prev_close": 81.82,
-      "volume": 348332,
-      "deliverable_qty": 110222,
-      "delivery_pct": 31.64
-    },
-    {
-      "date": "2026-02-18",
-      "close": 82.92,
-      "prev_close": 81.7,
-      "volume": 597601,
-      "deliverable_qty": 403442,
-      "delivery_pct": 67.51
-    },
     {
       "date": "2026-02-19",
       "close": 80.93,
@@ -458,9 +442,24 @@
       "volume": 670910,
       "deliverable_qty": 384526,
       "delivery_pct": 57.31
+    },
+    {
+      "date": "2026-05-20",
+      "close": 81.67,
+      "prev_close": 81.85,
+      "volume": 453671,
+      "deliverable_qty": 230092,
+      "delivery_pct": 50.72
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 14:44:45",
+      "an_dt": "20-May-2026 14:44:45",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shriram Properties Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHRIRAMPPS_20052026144334_SE_Intimation_Earnings_Call_Q4_FY26.pdf"
+    },
     {
       "sort_date": "2026-05-06 19:11:45",
       "an_dt": "06-May-2026 19:11:45",

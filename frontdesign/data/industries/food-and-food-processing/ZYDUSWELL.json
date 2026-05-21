@@ -8,25 +8,9 @@
   "price": 512.05,
   "market_cap_cr": 16291.24,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 405.6,
-      "prev_close": 400.8,
-      "volume": 76389,
-      "deliverable_qty": 36610,
-      "delivery_pct": 47.93
-    },
-    {
-      "date": "2026-02-18",
-      "close": 401.75,
-      "prev_close": 405.6,
-      "volume": 79461,
-      "deliverable_qty": 38287,
-      "delivery_pct": 48.18
-    },
     {
       "date": "2026-02-19",
       "close": 400.3,
@@ -458,9 +442,24 @@
       "volume": 870456,
       "deliverable_qty": 142642,
       "delivery_pct": 16.39
+    },
+    {
+      "date": "2026-05-20",
+      "close": 512.55,
+      "prev_close": 509.1,
+      "volume": 587114,
+      "deliverable_qty": 161400,
+      "delivery_pct": 27.49
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 15:48:45",
+      "an_dt": "19-May-2026 15:48:45",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Zydus Wellness Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZYDUSWELL_19052026153945_SEintimationad.pdf"
+    },
     {
       "sort_date": "2026-05-18 19:16:46",
       "an_dt": "18-May-2026 19:16:46",
@@ -642,13 +641,6 @@
       "desc": "Updates",
       "sm_name": "Zydus Wellness Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZYDUSWELL_02032026171424_SEintimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:28:07",
-      "an_dt": "17-Feb-2026 17:28:07",
-      "desc": "Updates",
-      "sm_name": "Zydus Wellness Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZYDUSWELL_17022026172553_SEintimation.pdf"
     }
   ]
 }

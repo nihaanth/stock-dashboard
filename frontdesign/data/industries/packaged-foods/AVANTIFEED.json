@@ -8,25 +8,9 @@
   "price": 1404.5,
   "market_cap_cr": 19135.7,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1358.9,
-      "prev_close": 1349.25,
-      "volume": 1388491,
-      "deliverable_qty": 246891,
-      "delivery_pct": 17.78
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1361.55,
-      "prev_close": 1358.9,
-      "volume": 1422325,
-      "deliverable_qty": 164791,
-      "delivery_pct": 11.59
-    },
     {
       "date": "2026-02-19",
       "close": 1346.75,
@@ -458,9 +442,24 @@
       "volume": 504638,
       "deliverable_qty": 190674,
       "delivery_pct": 37.78
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1267.5,
+      "prev_close": 1267.4,
+      "volume": 386780,
+      "deliverable_qty": 94890,
+      "delivery_pct": 24.53
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 16:32:39",
+      "an_dt": "19-May-2026 16:32:39",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Avanti Feeds Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_19052026163152_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-08 18:42:28",
       "an_dt": "08-May-2026 18:42:28",
@@ -551,13 +550,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Avanti Feeds Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_25022026184054_AFL_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:30:18",
-      "an_dt": "18-Feb-2026 17:30:18",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Avanti Feeds Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_18022026172901_Intimation.pdf"
     }
   ]
 }

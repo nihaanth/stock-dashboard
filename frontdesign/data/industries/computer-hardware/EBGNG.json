@@ -8,25 +8,9 @@
   "price": 429.95,
   "market_cap_cr": 4901.93,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 343.75,
-      "prev_close": 333.65,
-      "volume": 243078,
-      "deliverable_qty": 172796,
-      "delivery_pct": 71.09
-    },
-    {
-      "date": "2026-02-18",
-      "close": 346.25,
-      "prev_close": 343.75,
-      "volume": 130598,
-      "deliverable_qty": 69789,
-      "delivery_pct": 53.44
-    },
     {
       "date": "2026-02-19",
       "close": 343.7,
@@ -458,6 +442,14 @@
       "volume": 378114,
       "deliverable_qty": 171484,
       "delivery_pct": 45.35
+    },
+    {
+      "date": "2026-05-20",
+      "close": 426.35,
+      "prev_close": 417.75,
+      "volume": 231741,
+      "deliverable_qty": 108496,
+      "delivery_pct": 46.82
     }
   ],
   "news": [
@@ -600,13 +592,6 @@
       "desc": "Agreements",
       "sm_name": "GNG Electronics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GNGNSE_17032026163157_Loan_Agreement_Intimation_Kotak.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 18:42:04",
-      "an_dt": "18-Feb-2026 18:42:04",
-      "desc": "Press Release",
-      "sm_name": "GNG Electronics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GNGNSE_18022026183454_Intimation_Press_Release.pdf"
     }
   ]
 }

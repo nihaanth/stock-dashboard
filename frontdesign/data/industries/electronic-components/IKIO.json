@@ -8,25 +8,9 @@
   "price": 171.09,
   "market_cap_cr": 1322.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 147.79,
-      "prev_close": 145.59,
-      "volume": 63275,
-      "deliverable_qty": 33551,
-      "delivery_pct": 53.02
-    },
-    {
-      "date": "2026-02-18",
-      "close": 149.02,
-      "prev_close": 147.79,
-      "volume": 42621,
-      "deliverable_qty": 19332,
-      "delivery_pct": 45.36
-    },
     {
       "date": "2026-02-19",
       "close": 147.75,
@@ -458,9 +442,24 @@
       "volume": 75551,
       "deliverable_qty": 26900,
       "delivery_pct": 35.61
+    },
+    {
+      "date": "2026-05-20",
+      "close": 154.17,
+      "prev_close": 152.06,
+      "volume": 121171,
+      "deliverable_qty": 45393,
+      "delivery_pct": 37.46
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 18:08:56",
+      "an_dt": "20-May-2026 18:08:56",
+      "desc": "Updates",
+      "sm_name": "IKIO Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IKIO_20052026180836_investormeetoutcome20052026.pdf"
+    },
     {
       "sort_date": "2026-05-15 18:24:30",
       "an_dt": "15-May-2026 18:24:30",
@@ -586,13 +585,6 @@
       "desc": "Updates",
       "sm_name": "IKIO Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IKIO_26032026132728_CoveringPIT.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 16:24:44",
-      "an_dt": "17-Feb-2026 16:24:44",
-      "desc": "General Updates",
-      "sm_name": "IKIO Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IKIO_17022026162422_Reg30RoyaluxGeneralLLC17022026.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 351.6,
   "market_cap_cr": 1952.46,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 304.5,
-      "prev_close": 300.9,
-      "volume": 239173,
-      "deliverable_qty": 87894,
-      "delivery_pct": 36.75
-    },
-    {
-      "date": "2026-02-18",
-      "close": 322.75,
-      "prev_close": 304.5,
-      "volume": 507103,
-      "deliverable_qty": 138363,
-      "delivery_pct": 27.28
-    },
     {
       "date": "2026-02-19",
       "close": 311.65,
@@ -458,6 +442,14 @@
       "volume": 198971,
       "deliverable_qty": 86613,
       "delivery_pct": 43.53
+    },
+    {
+      "date": "2026-05-20",
+      "close": 316.55,
+      "prev_close": 318.0,
+      "volume": 87446,
+      "deliverable_qty": 35570,
+      "delivery_pct": 40.68
     }
   ],
   "news": [
@@ -621,13 +613,6 @@
       "desc": "Action(s) initiated or orders passed",
       "sm_name": "EMS Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMSLIMITED_20022026170221_Intimation_Regulation_30_Imposition_of_Penalty.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 11:15:07",
-      "an_dt": "17-Feb-2026 11:15:07",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "EMS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMSLIMITED_17022026111500_Intimation_transcript.pdf"
     }
   ]
 }

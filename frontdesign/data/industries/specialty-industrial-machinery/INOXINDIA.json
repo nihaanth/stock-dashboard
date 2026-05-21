@@ -8,25 +8,9 @@
   "price": 1458.3,
   "market_cap_cr": 13236.04,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1164.3,
-      "prev_close": 1172.0,
-      "volume": 22554,
-      "deliverable_qty": 12432,
-      "delivery_pct": 55.12
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1151.4,
-      "prev_close": 1164.3,
-      "volume": 41211,
-      "deliverable_qty": 18765,
-      "delivery_pct": 45.53
-    },
     {
       "date": "2026-02-19",
       "close": 1131.0,
@@ -458,9 +442,38 @@
       "volume": 190534,
       "deliverable_qty": 99337,
       "delivery_pct": 52.14
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1449.2,
+      "prev_close": 1428.9,
+      "volume": 94001,
+      "deliverable_qty": 35606,
+      "delivery_pct": 37.88
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 19:34:01",
+      "an_dt": "20-May-2026 19:34:01",
+      "desc": "General Updates",
+      "sm_name": "INOX India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAMLESHS_20052026193331_SEIntimationFormC20052026signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 16:56:58",
+      "an_dt": "19-May-2026 16:56:58",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "INOX India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAMLESHS_19052026165646_SEReg30TranscriptforEarningPresentation13052026signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 10:59:22",
+      "an_dt": "19-May-2026 10:59:22",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "INOX India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20042026153958_INOXINDIA.pdf"
+    },
     {
       "sort_date": "2026-05-15 17:48:53",
       "an_dt": "15-May-2026 17:48:53",
@@ -663,20 +676,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "INOX India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAMLESHS_19022026162442_SEIntimation25022026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 20:12:37",
-      "an_dt": "18-Feb-2026 20:12:37",
-      "desc": "General Updates",
-      "sm_name": "INOX India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAMLESHS_18022026201207_Reg30IntimationofTransmissonsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 18:43:24",
-      "an_dt": "18-Feb-2026 18:43:24",
-      "desc": "Disclosure under SEBI Takeover Regulations",
-      "sm_name": "INOX India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_18022026184155_INOXINDIA.pdf"
     }
   ]
 }

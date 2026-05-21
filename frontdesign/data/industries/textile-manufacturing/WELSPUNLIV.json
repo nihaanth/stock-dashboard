@@ -8,25 +8,9 @@
   "price": 136.08,
   "market_cap_cr": 13006.9,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 139.25,
-      "prev_close": 138.35,
-      "volume": 1257211,
-      "deliverable_qty": 407052,
-      "delivery_pct": 32.38
-    },
-    {
-      "date": "2026-02-18",
-      "close": 138.46,
-      "prev_close": 139.25,
-      "volume": 894401,
-      "deliverable_qty": 326203,
-      "delivery_pct": 36.47
-    },
     {
       "date": "2026-02-19",
       "close": 137.75,
@@ -458,9 +442,45 @@
       "volume": 2939772,
       "deliverable_qty": 1332785,
       "delivery_pct": 45.34
+    },
+    {
+      "date": "2026-05-20",
+      "close": 141.65,
+      "prev_close": 140.39,
+      "volume": 2029110,
+      "deliverable_qty": 1003007,
+      "delivery_pct": 49.43
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 23:46:08",
+      "an_dt": "19-May-2026 23:46:08",
+      "desc": "General Updates",
+      "sm_name": "Welspun Living Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WELSPUNIND_19052026233846_Regulation30_PaymentOfFine_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 18:31:16",
+      "an_dt": "19-May-2026 18:31:16",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Welspun Living Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WELSPUNIND_19052026183008_Reg30_Transcript_15052026_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 17:45:00",
+      "an_dt": "19-May-2026 17:45:00",
+      "desc": "Public Announcement - Buyback of Shares",
+      "sm_name": "Welspun Living Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WELSPUNIND_19052026174452_WLL_BB_SE_PA_SIGNED.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 16:53:51",
+      "an_dt": "19-May-2026 16:53:51",
+      "desc": "Buyback",
+      "sm_name": "Welspun Living Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WELSPUNIND_19052026165332_WLL_BB_SE_BR_signed.pdf"
+    },
     {
       "sort_date": "2026-05-17 23:34:16",
       "an_dt": "17-May-2026 23:34:16",
@@ -656,13 +676,6 @@
       "desc": "Change in Management",
       "sm_name": "Welspun Living Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WELSPUNIND_20022026183254_Reg30_ApptOfSMP_Majinder_singh_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:39:27",
-      "an_dt": "17-Feb-2026 12:39:27",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Welspun Living Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WELSPUNIND_17022026112414_Reg30_Transcript_12022026_signed.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 148.46,
   "market_cap_cr": 22718.3,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 72.12,
-      "prev_close": 69.0,
-      "volume": 32146168,
-      "deliverable_qty": 12733035,
-      "delivery_pct": 39.61
-    },
-    {
-      "date": "2026-02-18",
-      "close": 73.79,
-      "prev_close": 72.12,
-      "volume": 25079749,
-      "deliverable_qty": 9362523,
-      "delivery_pct": 37.33
-    },
     {
       "date": "2026-02-19",
       "close": 71.38,
@@ -458,9 +442,31 @@
       "volume": 50784047,
       "deliverable_qty": 13492442,
       "delivery_pct": 26.57
+    },
+    {
+      "date": "2026-05-20",
+      "close": 139.34,
+      "prev_close": 138.17,
+      "volume": 27652548,
+      "deliverable_qty": 6310333,
+      "delivery_pct": 22.82
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 21:08:17",
+      "an_dt": "20-May-2026 21:08:17",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "HFCL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AHMED_20052026210744_HFCL_STX_AnalystMeet_26052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 18:58:33",
+      "an_dt": "19-May-2026 18:58:33",
+      "desc": "General Updates",
+      "sm_name": "HFCL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AHMED_19052026185751_HFCL_STX_CorpGuarantee_19052026.pdf"
+    },
     {
       "sort_date": "2026-05-16 23:17:29",
       "an_dt": "16-May-2026 23:17:29",
@@ -796,13 +802,6 @@
       "desc": "Press Release",
       "sm_name": "HFCL Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AHMED_23022026154236_HFCL_STX_PR_23022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:40:48",
-      "an_dt": "17-Feb-2026 18:40:48",
-      "desc": "General Updates",
-      "sm_name": "HFCL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AHMED_17022026184033_HFCL_STX_Guarantee_Intimation_17022026.pdf"
     }
   ]
 }

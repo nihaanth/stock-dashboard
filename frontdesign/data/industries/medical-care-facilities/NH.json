@@ -8,25 +8,9 @@
   "price": 1886.4,
   "market_cap_cr": 38312.76,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1829.1,
-      "prev_close": 1836.9,
-      "volume": 154897,
-      "deliverable_qty": 72887,
-      "delivery_pct": 47.06
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1844.1,
-      "prev_close": 1829.1,
-      "volume": 153454,
-      "deliverable_qty": 65596,
-      "delivery_pct": 42.75
-    },
     {
       "date": "2026-02-19",
       "close": 1837.6,
@@ -458,6 +442,14 @@
       "volume": 273327,
       "deliverable_qty": 139012,
       "delivery_pct": 50.86
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1902.4,
+      "prev_close": 1884.1,
+      "volume": 370212,
+      "deliverable_qty": 195178,
+      "delivery_pct": 52.72
     }
   ],
   "news": [
@@ -614,13 +606,6 @@
       "desc": "Updates",
       "sm_name": "Narayana Hrudayalaya Ltd.",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Narayana_20022026180535_SE_Purchase_of_Immovable_property.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:36:36",
-      "an_dt": "17-Feb-2026 17:36:36",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Narayana Hrudayalaya Ltd.",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Narayana_17022026173540_SEAudioRecordingQ3202526.pdf"
     }
   ]
 }

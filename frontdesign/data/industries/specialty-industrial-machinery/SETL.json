@@ -8,25 +8,9 @@
   "price": 137.74,
   "market_cap_cr": 2747.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 130.92,
-      "prev_close": 129.37,
-      "volume": 152316,
-      "deliverable_qty": 86606,
-      "delivery_pct": 56.86
-    },
-    {
-      "date": "2026-02-18",
-      "close": 132.13,
-      "prev_close": 130.92,
-      "volume": 135800,
-      "deliverable_qty": 79885,
-      "delivery_pct": 58.83
-    },
     {
       "date": "2026-02-19",
       "close": 127.22,
@@ -458,9 +442,24 @@
       "volume": 241439,
       "deliverable_qty": 134878,
       "delivery_pct": 55.86
+    },
+    {
+      "date": "2026-05-20",
+      "close": 135.55,
+      "prev_close": 136.98,
+      "volume": 194111,
+      "deliverable_qty": 98153,
+      "delivery_pct": 50.57
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 18:46:39",
+      "an_dt": "20-May-2026 18:46:39",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Standard Engineering Technology Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLTPL_20052026184629_Earnings_Call_Transcript_20052026.pdf"
+    },
     {
       "sort_date": "2026-05-15 21:20:52",
       "an_dt": "15-May-2026 21:20:52",

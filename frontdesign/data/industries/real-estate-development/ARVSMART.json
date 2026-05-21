@@ -8,25 +8,9 @@
   "price": 626.1,
   "market_cap_cr": 2871.73,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 552.45,
-      "prev_close": 541.7,
-      "volume": 42423,
-      "deliverable_qty": 12950,
-      "delivery_pct": 30.53
-    },
-    {
-      "date": "2026-02-18",
-      "close": 559.8,
-      "prev_close": 552.45,
-      "volume": 46631,
-      "deliverable_qty": 12685,
-      "delivery_pct": 27.2
-    },
     {
       "date": "2026-02-19",
       "close": 549.0,
@@ -458,9 +442,59 @@
       "volume": 40597,
       "deliverable_qty": 19383,
       "delivery_pct": 47.74
+    },
+    {
+      "date": "2026-05-20",
+      "close": 602.6,
+      "prev_close": 589.5,
+      "volume": 40099,
+      "deliverable_qty": 21703,
+      "delivery_pct": 54.12
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 20:09:32",
+      "an_dt": "20-May-2026 20:09:32",
+      "desc": "Investor Presentation",
+      "sm_name": "Arvind SmartSpaces Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_20052026200925_ASLInformationUpdateQ4FY26.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 20:03:56",
+      "an_dt": "20-May-2026 20:03:56",
+      "desc": "Press Release",
+      "sm_name": "Arvind SmartSpaces Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_20052026200349_ASLMediaReleaseResultsQ4FY26.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 19:53:42",
+      "an_dt": "20-May-2026 19:53:42",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Arvind SmartSpaces Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_20052026195334_Intimation_-_Grant_of_ESOP.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 19:35:55",
+      "an_dt": "20-May-2026 19:35:55",
+      "desc": "Appointment",
+      "sm_name": "Arvind SmartSpaces Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_20052026193546_IntimationAppointmentofInternal_Auditor.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 19:27:41",
+      "an_dt": "20-May-2026 19:27:41",
+      "desc": "Dividend",
+      "sm_name": "Arvind SmartSpaces Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_20052026192633_ASLOutcomeofBoardMeeting20052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 19:13:02",
+      "an_dt": "20-May-2026 19:13:02",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Arvind SmartSpaces Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_20052026191154_ASLFinancialResultsQ4FY26.pdf"
+    },
     {
       "sort_date": "2026-05-18 18:22:12",
       "an_dt": "18-May-2026 18:22:12",
@@ -586,13 +620,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Arvind SmartSpaces Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_28022026141035_ASLDisclosureNewspaperAdvt.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 18:12:05",
-      "an_dt": "18-Feb-2026 18:12:05",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Arvind SmartSpaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_18022026181154_ASLTranscriptQ3FY26.pdf"
     }
   ]
 }

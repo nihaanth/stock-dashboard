@@ -8,25 +8,9 @@
   "price": 608.8,
   "market_cap_cr": 914.22,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 655.9,
-      "prev_close": 651.45,
-      "volume": 7059,
-      "deliverable_qty": 4632,
-      "delivery_pct": 65.62
-    },
-    {
-      "date": "2026-02-18",
-      "close": 671.0,
-      "prev_close": 655.9,
-      "volume": 9267,
-      "deliverable_qty": 5705,
-      "delivery_pct": 61.56
-    },
     {
       "date": "2026-02-19",
       "close": 657.5,
@@ -458,6 +442,14 @@
       "volume": 9026,
       "deliverable_qty": 5281,
       "delivery_pct": 58.51
+    },
+    {
+      "date": "2026-05-20",
+      "close": 643.35,
+      "prev_close": 621.65,
+      "volume": 16243,
+      "deliverable_qty": 12051,
+      "delivery_pct": 74.19
     }
   ],
   "news": [
@@ -579,13 +571,6 @@
       "desc": "Updates",
       "sm_name": "Creative Newtech Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CREATIVE_24022026095413_MR_CNL_Kaspersky.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 09:00:48",
-      "an_dt": "18-Feb-2026 09:00:48",
-      "desc": "Updates",
-      "sm_name": "Creative Newtech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CREATIVE_18022026090029_MR_CNL_PDRL.pdf"
     }
   ]
 }

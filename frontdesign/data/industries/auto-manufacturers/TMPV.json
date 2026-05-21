@@ -8,25 +8,9 @@
   "price": 346.0,
   "market_cap_cr": 127412.27,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 382.85,
-      "prev_close": 377.25,
-      "volume": 7843059,
-      "deliverable_qty": 3868507,
-      "delivery_pct": 49.32
-    },
-    {
-      "date": "2026-02-18",
-      "close": 382.85,
-      "prev_close": 382.85,
-      "volume": 4796850,
-      "deliverable_qty": 2090055,
-      "delivery_pct": 43.57
-    },
     {
       "date": "2026-02-19",
       "close": 375.7,
@@ -458,9 +442,24 @@
       "volume": 10409685,
       "deliverable_qty": 4300710,
       "delivery_pct": 41.31
+    },
+    {
+      "date": "2026-05-20",
+      "close": 361.25,
+      "prev_close": 361.2,
+      "volume": 9875276,
+      "deliverable_qty": 4568419,
+      "delivery_pct": 46.26
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 21:52:16",
+      "an_dt": "20-May-2026 21:52:16",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Tata Motors Passenger Vehicles Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_20052026215152_NSEBSETRANSCRIPT.pdf"
+    },
     {
       "sort_date": "2026-05-15 13:28:29",
       "an_dt": "15-May-2026 13:28:29",
@@ -635,13 +634,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Tata Motors Passenger Vehicles Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_19022026173251_LetterNSEBSEAnalystMeet.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:39:47",
-      "an_dt": "18-Feb-2026 17:39:47",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Tata Motors Passenger Vehicles Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_18022026173826_NSEBSEESOP.pdf"
     }
   ]
 }

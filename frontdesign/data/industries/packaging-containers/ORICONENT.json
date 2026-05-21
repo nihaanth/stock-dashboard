@@ -8,7 +8,7 @@
   "price": 68.0,
   "market_cap_cr": 1074.33,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
     {
@@ -426,6 +426,14 @@
       "volume": 49001,
       "deliverable_qty": 37502,
       "delivery_pct": 76.53
+    },
+    {
+      "date": "2026-05-20",
+      "close": 64.79,
+      "prev_close": 64.75,
+      "volume": 47206,
+      "deliverable_qty": 40103,
+      "delivery_pct": 84.95
     }
   ],
   "news": [
@@ -491,13 +499,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Oricon Enterprises Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORICON_09032026193519_ForwardingLetterNoticeofPostalBallotsignmarch092026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:13:34",
-      "an_dt": "17-Feb-2026 12:13:34",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Oricon Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORICON_17022026121321_CoveringforNewsPaperExtractofFinancialResultssign.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 417.2,
   "market_cap_cr": 8242.23,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 407.25,
-      "prev_close": 404.6,
-      "volume": 391358,
-      "deliverable_qty": 132575,
-      "delivery_pct": 33.88
-    },
-    {
-      "date": "2026-02-18",
-      "close": 404.4,
-      "prev_close": 407.25,
-      "volume": 663499,
-      "deliverable_qty": 202940,
-      "delivery_pct": 30.59
-    },
     {
       "date": "2026-02-19",
       "close": 394.85,
@@ -458,9 +442,24 @@
       "volume": 952181,
       "deliverable_qty": 321293,
       "delivery_pct": 33.74
+    },
+    {
+      "date": "2026-05-20",
+      "close": 433.7,
+      "prev_close": 438.0,
+      "volume": 690038,
+      "deliverable_qty": 230343,
+      "delivery_pct": 33.38
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 09:50:14",
+      "an_dt": "19-May-2026 09:50:14",
+      "desc": "Updates",
+      "sm_name": "KPI Green Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KPIGLOBAL_19052026094942_2_Execution_of_BESPA_120_GUVNL_19052026_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-18 15:01:05",
       "an_dt": "18-May-2026 15:01:05",
@@ -670,13 +669,6 @@
       "desc": "Updates",
       "sm_name": "KPI Green Energy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KPIGLOBAL_20022026095815_25_KPI_Ayana_Commissioning_Update_20022026_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 12:31:33",
-      "an_dt": "18-Feb-2026 12:31:33",
-      "desc": "Allotment of Securities",
-      "sm_name": "KPI Green Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KPIGLOBAL_18022026123013_KPI_Allotment_Outcome_BM_18022026_Signed.pdf"
     }
   ]
 }

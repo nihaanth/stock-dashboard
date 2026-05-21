@@ -8,25 +8,9 @@
   "price": 1200.7,
   "market_cap_cr": 15930.87,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 977.7,
-      "prev_close": 965.8,
-      "volume": 67997,
-      "deliverable_qty": 24153,
-      "delivery_pct": 35.52
-    },
-    {
-      "date": "2026-02-18",
-      "close": 991.6,
-      "prev_close": 977.7,
-      "volume": 79599,
-      "deliverable_qty": 40466,
-      "delivery_pct": 50.84
-    },
     {
       "date": "2026-02-19",
       "close": 960.1,
@@ -458,9 +442,31 @@
       "volume": 1556616,
       "deliverable_qty": 807486,
       "delivery_pct": 51.87
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1085.5,
+      "prev_close": 1095.9,
+      "volume": 207708,
+      "deliverable_qty": 137294,
+      "delivery_pct": 66.1
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 15:50:17",
+      "an_dt": "19-May-2026 15:50:17",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_19052026155006_10.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 15:49:16",
+      "an_dt": "19-May-2026 15:49:16",
+      "desc": "General Updates",
+      "sm_name": "Aether Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_19052026154815_5.pdf"
+    },
     {
       "sort_date": "2026-05-15 20:21:20",
       "an_dt": "15-May-2026 20:21:20",
@@ -607,13 +613,6 @@
       "desc": "General Updates",
       "sm_name": "Aether Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_20022026173859_67.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 11:16:53",
-      "an_dt": "18-Feb-2026 11:16:53",
-      "desc": "General Updates",
-      "sm_name": "Aether Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_18022026111631_66.pdf"
     }
   ]
 }

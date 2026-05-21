@@ -8,25 +8,9 @@
   "price": 717.6,
   "market_cap_cr": 18281.31,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 694.65,
-      "prev_close": 691.85,
-      "volume": 377175,
-      "deliverable_qty": 136256,
-      "delivery_pct": 36.13
-    },
-    {
-      "date": "2026-02-18",
-      "close": 690.0,
-      "prev_close": 694.65,
-      "volume": 509030,
-      "deliverable_qty": 223142,
-      "delivery_pct": 43.84
-    },
     {
       "date": "2026-02-19",
       "close": 705.1,
@@ -458,9 +442,24 @@
       "volume": 565795,
       "deliverable_qty": 166559,
       "delivery_pct": 29.44
+    },
+    {
+      "date": "2026-05-20",
+      "close": 729.95,
+      "prev_close": 736.2,
+      "volume": 207269,
+      "deliverable_qty": 91109,
+      "delivery_pct": 43.96
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 20:25:14",
+      "an_dt": "19-May-2026 20:25:14",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Tata Chemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATACHEMYS_19052026202453_Analyst25052026_signed.pdf"
+    },
     {
       "sort_date": "2026-05-15 13:23:45",
       "an_dt": "15-May-2026 13:23:45",
@@ -635,20 +634,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Tata Chemicals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATACHEMYS_06032026200248_Analyst06032026_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:19:38",
-      "an_dt": "18-Feb-2026 17:19:38",
-      "desc": "General Updates",
-      "sm_name": "Tata Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATACHEMYS_18022026171913_SEIntimation_NSE_ESG_Rating_180226signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 19:01:51",
-      "an_dt": "17-Feb-2026 19:01:51",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Tata Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATACHEMYS_17022026190034_Analyst26022026_signed.pdf"
     }
   ]
 }

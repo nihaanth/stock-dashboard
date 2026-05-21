@@ -8,25 +8,9 @@
   "price": 915.6,
   "market_cap_cr": 4118.71,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 987.5,
-      "prev_close": 997.65,
-      "volume": 45551,
-      "deliverable_qty": 29456,
-      "delivery_pct": 64.67
-    },
-    {
-      "date": "2026-02-18",
-      "close": 981.75,
-      "prev_close": 987.5,
-      "volume": 39004,
-      "deliverable_qty": 21809,
-      "delivery_pct": 55.91
-    },
     {
       "date": "2026-02-19",
       "close": 971.2,
@@ -458,6 +442,14 @@
       "volume": 38782,
       "deliverable_qty": 22863,
       "delivery_pct": 58.95
+    },
+    {
+      "date": "2026-05-20",
+      "close": 863.5,
+      "prev_close": 866.05,
+      "volume": 42407,
+      "deliverable_qty": 28007,
+      "delivery_pct": 66.04
     }
   ],
   "news": [
@@ -509,13 +501,6 @@
       "desc": "Updates",
       "sm_name": "GMM Pfaudler Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_27022026162018_Completion_of_sale_of_Hyd_property_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:12:07",
-      "an_dt": "18-Feb-2026 17:12:07",
-      "desc": "Action(s) taken or orders passed",
-      "sm_name": "GMM Pfaudler Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_18022026171024_SE_Disclosure-DGFT-Signed.pdf"
     }
   ]
 }

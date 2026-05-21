@@ -8,25 +8,9 @@
   "price": 2517.7,
   "market_cap_cr": 29658.02,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1592.9,
-      "prev_close": 1570.6,
-      "volume": 141966,
-      "deliverable_qty": 64129,
-      "delivery_pct": 45.17
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1567.6,
-      "prev_close": 1592.9,
-      "volume": 62544,
-      "deliverable_qty": 22585,
-      "delivery_pct": 36.11
-    },
     {
       "date": "2026-02-19",
       "close": 1553.9,
@@ -458,9 +442,24 @@
       "volume": 307609,
       "deliverable_qty": 94184,
       "delivery_pct": 30.62
+    },
+    {
+      "date": "2026-05-20",
+      "close": 2400.4,
+      "prev_close": 2375.1,
+      "volume": 171359,
+      "deliverable_qty": 43707,
+      "delivery_pct": 25.51
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 09:30:21",
+      "an_dt": "20-May-2026 09:30:21",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Aditya Infotech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CPPLUS_20052026093013_signedseIntimation.pdf"
+    },
     {
       "sort_date": "2026-05-14 15:58:54",
       "an_dt": "14-May-2026 15:58:54",
@@ -607,20 +606,6 @@
       "desc": "Press Release",
       "sm_name": "Aditya Infotech Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CPPLUS_19022026124723_seintimationpressrelease.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 19:07:30",
-      "an_dt": "17-Feb-2026 19:07:30",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Aditya Infotech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CPPLUS_17022026190641_analyst.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:50:50",
-      "an_dt": "17-Feb-2026 18:50:50",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Aditya Infotech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CPPLUS_17022026184956_transcript.pdf"
     }
   ]
 }

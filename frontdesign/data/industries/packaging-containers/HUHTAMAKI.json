@@ -8,25 +8,9 @@
   "price": 174.69,
   "market_cap_cr": 1319.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 188.79,
-      "prev_close": 180.55,
-      "volume": 430445,
-      "deliverable_qty": 230534,
-      "delivery_pct": 53.56
-    },
-    {
-      "date": "2026-02-18",
-      "close": 188.12,
-      "prev_close": 188.79,
-      "volume": 139847,
-      "deliverable_qty": 71577,
-      "delivery_pct": 51.18
-    },
     {
       "date": "2026-02-19",
       "close": 183.18,
@@ -458,9 +442,24 @@
       "volume": 102430,
       "deliverable_qty": 56630,
       "delivery_pct": 55.29
+    },
+    {
+      "date": "2026-05-20",
+      "close": 165.27,
+      "prev_close": 163.73,
+      "volume": 116393,
+      "deliverable_qty": 42420,
+      "delivery_pct": 36.45
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 14:32:51",
+      "an_dt": "20-May-2026 14:32:51",
+      "desc": "General Updates",
+      "sm_name": "Huhtamaki India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUHTAMAKI_20052026143232_HIL__DisclReg30_5__20May2026.pdf"
+    },
     {
       "sort_date": "2026-05-18 17:39:32",
       "an_dt": "18-May-2026 17:39:32",
@@ -663,13 +662,6 @@
       "desc": "Action(s) taken or orders passed",
       "sm_name": "Huhtamaki India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUHTAMAKI_23022026174652_HIL__DisclReg30_Penalty_23Feb2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:51:34",
-      "an_dt": "17-Feb-2026 12:51:34",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Huhtamaki India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUHTAMAKI_17022026125118_HIL_InvestorCallTranscript_Feb2026.pdf"
     }
   ]
 }

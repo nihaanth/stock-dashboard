@@ -8,25 +8,9 @@
   "price": 589.6,
   "market_cap_cr": 3923.87,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 462.35,
-      "prev_close": 443.55,
-      "volume": 105287,
-      "deliverable_qty": 50432,
-      "delivery_pct": 47.9
-    },
-    {
-      "date": "2026-02-18",
-      "close": 458.65,
-      "prev_close": 462.35,
-      "volume": 80448,
-      "deliverable_qty": 47128,
-      "delivery_pct": 58.58
-    },
     {
       "date": "2026-02-19",
       "close": 450.35,
@@ -458,6 +442,14 @@
       "volume": 1145167,
       "deliverable_qty": 369816,
       "delivery_pct": 32.29
+    },
+    {
+      "date": "2026-05-20",
+      "close": 565.3,
+      "prev_close": 579.6,
+      "volume": 337831,
+      "deliverable_qty": 132371,
+      "delivery_pct": 39.18
     }
   ],
   "news": [
@@ -628,13 +620,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Raymond Realty Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RRL_21022026183217_SE_PB_ESOP_Voting_Results.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 18:00:58",
-      "an_dt": "18-Feb-2026 18:00:58",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Raymond Realty Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RRL_18022026180046_SE_Analyst_Meet_Feb_25.pdf"
     }
   ]
 }

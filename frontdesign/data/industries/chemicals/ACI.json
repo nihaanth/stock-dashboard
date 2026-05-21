@@ -8,25 +8,9 @@
   "price": 623.75,
   "market_cap_cr": 7700.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 569.85,
-      "prev_close": 575.75,
-      "volume": 69219,
-      "deliverable_qty": 28612,
-      "delivery_pct": 41.34
-    },
-    {
-      "date": "2026-02-18",
-      "close": 565.4,
-      "prev_close": 569.85,
-      "volume": 64239,
-      "deliverable_qty": 19064,
-      "delivery_pct": 29.68
-    },
     {
       "date": "2026-02-19",
       "close": 566.6,
@@ -458,9 +442,24 @@
       "volume": 256723,
       "deliverable_qty": 86764,
       "delivery_pct": 33.8
+    },
+    {
+      "date": "2026-05-20",
+      "close": 521.5,
+      "prev_close": 538.8,
+      "volume": 114014,
+      "deliverable_qty": 65958,
+      "delivery_pct": 57.85
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 18:23:16",
+      "an_dt": "19-May-2026 18:23:16",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Archean Chemical Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARCHEAN_19052026182237_Intimation_Transcript.pdf"
+    },
     {
       "sort_date": "2026-05-16 14:14:49",
       "an_dt": "16-May-2026 14:14:49",

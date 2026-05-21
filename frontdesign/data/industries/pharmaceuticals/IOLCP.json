@@ -8,25 +8,9 @@
   "price": 83.73,
   "market_cap_cr": 2463.8,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 74.57,
-      "prev_close": 74.77,
-      "volume": 416946,
-      "deliverable_qty": 147808,
-      "delivery_pct": 35.45
-    },
-    {
-      "date": "2026-02-18",
-      "close": 74.1,
-      "prev_close": 74.57,
-      "volume": 375038,
-      "deliverable_qty": 195406,
-      "delivery_pct": 52.1
-    },
     {
       "date": "2026-02-19",
       "close": 74.27,
@@ -458,9 +442,38 @@
       "volume": 3002020,
       "deliverable_qty": 866584,
       "delivery_pct": 28.87
+    },
+    {
+      "date": "2026-05-20",
+      "close": 119.54,
+      "prev_close": 110.12,
+      "volume": 21090849,
+      "deliverable_qty": 5119551,
+      "delivery_pct": 24.27
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 19:46:37",
+      "an_dt": "20-May-2026 19:46:37",
+      "desc": "Press Release",
+      "sm_name": "IOL Chemicals and Pharmaceuticals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IOLCP_20052026194623_Press_Release_n.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 15:23:18",
+      "an_dt": "20-May-2026 15:23:18",
+      "desc": "General Updates",
+      "sm_name": "IOL Chemicals and Pharmaceuticals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IOLCP_20052026152252_Results_Outcome_N.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 14:31:49",
+      "an_dt": "20-May-2026 14:31:49",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "IOL Chemicals and Pharmaceuticals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IOLCP_20052026142920_Results_Outcome_N.pdf"
+    },
     {
       "sort_date": "2026-05-18 18:46:08",
       "an_dt": "18-May-2026 18:46:08",
@@ -614,20 +627,6 @@
       "desc": "General Updates",
       "sm_name": "IOL Chemicals and Pharmaceuticals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IOLCP_24022026173957_Intimation_clopi.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 14:19:55",
-      "an_dt": "18-Feb-2026 14:19:55",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "IOL Chemicals and Pharmaceuticals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IOLCP_18022026141945_Newspapers.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 14:03:57",
-      "an_dt": "18-Feb-2026 14:03:57",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "IOL Chemicals and Pharmaceuticals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IOLCP_18022026140346_Earnings_Call_Transcript_n.pdf"
     }
   ]
 }

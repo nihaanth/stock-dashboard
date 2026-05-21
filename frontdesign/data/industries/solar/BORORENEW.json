@@ -8,25 +8,9 @@
   "price": 549.9,
   "market_cap_cr": 7708.98,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 488.2,
-      "prev_close": 490.15,
-      "volume": 297676,
-      "deliverable_qty": 137864,
-      "delivery_pct": 46.31
-    },
-    {
-      "date": "2026-02-18",
-      "close": 491.7,
-      "prev_close": 488.2,
-      "volume": 252039,
-      "deliverable_qty": 118670,
-      "delivery_pct": 47.08
-    },
     {
       "date": "2026-02-19",
       "close": 478.3,
@@ -458,9 +442,31 @@
       "volume": 697028,
       "deliverable_qty": 320800,
       "delivery_pct": 46.02
+    },
+    {
+      "date": "2026-05-20",
+      "close": 515.25,
+      "prev_close": 525.2,
+      "volume": 1177336,
+      "deliverable_qty": 513486,
+      "delivery_pct": 43.61
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 16:49:02",
+      "an_dt": "19-May-2026 16:49:02",
+      "desc": "Updates",
+      "sm_name": "BOROSIL RENEWABLES LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BORORENEW12_19052026164802_Intimation_MediaInteraction.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 14:48:20",
+      "an_dt": "19-May-2026 14:48:20",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "BOROSIL RENEWABLES LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_30042026121252_Disc5.pdf"
+    },
     {
       "sort_date": "2026-05-16 15:43:37",
       "an_dt": "16-May-2026 15:43:37",
@@ -628,13 +634,6 @@
       "desc": "Updates",
       "sm_name": "BOROSIL RENEWABLES LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BORORENEW11_19022026110337_Intimation_MediaInteraction.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 12:41:04",
-      "an_dt": "18-Feb-2026 12:41:04",
-      "desc": "Updates",
-      "sm_name": "BOROSIL RENEWABLES LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BORORENEW1_18022026123943_Intimation_MediaInteraction.pdf"
     }
   ]
 }

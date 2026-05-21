@@ -8,25 +8,9 @@
   "price": 1157.4,
   "market_cap_cr": 10442.12,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1250.4,
-      "prev_close": 1231.2,
-      "volume": 180015,
-      "deliverable_qty": 61736,
-      "delivery_pct": 34.29
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1213.1,
-      "prev_close": 1250.4,
-      "volume": 192990,
-      "deliverable_qty": 99487,
-      "delivery_pct": 51.55
-    },
     {
       "date": "2026-02-19",
       "close": 1173.3,
@@ -458,9 +442,24 @@
       "volume": 893933,
       "deliverable_qty": 329899,
       "delivery_pct": 36.9
+    },
+    {
+      "date": "2026-05-20",
+      "close": 890.2,
+      "prev_close": 916.3,
+      "volume": 426298,
+      "deliverable_qty": 161240,
+      "delivery_pct": 37.82
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 11:29:40",
+      "an_dt": "19-May-2026 11:29:40",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Sharda Cropchem Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHARDACROP_19052026112926_NSE.pdf"
+    },
     {
       "sort_date": "2026-05-18 18:46:39",
       "an_dt": "18-May-2026 18:46:39",

@@ -8,25 +8,9 @@
   "price": 351.25,
   "market_cap_cr": 10939.14,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 334.8,
-      "prev_close": 330.5,
-      "volume": 399958,
-      "deliverable_qty": 156503,
-      "delivery_pct": 39.13
-    },
-    {
-      "date": "2026-02-18",
-      "close": 322.65,
-      "prev_close": 334.8,
-      "volume": 726917,
-      "deliverable_qty": 432483,
-      "delivery_pct": 59.5
-    },
     {
       "date": "2026-02-19",
       "close": 314.25,
@@ -458,9 +442,24 @@
       "volume": 463924,
       "deliverable_qty": 275583,
       "delivery_pct": 59.4
+    },
+    {
+      "date": "2026-05-20",
+      "close": 341.8,
+      "prev_close": 343.15,
+      "volume": 781196,
+      "deliverable_qty": 596067,
+      "delivery_pct": 76.3
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 18:11:43",
+      "an_dt": "20-May-2026 18:11:43",
+      "desc": "Credit Rating",
+      "sm_name": "IIFL Capital Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFLSEC_20052026181134_SEintimation.pdf"
+    },
     {
       "sort_date": "2026-05-13 16:25:42",
       "an_dt": "13-May-2026 16:25:42",
@@ -747,13 +746,6 @@
       "desc": "Action(s) taken or orders passed",
       "sm_name": "IIFL Capital Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFLSEC_19022026174334_SEIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 19:09:08",
-      "an_dt": "17-Feb-2026 19:09:08",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "IIFL Capital Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFLSEC_17022026190851_SEintimationsigned.pdf"
     }
   ]
 }

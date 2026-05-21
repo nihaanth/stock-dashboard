@@ -8,25 +8,9 @@
   "price": 2363.3,
   "market_cap_cr": 2906.69,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 2399.3,
-      "prev_close": 2245.4,
-      "volume": 26523,
-      "deliverable_qty": 13242,
-      "delivery_pct": 49.93
-    },
-    {
-      "date": "2026-02-18",
-      "close": 2440.7,
-      "prev_close": 2399.3,
-      "volume": 17671,
-      "deliverable_qty": 9730,
-      "delivery_pct": 55.06
-    },
     {
       "date": "2026-02-19",
       "close": 2361.7,
@@ -458,9 +442,38 @@
       "volume": 16096,
       "deliverable_qty": 8553,
       "delivery_pct": 53.14
+    },
+    {
+      "date": "2026-05-20",
+      "close": 2614.2,
+      "prev_close": 2178.5,
+      "volume": 234447,
+      "deliverable_qty": 99975,
+      "delivery_pct": 42.64
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 23:52:43",
+      "an_dt": "19-May-2026 23:52:43",
+      "desc": "Investor Presentation",
+      "sm_name": "KDDL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KDDL_19052026235234_Binder1.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 21:27:49",
+      "an_dt": "19-May-2026 21:27:49",
+      "desc": "Dividend",
+      "sm_name": "KDDL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KDDL_19052026212739_KDDL_RESULTS_31_MARCH_2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 21:22:37",
+      "an_dt": "19-May-2026 21:22:37",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "KDDL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KDDL_19052026212052_KDDL_RESULTS_31_MARCH_2026.pdf"
+    },
     {
       "sort_date": "2026-05-14 23:41:05",
       "an_dt": "14-May-2026 23:41:05",

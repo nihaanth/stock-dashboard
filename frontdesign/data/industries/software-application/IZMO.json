@@ -8,25 +8,9 @@
   "price": 705.85,
   "market_cap_cr": 1056.13,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 782.55,
-      "prev_close": 779.6,
-      "volume": 93145,
-      "deliverable_qty": 24057,
-      "delivery_pct": 25.83
-    },
-    {
-      "date": "2026-02-18",
-      "close": 864.2,
-      "prev_close": 782.55,
-      "volume": 952110,
-      "deliverable_qty": 143070,
-      "delivery_pct": 15.03
-    },
     {
       "date": "2026-02-19",
       "close": 864.6,
@@ -50,6 +34,14 @@
       "volume": 243031,
       "deliverable_qty": 67148,
       "delivery_pct": 27.63
+    },
+    {
+      "date": "2026-05-20",
+      "close": 699.3,
+      "prev_close": 666.0,
+      "volume": 89391,
+      "deliverable_qty": 50316,
+      "delivery_pct": 56.29
     }
   ],
   "news": [
@@ -101,13 +93,6 @@
       "desc": "Press Release",
       "sm_name": "IZMO Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IZMO_09032026133333_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 13:06:56",
-      "an_dt": "17-Feb-2026 13:06:56",
-      "desc": "Investor Presentation",
-      "sm_name": "IZMO Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IZMO_17022026130311_Intimation.pdf"
     }
   ]
 }

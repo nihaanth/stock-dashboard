@@ -8,25 +8,9 @@
   "price": 3619.0,
   "market_cap_cr": 27221.66,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 3159.6,
-      "prev_close": 3041.9,
-      "volume": 31835,
-      "deliverable_qty": 13891,
-      "delivery_pct": 43.63
-    },
-    {
-      "date": "2026-02-18",
-      "close": 3162.5,
-      "prev_close": 3159.6,
-      "volume": 25144,
-      "deliverable_qty": 16780,
-      "delivery_pct": 66.74
-    },
     {
       "date": "2026-02-19",
       "close": 3150.1,
@@ -458,9 +442,31 @@
       "volume": 24190,
       "deliverable_qty": 11444,
       "delivery_pct": 47.31
+    },
+    {
+      "date": "2026-05-20",
+      "close": 3656.2,
+      "prev_close": 3538.0,
+      "volume": 633794,
+      "deliverable_qty": 430645,
+      "delivery_pct": 67.95
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 13:02:46",
+      "an_dt": "20-May-2026 13:02:46",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Timken India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIMKEN_20052026130223_SE_NewspaperPublication.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 19:45:57",
+      "an_dt": "19-May-2026 19:45:57",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Timken India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIMKEN_19052026194459_1905_SE_Intimation_Post_Conference_Call.pdf"
+    },
     {
       "sort_date": "2026-05-18 22:04:16",
       "an_dt": "18-May-2026 22:04:16",

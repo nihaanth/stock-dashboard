@@ -8,25 +8,9 @@
   "price": 472.35,
   "market_cap_cr": 1454.59,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 342.35,
-      "prev_close": 342.55,
-      "volume": 12501,
-      "deliverable_qty": 8054,
-      "delivery_pct": 64.43
-    },
-    {
-      "date": "2026-02-18",
-      "close": 353.05,
-      "prev_close": 342.35,
-      "volume": 44164,
-      "deliverable_qty": 19329,
-      "delivery_pct": 43.77
-    },
     {
       "date": "2026-02-19",
       "close": 364.3,
@@ -458,9 +442,24 @@
       "volume": 48767,
       "deliverable_qty": 27567,
       "delivery_pct": 56.53
+    },
+    {
+      "date": "2026-05-20",
+      "close": 434.1,
+      "prev_close": 430.95,
+      "volume": 42410,
+      "deliverable_qty": 21216,
+      "delivery_pct": 50.03
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 14:59:22",
+      "an_dt": "19-May-2026 14:59:22",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "IG Petrochemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGPL_19052026145908_NewspaperPublicationtoSE.pdf"
+    },
     {
       "sort_date": "2026-05-18 21:37:43",
       "an_dt": "18-May-2026 21:37:43",
@@ -544,13 +543,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "IG Petrochemicals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGPL_02032026124855_NewspaperAdvertisement_IGPL.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:18:50",
-      "an_dt": "18-Feb-2026 17:18:50",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "IG Petrochemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGPL_18022026171817_IntimationofTranscript.pdf"
     }
   ]
 }

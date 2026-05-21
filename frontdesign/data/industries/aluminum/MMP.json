@@ -8,25 +8,9 @@
   "price": 283.99,
   "market_cap_cr": 721.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 248.6,
-      "prev_close": 248.4,
-      "volume": 49817,
-      "deliverable_qty": 24299,
-      "delivery_pct": 48.78
-    },
-    {
-      "date": "2026-02-18",
-      "close": 256.15,
-      "prev_close": 248.6,
-      "volume": 26816,
-      "deliverable_qty": 18259,
-      "delivery_pct": 68.09
-    },
     {
       "date": "2026-02-19",
       "close": 250.2,
@@ -458,9 +442,24 @@
       "volume": 41654,
       "deliverable_qty": 22407,
       "delivery_pct": 53.79
+    },
+    {
+      "date": "2026-05-20",
+      "close": 287.77,
+      "prev_close": 276.92,
+      "volume": 30673,
+      "deliverable_qty": 18311,
+      "delivery_pct": 59.7
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 13:00:40",
+      "an_dt": "20-May-2026 13:00:40",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "MMP Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MMP_20052026125635_MMPILEarningCallIntimation.pdf"
+    },
     {
       "sort_date": "2026-04-30 12:19:29",
       "an_dt": "30-Apr-2026 12:19:29",

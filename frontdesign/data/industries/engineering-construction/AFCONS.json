@@ -8,25 +8,9 @@
   "price": 326.65,
   "market_cap_cr": 12013.69,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 324.25,
-      "prev_close": 326.3,
-      "volume": 201610,
-      "deliverable_qty": 115192,
-      "delivery_pct": 57.14
-    },
-    {
-      "date": "2026-02-18",
-      "close": 323.3,
-      "prev_close": 324.25,
-      "volume": 149582,
-      "deliverable_qty": 83807,
-      "delivery_pct": 56.03
-    },
     {
       "date": "2026-02-19",
       "close": 320.2,
@@ -458,9 +442,31 @@
       "volume": 1590951,
       "deliverable_qty": 441453,
       "delivery_pct": 27.75
+    },
+    {
+      "date": "2026-05-20",
+      "close": 305.4,
+      "prev_close": 315.75,
+      "volume": 657268,
+      "deliverable_qty": 221055,
+      "delivery_pct": 33.63
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 15:37:14",
+      "an_dt": "19-May-2026 15:37:14",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Afcons Infrastructure Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_19052026153705_Afcons_EarningsCall_19052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 13:04:12",
+      "an_dt": "19-May-2026 13:04:12",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Afcons Infrastructure Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_19052026130400_Afcons_Intimation_Newspaper_publicationdated19052026.pdf"
+    },
     {
       "sort_date": "2026-05-18 20:43:09",
       "an_dt": "18-May-2026 20:43:09",

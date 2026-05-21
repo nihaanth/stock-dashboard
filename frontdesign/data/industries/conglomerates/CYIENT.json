@@ -8,25 +8,9 @@
   "price": 896.15,
   "market_cap_cr": 9894.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1010.3,
-      "prev_close": 990.5,
-      "volume": 183178,
-      "deliverable_qty": 58435,
-      "delivery_pct": 31.9
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1019.8,
-      "prev_close": 1010.3,
-      "volume": 202240,
-      "deliverable_qty": 85186,
-      "delivery_pct": 42.12
-    },
     {
       "date": "2026-02-19",
       "close": 993.8,
@@ -458,9 +442,24 @@
       "volume": 182249,
       "deliverable_qty": 66062,
       "delivery_pct": 36.25
+    },
+    {
+      "date": "2026-05-20",
+      "close": 905.05,
+      "prev_close": 905.85,
+      "volume": 198055,
+      "deliverable_qty": 73617,
+      "delivery_pct": 37.17
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 09:02:07",
+      "an_dt": "20-May-2026 09:02:07",
+      "desc": "Trading Window",
+      "sm_name": "Cyient Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CYIENT_20052026090159_20052026ClosureoftradingwindowSiged.pdf"
+    },
     {
       "sort_date": "2026-05-14 18:11:11",
       "an_dt": "14-May-2026 18:11:11",

@@ -8,25 +8,9 @@
   "price": 123.12,
   "market_cap_cr": 4062.55,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 212.82,
-      "prev_close": 204.3,
-      "volume": 916331,
-      "deliverable_qty": 394390,
-      "delivery_pct": 43.04
-    },
-    {
-      "date": "2026-02-18",
-      "close": 203.64,
-      "prev_close": 212.82,
-      "volume": 474299,
-      "deliverable_qty": 150632,
-      "delivery_pct": 31.76
-    },
     {
       "date": "2026-02-19",
       "close": 203.88,
@@ -458,6 +442,14 @@
       "volume": 27914742,
       "deliverable_qty": 1453898,
       "delivery_pct": 5.21
+    },
+    {
+      "date": "2026-05-20",
+      "close": 142.88,
+      "prev_close": 144.29,
+      "volume": 2189343,
+      "deliverable_qty": 296093,
+      "delivery_pct": 13.52
     }
   ],
   "news": [
@@ -551,13 +543,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Wakefit Innovations Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WAKEFIT2025_18032026152918_SE_Filing.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 15:47:30",
-      "an_dt": "17-Feb-2026 15:47:30",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Wakefit Innovations Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WAKEFIT2025_17022026154723_SignedTranscriptOutcome.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 1095.5,
   "market_cap_cr": 17448.28,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 969.0,
-      "prev_close": 934.2,
-      "volume": 293647,
-      "deliverable_qty": 170560,
-      "delivery_pct": 58.08
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1000.6,
-      "prev_close": 969.0,
-      "volume": 1301004,
-      "deliverable_qty": 564186,
-      "delivery_pct": 43.37
-    },
     {
       "date": "2026-02-19",
       "close": 998.55,
@@ -458,9 +442,24 @@
       "volume": 243570,
       "deliverable_qty": 134123,
       "delivery_pct": 55.07
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1053.7,
+      "prev_close": 1054.4,
+      "volume": 101339,
+      "deliverable_qty": 63579,
+      "delivery_pct": 62.74
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 13:28:50",
+      "an_dt": "20-May-2026 13:28:50",
+      "desc": "General Updates",
+      "sm_name": "Kajaria Ceramics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAJARIACER_20052026131921_Disclosure.pdf"
+    },
     {
       "sort_date": "2026-05-07 18:56:38",
       "an_dt": "07-May-2026 18:56:38",
@@ -670,20 +669,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Kajaria Ceramics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAJARIACER_02032026132503_SE_Disclosure.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:54:09",
-      "an_dt": "18-Feb-2026 17:54:09",
-      "desc": "General Updates",
-      "sm_name": "Kajaria Ceramics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAJARIACER_18022026174605_DisclosureKAPL.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 11:21:12",
-      "an_dt": "18-Feb-2026 11:21:12",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Kajaria Ceramics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAJARIACER_18022026111546_DisclosureAd.pdf"
     }
   ]
 }

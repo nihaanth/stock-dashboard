@@ -8,25 +8,9 @@
   "price": 590.9,
   "market_cap_cr": 1916.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 670.55,
-      "prev_close": 663.9,
-      "volume": 56343,
-      "deliverable_qty": 26380,
-      "delivery_pct": 46.82
-    },
-    {
-      "date": "2026-02-18",
-      "close": 664.1,
-      "prev_close": 670.55,
-      "volume": 36057,
-      "deliverable_qty": 19531,
-      "delivery_pct": 54.17
-    },
     {
       "date": "2026-02-19",
       "close": 649.2,
@@ -458,9 +442,31 @@
       "volume": 45139,
       "deliverable_qty": 29198,
       "delivery_pct": 64.68
+    },
+    {
+      "date": "2026-05-20",
+      "close": 562.8,
+      "prev_close": 566.3,
+      "volume": 19353,
+      "deliverable_qty": 10446,
+      "delivery_pct": 53.98
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 20:56:14",
+      "an_dt": "20-May-2026 20:56:14",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Krsnaa Diagnostics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KRSNAA_20052026205559_543328.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 19:39:10",
+      "an_dt": "20-May-2026 19:39:10",
+      "desc": "General Updates",
+      "sm_name": "Krsnaa Diagnostics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KRSNAA_20052026193853_543328.pdf"
+    },
     {
       "sort_date": "2026-04-17 16:56:24",
       "an_dt": "17-Apr-2026 16:56:24",

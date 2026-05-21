@@ -8,25 +8,9 @@
   "price": 115.41,
   "market_cap_cr": 3407.53,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 97.25,
-      "prev_close": 96.4,
-      "volume": 722045,
-      "deliverable_qty": 287332,
-      "delivery_pct": 39.79
-    },
-    {
-      "date": "2026-02-18",
-      "close": 102.56,
-      "prev_close": 97.25,
-      "volume": 2076207,
-      "deliverable_qty": 827605,
-      "delivery_pct": 39.86
-    },
     {
       "date": "2026-02-19",
       "close": 102.69,
@@ -458,9 +442,38 @@
       "volume": 2336818,
       "deliverable_qty": 998284,
       "delivery_pct": 42.72
+    },
+    {
+      "date": "2026-05-20",
+      "close": 109.47,
+      "prev_close": 109.97,
+      "volume": 1630957,
+      "deliverable_qty": 642983,
+      "delivery_pct": 39.42
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 20:26:44",
+      "an_dt": "19-May-2026 20:26:44",
+      "desc": "Capacity addition",
+      "sm_name": "Sambhv Steel Tubes Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAMBHAV2024_19052026202545_CTE.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 20:18:19",
+      "an_dt": "19-May-2026 20:18:19",
+      "desc": "Capacity addition",
+      "sm_name": "Sambhv Steel Tubes Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAMBHAV2024_19052026201615_CTO.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 12:06:07",
+      "an_dt": "19-May-2026 12:06:07",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Sambhv Steel Tubes Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAMBHAV2024_19052026120337_Investor_Meet.pdf"
+    },
     {
       "sort_date": "2026-05-15 18:31:17",
       "an_dt": "15-May-2026 18:31:17",
@@ -635,20 +648,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Sambhv Steel Tubes Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAMBHAV2024_17032026122930_Investormeet20032026Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 16:54:43",
-      "an_dt": "18-Feb-2026 16:54:43",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Sambhv Steel Tubes Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAMBHAV2024_18022026165433_NewspaperAd_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:54:17",
-      "an_dt": "17-Feb-2026 18:54:17",
-      "desc": "Shareholders meeting",
-      "sm_name": "Sambhv Steel Tubes Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAMBHAV2024_17022026185336_Postal_ballot_Exchange.pdf"
     }
   ]
 }

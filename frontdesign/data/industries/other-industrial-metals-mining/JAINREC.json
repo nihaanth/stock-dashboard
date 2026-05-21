@@ -8,25 +8,9 @@
   "price": 559.4,
   "market_cap_cr": 19304.1,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 373.7,
-      "prev_close": 378.05,
-      "volume": 695959,
-      "deliverable_qty": 278724,
-      "delivery_pct": 40.05
-    },
-    {
-      "date": "2026-02-18",
-      "close": 377.5,
-      "prev_close": 373.7,
-      "volume": 425296,
-      "deliverable_qty": 138756,
-      "delivery_pct": 32.63
-    },
     {
       "date": "2026-02-19",
       "close": 379.8,
@@ -458,9 +442,24 @@
       "volume": 7259535,
       "deliverable_qty": 1942481,
       "delivery_pct": 26.76
+    },
+    {
+      "date": "2026-05-20",
+      "close": 391.9,
+      "prev_close": 390.8,
+      "volume": 8209727,
+      "deliverable_qty": 1837244,
+      "delivery_pct": 22.38
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 15:01:55",
+      "an_dt": "19-May-2026 15:01:55",
+      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
+      "sm_name": "Jain Resource Recycling Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAINMETAL_19052026150142_St_of_Deviation_Q4_sd.pdf"
+    },
     {
       "sort_date": "2026-05-18 22:28:21",
       "an_dt": "18-May-2026 22:28:21",
@@ -600,13 +599,6 @@
       "desc": "General Updates",
       "sm_name": "Jain Resource Recycling Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAINMETAL_26022026175145_Intimationsd26022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 12:24:12",
-      "an_dt": "18-Feb-2026 12:24:12",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Jain Resource Recycling Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAINMETAL_18022026121724_Transcriptintimation18022026.pdf"
     }
   ]
 }

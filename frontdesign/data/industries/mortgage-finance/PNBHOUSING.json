@@ -8,25 +8,9 @@
   "price": 846.65,
   "market_cap_cr": 22059.43,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 863.65,
-      "prev_close": 849.35,
-      "volume": 1558240,
-      "deliverable_qty": 941896,
-      "delivery_pct": 60.45
-    },
-    {
-      "date": "2026-02-18",
-      "close": 865.2,
-      "prev_close": 863.65,
-      "volume": 448831,
-      "deliverable_qty": 250693,
-      "delivery_pct": 55.85
-    },
     {
       "date": "2026-02-19",
       "close": 844.2,
@@ -458,6 +442,14 @@
       "volume": 849525,
       "deliverable_qty": 507944,
       "delivery_pct": 59.79
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1060.8,
+      "prev_close": 1064.5,
+      "volume": 1175898,
+      "deliverable_qty": 777098,
+      "delivery_pct": 66.09
     }
   ],
   "news": [
@@ -649,13 +641,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "PNB Housing Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNBHOUSING_24022026222637_IIFL_Capital_Outcome_Feb_24_2026_CS_F_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 16:46:17",
-      "an_dt": "18-Feb-2026 16:46:17",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "PNB Housing Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNBHOUSING_18022026164534_PNB_Housing_Intimation_on_meeting_with_Investors.pdf"
     }
   ]
 }

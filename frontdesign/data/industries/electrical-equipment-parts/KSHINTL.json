@@ -8,25 +8,9 @@
   "price": 638.1,
   "market_cap_cr": 4323.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 374.0,
-      "prev_close": 353.95,
-      "volume": 191275,
-      "deliverable_qty": 86254,
-      "delivery_pct": 45.09
-    },
-    {
-      "date": "2026-02-18",
-      "close": 370.7,
-      "prev_close": 374.0,
-      "volume": 93659,
-      "deliverable_qty": 35655,
-      "delivery_pct": 38.07
-    },
     {
       "date": "2026-02-19",
       "close": 364.3,
@@ -458,6 +442,14 @@
       "volume": 204469,
       "deliverable_qty": 63037,
       "delivery_pct": 30.83
+    },
+    {
+      "date": "2026-05-20",
+      "close": 653.9,
+      "prev_close": 622.85,
+      "volume": 573989,
+      "deliverable_qty": 183506,
+      "delivery_pct": 31.97
     }
   ],
   "news": [
@@ -579,13 +571,6 @@
       "desc": "Press Release",
       "sm_name": "KSH International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_24022026104238_KSHINTLIntimationofPressRelease24022026Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 10:43:03",
-      "an_dt": "18-Feb-2026 10:43:03",
-      "desc": "Credit Rating",
-      "sm_name": "KSH International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_18022026104231_KSHINTLIntimationofCreditRating18022026Signed.pdf"
     }
   ]
 }

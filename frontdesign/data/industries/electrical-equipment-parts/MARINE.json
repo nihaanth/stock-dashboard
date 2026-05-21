@@ -8,25 +8,9 @@
   "price": 192.01,
   "market_cap_cr": 2547.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 191.2,
-      "prev_close": 186.93,
-      "volume": 494120,
-      "deliverable_qty": 139895,
-      "delivery_pct": 28.31
-    },
-    {
-      "date": "2026-02-18",
-      "close": 195.25,
-      "prev_close": 191.2,
-      "volume": 392784,
-      "deliverable_qty": 135586,
-      "delivery_pct": 34.52
-    },
     {
       "date": "2026-02-19",
       "close": 188.84,
@@ -458,6 +442,14 @@
       "volume": 750298,
       "deliverable_qty": 242068,
       "delivery_pct": 32.26
+    },
+    {
+      "date": "2026-05-20",
+      "close": 224.65,
+      "prev_close": 222.05,
+      "volume": 405461,
+      "deliverable_qty": 167763,
+      "delivery_pct": 41.38
     }
   ],
   "news": [
@@ -565,13 +557,6 @@
       "desc": "Allotment of Securities",
       "sm_name": "Marine Electricals (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARINE_25022026115544_Signed_MEIL_Outcome_Stock_Exchange_Intimation_allotment.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 10:50:51",
-      "an_dt": "17-Feb-2026 10:50:51",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "Marine Electricals (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARINE_17022026104958_Signed_Crescon_Projects.pdf"
     }
   ]
 }

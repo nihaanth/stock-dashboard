@@ -8,25 +8,9 @@
   "price": 314.95,
   "market_cap_cr": 132804.75,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 355.25,
-      "prev_close": 356.65,
-      "volume": 1688522,
-      "deliverable_qty": 1220046,
-      "delivery_pct": 72.26
-    },
-    {
-      "date": "2026-02-18",
-      "close": 355.5,
-      "prev_close": 355.25,
-      "volume": 707387,
-      "deliverable_qty": 434692,
-      "delivery_pct": 61.45
-    },
     {
       "date": "2026-02-19",
       "close": 348.3,
@@ -458,9 +442,24 @@
       "volume": 1564205,
       "deliverable_qty": 880176,
       "delivery_pct": 56.27
+    },
+    {
+      "date": "2026-05-20",
+      "close": 300.6,
+      "prev_close": 302.75,
+      "volume": 1422312,
+      "deliverable_qty": 769899,
+      "delivery_pct": 54.13
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 16:47:04",
+      "an_dt": "19-May-2026 16:47:04",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Tata Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATACAPITAL_19052026164524_ScheduleofAnalystMeetMay222026signed.pdf"
+    },
     {
       "sort_date": "2026-05-12 16:13:05",
       "an_dt": "12-May-2026 16:13:05",

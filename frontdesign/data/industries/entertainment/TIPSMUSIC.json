@@ -8,25 +8,9 @@
   "price": 655.75,
   "market_cap_cr": 8382.56,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 564.85,
-      "prev_close": 569.7,
-      "volume": 130348,
-      "deliverable_qty": 49672,
-      "delivery_pct": 38.11
-    },
-    {
-      "date": "2026-02-18",
-      "close": 552.45,
-      "prev_close": 564.85,
-      "volume": 72672,
-      "deliverable_qty": 35005,
-      "delivery_pct": 48.17
-    },
     {
       "date": "2026-02-19",
       "close": 539.45,
@@ -458,6 +442,14 @@
       "volume": 218536,
       "deliverable_qty": 101377,
       "delivery_pct": 46.39
+    },
+    {
+      "date": "2026-05-20",
+      "close": 659.3,
+      "prev_close": 651.65,
+      "volume": 268575,
+      "deliverable_qty": 107301,
+      "delivery_pct": 39.95
     }
   ],
   "news": [
@@ -593,20 +585,6 @@
       "desc": "Action(s) initiated or orders passed",
       "sm_name": "Tips Music Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIPSINDLTD_21022026131253_TIPSMUSICsscP.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 16:19:59",
-      "an_dt": "18-Feb-2026 16:19:59",
-      "desc": "Action(s) initiated or orders passed",
-      "sm_name": "Tips Music Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIPSINDLTD_18022026161604_TIPSMUSICssP.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 14:25:59",
-      "an_dt": "18-Feb-2026 14:25:59",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Tips Music Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIPSINDLTD_18022026141514_TIPSMUSICimP.pdf"
     }
   ]
 }

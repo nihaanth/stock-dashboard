@@ -8,25 +8,9 @@
   "price": 546.5,
   "market_cap_cr": 79168.22,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 638.7,
-      "prev_close": 640.85,
-      "volume": 357102,
-      "deliverable_qty": 190517,
-      "delivery_pct": 53.35
-    },
-    {
-      "date": "2026-02-18",
-      "close": 648.85,
-      "prev_close": 638.7,
-      "volume": 4146626,
-      "deliverable_qty": 3189204,
-      "delivery_pct": 76.91
-    },
     {
       "date": "2026-02-19",
       "close": 648.65,
@@ -458,9 +442,24 @@
       "volume": 6777357,
       "deliverable_qty": 2634317,
       "delivery_pct": 38.87
+    },
+    {
+      "date": "2026-05-20",
+      "close": 509.25,
+      "prev_close": 522.15,
+      "volume": 2263722,
+      "deliverable_qty": 1546137,
+      "delivery_pct": 68.3
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 15:00:35",
+      "an_dt": "19-May-2026 15:00:35",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Prudential Life Insurance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIPRULI_19052026150025_SE_Intimation_May_19_2026.pdf"
+    },
     {
       "sort_date": "2026-05-17 23:43:33",
       "an_dt": "17-May-2026 23:43:33",
@@ -810,27 +809,6 @@
       "desc": "General Updates",
       "sm_name": "ICICI Prudential Life Insurance Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIPRULI_19022026173120_Disclosure_order_dated_19022026__1__signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 18:38:04",
-      "an_dt": "18-Feb-2026 18:38:04",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "ICICI Prudential Life Insurance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIPRULI_18022026183622_SE_Investor_meet_Feb_25_2026_intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 18:34:20",
-      "an_dt": "18-Feb-2026 18:34:20",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "ICICI Prudential Life Insurance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIPRULI_18022026183407_SE_Investor_meet_Feb_24_2026_intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:38:01",
-      "an_dt": "17-Feb-2026 12:38:01",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "ICICI Prudential Life Insurance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIPRULI_17022026123755_SE_Intimation_Feb_17_2026.pdf"
     }
   ]
 }

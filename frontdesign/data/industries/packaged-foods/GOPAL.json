@@ -8,25 +8,9 @@
   "price": 324.85,
   "market_cap_cr": 4049.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 312.45,
-      "prev_close": 309.0,
-      "volume": 81116,
-      "deliverable_qty": 29748,
-      "delivery_pct": 36.67
-    },
-    {
-      "date": "2026-02-18",
-      "close": 313.5,
-      "prev_close": 312.45,
-      "volume": 63224,
-      "deliverable_qty": 25614,
-      "delivery_pct": 40.51
-    },
     {
       "date": "2026-02-19",
       "close": 312.8,
@@ -458,6 +442,14 @@
       "volume": 127880,
       "deliverable_qty": 51801,
       "delivery_pct": 40.51
+    },
+    {
+      "date": "2026-05-20",
+      "close": 291.6,
+      "prev_close": 292.9,
+      "volume": 50135,
+      "deliverable_qty": 15896,
+      "delivery_pct": 31.71
     }
   ],
   "news": [
@@ -607,13 +599,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Gopal Snacks Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOPALSNACKS_24022026110659_IntimationIM.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 10:25:11",
-      "an_dt": "17-Feb-2026 10:25:11",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Gopal Snacks Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOPALSNACKS_17022026102500_IntimationIM.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 2628.9,
   "market_cap_cr": 36978.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 2525.3,
-      "prev_close": 2488.5,
-      "volume": 40319,
-      "deliverable_qty": 21467,
-      "delivery_pct": 53.24
-    },
-    {
-      "date": "2026-02-18",
-      "close": 2477.6,
-      "prev_close": 2525.3,
-      "volume": 42578,
-      "deliverable_qty": 19171,
-      "delivery_pct": 45.03
-    },
     {
       "date": "2026-02-19",
       "close": 2448.8,
@@ -458,6 +442,14 @@
       "volume": 133703,
       "deliverable_qty": 77561,
       "delivery_pct": 58.01
+    },
+    {
+      "date": "2026-05-20",
+      "close": 2552.3,
+      "prev_close": 2545.2,
+      "volume": 32397,
+      "deliverable_qty": 18827,
+      "delivery_pct": 58.11
     }
   ],
   "news": [
@@ -621,13 +613,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Endurance Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENDURANCE_19022026174447_Transcript.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:16:32",
-      "an_dt": "17-Feb-2026 18:16:32",
-      "desc": "Updates",
-      "sm_name": "Endurance Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENDURANCE_17022026181340_Intimation_of_Analyst_Institutional_Investors_on_20_02_2026.pdf"
     }
   ]
 }

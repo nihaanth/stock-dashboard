@@ -8,25 +8,9 @@
   "price": 160.33,
   "market_cap_cr": 28099.42,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 192.9,
-      "prev_close": 186.0,
-      "volume": 10101422,
-      "deliverable_qty": 2046846,
-      "delivery_pct": 20.26
-    },
-    {
-      "date": "2026-02-18",
-      "close": 190.05,
-      "prev_close": 192.9,
-      "volume": 7423613,
-      "deliverable_qty": 1905027,
-      "delivery_pct": 25.66
-    },
     {
       "date": "2026-02-19",
       "close": 193.75,
@@ -458,9 +442,24 @@
       "volume": 2922232,
       "deliverable_qty": 816430,
       "delivery_pct": 27.94
+    },
+    {
+      "date": "2026-05-20",
+      "close": 148.13,
+      "prev_close": 145.57,
+      "volume": 6333859,
+      "deliverable_qty": 1057706,
+      "delivery_pct": 16.7
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 19:26:09",
+      "an_dt": "19-May-2026 19:26:09",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "Mangalore Refinery and Petrochemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MRPL_19052026192547_exchangeintimationSD.pdf"
+    },
     {
       "sort_date": "2026-05-14 12:31:26",
       "an_dt": "14-May-2026 12:31:26",

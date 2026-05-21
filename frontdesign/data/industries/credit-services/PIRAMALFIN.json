@@ -8,25 +8,9 @@
   "price": 1964.9,
   "market_cap_cr": 44407.71,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1794.4,
-      "prev_close": 1779.1,
-      "volume": 79884,
-      "deliverable_qty": 43442,
-      "delivery_pct": 54.38
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1757.8,
-      "prev_close": 1794.4,
-      "volume": 52259,
-      "deliverable_qty": 24831,
-      "delivery_pct": 47.52
-    },
     {
       "date": "2026-02-19",
       "close": 1760.9,
@@ -458,6 +442,14 @@
       "volume": 206217,
       "deliverable_qty": 99991,
       "delivery_pct": 48.49
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1925.5,
+      "prev_close": 1936.2,
+      "volume": 519303,
+      "deliverable_qty": 394287,
+      "delivery_pct": 75.93
     }
   ],
   "news": [
@@ -733,20 +725,6 @@
       "desc": "Credit Rating- Revision",
       "sm_name": "Piramal Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Piramalcapital_25022026205238_CreditRatingIntimation_25022026_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:42:53",
-      "an_dt": "17-Feb-2026 18:42:53",
-      "desc": "Updates",
-      "sm_name": "Piramal Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Piramalcapital_17022026184246_PFL_SE_Intimation_Final_Listing_Approval_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 07:59:20",
-      "an_dt": "17-Feb-2026 07:59:20",
-      "desc": "Press Release",
-      "sm_name": "Piramal Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Piramalcapital_17022026075632_PFL_Change_in_credit_rating_Press_Release.pdf"
     }
   ]
 }

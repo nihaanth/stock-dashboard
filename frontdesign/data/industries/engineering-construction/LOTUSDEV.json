@@ -8,25 +8,9 @@
   "price": 146.05,
   "market_cap_cr": 7137.81,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 144.63,
-      "prev_close": 141.57,
-      "volume": 829002,
-      "deliverable_qty": 465798,
-      "delivery_pct": 56.19
-    },
-    {
-      "date": "2026-02-18",
-      "close": 145.97,
-      "prev_close": 144.63,
-      "volume": 612780,
-      "deliverable_qty": 316623,
-      "delivery_pct": 51.67
-    },
     {
       "date": "2026-02-19",
       "close": 145.19,
@@ -458,9 +442,24 @@
       "volume": 512325,
       "deliverable_qty": 245592,
       "delivery_pct": 47.94
+    },
+    {
+      "date": "2026-05-20",
+      "close": 137.06,
+      "prev_close": 138.67,
+      "volume": 163458,
+      "deliverable_qty": 98373,
+      "delivery_pct": 60.18
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 14:03:17",
+      "an_dt": "19-May-2026 14:03:17",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Sri Lotus Developers and Realty Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SRILOTUS_19052026140237_IntimationEarningsCallTranscriptSd.pdf"
+    },
     {
       "sort_date": "2026-05-14 18:36:57",
       "an_dt": "14-May-2026 18:36:57",

@@ -8,25 +8,9 @@
   "price": 1003.8,
   "market_cap_cr": 45301.14,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 759.3,
-      "prev_close": 762.95,
-      "volume": 845484,
-      "deliverable_qty": 441533,
-      "delivery_pct": 52.22
-    },
-    {
-      "date": "2026-02-18",
-      "close": 763.65,
-      "prev_close": 759.3,
-      "volume": 1081371,
-      "deliverable_qty": 358601,
-      "delivery_pct": 33.16
-    },
     {
       "date": "2026-02-19",
       "close": 752.8,
@@ -458,9 +442,24 @@
       "volume": 5620159,
       "deliverable_qty": 814905,
       "delivery_pct": 14.5
+    },
+    {
+      "date": "2026-05-20",
+      "close": 992.4,
+      "prev_close": 983.1,
+      "volume": 1042987,
+      "deliverable_qty": 478217,
+      "delivery_pct": 45.85
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 17:45:31",
+      "an_dt": "20-May-2026 17:45:31",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Premier Energies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PEL2024_20052026174517_earnings_call_transcript.pdf"
+    },
     {
       "sort_date": "2026-05-17 22:08:15",
       "an_dt": "17-May-2026 22:08:15",

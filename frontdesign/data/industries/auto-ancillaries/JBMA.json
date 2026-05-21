@@ -8,25 +8,9 @@
   "price": 624.6,
   "market_cap_cr": 14777.32,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 583.15,
-      "prev_close": 585.1,
-      "volume": 139896,
-      "deliverable_qty": 40860,
-      "delivery_pct": 29.21
-    },
-    {
-      "date": "2026-02-18",
-      "close": 582.9,
-      "prev_close": 583.15,
-      "volume": 145328,
-      "deliverable_qty": 45334,
-      "delivery_pct": 31.19
-    },
     {
       "date": "2026-02-19",
       "close": 570.75,
@@ -458,6 +442,14 @@
       "volume": 645334,
       "deliverable_qty": 188771,
       "delivery_pct": 29.25
+    },
+    {
+      "date": "2026-05-20",
+      "close": 643.6,
+      "prev_close": 622.95,
+      "volume": 2082620,
+      "deliverable_qty": 218565,
+      "delivery_pct": 10.49
     }
   ],
   "news": [
@@ -495,13 +487,6 @@
       "desc": "Trading Window",
       "sm_name": "JBM Auto Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JBMA_24032026173222_Notice_of_Closure_of_Trading_Window_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 12:39:11",
-      "an_dt": "18-Feb-2026 12:39:11",
-      "desc": "News Verification",
-      "sm_name": "JBM Auto Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/kmahesh_18022026123312_Further_Clarification_letter.pdf"
     }
   ]
 }

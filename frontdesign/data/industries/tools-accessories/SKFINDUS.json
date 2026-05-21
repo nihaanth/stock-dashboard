@@ -8,25 +8,9 @@
   "price": 2107.6,
   "market_cap_cr": 10419.55,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 2414.1,
-      "prev_close": 2430.7,
-      "volume": 8130,
-      "deliverable_qty": 4885,
-      "delivery_pct": 60.09
-    },
-    {
-      "date": "2026-02-18",
-      "close": 2419.4,
-      "prev_close": 2414.1,
-      "volume": 18756,
-      "deliverable_qty": 13879,
-      "delivery_pct": 74.0
-    },
     {
       "date": "2026-02-19",
       "close": 2450.9,
@@ -458,9 +442,24 @@
       "volume": 13318,
       "deliverable_qty": 7026,
       "delivery_pct": 52.76
+    },
+    {
+      "date": "2026-05-20",
+      "close": 2064.7,
+      "prev_close": 2092.5,
+      "volume": 7905,
+      "deliverable_qty": 4593,
+      "delivery_pct": 58.1
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 16:55:00",
+      "an_dt": "19-May-2026 16:55:00",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "SKF India (Industrial) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SKFINDUS25_19052026165432_7_SE_intimation_Investor_Call_Transcript_13_May_2026_sign.pdf"
+    },
     {
       "sort_date": "2026-05-14 19:32:29",
       "an_dt": "14-May-2026 19:32:29",

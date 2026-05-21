@@ -8,25 +8,9 @@
   "price": 703.25,
   "market_cap_cr": 2651.03,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 662.8,
-      "prev_close": 660.15,
-      "volume": 9803,
-      "deliverable_qty": 4861,
-      "delivery_pct": 49.59
-    },
-    {
-      "date": "2026-02-18",
-      "close": 663.45,
-      "prev_close": 662.8,
-      "volume": 6185,
-      "deliverable_qty": 2581,
-      "delivery_pct": 41.73
-    },
     {
       "date": "2026-02-19",
       "close": 672.95,
@@ -458,6 +442,14 @@
       "volume": 14024,
       "deliverable_qty": 7851,
       "delivery_pct": 55.98
+    },
+    {
+      "date": "2026-05-20",
+      "close": 669.6,
+      "prev_close": 671.55,
+      "volume": 7652,
+      "deliverable_qty": 4807,
+      "delivery_pct": 62.82
     }
   ],
   "news": [
@@ -579,13 +571,6 @@
       "desc": "Resignation",
       "sm_name": "Sundrop Brands Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Kavita_Sundrop_26022026183414_IntimationregardingresignationofOmManchandasigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:23:38",
-      "an_dt": "17-Feb-2026 12:23:38",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Sundrop Brands Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Kavita_Sundrop_17022026122322_FinalIntimationAnalystcallTranscriptFebruary132026signed.pdf"
     }
   ]
 }

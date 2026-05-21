@@ -8,25 +8,9 @@
   "price": 1660.0,
   "market_cap_cr": 24131.03,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1427.9,
-      "prev_close": 1412.0,
-      "volume": 1177260,
-      "deliverable_qty": 336433,
-      "delivery_pct": 28.58
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1417.0,
-      "prev_close": 1427.9,
-      "volume": 531126,
-      "deliverable_qty": 184297,
-      "delivery_pct": 34.7
-    },
     {
       "date": "2026-02-19",
       "close": 1422.3,
@@ -458,9 +442,45 @@
       "volume": 377962,
       "deliverable_qty": 189247,
       "delivery_pct": 50.07
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1663.1,
+      "prev_close": 1660.3,
+      "volume": 318558,
+      "deliverable_qty": 169062,
+      "delivery_pct": 53.07
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 15:37:31",
+      "an_dt": "20-May-2026 15:37:31",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Kirloskar Oil Engines Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KIRLOSENG_20052026153718_SE_Transcript_20May26.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 18:22:27",
+      "an_dt": "19-May-2026 18:22:27",
+      "desc": "General Updates",
+      "sm_name": "Kirloskar Oil Engines Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KIRLOSENG_19052026182125_SE_Disclosure_KASL.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 18:16:12",
+      "an_dt": "19-May-2026 18:16:12",
+      "desc": "Action(s) initiated or orders passed",
+      "sm_name": "Kirloskar Oil Engines Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KIRLOSENG_19052026181536_SE_Intimation_FinesPenalties.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 10:33:00",
+      "an_dt": "19-May-2026 10:33:00",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Kirloskar Oil Engines Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20042026132045_29.pdf"
+    },
     {
       "sort_date": "2026-05-18 16:18:21",
       "an_dt": "18-May-2026 16:18:21",
@@ -831,13 +851,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Kirloskar Oil Engines Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KIRLOSENG_26022026190023_SE_Intimation_4Mar26.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 22:42:49",
-      "an_dt": "17-Feb-2026 22:42:49",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Kirloskar Oil Engines Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KIRLOSENG_17022026224109_SE_Transcript_17Feb26.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 90.56,
   "market_cap_cr": 1042.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 86.9,
-      "prev_close": 85.07,
-      "volume": 1331298,
-      "deliverable_qty": 325539,
-      "delivery_pct": 24.45
-    },
-    {
-      "date": "2026-02-18",
-      "close": 87.13,
-      "prev_close": 86.9,
-      "volume": 810056,
-      "deliverable_qty": 194268,
-      "delivery_pct": 23.98
-    },
     {
       "date": "2026-02-19",
       "close": 85.24,
@@ -458,6 +442,14 @@
       "volume": 473317,
       "deliverable_qty": 286993,
       "delivery_pct": 60.63
+    },
+    {
+      "date": "2026-05-20",
+      "close": 88.81,
+      "prev_close": 90.45,
+      "volume": 648500,
+      "deliverable_qty": 314025,
+      "delivery_pct": 48.42
     }
   ],
   "news": [
@@ -600,13 +592,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Excelsoft Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXCELSOFT_05032026161900_reg_30_analyst_and_investor_meeting_intimation-sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:37:59",
-      "an_dt": "17-Feb-2026 18:37:59",
-      "desc": "Product launch",
-      "sm_name": "Excelsoft Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXCELSOFT_17022026183732_New_product_launch_Signed.pdf"
     }
   ]
 }

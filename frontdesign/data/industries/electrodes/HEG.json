@@ -8,25 +8,9 @@
   "price": 591.4,
   "market_cap_cr": 11412.69,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 523.45,
-      "prev_close": 530.9,
-      "volume": 1153863,
-      "deliverable_qty": 400368,
-      "delivery_pct": 34.7
-    },
-    {
-      "date": "2026-02-18",
-      "close": 553.6,
-      "prev_close": 523.45,
-      "volume": 6346313,
-      "deliverable_qty": 1754256,
-      "delivery_pct": 27.64
-    },
     {
       "date": "2026-02-19",
       "close": 545.8,
@@ -458,9 +442,24 @@
       "volume": 1453456,
       "deliverable_qty": 339772,
       "delivery_pct": 23.38
+    },
+    {
+      "date": "2026-05-20",
+      "close": 593.05,
+      "prev_close": 591.5,
+      "volume": 852026,
+      "deliverable_qty": 267161,
+      "delivery_pct": 31.36
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 18:59:29",
+      "an_dt": "19-May-2026 18:59:29",
+      "desc": "Updates",
+      "sm_name": "HEG Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEG_19052026185707_HEG_ASCR_310326.pdf"
+    },
     {
       "sort_date": "2026-05-08 12:48:36",
       "an_dt": "08-May-2026 12:48:36",
@@ -747,20 +746,6 @@
       "desc": "Updates",
       "sm_name": "HEG Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEG_19022026190105_IntimationPIT19022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 12:21:36",
-      "an_dt": "18-Feb-2026 12:21:36",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "HEG Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEG_18022026122124_Newspaperclipping18022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 10:38:05",
-      "an_dt": "18-Feb-2026 10:38:05",
-      "desc": "Updates",
-      "sm_name": "HEG Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEG_18022026103755_Stxintimation180226PIT.pdf"
     }
   ]
 }

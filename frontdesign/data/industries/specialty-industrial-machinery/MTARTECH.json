@@ -8,25 +8,9 @@
   "price": 6520.0,
   "market_cap_cr": 20055.25,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 3758.4,
-      "prev_close": 3711.2,
-      "volume": 598062,
-      "deliverable_qty": 129980,
-      "delivery_pct": 21.73
-    },
-    {
-      "date": "2026-02-18",
-      "close": 3745.0,
-      "prev_close": 3758.4,
-      "volume": 204440,
-      "deliverable_qty": 65524,
-      "delivery_pct": 32.05
-    },
     {
       "date": "2026-02-19",
       "close": 3647.9,
@@ -458,9 +442,24 @@
       "volume": 2359065,
       "deliverable_qty": 393216,
       "delivery_pct": 16.67
+    },
+    {
+      "date": "2026-05-20",
+      "close": 7457.0,
+      "prev_close": 6810.0,
+      "volume": 3004369,
+      "deliverable_qty": 431064,
+      "delivery_pct": 14.35
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 20:12:14",
+      "an_dt": "20-May-2026 20:12:14",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Mtar Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MTARTECH_20052026201204_Transcript_Final.pdf"
+    },
     {
       "sort_date": "2026-05-14 11:35:51",
       "an_dt": "14-May-2026 11:35:51",
@@ -572,20 +571,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Mtar Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MTARTECH_20022026153205_paper_ad_F.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:11:08",
-      "an_dt": "18-Feb-2026 17:11:08",
-      "desc": "Shareholders meeting",
-      "sm_name": "Mtar Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MTARTECH_18022026171018_Notice_sw.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:08:19",
-      "an_dt": "18-Feb-2026 17:08:19",
-      "desc": "General Updates",
-      "sm_name": "Mtar Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MTARTECH_18022026170808_calendar_sw.pdf"
     }
   ]
 }

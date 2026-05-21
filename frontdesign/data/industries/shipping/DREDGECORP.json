@@ -8,25 +8,9 @@
   "price": 900.75,
   "market_cap_cr": 2522.1,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 989.4,
-      "prev_close": 966.5,
-      "volume": 149482,
-      "deliverable_qty": 34435,
-      "delivery_pct": 23.04
-    },
-    {
-      "date": "2026-02-18",
-      "close": 996.8,
-      "prev_close": 989.4,
-      "volume": 152751,
-      "deliverable_qty": 33651,
-      "delivery_pct": 22.03
-    },
     {
       "date": "2026-02-19",
       "close": 965.5,
@@ -458,9 +442,38 @@
       "volume": 81896,
       "deliverable_qty": 26998,
       "delivery_pct": 32.97
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1088.0,
+      "prev_close": 1004.7,
+      "volume": 8954182,
+      "deliverable_qty": 486766,
+      "delivery_pct": 5.44
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 18:41:36",
+      "an_dt": "19-May-2026 18:41:36",
+      "desc": "Press Release",
+      "sm_name": "Dredging Corporation of India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DREDGECORP_19052026184115_20260519PRESSRELEASE.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 18:37:27",
+      "an_dt": "19-May-2026 18:37:27",
+      "desc": "Related Party Transactions",
+      "sm_name": "Dredging Corporation of India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DREDGECORP_19052026183714_20260519RELATEDPARTYTRANSACTIONS.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 18:28:55",
+      "an_dt": "19-May-2026 18:28:55",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Dredging Corporation of India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DREDGECORP_19052026182637_20260519AUDITEDFINANCIALRESULTS31032026.pdf"
+    },
     {
       "sort_date": "2026-05-12 17:08:00",
       "an_dt": "12-May-2026 17:08:00",

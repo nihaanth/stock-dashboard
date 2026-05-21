@@ -8,25 +8,9 @@
   "price": 229.51,
   "market_cap_cr": 11135.14,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 229.9,
-      "prev_close": 239.7,
-      "volume": 3569431,
-      "deliverable_qty": 828647,
-      "delivery_pct": 23.22
-    },
-    {
-      "date": "2026-02-18",
-      "close": 216.15,
-      "prev_close": 229.9,
-      "volume": 5742900,
-      "deliverable_qty": 1715540,
-      "delivery_pct": 29.87
-    },
     {
       "date": "2026-02-19",
       "close": 213.75,
@@ -458,9 +442,38 @@
       "volume": 814310,
       "deliverable_qty": 380363,
       "delivery_pct": 46.71
+    },
+    {
+      "date": "2026-05-20",
+      "close": 220.89,
+      "prev_close": 221.4,
+      "volume": 1048526,
+      "deliverable_qty": 224462,
+      "delivery_pct": 21.41
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 19:01:05",
+      "an_dt": "20-May-2026 19:01:05",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Brainbees Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BRAINBEES_20052026190045_IntimationforinvestormeetMarch312026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 18:36:48",
+      "an_dt": "19-May-2026 18:36:48",
+      "desc": "Spurt in Volume",
+      "sm_name": "Brainbees Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BRAINBEES_19052026183526_ClarificationLetterNSE.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 17:41:54",
+      "an_dt": "19-May-2026 17:41:54",
+      "desc": "Spurt in Volume",
+      "sm_name": "Brainbees Solutions Limited",
+      "attchmntFile": "-"
+    },
     {
       "sort_date": "2026-05-14 17:52:43",
       "an_dt": "14-May-2026 17:52:43",

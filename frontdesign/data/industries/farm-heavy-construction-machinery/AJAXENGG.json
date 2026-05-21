@@ -8,25 +8,9 @@
   "price": 534.6,
   "market_cap_cr": 6116.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 486.5,
-      "prev_close": 471.25,
-      "volume": 103759,
-      "deliverable_qty": 32358,
-      "delivery_pct": 31.19
-    },
-    {
-      "date": "2026-02-18",
-      "close": 489.75,
-      "prev_close": 486.5,
-      "volume": 58348,
-      "deliverable_qty": 32546,
-      "delivery_pct": 55.78
-    },
     {
       "date": "2026-02-19",
       "close": 483.95,
@@ -458,9 +442,31 @@
       "volume": 52007,
       "deliverable_qty": 19891,
       "delivery_pct": 38.25
+    },
+    {
+      "date": "2026-05-20",
+      "close": 569.35,
+      "prev_close": 568.0,
+      "volume": 100201,
+      "deliverable_qty": 39806,
+      "delivery_pct": 39.73
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 11:47:43",
+      "an_dt": "20-May-2026 11:47:43",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Ajax Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AJAX123_20052026113249_Newspaper_Publication-_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 18:03:32",
+      "an_dt": "19-May-2026 18:03:32",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Ajax Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AJAX123_19052026175906_Investor_Meet_Outcome-signed.pdf"
+    },
     {
       "sort_date": "2026-05-18 22:27:12",
       "an_dt": "18-May-2026 22:27:12",

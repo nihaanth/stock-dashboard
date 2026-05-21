@@ -8,25 +8,9 @@
   "price": 686.8,
   "market_cap_cr": 24106.68,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 696.85,
-      "prev_close": 703.2,
-      "volume": 195583,
-      "deliverable_qty": 98657,
-      "delivery_pct": 50.44
-    },
-    {
-      "date": "2026-02-18",
-      "close": 692.9,
-      "prev_close": 696.85,
-      "volume": 87581,
-      "deliverable_qty": 52137,
-      "delivery_pct": 59.53
-    },
     {
       "date": "2026-02-19",
       "close": 681.5,
@@ -458,9 +442,24 @@
       "volume": 703130,
       "deliverable_qty": 205490,
       "delivery_pct": 29.23
+    },
+    {
+      "date": "2026-05-20",
+      "close": 709.95,
+      "prev_close": 700.5,
+      "volume": 571349,
+      "deliverable_qty": 218307,
+      "delivery_pct": 38.21
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 16:38:15",
+      "an_dt": "19-May-2026 16:38:15",
+      "desc": "Updates",
+      "sm_name": "Aegis Logistics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AEGISCHEM_19052026163806_ALL_SCR_Final_2026_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-12 14:48:26",
       "an_dt": "12-May-2026 14:48:26",
@@ -530,20 +529,6 @@
       "desc": "Credit Rating",
       "sm_name": "Aegis Logistics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AEGISCHEM_19022026164830_ALL_Intimation_ESG_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:06:42",
-      "an_dt": "18-Feb-2026 17:06:42",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Aegis Logistics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AEGISCHEM_18022026170502_ALL_Investormeet_2602_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 13:02:15",
-      "an_dt": "18-Feb-2026 13:02:15",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Aegis Logistics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AEGISCHEM_18022026130159_ALL_Investormeet_2102_Signed.pdf"
     }
   ]
 }

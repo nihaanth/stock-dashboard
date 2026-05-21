@@ -8,25 +8,9 @@
   "price": 1301.3,
   "market_cap_cr": 17135.45,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1212.6,
-      "prev_close": 1209.1,
-      "volume": 39943,
-      "deliverable_qty": 26256,
-      "delivery_pct": 65.73
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1217.4,
-      "prev_close": 1212.6,
-      "volume": 34262,
-      "deliverable_qty": 22116,
-      "delivery_pct": 64.55
-    },
     {
       "date": "2026-02-19",
       "close": 1214.2,
@@ -458,9 +442,24 @@
       "volume": 114968,
       "deliverable_qty": 84785,
       "delivery_pct": 73.75
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1060.1,
+      "prev_close": 1060.1,
+      "volume": 62093,
+      "deliverable_qty": 39176,
+      "delivery_pct": 63.09
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 17:54:16",
+      "an_dt": "20-May-2026 17:54:16",
+      "desc": "Trading Window",
+      "sm_name": "Travel Food Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRAVELFOOD_20052026175328_TFSLBMandWindowclosureIntimation20052026.pdf"
+    },
     {
       "sort_date": "2026-04-13 16:01:09",
       "an_dt": "13-Apr-2026 16:01:09",
@@ -488,13 +487,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Travel Food Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRAVELFOOD_19022026141736_TFSLEarningCallTranscript19022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 11:52:15",
-      "an_dt": "18-Feb-2026 11:52:15",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Travel Food Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRAVELFOOD_18022026115117_TFSLKotakSecuritiesConferenceCall18022026.pdf"
     }
   ]
 }

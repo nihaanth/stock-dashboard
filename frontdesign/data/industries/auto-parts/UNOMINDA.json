@@ -8,25 +8,9 @@
   "price": 1173.1,
   "market_cap_cr": 67737.35,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1217.4,
-      "prev_close": 1217.4,
-      "volume": 253022,
-      "deliverable_qty": 128912,
-      "delivery_pct": 50.95
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1208.8,
-      "prev_close": 1217.4,
-      "volume": 406638,
-      "deliverable_qty": 217926,
-      "delivery_pct": 53.59
-    },
     {
       "date": "2026-02-19",
       "close": 1190.5,
@@ -458,6 +442,14 @@
       "volume": 2592716,
       "deliverable_qty": 750679,
       "delivery_pct": 28.95
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1056.4,
+      "prev_close": 1051.9,
+      "volume": 805812,
+      "deliverable_qty": 270081,
+      "delivery_pct": 33.52
     }
   ],
   "news": [
@@ -733,13 +725,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "UNO Minda Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MINDAIND1_21022026153747_OutcomeNRC21022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 19:39:09",
-      "an_dt": "17-Feb-2026 19:39:09",
-      "desc": "General Updates",
-      "sm_name": "UNO Minda Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MINDAIND1_17022026193849_UML_Intimation_s.pdf"
     }
   ]
 }

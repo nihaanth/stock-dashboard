@@ -8,25 +8,9 @@
   "price": 1053.1,
   "market_cap_cr": 1832.69,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1076.3,
-      "prev_close": 1050.9,
-      "volume": 13863,
-      "deliverable_qty": 8100,
-      "delivery_pct": 58.43
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1115.4,
-      "prev_close": 1076.3,
-      "volume": 47965,
-      "deliverable_qty": 15853,
-      "delivery_pct": 33.05
-    },
     {
       "date": "2026-02-19",
       "close": 1085.8,
@@ -458,9 +442,38 @@
       "volume": 24384,
       "deliverable_qty": 13462,
       "delivery_pct": 55.21
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1056.1,
+      "prev_close": 1055.2,
+      "volume": 7803,
+      "deliverable_qty": 4542,
+      "delivery_pct": 58.21
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 18:31:54",
+      "an_dt": "19-May-2026 18:31:54",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Ador Welding Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_29042026161148_ADOR2.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 18:30:28",
+      "an_dt": "19-May-2026 18:30:28",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Ador Welding Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_29042026160318_ADOR1.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 18:29:47",
+      "an_dt": "19-May-2026 18:29:47",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Ador Welding Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_29042026160129_ADOR.pdf"
+    },
     {
       "sort_date": "2026-05-04 14:43:27",
       "an_dt": "04-May-2026 14:43:27",

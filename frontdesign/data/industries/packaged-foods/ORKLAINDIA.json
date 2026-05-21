@@ -8,25 +8,9 @@
   "price": 644.55,
   "market_cap_cr": 8829.64,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 559.75,
-      "prev_close": 537.45,
-      "volume": 135856,
-      "deliverable_qty": 75465,
-      "delivery_pct": 55.55
-    },
-    {
-      "date": "2026-02-18",
-      "close": 548.1,
-      "prev_close": 559.75,
-      "volume": 36999,
-      "deliverable_qty": 15168,
-      "delivery_pct": 41.0
-    },
     {
       "date": "2026-02-19",
       "close": 573.05,
@@ -458,9 +442,59 @@
       "volume": 40095,
       "deliverable_qty": 19635,
       "delivery_pct": 48.97
+    },
+    {
+      "date": "2026-05-20",
+      "close": 638.55,
+      "prev_close": 624.2,
+      "volume": 423632,
+      "deliverable_qty": 56729,
+      "delivery_pct": 13.39
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 12:27:48",
+      "an_dt": "20-May-2026 12:27:48",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Orkla India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORKLA2025_20052026122707_SIGNEDNewspaperPublQ4.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 21:53:23",
+      "an_dt": "19-May-2026 21:53:23",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Orkla India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORKLA2025_19052026215258_SIGNEDAudioRecording.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 17:04:55",
+      "an_dt": "19-May-2026 17:04:55",
+      "desc": "General Updates",
+      "sm_name": "Orkla India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORKLA2025_19052026170348_SIGNEDOutcomeBM19052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 16:41:17",
+      "an_dt": "19-May-2026 16:41:17",
+      "desc": "Press Release",
+      "sm_name": "Orkla India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORKLA2025_19052026164101_SIGNEDPR19052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 16:36:08",
+      "an_dt": "19-May-2026 16:36:08",
+      "desc": "Investor Presentation",
+      "sm_name": "Orkla India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORKLA2025_19052026163539_SIGNEDInvestorPresentation.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 16:31:26",
+      "an_dt": "19-May-2026 16:31:26",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Orkla India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORKLA2025_19052026162949_SIGNEDOutcomeBM19052026.pdf"
+    },
     {
       "sort_date": "2026-05-08 17:50:27",
       "an_dt": "08-May-2026 17:50:27",
@@ -544,13 +578,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Orkla India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORKLA2025_06032026173134_SIGNEDIntimationInvt.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 13:19:12",
-      "an_dt": "17-Feb-2026 13:19:12",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Orkla India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORKLA2025_17022026131752_SIGNEDTRANSCRIPTINTIMATION.pdf"
     }
   ]
 }

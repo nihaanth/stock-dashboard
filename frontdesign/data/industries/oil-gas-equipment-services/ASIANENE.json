@@ -8,25 +8,9 @@
   "price": 293.85,
   "market_cap_cr": 1319.67,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 302.65,
-      "prev_close": 303.35,
-      "volume": 262059,
-      "deliverable_qty": 77746,
-      "delivery_pct": 29.67
-    },
-    {
-      "date": "2026-02-18",
-      "close": 307.65,
-      "prev_close": 302.65,
-      "volume": 194670,
-      "deliverable_qty": 75506,
-      "delivery_pct": 38.79
-    },
     {
       "date": "2026-02-19",
       "close": 309.15,
@@ -458,9 +442,52 @@
       "volume": 487162,
       "deliverable_qty": 219879,
       "delivery_pct": 45.13
+    },
+    {
+      "date": "2026-05-20",
+      "close": 354.75,
+      "prev_close": 320.0,
+      "volume": 7224730,
+      "deliverable_qty": 1363838,
+      "delivery_pct": 18.88
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 19:12:40",
+      "an_dt": "20-May-2026 19:12:40",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Asian Energy Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASIANENE_20052026190938_AESL_NewspaperFinancials_20thMay2026_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 19:07:26",
+      "an_dt": "20-May-2026 19:07:26",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Asian Energy Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASIANENE_20052026190457_AESL_AudioRecording_20thMay2026_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 20:14:54",
+      "an_dt": "19-May-2026 20:14:54",
+      "desc": "Investor Presentation",
+      "sm_name": "Asian Energy Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASIANENE_19052026201404_AESL_InvestorPresentation_March2026_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 20:10:08",
+      "an_dt": "19-May-2026 20:10:08",
+      "desc": "Press Release",
+      "sm_name": "Asian Energy Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASIANENE_19052026200642_AESL_PressRelease_March2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 19:40:05",
+      "an_dt": "19-May-2026 19:40:05",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Asian Energy Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASIANENE_19052026192831_OutcomeofBoardMeeting19052026signed.pdf"
+    },
     {
       "sort_date": "2026-05-15 18:19:43",
       "an_dt": "15-May-2026 18:19:43",

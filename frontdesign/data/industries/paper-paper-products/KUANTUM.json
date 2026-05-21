@@ -8,25 +8,9 @@
   "price": 78.75,
   "market_cap_cr": 687.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 92.51,
-      "prev_close": 92.62,
-      "volume": 20786,
-      "deliverable_qty": 14601,
-      "delivery_pct": 70.24
-    },
-    {
-      "date": "2026-02-18",
-      "close": 91.42,
-      "prev_close": 92.51,
-      "volume": 18535,
-      "deliverable_qty": 9902,
-      "delivery_pct": 53.42
-    },
     {
       "date": "2026-02-19",
       "close": 90.93,
@@ -458,6 +442,14 @@
       "volume": 76879,
       "deliverable_qty": 56067,
       "delivery_pct": 72.93
+    },
+    {
+      "date": "2026-05-20",
+      "close": 77.0,
+      "prev_close": 77.1,
+      "volume": 29439,
+      "deliverable_qty": 18925,
+      "delivery_pct": 64.29
     }
   ],
   "news": [
@@ -523,13 +515,6 @@
       "desc": "Investor Presentation",
       "sm_name": "Kuantum Papers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KUANTUM_25022026124651_INVESTORPRESENTATION25022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 10:31:45",
-      "an_dt": "18-Feb-2026 10:31:45",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Kuantum Papers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KUANTUM_18022026103133_newspaperclippings18022026.pdf"
     }
   ]
 }

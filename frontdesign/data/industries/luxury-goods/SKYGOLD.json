@@ -8,25 +8,9 @@
   "price": 505.2,
   "market_cap_cr": 7824.23,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 371.05,
-      "prev_close": 370.85,
-      "volume": 1479941,
-      "deliverable_qty": 586651,
-      "delivery_pct": 39.64
-    },
-    {
-      "date": "2026-02-18",
-      "close": 378.4,
-      "prev_close": 371.05,
-      "volume": 1003134,
-      "deliverable_qty": 339297,
-      "delivery_pct": 33.82
-    },
     {
       "date": "2026-02-19",
       "close": 366.7,
@@ -458,6 +442,14 @@
       "volume": 868924,
       "deliverable_qty": 393224,
       "delivery_pct": 45.25
+    },
+    {
+      "date": "2026-05-20",
+      "close": 466.3,
+      "prev_close": 458.3,
+      "volume": 819493,
+      "deliverable_qty": 306888,
+      "delivery_pct": 37.45
     }
   ],
   "news": [
@@ -544,13 +536,6 @@
       "desc": "Press Release",
       "sm_name": "SKY GOLD AND DIAMONDS LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SKYGOLD_27022026145659_PressRelease.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 11:55:52",
-      "an_dt": "17-Feb-2026 11:55:52",
-      "desc": "Credit Rating- Revision",
-      "sm_name": "SKY GOLD AND DIAMONDS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SKYGOLD_17022026115531_CreditRatingIntimation.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 158.35,
   "market_cap_cr": 948.66,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 137.94,
-      "prev_close": 139.19,
-      "volume": 47890,
-      "deliverable_qty": 24896,
-      "delivery_pct": 51.99
-    },
-    {
-      "date": "2026-02-18",
-      "close": 139.12,
-      "prev_close": 137.94,
-      "volume": 58582,
-      "deliverable_qty": 33200,
-      "delivery_pct": 56.67
-    },
     {
       "date": "2026-02-19",
       "close": 139.21,
@@ -458,9 +442,24 @@
       "volume": 229616,
       "deliverable_qty": 128368,
       "delivery_pct": 55.91
+    },
+    {
+      "date": "2026-05-20",
+      "close": 139.49,
+      "prev_close": 140.3,
+      "volume": 81637,
+      "deliverable_qty": 26902,
+      "delivery_pct": 32.95
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 16:48:12",
+      "an_dt": "20-May-2026 16:48:12",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Scoda Tubes Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SCODA_20052026164744_Intimation_of_investor_call_-_28-05-2026.pdf"
+    },
     {
       "sort_date": "2026-05-15 16:51:03",
       "an_dt": "15-May-2026 16:51:03",

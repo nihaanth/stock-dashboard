@@ -8,25 +8,9 @@
   "price": 555.9,
   "market_cap_cr": 8494.12,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 559.5,
-      "prev_close": 562.3,
-      "volume": 59437,
-      "deliverable_qty": 33885,
-      "delivery_pct": 57.01
-    },
-    {
-      "date": "2026-02-18",
-      "close": 567.45,
-      "prev_close": 559.5,
-      "volume": 59254,
-      "deliverable_qty": 28285,
-      "delivery_pct": 47.74
-    },
     {
       "date": "2026-02-19",
       "close": 556.65,
@@ -458,6 +442,14 @@
       "volume": 70937,
       "deliverable_qty": 38387,
       "delivery_pct": 54.11
+    },
+    {
+      "date": "2026-05-20",
+      "close": 557.9,
+      "prev_close": 560.4,
+      "volume": 23525,
+      "deliverable_qty": 10855,
+      "delivery_pct": 46.14
     }
   ],
   "news": [
@@ -607,13 +599,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Varroc Engineering Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_19022026211847_Investorcall.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 20:10:03",
-      "an_dt": "18-Feb-2026 20:10:03",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Varroc Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_18022026200953_IntimationofInvestorCall.pdf"
     }
   ]
 }

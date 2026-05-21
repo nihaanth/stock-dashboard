@@ -8,25 +8,9 @@
   "price": 649.55,
   "market_cap_cr": 1042.28,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 646.3,
-      "prev_close": 630.8,
-      "volume": 12932,
-      "deliverable_qty": 7660,
-      "delivery_pct": 59.23
-    },
-    {
-      "date": "2026-02-18",
-      "close": 654.9,
-      "prev_close": 646.3,
-      "volume": 14034,
-      "deliverable_qty": 6474,
-      "delivery_pct": 46.13
-    },
     {
       "date": "2026-02-19",
       "close": 633.05,
@@ -458,9 +442,31 @@
       "volume": 40632,
       "deliverable_qty": 17606,
       "delivery_pct": 43.33
+    },
+    {
+      "date": "2026-05-20",
+      "close": 643.2,
+      "prev_close": 628.4,
+      "volume": 67362,
+      "deliverable_qty": 18640,
+      "delivery_pct": 27.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 15:11:22",
+      "an_dt": "20-May-2026 15:11:22",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Control Print Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CONTROLPR_20052026151019_OutcomeofBM_F_sd.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 14:51:17",
+      "an_dt": "20-May-2026 14:51:17",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Control Print Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CONTROLPR_20052026145109_OutcomeofBM_F_sd.pdf"
+    },
     {
       "sort_date": "2026-05-18 12:44:25",
       "an_dt": "18-May-2026 12:44:25",

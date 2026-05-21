@@ -8,25 +8,9 @@
   "price": 59.89,
   "market_cap_cr": 553.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 49.4,
-      "prev_close": 48.99,
-      "volume": 182162,
-      "deliverable_qty": 97392,
-      "delivery_pct": 53.46
-    },
-    {
-      "date": "2026-02-18",
-      "close": 50.49,
-      "prev_close": 49.4,
-      "volume": 217827,
-      "deliverable_qty": 146159,
-      "delivery_pct": 67.1
-    },
     {
       "date": "2026-02-19",
       "close": 50.11,
@@ -458,9 +442,24 @@
       "volume": 245426,
       "deliverable_qty": 147176,
       "delivery_pct": 59.97
+    },
+    {
+      "date": "2026-05-20",
+      "close": 70.31,
+      "prev_close": 60.28,
+      "volume": 7528849,
+      "deliverable_qty": 2030458,
+      "delivery_pct": 26.97
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 17:21:36",
+      "an_dt": "19-May-2026 17:21:36",
+      "desc": "Trading Window",
+      "sm_name": "Glottis Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLOTTISLTD_19052026172122_BM_Intimation_Glottis.pdf"
+    },
     {
       "sort_date": "2026-05-14 15:36:40",
       "an_dt": "14-May-2026 15:36:40",

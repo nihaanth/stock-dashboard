@@ -8,25 +8,9 @@
   "price": 916.9,
   "market_cap_cr": 1295.61,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 930.85,
-      "prev_close": 930.15,
-      "volume": 2198,
-      "deliverable_qty": 1622,
-      "delivery_pct": 73.79
-    },
-    {
-      "date": "2026-02-18",
-      "close": 933.85,
-      "prev_close": 930.85,
-      "volume": 2853,
-      "deliverable_qty": 2089,
-      "delivery_pct": 73.22
-    },
     {
       "date": "2026-02-19",
       "close": 926.5,
@@ -458,6 +442,14 @@
       "volume": 786,
       "deliverable_qty": 583,
       "delivery_pct": 74.17
+    },
+    {
+      "date": "2026-05-20",
+      "close": 884.4,
+      "prev_close": 891.95,
+      "volume": 1793,
+      "deliverable_qty": 1045,
+      "delivery_pct": 58.28
     }
   ],
   "news": [
@@ -558,13 +550,6 @@
       "desc": "Trading Window",
       "sm_name": "TTK Healthcare Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TTKHCSECL_24032026164031_CTW23032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 11:49:35",
-      "an_dt": "18-Feb-2026 11:49:35",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "TTK Healthcare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TTKHCSECL_18022026114921_SE_NP_ADVT_18022026.pdf"
     }
   ]
 }

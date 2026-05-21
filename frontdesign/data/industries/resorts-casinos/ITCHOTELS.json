@@ -8,25 +8,9 @@
   "price": 159.37,
   "market_cap_cr": 33196.39,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 181.21,
-      "prev_close": 179.56,
-      "volume": 1205672,
-      "deliverable_qty": 619883,
-      "delivery_pct": 51.41
-    },
-    {
-      "date": "2026-02-18",
-      "close": 180.66,
-      "prev_close": 181.21,
-      "volume": 1275121,
-      "deliverable_qty": 760703,
-      "delivery_pct": 59.66
-    },
     {
       "date": "2026-02-19",
       "close": 177.18,
@@ -458,9 +442,24 @@
       "volume": 6348092,
       "deliverable_qty": 2590016,
       "delivery_pct": 40.8
+    },
+    {
+      "date": "2026-05-20",
+      "close": 153.52,
+      "prev_close": 155.84,
+      "volume": 2054510,
+      "deliverable_qty": 1261377,
+      "delivery_pct": 61.4
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 19:31:26",
+      "an_dt": "19-May-2026 19:31:26",
+      "desc": "Acquisition",
+      "sm_name": "ITC Hotels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ITCHOTELS12_19052026193011_Acquisition.pdf"
+    },
     {
       "sort_date": "2026-05-15 16:12:39",
       "an_dt": "15-May-2026 16:12:39",

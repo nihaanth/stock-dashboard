@@ -8,25 +8,9 @@
   "price": 1656.7,
   "market_cap_cr": 2812.34,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1629.5,
-      "prev_close": 1500.7,
-      "volume": 147049,
-      "deliverable_qty": 33382,
-      "delivery_pct": 22.7
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1710.5,
-      "prev_close": 1629.5,
-      "volume": 73729,
-      "deliverable_qty": 35491,
-      "delivery_pct": 48.14
-    },
     {
       "date": "2026-02-19",
       "close": 1640.6,
@@ -458,6 +442,14 @@
       "volume": 43315,
       "deliverable_qty": 15606,
       "delivery_pct": 36.03
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1835.8,
+      "prev_close": 1828.9,
+      "volume": 13357,
+      "deliverable_qty": 7152,
+      "delivery_pct": 53.54
     }
   ],
   "news": [
@@ -621,13 +613,6 @@
       "desc": "Updates",
       "sm_name": "MPS Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MPSLIMITED_25022026203243_MPS_Unbound_Acquisition_Transcript.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 16:00:41",
-      "an_dt": "17-Feb-2026 16:00:41",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "MPS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MPSLIMITED_17022026155446_Conference_Call_Update.pdf"
     }
   ]
 }

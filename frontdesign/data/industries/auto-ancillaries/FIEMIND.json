@@ -8,25 +8,9 @@
   "price": 2221.3,
   "market_cap_cr": 5846.39,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 2243.9,
-      "prev_close": 2232.5,
-      "volume": 36914,
-      "deliverable_qty": 14638,
-      "delivery_pct": 39.65
-    },
-    {
-      "date": "2026-02-18",
-      "close": 2289.7,
-      "prev_close": 2243.9,
-      "volume": 76404,
-      "deliverable_qty": 27765,
-      "delivery_pct": 36.34
-    },
     {
       "date": "2026-02-19",
       "close": 2249.7,
@@ -458,9 +442,31 @@
       "volume": 32253,
       "deliverable_qty": 17950,
       "delivery_pct": 55.65
+    },
+    {
+      "date": "2026-05-20",
+      "close": 2151.2,
+      "prev_close": 2169.7,
+      "volume": 61397,
+      "deliverable_qty": 25483,
+      "delivery_pct": 41.51
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 18:09:00",
+      "an_dt": "19-May-2026 18:09:00",
+      "desc": "Change in Management",
+      "sm_name": "Fiem Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FIEMIND_19052026180752_FIEMINDCEOResign190526.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 11:11:03",
+      "an_dt": "19-May-2026 11:11:03",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Fiem Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20042026160142_FIEMIND.pdf"
+    },
     {
       "sort_date": "2026-04-06 16:13:19",
       "an_dt": "06-Apr-2026 16:13:19",
@@ -516,13 +522,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Fiem Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FIEMIND_24022026124021_FIEMINDPostalBallotNotice.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 15:50:20",
-      "an_dt": "17-Feb-2026 15:50:20",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Fiem Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FIEMIND_17022026154953_FIEMINDConCallTranscript17Feb26.pdf"
     }
   ]
 }

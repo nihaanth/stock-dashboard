@@ -8,25 +8,9 @@
   "price": 199.67,
   "market_cap_cr": 1810.09,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 167.92,
-      "prev_close": 166.95,
-      "volume": 284126,
-      "deliverable_qty": 82996,
-      "delivery_pct": 29.21
-    },
-    {
-      "date": "2026-02-18",
-      "close": 166.86,
-      "prev_close": 167.92,
-      "volume": 73673,
-      "deliverable_qty": 35873,
-      "delivery_pct": 48.69
-    },
     {
       "date": "2026-02-19",
       "close": 161.59,
@@ -458,9 +442,24 @@
       "volume": 235036,
       "deliverable_qty": 89238,
       "delivery_pct": 37.97
+    },
+    {
+      "date": "2026-05-20",
+      "close": 205.51,
+      "prev_close": 201.12,
+      "volume": 377397,
+      "deliverable_qty": 179193,
+      "delivery_pct": 47.48
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 15:46:46",
+      "an_dt": "20-May-2026 15:46:46",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "BLS E-Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PROJECTSEWA_20052026154621_NewspaperCopyFR_200526_signed.pdf"
+    },
     {
       "sort_date": "2026-05-18 23:01:46",
       "an_dt": "18-May-2026 23:01:46",

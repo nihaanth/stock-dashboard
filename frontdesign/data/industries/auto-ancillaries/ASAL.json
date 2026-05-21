@@ -8,25 +8,9 @@
   "price": 528.8,
   "market_cap_cr": 838.91,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 468.05,
-      "prev_close": 463.75,
-      "volume": 7418,
-      "deliverable_qty": 3695,
-      "delivery_pct": 49.81
-    },
-    {
-      "date": "2026-02-18",
-      "close": 468.85,
-      "prev_close": 468.05,
-      "volume": 6843,
-      "deliverable_qty": 3329,
-      "delivery_pct": 48.65
-    },
     {
       "date": "2026-02-19",
       "close": 452.8,
@@ -458,6 +442,14 @@
       "volume": 13380,
       "deliverable_qty": 6148,
       "delivery_pct": 45.95
+    },
+    {
+      "date": "2026-05-20",
+      "close": 477.75,
+      "prev_close": 482.7,
+      "volume": 10896,
+      "deliverable_qty": 6914,
+      "delivery_pct": 63.45
     }
   ],
   "news": [
@@ -537,20 +529,6 @@
       "desc": "Appointment",
       "sm_name": "Automotive Stampings and Assemblies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASAL_13032026153946_SE_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 10:47:40",
-      "an_dt": "18-Feb-2026 10:47:40",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Automotive Stampings and Assemblies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASAL_18022026104725_IntimationNewspaperAdvtPostalBallotNotice.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 14:41:01",
-      "an_dt": "17-Feb-2026 14:41:01",
-      "desc": "Shareholders meeting",
-      "sm_name": "Automotive Stampings and Assemblies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASAL_17022026144047_IntimationPostalBallotNotice.pdf"
     }
   ]
 }

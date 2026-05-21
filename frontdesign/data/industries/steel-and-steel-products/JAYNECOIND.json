@@ -8,25 +8,9 @@
   "price": 110.5,
   "market_cap_cr": 10729.53,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 81.06,
-      "prev_close": 77.52,
-      "volume": 6711714,
-      "deliverable_qty": 2986366,
-      "delivery_pct": 44.49
-    },
-    {
-      "date": "2026-02-18",
-      "close": 83.07,
-      "prev_close": 81.06,
-      "volume": 4703074,
-      "deliverable_qty": 2162374,
-      "delivery_pct": 45.98
-    },
     {
       "date": "2026-02-19",
       "close": 80.08,
@@ -458,9 +442,24 @@
       "volume": 5118674,
       "deliverable_qty": 1675145,
       "delivery_pct": 32.73
+    },
+    {
+      "date": "2026-05-20",
+      "close": 103.02,
+      "prev_close": 100.82,
+      "volume": 3304263,
+      "deliverable_qty": 1443776,
+      "delivery_pct": 43.69
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 11:09:23",
+      "an_dt": "19-May-2026 11:09:23",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Jayaswal Neco Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20042026155656_JAYNECOIND.pdf"
+    },
     {
       "sort_date": "2026-05-18 17:46:43",
       "an_dt": "18-May-2026 17:46:43",

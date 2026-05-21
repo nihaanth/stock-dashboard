@@ -8,25 +8,9 @@
   "price": 64.72,
   "market_cap_cr": 764.51,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 70.46,
-      "prev_close": 70.39,
-      "volume": 150033,
-      "deliverable_qty": 61841,
-      "delivery_pct": 41.22
-    },
-    {
-      "date": "2026-02-18",
-      "close": 70.0,
-      "prev_close": 70.46,
-      "volume": 177600,
-      "deliverable_qty": 47307,
-      "delivery_pct": 26.64
-    },
     {
       "date": "2026-02-19",
       "close": 68.8,
@@ -458,9 +442,24 @@
       "volume": 159638,
       "deliverable_qty": 71536,
       "delivery_pct": 44.81
+    },
+    {
+      "date": "2026-05-20",
+      "close": 59.14,
+      "prev_close": 57.74,
+      "volume": 159257,
+      "deliverable_qty": 63958,
+      "delivery_pct": 40.16
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 17:26:15",
+      "an_dt": "20-May-2026 17:26:15",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Radhika Jeweltech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RADHIKA_20052026172425_frm26rj.pdf"
+    },
     {
       "sort_date": "2026-04-21 21:09:30",
       "an_dt": "21-Apr-2026 21:09:30",
@@ -488,13 +487,6 @@
       "desc": "Trading Window",
       "sm_name": "Radhika Jeweltech Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RADHIKA_26032026133011_ctwrjm26.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 11:53:23",
-      "an_dt": "18-Feb-2026 11:53:23",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Radhika Jeweltech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RADHIKA_18022026115019_frd25rj.pdf"
     }
   ]
 }

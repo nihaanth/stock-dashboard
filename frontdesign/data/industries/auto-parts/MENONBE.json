@@ -8,25 +8,9 @@
   "price": 138.81,
   "market_cap_cr": 777.89,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 119.38,
-      "prev_close": 117.2,
-      "volume": 26194,
-      "deliverable_qty": 17579,
-      "delivery_pct": 67.11
-    },
-    {
-      "date": "2026-02-18",
-      "close": 122.88,
-      "prev_close": 119.38,
-      "volume": 52953,
-      "deliverable_qty": 33023,
-      "delivery_pct": 62.36
-    },
     {
       "date": "2026-02-19",
       "close": 120.49,
@@ -458,9 +442,38 @@
       "volume": 124847,
       "deliverable_qty": 77195,
       "delivery_pct": 61.83
+    },
+    {
+      "date": "2026-05-20",
+      "close": 150.61,
+      "prev_close": 148.41,
+      "volume": 514197,
+      "deliverable_qty": 204404,
+      "delivery_pct": 39.75
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 17:53:51",
+      "an_dt": "19-May-2026 17:53:51",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Menon Bearings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MENONBE_19052026175317_Covering_Letter_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 16:18:49",
+      "an_dt": "19-May-2026 16:18:49",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Menon Bearings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_16042026163306_MENONBE1.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 16:18:04",
+      "an_dt": "19-May-2026 16:18:04",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Menon Bearings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_16042026163759_MENONBE22.pdf"
+    },
     {
       "sort_date": "2026-05-16 14:36:35",
       "an_dt": "16-May-2026 14:36:35",

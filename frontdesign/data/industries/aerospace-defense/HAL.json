@@ -8,25 +8,9 @@
   "price": 4756.3,
   "market_cap_cr": 318089.44,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 4247.6,
-      "prev_close": 4226.1,
-      "volume": 1033811,
-      "deliverable_qty": 353999,
-      "delivery_pct": 34.24
-    },
-    {
-      "date": "2026-02-18",
-      "close": 4251.1,
-      "prev_close": 4247.6,
-      "volume": 821047,
-      "deliverable_qty": 309511,
-      "delivery_pct": 37.7
-    },
     {
       "date": "2026-02-19",
       "close": 4132.6,
@@ -458,6 +442,14 @@
       "volume": 2044382,
       "deliverable_qty": 820204,
       "delivery_pct": 40.12
+    },
+    {
+      "date": "2026-05-20",
+      "close": 4326.5,
+      "prev_close": 4333.2,
+      "volume": 1262228,
+      "deliverable_qty": 645021,
+      "delivery_pct": 51.1
     }
   ],
   "news": [
@@ -572,13 +564,6 @@
       "desc": "Updates",
       "sm_name": "Hindustan Aeronautics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HAL_23022026143410_newsclarification_23022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 16:24:44",
-      "an_dt": "18-Feb-2026 16:24:44",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Hindustan Aeronautics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HAL_18022026162432_InvestorsMeet_23022026.pdf"
     }
   ]
 }

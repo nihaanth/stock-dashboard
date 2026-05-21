@@ -8,25 +8,9 @@
   "price": 97.4,
   "market_cap_cr": 10769.56,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 97.03,
-      "prev_close": 95.48,
-      "volume": 614881,
-      "deliverable_qty": 220989,
-      "delivery_pct": 35.94
-    },
-    {
-      "date": "2026-02-18",
-      "close": 97.03,
-      "prev_close": 97.03,
-      "volume": 471358,
-      "deliverable_qty": 242962,
-      "delivery_pct": 51.55
-    },
     {
       "date": "2026-02-19",
       "close": 95.16,
@@ -458,6 +442,14 @@
       "volume": 904891,
       "deliverable_qty": 441500,
       "delivery_pct": 48.79
+    },
+    {
+      "date": "2026-05-20",
+      "close": 90.59,
+      "prev_close": 90.77,
+      "volume": 453930,
+      "deliverable_qty": 178888,
+      "delivery_pct": 39.41
     }
   ],
   "news": [
@@ -607,13 +599,6 @@
       "desc": "Allotment of Securities",
       "sm_name": "SBFC Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBFC_19022026105336_NSEBSEESOP.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:53:52",
-      "an_dt": "17-Feb-2026 18:53:52",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "SBFC Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBFC_17022026184406_SBFCGroupMeetingIntimationFeb2026.pdf"
     }
   ]
 }

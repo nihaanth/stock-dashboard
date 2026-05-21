@@ -8,25 +8,9 @@
   "price": 214.18,
   "market_cap_cr": 2059.76,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 193.48,
-      "prev_close": 194.6,
-      "volume": 81599,
-      "deliverable_qty": 46206,
-      "delivery_pct": 56.63
-    },
-    {
-      "date": "2026-02-18",
-      "close": 194.0,
-      "prev_close": 193.48,
-      "volume": 87066,
-      "deliverable_qty": 54447,
-      "delivery_pct": 62.54
-    },
     {
       "date": "2026-02-19",
       "close": 191.06,
@@ -458,9 +442,24 @@
       "volume": 385868,
       "deliverable_qty": 183509,
       "delivery_pct": 47.56
+    },
+    {
+      "date": "2026-05-20",
+      "close": 240.04,
+      "prev_close": 234.95,
+      "volume": 376642,
+      "deliverable_qty": 213969,
+      "delivery_pct": 56.81
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 14:53:13",
+      "an_dt": "19-May-2026 14:53:13",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Veranda Learning Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_30042026121910_47.pdf"
+    },
     {
       "sort_date": "2026-05-14 17:07:25",
       "an_dt": "14-May-2026 17:07:25",

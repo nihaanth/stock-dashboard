@@ -8,25 +8,9 @@
   "price": 442.25,
   "market_cap_cr": 3732.77,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 424.05,
-      "prev_close": 428.4,
-      "volume": 55109,
-      "deliverable_qty": 38830,
-      "delivery_pct": 70.46
-    },
-    {
-      "date": "2026-02-18",
-      "close": 416.1,
-      "prev_close": 424.05,
-      "volume": 7017,
-      "deliverable_qty": 3732,
-      "delivery_pct": 53.19
-    },
     {
       "date": "2026-02-19",
       "close": 414.35,
@@ -458,6 +442,14 @@
       "volume": 23296,
       "deliverable_qty": 11377,
       "delivery_pct": 48.84
+    },
+    {
+      "date": "2026-05-20",
+      "close": 402.4,
+      "prev_close": 413.15,
+      "volume": 10319,
+      "deliverable_qty": 6738,
+      "delivery_pct": 65.3
     }
   ],
   "news": [
@@ -572,13 +564,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Sanathan Textiles Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANATHAN_19022026205632_STL_Investors_Meet_23022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 23:09:18",
-      "an_dt": "17-Feb-2026 23:09:18",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Sanathan Textiles Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANATHAN_17022026230902_STL_Investors_Meet_19022026.pdf"
     }
   ]
 }

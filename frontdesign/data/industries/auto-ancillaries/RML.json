@@ -8,25 +8,9 @@
   "price": 878.2,
   "market_cap_cr": 2427.09,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 847.15,
-      "prev_close": 819.35,
-      "volume": 13037,
-      "deliverable_qty": 6171,
-      "delivery_pct": 47.33
-    },
-    {
-      "date": "2026-02-18",
-      "close": 849.1,
-      "prev_close": 847.15,
-      "volume": 14019,
-      "deliverable_qty": 5826,
-      "delivery_pct": 41.56
-    },
     {
       "date": "2026-02-19",
       "close": 823.85,
@@ -458,9 +442,24 @@
       "volume": 26468,
       "deliverable_qty": 10275,
       "delivery_pct": 38.82
+    },
+    {
+      "date": "2026-05-20",
+      "close": 886.05,
+      "prev_close": 891.15,
+      "volume": 12684,
+      "deliverable_qty": 7586,
+      "delivery_pct": 59.81
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 16:07:14",
+      "an_dt": "19-May-2026 16:07:14",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Rane (Madras) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RML_19052026160419_RML_SE_Audio_Recording_18052026_SD.pdf"
+    },
     {
       "sort_date": "2026-05-15 19:36:42",
       "an_dt": "15-May-2026 19:36:42",
@@ -614,27 +613,6 @@
       "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
       "sm_name": "Rane (Madras) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RML_21022026181207_RML_IT_SCN_SE_Intimation_SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 12:10:22",
-      "an_dt": "18-Feb-2026 12:10:22",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Rane (Madras) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RML_18022026121002_RMLSE_PBPaperpublication_Feb_2026_SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 11:30:53",
-      "an_dt": "18-Feb-2026 11:30:53",
-      "desc": "Shareholders meeting",
-      "sm_name": "Rane (Madras) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RML_18022026112940_RML_SE_PB_Feb2026_SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:53:16",
-      "an_dt": "17-Feb-2026 18:53:16",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Rane (Madras) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RML_17022026185307_RML_SE_Audio_Recording_Feb_2026_SD.pdf"
     }
   ]
 }

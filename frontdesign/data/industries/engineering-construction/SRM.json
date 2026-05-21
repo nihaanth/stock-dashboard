@@ -8,25 +8,9 @@
   "price": 500.15,
   "market_cap_cr": 1147.77,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 418.7,
-      "prev_close": 429.05,
-      "volume": 218043,
-      "deliverable_qty": 84438,
-      "delivery_pct": 38.73
-    },
-    {
-      "date": "2026-02-18",
-      "close": 433.85,
-      "prev_close": 418.7,
-      "volume": 137006,
-      "deliverable_qty": 58039,
-      "delivery_pct": 42.36
-    },
     {
       "date": "2026-02-19",
       "close": 438.65,
@@ -458,6 +442,14 @@
       "volume": 108162,
       "deliverable_qty": 49811,
       "delivery_pct": 46.05
+    },
+    {
+      "date": "2026-05-20",
+      "close": 485.05,
+      "prev_close": 485.85,
+      "volume": 31445,
+      "deliverable_qty": 14234,
+      "delivery_pct": 45.27
     }
   ],
   "news": [
@@ -523,20 +515,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "SRM Contractors Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SRMCONTRACT_20022026185418_Newspaper_final_intimaton.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 18:33:59",
-      "an_dt": "18-Feb-2026 18:33:59",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "SRM Contractors Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SRMCONTRACT_18022026183321_Q3_FY_26_final_intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:12:11",
-      "an_dt": "17-Feb-2026 12:12:11",
-      "desc": "General Updates",
-      "sm_name": "SRM Contractors Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SRMCONTRACT_17022026121200_recording_intimation_final.pdf"
     }
   ]
 }

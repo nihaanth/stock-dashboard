@@ -8,25 +8,9 @@
   "price": 501.5,
   "market_cap_cr": 1933.39,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 447.7,
-      "prev_close": 439.3,
-      "volume": 60484,
-      "deliverable_qty": 32556,
-      "delivery_pct": 53.83
-    },
-    {
-      "date": "2026-02-18",
-      "close": 458.45,
-      "prev_close": 447.7,
-      "volume": 335470,
-      "deliverable_qty": 147039,
-      "delivery_pct": 43.83
-    },
     {
       "date": "2026-02-19",
       "close": 435.9,
@@ -458,9 +442,24 @@
       "volume": 1101630,
       "deliverable_qty": 163603,
       "delivery_pct": 14.85
+    },
+    {
+      "date": "2026-05-20",
+      "close": 520.55,
+      "prev_close": 529.2,
+      "volume": 208441,
+      "deliverable_qty": 49087,
+      "delivery_pct": 23.55
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 11:03:18",
+      "an_dt": "20-May-2026 11:03:18",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Rishabh Instruments Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RISHABH_20052026110310_RIL_NewspaperPublication_18052026_Executed.pdf"
+    },
     {
       "sort_date": "2026-05-18 19:54:37",
       "an_dt": "18-May-2026 19:54:37",

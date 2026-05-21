@@ -8,25 +8,9 @@
   "price": 1622.4,
   "market_cap_cr": 12188.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1634.0,
-      "prev_close": 1618.7,
-      "volume": 46444,
-      "deliverable_qty": 22267,
-      "delivery_pct": 47.94
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1629.5,
-      "prev_close": 1634.0,
-      "volume": 30432,
-      "deliverable_qty": 14118,
-      "delivery_pct": 46.39
-    },
     {
       "date": "2026-02-19",
       "close": 1635.7,
@@ -458,9 +442,24 @@
       "volume": 37850,
       "deliverable_qty": 21105,
       "delivery_pct": 55.76
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1578.6,
+      "prev_close": 1593.9,
+      "volume": 11936,
+      "deliverable_qty": 5215,
+      "delivery_pct": 43.69
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 12:21:48",
+      "an_dt": "20-May-2026 12:21:48",
+      "desc": "Credit Rating",
+      "sm_name": "Tega Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TEGA_20052026122117_Intimation_of_Credit_Rating_ICRA_sd.pdf"
+    },
     {
       "sort_date": "2026-05-18 13:21:51",
       "an_dt": "18-May-2026 13:21:51",

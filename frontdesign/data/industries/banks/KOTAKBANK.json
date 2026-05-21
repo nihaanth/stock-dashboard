@@ -8,25 +8,9 @@
   "price": 381.05,
   "market_cap_cr": 379010.05,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 424.45,
-      "prev_close": 425.6,
-      "volume": 6427007,
-      "deliverable_qty": 3866841,
-      "delivery_pct": 60.17
-    },
-    {
-      "date": "2026-02-18",
-      "close": 426.35,
-      "prev_close": 424.45,
-      "volume": 7333331,
-      "deliverable_qty": 4602061,
-      "delivery_pct": 62.76
-    },
     {
       "date": "2026-02-19",
       "close": 416.4,
@@ -458,9 +442,24 @@
       "volume": 14575831,
       "deliverable_qty": 9354110,
       "delivery_pct": 64.18
+    },
+    {
+      "date": "2026-05-20",
+      "close": 383.2,
+      "prev_close": 381.95,
+      "volume": 12342444,
+      "deliverable_qty": 7738739,
+      "delivery_pct": 62.7
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 18:46:30",
+      "an_dt": "20-May-2026 18:46:30",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Kotak Mahindra Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KMBLTAB_20052026184404_SEIntimationAnalystInvestorMeet.pdf"
+    },
     {
       "sort_date": "2026-05-15 23:17:37",
       "an_dt": "15-May-2026 23:17:37",
@@ -712,41 +711,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Kotak Mahindra Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Kotakmahindrabank_04032026203153_SEIntimationResultofPostalBallotMarch042026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 19:46:21",
-      "an_dt": "17-Feb-2026 19:46:21",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Kotak Mahindra Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Kotakmahindrabank_17022026194611_InvestormeetintimationFeb172026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 19:10:49",
-      "an_dt": "17-Feb-2026 19:10:49",
-      "desc": "Cessation",
-      "sm_name": "Kotak Mahindra Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KMBLTAB_17022026191005_KMBLIntimationFeb2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 19:06:37",
-      "an_dt": "17-Feb-2026 19:06:37",
-      "desc": "Appointment",
-      "sm_name": "Kotak Mahindra Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KMBLTAB_17022026190412_KMBLIntimationFeb2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 13:04:08",
-      "an_dt": "17-Feb-2026 13:04:08",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Kotak Mahindra Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Kotakmahindrabank_17022026130359_InvestormeetintimationFeb172026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:56:30",
-      "an_dt": "17-Feb-2026 12:56:30",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Kotak Mahindra Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Kotakmahindrabank_17022026125621_InvestormeetintimationFeb172026.pdf"
     }
   ]
 }

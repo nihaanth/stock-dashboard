@@ -8,25 +8,9 @@
   "price": 910.9,
   "market_cap_cr": 20290.14,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 904.45,
-      "prev_close": 902.8,
-      "volume": 5671,
-      "deliverable_qty": 2755,
-      "delivery_pct": 48.58
-    },
-    {
-      "date": "2026-02-18",
-      "close": 916.65,
-      "prev_close": 904.45,
-      "volume": 8935,
-      "deliverable_qty": 4532,
-      "delivery_pct": 50.72
-    },
     {
       "date": "2026-02-19",
       "close": 890.05,
@@ -458,9 +442,52 @@
       "volume": 26900,
       "deliverable_qty": 14752,
       "delivery_pct": 54.84
+    },
+    {
+      "date": "2026-05-20",
+      "close": 939.0,
+      "prev_close": 944.0,
+      "volume": 114845,
+      "deliverable_qty": 34257,
+      "delivery_pct": 29.83
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 20:01:23",
+      "an_dt": "19-May-2026 20:01:23",
+      "desc": "Appointment",
+      "sm_name": "Hatsun Agro Product Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HATSUN_19052026200108_costauditor.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 19:57:38",
+      "an_dt": "19-May-2026 19:57:38",
+      "desc": "Record Date",
+      "sm_name": "Hatsun Agro Product Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HATSUN_19052026195700_HAPLBMOC19May26Dividend.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 19:56:04",
+      "an_dt": "19-May-2026 19:56:04",
+      "desc": "Dividend",
+      "sm_name": "Hatsun Agro Product Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HATSUN_19052026195456_HAPLBMOC19May26Dividend.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 18:00:20",
+      "an_dt": "19-May-2026 18:00:20",
+      "desc": "Press Release",
+      "sm_name": "Hatsun Agro Product Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HATSUN_19052026180012_pressrelease.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 17:49:56",
+      "an_dt": "19-May-2026 17:49:56",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Hatsun Agro Product Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HATSUN_19052026174531_HAPLBMOC19May26sd.pdf"
+    },
     {
       "sort_date": "2026-05-15 18:39:54",
       "an_dt": "15-May-2026 18:39:54",

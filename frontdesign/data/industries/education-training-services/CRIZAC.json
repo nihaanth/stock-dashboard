@@ -8,25 +8,9 @@
   "price": 214.71,
   "market_cap_cr": 3757.05,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 231.3,
-      "prev_close": 230.4,
-      "volume": 176674,
-      "deliverable_qty": 128786,
-      "delivery_pct": 72.89
-    },
-    {
-      "date": "2026-02-18",
-      "close": 236.85,
-      "prev_close": 231.3,
-      "volume": 152366,
-      "deliverable_qty": 92356,
-      "delivery_pct": 60.61
-    },
     {
       "date": "2026-02-19",
       "close": 237.65,
@@ -458,9 +442,24 @@
       "volume": 128360,
       "deliverable_qty": 59331,
       "delivery_pct": 46.22
+    },
+    {
+      "date": "2026-05-20",
+      "close": 201.21,
+      "prev_close": 205.09,
+      "volume": 118543,
+      "deliverable_qty": 62214,
+      "delivery_pct": 52.48
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 18:20:45",
+      "an_dt": "20-May-2026 18:20:45",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Crizac Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRIZAC0301_20052026181953_Investor_call_intimation.pdf"
+    },
     {
       "sort_date": "2026-04-15 16:03:42",
       "an_dt": "15-Apr-2026 16:03:42",

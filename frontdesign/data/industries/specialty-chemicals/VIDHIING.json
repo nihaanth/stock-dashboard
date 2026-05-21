@@ -8,25 +8,9 @@
   "price": 285.75,
   "market_cap_cr": 1427.18,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 320.5,
-      "prev_close": 316.3,
-      "volume": 15361,
-      "deliverable_qty": 7115,
-      "delivery_pct": 46.32
-    },
-    {
-      "date": "2026-02-18",
-      "close": 319.85,
-      "prev_close": 320.5,
-      "volume": 6348,
-      "deliverable_qty": 4847,
-      "delivery_pct": 76.35
-    },
     {
       "date": "2026-02-19",
       "close": 315.05,
@@ -458,9 +442,24 @@
       "volume": 6682,
       "deliverable_qty": 3953,
       "delivery_pct": 59.16
+    },
+    {
+      "date": "2026-05-20",
+      "close": 292.95,
+      "prev_close": 289.0,
+      "volume": 2867,
+      "deliverable_qty": 1424,
+      "delivery_pct": 49.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 12:13:34",
+      "an_dt": "19-May-2026 12:13:34",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Vidhi Specialty Food Ingredients Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIDHIING_19052026121316_Transcript_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-15 16:05:57",
       "an_dt": "15-May-2026 16:05:57",

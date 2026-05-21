@@ -8,25 +8,9 @@
   "price": 474.6,
   "market_cap_cr": 8232.67,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 361.9,
-      "prev_close": 357.6,
-      "volume": 1950623,
-      "deliverable_qty": 629244,
-      "delivery_pct": 32.26
-    },
-    {
-      "date": "2026-02-18",
-      "close": 359.35,
-      "prev_close": 361.9,
-      "volume": 637299,
-      "deliverable_qty": 226944,
-      "delivery_pct": 35.61
-    },
     {
       "date": "2026-02-19",
       "close": 364.2,
@@ -458,9 +442,24 @@
       "volume": 284432,
       "deliverable_qty": 151447,
       "delivery_pct": 53.25
+    },
+    {
+      "date": "2026-05-20",
+      "close": 437.55,
+      "prev_close": 437.2,
+      "volume": 269458,
+      "deliverable_qty": 109964,
+      "delivery_pct": 40.81
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 12:07:47",
+      "an_dt": "19-May-2026 12:07:47",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Blue Jet Healthcare Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLUEJET_19052026120630_Investor_call_intimation.pdf"
+    },
     {
       "sort_date": "2026-04-08 12:22:14",
       "an_dt": "08-Apr-2026 12:22:14",
@@ -502,20 +501,6 @@
       "desc": "Updates",
       "sm_name": "Blue Jet Healthcare Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLUEJET_19022026154640_Intimation_vizag_update.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 15:46:51",
-      "an_dt": "17-Feb-2026 15:46:51",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Blue Jet Healthcare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLUEJET_17022026154637_SE_Intimation__Trasscript.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 15:21:08",
-      "an_dt": "17-Feb-2026 15:21:08",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Blue Jet Healthcare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLUEJET_17022026152051_Investor_call.pdf"
     }
   ]
 }

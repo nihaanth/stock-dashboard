@@ -8,25 +8,9 @@
   "price": 490.25,
   "market_cap_cr": 6920.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 527.5,
-      "prev_close": 463.05,
-      "volume": 49247741,
-      "deliverable_qty": 3048585,
-      "delivery_pct": 6.19
-    },
-    {
-      "date": "2026-02-18",
-      "close": 531.55,
-      "prev_close": 527.5,
-      "volume": 21278172,
-      "deliverable_qty": 1727896,
-      "delivery_pct": 8.12
-    },
     {
       "date": "2026-02-19",
       "close": 622.9,
@@ -458,6 +442,14 @@
       "volume": 517338,
       "deliverable_qty": 141852,
       "delivery_pct": 27.42
+    },
+    {
+      "date": "2026-05-20",
+      "close": 450.3,
+      "prev_close": 461.15,
+      "volume": 629254,
+      "deliverable_qty": 305876,
+      "delivery_pct": 48.61
     }
   ],
   "news": [
@@ -628,13 +620,6 @@
       "desc": "Change in Management",
       "sm_name": "Newgen Software Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEWGEN2_27022026192033_STOCKEXCAHANGEINTIMATIONMANOJIT.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:27:30",
-      "an_dt": "17-Feb-2026 17:27:30",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Newgen Software Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEWGEN2_17022026172717_Road_Show_intimation_l_Newgen_sign.pdf"
     }
   ]
 }

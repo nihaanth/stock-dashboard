@@ -8,25 +8,9 @@
   "price": 77.37,
   "market_cap_cr": 30404.82,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 77.55,
-      "prev_close": 77.81,
-      "volume": 3516148,
-      "deliverable_qty": 1227064,
-      "delivery_pct": 34.9
-    },
-    {
-      "date": "2026-02-18",
-      "close": 76.65,
-      "prev_close": 77.55,
-      "volume": 2773487,
-      "deliverable_qty": 1244658,
-      "delivery_pct": 44.88
-    },
     {
       "date": "2026-02-19",
       "close": 75.14,
@@ -458,6 +442,14 @@
       "volume": 11944192,
       "deliverable_qty": 3201973,
       "delivery_pct": 26.81
+    },
+    {
+      "date": "2026-05-20",
+      "close": 73.58,
+      "prev_close": 74.56,
+      "volume": 2306540,
+      "deliverable_qty": 968177,
+      "delivery_pct": 41.98
     }
   ],
   "news": [
@@ -621,13 +613,6 @@
       "desc": "Change in Director(s)",
       "sm_name": "SJVN Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SJVN_26022026161113_Disclosure26022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:25:58",
-      "an_dt": "17-Feb-2026 18:25:58",
-      "desc": "Updates",
-      "sm_name": "SJVN Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SJVN_17022026182523_1.pdf"
     }
   ]
 }

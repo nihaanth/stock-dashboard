@@ -8,25 +8,9 @@
   "price": 1021.4,
   "market_cap_cr": 76437.37,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 999.75,
-      "prev_close": 1010.0,
-      "volume": 1966733,
-      "deliverable_qty": 1017914,
-      "delivery_pct": 51.76
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1022.05,
-      "prev_close": 999.75,
-      "volume": 3081772,
-      "deliverable_qty": 2004643,
-      "delivery_pct": 65.05
-    },
     {
       "date": "2026-02-19",
       "close": 1017.05,
@@ -458,9 +442,24 @@
       "volume": 1099094,
       "deliverable_qty": 576918,
       "delivery_pct": 52.49
+    },
+    {
+      "date": "2026-05-20",
+      "close": 974.0,
+      "prev_close": 971.9,
+      "volume": 1712145,
+      "deliverable_qty": 802780,
+      "delivery_pct": 46.89
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 10:42:55",
+      "an_dt": "19-May-2026 10:42:55",
+      "desc": "Press Release",
+      "sm_name": "AU Small Finance Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUMIT1_19052026104108_Submission_PR_Purple_Fabric.pdf"
+    },
     {
       "sort_date": "2026-05-16 15:32:23",
       "an_dt": "16-May-2026 15:32:23",
@@ -705,13 +704,6 @@
       "desc": "Press Release",
       "sm_name": "AU Small Finance Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUMIT1_22022026233533_SE_Submission_Reg30.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:13:00",
-      "an_dt": "17-Feb-2026 17:13:00",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "AU Small Finance Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUMIT1_17022026171203_20260217_Investor_Meet_Intimation.pdf"
     }
   ]
 }

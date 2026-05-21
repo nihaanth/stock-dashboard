@@ -8,25 +8,9 @@
   "price": 163.13,
   "market_cap_cr": 26883.82,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 152.23,
-      "prev_close": 151.05,
-      "volume": 355891,
-      "deliverable_qty": 163948,
-      "delivery_pct": 46.07
-    },
-    {
-      "date": "2026-02-18",
-      "close": 153.01,
-      "prev_close": 152.23,
-      "volume": 292058,
-      "deliverable_qty": 158056,
-      "delivery_pct": 54.12
-    },
     {
       "date": "2026-02-19",
       "close": 150.76,
@@ -458,9 +442,31 @@
       "volume": 811118,
       "deliverable_qty": 189248,
       "delivery_pct": 23.33
+    },
+    {
+      "date": "2026-05-20",
+      "close": 163.1,
+      "prev_close": 164.57,
+      "volume": 416938,
+      "deliverable_qty": 108300,
+      "delivery_pct": 25.98
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 16:28:37",
+      "an_dt": "19-May-2026 16:28:37",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "The New India Assurance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NIACL_19052026162820_Transcript_Upload.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 14:54:23",
+      "an_dt": "19-May-2026 14:54:23",
+      "desc": "General Updates",
+      "sm_name": "The New India Assurance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NIACL_19052026145121_Disclosureupload.pdf"
+    },
     {
       "sort_date": "2026-05-15 17:53:49",
       "an_dt": "15-May-2026 17:53:49",
@@ -604,7 +610,7 @@
     {
       "sort_date": "2026-03-30 17:07:16",
       "an_dt": "30-Mar-2026 17:07:16",
-      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
+      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
       "sm_name": "The New India Assurance Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NIACL_30032026170710_rta.pdf"
     },
@@ -635,13 +641,6 @@
       "desc": "General Updates",
       "sm_name": "The New India Assurance Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NIACL_27022026214559_disclosure.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 16:29:53",
-      "an_dt": "17-Feb-2026 16:29:53",
-      "desc": "Change in Director(s)",
-      "sm_name": "The New India Assurance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NIACL_17022026162932_appointment.pdf"
     }
   ]
 }

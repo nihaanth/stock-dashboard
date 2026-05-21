@@ -8,25 +8,9 @@
   "price": 1266.8,
   "market_cap_cr": 68405.51,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1013.4,
-      "prev_close": 1012.45,
-      "volume": 600623,
-      "deliverable_qty": 246000,
-      "delivery_pct": 40.96
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1037.45,
-      "prev_close": 1013.4,
-      "volume": 1427372,
-      "deliverable_qty": 519247,
-      "delivery_pct": 36.38
-    },
     {
       "date": "2026-02-19",
       "close": 1021.2,
@@ -458,6 +442,14 @@
       "volume": 1925151,
       "deliverable_qty": 985178,
       "delivery_pct": 51.17
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1361.1,
+      "prev_close": 1344.9,
+      "volume": 2103500,
+      "deliverable_qty": 1194043,
+      "delivery_pct": 56.76
     }
   ],
   "news": [
@@ -635,13 +627,6 @@
       "desc": "General Updates",
       "sm_name": "Laurus Labs Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LAURUSLABS_20022026185330_IntimationOfESG.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:47:57",
-      "an_dt": "17-Feb-2026 12:47:57",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Laurus Labs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LAURUSLABS_17022026124723_Invmeet24022026.pdf"
     }
   ]
 }

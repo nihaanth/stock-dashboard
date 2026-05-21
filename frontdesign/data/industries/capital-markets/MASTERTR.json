@@ -8,25 +8,9 @@
   "price": 87.79,
   "market_cap_cr": 1079.96,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 84.93,
-      "prev_close": 83.53,
-      "volume": 54265,
-      "deliverable_qty": 33156,
-      "delivery_pct": 61.1
-    },
-    {
-      "date": "2026-02-18",
-      "close": 85.62,
-      "prev_close": 84.93,
-      "volume": 50733,
-      "deliverable_qty": 26243,
-      "delivery_pct": 51.73
-    },
     {
       "date": "2026-02-19",
       "close": 92.49,
@@ -458,6 +442,14 @@
       "volume": 661394,
       "deliverable_qty": 119805,
       "delivery_pct": 18.11
+    },
+    {
+      "date": "2026-05-20",
+      "close": 92.69,
+      "prev_close": 91.68,
+      "volume": 136831,
+      "deliverable_qty": 19852,
+      "delivery_pct": 14.51
     }
   ],
   "news": [
@@ -551,20 +543,6 @@
       "desc": "Updates",
       "sm_name": "Master Trust Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASTERTRUSTNSE_05032026152921_MCSL_05032026_NCD.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 15:56:55",
-      "an_dt": "18-Feb-2026 15:56:55",
-      "desc": "Disclosure under SEBI Takeover Regulations",
-      "sm_name": "Master Trust Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_18022026155210_MASTERTR.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 15:56:31",
-      "an_dt": "18-Feb-2026 15:56:31",
-      "desc": "Disclosure under SEBI Takeover Regulations",
-      "sm_name": "Master Trust Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_18022026155505_MASTERTR31.pdf"
     }
   ]
 }

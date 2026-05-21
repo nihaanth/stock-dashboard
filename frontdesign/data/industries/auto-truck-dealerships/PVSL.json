@@ -8,25 +8,9 @@
   "price": 107.61,
   "market_cap_cr": 766.16,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 99.95,
-      "prev_close": 103.08,
-      "volume": 126835,
-      "deliverable_qty": 78367,
-      "delivery_pct": 61.79
-    },
-    {
-      "date": "2026-02-18",
-      "close": 97.24,
-      "prev_close": 99.95,
-      "volume": 125422,
-      "deliverable_qty": 63279,
-      "delivery_pct": 50.45
-    },
     {
       "date": "2026-02-19",
       "close": 94.36,
@@ -458,6 +442,14 @@
       "volume": 39862,
       "deliverable_qty": 19077,
       "delivery_pct": 47.86
+    },
+    {
+      "date": "2026-05-20",
+      "close": 105.58,
+      "prev_close": 100.04,
+      "volume": 36001,
+      "deliverable_qty": 23855,
+      "delivery_pct": 66.26
     }
   ],
   "news": [
@@ -733,13 +725,6 @@
       "desc": "Giving guarantees/indemnity/ becoming a surety for third party",
       "sm_name": "Popular Vehicles and Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/9072530155_19022026180222_DisclosureofCorporateGuaranteeSD.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 18:25:59",
-      "an_dt": "18-Feb-2026 18:25:59",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Popular Vehicles and Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9072530155_18022026182254_DisclosuretranscriptFINALSD.pdf"
     }
   ]
 }

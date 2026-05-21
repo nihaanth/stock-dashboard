@@ -8,25 +8,9 @@
   "price": 340.65,
   "market_cap_cr": 15867.44,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 273.12,
-      "prev_close": 268.86,
-      "volume": 9584852,
-      "deliverable_qty": 2029800,
-      "delivery_pct": 21.18
-    },
-    {
-      "date": "2026-02-18",
-      "close": 268.18,
-      "prev_close": 273.12,
-      "volume": 4652937,
-      "deliverable_qty": 1258410,
-      "delivery_pct": 27.05
-    },
     {
       "date": "2026-02-19",
       "close": 261.32,
@@ -458,6 +442,14 @@
       "volume": 25208277,
       "deliverable_qty": 4427491,
       "delivery_pct": 17.56
+    },
+    {
+      "date": "2026-05-20",
+      "close": 327.15,
+      "prev_close": 337.25,
+      "volume": 6128093,
+      "deliverable_qty": 1726154,
+      "delivery_pct": 28.17
     }
   ],
   "news": [
@@ -635,13 +627,6 @@
       "desc": "Appointment",
       "sm_name": "Shipping Corporation Of India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SCI_23022026180714_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 12:05:27",
-      "an_dt": "18-Feb-2026 12:05:27",
-      "desc": "Change in Director(s)",
-      "sm_name": "Shipping Corporation Of India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SCI_18022026120449_Intimationsd.pdf"
     }
   ]
 }

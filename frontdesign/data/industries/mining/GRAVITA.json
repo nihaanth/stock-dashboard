@@ -8,25 +8,9 @@
   "price": 1555.9,
   "market_cap_cr": 11332.7,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1653.1,
-      "prev_close": 1664.2,
-      "volume": 67894,
-      "deliverable_qty": 34141,
-      "delivery_pct": 50.29
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1619.5,
-      "prev_close": 1653.1,
-      "volume": 100729,
-      "deliverable_qty": 52197,
-      "delivery_pct": 51.82
-    },
     {
       "date": "2026-02-19",
       "close": 1632.3,
@@ -458,9 +442,38 @@
       "volume": 206305,
       "deliverable_qty": 98859,
       "delivery_pct": 47.92
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1615.3,
+      "prev_close": 1621.6,
+      "volume": 127798,
+      "deliverable_qty": 61939,
+      "delivery_pct": 48.47
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 19:12:22",
+      "an_dt": "20-May-2026 19:12:22",
+      "desc": "General Updates",
+      "sm_name": "Gravita India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRAVITA_20052026190827_IntimationexpansionofCapacityaddition.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 18:13:50",
+      "an_dt": "20-May-2026 18:13:50",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Gravita India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRAVITA_20052026180718_Outcome20052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 17:11:58",
+      "an_dt": "19-May-2026 17:11:58",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Gravita India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRAVITA_19052026171108_Outcome19052026.pdf"
+    },
     {
       "sort_date": "2026-05-16 18:59:32",
       "an_dt": "16-May-2026 18:59:32",
@@ -782,20 +795,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Gravita India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRAVITA_20022026182117_Outcome20022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:36:28",
-      "an_dt": "17-Feb-2026 17:36:28",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Gravita India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRAVITA_17022026173504_investormeetcancel.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 16:57:32",
-      "an_dt": "17-Feb-2026 16:57:32",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Gravita India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRAVITA_17022026165422_investormeet.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 143.86,
   "market_cap_cr": 65494.68,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 170.21,
-      "prev_close": 165.61,
-      "volume": 15325479,
-      "deliverable_qty": 4788706,
-      "delivery_pct": 31.25
-    },
-    {
-      "date": "2026-02-18",
-      "close": 172.55,
-      "prev_close": 170.21,
-      "volume": 11782447,
-      "deliverable_qty": 3818512,
-      "delivery_pct": 32.41
-    },
     {
       "date": "2026-02-19",
       "close": 169.16,
@@ -458,6 +442,14 @@
       "volume": 12262451,
       "deliverable_qty": 4875385,
       "delivery_pct": 39.76
+    },
+    {
+      "date": "2026-05-20",
+      "close": 139.17,
+      "prev_close": 138.64,
+      "volume": 12319759,
+      "deliverable_qty": 4879006,
+      "delivery_pct": 39.6
     }
   ],
   "news": [
@@ -789,20 +781,6 @@
       "desc": "Credit Rating",
       "sm_name": "Bank of India",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANKINDIA5_25022026181912_FitchRating25022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 16:01:41",
-      "an_dt": "17-Feb-2026 16:01:41",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Bank of India",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANKINDIA6_17022026160118_DSC_425.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 14:49:07",
-      "an_dt": "17-Feb-2026 14:49:07",
-      "desc": "Updates",
-      "sm_name": "Bank of India",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANKINDIA2_17022026144723_AT1_Calloptionintimation.pdf"
     }
   ]
 }

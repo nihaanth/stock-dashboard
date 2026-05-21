@@ -8,25 +8,9 @@
   "price": 1724.3,
   "market_cap_cr": 28408.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1836.3,
-      "prev_close": 1808.2,
-      "volume": 43352,
-      "deliverable_qty": 22631,
-      "delivery_pct": 52.2
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1849.5,
-      "prev_close": 1836.3,
-      "volume": 82573,
-      "deliverable_qty": 40876,
-      "delivery_pct": 49.5
-    },
     {
       "date": "2026-02-19",
       "close": 1840.5,
@@ -458,9 +442,24 @@
       "volume": 7132093,
       "deliverable_qty": 1305239,
       "delivery_pct": 18.3
+    },
+    {
+      "date": "2026-05-20",
+      "close": 2221.8,
+      "prev_close": 2251.1,
+      "volume": 1179862,
+      "deliverable_qty": 388586,
+      "delivery_pct": 32.93
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 12:16:25",
+      "an_dt": "20-May-2026 12:16:25",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Gland Pharma Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLAND_20052026121433_Earningscall_TranscriptQ4FY26_Final.pdf"
+    },
     {
       "sort_date": "2026-05-18 21:55:04",
       "an_dt": "18-May-2026 21:55:04",
@@ -684,20 +683,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Gland Pharma Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLAND_20022026150132_Analyst_Institutional_Investor_Meet_25022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 12:22:14",
-      "an_dt": "18-Feb-2026 12:22:14",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Gland Pharma Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLAND_18022026122159_Analyst_Institutional_Investor_Meet_23022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 12:06:42",
-      "an_dt": "18-Feb-2026 12:06:42",
-      "desc": "Appointment",
-      "sm_name": "Gland Pharma Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLAND_18022026120622_Appointment_of_Dr_Gangwal.pdf"
     }
   ]
 }

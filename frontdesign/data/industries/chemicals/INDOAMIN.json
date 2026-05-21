@@ -8,25 +8,9 @@
   "price": 120.8,
   "market_cap_cr": 876.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 113.34,
-      "prev_close": 112.93,
-      "volume": 25045,
-      "deliverable_qty": 13176,
-      "delivery_pct": 52.61
-    },
-    {
-      "date": "2026-02-18",
-      "close": 112.89,
-      "prev_close": 113.34,
-      "volume": 38451,
-      "deliverable_qty": 21838,
-      "delivery_pct": 56.79
-    },
     {
       "date": "2026-02-19",
       "close": 113.1,
@@ -458,9 +442,31 @@
       "volume": 321496,
       "deliverable_qty": 81890,
       "delivery_pct": 25.47
+    },
+    {
+      "date": "2026-05-20",
+      "close": 126.92,
+      "prev_close": 125.74,
+      "volume": 201453,
+      "deliverable_qty": 48715,
+      "delivery_pct": 24.18
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 10:47:56",
+      "an_dt": "20-May-2026 10:47:56",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Indo Amines Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20042026191717_INDOAMIN.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 10:47:11",
+      "an_dt": "20-May-2026 10:47:11",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Indo Amines Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20042026192133_INDOAMIN1.pdf"
+    },
     {
       "sort_date": "2026-05-14 18:18:10",
       "an_dt": "14-May-2026 18:18:10",

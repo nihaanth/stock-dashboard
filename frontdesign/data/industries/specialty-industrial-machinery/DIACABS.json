@@ -8,25 +8,9 @@
   "price": 174.75,
   "market_cap_cr": 9208.82,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 137.93,
-      "prev_close": 140.84,
-      "volume": 2358225,
-      "deliverable_qty": 915397,
-      "delivery_pct": 38.82
-    },
-    {
-      "date": "2026-02-18",
-      "close": 138.65,
-      "prev_close": 137.93,
-      "volume": 1500680,
-      "deliverable_qty": 544453,
-      "delivery_pct": 36.28
-    },
     {
       "date": "2026-02-19",
       "close": 134.5,
@@ -458,6 +442,14 @@
       "volume": 4397497,
       "deliverable_qty": 1309321,
       "delivery_pct": 29.77
+    },
+    {
+      "date": "2026-05-20",
+      "close": 195.1,
+      "prev_close": 190.23,
+      "volume": 6854883,
+      "deliverable_qty": 1964432,
+      "delivery_pct": 28.66
     }
   ],
   "news": [
@@ -628,13 +620,6 @@
       "desc": "Action(s) initiated or orders passed",
       "sm_name": "Diamond Power Infrastructure Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIACABS_20022026165846_Disclosure_20-02-2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 16:46:06",
-      "an_dt": "17-Feb-2026 16:46:06",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Diamond Power Infrastructure Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIACABS_17022026164556_Newspaper_Publication-_17022026.pdf"
     }
   ]
 }

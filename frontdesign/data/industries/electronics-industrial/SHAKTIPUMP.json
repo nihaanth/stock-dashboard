@@ -8,25 +8,9 @@
   "price": 555.6,
   "market_cap_cr": 6855.99,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 574.65,
-      "prev_close": 564.7,
-      "volume": 1388329,
-      "deliverable_qty": 296839,
-      "delivery_pct": 21.38
-    },
-    {
-      "date": "2026-02-18",
-      "close": 575.8,
-      "prev_close": 574.65,
-      "volume": 736178,
-      "deliverable_qty": 210821,
-      "delivery_pct": 28.64
-    },
     {
       "date": "2026-02-19",
       "close": 560.75,
@@ -458,6 +442,14 @@
       "volume": 757400,
       "deliverable_qty": 269274,
       "delivery_pct": 35.55
+    },
+    {
+      "date": "2026-05-20",
+      "close": 504.4,
+      "prev_close": 502.6,
+      "volume": 589162,
+      "deliverable_qty": 200251,
+      "delivery_pct": 33.99
     }
   ],
   "news": [
@@ -628,20 +620,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Shakti Pumps (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHAKTIPUMP_19022026111745_SubmissionofEarningTranscript.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 14:14:13",
-      "an_dt": "18-Feb-2026 14:14:13",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Shakti Pumps (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHAKTIPUMP_18022026141139_IntimationofNewspaperPublication.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 14:37:15",
-      "an_dt": "17-Feb-2026 14:37:15",
-      "desc": "Shareholders meeting",
-      "sm_name": "Shakti Pumps (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHAKTIPUMP_17022026143114_IntimationofPostalBallot.pdf"
     }
   ]
 }

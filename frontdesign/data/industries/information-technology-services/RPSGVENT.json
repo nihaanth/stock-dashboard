@@ -8,25 +8,9 @@
   "price": 1028.9,
   "market_cap_cr": 3404.26,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 717.35,
-      "prev_close": 707.95,
-      "volume": 27302,
-      "deliverable_qty": 13675,
-      "delivery_pct": 50.09
-    },
-    {
-      "date": "2026-02-18",
-      "close": 722.95,
-      "prev_close": 717.35,
-      "volume": 12358,
-      "deliverable_qty": 6849,
-      "delivery_pct": 55.42
-    },
     {
       "date": "2026-02-19",
       "close": 719.0,
@@ -458,9 +442,24 @@
       "volume": 48744,
       "deliverable_qty": 35852,
       "delivery_pct": 73.55
+    },
+    {
+      "date": "2026-05-20",
+      "close": 951.25,
+      "prev_close": 930.45,
+      "volume": 37021,
+      "deliverable_qty": 17034,
+      "delivery_pct": 46.01
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 15:03:43",
+      "an_dt": "20-May-2026 15:03:43",
+      "desc": "Shareholders meeting",
+      "sm_name": "RPSG VENTURES LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RPSGVENT_20052026150331_RVL_SE_20052026_signed.pdf"
+    },
     {
       "sort_date": "2026-05-14 13:11:08",
       "an_dt": "14-May-2026 13:11:08",

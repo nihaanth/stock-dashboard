@@ -8,25 +8,9 @@
   "price": 210.92,
   "market_cap_cr": 2033.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 254.69,
-      "prev_close": 238.17,
-      "volume": 4414404,
-      "deliverable_qty": 1407118,
-      "delivery_pct": 31.88
-    },
-    {
-      "date": "2026-02-18",
-      "close": 261.86,
-      "prev_close": 254.69,
-      "volume": 2835527,
-      "deliverable_qty": 796771,
-      "delivery_pct": 28.1
-    },
     {
       "date": "2026-02-19",
       "close": 253.35,
@@ -458,9 +442,24 @@
       "volume": 747216,
       "deliverable_qty": 270687,
       "delivery_pct": 36.23
+    },
+    {
+      "date": "2026-05-20",
+      "close": 209.99,
+      "prev_close": 206.1,
+      "volume": 944450,
+      "deliverable_qty": 348276,
+      "delivery_pct": 36.88
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 17:54:01",
+      "an_dt": "19-May-2026 17:54:01",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shringar House of Mangalsutra Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHRINGAR_19052026175224_SHOM_Earning_Calls_Intimation_F.pdf"
+    },
     {
       "sort_date": "2026-05-06 19:10:32",
       "an_dt": "06-May-2026 19:10:32",
@@ -551,13 +550,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Shringar House of Mangalsutra Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHRINGAR_21022026140741_SHOM_investor_meet_intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:12:14",
-      "an_dt": "17-Feb-2026 17:12:14",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Shringar House of Mangalsutra Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHRINGAR_17022026171122_SHOM_Earning_Calls_Transcript_final.pdf"
     }
   ]
 }

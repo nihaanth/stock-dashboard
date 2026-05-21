@@ -8,25 +8,9 @@
   "price": 462.35,
   "market_cap_cr": 9585.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1929.2,
-      "prev_close": 1937.6,
-      "volume": 8413,
-      "deliverable_qty": 4670,
-      "delivery_pct": 55.51
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1928.0,
-      "prev_close": 1929.2,
-      "volume": 8203,
-      "deliverable_qty": 4662,
-      "delivery_pct": 56.83
-    },
     {
       "date": "2026-02-19",
       "close": 1899.4,
@@ -458,9 +442,24 @@
       "volume": 284184,
       "deliverable_qty": 120579,
       "delivery_pct": 42.43
+    },
+    {
+      "date": "2026-05-20",
+      "close": 518.3,
+      "prev_close": 508.4,
+      "volume": 298969,
+      "deliverable_qty": 155726,
+      "delivery_pct": 52.09
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 19:33:12",
+      "an_dt": "19-May-2026 19:33:12",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Metropolis Healthcare Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/METROPOLIS_19052026193201_SE_Intimation_Earning_Call_Transcipt_19May26.pdf"
+    },
     {
       "sort_date": "2026-05-14 16:30:03",
       "an_dt": "14-May-2026 16:30:03",

@@ -8,25 +8,9 @@
   "price": 56.39,
   "market_cap_cr": 1434.08,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 53.78,
-      "prev_close": 53.52,
-      "volume": 397781,
-      "deliverable_qty": 230543,
-      "delivery_pct": 57.96
-    },
-    {
-      "date": "2026-02-18",
-      "close": 53.13,
-      "prev_close": 53.78,
-      "volume": 372818,
-      "deliverable_qty": 210745,
-      "delivery_pct": 56.53
-    },
     {
       "date": "2026-02-19",
       "close": 51.95,
@@ -458,9 +442,24 @@
       "volume": 861226,
       "deliverable_qty": 499770,
       "delivery_pct": 58.03
+    },
+    {
+      "date": "2026-05-20",
+      "close": 48.98,
+      "prev_close": 49.95,
+      "volume": 608298,
+      "deliverable_qty": 333580,
+      "delivery_pct": 54.84
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 10:24:15",
+      "an_dt": "19-May-2026 10:24:15",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Meghmani Organics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOL_19052026102404_TRANSCRIPT_Q4FY26.pdf"
+    },
     {
       "sort_date": "2026-05-16 16:17:30",
       "an_dt": "16-May-2026 16:17:30",
@@ -677,13 +676,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Meghmani Organics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOL_19022026154503_IELetter.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 13:22:10",
-      "an_dt": "18-Feb-2026 13:22:10",
-      "desc": "Updates",
-      "sm_name": "Meghmani Organics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOL_18022026132158_LettertoshareholdersIEPF.pdf"
     }
   ]
 }

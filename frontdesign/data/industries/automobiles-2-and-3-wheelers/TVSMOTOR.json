@@ -8,25 +8,9 @@
   "price": 3613.7,
   "market_cap_cr": 171732.5,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 3877.8,
-      "prev_close": 3807.4,
-      "volume": 377690,
-      "deliverable_qty": 200563,
-      "delivery_pct": 53.1
-    },
-    {
-      "date": "2026-02-18",
-      "close": 3885.2,
-      "prev_close": 3877.8,
-      "volume": 245619,
-      "deliverable_qty": 122687,
-      "delivery_pct": 49.95
-    },
     {
       "date": "2026-02-19",
       "close": 3830.1,
@@ -458,9 +442,24 @@
       "volume": 2579482,
       "deliverable_qty": 1611620,
       "delivery_pct": 62.48
+    },
+    {
+      "date": "2026-05-20",
+      "close": 3361.9,
+      "prev_close": 3283.4,
+      "volume": 1265474,
+      "deliverable_qty": 589537,
+      "delivery_pct": 46.59
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 19:02:08",
+      "an_dt": "19-May-2026 19:02:08",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "TVS Motor Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TVSMOTOR_19052026185726_NSEBSEIntimation_sd.pdf"
+    },
     {
       "sort_date": "2026-05-18 12:14:14",
       "an_dt": "18-May-2026 12:14:14",
@@ -719,20 +718,6 @@
       "desc": "General Updates",
       "sm_name": "TVS Motor Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TVSMOTOR_19022026164950_TVSMNSEBSEACCEL_updateSD.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 16:10:47",
-      "an_dt": "18-Feb-2026 16:10:47",
-      "desc": "Press Release",
-      "sm_name": "TVS Motor Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TVSMOTOR_18022026161038_NSEBSEPressrelease_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:55:42",
-      "an_dt": "17-Feb-2026 18:55:42",
-      "desc": "General Updates",
-      "sm_name": "TVS Motor Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TVSMOTOR_17022026185346_TVSMNSEBSE_MIH_sd.pdf"
     }
   ]
 }

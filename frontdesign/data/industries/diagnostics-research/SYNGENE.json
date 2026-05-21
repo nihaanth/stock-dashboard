@@ -8,25 +8,9 @@
   "price": 482.5,
   "market_cap_cr": 19389.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 432.9,
-      "prev_close": 435.05,
-      "volume": 721200,
-      "deliverable_qty": 352020,
-      "delivery_pct": 48.81
-    },
-    {
-      "date": "2026-02-18",
-      "close": 433.15,
-      "prev_close": 432.9,
-      "volume": 1839096,
-      "deliverable_qty": 1188644,
-      "delivery_pct": 64.63
-    },
     {
       "date": "2026-02-19",
       "close": 438.2,
@@ -458,9 +442,24 @@
       "volume": 1266290,
       "deliverable_qty": 460808,
       "delivery_pct": 36.39
+    },
+    {
+      "date": "2026-05-20",
+      "close": 466.05,
+      "prev_close": 471.35,
+      "volume": 615295,
+      "deliverable_qty": 252562,
+      "delivery_pct": 41.05
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 21:57:14",
+      "an_dt": "20-May-2026 21:57:14",
+      "desc": "Shareholders meeting",
+      "sm_name": "Syngene International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SYNGENE2_20052026215542_SEIntimation_PostalBallotMay2026.pdf"
+    },
     {
       "sort_date": "2026-05-18 22:43:23",
       "an_dt": "18-May-2026 22:43:23",
@@ -635,20 +634,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Syngene International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SYNGENE2_20022026162216_Investorcallintimation25022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 16:50:06",
-      "an_dt": "18-Feb-2026 16:50:06",
-      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-      "sm_name": "Syngene International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SYNGENE2_18022026164832_SEIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:47:48",
-      "an_dt": "17-Feb-2026 17:47:48",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Syngene International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SYNGENE2_17022026174647_Investorcallintimation23022026.pdf"
     }
   ]
 }

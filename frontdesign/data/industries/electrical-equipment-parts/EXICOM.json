@@ -8,25 +8,9 @@
   "price": 113.6,
   "market_cap_cr": 1581.43,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 100.63,
-      "prev_close": 93.84,
-      "volume": 771811,
-      "deliverable_qty": 175874,
-      "delivery_pct": 22.79
-    },
-    {
-      "date": "2026-02-18",
-      "close": 98.75,
-      "prev_close": 100.63,
-      "volume": 218411,
-      "deliverable_qty": 87045,
-      "delivery_pct": 39.85
-    },
     {
       "date": "2026-02-19",
       "close": 97.33,
@@ -458,9 +442,59 @@
       "volume": 290067,
       "deliverable_qty": 144266,
       "delivery_pct": 49.74
+    },
+    {
+      "date": "2026-05-20",
+      "close": 114.93,
+      "prev_close": 115.61,
+      "volume": 725448,
+      "deliverable_qty": 187809,
+      "delivery_pct": 25.89
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 20:26:40",
+      "an_dt": "19-May-2026 20:26:40",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Exicom Tele-Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXICOM_19052026202557_outcome_intimation-investors_call-Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 16:20:19",
+      "an_dt": "19-May-2026 16:20:19",
+      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
+      "sm_name": "Exicom Tele-Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXICOM_19052026161946_intimation-standard_of_deviation_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 15:41:36",
+      "an_dt": "19-May-2026 15:41:36",
+      "desc": "Investor Presentation",
+      "sm_name": "Exicom Tele-Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXICOM_19052026154119_intimation-investor_presentation_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 15:25:04",
+      "an_dt": "19-May-2026 15:25:04",
+      "desc": "General Updates",
+      "sm_name": "Exicom Tele-Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXICOM_19052026152428_Intimation-_KPI_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 15:12:06",
+      "an_dt": "19-May-2026 15:12:06",
+      "desc": "Press Release",
+      "sm_name": "Exicom Tele-Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXICOM_19052026150714_intimation-press_releasesigned.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 14:48:18",
+      "an_dt": "19-May-2026 14:48:18",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Exicom Tele-Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXICOM_19052026144650_outcome_of_the_board_meeting-signed.pdf"
+    },
     {
       "sort_date": "2026-05-13 17:39:50",
       "an_dt": "13-May-2026 17:39:50",
@@ -544,13 +578,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Exicom Tele-Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXICOM_05032026171544_intimation_of_postal_ballot_notice-_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:42:46",
-      "an_dt": "17-Feb-2026 17:42:46",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Exicom Tele-Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXICOM_17022026174229_transcriptintimationsigned.pdf"
     }
   ]
 }

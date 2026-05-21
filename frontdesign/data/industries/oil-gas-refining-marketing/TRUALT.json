@@ -8,25 +8,9 @@
   "price": 409.6,
   "market_cap_cr": 3515.91,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 409.55,
-      "prev_close": 412.6,
-      "volume": 99869,
-      "deliverable_qty": 61860,
-      "delivery_pct": 61.94
-    },
-    {
-      "date": "2026-02-18",
-      "close": 428.35,
-      "prev_close": 409.55,
-      "volume": 157539,
-      "deliverable_qty": 79678,
-      "delivery_pct": 50.58
-    },
     {
       "date": "2026-02-19",
       "close": 414.25,
@@ -458,9 +442,24 @@
       "volume": 163785,
       "deliverable_qty": 83904,
       "delivery_pct": 51.23
+    },
+    {
+      "date": "2026-05-20",
+      "close": 478.2,
+      "prev_close": 461.85,
+      "volume": 207996,
+      "deliverable_qty": 124250,
+      "delivery_pct": 59.74
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 19:20:17",
+      "an_dt": "19-May-2026 19:20:17",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "TruAlt Bioenergy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRUALTNSE123_19052026192004_Intimation_final_combined_sd.pdf"
+    },
     {
       "sort_date": "2026-05-15 12:50:55",
       "an_dt": "15-May-2026 12:50:55",

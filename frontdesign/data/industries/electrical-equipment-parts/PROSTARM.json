@@ -8,25 +8,9 @@
   "price": 159.83,
   "market_cap_cr": 940.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 165.5,
-      "prev_close": 161.13,
-      "volume": 399313,
-      "deliverable_qty": 120427,
-      "delivery_pct": 30.16
-    },
-    {
-      "date": "2026-02-18",
-      "close": 163.25,
-      "prev_close": 165.5,
-      "volume": 181595,
-      "deliverable_qty": 77086,
-      "delivery_pct": 42.45
-    },
     {
       "date": "2026-02-19",
       "close": 160.16,
@@ -458,9 +442,24 @@
       "volume": 258413,
       "deliverable_qty": 92957,
       "delivery_pct": 35.97
+    },
+    {
+      "date": "2026-05-20",
+      "close": 151.66,
+      "prev_close": 148.22,
+      "volume": 236382,
+      "deliverable_qty": 117935,
+      "delivery_pct": 49.89
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 12:55:43",
+      "an_dt": "20-May-2026 12:55:43",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Prostarm Info Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PROSTARM_20052026125534_SE_BM_Intimation_Q4_EC.pdf"
+    },
     {
       "sort_date": "2026-05-14 11:44:59",
       "an_dt": "14-May-2026 11:44:59",
@@ -579,20 +578,6 @@
       "desc": "Awarding of order(s)/contract(s)",
       "sm_name": "Prostarm Info Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PROSTARM_23022026154345_SE_Electrical___South_Eastern_RLY_LOA_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:28:05",
-      "an_dt": "18-Feb-2026 17:28:05",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Prostarm Info Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PROSTARM_18022026172730_SE_BharatConnect.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:20:02",
-      "an_dt": "18-Feb-2026 17:20:02",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Prostarm Info Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PROSTARM_18022026171954_SE_Transcript.pdf"
     }
   ]
 }

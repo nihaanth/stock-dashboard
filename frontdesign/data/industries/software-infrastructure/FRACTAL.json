@@ -8,25 +8,9 @@
   "price": 1059.8,
   "market_cap_cr": 18224.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 888.25,
-      "prev_close": 847.15,
-      "volume": 5830776,
-      "deliverable_qty": 1484488,
-      "delivery_pct": 25.46
-    },
-    {
-      "date": "2026-02-18",
-      "close": 869.95,
-      "prev_close": 888.25,
-      "volume": 1707290,
-      "deliverable_qty": 426318,
-      "delivery_pct": 24.97
-    },
     {
       "date": "2026-02-19",
       "close": 877.9,
@@ -458,6 +442,14 @@
       "volume": 450361,
       "deliverable_qty": 201324,
       "delivery_pct": 44.7
+    },
+    {
+      "date": "2026-05-20",
+      "close": 933.65,
+      "prev_close": 935.35,
+      "volume": 279528,
+      "deliverable_qty": 108594,
+      "delivery_pct": 38.85
     }
   ],
   "news": [
@@ -712,13 +704,6 @@
       "desc": "Updates",
       "sm_name": "Fractal Analytics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FRACTAL_19022026124653_NSEBSE_Pressrelease.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 15:22:28",
-      "an_dt": "18-Feb-2026 15:22:28",
-      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-      "sm_name": "Fractal Analytics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FRACTAL_18022026152043_BSENSE_Pendinglitigation.pdf"
     }
   ]
 }

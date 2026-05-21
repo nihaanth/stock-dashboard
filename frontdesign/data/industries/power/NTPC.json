@@ -8,25 +8,9 @@
   "price": 392.95,
   "market_cap_cr": 381030.52,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 368.4,
-      "prev_close": 369.1,
-      "volume": 4442793,
-      "deliverable_qty": 2724970,
-      "delivery_pct": 61.33
-    },
-    {
-      "date": "2026-02-18",
-      "close": 368.4,
-      "prev_close": 368.4,
-      "volume": 4871319,
-      "deliverable_qty": 3474160,
-      "delivery_pct": 71.32
-    },
     {
       "date": "2026-02-19",
       "close": 363.2,
@@ -458,9 +442,31 @@
       "volume": 7632596,
       "deliverable_qty": 4856286,
       "delivery_pct": 63.63
+    },
+    {
+      "date": "2026-05-20",
+      "close": 392.45,
+      "prev_close": 389.4,
+      "volume": 5386249,
+      "deliverable_qty": 2955132,
+      "delivery_pct": 54.86
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 19:05:16",
+      "an_dt": "19-May-2026 19:05:16",
+      "desc": "Change in Management",
+      "sm_name": "NTPC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NTPC_19052026190508_20260519_PREMATURERETIREMENT_STEX.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 15:24:10",
+      "an_dt": "19-May-2026 15:24:10",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "NTPC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9425178051_19052026151436_Disclosure_for_Con_Call_Q4_FY26_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-18 13:52:14",
       "an_dt": "18-May-2026 13:52:14",
@@ -747,20 +753,6 @@
       "desc": "Updates",
       "sm_name": "NTPC Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NTPC_20022026134829_20260220_COMMISSIONINGNGEL_STEX.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 15:58:10",
-      "an_dt": "18-Feb-2026 15:58:10",
-      "desc": "Updates",
-      "sm_name": "NTPC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NTPC_18022026155759_20260218_WAIVEROFFINE.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:46:20",
-      "an_dt": "17-Feb-2026 17:46:20",
-      "desc": "Credit Rating",
-      "sm_name": "NTPC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NTPC_17022026174609_20260217_STEX_CREDITRATING.pdf"
     }
   ]
 }

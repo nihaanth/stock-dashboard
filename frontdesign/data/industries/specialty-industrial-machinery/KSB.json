@@ -8,25 +8,9 @@
   "price": 884.5,
   "market_cap_cr": 15393.77,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 721.2,
-      "prev_close": 707.45,
-      "volume": 31290,
-      "deliverable_qty": 12962,
-      "delivery_pct": 41.43
-    },
-    {
-      "date": "2026-02-18",
-      "close": 724.05,
-      "prev_close": 721.2,
-      "volume": 30717,
-      "deliverable_qty": 14556,
-      "delivery_pct": 47.39
-    },
     {
       "date": "2026-02-19",
       "close": 713.55,
@@ -458,9 +442,24 @@
       "volume": 137719,
       "deliverable_qty": 57833,
       "delivery_pct": 41.99
+    },
+    {
+      "date": "2026-05-20",
+      "close": 827.8,
+      "prev_close": 837.2,
+      "volume": 69202,
+      "deliverable_qty": 25016,
+      "delivery_pct": 36.15
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 18:25:06",
+      "an_dt": "20-May-2026 18:25:06",
+      "desc": "Shareholders meeting",
+      "sm_name": "Ksb Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KSB_20052026182449_KSBAGMProceedings20052026.pdf"
+    },
     {
       "sort_date": "2026-05-12 21:11:43",
       "an_dt": "12-May-2026 21:11:43",

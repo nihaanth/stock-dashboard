@@ -8,25 +8,9 @@
   "price": 151.48,
   "market_cap_cr": 2449.68,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 187.88,
-      "prev_close": 186.83,
-      "volume": 434392,
-      "deliverable_qty": 328308,
-      "delivery_pct": 75.58
-    },
-    {
-      "date": "2026-02-18",
-      "close": 189.73,
-      "prev_close": 187.88,
-      "volume": 108661,
-      "deliverable_qty": 59078,
-      "delivery_pct": 54.37
-    },
     {
       "date": "2026-02-19",
       "close": 187.81,
@@ -458,6 +442,14 @@
       "volume": 1640322,
       "deliverable_qty": 640220,
       "delivery_pct": 39.03
+    },
+    {
+      "date": "2026-05-20",
+      "close": 180.43,
+      "prev_close": 186.4,
+      "volume": 318206,
+      "deliverable_qty": 161684,
+      "delivery_pct": 50.81
     }
   ],
   "news": [
@@ -733,13 +725,6 @@
       "desc": "General Updates",
       "sm_name": "Fusion Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FUSIONHO_20022026210602_INTIMATION.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:13:04",
-      "an_dt": "17-Feb-2026 18:13:04",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Fusion Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FUSIONHO_17022026181254_InvestorMeeting21Feb.pdf"
     }
   ]
 }

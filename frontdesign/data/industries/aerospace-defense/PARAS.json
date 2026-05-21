@@ -8,25 +8,9 @@
   "price": 862.9,
   "market_cap_cr": 6953.88,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 640.35,
-      "prev_close": 633.3,
-      "volume": 270173,
-      "deliverable_qty": 85790,
-      "delivery_pct": 31.75
-    },
-    {
-      "date": "2026-02-18",
-      "close": 641.4,
-      "prev_close": 640.35,
-      "volume": 196113,
-      "deliverable_qty": 63893,
-      "delivery_pct": 32.58
-    },
     {
       "date": "2026-02-19",
       "close": 630.25,
@@ -458,6 +442,14 @@
       "volume": 1095911,
       "deliverable_qty": 332678,
       "delivery_pct": 30.36
+    },
+    {
+      "date": "2026-05-20",
+      "close": 761.85,
+      "prev_close": 763.1,
+      "volume": 757873,
+      "deliverable_qty": 178582,
+      "delivery_pct": 23.56
     }
   ],
   "news": [
@@ -614,13 +606,6 @@
       "desc": "Acquisition",
       "sm_name": "Paras Defence and Space Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARAS_19022026163912_Investment.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 13:28:06",
-      "an_dt": "17-Feb-2026 13:28:06",
-      "desc": "General Updates",
-      "sm_name": "Paras Defence and Space Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARAS_17022026132713_Outcome_Acquisition_in_Himanshi_Thermal.pdf"
     }
   ]
 }

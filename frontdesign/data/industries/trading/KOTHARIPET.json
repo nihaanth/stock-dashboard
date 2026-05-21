@@ -8,25 +8,9 @@
   "price": 147.16,
   "market_cap_cr": 865.98,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 122.38,
-      "prev_close": 118.6,
-      "volume": 42998,
-      "deliverable_qty": 21492,
-      "delivery_pct": 49.98
-    },
-    {
-      "date": "2026-02-18",
-      "close": 122.14,
-      "prev_close": 122.38,
-      "volume": 20750,
-      "deliverable_qty": 12199,
-      "delivery_pct": 58.79
-    },
     {
       "date": "2026-02-19",
       "close": 122.62,
@@ -458,9 +442,24 @@
       "volume": 51005,
       "deliverable_qty": 31322,
       "delivery_pct": 61.41
+    },
+    {
+      "date": "2026-05-20",
+      "close": 126.66,
+      "prev_close": 129.32,
+      "volume": 59793,
+      "deliverable_qty": 34054,
+      "delivery_pct": 56.95
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 18:19:35",
+      "an_dt": "19-May-2026 18:19:35",
+      "desc": "Amalgamation/Merger",
+      "sm_name": "Kothari Petrochemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KOTHARIPET_19052026181813_KPLOutcomeofBoardMeeting19052026.pdf"
+    },
     {
       "sort_date": "2026-05-07 11:22:34",
       "an_dt": "07-May-2026 11:22:34",

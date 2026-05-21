@@ -8,25 +8,9 @@
   "price": 973.6,
   "market_cap_cr": 898692.86,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1213.4,
-      "prev_close": 1208.1,
-      "volume": 20107196,
-      "deliverable_qty": 11513885,
-      "delivery_pct": 57.26
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1218.9,
-      "prev_close": 1213.4,
-      "volume": 10417264,
-      "deliverable_qty": 6248563,
-      "delivery_pct": 59.98
-    },
     {
       "date": "2026-02-19",
       "close": 1205.7,
@@ -458,9 +442,38 @@
       "volume": 16554877,
       "deliverable_qty": 9199675,
       "delivery_pct": 55.57
+    },
+    {
+      "date": "2026-05-20",
+      "close": 950.9,
+      "prev_close": 948.8,
+      "volume": 11928460,
+      "deliverable_qty": 5643465,
+      "delivery_pct": 47.31
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 12:30:29",
+      "an_dt": "20-May-2026 12:30:29",
+      "desc": "General Updates",
+      "sm_name": "State Bank of India",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBIN_20052026123012_BSE_NSE_GP_20052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 11:58:17",
+      "an_dt": "20-May-2026 11:58:17",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "State Bank of India",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBIN_20052026115802_BSE_NSE_Investor_Outcome20052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 11:51:21",
+      "an_dt": "19-May-2026 11:51:21",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "State Bank of India",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBIN_19052026115107_BSE_NSE_Investor_Outcome19052026.pdf"
+    },
     {
       "sort_date": "2026-05-16 16:25:58",
       "an_dt": "16-May-2026 16:25:58",
@@ -859,20 +872,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "State Bank of India",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBIN1_20022026114423_SE_DISCLOSUREdsc.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:37:29",
-      "an_dt": "17-Feb-2026 18:37:29",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "State Bank of India",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBIN1_17022026183611_BSE_NSE_InvestorMeet_Intimation_17022026dsc.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:37:29",
-      "an_dt": "17-Feb-2026 18:37:29",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "State Bank of India",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBIN1_17022026183430_BSE_NSE_InvestorMeet_Intimation_17022026dsc.pdf"
     }
   ]
 }

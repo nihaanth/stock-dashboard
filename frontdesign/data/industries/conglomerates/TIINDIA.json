@@ -8,25 +8,9 @@
   "price": 2992.2,
   "market_cap_cr": 57914.88,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 2462.7,
-      "prev_close": 2504.4,
-      "volume": 595152,
-      "deliverable_qty": 404889,
-      "delivery_pct": 68.03
-    },
-    {
-      "date": "2026-02-18",
-      "close": 2471.2,
-      "prev_close": 2462.7,
-      "volume": 175035,
-      "deliverable_qty": 66643,
-      "delivery_pct": 38.07
-    },
     {
       "date": "2026-02-19",
       "close": 2488.3,
@@ -458,9 +442,31 @@
       "volume": 327362,
       "deliverable_qty": 165020,
       "delivery_pct": 50.41
+    },
+    {
+      "date": "2026-05-20",
+      "close": 2970.9,
+      "prev_close": 2892.2,
+      "volume": 485097,
+      "deliverable_qty": 277898,
+      "delivery_pct": 57.29
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 17:21:19",
+      "an_dt": "20-May-2026 17:21:19",
+      "desc": "Allotment of Securities",
+      "sm_name": "Tube Investments of India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIINDIA_20052026172111_TIINSEBSEESOPAllotment.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 18:02:19",
+      "an_dt": "19-May-2026 18:02:19",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Tube Investments of India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIINDIA_19052026180210_TIINSEBSENewspaperPublication.pdf"
+    },
     {
       "sort_date": "2026-05-18 11:28:35",
       "an_dt": "18-May-2026 11:28:35",
@@ -635,13 +641,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Tube Investments of India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIINDIA_26022026154713_InvestorMeet4March2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:57:46",
-      "an_dt": "17-Feb-2026 17:57:46",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Tube Investments of India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIINDIA_17022026175738_TIINDIAPostalBallotNPAdvt.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 232.47,
   "market_cap_cr": 8742.81,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 232.0,
-      "prev_close": 230.65,
-      "volume": 1586277,
-      "deliverable_qty": 586931,
-      "delivery_pct": 37.0
-    },
-    {
-      "date": "2026-02-18",
-      "close": 235.85,
-      "prev_close": 232.0,
-      "volume": 1416642,
-      "deliverable_qty": 479980,
-      "delivery_pct": 33.88
-    },
     {
       "date": "2026-02-19",
       "close": 231.4,
@@ -458,9 +442,45 @@
       "volume": 13102842,
       "deliverable_qty": 3353319,
       "delivery_pct": 25.59
+    },
+    {
+      "date": "2026-05-20",
+      "close": 356.7,
+      "prev_close": 340.7,
+      "volume": 73859367,
+      "deliverable_qty": 7845608,
+      "delivery_pct": 10.62
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 14:13:02",
+      "an_dt": "20-May-2026 14:13:02",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Apollo Micro Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APOLLO_20052026141244_AMS_paper_publication_submission.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 09:20:54",
+      "an_dt": "20-May-2026 09:20:54",
+      "desc": "General Updates",
+      "sm_name": "Apollo Micro Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APOLLO_20052026092046_AMS_Intimation_of_TV_Interview.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 12:55:46",
+      "an_dt": "19-May-2026 12:55:46",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Apollo Micro Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APOLLO_19052026125524_AMS_Concall_recording.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 09:50:26",
+      "an_dt": "19-May-2026 09:50:26",
+      "desc": "General Updates",
+      "sm_name": "Apollo Micro Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APOLLO_19052026095004_AMS_intimation_of_TV_Interview.pdf"
+    },
     {
       "sort_date": "2026-05-18 18:52:58",
       "an_dt": "18-May-2026 18:52:58",
@@ -656,13 +676,6 @@
       "desc": "General Updates",
       "sm_name": "Apollo Micro Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/APOLLO_04032026115143_AMS_Business_Update_04032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 09:33:05",
-      "an_dt": "17-Feb-2026 09:33:05",
-      "desc": "Investor Presentation",
-      "sm_name": "Apollo Micro Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APOLLO_17022026093245_AMS_Business_update_17022026.pdf"
     }
   ]
 }

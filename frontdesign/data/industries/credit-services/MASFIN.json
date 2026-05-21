@@ -8,25 +8,9 @@
   "price": 347.4,
   "market_cap_cr": 6303.69,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 337.8,
-      "prev_close": 343.35,
-      "volume": 139791,
-      "deliverable_qty": 64024,
-      "delivery_pct": 45.8
-    },
-    {
-      "date": "2026-02-18",
-      "close": 337.0,
-      "prev_close": 337.8,
-      "volume": 131163,
-      "deliverable_qty": 66382,
-      "delivery_pct": 50.61
-    },
     {
       "date": "2026-02-19",
       "close": 330.75,
@@ -458,9 +442,31 @@
       "volume": 99634,
       "deliverable_qty": 53277,
       "delivery_pct": 53.47
+    },
+    {
+      "date": "2026-05-20",
+      "close": 309.7,
+      "prev_close": 312.6,
+      "volume": 60082,
+      "deliverable_qty": 28776,
+      "delivery_pct": 47.89
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 11:20:32",
+      "an_dt": "20-May-2026 11:20:32",
+      "desc": "Allotment of Securities",
+      "sm_name": "MAS Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASFIN_20052026111938_NCD_Allotment_outcome.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 17:38:06",
+      "an_dt": "19-May-2026 17:38:06",
+      "desc": "General Updates",
+      "sm_name": "MAS Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASFIN_19052026173800_outcomeacb.pdf"
+    },
     {
       "sort_date": "2026-05-12 11:42:07",
       "an_dt": "12-May-2026 11:42:07",

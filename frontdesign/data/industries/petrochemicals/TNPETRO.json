@@ -8,25 +8,9 @@
   "price": 89.16,
   "market_cap_cr": 802.94,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 95.09,
-      "prev_close": 95.12,
-      "volume": 159179,
-      "deliverable_qty": 97051,
-      "delivery_pct": 60.97
-    },
-    {
-      "date": "2026-02-18",
-      "close": 94.28,
-      "prev_close": 95.09,
-      "volume": 106191,
-      "deliverable_qty": 58308,
-      "delivery_pct": 54.91
-    },
     {
       "date": "2026-02-19",
       "close": 93.51,
@@ -458,9 +442,38 @@
       "volume": 107225,
       "deliverable_qty": 54704,
       "delivery_pct": 51.02
+    },
+    {
+      "date": "2026-05-20",
+      "close": 90.66,
+      "prev_close": 90.75,
+      "volume": 403069,
+      "deliverable_qty": 190041,
+      "delivery_pct": 47.15
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 22:43:16",
+      "an_dt": "19-May-2026 22:43:16",
+      "desc": "Press Release",
+      "sm_name": "Tamilnadu PetroProducts Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TPLSECTL_19052026224232_sdPressreleaseMay26.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 17:39:14",
+      "an_dt": "19-May-2026 17:39:14",
+      "desc": "Dividend",
+      "sm_name": "Tamilnadu PetroProducts Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TPLSECTL_19052026173853_DividendletterMay2026.PDF"
+    },
+    {
+      "sort_date": "2026-05-19 17:36:06",
+      "an_dt": "19-May-2026 17:36:06",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Tamilnadu PetroProducts Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TPLSECTL_19052026173412_OutcomeofBoard19May2026.pdf"
+    },
     {
       "sort_date": "2026-05-15 14:12:15",
       "an_dt": "15-May-2026 14:12:15",
@@ -607,20 +620,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Tamilnadu PetroProducts Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TPLSECTL_26022026165155_LtrtoSEsspecialwindowTransferanddematofsecurites.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:24:30",
-      "an_dt": "17-Feb-2026 18:24:30",
-      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "sm_name": "Tamilnadu PetroProducts Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TPLSECTL_17022026182412_Dematintimationfrom16012026to31012026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:23:17",
-      "an_dt": "17-Feb-2026 18:23:17",
-      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "sm_name": "Tamilnadu PetroProducts Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TPLSECTL_17022026182308_Dematintimationfrom01012026to15012026.pdf"
     }
   ]
 }

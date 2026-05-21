@@ -8,25 +8,9 @@
   "price": 352.95,
   "market_cap_cr": 92491.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 348.95,
-      "prev_close": 345.05,
-      "volume": 5250034,
-      "deliverable_qty": 3063579,
-      "delivery_pct": 58.35
-    },
-    {
-      "date": "2026-02-18",
-      "close": 349.55,
-      "prev_close": 348.95,
-      "volume": 3968030,
-      "deliverable_qty": 1777777,
-      "delivery_pct": 44.8
-    },
     {
       "date": "2026-02-19",
       "close": 344.3,
@@ -458,9 +442,31 @@
       "volume": 4941012,
       "deliverable_qty": 2805769,
       "delivery_pct": 56.79
+    },
+    {
+      "date": "2026-05-20",
+      "close": 353.1,
+      "prev_close": 351.2,
+      "volume": 10862203,
+      "deliverable_qty": 6235154,
+      "delivery_pct": 57.4
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 16:00:33",
+      "an_dt": "20-May-2026 16:00:33",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Aditya Birla Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABCAPITAL_20052026160010_Board_meetingsigned.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 18:02:55",
+      "an_dt": "19-May-2026 18:02:55",
+      "desc": "Granting/withdrawal/surrender/cancellation/suspension of key licenses/ regulatory approvals",
+      "sm_name": "Aditya Birla Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/rsrai_19052026180243_ABCL_SE_Disclosure_factoring_licensesigned.pdf"
+    },
     {
       "sort_date": "2026-05-15 21:44:28",
       "an_dt": "15-May-2026 21:44:28",

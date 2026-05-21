@@ -8,25 +8,9 @@
   "price": 86.58,
   "market_cap_cr": 1590.08,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 78.61,
-      "prev_close": 77.68,
-      "volume": 74595,
-      "deliverable_qty": 34689,
-      "delivery_pct": 46.5
-    },
-    {
-      "date": "2026-02-18",
-      "close": 78.58,
-      "prev_close": 78.61,
-      "volume": 51150,
-      "deliverable_qty": 24125,
-      "delivery_pct": 47.17
-    },
     {
       "date": "2026-02-19",
       "close": 78.4,
@@ -458,9 +442,31 @@
       "volume": 114764,
       "deliverable_qty": 59151,
       "delivery_pct": 51.54
+    },
+    {
+      "date": "2026-05-20",
+      "close": 76.67,
+      "prev_close": 74.81,
+      "volume": 196712,
+      "deliverable_qty": 83861,
+      "delivery_pct": 42.63
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 15:49:10",
+      "an_dt": "20-May-2026 15:49:10",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Omaxe Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OMAXE_20052026154836_Intimation_Newspaper_Relodgement_sd.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 16:40:55",
+      "an_dt": "19-May-2026 16:40:55",
+      "desc": "Press Release",
+      "sm_name": "Omaxe Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OMAXE_19052026163813_Intimation_PR_19052026_sd.pdf"
+    },
     {
       "sort_date": "2026-05-16 15:38:28",
       "an_dt": "16-May-2026 15:38:28",
@@ -712,20 +718,6 @@
       "desc": "Allotment of Securities",
       "sm_name": "Omaxe Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/OMAXE_26022026180641_Intimation_3rd_Tranch_Allotment_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 16:21:18",
-      "an_dt": "18-Feb-2026 16:21:18",
-      "desc": "Granting/withdrawal/surrender/cancellation/suspension of key licenses/ regulatory approvals",
-      "sm_name": "Omaxe Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OMAXE_18022026162046_Intimation_RERA_OWS_180226.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 16:19:04",
-      "an_dt": "18-Feb-2026 16:19:04",
-      "desc": "Product launch",
-      "sm_name": "Omaxe Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OMAXE_18022026161824_Intimation_RERA_OWS_180226.pdf"
     }
   ]
 }

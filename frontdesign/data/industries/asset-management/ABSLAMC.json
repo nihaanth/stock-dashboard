@@ -8,25 +8,9 @@
   "price": 1010.2,
   "market_cap_cr": 29175.21,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 882.85,
-      "prev_close": 877.05,
-      "volume": 208978,
-      "deliverable_qty": 94110,
-      "delivery_pct": 45.03
-    },
-    {
-      "date": "2026-02-18",
-      "close": 906.85,
-      "prev_close": 882.85,
-      "volume": 750260,
-      "deliverable_qty": 349323,
-      "delivery_pct": 46.56
-    },
     {
       "date": "2026-02-19",
       "close": 896.15,
@@ -458,9 +442,31 @@
       "volume": 462269,
       "deliverable_qty": 261029,
       "delivery_pct": 56.47
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1021.1,
+      "prev_close": 1036.9,
+      "volume": 202338,
+      "deliverable_qty": 82042,
+      "delivery_pct": 40.55
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 19:32:28",
+      "an_dt": "20-May-2026 19:32:28",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Aditya Birla Sun Life AMC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABSLAMC_20052026193101_ABSLAMC_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 20:14:15",
+      "an_dt": "19-May-2026 20:14:15",
+      "desc": "Change in Director(s)",
+      "sm_name": "Aditya Birla Sun Life AMC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABSLAMC_19052026201220_ABSLAMC.pdf"
+    },
     {
       "sort_date": "2026-05-12 18:31:38",
       "an_dt": "12-May-2026 18:31:38",
@@ -593,13 +599,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Aditya Birla Sun Life AMC Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABSLAMC_02032026162207_ABSLAMC.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 15:08:17",
-      "an_dt": "17-Feb-2026 15:08:17",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Aditya Birla Sun Life AMC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABSLAMC_17022026150613_ABSLAMC.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 5364.5,
   "market_cap_cr": 64140.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 5456.5,
-      "prev_close": 5480.5,
-      "volume": 74670,
-      "deliverable_qty": 33887,
-      "delivery_pct": 45.38
-    },
-    {
-      "date": "2026-02-18",
-      "close": 5464.0,
-      "prev_close": 5456.5,
-      "volume": 83592,
-      "deliverable_qty": 39299,
-      "delivery_pct": 47.01
-    },
     {
       "date": "2026-02-19",
       "close": 5377.0,
@@ -458,9 +442,24 @@
       "volume": 122385,
       "deliverable_qty": 64220,
       "delivery_pct": 52.47
+    },
+    {
+      "date": "2026-05-20",
+      "close": 5436.5,
+      "prev_close": 5470.0,
+      "volume": 50467,
+      "deliverable_qty": 23018,
+      "delivery_pct": 45.61
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 15:45:01",
+      "an_dt": "20-May-2026 15:45:01",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Alkem Laboratories Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALKEM_20052026154252_Concallinvite_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-18 12:35:24",
       "an_dt": "18-May-2026 12:35:24",
@@ -621,20 +620,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Alkem Laboratories Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALKEM_20022026182711_AlkemSigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 12:52:51",
-      "an_dt": "18-Feb-2026 12:52:51",
-      "desc": "Investor Presentation",
-      "sm_name": "Alkem Laboratories Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALKEM_18022026125151_Intimationpresentaionsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:15:15",
-      "an_dt": "17-Feb-2026 17:15:15",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Alkem Laboratories Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALKEM_17022026171353_ScheduleofInvestorMeet_February_2026_Signed.pdf"
     }
   ]
 }

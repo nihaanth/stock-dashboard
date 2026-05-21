@@ -8,25 +8,9 @@
   "price": 1126.2,
   "market_cap_cr": 23878.09,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 931.45,
-      "prev_close": 920.65,
-      "volume": 535680,
-      "deliverable_qty": 389279,
-      "delivery_pct": 72.67
-    },
-    {
-      "date": "2026-02-18",
-      "close": 941.9,
-      "prev_close": 931.45,
-      "volume": 470941,
-      "deliverable_qty": 270560,
-      "delivery_pct": 57.45
-    },
     {
       "date": "2026-02-19",
       "close": 936.75,
@@ -458,6 +442,14 @@
       "volume": 1097952,
       "deliverable_qty": 540185,
       "delivery_pct": 49.2
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1141.3,
+      "prev_close": 1125.4,
+      "volume": 598845,
+      "deliverable_qty": 256898,
+      "delivery_pct": 42.9
     }
   ],
   "news": [
@@ -607,13 +599,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Sai Life Sciences Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAILIFE_23022026123110_ESOP_Allotment_Intimation_22022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 15:55:11",
-      "an_dt": "17-Feb-2026 15:55:11",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Sai Life Sciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAILIFE_17022026155429_Sai_Meeting_Intimation.pdf"
     }
   ]
 }

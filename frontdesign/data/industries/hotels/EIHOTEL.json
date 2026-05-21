@@ -8,25 +8,9 @@
   "price": 326.45,
   "market_cap_cr": 20415.01,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 334.75,
-      "prev_close": 330.3,
-      "volume": 145808,
-      "deliverable_qty": 55292,
-      "delivery_pct": 37.92
-    },
-    {
-      "date": "2026-02-18",
-      "close": 333.1,
-      "prev_close": 334.75,
-      "volume": 87951,
-      "deliverable_qty": 37130,
-      "delivery_pct": 42.22
-    },
     {
       "date": "2026-02-19",
       "close": 326.15,
@@ -458,9 +442,24 @@
       "volume": 193005,
       "deliverable_qty": 68397,
       "delivery_pct": 35.44
+    },
+    {
+      "date": "2026-05-20",
+      "close": 322.5,
+      "prev_close": 326.25,
+      "volume": 112343,
+      "deliverable_qty": 64616,
+      "delivery_pct": 57.52
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 20:07:19",
+      "an_dt": "19-May-2026 20:07:19",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "EIH Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIHOTEL01_19052026200700_EIHSTX_Investormeet.pdf"
+    },
     {
       "sort_date": "2026-04-29 12:38:50",
       "an_dt": "29-Apr-2026 12:38:50",
@@ -509,13 +508,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "EIH Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIHOTEL01_20032026121901_EIH_Limited_STX_20032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 18:49:08",
-      "an_dt": "18-Feb-2026 18:49:08",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "EIH Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIHOTEL01_18022026184856_EIHSTXtranscript.pdf"
     }
   ]
 }

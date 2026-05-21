@@ -8,25 +8,9 @@
   "price": 424.1,
   "market_cap_cr": 2414.52,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 467.3,
-      "prev_close": 473.4,
-      "volume": 201364,
-      "deliverable_qty": 32621,
-      "delivery_pct": 16.2
-    },
-    {
-      "date": "2026-02-18",
-      "close": 468.0,
-      "prev_close": 467.3,
-      "volume": 195657,
-      "deliverable_qty": 36298,
-      "delivery_pct": 18.55
-    },
     {
       "date": "2026-02-19",
       "close": 466.0,
@@ -458,9 +442,31 @@
       "volume": 366521,
       "deliverable_qty": 167215,
       "delivery_pct": 45.62
+    },
+    {
+      "date": "2026-05-20",
+      "close": 420.4,
+      "prev_close": 421.05,
+      "volume": 324220,
+      "deliverable_qty": 51122,
+      "delivery_pct": 15.77
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 23:08:36",
+      "an_dt": "19-May-2026 23:08:36",
+      "desc": "Updates",
+      "sm_name": "Sirca Paints India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SIRCA_19052026230809_IntimationOutcomeBMFS.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 18:36:38",
+      "an_dt": "19-May-2026 18:36:38",
+      "desc": "Clarification - Financial Results",
+      "sm_name": "Sirca Paints India Limited",
+      "attchmntFile": "-"
+    },
     {
       "sort_date": "2026-05-16 18:03:18",
       "an_dt": "16-May-2026 18:03:18",

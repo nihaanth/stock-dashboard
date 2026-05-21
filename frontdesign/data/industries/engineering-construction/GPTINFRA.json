@@ -8,25 +8,9 @@
   "price": 116.63,
   "market_cap_cr": 1473.79,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 127.21,
-      "prev_close": 122.2,
-      "volume": 939364,
-      "deliverable_qty": 267809,
-      "delivery_pct": 28.51
-    },
-    {
-      "date": "2026-02-18",
-      "close": 121.98,
-      "prev_close": 127.21,
-      "volume": 881510,
-      "deliverable_qty": 344627,
-      "delivery_pct": 39.1
-    },
     {
       "date": "2026-02-19",
       "close": 123.0,
@@ -458,9 +442,59 @@
       "volume": 183296,
       "deliverable_qty": 78070,
       "delivery_pct": 42.59
+    },
+    {
+      "date": "2026-05-20",
+      "close": 119.85,
+      "prev_close": 117.21,
+      "volume": 308290,
+      "deliverable_qty": 151623,
+      "delivery_pct": 49.18
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 19:46:19",
+      "an_dt": "20-May-2026 19:46:19",
+      "desc": "Press Release",
+      "sm_name": "GPT Infraprojects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPTINFRA_20052026194546_SE_Intimation_Press_Release_Sgd.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 19:33:22",
+      "an_dt": "20-May-2026 19:33:22",
+      "desc": "Investor Presentation",
+      "sm_name": "GPT Infraprojects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPTINFRA_20052026193219_SE_Intimation_Investor_Presentation_SGD.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 18:46:27",
+      "an_dt": "20-May-2026 18:46:27",
+      "desc": "Record Date",
+      "sm_name": "GPT Infraprojects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPTINFRA_20052026184512_4_GILSE_Inti_Dividend_Record_Date_Sgd.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 18:44:12",
+      "an_dt": "20-May-2026 18:44:12",
+      "desc": "Dividend",
+      "sm_name": "GPT Infraprojects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPTINFRA_20052026184332_4_GILSE_Inti_Dividend_Record_Date_Sgd.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 18:34:20",
+      "an_dt": "20-May-2026 18:34:20",
+      "desc": "Dividend",
+      "sm_name": "GPT Infraprojects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPTINFRA_20052026183250_SE_Intimation_Financial_Results_SGD.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 18:13:52",
+      "an_dt": "20-May-2026 18:13:52",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "GPT Infraprojects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPTINFRA_20052026181211_Outcome_BM_SGD.pdf"
+    },
     {
       "sort_date": "2026-05-14 18:20:45",
       "an_dt": "14-May-2026 18:20:45",
@@ -509,20 +543,6 @@
       "desc": "General Updates",
       "sm_name": "GPT Infraprojects Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPTINFRA_26022026134906_SE_Intimation_Concession_Agreement_26022026_SGD.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 16:34:59",
-      "an_dt": "18-Feb-2026 16:34:59",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "GPT Infraprojects Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPTINFRA_18022026162527_SE_Investor_Meeting_Intimation180226_sgd.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 15:12:04",
-      "an_dt": "17-Feb-2026 15:12:04",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "GPT Infraprojects Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPTINFRA_17022026151153_Press_ReleaseintimationContract_win_170226_sgd.pdf"
     }
   ]
 }

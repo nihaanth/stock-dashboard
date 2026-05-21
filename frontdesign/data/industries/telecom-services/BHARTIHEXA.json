@@ -8,25 +8,9 @@
   "price": 1464.7,
   "market_cap_cr": 73235.0,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1694.5,
-      "prev_close": 1679.7,
-      "volume": 92218,
-      "deliverable_qty": 47446,
-      "delivery_pct": 51.45
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1703.1,
-      "prev_close": 1694.5,
-      "volume": 157411,
-      "deliverable_qty": 119121,
-      "delivery_pct": 75.68
-    },
     {
       "date": "2026-02-19",
       "close": 1680.4,
@@ -458,9 +442,24 @@
       "volume": 328027,
       "deliverable_qty": 144534,
       "delivery_pct": 44.06
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1595.7,
+      "prev_close": 1611.6,
+      "volume": 119318,
+      "deliverable_qty": 70150,
+      "delivery_pct": 58.79
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 20:16:35",
+      "an_dt": "20-May-2026 20:16:35",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Bharti Hexacom Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HexacomApril20_20052026201215_HexacomEarningCallTranscript.pdf"
+    },
     {
       "sort_date": "2026-05-14 17:22:15",
       "an_dt": "14-May-2026 17:22:15",
@@ -586,27 +585,6 @@
       "desc": "Change in Auditors",
       "sm_name": "Bharti Hexacom Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HexacomApril20_10032026164402_BHL_STX_Announcement_-_Statutory_Auditors_Appointment.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 19:22:05",
-      "an_dt": "18-Feb-2026 19:22:05",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Bharti Hexacom Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HexacomApril20_18022026192143_Bharti_Hexacom_-_Investor_Meet_STX_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:47:26",
-      "an_dt": "18-Feb-2026 17:47:26",
-      "desc": "Appointment",
-      "sm_name": "Bharti Hexacom Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HexacomApril20_18022026174707_BHL_Stx_Intimation_Change_in_SMP.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 13:06:53",
-      "an_dt": "18-Feb-2026 13:06:53",
-      "desc": "Action(s) taken or orders passed",
-      "sm_name": "Bharti Hexacom Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HexacomApril20_18022026130622_BHL_Stx_Intimation_-_DoT_Notice.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 727.7,
   "market_cap_cr": 13683.77,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 630.65,
-      "prev_close": 621.0,
-      "volume": 12138,
-      "deliverable_qty": 6110,
-      "delivery_pct": 50.34
-    },
-    {
-      "date": "2026-02-18",
-      "close": 638.3,
-      "prev_close": 630.65,
-      "volume": 29634,
-      "deliverable_qty": 20984,
-      "delivery_pct": 70.81
-    },
     {
       "date": "2026-02-19",
       "close": 650.5,
@@ -458,9 +442,24 @@
       "volume": 45010,
       "deliverable_qty": 25340,
       "delivery_pct": 56.3
+    },
+    {
+      "date": "2026-05-20",
+      "close": 688.25,
+      "prev_close": 706.8,
+      "volume": 20258,
+      "deliverable_qty": 9733,
+      "delivery_pct": 48.05
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 09:57:13",
+      "an_dt": "20-May-2026 09:57:13",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Supreme Petrochem Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20042026173931_SPLPETRO.pdf"
+    },
     {
       "sort_date": "2026-05-18 16:39:06",
       "an_dt": "18-May-2026 16:39:06",
@@ -677,13 +676,6 @@
       "desc": "Credit Rating",
       "sm_name": "Supreme Petrochem Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINIAN_19022026191706_NSEESGRating19022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 19:29:38",
-      "an_dt": "18-Feb-2026 19:29:38",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Supreme Petrochem Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINIAN_18022026192716_Investormeet_25022026.pdf"
     }
   ]
 }

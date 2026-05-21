@@ -8,25 +8,9 @@
   "price": 146.47,
   "market_cap_cr": 19393.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 164.66,
-      "prev_close": 164.05,
-      "volume": 1640770,
-      "deliverable_qty": 580824,
-      "delivery_pct": 35.4
-    },
-    {
-      "date": "2026-02-18",
-      "close": 166.04,
-      "prev_close": 164.66,
-      "volume": 2453587,
-      "deliverable_qty": 1166843,
-      "delivery_pct": 47.56
-    },
     {
       "date": "2026-02-19",
       "close": 163.05,
@@ -458,9 +442,24 @@
       "volume": 2393928,
       "deliverable_qty": 709113,
       "delivery_pct": 29.62
+    },
+    {
+      "date": "2026-05-20",
+      "close": 176.35,
+      "prev_close": 173.23,
+      "volume": 2796890,
+      "deliverable_qty": 866266,
+      "delivery_pct": 30.97
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 14:08:22",
+      "an_dt": "19-May-2026 14:08:22",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Piramal Pharma Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PIRAMALPHARMA_19052026140813_SEIntimationMay2026.pdf"
+    },
     {
       "sort_date": "2026-05-18 11:44:40",
       "an_dt": "18-May-2026 11:44:40",

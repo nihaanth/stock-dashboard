@@ -8,25 +8,9 @@
   "price": 124.08,
   "market_cap_cr": 4173.38,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 149.64,
-      "prev_close": 150.11,
-      "volume": 2562338,
-      "deliverable_qty": 1095662,
-      "delivery_pct": 42.76
-    },
-    {
-      "date": "2026-02-18",
-      "close": 151.31,
-      "prev_close": 149.64,
-      "volume": 2033368,
-      "deliverable_qty": 970504,
-      "delivery_pct": 47.73
-    },
     {
       "date": "2026-02-19",
       "close": 147.11,
@@ -458,9 +442,24 @@
       "volume": 4682850,
       "deliverable_qty": 1562410,
       "delivery_pct": 33.36
+    },
+    {
+      "date": "2026-05-20",
+      "close": 152.84,
+      "prev_close": 153.51,
+      "volume": 1847467,
+      "deliverable_qty": 624111,
+      "delivery_pct": 33.78
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 10:49:29",
+      "an_dt": "19-May-2026 10:49:29",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Rain Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20042026152612_RAIN.pdf"
+    },
     {
       "sort_date": "2026-05-14 21:20:51",
       "an_dt": "14-May-2026 21:20:51",

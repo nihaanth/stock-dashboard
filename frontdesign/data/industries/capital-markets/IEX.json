@@ -8,25 +8,9 @@
   "price": 129.14,
   "market_cap_cr": 11484.42,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 126.25,
-      "prev_close": 124.97,
-      "volume": 4016445,
-      "deliverable_qty": 1501280,
-      "delivery_pct": 37.38
-    },
-    {
-      "date": "2026-02-18",
-      "close": 126.13,
-      "prev_close": 126.25,
-      "volume": 4736952,
-      "deliverable_qty": 2535397,
-      "delivery_pct": 53.52
-    },
     {
       "date": "2026-02-19",
       "close": 123.87,
@@ -458,6 +442,14 @@
       "volume": 3713342,
       "deliverable_qty": 1486658,
       "delivery_pct": 40.04
+    },
+    {
+      "date": "2026-05-20",
+      "close": 125.62,
+      "prev_close": 125.48,
+      "volume": 2355166,
+      "deliverable_qty": 708296,
+      "delivery_pct": 30.07
     }
   ],
   "news": [
@@ -635,13 +627,6 @@
       "desc": "Press Release",
       "sm_name": "Indian Energy Exchange Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IEX_05032026080005_IEX_Media_Release_Power_Market_Update_Feb26_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 15:10:35",
-      "an_dt": "18-Feb-2026 15:10:35",
-      "desc": "General Updates",
-      "sm_name": "Indian Energy Exchange Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IEX_18022026151025_IEX_Intimation_Name_Change_ICX_18_02_26_Signed.pdf"
     }
   ]
 }

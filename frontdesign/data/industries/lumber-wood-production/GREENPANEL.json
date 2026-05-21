@@ -8,25 +8,9 @@
   "price": 219.89,
   "market_cap_cr": 2696.45,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 218.45,
-      "prev_close": 217.0,
-      "volume": 70208,
-      "deliverable_qty": 37243,
-      "delivery_pct": 53.05
-    },
-    {
-      "date": "2026-02-18",
-      "close": 218.34,
-      "prev_close": 218.45,
-      "volume": 29591,
-      "deliverable_qty": 13502,
-      "delivery_pct": 45.63
-    },
     {
       "date": "2026-02-19",
       "close": 213.9,
@@ -458,9 +442,24 @@
       "volume": 188282,
       "deliverable_qty": 82274,
       "delivery_pct": 43.7
+    },
+    {
+      "date": "2026-05-20",
+      "close": 183.33,
+      "prev_close": 182.91,
+      "volume": 410139,
+      "deliverable_qty": 256213,
+      "delivery_pct": 62.47
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 18:25:49",
+      "an_dt": "19-May-2026 18:25:49",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Greenpanel Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GREENPANEL_19052026182509_Investor_Meet_28_29_May.pdf"
+    },
     {
       "sort_date": "2026-05-18 17:55:41",
       "an_dt": "18-May-2026 17:55:41",

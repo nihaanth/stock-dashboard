@@ -8,25 +8,9 @@
   "price": 3267.1,
   "market_cap_cr": 7524.33,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 4024.6,
-      "prev_close": 3998.1,
-      "volume": 6840,
-      "deliverable_qty": 4407,
-      "delivery_pct": 64.43
-    },
-    {
-      "date": "2026-02-18",
-      "close": 4010.2,
-      "prev_close": 4024.6,
-      "volume": 10022,
-      "deliverable_qty": 4739,
-      "delivery_pct": 47.29
-    },
     {
       "date": "2026-02-19",
       "close": 4024.5,
@@ -458,9 +442,24 @@
       "volume": 40454,
       "deliverable_qty": 26490,
       "delivery_pct": 65.48
+    },
+    {
+      "date": "2026-05-20",
+      "close": 3190.0,
+      "prev_close": 3230.9,
+      "volume": 19538,
+      "deliverable_qty": 12904,
+      "delivery_pct": 66.05
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 15:40:06",
+      "an_dt": "20-May-2026 15:40:06",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Sanofi India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSECSANOFI_20052026153934_BSENSEUpload_signed.pdf"
+    },
     {
       "sort_date": "2026-04-30 16:27:19",
       "an_dt": "30-Apr-2026 16:27:19",

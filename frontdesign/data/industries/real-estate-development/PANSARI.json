@@ -8,7 +8,7 @@
   "price": 296.7,
   "market_cap_cr": 517.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
     {
@@ -402,9 +402,24 @@
       "volume": 1555,
       "deliverable_qty": 1025,
       "delivery_pct": 65.92
+    },
+    {
+      "date": "2026-05-20",
+      "close": 265.9,
+      "prev_close": 258.45,
+      "volume": 10,
+      "deliverable_qty": 8,
+      "delivery_pct": 80.0
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 12:37:59",
+      "an_dt": "20-May-2026 12:37:59",
+      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "sm_name": "Pansari Developers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PANSARI_20052026123737_Covering_Letter_Reg74_5__Pansari_31-03-2026_with_DSC.pdf"
+    },
     {
       "sort_date": "2026-05-15 16:54:52",
       "an_dt": "15-May-2026 16:54:52",
@@ -418,13 +433,6 @@
       "desc": "Trading Window",
       "sm_name": "Pansari Developers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PANSARI_24032026151214_Trading_Window_Closure_March_2026_1.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 13:36:48",
-      "an_dt": "17-Feb-2026 13:36:48",
-      "desc": "Updates",
-      "sm_name": "Pansari Developers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PANSARI_17022026133036_Outcome_of_the_Board_Meeting.pdf"
     }
   ]
 }

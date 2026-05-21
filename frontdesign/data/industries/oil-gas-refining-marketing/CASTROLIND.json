@@ -8,25 +8,9 @@
   "price": 178.57,
   "market_cap_cr": 17662.76,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 187.72,
-      "prev_close": 186.29,
-      "volume": 878739,
-      "deliverable_qty": 540866,
-      "delivery_pct": 61.55
-    },
-    {
-      "date": "2026-02-18",
-      "close": 188.24,
-      "prev_close": 187.72,
-      "volume": 1119865,
-      "deliverable_qty": 647259,
-      "delivery_pct": 57.8
-    },
     {
       "date": "2026-02-19",
       "close": 187.65,
@@ -458,9 +442,31 @@
       "volume": 1001515,
       "deliverable_qty": 552356,
       "delivery_pct": 55.15
+    },
+    {
+      "date": "2026-05-20",
+      "close": 182.32,
+      "prev_close": 183.02,
+      "volume": 836590,
+      "deliverable_qty": 629917,
+      "delivery_pct": 75.3
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 10:30:50",
+      "an_dt": "20-May-2026 10:30:50",
+      "desc": "Cessation",
+      "sm_name": "Castrol India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CASTROLINDIA_20052026103025_SE.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 10:28:03",
+      "an_dt": "20-May-2026 10:28:03",
+      "desc": "Appointment",
+      "sm_name": "Castrol India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CASTROLINDIA_20052026102713_SE.pdf"
+    },
     {
       "sort_date": "2026-05-04 17:55:34",
       "an_dt": "04-May-2026 17:55:34",
@@ -558,13 +564,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Castrol India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CASTROLINDIA_19022026101139_CL_SE_Intimation_Conference_Call_24Feb2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 15:56:38",
-      "an_dt": "17-Feb-2026 15:56:38",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Castrol India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CASTROLINDIA_17022026155630_SE_Intimation_Newspaper_GoGreen_AGM_Notice_2025.pdf"
     }
   ]
 }

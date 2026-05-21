@@ -8,25 +8,9 @@
   "price": 352.95,
   "market_cap_cr": 11487.94,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 300.35,
-      "prev_close": 306.15,
-      "volume": 1570394,
-      "deliverable_qty": 529484,
-      "delivery_pct": 33.72
-    },
-    {
-      "date": "2026-02-18",
-      "close": 301.45,
-      "prev_close": 300.35,
-      "volume": 530771,
-      "deliverable_qty": 208841,
-      "delivery_pct": 39.35
-    },
     {
       "date": "2026-02-19",
       "close": 304.35,
@@ -458,9 +442,24 @@
       "volume": 594517,
       "deliverable_qty": 260835,
       "delivery_pct": 43.87
+    },
+    {
+      "date": "2026-05-20",
+      "close": 356.75,
+      "prev_close": 354.5,
+      "volume": 274620,
+      "deliverable_qty": 126743,
+      "delivery_pct": 46.15
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 18:59:38",
+      "an_dt": "19-May-2026 18:59:38",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Honasa Consumer Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HONASA16_19052026185720_Grantofoptions.pdf"
+    },
     {
       "sort_date": "2026-05-15 10:44:41",
       "an_dt": "15-May-2026 10:44:41",
@@ -544,20 +543,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Honasa Consumer Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HONASA16_19022026182106_Investor_meet_intimation_S.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:29:37",
-      "an_dt": "18-Feb-2026 17:29:37",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Honasa Consumer Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HONASA16_18022026172846_Transcript.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:36:28",
-      "an_dt": "17-Feb-2026 12:36:28",
-      "desc": "Updates",
-      "sm_name": "Honasa Consumer Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HONASA16_17022026123544_RSM_Update.pdf"
     }
   ]
 }

@@ -8,7 +8,7 @@
   "price": 136.4,
   "market_cap_cr": 818.19,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
     {
@@ -242,9 +242,24 @@
       "volume": 61867,
       "deliverable_qty": 29386,
       "delivery_pct": 47.5
+    },
+    {
+      "date": "2026-05-20",
+      "close": 139.65,
+      "prev_close": 136.69,
+      "volume": 120724,
+      "deliverable_qty": 40635,
+      "delivery_pct": 33.66
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 10:28:25",
+      "an_dt": "20-May-2026 10:28:25",
+      "desc": "General Updates",
+      "sm_name": "Maan Aluminium Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAANALU_20052026102814_letter.pdf"
+    },
     {
       "sort_date": "2026-04-27 18:43:31",
       "an_dt": "27-Apr-2026 18:43:31",
@@ -300,13 +315,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Maan Aluminium Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAANALU_22022026150216_Transscript.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 22:55:43",
-      "an_dt": "17-Feb-2026 22:55:43",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Maan Aluminium Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAANALU_17022026225527_Outcome.pdf"
     }
   ]
 }

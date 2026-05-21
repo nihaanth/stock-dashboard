@@ -8,25 +8,9 @@
   "price": 135.03,
   "market_cap_cr": 7464.56,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 128.71,
-      "prev_close": 128.03,
-      "volume": 397029,
-      "deliverable_qty": 129138,
-      "delivery_pct": 32.53
-    },
-    {
-      "date": "2026-02-18",
-      "close": 126.25,
-      "prev_close": 128.71,
-      "volume": 473761,
-      "deliverable_qty": 192096,
-      "delivery_pct": 40.55
-    },
     {
       "date": "2026-02-19",
       "close": 125.15,
@@ -458,6 +442,14 @@
       "volume": 569630,
       "deliverable_qty": 239712,
       "delivery_pct": 42.08
+    },
+    {
+      "date": "2026-05-20",
+      "close": 128.31,
+      "prev_close": 128.39,
+      "volume": 143448,
+      "deliverable_qty": 65475,
+      "delivery_pct": 45.64
     }
   ],
   "news": [
@@ -495,13 +487,6 @@
       "desc": "Trading Window",
       "sm_name": "Redtape Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/REDTAPE_27032026141230_Trading_Window_Closure.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 15:30:57",
-      "an_dt": "17-Feb-2026 15:30:57",
-      "desc": "Updates",
-      "sm_name": "Redtape Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/REDTAPE_17022026153044_Highlights_for_Q3.pdf"
     }
   ]
 }

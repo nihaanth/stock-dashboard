@@ -8,25 +8,9 @@
   "price": 166.71,
   "market_cap_cr": 10466.83,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 152.15,
-      "prev_close": 150.05,
-      "volume": 1926521,
-      "deliverable_qty": 763396,
-      "delivery_pct": 39.63
-    },
-    {
-      "date": "2026-02-18",
-      "close": 149.76,
-      "prev_close": 152.15,
-      "volume": 2348294,
-      "deliverable_qty": 985244,
-      "delivery_pct": 41.96
-    },
     {
       "date": "2026-02-19",
       "close": 150.35,
@@ -458,9 +442,24 @@
       "volume": 3232164,
       "deliverable_qty": 1446924,
       "delivery_pct": 44.77
+    },
+    {
+      "date": "2026-05-20",
+      "close": 146.67,
+      "prev_close": 149.07,
+      "volume": 1170595,
+      "deliverable_qty": 535680,
+      "delivery_pct": 45.76
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 17:02:52",
+      "an_dt": "20-May-2026 17:02:52",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "NCC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NCC_20052026170154_Transcript.pdf"
+    },
     {
       "sort_date": "2026-05-16 16:22:56",
       "an_dt": "16-May-2026 16:22:56",
@@ -614,13 +613,6 @@
       "desc": "General Updates",
       "sm_name": "NCC Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NCC_20022026181514_Reg_30_ESG.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 16:50:11",
-      "an_dt": "18-Feb-2026 16:50:11",
-      "desc": "Action(s) taken or orders passed",
-      "sm_name": "NCC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NCC_18022026164954_Reg_30_18Feb26.pdf"
     }
   ]
 }

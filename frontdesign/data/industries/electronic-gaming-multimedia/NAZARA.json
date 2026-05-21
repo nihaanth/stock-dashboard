@@ -8,25 +8,9 @@
   "price": 270.4,
   "market_cap_cr": 10017.37,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 275.75,
-      "prev_close": 275.6,
-      "volume": 439826,
-      "deliverable_qty": 160509,
-      "delivery_pct": 36.49
-    },
-    {
-      "date": "2026-02-18",
-      "close": 276.55,
-      "prev_close": 275.75,
-      "volume": 864018,
-      "deliverable_qty": 428912,
-      "delivery_pct": 49.64
-    },
     {
       "date": "2026-02-19",
       "close": 272.15,
@@ -458,9 +442,24 @@
       "volume": 7934449,
       "deliverable_qty": 2064921,
       "delivery_pct": 26.02
+    },
+    {
+      "date": "2026-05-20",
+      "close": 291.05,
+      "prev_close": 294.95,
+      "volume": 2406737,
+      "deliverable_qty": 1010929,
+      "delivery_pct": 42.0
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 13:28:10",
+      "an_dt": "19-May-2026 13:28:10",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Nazara Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NAZARA_19052026132720_IntimationofTranscript.pdf"
+    },
     {
       "sort_date": "2026-05-14 19:53:50",
       "an_dt": "14-May-2026 19:53:50",

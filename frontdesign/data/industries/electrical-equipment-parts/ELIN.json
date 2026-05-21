@@ -8,25 +8,9 @@
   "price": 124.12,
   "market_cap_cr": 616.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 139.55,
-      "prev_close": 138.63,
-      "volume": 41010,
-      "deliverable_qty": 21314,
-      "delivery_pct": 51.97
-    },
-    {
-      "date": "2026-02-18",
-      "close": 142.19,
-      "prev_close": 139.55,
-      "volume": 68355,
-      "deliverable_qty": 39670,
-      "delivery_pct": 58.04
-    },
     {
       "date": "2026-02-19",
       "close": 138.37,
@@ -458,9 +442,24 @@
       "volume": 80171,
       "deliverable_qty": 46333,
       "delivery_pct": 57.79
+    },
+    {
+      "date": "2026-05-20",
+      "close": 119.78,
+      "prev_close": 121.59,
+      "volume": 55502,
+      "deliverable_qty": 27101,
+      "delivery_pct": 48.83
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 17:59:47",
+      "an_dt": "20-May-2026 17:59:47",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Elin Electronics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELIN_20052026175939_concallletter20052026.pdf"
+    },
     {
       "sort_date": "2026-04-10 15:33:37",
       "an_dt": "10-Apr-2026 15:33:37",

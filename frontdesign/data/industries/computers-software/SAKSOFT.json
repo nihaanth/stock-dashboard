@@ -8,25 +8,9 @@
   "price": 151.68,
   "market_cap_cr": 1939.06,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 165.09,
-      "prev_close": 158.82,
-      "volume": 203832,
-      "deliverable_qty": 70908,
-      "delivery_pct": 34.79
-    },
-    {
-      "date": "2026-02-18",
-      "close": 163.01,
-      "prev_close": 165.09,
-      "volume": 132805,
-      "deliverable_qty": 55569,
-      "delivery_pct": 41.84
-    },
     {
       "date": "2026-02-19",
       "close": 157.81,
@@ -458,9 +442,24 @@
       "volume": 170916,
       "deliverable_qty": 77204,
       "delivery_pct": 45.17
+    },
+    {
+      "date": "2026-05-20",
+      "close": 140.68,
+      "prev_close": 144.04,
+      "volume": 320699,
+      "deliverable_qty": 120825,
+      "delivery_pct": 37.68
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 20:14:02",
+      "an_dt": "19-May-2026 20:14:02",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Saksoft Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAKSOFT_19052026201339_Earnings_call_invite_May_26_2026_finalsigned.pdf"
+    },
     {
       "sort_date": "2026-04-30 18:30:03",
       "an_dt": "30-Apr-2026 18:30:03",

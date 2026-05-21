@@ -8,25 +8,9 @@
   "price": 91.66,
   "market_cap_cr": 1030.17,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 118.62,
-      "prev_close": 98.85,
-      "volume": 9429333,
-      "deliverable_qty": 1749971,
-      "delivery_pct": 18.56
-    },
-    {
-      "date": "2026-02-18",
-      "close": 116.6,
-      "prev_close": 118.62,
-      "volume": 36373361,
-      "deliverable_qty": 2628435,
-      "delivery_pct": 7.23
-    },
     {
       "date": "2026-02-19",
       "close": 113.23,
@@ -458,9 +442,24 @@
       "volume": 208420,
       "deliverable_qty": 86848,
       "delivery_pct": 41.67
+    },
+    {
+      "date": "2026-05-20",
+      "close": 86.07,
+      "prev_close": 83.72,
+      "volume": 426203,
+      "deliverable_qty": 187615,
+      "delivery_pct": 44.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 11:30:09",
+      "an_dt": "20-May-2026 11:30:09",
+      "desc": "Press Release",
+      "sm_name": "Unicommerce Esolutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNICOMMERCE_20052026112922_SE_intimation__press_release_for_collab_with_The_Bear_House_Partners.pdf"
+    },
     {
       "sort_date": "2026-05-06 12:08:19",
       "an_dt": "06-May-2026 12:08:19",
@@ -579,13 +578,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Unicommerce Esolutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNICOMMERCE_23022026123519_SE_intimation_for_Investor_Meet.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 18:18:06",
-      "an_dt": "18-Feb-2026 18:18:06",
-      "desc": "Press Release",
-      "sm_name": "Unicommerce Esolutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNICOMMERCE_18022026181741_Press_Release_for_ElasticRun.pdf"
     }
   ]
 }

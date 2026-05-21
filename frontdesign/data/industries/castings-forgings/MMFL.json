@@ -8,25 +8,9 @@
   "price": 443.25,
   "market_cap_cr": 2140.08,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 458.4,
-      "prev_close": 443.9,
-      "volume": 103624,
-      "deliverable_qty": 37920,
-      "delivery_pct": 36.59
-    },
-    {
-      "date": "2026-02-18",
-      "close": 471.7,
-      "prev_close": 458.4,
-      "volume": 99550,
-      "deliverable_qty": 56796,
-      "delivery_pct": 57.05
-    },
     {
       "date": "2026-02-19",
       "close": 488.7,
@@ -458,6 +442,14 @@
       "volume": 90718,
       "deliverable_qty": 51267,
       "delivery_pct": 56.51
+    },
+    {
+      "date": "2026-05-20",
+      "close": 453.0,
+      "prev_close": 448.9,
+      "volume": 131223,
+      "deliverable_qty": 80238,
+      "delivery_pct": 61.15
     }
   ],
   "news": [
@@ -635,20 +627,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "MM Forgings Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MMFL_19022026153721_MMFTran.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 16:57:44",
-      "an_dt": "17-Feb-2026 16:57:44",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "MM Forgings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MMFL_17022026165736_MMFInsMeetRec.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 10:54:42",
-      "an_dt": "17-Feb-2026 10:54:42",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "MM Forgings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MMFL_17022026105435_MMFNP.pdf"
     }
   ]
 }

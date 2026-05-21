@@ -8,25 +8,9 @@
   "price": 73.56,
   "market_cap_cr": 1897.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 75.43,
-      "prev_close": 77.18,
-      "volume": 6746634,
-      "deliverable_qty": 2127162,
-      "delivery_pct": 31.53
-    },
-    {
-      "date": "2026-02-18",
-      "close": 77.85,
-      "prev_close": 75.43,
-      "volume": 2510875,
-      "deliverable_qty": 723414,
-      "delivery_pct": 28.81
-    },
     {
       "date": "2026-02-19",
       "close": 75.09,
@@ -458,9 +442,24 @@
       "volume": 1590483,
       "deliverable_qty": 472653,
       "delivery_pct": 29.72
+    },
+    {
+      "date": "2026-05-20",
+      "close": 65.39,
+      "prev_close": 67.22,
+      "volume": 2526600,
+      "deliverable_qty": 1067509,
+      "delivery_pct": 42.25
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 18:19:50",
+      "an_dt": "19-May-2026 18:19:50",
+      "desc": "Disclosure of material issue",
+      "sm_name": "Vikran Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIKRAN123_19052026181816_Revised-Completion_of_Acquistion_of_NOPL.pdf"
+    },
     {
       "sort_date": "2026-05-18 18:21:17",
       "an_dt": "18-May-2026 18:21:17",

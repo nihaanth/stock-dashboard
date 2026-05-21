@@ -8,25 +8,9 @@
   "price": 423.65,
   "market_cap_cr": 2791.84,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 369.95,
-      "prev_close": 369.55,
-      "volume": 81786,
-      "deliverable_qty": 43524,
-      "delivery_pct": 53.22
-    },
-    {
-      "date": "2026-02-18",
-      "close": 368.4,
-      "prev_close": 369.95,
-      "volume": 53535,
-      "deliverable_qty": 25095,
-      "delivery_pct": 46.88
-    },
     {
       "date": "2026-02-19",
       "close": 361.45,
@@ -458,9 +442,24 @@
       "volume": 329131,
       "deliverable_qty": 148418,
       "delivery_pct": 45.09
+    },
+    {
+      "date": "2026-05-20",
+      "close": 543.65,
+      "prev_close": 543.25,
+      "volume": 135659,
+      "deliverable_qty": 64035,
+      "delivery_pct": 47.2
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 17:54:14",
+      "an_dt": "20-May-2026 17:54:14",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Rashi Peripherals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RASHI2024_20052026175323_SEInvestors_Concall_Transcript_signed.pdf"
+    },
     {
       "sort_date": "2026-05-17 14:31:49",
       "an_dt": "17-May-2026 14:31:49",

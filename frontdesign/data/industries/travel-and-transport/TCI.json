@@ -8,25 +8,9 @@
   "price": 938.2,
   "market_cap_cr": 7200.1,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1050.3,
-      "prev_close": 1045.5,
-      "volume": 29991,
-      "deliverable_qty": 11042,
-      "delivery_pct": 36.82
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1047.6,
-      "prev_close": 1050.3,
-      "volume": 11361,
-      "deliverable_qty": 6327,
-      "delivery_pct": 55.69
-    },
     {
       "date": "2026-02-19",
       "close": 1019.8,
@@ -458,6 +442,14 @@
       "volume": 73098,
       "deliverable_qty": 41377,
       "delivery_pct": 56.6
+    },
+    {
+      "date": "2026-05-20",
+      "close": 886.0,
+      "prev_close": 877.7,
+      "volume": 36350,
+      "deliverable_qty": 11052,
+      "delivery_pct": 30.4
     }
   ],
   "news": [
@@ -565,13 +557,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Transport Corporation of India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ak_bansal_tcil_com_20022026134517_TCIL.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 10:35:06",
-      "an_dt": "17-Feb-2026 10:35:06",
-      "desc": "Press Release",
-      "sm_name": "Transport Corporation of India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ak_bansal_tcil_com_17022026103445_TCIL.pdf"
     }
   ]
 }

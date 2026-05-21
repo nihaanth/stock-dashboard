@@ -8,25 +8,9 @@
   "price": 789.2,
   "market_cap_cr": 15512.76,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 777.0,
-      "prev_close": 769.85,
-      "volume": 23090,
-      "deliverable_qty": 8367,
-      "delivery_pct": 36.24
-    },
-    {
-      "date": "2026-02-18",
-      "close": 775.3,
-      "prev_close": 777.0,
-      "volume": 34931,
-      "deliverable_qty": 12724,
-      "delivery_pct": 36.43
-    },
     {
       "date": "2026-02-19",
       "close": 767.5,
@@ -458,6 +442,14 @@
       "volume": 327979,
       "deliverable_qty": 111330,
       "delivery_pct": 33.94
+    },
+    {
+      "date": "2026-05-20",
+      "close": 752.35,
+      "prev_close": 751.1,
+      "volume": 68947,
+      "deliverable_qty": 31147,
+      "delivery_pct": 45.18
     }
   ],
   "news": [
@@ -789,13 +781,6 @@
       "desc": "Press Release",
       "sm_name": "Alembic Pharmaceuticals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/APLLTD_24022026142833_Intimation_to_SE_Press_Release_FA.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 22:59:25",
-      "an_dt": "18-Feb-2026 22:59:25",
-      "desc": "General Updates",
-      "sm_name": "Alembic Pharmaceuticals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APLLTD_18022026225506_APL_Completion_USFDA_F3_Karakhadi_18022026S.pdf"
     }
   ]
 }

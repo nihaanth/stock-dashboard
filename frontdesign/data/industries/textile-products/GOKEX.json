@@ -8,25 +8,9 @@
   "price": 712.9,
   "market_cap_cr": 5223.68,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 799.65,
-      "prev_close": 826.25,
-      "volume": 860538,
-      "deliverable_qty": 284255,
-      "delivery_pct": 33.03
-    },
-    {
-      "date": "2026-02-18",
-      "close": 785.85,
-      "prev_close": 799.65,
-      "volume": 773371,
-      "deliverable_qty": 224968,
-      "delivery_pct": 29.09
-    },
     {
       "date": "2026-02-19",
       "close": 776.5,
@@ -458,9 +442,24 @@
       "volume": 218754,
       "deliverable_qty": 77174,
       "delivery_pct": 35.28
+    },
+    {
+      "date": "2026-05-20",
+      "close": 681.4,
+      "prev_close": 691.4,
+      "volume": 349582,
+      "deliverable_qty": 100802,
+      "delivery_pct": 28.84
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 17:24:24",
+      "an_dt": "19-May-2026 17:24:24",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Gokaldas Exports Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOKEX_19052026172415_intimationofinvestorscall.pdf"
+    },
     {
       "sort_date": "2026-05-15 20:08:06",
       "an_dt": "15-May-2026 20:08:06",
@@ -530,13 +529,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Gokaldas Exports Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOKEX_19022026182950_investorscallintimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 14:33:47",
-      "an_dt": "17-Feb-2026 14:33:47",
-      "desc": "General Updates",
-      "sm_name": "Gokaldas Exports Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOKEX_17022026143335_seintimationshiftingofRO.pdf"
     }
   ]
 }

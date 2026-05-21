@@ -8,25 +8,9 @@
   "price": 343.85,
   "market_cap_cr": 2388.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 331.45,
-      "prev_close": 324.6,
-      "volume": 91401,
-      "deliverable_qty": 40318,
-      "delivery_pct": 44.11
-    },
-    {
-      "date": "2026-02-18",
-      "close": 331.95,
-      "prev_close": 331.45,
-      "volume": 39395,
-      "deliverable_qty": 20912,
-      "delivery_pct": 53.08
-    },
     {
       "date": "2026-02-19",
       "close": 325.1,
@@ -458,9 +442,45 @@
       "volume": 219324,
       "deliverable_qty": 107554,
       "delivery_pct": 49.04
+    },
+    {
+      "date": "2026-05-20",
+      "close": 306.2,
+      "prev_close": 308.75,
+      "volume": 133609,
+      "deliverable_qty": 50578,
+      "delivery_pct": 37.86
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 16:31:22",
+      "an_dt": "20-May-2026 16:31:22",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "HLE Glascoat Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HLEGLASCOAT_20052026162902_HLE_Call_Invite_Q4_FY26.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 15:41:41",
+      "an_dt": "20-May-2026 15:41:41",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "HLE Glascoat Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HLEGLASCOAT_20052026154126_NEWSPAPERADVERTISEMENT_AFRQ42025_26_sd.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 15:33:34",
+      "an_dt": "20-May-2026 15:33:34",
+      "desc": "Investor Presentation",
+      "sm_name": "HLE Glascoat Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HLEGLASCOAT_20052026152945_HGL_Investor_Presentation_Q4FY26.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 14:14:45",
+      "an_dt": "19-May-2026 14:14:45",
+      "desc": "Press Release",
+      "sm_name": "HLE Glascoat Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HLEGLASCOAT_19052026141435_HGL_Investor_Release_Q4FY26.pdf"
+    },
     {
       "sort_date": "2026-05-18 18:51:28",
       "an_dt": "18-May-2026 18:51:28",

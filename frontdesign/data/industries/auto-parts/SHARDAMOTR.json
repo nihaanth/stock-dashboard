@@ -8,25 +8,9 @@
   "price": 814.0,
   "market_cap_cr": 4672.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 949.05,
-      "prev_close": 931.15,
-      "volume": 32779,
-      "deliverable_qty": 17124,
-      "delivery_pct": 52.24
-    },
-    {
-      "date": "2026-02-18",
-      "close": 977.15,
-      "prev_close": 949.05,
-      "volume": 115174,
-      "deliverable_qty": 34682,
-      "delivery_pct": 30.11
-    },
     {
       "date": "2026-02-19",
       "close": 943.0,
@@ -458,9 +442,24 @@
       "volume": 53287,
       "deliverable_qty": 27257,
       "delivery_pct": 51.15
+    },
+    {
+      "date": "2026-05-20",
+      "close": 884.3,
+      "prev_close": 882.7,
+      "volume": 36244,
+      "deliverable_qty": 22443,
+      "delivery_pct": 61.92
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 10:37:42",
+      "an_dt": "19-May-2026 10:37:42",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Sharda Motor Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHARDACHIRAG_19052026103721_Intimation19052026.pdf"
+    },
     {
       "sort_date": "2026-04-14 16:51:01",
       "an_dt": "14-Apr-2026 16:51:01",

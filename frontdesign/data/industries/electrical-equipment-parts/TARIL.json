@@ -8,25 +8,9 @@
   "price": 313.75,
   "market_cap_cr": 9417.7,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 274.03,
-      "prev_close": 270.56,
-      "volume": 1804263,
-      "deliverable_qty": 462943,
-      "delivery_pct": 25.66
-    },
-    {
-      "date": "2026-02-18",
-      "close": 299.81,
-      "prev_close": 274.03,
-      "volume": 36452560,
-      "deliverable_qty": 4050786,
-      "delivery_pct": 11.11
-    },
     {
       "date": "2026-02-19",
       "close": 304.22,
@@ -458,9 +442,24 @@
       "volume": 2065179,
       "deliverable_qty": 743592,
       "delivery_pct": 36.01
+    },
+    {
+      "date": "2026-05-20",
+      "close": 304.75,
+      "prev_close": 297.4,
+      "volume": 3174167,
+      "deliverable_qty": 953649,
+      "delivery_pct": 30.04
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 11:53:44",
+      "an_dt": "19-May-2026 11:53:44",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "Transformers And Rectifiers (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRIL_19052026115328_IntimationOrder19052026.pdf"
+    },
     {
       "sort_date": "2026-04-27 09:12:06",
       "an_dt": "27-Apr-2026 09:12:06",

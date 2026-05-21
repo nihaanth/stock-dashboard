@@ -8,25 +8,9 @@
   "price": 170.02,
   "market_cap_cr": 1581.9,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 200.1,
-      "prev_close": 196.6,
-      "volume": 1446979,
-      "deliverable_qty": 310517,
-      "delivery_pct": 21.46
-    },
-    {
-      "date": "2026-02-18",
-      "close": 197.6,
-      "prev_close": 200.1,
-      "volume": 630186,
-      "deliverable_qty": 165865,
-      "delivery_pct": 26.32
-    },
     {
       "date": "2026-02-19",
       "close": 190.56,
@@ -458,9 +442,24 @@
       "volume": 3506404,
       "deliverable_qty": 824287,
       "delivery_pct": 23.51
+    },
+    {
+      "date": "2026-05-20",
+      "close": 172.14,
+      "prev_close": 169.91,
+      "volume": 638023,
+      "deliverable_qty": 190292,
+      "delivery_pct": 29.83
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 14:31:04",
+      "an_dt": "19-May-2026 14:31:04",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Garuda Construction and Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GARUDACONSTRUCTION2010_19052026142832_Covering_final_signed.pdf"
+    },
     {
       "sort_date": "2026-05-18 10:18:50",
       "an_dt": "18-May-2026 10:18:50",

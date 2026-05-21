@@ -8,25 +8,9 @@
   "price": 2011.7,
   "market_cap_cr": 6436.79,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1859.9,
-      "prev_close": 1825.1,
-      "volume": 88512,
-      "deliverable_qty": 44988,
-      "delivery_pct": 50.83
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1857.8,
-      "prev_close": 1859.9,
-      "volume": 44793,
-      "deliverable_qty": 22282,
-      "delivery_pct": 49.74
-    },
     {
       "date": "2026-02-19",
       "close": 1841.1,
@@ -458,9 +442,38 @@
       "volume": 46393,
       "deliverable_qty": 21719,
       "delivery_pct": 46.82
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1966.4,
+      "prev_close": 1982.3,
+      "volume": 63190,
+      "deliverable_qty": 26355,
+      "delivery_pct": 41.71
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 18:06:06",
+      "an_dt": "20-May-2026 18:06:06",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "S.J.S. Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SJS_20052026180554_AmbitCapitalInvestorMeeting26052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 18:01:07",
+      "an_dt": "20-May-2026 18:01:07",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "S.J.S. Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SJS_20052026180056_Philips.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 19:22:25",
+      "an_dt": "19-May-2026 19:22:25",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "S.J.S. Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SJS_19052026192208_CentrumBrokingInvestorMeeting220526.pdf"
+    },
     {
       "sort_date": "2026-05-16 12:01:57",
       "an_dt": "16-May-2026 12:01:57",

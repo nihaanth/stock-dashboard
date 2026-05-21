@@ -8,25 +8,9 @@
   "price": 444.55,
   "market_cap_cr": 19404.61,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 490.6,
-      "prev_close": 488.1,
-      "volume": 192399,
-      "deliverable_qty": 102856,
-      "delivery_pct": 53.46
-    },
-    {
-      "date": "2026-02-18",
-      "close": 488.15,
-      "prev_close": 490.6,
-      "volume": 268900,
-      "deliverable_qty": 137026,
-      "delivery_pct": 50.96
-    },
     {
       "date": "2026-02-19",
       "close": 485.6,
@@ -458,6 +442,14 @@
       "volume": 244219,
       "deliverable_qty": 119271,
       "delivery_pct": 48.84
+    },
+    {
+      "date": "2026-05-20",
+      "close": 428.8,
+      "prev_close": 435.05,
+      "volume": 132262,
+      "deliverable_qty": 70110,
+      "delivery_pct": 53.01
     }
   ],
   "news": [
@@ -572,13 +564,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Emami Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMAMILTD2_19022026125536_Intimation_Letter_Investor_Meet_Cancellation_19-02-26_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 19:07:54",
-      "an_dt": "17-Feb-2026 19:07:54",
-      "desc": "Disclosure under SEBI Takeover Regulations",
-      "sm_name": "Emami Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_17022026185311_EMAMILTD.pdf"
     }
   ]
 }

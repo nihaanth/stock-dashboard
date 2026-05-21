@@ -8,25 +8,9 @@
   "price": 1226.8,
   "market_cap_cr": 25640.12,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1339.4,
-      "prev_close": 1353.7,
-      "volume": 901508,
-      "deliverable_qty": 343072,
-      "delivery_pct": 38.06
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1355.7,
-      "prev_close": 1339.4,
-      "volume": 1366930,
-      "deliverable_qty": 530243,
-      "delivery_pct": 38.79
-    },
     {
       "date": "2026-02-19",
       "close": 1320.3,
@@ -458,6 +442,14 @@
       "volume": 1892291,
       "deliverable_qty": 599209,
       "delivery_pct": 31.67
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1224.6,
+      "prev_close": 1209.5,
+      "volume": 1750026,
+      "deliverable_qty": 564350,
+      "delivery_pct": 32.25
     }
   ],
   "news": [
@@ -579,27 +571,6 @@
       "desc": "Updates",
       "sm_name": "Central Depository Services (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CDSL_25022026154529_NSE_Intimation_CIRLproposed_investment_final.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 19:45:16",
-      "an_dt": "18-Feb-2026 19:45:16",
-      "desc": "Change in Director(s)",
-      "sm_name": "Central Depository Services (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CDSL_18022026194456_Intimation_of_Appointment_of_PIDs_GK_RT_18Feb2026_Sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:24:40",
-      "an_dt": "17-Feb-2026 18:24:40",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Central Depository Services (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CDSL_17022026182347_ConCallInvite_Feb25_2026_Sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:21:46",
-      "an_dt": "17-Feb-2026 18:21:46",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Central Depository Services (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CDSL_17022026182117_ConCallInvite_Feb24_2026_Sd.pdf"
     }
   ]
 }

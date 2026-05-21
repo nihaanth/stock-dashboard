@@ -8,25 +8,9 @@
   "price": 140.93,
   "market_cap_cr": 13479.48,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 137.78,
-      "prev_close": 135.99,
-      "volume": 1547647,
-      "deliverable_qty": 539607,
-      "delivery_pct": 34.87
-    },
-    {
-      "date": "2026-02-18",
-      "close": 142.81,
-      "prev_close": 137.78,
-      "volume": 7557411,
-      "deliverable_qty": 1943796,
-      "delivery_pct": 25.72
-    },
     {
       "date": "2026-02-19",
       "close": 138.1,
@@ -458,9 +442,24 @@
       "volume": 1826062,
       "deliverable_qty": 817431,
       "delivery_pct": 44.76
+    },
+    {
+      "date": "2026-05-20",
+      "close": 128.1,
+      "prev_close": 129.05,
+      "volume": 2113332,
+      "deliverable_qty": 870835,
+      "delivery_pct": 41.21
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 21:02:03",
+      "an_dt": "19-May-2026 21:02:03",
+      "desc": "Options to purchase securities",
+      "sm_name": "JM Financial Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JMFINANCIL_19052026210041_ESOPGrantIntimation19052026signed.pdf"
+    },
     {
       "sort_date": "2026-05-05 21:07:46",
       "an_dt": "05-May-2026 21:07:46",

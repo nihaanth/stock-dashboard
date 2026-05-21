@@ -8,25 +8,9 @@
   "price": 293.5,
   "market_cap_cr": 4832.11,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 319.65,
-      "prev_close": 315.75,
-      "volume": 391743,
-      "deliverable_qty": 246428,
-      "delivery_pct": 62.91
-    },
-    {
-      "date": "2026-02-18",
-      "close": 319.85,
-      "prev_close": 319.65,
-      "volume": 254061,
-      "deliverable_qty": 119397,
-      "delivery_pct": 47.0
-    },
     {
       "date": "2026-02-19",
       "close": 316.9,
@@ -458,9 +442,24 @@
       "volume": 359884,
       "deliverable_qty": 178012,
       "delivery_pct": 49.46
+    },
+    {
+      "date": "2026-05-20",
+      "close": 305.95,
+      "prev_close": 305.65,
+      "volume": 377538,
+      "deliverable_qty": 203581,
+      "delivery_pct": 53.92
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 18:46:13",
+      "an_dt": "19-May-2026 18:46:13",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "CMS Info Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CMSINFO_19052026184352_SEfilingtranscriptmay26.pdf"
+    },
     {
       "sort_date": "2026-05-18 15:54:47",
       "an_dt": "18-May-2026 15:54:47",
@@ -607,20 +606,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "CMS Info Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CMSINFO_19022026152428_NewspaperPublicationPostalBallotNoticedispatchFeb2026SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 19:15:15",
-      "an_dt": "18-Feb-2026 19:15:15",
-      "desc": "Shareholders meeting",
-      "sm_name": "CMS Info Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CMSINFO_18022026191207_SEPBfinalfeb26.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 18:32:14",
-      "an_dt": "18-Feb-2026 18:32:14",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "CMS Info Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CMSINFO_18022026183116_SEtranscriptfeb26.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 174.84,
   "market_cap_cr": 1101.69,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 211.94,
-      "prev_close": 196.26,
-      "volume": 27042846,
-      "deliverable_qty": 1184138,
-      "delivery_pct": 4.38
-    },
-    {
-      "date": "2026-02-18",
-      "close": 194.94,
-      "prev_close": 211.94,
-      "volume": 2670467,
-      "deliverable_qty": 356712,
-      "delivery_pct": 13.36
-    },
     {
       "date": "2026-02-19",
       "close": 204.57,
@@ -458,9 +442,24 @@
       "volume": 203486,
       "deliverable_qty": 85121,
       "delivery_pct": 41.83
+    },
+    {
+      "date": "2026-05-20",
+      "close": 183.89,
+      "prev_close": 181.43,
+      "volume": 167295,
+      "deliverable_qty": 65558,
+      "delivery_pct": 39.19
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 18:59:55",
+      "an_dt": "20-May-2026 18:59:55",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Bharat Seats Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_16042026183227_BHARATSE.pdf"
+    },
     {
       "sort_date": "2026-05-12 11:07:39",
       "an_dt": "12-May-2026 11:07:39",

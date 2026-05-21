@@ -8,25 +8,9 @@
   "price": 3905.6,
   "market_cap_cr": 36447.2,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 3945.0,
-      "prev_close": 3867.1,
-      "volume": 31700,
-      "deliverable_qty": 17001,
-      "delivery_pct": 53.63
-    },
-    {
-      "date": "2026-02-18",
-      "close": 4021.5,
-      "prev_close": 3945.0,
-      "volume": 48408,
-      "deliverable_qty": 24849,
-      "delivery_pct": 51.33
-    },
     {
       "date": "2026-02-19",
       "close": 3960.2,
@@ -458,9 +442,24 @@
       "volume": 24804,
       "deliverable_qty": 15093,
       "delivery_pct": 60.85
+    },
+    {
+      "date": "2026-05-20",
+      "close": 3962.2,
+      "prev_close": 4002.6,
+      "volume": 19072,
+      "deliverable_qty": 11647,
+      "delivery_pct": 61.07
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 16:38:34",
+      "an_dt": "19-May-2026 16:38:34",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "AIA Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AIAENG_19052026163817_IntimationofConferenceCall260526.pdf"
+    },
     {
       "sort_date": "2026-04-28 18:05:54",
       "an_dt": "28-Apr-2026 18:05:54",

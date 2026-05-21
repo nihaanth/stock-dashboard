@@ -8,25 +8,9 @@
   "price": 440.55,
   "market_cap_cr": 910.63,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 510.15,
-      "prev_close": 513.8,
-      "volume": 11853,
-      "deliverable_qty": 7840,
-      "delivery_pct": 66.14
-    },
-    {
-      "date": "2026-02-18",
-      "close": 484.55,
-      "prev_close": 510.15,
-      "volume": 434765,
-      "deliverable_qty": 133936,
-      "delivery_pct": 30.81
-    },
     {
       "date": "2026-02-19",
       "close": 471.0,
@@ -458,9 +442,24 @@
       "volume": 6356,
       "deliverable_qty": 3194,
       "delivery_pct": 50.25
+    },
+    {
+      "date": "2026-05-20",
+      "close": 422.05,
+      "prev_close": 420.45,
+      "volume": 10113,
+      "deliverable_qty": 8484,
+      "delivery_pct": 83.89
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 17:42:56",
+      "an_dt": "20-May-2026 17:42:56",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Matrimony.Com Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MATRIMONY_20052026174147_NSEConcalltranscript20May2026.pdf"
+    },
     {
       "sort_date": "2026-05-15 16:05:25",
       "an_dt": "15-May-2026 16:05:25",

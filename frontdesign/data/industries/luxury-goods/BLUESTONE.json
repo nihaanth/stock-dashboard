@@ -8,25 +8,9 @@
   "price": 474.05,
   "market_cap_cr": 7222.67,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 406.2,
-      "prev_close": 410.5,
-      "volume": 319357,
-      "deliverable_qty": 114662,
-      "delivery_pct": 35.9
-    },
-    {
-      "date": "2026-02-18",
-      "close": 419.6,
-      "prev_close": 406.2,
-      "volume": 279726,
-      "deliverable_qty": 87621,
-      "delivery_pct": 31.32
-    },
     {
       "date": "2026-02-19",
       "close": 425.9,
@@ -458,9 +442,31 @@
       "volume": 165545,
       "deliverable_qty": 76284,
       "delivery_pct": 46.08
+    },
+    {
+      "date": "2026-05-20",
+      "close": 462.75,
+      "prev_close": 463.05,
+      "volume": 76756,
+      "deliverable_qty": 36689,
+      "delivery_pct": 47.8
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 13:17:26",
+      "an_dt": "19-May-2026 13:17:26",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "BlueStone Jewellery and Lifestyle Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLUESTONE_19052026131412_DisclosureunderRegulation30.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 13:06:37",
+      "an_dt": "19-May-2026 13:06:37",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "BlueStone Jewellery and Lifestyle Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLUESTONE_19052026130628_DisclosureunderRegulation30.pdf"
+    },
     {
       "sort_date": "2026-05-04 17:14:38",
       "an_dt": "04-May-2026 17:14:38",
@@ -621,13 +627,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "BlueStone Jewellery and Lifestyle Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLUESTONE_19022026145856_DisclosureunderRegulation30.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:25:14",
-      "an_dt": "17-Feb-2026 18:25:14",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "BlueStone Jewellery and Lifestyle Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLUESTONE_17022026182341_DisclosureunderRegulation30.pdf"
     }
   ]
 }

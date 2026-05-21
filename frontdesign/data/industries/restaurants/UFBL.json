@@ -8,25 +8,9 @@
   "price": 292.16,
   "market_cap_cr": 1141.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 252.72,
-      "prev_close": 253.54,
-      "volume": 30159,
-      "deliverable_qty": 19203,
-      "delivery_pct": 63.67
-    },
-    {
-      "date": "2026-02-18",
-      "close": 261.23,
-      "prev_close": 252.72,
-      "volume": 31092,
-      "deliverable_qty": 20681,
-      "delivery_pct": 66.52
-    },
     {
       "date": "2026-02-19",
       "close": 249.61,
@@ -458,9 +442,52 @@
       "volume": 83669,
       "deliverable_qty": 49120,
       "delivery_pct": 58.71
+    },
+    {
+      "date": "2026-05-20",
+      "close": 400.8,
+      "prev_close": 334.0,
+      "volume": 4291214,
+      "deliverable_qty": 996152,
+      "delivery_pct": 23.21
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 15:28:49",
+      "an_dt": "20-May-2026 15:28:49",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "United Foodbrands Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BARBEQUE_20052026152647_AudioRecordingOfEarningsCallQ4FY26.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 12:48:44",
+      "an_dt": "20-May-2026 12:48:44",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "United Foodbrands Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BARBEQUE_20052026124740_NewspaperAdApprovalofFinancialResults.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 14:01:35",
+      "an_dt": "19-May-2026 14:01:35",
+      "desc": "Investor Presentation",
+      "sm_name": "United Foodbrands Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BARBEQUE_19052026140124_EP.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 13:52:07",
+      "an_dt": "19-May-2026 13:52:07",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "United Foodbrands Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BARBEQUE_19052026135122_ESOPGrant19052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 13:32:59",
+      "an_dt": "19-May-2026 13:32:59",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "United Foodbrands Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BARBEQUE_19052026132905_OutcomeOfBM.pdf"
+    },
     {
       "sort_date": "2026-05-15 17:09:49",
       "an_dt": "15-May-2026 17:09:49",
@@ -565,20 +592,6 @@
       "desc": "Acquisition",
       "sm_name": "United Foodbrands Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BARBEQUE_25022026122150_IncorporationofSDSQatar.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 18:14:36",
-      "an_dt": "18-Feb-2026 18:14:36",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "United Foodbrands Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BARBEQUE_18022026181259_PostalballotNoticeNewspaperPublication.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 16:23:29",
-      "an_dt": "17-Feb-2026 16:23:29",
-      "desc": "Shareholders meeting",
-      "sm_name": "United Foodbrands Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BARBEQUE_17022026162135_SEIntimationPostalBallotNotice.pdf"
     }
   ]
 }

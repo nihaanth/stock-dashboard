@@ -8,25 +8,9 @@
   "price": 1643.6,
   "market_cap_cr": 1239.42,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1664.9,
-      "prev_close": 1693.8,
-      "volume": 11281,
-      "deliverable_qty": 6284,
-      "delivery_pct": 55.7
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1607.1,
-      "prev_close": 1664.9,
-      "volume": 9935,
-      "deliverable_qty": 6275,
-      "delivery_pct": 63.16
-    },
     {
       "date": "2026-02-19",
       "close": 1603.1,
@@ -458,9 +442,31 @@
       "volume": 13906,
       "deliverable_qty": 7663,
       "delivery_pct": 55.11
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1351.7,
+      "prev_close": 1357.2,
+      "volume": 3559,
+      "deliverable_qty": 2079,
+      "delivery_pct": 58.42
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 11:34:34",
+      "an_dt": "20-May-2026 11:34:34",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "BirlaNu Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HIL_20052026113421_SE_Intimation_IEPF_NOTICE_20-05-2026_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 13:00:02",
+      "an_dt": "19-May-2026 13:00:02",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "BirlaNu Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/sumedha_19052026125936_SE_Intimation_Transcript_19-05-2026_signed.pdf"
+    },
     {
       "sort_date": "2026-05-13 18:20:07",
       "an_dt": "13-May-2026 18:20:07",
@@ -558,13 +564,6 @@
       "desc": "Scheme of Arrangement",
       "sm_name": "BirlaNu Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HIL_11032026121410_SE_Intimation-Copy_of_NCLT_Order_11032026_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 22:42:14",
-      "an_dt": "17-Feb-2026 22:42:14",
-      "desc": "Resignation",
-      "sm_name": "BirlaNu Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HIL_17022026224158_ResignationofSMPdated17022026Signed.pdf"
     }
   ]
 }

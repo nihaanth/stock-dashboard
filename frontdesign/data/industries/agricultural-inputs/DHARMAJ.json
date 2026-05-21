@@ -8,25 +8,9 @@
   "price": 261.25,
   "market_cap_cr": 882.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 236.11,
-      "prev_close": 233.25,
-      "volume": 23946,
-      "deliverable_qty": 13636,
-      "delivery_pct": 56.94
-    },
-    {
-      "date": "2026-02-18",
-      "close": 236.48,
-      "prev_close": 236.11,
-      "volume": 19548,
-      "deliverable_qty": 11689,
-      "delivery_pct": 59.8
-    },
     {
       "date": "2026-02-19",
       "close": 235.05,
@@ -458,6 +442,14 @@
       "volume": 57683,
       "deliverable_qty": 32875,
       "delivery_pct": 56.99
+    },
+    {
+      "date": "2026-05-20",
+      "close": 265.1,
+      "prev_close": 266.2,
+      "volume": 31415,
+      "deliverable_qty": 11037,
+      "delivery_pct": 35.13
     }
   ],
   "news": [
@@ -509,13 +501,6 @@
       "desc": "Updates",
       "sm_name": "Dharmaj Crop Guard Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DHARMAJ_27022026130005_BSENSE.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 15:51:30",
-      "an_dt": "18-Feb-2026 15:51:30",
-      "desc": "Credit Rating",
-      "sm_name": "Dharmaj Crop Guard Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DHARMAJ_18022026155117_Creditratingbycarebsense.pdf"
     }
   ]
 }

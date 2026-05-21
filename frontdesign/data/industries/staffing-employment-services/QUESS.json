@@ -8,25 +8,9 @@
   "price": 220.45,
   "market_cap_cr": 3292.01,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 207.62,
-      "prev_close": 207.05,
-      "volume": 74747,
-      "deliverable_qty": 35998,
-      "delivery_pct": 48.16
-    },
-    {
-      "date": "2026-02-18",
-      "close": 208.01,
-      "prev_close": 207.62,
-      "volume": 78314,
-      "deliverable_qty": 38279,
-      "delivery_pct": 48.88
-    },
     {
       "date": "2026-02-19",
       "close": 205.67,
@@ -458,9 +442,24 @@
       "volume": 204530,
       "deliverable_qty": 97565,
       "delivery_pct": 47.7
+    },
+    {
+      "date": "2026-05-20",
+      "close": 201.86,
+      "prev_close": 205.46,
+      "volume": 110264,
+      "deliverable_qty": 56439,
+      "delivery_pct": 51.19
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 18:20:47",
+      "an_dt": "20-May-2026 18:20:47",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Quess Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_20052026181803_SE_Intimation_investor_meeting_27052026.pdf"
+    },
     {
       "sort_date": "2026-05-13 17:54:10",
       "an_dt": "13-May-2026 17:54:10",
@@ -555,7 +554,7 @@
     {
       "sort_date": "2026-05-04 23:27:17",
       "an_dt": "04-May-2026 23:27:17",
-      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
+      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
       "sm_name": "Quess Corp Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Quesscorp_04052026232701_SE_Intimation_outcome_of_BM_updated_1.pdf"
     },

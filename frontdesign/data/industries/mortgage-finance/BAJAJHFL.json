@@ -8,25 +8,9 @@
   "price": 85.03,
   "market_cap_cr": 70818.61,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 88.74,
-      "prev_close": 88.83,
-      "volume": 4557844,
-      "deliverable_qty": 2396642,
-      "delivery_pct": 52.58
-    },
-    {
-      "date": "2026-02-18",
-      "close": 88.76,
-      "prev_close": 88.74,
-      "volume": 2671777,
-      "deliverable_qty": 1659026,
-      "delivery_pct": 62.09
-    },
     {
       "date": "2026-02-19",
       "close": 88.19,
@@ -458,9 +442,24 @@
       "volume": 4032753,
       "deliverable_qty": 1956295,
       "delivery_pct": 48.51
+    },
+    {
+      "date": "2026-05-20",
+      "close": 82.65,
+      "prev_close": 83.9,
+      "volume": 2845934,
+      "deliverable_qty": 1765985,
+      "delivery_pct": 62.05
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 16:09:51",
+      "an_dt": "19-May-2026 16:09:51",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Bajaj Housing Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHFL_19052026160344_Schedule_of_institutional_investor_meet_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-18 12:19:30",
       "an_dt": "18-May-2026 12:19:30",

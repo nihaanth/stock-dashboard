@@ -8,25 +8,9 @@
   "price": 1308.9,
   "market_cap_cr": 3970.24,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1373.6,
-      "prev_close": 1376.6,
-      "volume": 17363,
-      "deliverable_qty": 7619,
-      "delivery_pct": 43.88
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1367.0,
-      "prev_close": 1373.6,
-      "volume": 30922,
-      "deliverable_qty": 18910,
-      "delivery_pct": 61.15
-    },
     {
       "date": "2026-02-19",
       "close": 1327.8,
@@ -458,9 +442,31 @@
       "volume": 35000,
       "deliverable_qty": 19003,
       "delivery_pct": 54.29
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1202.6,
+      "prev_close": 1205.4,
+      "volume": 8341,
+      "deliverable_qty": 4773,
+      "delivery_pct": 57.22
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 19:15:29",
+      "an_dt": "19-May-2026 19:15:29",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Zota Health Care LImited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZOTA_19052026191409_IntEC19052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 18:54:03",
+      "an_dt": "19-May-2026 18:54:03",
+      "desc": "Press Release",
+      "sm_name": "Zota Health Care LImited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZOTA_19052026185307_PressRelease19052026.pdf"
+    },
     {
       "sort_date": "2026-05-14 13:05:00",
       "an_dt": "14-May-2026 13:05:00",

@@ -8,25 +8,9 @@
   "price": 130.61,
   "market_cap_cr": 3673.21,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 145.47,
-      "prev_close": 137.3,
-      "volume": 4473002,
-      "deliverable_qty": 712521,
-      "delivery_pct": 15.93
-    },
-    {
-      "date": "2026-02-18",
-      "close": 143.55,
-      "prev_close": 145.47,
-      "volume": 1136234,
-      "deliverable_qty": 372072,
-      "delivery_pct": 32.75
-    },
     {
       "date": "2026-02-19",
       "close": 142.77,
@@ -458,9 +442,24 @@
       "volume": 1462879,
       "deliverable_qty": 599265,
       "delivery_pct": 40.96
+    },
+    {
+      "date": "2026-05-20",
+      "close": 128.17,
+      "prev_close": 126.76,
+      "volume": 946155,
+      "deliverable_qty": 427938,
+      "delivery_pct": 45.23
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 10:03:45",
+      "an_dt": "20-May-2026 10:03:45",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "KNR Constructions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20042026175235_KNRCON.pdf"
+    },
     {
       "sort_date": "2026-04-23 14:27:37",
       "an_dt": "23-Apr-2026 14:27:37",
@@ -544,20 +543,6 @@
       "desc": "Action(s) taken or orders passed",
       "sm_name": "KNR Constructions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KNRCON_19022026124237_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:39:23",
-      "an_dt": "17-Feb-2026 17:39:23",
-      "desc": "Action(s) taken or orders passed",
-      "sm_name": "KNR Constructions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KNRCON_17022026173915_Intimation17022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 14:07:17",
-      "an_dt": "17-Feb-2026 14:07:17",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "KNR Constructions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KNRCON_17022026140711_LOAIntimation.pdf"
     }
   ]
 }

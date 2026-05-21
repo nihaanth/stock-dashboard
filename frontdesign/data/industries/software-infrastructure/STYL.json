@@ -8,25 +8,9 @@
   "price": 230.04,
   "market_cap_cr": 3722.18,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 251.6,
-      "prev_close": 251.21,
-      "volume": 68928,
-      "deliverable_qty": 37568,
-      "delivery_pct": 54.5
-    },
-    {
-      "date": "2026-02-18",
-      "close": 249.39,
-      "prev_close": 251.6,
-      "volume": 139591,
-      "deliverable_qty": 122899,
-      "delivery_pct": 88.04
-    },
     {
       "date": "2026-02-19",
       "close": 249.44,
@@ -458,9 +442,31 @@
       "volume": 1041675,
       "deliverable_qty": 348202,
       "delivery_pct": 33.43
+    },
+    {
+      "date": "2026-05-20",
+      "close": 254.92,
+      "prev_close": 270.11,
+      "volume": 1272483,
+      "deliverable_qty": 495560,
+      "delivery_pct": 38.94
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 17:54:35",
+      "an_dt": "20-May-2026 17:54:35",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Seshaasai Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SESHTECH2024_20052026175202_Newspaper_Publication_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 23:10:54",
+      "an_dt": "19-May-2026 23:10:54",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Seshaasai Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SESHTECH2024_19052026231029_Audio_recording_signed.pdf"
+    },
     {
       "sort_date": "2026-05-18 23:26:58",
       "an_dt": "18-May-2026 23:26:58",

@@ -8,25 +8,9 @@
   "price": 297.95,
   "market_cap_cr": 1592.54,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 245.35,
-      "prev_close": 240.96,
-      "volume": 111145,
-      "deliverable_qty": 55777,
-      "delivery_pct": 50.18
-    },
-    {
-      "date": "2026-02-18",
-      "close": 243.17,
-      "prev_close": 245.35,
-      "volume": 35242,
-      "deliverable_qty": 21647,
-      "delivery_pct": 61.42
-    },
     {
       "date": "2026-02-19",
       "close": 241.89,
@@ -458,9 +442,24 @@
       "volume": 34189,
       "deliverable_qty": 18261,
       "delivery_pct": 53.41
+    },
+    {
+      "date": "2026-05-20",
+      "close": 281.35,
+      "prev_close": 273.6,
+      "volume": 75173,
+      "deliverable_qty": 20932,
+      "delivery_pct": 27.85
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 13:34:20",
+      "an_dt": "19-May-2026 13:34:20",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Signpost India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SIGNPOST_19052026133409_SIL_INTIMATION_NEWSPAPER_PUBLICATION.pdf"
+    },
     {
       "sort_date": "2026-04-28 16:48:05",
       "an_dt": "28-Apr-2026 16:48:05",

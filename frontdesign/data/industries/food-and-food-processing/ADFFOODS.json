@@ -8,25 +8,9 @@
   "price": 272.45,
   "market_cap_cr": 2993.23,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 222.73,
-      "prev_close": 225.09,
-      "volume": 101303,
-      "deliverable_qty": 51241,
-      "delivery_pct": 50.58
-    },
-    {
-      "date": "2026-02-18",
-      "close": 229.59,
-      "prev_close": 222.73,
-      "volume": 166296,
-      "deliverable_qty": 80210,
-      "delivery_pct": 48.23
-    },
     {
       "date": "2026-02-19",
       "close": 228.57,
@@ -458,6 +442,14 @@
       "volume": 282082,
       "deliverable_qty": 102224,
       "delivery_pct": 36.24
+    },
+    {
+      "date": "2026-05-20",
+      "close": 263.8,
+      "prev_close": 269.15,
+      "volume": 150607,
+      "deliverable_qty": 69968,
+      "delivery_pct": 46.46
     }
   ],
   "news": [
@@ -628,13 +620,6 @@
       "desc": "Press Release",
       "sm_name": "ADF Foods Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADFFOODS1_19022026183605_ADFPressrelease19022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 18:58:46",
-      "an_dt": "18-Feb-2026 18:58:46",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "ADF Foods Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADFFOODS1_18022026185822_NPSpecialwindow.pdf"
     }
   ]
 }

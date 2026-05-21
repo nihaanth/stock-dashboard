@@ -8,25 +8,9 @@
   "price": 459.4,
   "market_cap_cr": 1807.9,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 517.35,
-      "prev_close": 514.6,
-      "volume": 14922,
-      "deliverable_qty": 8100,
-      "delivery_pct": 54.28
-    },
-    {
-      "date": "2026-02-18",
-      "close": 516.85,
-      "prev_close": 517.35,
-      "volume": 31853,
-      "deliverable_qty": 19141,
-      "delivery_pct": 60.09
-    },
     {
       "date": "2026-02-19",
       "close": 520.95,
@@ -458,9 +442,24 @@
       "volume": 23547,
       "deliverable_qty": 13836,
       "delivery_pct": 58.76
+    },
+    {
+      "date": "2026-05-20",
+      "close": 438.1,
+      "prev_close": 443.55,
+      "volume": 40368,
+      "deliverable_qty": 30965,
+      "delivery_pct": 76.71
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 17:43:12",
+      "an_dt": "19-May-2026 17:43:12",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Studds Accessories Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Studds1983_19052026174248_SignedIntimation.pdf"
+    },
     {
       "sort_date": "2026-04-27 17:49:07",
       "an_dt": "27-Apr-2026 17:49:07",

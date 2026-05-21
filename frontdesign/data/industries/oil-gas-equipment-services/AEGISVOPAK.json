@@ -8,25 +8,9 @@
   "price": 212.38,
   "market_cap_cr": 23531.52,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 219.57,
-      "prev_close": 206.94,
-      "volume": 2066229,
-      "deliverable_qty": 236813,
-      "delivery_pct": 11.46
-    },
-    {
-      "date": "2026-02-18",
-      "close": 220.89,
-      "prev_close": 219.57,
-      "volume": 272036,
-      "deliverable_qty": 73969,
-      "delivery_pct": 27.19
-    },
     {
       "date": "2026-02-19",
       "close": 214.82,
@@ -458,9 +442,24 @@
       "volume": 283648,
       "deliverable_qty": 89183,
       "delivery_pct": 31.44
+    },
+    {
+      "date": "2026-05-20",
+      "close": 199.65,
+      "prev_close": 199.1,
+      "volume": 210061,
+      "deliverable_qty": 82350,
+      "delivery_pct": 39.2
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 16:08:26",
+      "an_dt": "19-May-2026 16:08:26",
+      "desc": "Updates",
+      "sm_name": "Aegis Vopak Terminals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVTL_19052026160804_AVTL_Final_SCR_2026_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-07 17:26:10",
       "an_dt": "07-May-2026 17:26:10",

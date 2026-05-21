@@ -8,25 +8,9 @@
   "price": 1239.2,
   "market_cap_cr": 33297.17,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1172.4,
-      "prev_close": 1145.1,
-      "volume": 87769,
-      "deliverable_qty": 45455,
-      "delivery_pct": 51.79
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1173.1,
-      "prev_close": 1172.4,
-      "volume": 96619,
-      "deliverable_qty": 38027,
-      "delivery_pct": 39.36
-    },
     {
       "date": "2026-02-19",
       "close": 1139.7,
@@ -458,9 +442,24 @@
       "volume": 251862,
       "deliverable_qty": 142542,
       "delivery_pct": 56.6
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1240.1,
+      "prev_close": 1240.4,
+      "volume": 149238,
+      "deliverable_qty": 90617,
+      "delivery_pct": 60.72
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 10:14:26",
+      "an_dt": "20-May-2026 10:14:26",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Global Health Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDANTA21_20052026101315_GHLTRANSCRIPTMAY2026SIGNED.pdf"
+    },
     {
       "sort_date": "2026-05-15 16:12:02",
       "an_dt": "15-May-2026 16:12:02",
@@ -663,27 +662,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Global Health Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDANTA21_19022026174625_GHLANALYSTSMEETFEB192026SIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:06:08",
-      "an_dt": "17-Feb-2026 18:06:08",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Global Health Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDANTA21_17022026180421_GHLANALYSTSMEETFEB172026SIGNEDD.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:06:08",
-      "an_dt": "17-Feb-2026 18:06:08",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Global Health Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDANTA21_17022026180349_GHLANALYSTSMEETFEB172026SIGNEDD.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 18:06:08",
-      "an_dt": "17-Feb-2026 18:06:08",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Global Health Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDANTA21_17022026180211_GHLANALYSTSMEETFEB172026SIGNEDD.pdf"
     }
   ]
 }

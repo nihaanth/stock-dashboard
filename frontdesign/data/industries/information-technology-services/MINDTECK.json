@@ -8,25 +8,9 @@
   "price": 215.88,
   "market_cap_cr": 689.83,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 217.6,
-      "prev_close": 217.42,
-      "volume": 120327,
-      "deliverable_qty": 32579,
-      "delivery_pct": 27.08
-    },
-    {
-      "date": "2026-02-18",
-      "close": 222.02,
-      "prev_close": 217.6,
-      "volume": 195525,
-      "deliverable_qty": 45357,
-      "delivery_pct": 23.2
-    },
     {
       "date": "2026-02-19",
       "close": 218.87,
@@ -458,9 +442,45 @@
       "volume": 48723,
       "deliverable_qty": 22166,
       "delivery_pct": 45.49
+    },
+    {
+      "date": "2026-05-20",
+      "close": 206.77,
+      "prev_close": 206.35,
+      "volume": 89794,
+      "deliverable_qty": 35019,
+      "delivery_pct": 39.0
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 11:36:42",
+      "an_dt": "20-May-2026 11:36:42",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Mindteck (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MINDTECK_20052026113633_08BSELetterBMFinancialsAdvertisement.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 16:39:22",
+      "an_dt": "19-May-2026 16:39:22",
+      "desc": "Press Release",
+      "sm_name": "Mindteck (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MINDTECK_19052026163904_07BSELetterFinancialResultsandOutcomeMeetingMay192026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 16:34:04",
+      "an_dt": "19-May-2026 16:34:04",
+      "desc": "Dividend",
+      "sm_name": "Mindteck (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MINDTECK_19052026163206_07BSELetterFinancialResultsandOutcomeMeetingMay192026.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 16:34:04",
+      "an_dt": "19-May-2026 16:34:04",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Mindteck (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MINDTECK_19052026162710_07BSELetterFinancialResultsandOutcomeMeetingMay192026.pdf"
+    },
     {
       "sort_date": "2026-05-13 18:39:52",
       "an_dt": "13-May-2026 18:39:52",

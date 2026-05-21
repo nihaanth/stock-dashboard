@@ -8,25 +8,9 @@
   "price": 159.31,
   "market_cap_cr": 72709.96,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 152.44,
-      "prev_close": 153.63,
-      "volume": 1472496,
-      "deliverable_qty": 569260,
-      "delivery_pct": 38.66
-    },
-    {
-      "date": "2026-02-18",
-      "close": 156.16,
-      "prev_close": 152.44,
-      "volume": 4348010,
-      "deliverable_qty": 1165016,
-      "delivery_pct": 26.79
-    },
     {
       "date": "2026-02-19",
       "close": 156.73,
@@ -458,9 +442,24 @@
       "volume": 8325825,
       "deliverable_qty": 2361338,
       "delivery_pct": 28.36
+    },
+    {
+      "date": "2026-05-20",
+      "close": 193.95,
+      "prev_close": 192.7,
+      "volume": 13295427,
+      "deliverable_qty": 2938087,
+      "delivery_pct": 22.1
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 11:05:44",
+      "an_dt": "19-May-2026 11:05:44",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Meesho Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEESHO_19052026110504_MLIntimationAllotmentofESOPs19May2026.pdf"
+    },
     {
       "sort_date": "2026-05-13 22:17:40",
       "an_dt": "13-May-2026 22:17:40",
@@ -642,13 +641,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Meesho Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEESHO_19022026164632_MLinvestormeet24022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 13:17:15",
-      "an_dt": "17-Feb-2026 13:17:15",
-      "desc": "Updates",
-      "sm_name": "Meesho Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEESHO_17022026131637_MLIntimationchangeinCIN17Feb2026.pdf"
     }
   ]
 }

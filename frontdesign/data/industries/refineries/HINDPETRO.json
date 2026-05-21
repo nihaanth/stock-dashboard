@@ -8,25 +8,9 @@
   "price": 377.8,
   "market_cap_cr": 80389.13,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 454.25,
-      "prev_close": 452.05,
-      "volume": 1420593,
-      "deliverable_qty": 456989,
-      "delivery_pct": 32.17
-    },
-    {
-      "date": "2026-02-18",
-      "close": 457.05,
-      "prev_close": 454.25,
-      "volume": 1151972,
-      "deliverable_qty": 343066,
-      "delivery_pct": 29.78
-    },
     {
       "date": "2026-02-19",
       "close": 434.35,
@@ -458,9 +442,24 @@
       "volume": 7102917,
       "deliverable_qty": 3313804,
       "delivery_pct": 46.65
+    },
+    {
+      "date": "2026-05-20",
+      "close": 382.75,
+      "prev_close": 371.0,
+      "volume": 9746627,
+      "deliverable_qty": 5041914,
+      "delivery_pct": 51.73
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 17:37:28",
+      "an_dt": "19-May-2026 17:37:28",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Hindustan Petroleum Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDPETRO1_19052026173510_Concall_Transcript_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-14 14:25:12",
       "an_dt": "14-May-2026 14:25:12",
@@ -635,13 +634,6 @@
       "desc": "Retirement",
       "sm_name": "Hindustan Petroleum Corporation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDPETRO1_01032026100841_SMPChangeMar26.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 14:36:52",
-      "an_dt": "17-Feb-2026 14:36:52",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Hindustan Petroleum Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDPETRO1_17022026143528_Investor_meet_Intimation_17_Feb_2026.pdf"
     }
   ]
 }

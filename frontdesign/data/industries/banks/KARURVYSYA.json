@@ -8,25 +8,9 @@
   "price": 280.5,
   "market_cap_cr": 27113.66,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 324.95,
-      "prev_close": 316.35,
-      "volume": 3281500,
-      "deliverable_qty": 1438157,
-      "delivery_pct": 43.83
-    },
-    {
-      "date": "2026-02-18",
-      "close": 326.0,
-      "prev_close": 324.95,
-      "volume": 1393604,
-      "deliverable_qty": 600574,
-      "delivery_pct": 43.1
-    },
     {
       "date": "2026-02-19",
       "close": 319.5,
@@ -458,9 +442,24 @@
       "volume": 1841661,
       "deliverable_qty": 852343,
       "delivery_pct": 46.28
+    },
+    {
+      "date": "2026-05-20",
+      "close": 286.55,
+      "prev_close": 293.25,
+      "volume": 2204613,
+      "deliverable_qty": 1001738,
+      "delivery_pct": 45.44
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 15:34:01",
+      "an_dt": "20-May-2026 15:34:01",
+      "desc": "Updates",
+      "sm_name": "Karur Vysya Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KARURVYSYA_20052026153308_Intimation_DSC.pdf"
+    },
     {
       "sort_date": "2026-05-13 15:09:02",
       "an_dt": "13-May-2026 15:09:02",
@@ -705,13 +704,6 @@
       "desc": "Updates",
       "sm_name": "Karur Vysya Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KARURVYSYA_19022026185631_Intimation_19_02_2026_DSC.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 19:36:08",
-      "an_dt": "18-Feb-2026 19:36:08",
-      "desc": "Press Release",
-      "sm_name": "Karur Vysya Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KARURVYSYA_18022026193525_Intimation_19_02_2026_DSC.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 1906.9,
   "market_cap_cr": 154943.46,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 2191.2,
-      "prev_close": 2165.4,
-      "volume": 177342,
-      "deliverable_qty": 79113,
-      "delivery_pct": 44.61
-    },
-    {
-      "date": "2026-02-18",
-      "close": 2227.6,
-      "prev_close": 2191.2,
-      "volume": 279463,
-      "deliverable_qty": 127773,
-      "delivery_pct": 45.72
-    },
     {
       "date": "2026-02-19",
       "close": 2181.0,
@@ -458,9 +442,24 @@
       "volume": 1409253,
       "deliverable_qty": 933256,
       "delivery_pct": 66.22
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1787.4,
+      "prev_close": 1780.3,
+      "volume": 1022345,
+      "deliverable_qty": 636320,
+      "delivery_pct": 62.24
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 12:14:28",
+      "an_dt": "20-May-2026 12:14:28",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Hyundai Motor India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HMILNSE_20052026121411_InvestorMeetIntimation.pdf"
+    },
     {
       "sort_date": "2026-05-15 16:20:57",
       "an_dt": "15-May-2026 16:20:57",

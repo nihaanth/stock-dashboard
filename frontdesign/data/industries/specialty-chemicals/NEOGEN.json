@@ -8,25 +8,9 @@
   "price": 1741.9,
   "market_cap_cr": 4769.61,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1304.1,
-      "prev_close": 1288.4,
-      "volume": 34456,
-      "deliverable_qty": 13869,
-      "delivery_pct": 40.25
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1321.6,
-      "prev_close": 1304.1,
-      "volume": 48369,
-      "deliverable_qty": 18049,
-      "delivery_pct": 37.32
-    },
     {
       "date": "2026-02-19",
       "close": 1345.3,
@@ -458,6 +442,14 @@
       "volume": 133667,
       "deliverable_qty": 50492,
       "delivery_pct": 37.77
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1695.7,
+      "prev_close": 1580.1,
+      "volume": 368059,
+      "deliverable_qty": 95626,
+      "delivery_pct": 25.98
     }
   ],
   "news": [
@@ -684,13 +676,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Neogen Chemicals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEOGEN_04032026115734_Intimationofmeeting10032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 13:29:08",
-      "an_dt": "18-Feb-2026 13:29:08",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Neogen Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEOGEN_18022026132854_TranscriptDEC25.pdf"
     }
   ]
 }

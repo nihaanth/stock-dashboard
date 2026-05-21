@@ -8,25 +8,9 @@
   "price": 1206.0,
   "market_cap_cr": 21600.65,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 884.7,
-      "prev_close": 881.45,
-      "volume": 1741490,
-      "deliverable_qty": 276593,
-      "delivery_pct": 15.88
-    },
-    {
-      "date": "2026-02-18",
-      "close": 890.5,
-      "prev_close": 884.7,
-      "volume": 1068111,
-      "deliverable_qty": 272443,
-      "delivery_pct": 25.51
-    },
     {
       "date": "2026-02-19",
       "close": 888.3,
@@ -458,6 +442,14 @@
       "volume": 423349,
       "deliverable_qty": 147335,
       "delivery_pct": 34.8
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1156.3,
+      "prev_close": 1130.9,
+      "volume": 492160,
+      "deliverable_qty": 169185,
+      "delivery_pct": 34.38
     }
   ],
   "news": [
@@ -551,13 +543,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Natco Pharma Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NATCOPHARM_20022026130254_SEletter.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 15:35:14",
-      "an_dt": "18-Feb-2026 15:35:14",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Natco Pharma Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NATCOPHARM_18022026153458_Q3EarningscallTranscript.pdf"
     }
   ]
 }

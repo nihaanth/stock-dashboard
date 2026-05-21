@@ -8,25 +8,9 @@
   "price": 920.55,
   "market_cap_cr": 2618.28,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 981.9,
-      "prev_close": 974.9,
-      "volume": 38968,
-      "deliverable_qty": 21363,
-      "delivery_pct": 54.82
-    },
-    {
-      "date": "2026-02-18",
-      "close": 971.6,
-      "prev_close": 981.9,
-      "volume": 40800,
-      "deliverable_qty": 18561,
-      "delivery_pct": 45.49
-    },
     {
       "date": "2026-02-19",
       "close": 944.3,
@@ -458,9 +442,38 @@
       "volume": 41995,
       "deliverable_qty": 21810,
       "delivery_pct": 51.93
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1022.3,
+      "prev_close": 919.6,
+      "volume": 1278354,
+      "deliverable_qty": 195545,
+      "delivery_pct": 15.3
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 14:53:55",
+      "an_dt": "20-May-2026 14:53:55",
+      "desc": "Dividend",
+      "sm_name": "CARYSIL LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACRYSIL_20052026145315_OUTCOME_FINAL_26.pdf"
+    },
+    {
+      "sort_date": "2026-05-20 14:50:10",
+      "an_dt": "20-May-2026 14:50:10",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "CARYSIL LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACRYSIL_20052026144951_OUTCOME_FINAL_26.pdf"
+    },
+    {
+      "sort_date": "2026-05-19 10:58:25",
+      "an_dt": "19-May-2026 10:58:25",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "CARYSIL LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACRYSIL_19052026105803_Intimation190526.pdf"
+    },
     {
       "sort_date": "2026-05-12 14:42:25",
       "an_dt": "12-May-2026 14:42:25",
@@ -621,20 +634,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "CARYSIL LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACRYSIL_20022026143937_Newspaper20022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:26:03",
-      "an_dt": "17-Feb-2026 17:26:03",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "CARYSIL LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACRYSIL_17022026172332_Investor_Meeting_intimation_23022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:07:40",
-      "an_dt": "17-Feb-2026 17:07:40",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "CARYSIL LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACRYSIL_17022026170642_Investor_Meeting_intimation_20022026.pdf"
     }
   ]
 }

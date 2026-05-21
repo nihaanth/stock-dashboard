@@ -8,7 +8,7 @@
   "price": 777.55,
   "market_cap_cr": 1793.54,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
     {
@@ -146,6 +146,14 @@
       "volume": 13298,
       "deliverable_qty": 8808,
       "delivery_pct": 66.24
+    },
+    {
+      "date": "2026-05-20",
+      "close": 736.25,
+      "prev_close": 742.7,
+      "volume": 4054,
+      "deliverable_qty": 3372,
+      "delivery_pct": 83.18
     }
   ],
   "news": []

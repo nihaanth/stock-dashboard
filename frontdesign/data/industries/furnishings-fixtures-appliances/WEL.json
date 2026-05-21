@@ -8,25 +8,9 @@
   "price": 101.91,
   "market_cap_cr": 1365.68,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 140.62,
-      "prev_close": 141.75,
-      "volume": 18961,
-      "deliverable_qty": 10555,
-      "delivery_pct": 55.67
-    },
-    {
-      "date": "2026-02-18",
-      "close": 143.33,
-      "prev_close": 140.62,
-      "volume": 37262,
-      "deliverable_qty": 12989,
-      "delivery_pct": 34.86
-    },
     {
       "date": "2026-02-19",
       "close": 140.66,
@@ -458,9 +442,24 @@
       "volume": 139938,
       "deliverable_qty": 70041,
       "delivery_pct": 50.05
+    },
+    {
+      "date": "2026-05-20",
+      "close": 105.91,
+      "prev_close": 106.2,
+      "volume": 203002,
+      "deliverable_qty": 101646,
+      "delivery_pct": 50.07
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 10:08:05",
+      "an_dt": "20-May-2026 10:08:05",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Wonder Electricals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20042026180235_WEL.pdf"
+    },
     {
       "sort_date": "2026-04-24 11:35:48",
       "an_dt": "24-Apr-2026 11:35:48",
@@ -537,27 +536,6 @@
       "desc": "Spurt in Volume",
       "sm_name": "Wonder Electricals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/sviswanathan_09032026095827_WEL.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 12:44:03",
-      "an_dt": "18-Feb-2026 12:44:03",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Wonder Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WFL_18022026124347_Newspaperpublication18022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 11:05:18",
-      "an_dt": "17-Feb-2026 11:05:18",
-      "desc": "General Updates",
-      "sm_name": "Wonder Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WFL_17022026110506_IntimationEvoting.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 11:03:57",
-      "an_dt": "17-Feb-2026 11:03:57",
-      "desc": "Shareholders meeting",
-      "sm_name": "Wonder Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WFL_17022026110344_PostalBallotNoticeintimation17022026.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 235.52,
   "market_cap_cr": 739.03,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 262.9,
-      "prev_close": 264.35,
-      "volume": 17241,
-      "deliverable_qty": 12683,
-      "delivery_pct": 73.56
-    },
-    {
-      "date": "2026-02-18",
-      "close": 261.55,
-      "prev_close": 262.9,
-      "volume": 10028,
-      "deliverable_qty": 6894,
-      "delivery_pct": 68.75
-    },
     {
       "date": "2026-02-19",
       "close": 262.3,
@@ -458,6 +442,14 @@
       "volume": 7286,
       "deliverable_qty": 5295,
       "delivery_pct": 72.67
+    },
+    {
+      "date": "2026-05-20",
+      "close": 230.35,
+      "prev_close": 231.54,
+      "volume": 5497,
+      "deliverable_qty": 4164,
+      "delivery_pct": 75.75
     }
   ],
   "news": [
@@ -495,13 +487,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "VLS Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VLSFINANCE_10032026172755_Notice_of_Postal_Ballot_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 13:53:25",
-      "an_dt": "17-Feb-2026 13:53:25",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "VLS Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VLSFINANCE_17022026135239_NewspaperPublicationResults31122025VLSF.pdf"
     }
   ]
 }

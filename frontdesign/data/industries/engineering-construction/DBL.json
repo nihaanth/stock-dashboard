@@ -8,25 +8,9 @@
   "price": 437.45,
   "market_cap_cr": 7106.15,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 434.95,
-      "prev_close": 430.6,
-      "volume": 185874,
-      "deliverable_qty": 70246,
-      "delivery_pct": 37.79
-    },
-    {
-      "date": "2026-02-18",
-      "close": 452.9,
-      "prev_close": 434.95,
-      "volume": 2302670,
-      "deliverable_qty": 177503,
-      "delivery_pct": 7.71
-    },
     {
       "date": "2026-02-19",
       "close": 438.0,
@@ -458,6 +442,14 @@
       "volume": 137262,
       "deliverable_qty": 63082,
       "delivery_pct": 45.96
+    },
+    {
+      "date": "2026-05-20",
+      "close": 436.85,
+      "prev_close": 444.45,
+      "volume": 79203,
+      "deliverable_qty": 38202,
+      "delivery_pct": 48.23
     }
   ],
   "news": [
@@ -614,20 +606,6 @@
       "desc": "Awarding of order(s)/contract(s)",
       "sm_name": "Dilip Buildcon Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DBL_11032026114556_Announcement.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 19:09:40",
-      "an_dt": "17-Feb-2026 19:09:40",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "Dilip Buildcon Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DBL_17022026190851_IntimationNWRWS.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 17:04:59",
-      "an_dt": "17-Feb-2026 17:04:59",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "Dilip Buildcon Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DBL_17022026170248_intimation.pdf"
     }
   ]
 }

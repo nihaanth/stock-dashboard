@@ -8,25 +8,9 @@
   "price": 245.15,
   "market_cap_cr": 1228.02,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 310.4,
-      "prev_close": 309.6,
-      "volume": 62017,
-      "deliverable_qty": 3053,
-      "delivery_pct": 4.92
-    },
-    {
-      "date": "2026-02-18",
-      "close": 302.75,
-      "prev_close": 310.4,
-      "volume": 30455,
-      "deliverable_qty": 2429,
-      "delivery_pct": 7.98
-    },
     {
       "date": "2026-02-19",
       "close": 295.95,
@@ -458,9 +442,24 @@
       "volume": 15722,
       "deliverable_qty": 3322,
       "delivery_pct": 21.13
+    },
+    {
+      "date": "2026-05-20",
+      "close": 231.25,
+      "prev_close": 235.4,
+      "volume": 58388,
+      "deliverable_qty": 16762,
+      "delivery_pct": 28.71
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 16:26:08",
+      "an_dt": "19-May-2026 16:26:08",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Laxmi Goldorna House Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LGHL_19052026162559_newspaper31032026.pdf"
+    },
     {
       "sort_date": "2026-05-16 17:28:01",
       "an_dt": "16-May-2026 17:28:01",

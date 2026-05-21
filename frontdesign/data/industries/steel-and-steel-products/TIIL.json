@@ -8,25 +8,9 @@
   "price": 2580.0,
   "market_cap_cr": 5849.58,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 2405.7,
-      "prev_close": 2413.1,
-      "volume": 8641,
-      "deliverable_qty": 4035,
-      "delivery_pct": 46.7
-    },
-    {
-      "date": "2026-02-18",
-      "close": 2427.5,
-      "prev_close": 2405.7,
-      "volume": 13438,
-      "deliverable_qty": 6391,
-      "delivery_pct": 47.56
-    },
     {
       "date": "2026-02-19",
       "close": 2326.6,
@@ -458,6 +442,14 @@
       "volume": 56541,
       "deliverable_qty": 16785,
       "delivery_pct": 29.69
+    },
+    {
+      "date": "2026-05-20",
+      "close": 2609.6,
+      "prev_close": 2608.5,
+      "volume": 13740,
+      "deliverable_qty": 7542,
+      "delivery_pct": 54.89
     }
   ],
   "news": [
@@ -488,13 +480,6 @@
       "desc": "Trading Window",
       "sm_name": "Technocraft Industries (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIIL_20032026112949_ClosureofTradingWindowMarch2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 10:14:18",
-      "an_dt": "17-Feb-2026 10:14:18",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Technocraft Industries (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIIL_17022026101207_Transcripts_Final.pdf"
     }
   ]
 }

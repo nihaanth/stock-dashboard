@@ -8,25 +8,9 @@
   "price": 471.7,
   "market_cap_cr": 8369.0,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 334.45,
-      "prev_close": 331.15,
-      "volume": 1347719,
-      "deliverable_qty": 348974,
-      "delivery_pct": 25.89
-    },
-    {
-      "date": "2026-02-18",
-      "close": 336.65,
-      "prev_close": 334.45,
-      "volume": 904585,
-      "deliverable_qty": 242091,
-      "delivery_pct": 26.76
-    },
     {
       "date": "2026-02-19",
       "close": 330.45,
@@ -458,9 +442,24 @@
       "volume": 1721253,
       "deliverable_qty": 480464,
       "delivery_pct": 27.91
+    },
+    {
+      "date": "2026-05-20",
+      "close": 466.4,
+      "prev_close": 462.7,
+      "volume": 4397061,
+      "deliverable_qty": 642446,
+      "delivery_pct": 14.61
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 18:20:15",
+      "an_dt": "19-May-2026 18:20:15",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Tejas Networks Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TEJASNET_19052026181953_NP_Publication_Intimation_Lettersd.pdf"
+    },
     {
       "sort_date": "2026-05-18 18:21:59",
       "an_dt": "18-May-2026 18:21:59",
@@ -649,13 +648,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Tejas Networks Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TEJASNET_19022026161203_NP_Publication_Relodgement.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 17:56:10",
-      "an_dt": "18-Feb-2026 17:56:10",
-      "desc": "General Updates",
-      "sm_name": "Tejas Networks Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TEJASNET_18022026175554_Update_-_PLIsd.pdf"
     }
   ]
 }

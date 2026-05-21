@@ -8,25 +8,9 @@
   "price": 126.19,
   "market_cap_cr": 16891.47,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 122.23,
-      "prev_close": 119.03,
-      "volume": 2017473,
-      "deliverable_qty": 919452,
-      "delivery_pct": 45.57
-    },
-    {
-      "date": "2026-02-18",
-      "close": 123.6,
-      "prev_close": 122.23,
-      "volume": 2257298,
-      "deliverable_qty": 1044561,
-      "delivery_pct": 46.27
-    },
     {
       "date": "2026-02-19",
       "close": 123.12,
@@ -458,9 +442,24 @@
       "volume": 979442,
       "deliverable_qty": 324587,
       "delivery_pct": 33.14
+    },
+    {
+      "date": "2026-05-20",
+      "close": 120.91,
+      "prev_close": 121.36,
+      "volume": 515513,
+      "deliverable_qty": 250513,
+      "delivery_pct": 48.59
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 15:15:20",
+      "an_dt": "19-May-2026 15:15:20",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "JSW Cement Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JSWCL_19052026151352_upload.pdf"
+    },
     {
       "sort_date": "2026-05-18 23:06:01",
       "an_dt": "18-May-2026 23:06:01",

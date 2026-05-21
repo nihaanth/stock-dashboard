@@ -8,25 +8,9 @@
   "price": 156.66,
   "market_cap_cr": 4466.76,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 135.05,
-      "prev_close": 134.71,
-      "volume": 211431,
-      "deliverable_qty": 139102,
-      "delivery_pct": 65.79
-    },
-    {
-      "date": "2026-02-18",
-      "close": 138.11,
-      "prev_close": 135.05,
-      "volume": 1235371,
-      "deliverable_qty": 347463,
-      "delivery_pct": 28.13
-    },
     {
       "date": "2026-02-19",
       "close": 143.79,
@@ -458,9 +442,24 @@
       "volume": 832683,
       "deliverable_qty": 366608,
       "delivery_pct": 44.03
+    },
+    {
+      "date": "2026-05-20",
+      "close": 144.91,
+      "prev_close": 146.67,
+      "volume": 732190,
+      "deliverable_qty": 350723,
+      "delivery_pct": 47.9
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-20 17:19:31",
+      "an_dt": "20-May-2026 17:19:31",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Hemisphere Properties India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEMIPROP_20052026171331_Outcome200526hpil.pdf"
+    },
     {
       "sort_date": "2026-05-12 17:32:29",
       "an_dt": "12-May-2026 17:32:29",
@@ -502,34 +501,6 @@
       "desc": "Trading Window",
       "sm_name": "Hemisphere Properties India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEMIPROP_23032026124125_tw.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 16:41:56",
-      "an_dt": "18-Feb-2026 16:41:56",
-      "desc": "General Updates",
-      "sm_name": "Hemisphere Properties India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEMIPROP_18022026163833_R30180226.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 20:33:36",
-      "an_dt": "17-Feb-2026 20:33:36",
-      "desc": "Cessation",
-      "sm_name": "Hemisphere Properties India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEMIPROP_17022026203254_int.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 20:33:36",
-      "an_dt": "17-Feb-2026 20:33:36",
-      "desc": "Appointment",
-      "sm_name": "Hemisphere Properties India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEMIPROP_17022026203145_int.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 20:33:36",
-      "an_dt": "17-Feb-2026 20:33:36",
-      "desc": "Appointment",
-      "sm_name": "Hemisphere Properties India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEMIPROP_17022026203137_int.pdf"
     }
   ]
 }

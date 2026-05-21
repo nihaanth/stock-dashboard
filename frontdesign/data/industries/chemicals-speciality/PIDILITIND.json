@@ -8,25 +8,9 @@
   "price": 1437.2,
   "market_cap_cr": 146274.67,
   "industry_source": "webarchive",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 1495.5,
-      "prev_close": 1487.3,
-      "volume": 344682,
-      "deliverable_qty": 224505,
-      "delivery_pct": 65.13
-    },
-    {
-      "date": "2026-02-18",
-      "close": 1489.5,
-      "prev_close": 1495.5,
-      "volume": 2016972,
-      "deliverable_qty": 1774893,
-      "delivery_pct": 88.0
-    },
     {
       "date": "2026-02-19",
       "close": 1464.9,
@@ -458,9 +442,24 @@
       "volume": 655599,
       "deliverable_qty": 359966,
       "delivery_pct": 54.91
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1455.6,
+      "prev_close": 1455.8,
+      "volume": 356329,
+      "deliverable_qty": 188399,
+      "delivery_pct": 52.87
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-19 14:39:21",
+      "an_dt": "19-May-2026 14:39:21",
+      "desc": "Updates",
+      "sm_name": "Pidilite Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Nisha_19052026143840_SEintimationASCRMar2026finalupload.pdf"
+    },
     {
       "sort_date": "2026-05-18 15:09:38",
       "an_dt": "18-May-2026 15:09:38",
@@ -684,13 +683,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Pidilite Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Nisha_23022026105144_SEintimationanalystmeet23Feb2026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-17 12:08:40",
-      "an_dt": "17-Feb-2026 12:08:40",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Pidilite Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Nisha_17022026120721_SEintimationanalystmeet17Feb2026upload.pdf"
     }
   ]
 }

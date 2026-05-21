@@ -8,25 +8,9 @@
   "price": 264.06,
   "market_cap_cr": 1495.92,
   "industry_source": "yfinance",
-  "as_of": "2026-05-18",
+  "as_of": "2026-05-20",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-17",
-      "close": 231.68,
-      "prev_close": 234.24,
-      "volume": 29118,
-      "deliverable_qty": 17253,
-      "delivery_pct": 59.25
-    },
-    {
-      "date": "2026-02-18",
-      "close": 230.94,
-      "prev_close": 231.68,
-      "volume": 31588,
-      "deliverable_qty": 17731,
-      "delivery_pct": 56.13
-    },
     {
       "date": "2026-02-19",
       "close": 230.45,
@@ -458,6 +442,14 @@
       "volume": 85565,
       "deliverable_qty": 41424,
       "delivery_pct": 48.41
+    },
+    {
+      "date": "2026-05-20",
+      "close": 223.54,
+      "prev_close": 225.04,
+      "volume": 29781,
+      "deliverable_qty": 15696,
+      "delivery_pct": 52.7
     }
   ],
   "news": [
@@ -593,13 +585,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Platinum Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PLATINUM_03032026193016_Intimation_of_Investor_meet06032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-18 11:53:23",
-      "an_dt": "18-Feb-2026 11:53:23",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Platinum Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PLATINUM_18022026115309_Intimation_Earnings_call_Transcript_Q3FY26.pdf"
     }
   ]
 }
