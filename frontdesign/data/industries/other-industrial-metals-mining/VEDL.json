@@ -8,17 +8,9 @@
   "price": 752.55,
   "market_cap_cr": 294109.39,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 676.15,
-      "prev_close": 678.0,
-      "volume": 8113467,
-      "deliverable_qty": 3499829,
-      "delivery_pct": 43.14
-    },
     {
       "date": "2026-02-20",
       "close": 682.45,
@@ -450,9 +442,24 @@
       "volume": 21015658,
       "deliverable_qty": 5830374,
       "delivery_pct": 27.74
+    },
+    {
+      "date": "2026-05-21",
+      "close": 329.75,
+      "prev_close": 333.75,
+      "volume": 14507403,
+      "deliverable_qty": 4750365,
+      "delivery_pct": 32.74
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 17:48:50",
+      "an_dt": "21-May-2026 17:48:50",
+      "desc": "Updates",
+      "sm_name": "Vedanta Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VEDL_21052026174813_VEDLSEIntimationTSPLDisclosuresigned.pdf"
+    },
     {
       "sort_date": "2026-05-18 21:18:01",
       "an_dt": "18-May-2026 21:18:01",
@@ -872,13 +879,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Vedanta Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VEDL_25022026124509_VEDLOutcomeCODMeeting25February2026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 21:46:33",
-      "an_dt": "19-Feb-2026 21:46:33",
-      "desc": "Updates",
-      "sm_name": "Vedanta Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VEDL_19022026214356_VEDLSEIntimationinvestorpresentationsigned.pdf"
     }
   ]
 }

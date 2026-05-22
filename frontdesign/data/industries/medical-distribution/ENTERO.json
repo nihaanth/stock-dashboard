@@ -8,17 +8,9 @@
   "price": 1233.2,
   "market_cap_cr": 5365.77,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 1091.1,
-      "prev_close": 1106.6,
-      "volume": 27205,
-      "deliverable_qty": 12878,
-      "delivery_pct": 47.34
-    },
     {
       "date": "2026-02-20",
       "close": 1079.2,
@@ -450,9 +442,24 @@
       "volume": 186394,
       "deliverable_qty": 154145,
       "delivery_pct": 82.7
+    },
+    {
+      "date": "2026-05-21",
+      "close": 1299.9,
+      "prev_close": 1254.7,
+      "volume": 391526,
+      "deliverable_qty": 263020,
+      "delivery_pct": 67.18
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 18:20:20",
+      "an_dt": "21-May-2026 18:20:20",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Entero Healthcare Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENTERO_21052026181843_intimationearningscall.pdf"
+    },
     {
       "sort_date": "2026-05-06 19:30:44",
       "an_dt": "06-May-2026 19:30:44",

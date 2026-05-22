@@ -8,17 +8,9 @@
   "price": 2517.7,
   "market_cap_cr": 29658.02,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 1553.9,
-      "prev_close": 1567.6,
-      "volume": 62560,
-      "deliverable_qty": 33297,
-      "delivery_pct": 53.22
-    },
     {
       "date": "2026-02-20",
       "close": 1499.9,
@@ -450,6 +442,14 @@
       "volume": 171359,
       "deliverable_qty": 43707,
       "delivery_pct": 25.51
+    },
+    {
+      "date": "2026-05-21",
+      "close": 2416.3,
+      "prev_close": 2400.4,
+      "volume": 128880,
+      "deliverable_qty": 43452,
+      "delivery_pct": 33.72
     }
   ],
   "news": [
@@ -599,13 +599,6 @@
       "desc": "Updates",
       "sm_name": "Aditya Infotech Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CPPLUS_24022026150140_mpsintimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 12:50:44",
-      "an_dt": "19-Feb-2026 12:50:44",
-      "desc": "Press Release",
-      "sm_name": "Aditya Infotech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CPPLUS_19022026124723_seintimationpressrelease.pdf"
     }
   ]
 }

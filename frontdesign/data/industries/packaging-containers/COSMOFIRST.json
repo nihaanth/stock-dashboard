@@ -8,17 +8,9 @@
   "price": 779.5,
   "market_cap_cr": 2023.44,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 695.9,
-      "prev_close": 701.6,
-      "volume": 72715,
-      "deliverable_qty": 30818,
-      "delivery_pct": 42.38
-    },
     {
       "date": "2026-02-20",
       "close": 673.05,
@@ -450,9 +442,31 @@
       "volume": 71820,
       "deliverable_qty": 39442,
       "delivery_pct": 54.92
+    },
+    {
+      "date": "2026-05-21",
+      "close": 799.75,
+      "prev_close": 797.5,
+      "volume": 1082916,
+      "deliverable_qty": 278771,
+      "delivery_pct": 25.74
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 17:03:38",
+      "an_dt": "21-May-2026 17:03:38",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "COSMO FIRST LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSMOFILMS_21052026170318_Covering_letter.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 14:12:50",
+      "an_dt": "21-May-2026 14:12:50",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "COSMO FIRST LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSMOFILMS_21052026141241_Intimation_NP.pdf"
+    },
     {
       "sort_date": "2026-05-20 21:34:10",
       "an_dt": "20-May-2026 21:34:10",
@@ -578,13 +592,6 @@
       "desc": "Spurt in Volume",
       "sm_name": "COSMO FIRST LIMITED",
       "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-02-19 16:44:30",
-      "an_dt": "19-Feb-2026 16:44:30",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "COSMO FIRST LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSMOFILMS_19022026164406_Intimation.pdf"
     }
   ]
 }

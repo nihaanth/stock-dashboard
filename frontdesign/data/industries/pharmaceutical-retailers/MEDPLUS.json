@@ -8,17 +8,9 @@
   "price": 875.75,
   "market_cap_cr": 10509.3,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 830.5,
-      "prev_close": 846.65,
-      "volume": 89387,
-      "deliverable_qty": 53851,
-      "delivery_pct": 60.24
-    },
     {
       "date": "2026-02-20",
       "close": 829.15,
@@ -450,9 +442,38 @@
       "volume": 187526,
       "deliverable_qty": 68075,
       "delivery_pct": 36.3
+    },
+    {
+      "date": "2026-05-21",
+      "close": 953.9,
+      "prev_close": 910.8,
+      "volume": 2058973,
+      "deliverable_qty": 385306,
+      "delivery_pct": 18.71
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 18:11:55",
+      "an_dt": "21-May-2026 18:11:55",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Medplus Health Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDPLUS_21052026180849_Investor_meet_intimation.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 18:04:19",
+      "an_dt": "21-May-2026 18:04:19",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Medplus Health Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDPLUS_21052026180301_Medplus_Covering_Audio_of_Earning_call_Q3.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 17:53:40",
+      "an_dt": "21-May-2026 17:53:40",
+      "desc": "General Updates",
+      "sm_name": "Medplus Health Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDPLUS_21052026175331_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-20 22:28:40",
       "an_dt": "20-May-2026 22:28:40",

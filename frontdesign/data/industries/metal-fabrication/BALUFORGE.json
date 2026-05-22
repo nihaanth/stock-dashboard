@@ -8,17 +8,9 @@
   "price": 529.1,
   "market_cap_cr": 6425.68,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 484.0,
-      "prev_close": 503.3,
-      "volume": 869114,
-      "deliverable_qty": 470698,
-      "delivery_pct": 54.16
-    },
     {
       "date": "2026-02-20",
       "close": 492.1,
@@ -450,9 +442,24 @@
       "volume": 173096,
       "deliverable_qty": 69045,
       "delivery_pct": 39.89
+    },
+    {
+      "date": "2026-05-21",
+      "close": 482.5,
+      "prev_close": 472.8,
+      "volume": 407884,
+      "deliverable_qty": 146244,
+      "delivery_pct": 35.85
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 16:20:34",
+      "an_dt": "21-May-2026 16:20:34",
+      "desc": "Cessation",
+      "sm_name": "Balu Forge Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BALUFORGE_21052026162010_Intimation.pdf"
+    },
     {
       "sort_date": "2026-04-12 12:10:25",
       "an_dt": "12-Apr-2026 12:10:25",

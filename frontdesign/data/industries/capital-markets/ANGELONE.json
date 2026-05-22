@@ -8,17 +8,9 @@
   "price": 317.2,
   "market_cap_cr": 28928.6,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 2509.6,
-      "prev_close": 2591.8,
-      "volume": 853537,
-      "deliverable_qty": 249928,
-      "delivery_pct": 29.28
-    },
     {
       "date": "2026-02-20",
       "close": 2496.3,
@@ -450,9 +442,24 @@
       "volume": 6591462,
       "deliverable_qty": 1260417,
       "delivery_pct": 19.12
+    },
+    {
+      "date": "2026-05-21",
+      "close": 339.65,
+      "prev_close": 325.0,
+      "volume": 25211127,
+      "deliverable_qty": 6348502,
+      "delivery_pct": 25.18
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 11:14:11",
+      "an_dt": "21-May-2026 11:14:11",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Angel One Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANGEL8896_21052026111403_intimationnewspaperad.pdf"
+    },
     {
       "sort_date": "2026-05-20 22:31:10",
       "an_dt": "20-May-2026 22:31:10",

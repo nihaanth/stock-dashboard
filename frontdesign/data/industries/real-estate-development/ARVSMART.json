@@ -8,17 +8,9 @@
   "price": 626.1,
   "market_cap_cr": 2871.73,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 549.0,
-      "prev_close": 559.8,
-      "volume": 16352,
-      "deliverable_qty": 8060,
-      "delivery_pct": 49.29
-    },
     {
       "date": "2026-02-20",
       "close": 570.85,
@@ -450,9 +442,31 @@
       "volume": 40099,
       "deliverable_qty": 21703,
       "delivery_pct": 54.12
+    },
+    {
+      "date": "2026-05-21",
+      "close": 615.05,
+      "prev_close": 602.6,
+      "volume": 1135051,
+      "deliverable_qty": 108331,
+      "delivery_pct": 9.54
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 18:47:45",
+      "an_dt": "21-May-2026 18:47:45",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Arvind SmartSpaces Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_21052026184737_ASLOutcomeOfConcallAudioRecording.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 12:09:36",
+      "an_dt": "21-May-2026 12:09:36",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Arvind SmartSpaces Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_21052026120927_NewspaperResultsQ4FY26.pdf"
+    },
     {
       "sort_date": "2026-05-20 20:09:32",
       "an_dt": "20-May-2026 20:09:32",

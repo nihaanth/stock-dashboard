@@ -8,17 +8,9 @@
   "price": 5120.0,
   "market_cap_cr": 48947.5,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 4568.6,
-      "prev_close": 4606.9,
-      "volume": 99931,
-      "deliverable_qty": 44333,
-      "delivery_pct": 44.36
-    },
     {
       "date": "2026-02-20",
       "close": 4756.0,
@@ -450,9 +442,24 @@
       "volume": 266512,
       "deliverable_qty": 109618,
       "delivery_pct": 41.13
+    },
+    {
+      "date": "2026-05-21",
+      "close": 5237.0,
+      "prev_close": 5119.8,
+      "volume": 550071,
+      "deliverable_qty": 245702,
+      "delivery_pct": 44.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 18:32:10",
+      "an_dt": "21-May-2026 18:32:10",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "KEI Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KEI_21052026183155_Intimation21052026.pdf"
+    },
     {
       "sort_date": "2026-05-20 19:50:34",
       "an_dt": "20-May-2026 19:50:34",
@@ -634,20 +641,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "KEI Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KEI_27022026175514_SignedRevised_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 18:52:06",
-      "an_dt": "19-Feb-2026 18:52:06",
-      "desc": "General Updates",
-      "sm_name": "KEI Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KEI_19022026184403_SignedLETTER.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 14:42:19",
-      "an_dt": "19-Feb-2026 14:42:19",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "KEI Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KEI_19022026144154_SignedIntimation.pdf"
     }
   ]
 }

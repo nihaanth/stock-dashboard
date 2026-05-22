@@ -8,17 +8,9 @@
   "price": 173.13,
   "market_cap_cr": 1169.25,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 160.01,
-      "prev_close": 161.25,
-      "volume": 283500,
-      "deliverable_qty": 100508,
-      "delivery_pct": 35.45
-    },
     {
       "date": "2026-02-20",
       "close": 165.06,
@@ -450,9 +442,24 @@
       "volume": 325304,
       "deliverable_qty": 161962,
       "delivery_pct": 49.79
+    },
+    {
+      "date": "2026-05-21",
+      "close": 173.85,
+      "prev_close": 172.92,
+      "volume": 140020,
+      "deliverable_qty": 95984,
+      "delivery_pct": 68.55
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 09:35:55",
+      "an_dt": "21-May-2026 09:35:55",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Updater Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_16042026184443_UDS.pdf"
+    },
     {
       "sort_date": "2026-05-15 16:04:13",
       "an_dt": "15-May-2026 16:04:13",

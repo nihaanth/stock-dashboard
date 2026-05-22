@@ -8,17 +8,9 @@
   "price": 2027.1,
   "market_cap_cr": 2216.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 1666.0,
-      "prev_close": 1702.0,
-      "volume": 14124,
-      "deliverable_qty": 7786,
-      "delivery_pct": 55.13
-    },
     {
       "date": "2026-02-20",
       "close": 1736.9,
@@ -450,6 +442,14 @@
       "volume": 56568,
       "deliverable_qty": 24956,
       "delivery_pct": 44.12
+    },
+    {
+      "date": "2026-05-21",
+      "close": 2090.2,
+      "prev_close": 1992.2,
+      "volume": 89668,
+      "deliverable_qty": 41978,
+      "delivery_pct": 46.81
     }
   ],
   "news": [
@@ -592,13 +592,6 @@
       "desc": "Credit Rating- Revision",
       "sm_name": "Advait Energy Transitions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_03032026112723_SEintimationratingAdvaitS.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 18:11:08",
-      "an_dt": "19-Feb-2026 18:11:08",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Advait Energy Transitions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_19022026181003_SEtranscriptAdvaits.pdf"
     }
   ]
 }

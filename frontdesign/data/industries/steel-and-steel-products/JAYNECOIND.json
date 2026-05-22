@@ -8,17 +8,9 @@
   "price": 110.5,
   "market_cap_cr": 10729.53,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 80.08,
-      "prev_close": 83.07,
-      "volume": 3093210,
-      "deliverable_qty": 1478472,
-      "delivery_pct": 47.8
-    },
     {
       "date": "2026-02-20",
       "close": 79.13,
@@ -450,9 +442,31 @@
       "volume": 3304263,
       "deliverable_qty": 1443776,
       "delivery_pct": 43.69
+    },
+    {
+      "date": "2026-05-21",
+      "close": 106.49,
+      "prev_close": 103.02,
+      "volume": 7509029,
+      "deliverable_qty": 3081321,
+      "delivery_pct": 41.03
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 18:54:34",
+      "an_dt": "21-May-2026 18:54:34",
+      "desc": "Shareholders meeting",
+      "sm_name": "Jayaswal Neco Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_21052026185338_RESULT_FINAL_0001.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 16:36:52",
+      "an_dt": "21-May-2026 16:36:52",
+      "desc": "Shareholders meeting",
+      "sm_name": "Jayaswal Neco Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_21052026163637_OutcomeandProceedings21052026.pdf"
+    },
     {
       "sort_date": "2026-05-19 11:09:23",
       "an_dt": "19-May-2026 11:09:23",
@@ -557,13 +571,6 @@
       "desc": "Trading Window",
       "sm_name": "Jayaswal Neco Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_27032026155943_tradingwindow27032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 13:11:12",
-      "an_dt": "19-Feb-2026 13:11:12",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Jayaswal Neco Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAYNECOIND2_19022026131043_tobeuploaded.pdf"
     }
   ]
 }

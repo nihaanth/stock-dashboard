@@ -8,17 +8,9 @@
   "price": 2744.3,
   "market_cap_cr": 3101.92,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 2503.7,
-      "prev_close": 2535.2,
-      "volume": 10570,
-      "deliverable_qty": 4706,
-      "delivery_pct": 44.52
-    },
     {
       "date": "2026-02-20",
       "close": 2491.6,
@@ -450,6 +442,14 @@
       "volume": 32318,
       "deliverable_qty": 12101,
       "delivery_pct": 37.44
+    },
+    {
+      "date": "2026-05-21",
+      "close": 2690.0,
+      "prev_close": 2717.1,
+      "volume": 90739,
+      "deliverable_qty": 44345,
+      "delivery_pct": 48.87
     }
   ],
   "news": [
@@ -522,13 +522,6 @@
       "desc": "Trading Window",
       "sm_name": "Bharat Bijlee Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBL_26032026152409_BBLBMTradingWindowClosureNotice26032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 16:05:29",
-      "an_dt": "19-Feb-2026 16:05:29",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Bharat Bijlee Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBL_19022026160235_BBLNewspaperNoticeSpecialWindowforTransferDematerialisationBSENSE.pdf"
     }
   ]
 }

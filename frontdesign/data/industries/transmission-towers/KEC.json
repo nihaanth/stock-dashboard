@@ -8,17 +8,9 @@
   "price": 582.0,
   "market_cap_cr": 15492.84,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 586.15,
-      "prev_close": 602.8,
-      "volume": 1117281,
-      "deliverable_qty": 398190,
-      "delivery_pct": 35.64
-    },
     {
       "date": "2026-02-20",
       "close": 584.3,
@@ -450,9 +442,31 @@
       "volume": 1682728,
       "deliverable_qty": 571163,
       "delivery_pct": 33.94
+    },
+    {
+      "date": "2026-05-21",
+      "close": 486.05,
+      "prev_close": 471.7,
+      "volume": 1895224,
+      "deliverable_qty": 751447,
+      "delivery_pct": 39.65
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 19:01:59",
+      "an_dt": "21-May-2026 19:01:59",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "KEC International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KEC_21052026190139_AnalystMeetIntimation.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 16:21:15",
+      "an_dt": "21-May-2026 16:21:15",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "KEC International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KEC_21052026162054_SE_Intimation_Transcript.pdf"
+    },
     {
       "sort_date": "2026-05-18 17:14:12",
       "an_dt": "18-May-2026 17:14:12",
@@ -641,13 +655,6 @@
       "desc": "General Updates",
       "sm_name": "KEC International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KEC_20022026185602_SEintimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 15:24:14",
-      "an_dt": "19-Feb-2026 15:24:14",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "KEC International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KEC_19022026152353_AnalystMeetIntimation.pdf"
     }
   ]
 }

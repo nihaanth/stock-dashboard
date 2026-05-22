@@ -8,17 +8,9 @@
   "price": 483.6,
   "market_cap_cr": 18374.06,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 459.4,
-      "prev_close": 458.3,
-      "volume": 487657,
-      "deliverable_qty": 181903,
-      "delivery_pct": 37.3
-    },
     {
       "date": "2026-02-20",
       "close": 469.35,
@@ -450,9 +442,24 @@
       "volume": 373331,
       "deliverable_qty": 231418,
       "delivery_pct": 61.99
+    },
+    {
+      "date": "2026-05-21",
+      "close": 462.8,
+      "prev_close": 462.9,
+      "volume": 413299,
+      "deliverable_qty": 215052,
+      "delivery_pct": 52.03
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 20:21:06",
+      "an_dt": "21-May-2026 20:21:06",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "CIE Automotive India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mahindracie_21052026202052_SEintimation.pdf"
+    },
     {
       "sort_date": "2026-05-15 19:18:45",
       "an_dt": "15-May-2026 19:18:45",
@@ -683,41 +690,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "CIE Automotive India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mahindracie_20022026161116_SEintimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 21:26:14",
-      "an_dt": "19-Feb-2026 21:26:14",
-      "desc": "Investor Presentation",
-      "sm_name": "CIE Automotive India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mahindracie_19022026212600_SE_Intimation_Inve_Pre.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 20:51:42",
-      "an_dt": "19-Feb-2026 20:51:42",
-      "desc": "Change in Auditors",
-      "sm_name": "CIE Automotive India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mahindracie_19022026205127_SE_intimation_of_Appointment_of_Internal_Auditor.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 20:21:41",
-      "an_dt": "19-Feb-2026 20:21:41",
-      "desc": "Record Date",
-      "sm_name": "CIE Automotive India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mahindracie_19022026202104_SE_Intimation_Record_Date.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 20:13:39",
-      "an_dt": "19-Feb-2026 20:13:39",
-      "desc": "Dividend",
-      "sm_name": "CIE Automotive India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mahindracie_19022026201256_SE_Intimation_Dividend.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 19:43:45",
-      "an_dt": "19-Feb-2026 19:43:45",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "CIE Automotive India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mahindracie_19022026193844_SE_Intimation_Outcome.pdf"
     }
   ]
 }

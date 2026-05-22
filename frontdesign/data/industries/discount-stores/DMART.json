@@ -8,17 +8,9 @@
   "price": 4389.4,
   "market_cap_cr": 286243.16,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 3834.1,
-      "prev_close": 3915.2,
-      "volume": 286762,
-      "deliverable_qty": 149373,
-      "delivery_pct": 52.09
-    },
     {
       "date": "2026-02-20",
       "close": 3866.4,
@@ -450,6 +442,14 @@
       "volume": 346215,
       "deliverable_qty": 148078,
       "delivery_pct": 42.77
+    },
+    {
+      "date": "2026-05-21",
+      "close": 4137.2,
+      "prev_close": 4144.2,
+      "volume": 498131,
+      "deliverable_qty": 276051,
+      "delivery_pct": 55.42
     }
   ],
   "news": [
@@ -732,20 +732,6 @@
       "desc": "Updates",
       "sm_name": "Avenue Supermarts Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DMART_23022026184332_ASLInitmationStoreOpening_23022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 19:32:33",
-      "an_dt": "19-Feb-2026 19:32:33",
-      "desc": "Updates",
-      "sm_name": "Avenue Supermarts Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DMART_19022026193225_ASLInitmationStoreOpening19022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 19:30:14",
-      "an_dt": "19-Feb-2026 19:30:14",
-      "desc": "Action(s) initiated or orders passed",
-      "sm_name": "Avenue Supermarts Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DMART_19022026192933_ASLInitmationReg30_19022026.pdf"
     }
   ]
 }

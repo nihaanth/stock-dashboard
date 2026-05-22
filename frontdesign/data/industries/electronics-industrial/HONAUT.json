@@ -8,17 +8,9 @@
   "price": 29340.0,
   "market_cap_cr": 25958.15,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 31100.0,
-      "prev_close": 31375.0,
-      "volume": 1685,
-      "deliverable_qty": 910,
-      "delivery_pct": 54.01
-    },
     {
       "date": "2026-02-20",
       "close": 30895.0,
@@ -450,9 +442,24 @@
       "volume": 15569,
       "deliverable_qty": 8597,
       "delivery_pct": 55.22
+    },
+    {
+      "date": "2026-05-21",
+      "close": 34965.0,
+      "prev_close": 30180.0,
+      "volume": 190673,
+      "deliverable_qty": 24373,
+      "delivery_pct": 12.78
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 21:51:18",
+      "an_dt": "21-May-2026 21:51:18",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Honeywell Automation India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HONAUT_21052026215110_Reg30NewspaperPublicationMar26.pdf"
+    },
     {
       "sort_date": "2026-05-20 18:12:26",
       "an_dt": "20-May-2026 18:12:26",

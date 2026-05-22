@@ -8,17 +8,9 @@
   "price": 1281.1,
   "market_cap_cr": 1801.1,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 1157.4,
-      "prev_close": 1129.6,
-      "volume": 314334,
-      "deliverable_qty": 74055,
-      "delivery_pct": 23.56
-    },
     {
       "date": "2026-02-20",
       "close": 1103.2,
@@ -450,9 +442,24 @@
       "volume": 237743,
       "deliverable_qty": 80579,
       "delivery_pct": 33.89
+    },
+    {
+      "date": "2026-05-21",
+      "close": 1159.0,
+      "prev_close": 1188.0,
+      "volume": 510673,
+      "deliverable_qty": 153470,
+      "delivery_pct": 30.05
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 18:29:23",
+      "an_dt": "21-May-2026 18:29:23",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Krishna Defence and Allied Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KRISHNA_21052026182911_InvestorPPT.pdf"
+    },
     {
       "sort_date": "2026-05-20 22:03:21",
       "an_dt": "20-May-2026 22:03:21",

@@ -8,17 +8,9 @@
   "price": 727.7,
   "market_cap_cr": 13683.77,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 650.5,
-      "prev_close": 638.3,
-      "volume": 112080,
-      "deliverable_qty": 47151,
-      "delivery_pct": 42.07
-    },
     {
       "date": "2026-02-20",
       "close": 661.9,
@@ -450,6 +442,14 @@
       "volume": 20258,
       "deliverable_qty": 9733,
       "delivery_pct": 48.05
+    },
+    {
+      "date": "2026-05-21",
+      "close": 689.15,
+      "prev_close": 688.25,
+      "volume": 21730,
+      "deliverable_qty": 12086,
+      "delivery_pct": 55.62
     }
   ],
   "news": [
@@ -669,13 +669,6 @@
       "desc": "Credit Rating",
       "sm_name": "Supreme Petrochem Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINIAN_28022026140255_InitmationCRISIL.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 19:19:38",
-      "an_dt": "19-Feb-2026 19:19:38",
-      "desc": "Credit Rating",
-      "sm_name": "Supreme Petrochem Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINIAN_19022026191706_NSEESGRating19022026.pdf"
     }
   ]
 }

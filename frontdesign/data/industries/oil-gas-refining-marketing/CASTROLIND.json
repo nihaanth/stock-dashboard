@@ -8,17 +8,9 @@
   "price": 178.57,
   "market_cap_cr": 17662.76,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 187.65,
-      "prev_close": 188.24,
-      "volume": 2122989,
-      "deliverable_qty": 1108572,
-      "delivery_pct": 52.22
-    },
     {
       "date": "2026-02-20",
       "close": 187.74,
@@ -450,6 +442,14 @@
       "volume": 836590,
       "deliverable_qty": 629917,
       "delivery_pct": 75.3
+    },
+    {
+      "date": "2026-05-21",
+      "close": 182.24,
+      "prev_close": 182.32,
+      "volume": 524532,
+      "deliverable_qty": 317737,
+      "delivery_pct": 60.58
     }
   ],
   "news": [
@@ -557,13 +557,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Castrol India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CASTROLINDIA_25022026150657_SE_Intimation_Notice_of_48_AGM.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 10:12:30",
-      "an_dt": "19-Feb-2026 10:12:30",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Castrol India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CASTROLINDIA_19022026101139_CL_SE_Intimation_Conference_Call_24Feb2026.pdf"
     }
   ]
 }

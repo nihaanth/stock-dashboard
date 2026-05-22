@@ -8,17 +8,9 @@
   "price": 836.1,
   "market_cap_cr": 9095.52,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 734.7,
-      "prev_close": 747.3,
-      "volume": 211830,
-      "deliverable_qty": 111072,
-      "delivery_pct": 52.43
-    },
     {
       "date": "2026-02-20",
       "close": 722.6,
@@ -450,9 +442,24 @@
       "volume": 46818,
       "deliverable_qty": 24259,
       "delivery_pct": 51.82
+    },
+    {
+      "date": "2026-05-21",
+      "close": 790.1,
+      "prev_close": 779.75,
+      "volume": 146199,
+      "deliverable_qty": 117459,
+      "delivery_pct": 80.34
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 17:15:25",
+      "an_dt": "21-May-2026 17:15:25",
+      "desc": "General Updates",
+      "sm_name": "India Shelter Finance Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ISFC2010_21052026171501_Intimation_to_Stx_for_receipt_of_NOC_for_Promoter_Reclassification.pdf"
+    },
     {
       "sort_date": "2026-05-20 16:44:42",
       "an_dt": "20-May-2026 16:44:42",

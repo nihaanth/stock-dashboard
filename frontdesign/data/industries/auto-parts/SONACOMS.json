@@ -8,17 +8,9 @@
   "price": 593.55,
   "market_cap_cr": 36920.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 528.05,
-      "prev_close": 531.8,
-      "volume": 2559118,
-      "deliverable_qty": 1148620,
-      "delivery_pct": 44.88
-    },
     {
       "date": "2026-02-20",
       "close": 532.1,
@@ -450,6 +442,14 @@
       "volume": 1366708,
       "deliverable_qty": 741878,
       "delivery_pct": 54.28
+    },
+    {
+      "date": "2026-05-21",
+      "close": 584.3,
+      "prev_close": 588.6,
+      "volume": 763533,
+      "deliverable_qty": 330370,
+      "delivery_pct": 43.27
     }
   ],
   "news": [
@@ -578,20 +578,6 @@
       "desc": "Investor Presentation",
       "sm_name": "Sona BLW Precision Forgings Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SONACOMS_12032026095733_Investorpresentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 12:05:53",
-      "an_dt": "19-Feb-2026 12:05:53",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Sona BLW Precision Forgings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SONACOMS_19022026120544_IntimationMarch.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 12:04:10",
-      "an_dt": "19-Feb-2026 12:04:10",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Sona BLW Precision Forgings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SONACOMS_19022026120356_IntimationFeb.pdf"
     }
   ]
 }

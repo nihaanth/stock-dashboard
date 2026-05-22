@@ -8,17 +8,9 @@
   "price": 219.69,
   "market_cap_cr": 1904.11,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 206.26,
-      "prev_close": 210.49,
-      "volume": 79292,
-      "deliverable_qty": 46331,
-      "delivery_pct": 58.43
-    },
     {
       "date": "2026-02-20",
       "close": 204.6,
@@ -450,9 +442,24 @@
       "volume": 67976,
       "deliverable_qty": 23175,
       "delivery_pct": 34.09
+    },
+    {
+      "date": "2026-05-21",
+      "close": 207.0,
+      "prev_close": 199.5,
+      "volume": 130638,
+      "deliverable_qty": 63313,
+      "delivery_pct": 48.46
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 18:24:09",
+      "an_dt": "21-May-2026 18:24:09",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Solarworld Energy Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNSHINE123_21052026182049_Earningcallsintimation26052026signed.pdf"
+    },
     {
       "sort_date": "2026-05-15 17:14:45",
       "an_dt": "15-May-2026 17:14:45",

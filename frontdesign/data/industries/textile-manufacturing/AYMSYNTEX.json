@@ -8,17 +8,9 @@
   "price": 190.68,
   "market_cap_cr": 1120.58,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 197.26,
-      "prev_close": 187.24,
-      "volume": 343276,
-      "deliverable_qty": 229036,
-      "delivery_pct": 66.72
-    },
     {
       "date": "2026-02-20",
       "close": 193.27,
@@ -450,9 +442,24 @@
       "volume": 23161,
       "deliverable_qty": 11354,
       "delivery_pct": 49.02
+    },
+    {
+      "date": "2026-05-21",
+      "close": 209.86,
+      "prev_close": 218.51,
+      "volume": 62691,
+      "deliverable_qty": 42626,
+      "delivery_pct": 67.99
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 11:49:16",
+      "an_dt": "21-May-2026 11:49:16",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "AYM Syntex Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYMSYNTEX_21052026114859_AYMSLReg47NewspaperPublication21052026.pdf"
+    },
     {
       "sort_date": "2026-05-19 20:23:03",
       "an_dt": "19-May-2026 20:23:03",

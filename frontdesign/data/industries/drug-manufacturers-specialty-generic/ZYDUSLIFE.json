@@ -8,17 +8,9 @@
   "price": 956.95,
   "market_cap_cr": 96291.56,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 902.4,
-      "prev_close": 910.05,
-      "volume": 736002,
-      "deliverable_qty": 185181,
-      "delivery_pct": 25.16
-    },
     {
       "date": "2026-02-20",
       "close": 900.75,
@@ -450,9 +442,31 @@
       "volume": 13503459,
       "deliverable_qty": 2612328,
       "delivery_pct": 19.35
+    },
+    {
+      "date": "2026-05-21",
+      "close": 1036.45,
+      "prev_close": 1040.85,
+      "volume": 1920511,
+      "deliverable_qty": 916592,
+      "delivery_pct": 47.73
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 13:10:50",
+      "an_dt": "21-May-2026 13:10:50",
+      "desc": "Updates",
+      "sm_name": "Zydus Lifesciences Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Cadilahc_21052026131019_PAstockexchanges.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 11:37:22",
+      "an_dt": "21-May-2026 11:37:22",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Zydus Lifesciences Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Cadilahc_21052026113627_Investorconference21052026.pdf"
+    },
     {
       "sort_date": "2026-05-20 12:51:16",
       "an_dt": "20-May-2026 12:51:16",
@@ -809,20 +823,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Zydus Lifesciences Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Cadilahc_25022026141747_Newspaperpublication25022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 20:41:07",
-      "an_dt": "19-Feb-2026 20:41:07",
-      "desc": "Press Release",
-      "sm_name": "Zydus Lifesciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Cadilahc_19022026204048_PressRelease19022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 09:50:36",
-      "an_dt": "19-Feb-2026 09:50:36",
-      "desc": "Press Release",
-      "sm_name": "Zydus Lifesciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Cadilahc_19022026094949_PressRelease19022026.pdf"
     }
   ]
 }

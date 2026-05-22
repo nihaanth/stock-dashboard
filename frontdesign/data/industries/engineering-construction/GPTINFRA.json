@@ -8,17 +8,9 @@
   "price": 116.63,
   "market_cap_cr": 1473.79,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 123.0,
-      "prev_close": 121.98,
-      "volume": 377939,
-      "deliverable_qty": 148261,
-      "delivery_pct": 39.23
-    },
     {
       "date": "2026-02-20",
       "close": 121.95,
@@ -450,9 +442,31 @@
       "volume": 308290,
       "deliverable_qty": 151623,
       "delivery_pct": 49.18
+    },
+    {
+      "date": "2026-05-21",
+      "close": 119.22,
+      "prev_close": 119.85,
+      "volume": 1416753,
+      "deliverable_qty": 332339,
+      "delivery_pct": 23.46
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 15:53:24",
+      "an_dt": "21-May-2026 15:53:24",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "GPT Infraprojects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPTINFRA_21052026155305_GIL_SE_Intimation_Newspaper_Publication_SGD.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 15:47:49",
+      "an_dt": "21-May-2026 15:47:49",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "GPT Infraprojects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPTINFRA_21052026154729_GIL_Audio_Call_21052026_Sgd.pdf"
+    },
     {
       "sort_date": "2026-05-20 19:46:19",
       "an_dt": "20-May-2026 19:46:19",

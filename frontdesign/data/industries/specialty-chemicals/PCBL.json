@@ -8,17 +8,9 @@
   "price": 294.15,
   "market_cap_cr": 11573.7,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 306.65,
-      "prev_close": 314.1,
-      "volume": 809003,
-      "deliverable_qty": 239260,
-      "delivery_pct": 29.57
-    },
     {
       "date": "2026-02-20",
       "close": 305.6,
@@ -450,9 +442,38 @@
       "volume": 20683867,
       "deliverable_qty": 1311747,
       "delivery_pct": 6.34
+    },
+    {
+      "date": "2026-05-21",
+      "close": 290.15,
+      "prev_close": 292.65,
+      "volume": 1215776,
+      "deliverable_qty": 254727,
+      "delivery_pct": 20.95
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 17:48:29",
+      "an_dt": "21-May-2026 17:48:29",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "PCBL Chemical Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PCBL_21052026174815_IntimationofInvestormeet.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 17:46:57",
+      "an_dt": "21-May-2026 17:46:57",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "PCBL Chemical Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PCBL_21052026174635_IntimationofInvestormeet.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 11:59:04",
+      "an_dt": "21-May-2026 11:59:04",
+      "desc": "Updates",
+      "sm_name": "PCBL Chemical Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PCBL_21052026115543_Relodgementoftransferofphysicalsharesforapril.pdf"
+    },
     {
       "sort_date": "2026-05-20 18:02:44",
       "an_dt": "20-May-2026 18:02:44",

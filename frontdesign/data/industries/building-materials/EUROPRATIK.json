@@ -8,17 +8,9 @@
   "price": 239.32,
   "market_cap_cr": 2445.85,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 249.21,
-      "prev_close": 250.27,
-      "volume": 190534,
-      "deliverable_qty": 60789,
-      "delivery_pct": 31.9
-    },
     {
       "date": "2026-02-20",
       "close": 258.74,
@@ -450,6 +442,14 @@
       "volume": 1035668,
       "deliverable_qty": 736105,
       "delivery_pct": 71.08
+    },
+    {
+      "date": "2026-05-21",
+      "close": 265.0,
+      "prev_close": 269.15,
+      "volume": 1405170,
+      "deliverable_qty": 1070660,
+      "delivery_pct": 76.19
     }
   ],
   "news": [
@@ -578,13 +578,6 @@
       "desc": "Action(s) initiated or orders passed",
       "sm_name": "Euro Pratik Sales Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EUROPRATIK2025_02032026155107_GST_Intimation_to_Exchange_020326.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 18:07:04",
-      "an_dt": "19-Feb-2026 18:07:04",
-      "desc": "Press Release",
-      "sm_name": "Euro Pratik Sales Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EUROPRATIK2025_19022026180649_Intimation.pdf"
     }
   ]
 }

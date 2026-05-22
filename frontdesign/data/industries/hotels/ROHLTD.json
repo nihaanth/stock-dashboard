@@ -8,17 +8,9 @@
   "price": 338.15,
   "market_cap_cr": 927.38,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 369.6,
-      "prev_close": 363.05,
-      "volume": 60816,
-      "deliverable_qty": 23452,
-      "delivery_pct": 38.56
-    },
     {
       "date": "2026-02-20",
       "close": 362.85,
@@ -450,9 +442,24 @@
       "volume": 17232,
       "deliverable_qty": 11985,
       "delivery_pct": 69.55
+    },
+    {
+      "date": "2026-05-21",
+      "close": 335.4,
+      "prev_close": 326.85,
+      "volume": 14506,
+      "deliverable_qty": 7073,
+      "delivery_pct": 48.76
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 18:02:04",
+      "an_dt": "21-May-2026 18:02:04",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Royal Orchid Hotels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ROHLTD_21052026180134_IntimationofAnalystMeet21052026.pdf"
+    },
     {
       "sort_date": "2026-05-19 13:52:58",
       "an_dt": "19-May-2026 13:52:58",
@@ -564,13 +571,6 @@
       "desc": "General Updates",
       "sm_name": "Royal Orchid Hotels Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ROHLTD_20022026183728_Intimation_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 18:42:52",
-      "an_dt": "19-Feb-2026 18:42:52",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Royal Orchid Hotels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ROHLTD_19022026184243_Intimation_Signed.pdf"
     }
   ]
 }

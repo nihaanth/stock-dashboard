@@ -8,17 +8,9 @@
   "price": 482.5,
   "market_cap_cr": 19389.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 438.2,
-      "prev_close": 433.15,
-      "volume": 1609859,
-      "deliverable_qty": 845106,
-      "delivery_pct": 52.5
-    },
     {
       "date": "2026-02-20",
       "close": 442.7,
@@ -450,9 +442,31 @@
       "volume": 615295,
       "deliverable_qty": 252562,
       "delivery_pct": 41.05
+    },
+    {
+      "date": "2026-05-21",
+      "close": 470.2,
+      "prev_close": 466.05,
+      "volume": 370003,
+      "deliverable_qty": 165936,
+      "delivery_pct": 44.85
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 17:54:01",
+      "an_dt": "21-May-2026 17:54:01",
+      "desc": "General Updates",
+      "sm_name": "Syngene International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SYNGENE2_21052026175315_SEIntimationIEPF.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 15:17:01",
+      "an_dt": "21-May-2026 15:17:01",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Syngene International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SYNGENE2_21052026151354_SEIntimationNewspaperPB_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-20 21:57:14",
       "an_dt": "20-May-2026 21:57:14",

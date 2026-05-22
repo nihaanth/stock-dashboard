@@ -8,17 +8,9 @@
   "price": 525.7,
   "market_cap_cr": 2827.43,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 469.05,
-      "prev_close": 468.55,
-      "volume": 144398,
-      "deliverable_qty": 56477,
-      "delivery_pct": 39.11
-    },
     {
       "date": "2026-02-20",
       "close": 470.5,
@@ -450,9 +442,24 @@
       "volume": 675195,
       "deliverable_qty": 258746,
       "delivery_pct": 38.32
+    },
+    {
+      "date": "2026-05-21",
+      "close": 575.85,
+      "prev_close": 556.45,
+      "volume": 973715,
+      "deliverable_qty": 404788,
+      "delivery_pct": 41.57
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 12:19:44",
+      "an_dt": "21-May-2026 12:19:44",
+      "desc": "Credit Rating",
+      "sm_name": "Premier Explosives Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PREMEXPLN_21052026121927_BSENSECreditRatingsUpdates21052026.pdf"
+    },
     {
       "sort_date": "2026-05-05 15:52:45",
       "an_dt": "05-May-2026 15:52:45",
@@ -550,13 +557,6 @@
       "desc": "General Updates",
       "sm_name": "Premier Explosives Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PREMEXPLN_20022026170413_BSENSEReg29DisclosuresIntimation20022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 15:08:00",
-      "an_dt": "19-Feb-2026 15:08:00",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Premier Explosives Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PREMEXPLN_19022026150743_BSENSEInvestorPresentationQ3FY26.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 3157.8,
   "market_cap_cr": 112455.74,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 2757.7,
-      "prev_close": 2798.5,
-      "volume": 311037,
-      "deliverable_qty": 159140,
-      "delivery_pct": 51.16
-    },
     {
       "date": "2026-02-20",
       "close": 2774.6,
@@ -450,9 +442,24 @@
       "volume": 3683159,
       "deliverable_qty": 1467156,
       "delivery_pct": 39.83
+    },
+    {
+      "date": "2026-05-21",
+      "close": 3574.5,
+      "prev_close": 3459.6,
+      "volume": 2115768,
+      "deliverable_qty": 509046,
+      "delivery_pct": 24.06
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 16:27:43",
+      "an_dt": "21-May-2026 16:27:43",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Siemens Energy India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENRIN_21052026162721_EarningsCallTranscript15052026.pdf"
+    },
     {
       "sort_date": "2026-05-15 18:12:16",
       "an_dt": "15-May-2026 18:12:16",

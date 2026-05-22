@@ -8,17 +8,9 @@
   "price": 98.1,
   "market_cap_cr": 103583.55,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 99.06,
-      "prev_close": 100.36,
-      "volume": 10000773,
-      "deliverable_qty": 4344056,
-      "delivery_pct": 43.44
-    },
     {
       "date": "2026-02-20",
       "close": 99.75,
@@ -450,6 +442,14 @@
       "volume": 48818204,
       "deliverable_qty": 28214134,
       "delivery_pct": 57.79
+    },
+    {
+      "date": "2026-05-21",
+      "close": 96.87,
+      "prev_close": 94.5,
+      "volume": 13703695,
+      "deliverable_qty": 6294316,
+      "delivery_pct": 45.93
     }
   ],
   "news": [
@@ -522,20 +522,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "GMR AIRPORTS LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GMRINFRA_20022026164432_20022026-Special_Window.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 19:15:55",
-      "an_dt": "19-Feb-2026 19:15:55",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "GMR AIRPORTS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GMRINFRA_19022026191117_23022026-_Institutional_Investor_Call_kotak.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 19:08:16",
-      "an_dt": "19-Feb-2026 19:08:16",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "GMR AIRPORTS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GMRINFRA_19022026190443_20260219-TranscriptofConferencecall.pdf"
     }
   ]
 }

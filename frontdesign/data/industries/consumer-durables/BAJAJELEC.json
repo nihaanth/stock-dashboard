@@ -8,17 +8,9 @@
   "price": 397.75,
   "market_cap_cr": 4589.67,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 383.05,
-      "prev_close": 383.9,
-      "volume": 109055,
-      "deliverable_qty": 38981,
-      "delivery_pct": 35.74
-    },
     {
       "date": "2026-02-20",
       "close": 384.55,
@@ -450,9 +442,31 @@
       "volume": 141601,
       "deliverable_qty": 52211,
       "delivery_pct": 36.87
+    },
+    {
+      "date": "2026-05-21",
+      "close": 340.1,
+      "prev_close": 342.6,
+      "volume": 214642,
+      "deliverable_qty": 98872,
+      "delivery_pct": 46.06
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 21:04:12",
+      "an_dt": "21-May-2026 21:04:12",
+      "desc": "Allotment of Securities",
+      "sm_name": "Bajaj Electricals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BAJAJELEC_21052026210140_FinalSignedSEIntimationSRCMAllotment21052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 17:38:50",
+      "an_dt": "21-May-2026 17:38:50",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Bajaj Electricals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BAJAJELEC_ROID_87427_KMP_Doc.zip"
+    },
     {
       "sort_date": "2026-05-20 20:31:51",
       "an_dt": "20-May-2026 20:31:51",
@@ -746,13 +760,6 @@
       "desc": "Appointment",
       "sm_name": "Bajaj Electricals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BAJAJELEC_24022026203042_SignedSEIntimationSMP24022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 16:24:45",
-      "an_dt": "19-Feb-2026 16:24:45",
-      "desc": "General Updates",
-      "sm_name": "Bajaj Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BAJAJELEC_19022026162421_SignedSEIntimation18022026RefundOrder.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 888.75,
   "market_cap_cr": 29933.53,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 1026.1,
-      "prev_close": 985.1,
-      "volume": 1135226,
-      "deliverable_qty": 133626,
-      "delivery_pct": 11.77
-    },
     {
       "date": "2026-02-20",
       "close": 1034.35,
@@ -450,6 +442,14 @@
       "volume": 84234,
       "deliverable_qty": 25781,
       "delivery_pct": 30.61
+    },
+    {
+      "date": "2026-05-21",
+      "close": 1111.45,
+      "prev_close": 1124.15,
+      "volume": 79298,
+      "deliverable_qty": 29059,
+      "delivery_pct": 36.65
     }
   ],
   "news": [
@@ -634,20 +634,6 @@
       "desc": "Trading Window",
       "sm_name": "Godrej Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Anupama_27032026192646_ClosureofTradingWindow_31032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 20:46:24",
-      "an_dt": "19-Feb-2026 20:46:24",
-      "desc": "Spurt in Volume",
-      "sm_name": "Godrej Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Anupama_19022026204432_NSE_Reply_Spurt_in_Volume.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 19:02:15",
-      "an_dt": "19-Feb-2026 19:02:15",
-      "desc": "Spurt in Volume",
-      "sm_name": "Godrej Industries Limited",
-      "attchmntFile": "-"
     }
   ]
 }

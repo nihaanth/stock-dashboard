@@ -8,17 +8,9 @@
   "price": 2279.5,
   "market_cap_cr": 1408.28,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 2257.1,
-      "prev_close": 2323.4,
-      "volume": 2592,
-      "deliverable_qty": 1543,
-      "delivery_pct": 59.53
-    },
     {
       "date": "2026-02-20",
       "close": 2346.4,
@@ -450,9 +442,38 @@
       "volume": 16647,
       "deliverable_qty": 8068,
       "delivery_pct": 48.47
+    },
+    {
+      "date": "2026-05-21",
+      "close": 2501.9,
+      "prev_close": 2410.1,
+      "volume": 11247,
+      "deliverable_qty": 6998,
+      "delivery_pct": 62.22
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 21:41:31",
+      "an_dt": "21-May-2026 21:41:31",
+      "desc": "Change in Management",
+      "sm_name": "NGL Fine-Chem Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NGL2022_21052026214122_Outcome_and_Result_opt_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 21:33:46",
+      "an_dt": "21-May-2026 21:33:46",
+      "desc": "Record Date",
+      "sm_name": "NGL Fine-Chem Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NGL2022_21052026213306_Outcome_and_Result_opt_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 21:31:17",
+      "an_dt": "21-May-2026 21:31:17",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "NGL Fine-Chem Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NGL2022_21052026213008_Outcome_and_Result_opt_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-19 23:09:08",
       "an_dt": "19-May-2026 23:09:08",

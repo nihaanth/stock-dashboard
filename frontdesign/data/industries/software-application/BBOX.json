@@ -8,17 +8,9 @@
   "price": 788.1,
   "market_cap_cr": 13988.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 515.35,
-      "prev_close": 529.55,
-      "volume": 456125,
-      "deliverable_qty": 185935,
-      "delivery_pct": 40.76
-    },
     {
       "date": "2026-02-20",
       "close": 513.6,
@@ -450,6 +442,14 @@
       "volume": 658162,
       "deliverable_qty": 173870,
       "delivery_pct": 26.42
+    },
+    {
+      "date": "2026-05-21",
+      "close": 952.05,
+      "prev_close": 944.15,
+      "volume": 498376,
+      "deliverable_qty": 139055,
+      "delivery_pct": 27.9
     }
   ],
   "news": [
@@ -585,13 +585,6 @@
       "desc": "Allotment of Securities",
       "sm_name": "Black Box Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBOX_28022026140647_SE_Allotment.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 20:49:16",
-      "an_dt": "19-Feb-2026 20:49:16",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Black Box Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBOX_19022026204907_SE_Intimation_Transcript_Q3FY26.pdf"
     }
   ]
 }

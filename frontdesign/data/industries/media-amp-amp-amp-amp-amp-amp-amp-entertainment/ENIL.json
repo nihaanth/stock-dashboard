@@ -8,17 +8,9 @@
   "price": 122.41,
   "market_cap_cr": 583.53,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 109.04,
-      "prev_close": 105.49,
-      "volume": 11084,
-      "deliverable_qty": 6731,
-      "delivery_pct": 60.73
-    },
     {
       "date": "2026-02-20",
       "close": 106.61,
@@ -450,9 +442,24 @@
       "volume": 4000,
       "deliverable_qty": 2191,
       "delivery_pct": 54.78
+    },
+    {
+      "date": "2026-05-21",
+      "close": 110.03,
+      "prev_close": 111.04,
+      "volume": 5349,
+      "deliverable_qty": 4269,
+      "delivery_pct": 79.81
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 23:16:46",
+      "an_dt": "21-May-2026 23:16:46",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Entertainment Network (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENIL_21052026231633_ENIL20260521TranscriptQ4FY26.pdf"
+    },
     {
       "sort_date": "2026-05-18 21:41:10",
       "an_dt": "18-May-2026 21:41:10",
@@ -550,13 +557,6 @@
       "desc": "Trading Window",
       "sm_name": "Entertainment Network (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENIL_19032026190139_ENIL20260319TradingWindow.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 13:37:58",
-      "an_dt": "19-Feb-2026 13:37:58",
-      "desc": "General Updates",
-      "sm_name": "Entertainment Network (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENIL_19022026133741_ENIL20260219Reg30A.pdf"
     }
   ]
 }

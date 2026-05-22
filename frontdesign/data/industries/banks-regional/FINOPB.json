@@ -8,17 +8,9 @@
   "price": 132.81,
   "market_cap_cr": 1105.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 211.42,
-      "prev_close": 216.28,
-      "volume": 164891,
-      "deliverable_qty": 93570,
-      "delivery_pct": 56.75
-    },
     {
       "date": "2026-02-20",
       "close": 213.08,
@@ -450,9 +442,31 @@
       "volume": 204466,
       "deliverable_qty": 77367,
       "delivery_pct": 37.84
+    },
+    {
+      "date": "2026-05-21",
+      "close": 120.86,
+      "prev_close": 121.44,
+      "volume": 256024,
+      "deliverable_qty": 117649,
+      "delivery_pct": 45.95
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 20:43:13",
+      "an_dt": "21-May-2026 20:43:13",
+      "desc": "Change in Director(s)",
+      "sm_name": "Fino Payments Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINOPB_21052026204246_Cover_Outcome_May_21_2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 20:38:32",
+      "an_dt": "21-May-2026 20:38:32",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Fino Payments Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINOPB_21052026203648_Cover_Outcome_May_21_2026.pdf"
+    },
     {
       "sort_date": "2026-05-19 18:08:17",
       "an_dt": "19-May-2026 18:08:17",

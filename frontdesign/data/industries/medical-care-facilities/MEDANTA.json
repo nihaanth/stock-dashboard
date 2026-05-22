@@ -8,17 +8,9 @@
   "price": 1239.2,
   "market_cap_cr": 33297.17,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 1139.7,
-      "prev_close": 1173.1,
-      "volume": 96134,
-      "deliverable_qty": 44377,
-      "delivery_pct": 46.16
-    },
     {
       "date": "2026-02-20",
       "close": 1130.0,
@@ -450,6 +442,14 @@
       "volume": 149238,
       "deliverable_qty": 90617,
       "delivery_pct": 60.72
+    },
+    {
+      "date": "2026-05-21",
+      "close": 1240.2,
+      "prev_close": 1240.1,
+      "volume": 77180,
+      "deliverable_qty": 37751,
+      "delivery_pct": 48.91
     }
   ],
   "news": [
@@ -655,13 +655,6 @@
       "desc": "General Updates",
       "sm_name": "Global Health Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDANTA21_20022026132848_GHLESGRATINGFEBRUARY202026SIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 17:48:00",
-      "an_dt": "19-Feb-2026 17:48:00",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Global Health Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDANTA21_19022026174625_GHLANALYSTSMEETFEB192026SIGNED.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 255.03,
   "market_cap_cr": 759.51,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 256.6,
-      "prev_close": 261.3,
-      "volume": 49415,
-      "deliverable_qty": 22736,
-      "delivery_pct": 46.01
-    },
     {
       "date": "2026-02-20",
       "close": 254.05,
@@ -450,6 +442,14 @@
       "volume": 26392,
       "deliverable_qty": 13270,
       "delivery_pct": 50.28
+    },
+    {
+      "date": "2026-05-21",
+      "close": 246.75,
+      "prev_close": 247.1,
+      "volume": 15671,
+      "deliverable_qty": 6346,
+      "delivery_pct": 40.5
     }
   ],
   "news": [
@@ -648,13 +648,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "ZUARI INDUSTRIES LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZUARIGLOB_20022026114100_NP_Transfer_and_Dematerialisation_of_Physical_Securities.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 16:26:45",
-      "an_dt": "19-Feb-2026 16:26:45",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "ZUARI INDUSTRIES LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZUARIGLOB_19022026162636_TranscriptEarnings_Call16022026.pdf"
     }
   ]
 }

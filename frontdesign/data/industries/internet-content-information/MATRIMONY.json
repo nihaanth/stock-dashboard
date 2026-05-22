@@ -8,17 +8,9 @@
   "price": 440.55,
   "market_cap_cr": 910.63,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 471.0,
-      "prev_close": 484.55,
-      "volume": 54685,
-      "deliverable_qty": 26422,
-      "delivery_pct": 48.32
-    },
     {
       "date": "2026-02-20",
       "close": 458.55,
@@ -450,6 +442,14 @@
       "volume": 10113,
       "deliverable_qty": 8484,
       "delivery_pct": 83.89
+    },
+    {
+      "date": "2026-05-21",
+      "close": 417.4,
+      "prev_close": 422.05,
+      "volume": 38977,
+      "deliverable_qty": 34583,
+      "delivery_pct": 88.73
     }
   ],
   "news": [
@@ -585,13 +585,6 @@
       "desc": "Post Buyback Public Announcement",
       "sm_name": "Matrimony.Com Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MATRIMONY_20022026223842_NSEnewspaperpublicationPostBuyback20Feb26signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 17:43:15",
-      "an_dt": "19-Feb-2026 17:43:15",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Matrimony.Com Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MATRIMONY_19022026174139_NSEConcalltranscript19Feb26.pdf"
     }
   ]
 }

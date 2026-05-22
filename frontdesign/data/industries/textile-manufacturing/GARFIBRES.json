@@ -8,17 +8,9 @@
   "price": 626.2,
   "market_cap_cr": 6216.03,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 661.6,
-      "prev_close": 678.15,
-      "volume": 59634,
-      "deliverable_qty": 31093,
-      "delivery_pct": 52.14
-    },
     {
       "date": "2026-02-20",
       "close": 657.9,
@@ -450,9 +442,24 @@
       "volume": 33870,
       "deliverable_qty": 19337,
       "delivery_pct": 57.09
+    },
+    {
+      "date": "2026-05-21",
+      "close": 622.1,
+      "prev_close": 635.2,
+      "volume": 116775,
+      "deliverable_qty": 54505,
+      "delivery_pct": 46.68
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 15:45:08",
+      "an_dt": "21-May-2026 15:45:08",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Garware Technical Fibres Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GARFIBRES_21052026154458_NewspaperFR21052026.pdf"
+    },
     {
       "sort_date": "2026-05-20 18:26:01",
       "an_dt": "20-May-2026 18:26:01",

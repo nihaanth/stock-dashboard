@@ -8,17 +8,9 @@
   "price": 375.05,
   "market_cap_cr": 1060.15,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 349.2,
-      "prev_close": 355.7,
-      "volume": 7618,
-      "deliverable_qty": 4114,
-      "delivery_pct": 54.0
-    },
     {
       "date": "2026-02-20",
       "close": 340.4,
@@ -450,9 +442,24 @@
       "volume": 18744,
       "deliverable_qty": 12275,
       "delivery_pct": 65.49
+    },
+    {
+      "date": "2026-05-21",
+      "close": 352.55,
+      "prev_close": 355.5,
+      "volume": 7075,
+      "deliverable_qty": 3377,
+      "delivery_pct": 47.73
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 19:28:01",
+      "an_dt": "21-May-2026 19:28:01",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Crest Ventures Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CREST_21052026192628_NRCOutcomeMay212026Signed.pdf"
+    },
     {
       "sort_date": "2026-04-10 11:23:19",
       "an_dt": "10-Apr-2026 11:23:19",

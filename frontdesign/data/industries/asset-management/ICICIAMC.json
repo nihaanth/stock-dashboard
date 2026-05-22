@@ -8,17 +8,9 @@
   "price": 3353.5,
   "market_cap_cr": 165749.6,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 3026.2,
-      "prev_close": 3074.6,
-      "volume": 172893,
-      "deliverable_qty": 86883,
-      "delivery_pct": 50.25
-    },
     {
       "date": "2026-02-20",
       "close": 3023.8,
@@ -450,9 +442,31 @@
       "volume": 208375,
       "deliverable_qty": 101109,
       "delivery_pct": 48.52
+    },
+    {
+      "date": "2026-05-21",
+      "close": 3199.7,
+      "prev_close": 3137.4,
+      "volume": 262149,
+      "deliverable_qty": 130666,
+      "delivery_pct": 49.84
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 18:20:24",
+      "an_dt": "21-May-2026 18:20:24",
+      "desc": "Record Date",
+      "sm_name": "ICICI Prudential Asset Management Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMCSECRETARIAL_21052026181917_ICICIAMCintimationofAGM.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 18:17:50",
+      "an_dt": "21-May-2026 18:17:50",
+      "desc": "Updates",
+      "sm_name": "ICICI Prudential Asset Management Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMCSECRETARIAL_21052026181650_ICICIAMCintimationofAGM.pdf"
+    },
     {
       "sort_date": "2026-04-27 15:11:23",
       "an_dt": "27-Apr-2026 15:11:23",

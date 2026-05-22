@@ -8,17 +8,9 @@
   "price": 6387.5,
   "market_cap_cr": 135356.47,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 5719.5,
-      "prev_close": 5881.5,
-      "volume": 136031,
-      "deliverable_qty": 45793,
-      "delivery_pct": 33.66
-    },
     {
       "date": "2026-02-20",
       "close": 5987.0,
@@ -450,6 +442,14 @@
       "volume": 546490,
       "deliverable_qty": 245204,
       "delivery_pct": 44.87
+    },
+    {
+      "date": "2026-05-21",
+      "close": 6598.0,
+      "prev_close": 6605.0,
+      "volume": 498808,
+      "deliverable_qty": 197216,
+      "delivery_pct": 39.54
     }
   ],
   "news": [
@@ -613,34 +613,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "ABB India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABB_20022026141828_AnalystcallQ42025.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 17:45:37",
-      "an_dt": "19-Feb-2026 17:45:37",
-      "desc": "Press Release",
-      "sm_name": "ABB India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABB_19022026174454_Press_ReleaseQ42025.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 17:24:04",
-      "an_dt": "19-Feb-2026 17:24:04",
-      "desc": "Record Date",
-      "sm_name": "ABB India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABB_19022026172329_Reg_30_Disclosure.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 17:19:02",
-      "an_dt": "19-Feb-2026 17:19:02",
-      "desc": "Dividend",
-      "sm_name": "ABB India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABB_19022026171509_Reg_30_Disclosure.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 17:12:04",
-      "an_dt": "19-Feb-2026 17:12:04",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "ABB India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABB_19022026170503_Regu33QuartelryResultsQ42025.pdf"
     }
   ]
 }

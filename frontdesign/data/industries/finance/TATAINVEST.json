@@ -8,17 +8,9 @@
   "price": 713.2,
   "market_cap_cr": 36084.57,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 692.3,
-      "prev_close": 644.0,
-      "volume": 23162821,
-      "deliverable_qty": 1457348,
-      "delivery_pct": 6.29
-    },
     {
       "date": "2026-02-20",
       "close": 707.1,
@@ -450,6 +442,14 @@
       "volume": 280905,
       "deliverable_qty": 72247,
       "delivery_pct": 25.72
+    },
+    {
+      "date": "2026-05-21",
+      "close": 668.35,
+      "prev_close": 662.1,
+      "volume": 354981,
+      "deliverable_qty": 89532,
+      "delivery_pct": 25.22
     }
   ],
   "news": [
@@ -564,20 +564,6 @@
       "desc": "Spurt in Volume",
       "sm_name": "Tata Investment Corporation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATAINVEST_20022026100627_NSE_Letter.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 19:01:56",
-      "an_dt": "19-Feb-2026 19:01:56",
-      "desc": "Spurt in Volume",
-      "sm_name": "Tata Investment Corporation Limited",
-      "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-02-19 11:49:36",
-      "an_dt": "19-Feb-2026 11:49:36",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Tata Investment Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATAINVEST_19022026114926_SE_Int.pdf"
     }
   ]
 }

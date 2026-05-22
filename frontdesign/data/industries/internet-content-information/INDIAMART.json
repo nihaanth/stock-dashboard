@@ -8,17 +8,9 @@
   "price": 2065.0,
   "market_cap_cr": 12413.18,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 2160.5,
-      "prev_close": 2179.5,
-      "volume": 95722,
-      "deliverable_qty": 72642,
-      "delivery_pct": 75.89
-    },
     {
       "date": "2026-02-20",
       "close": 2185.7,
@@ -450,9 +442,24 @@
       "volume": 71609,
       "deliverable_qty": 50172,
       "delivery_pct": 70.06
+    },
+    {
+      "date": "2026-05-21",
+      "close": 2030.2,
+      "prev_close": 1998.0,
+      "volume": 50216,
+      "deliverable_qty": 32064,
+      "delivery_pct": 63.85
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 17:19:01",
+      "an_dt": "21-May-2026 17:19:01",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Indiamart Intermesh Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIAMART_21052026171851_InvestorMeetDisclosure_21052026.pdf"
+    },
     {
       "sort_date": "2026-05-19 13:18:37",
       "an_dt": "19-May-2026 13:18:37",
@@ -676,13 +683,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Indiamart Intermesh Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIAMART_25022026132838_InvestorMeetDisclosure25022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 13:35:08",
-      "an_dt": "19-Feb-2026 13:35:08",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Indiamart Intermesh Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIAMART_19022026132959_InvestorMeetDisclosure19022026.pdf"
     }
   ]
 }

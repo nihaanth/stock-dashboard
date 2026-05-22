@@ -8,17 +8,9 @@
   "price": 253.75,
   "market_cap_cr": 3481.94,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 243.92,
-      "prev_close": 242.74,
-      "volume": 3541256,
-      "deliverable_qty": 530679,
-      "delivery_pct": 14.99
-    },
     {
       "date": "2026-02-20",
       "close": 239.71,
@@ -450,6 +442,14 @@
       "volume": 862529,
       "deliverable_qty": 277276,
       "delivery_pct": 32.15
+    },
+    {
+      "date": "2026-05-21",
+      "close": 278.55,
+      "prev_close": 277.05,
+      "volume": 1029974,
+      "deliverable_qty": 380226,
+      "delivery_pct": 36.92
     }
   ],
   "news": [
@@ -620,20 +620,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Refex Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/REFEX2002_27022026220722_RIL_ESOP_STX_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 09:24:00",
-      "an_dt": "19-Feb-2026 09:24:00",
-      "desc": "General Updates",
-      "sm_name": "Refex Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/REFEX2002_19022026092325_RIL_STX_SAT_Stay_Order_Sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 09:14:07",
-      "an_dt": "19-Feb-2026 09:14:07",
-      "desc": "Rumour Verification - Regulation 30(11)",
-      "sm_name": "Refex Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/REFEX2002_19022026091348_RIL_STX_Intimation_IT_Search_RTI_Response_Sd.pdf"
     }
   ]
 }

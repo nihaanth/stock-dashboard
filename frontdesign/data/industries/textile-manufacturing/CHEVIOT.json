@@ -8,17 +8,9 @@
   "price": 1273.2,
   "market_cap_cr": 743.79,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 1069.7,
-      "prev_close": 1079.9,
-      "volume": 1061,
-      "deliverable_qty": 828,
-      "delivery_pct": 78.04
-    },
     {
       "date": "2026-02-20",
       "close": 1082.3,
@@ -450,9 +442,45 @@
       "volume": 1384,
       "deliverable_qty": 972,
       "delivery_pct": 70.23
+    },
+    {
+      "date": "2026-05-21",
+      "close": 1207.5,
+      "prev_close": 1222.9,
+      "volume": 5983,
+      "deliverable_qty": 3195,
+      "delivery_pct": 53.4
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 17:07:30",
+      "an_dt": "21-May-2026 17:07:30",
+      "desc": "Shareholders meeting",
+      "sm_name": "Cheviot Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CHEVIOT_21052026170604_AGM.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 16:45:52",
+      "an_dt": "21-May-2026 16:45:52",
+      "desc": "Record Date",
+      "sm_name": "Cheviot Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CHEVIOT_21052026164538_Outcome.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 16:41:26",
+      "an_dt": "21-May-2026 16:41:26",
+      "desc": "Dividend",
+      "sm_name": "Cheviot Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CHEVIOT_21052026164047_Outcome.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 16:33:20",
+      "an_dt": "21-May-2026 16:33:20",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Cheviot Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CHEVIOT_21052026163106_Outcome.pdf"
+    },
     {
       "sort_date": "2026-05-08 13:40:58",
       "an_dt": "08-May-2026 13:40:58",

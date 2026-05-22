@@ -8,17 +8,9 @@
   "price": 155.45,
   "market_cap_cr": 1971.26,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 1340.2,
-      "prev_close": 1286.6,
-      "volume": 54133,
-      "deliverable_qty": 20955,
-      "delivery_pct": 38.71
-    },
     {
       "date": "2026-02-20",
       "close": 1392.5,
@@ -450,6 +442,14 @@
       "volume": 435821,
       "deliverable_qty": 122978,
       "delivery_pct": 28.22
+    },
+    {
+      "date": "2026-05-21",
+      "close": 142.5,
+      "prev_close": 149.55,
+      "volume": 315681,
+      "deliverable_qty": 141363,
+      "delivery_pct": 44.78
     }
   ],
   "news": [
@@ -564,27 +564,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Silver Touch Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SILVERTUC_20022026102117_Newspaper_Advt_Record_date_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 10:47:28",
-      "an_dt": "19-Feb-2026 10:47:28",
-      "desc": "Record Date",
-      "sm_name": "Silver Touch Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SILVERTUC_19022026104708_Intimation_of_Record_Date_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 10:42:40",
-      "an_dt": "19-Feb-2026 10:42:40",
-      "desc": "Shareholders meeting",
-      "sm_name": "Silver Touch Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SILVERTUC_19022026104230_Outcome_of_PBsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 10:38:30",
-      "an_dt": "19-Feb-2026 10:38:30",
-      "desc": "Shareholders meeting",
-      "sm_name": "Silver Touch Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SILVERTUC_19022026103819_Outcome_of_PBsigned.pdf"
     }
   ]
 }

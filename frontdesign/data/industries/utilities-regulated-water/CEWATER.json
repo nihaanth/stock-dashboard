@@ -8,17 +8,9 @@
   "price": 310.4,
   "market_cap_cr": 642.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 342.4,
-      "prev_close": 343.55,
-      "volume": 27592,
-      "deliverable_qty": 14822,
-      "delivery_pct": 53.72
-    },
     {
       "date": "2026-02-20",
       "close": 339.9,
@@ -450,9 +442,24 @@
       "volume": 32038,
       "deliverable_qty": 14381,
       "delivery_pct": 44.89
+    },
+    {
+      "date": "2026-05-21",
+      "close": 273.1,
+      "prev_close": 279.75,
+      "volume": 53016,
+      "deliverable_qty": 29538,
+      "delivery_pct": 55.72
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 10:34:52",
+      "an_dt": "21-May-2026 10:34:52",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Concord Enviro Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_21042026115824_Disc5.pdf"
+    },
     {
       "sort_date": "2026-05-19 19:03:05",
       "an_dt": "19-May-2026 19:03:05",

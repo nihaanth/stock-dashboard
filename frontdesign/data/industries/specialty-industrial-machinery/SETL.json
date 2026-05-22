@@ -8,17 +8,9 @@
   "price": 137.74,
   "market_cap_cr": 2747.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 127.22,
-      "prev_close": 132.13,
-      "volume": 1228692,
-      "deliverable_qty": 635413,
-      "delivery_pct": 51.71
-    },
     {
       "date": "2026-02-20",
       "close": 127.04,
@@ -450,6 +442,14 @@
       "volume": 194111,
       "deliverable_qty": 98153,
       "delivery_pct": 50.57
+    },
+    {
+      "date": "2026-05-21",
+      "close": 133.47,
+      "prev_close": 135.55,
+      "volume": 145785,
+      "deliverable_qty": 86050,
+      "delivery_pct": 59.03
     }
   ],
   "news": [
@@ -578,13 +578,6 @@
       "desc": "General Updates",
       "sm_name": "Standard Engineering Technology Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLTPL_05032026171213_Intimation_Agreement.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 16:48:31",
-      "an_dt": "19-Feb-2026 16:48:31",
-      "desc": "Reply to Clarification- Financial results",
-      "sm_name": "Standard Engineering Technology Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLTPL_17022026182743_NSE_Clarification_letter_-Financial_Results.pdf"
     }
   ]
 }

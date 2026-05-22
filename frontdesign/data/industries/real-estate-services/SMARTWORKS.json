@@ -8,17 +8,9 @@
   "price": 456.05,
   "market_cap_cr": 5210.92,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 442.85,
-      "prev_close": 436.7,
-      "volume": 36532,
-      "deliverable_qty": 27539,
-      "delivery_pct": 75.38
-    },
     {
       "date": "2026-02-20",
       "close": 437.5,
@@ -450,6 +442,14 @@
       "volume": 20226,
       "deliverable_qty": 9552,
       "delivery_pct": 47.23
+    },
+    {
+      "date": "2026-05-21",
+      "close": 442.6,
+      "prev_close": 442.85,
+      "volume": 59719,
+      "deliverable_qty": 35679,
+      "delivery_pct": 59.74
     }
   ],
   "news": [
@@ -599,13 +599,6 @@
       "desc": "Capacity addition",
       "sm_name": "Smartworks Coworking Spaces Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SMARTWORKS_26022026090819_Intimation_Capacity_addition_snd.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 11:48:01",
-      "an_dt": "19-Feb-2026 11:48:01",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Smartworks Coworking Spaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SMARTWORKS_19022026114722_Investors_Conference_25_Feb_2026.pdf"
     }
   ]
 }

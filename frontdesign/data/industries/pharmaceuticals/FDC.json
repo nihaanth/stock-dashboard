@@ -8,17 +8,9 @@
   "price": 380.4,
   "market_cap_cr": 6193.3,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 376.55,
-      "prev_close": 379.15,
-      "volume": 34938,
-      "deliverable_qty": 20602,
-      "delivery_pct": 58.97
-    },
     {
       "date": "2026-02-20",
       "close": 368.9,
@@ -450,6 +442,14 @@
       "volume": 82496,
       "deliverable_qty": 54970,
       "delivery_pct": 66.63
+    },
+    {
+      "date": "2026-05-21",
+      "close": 362.4,
+      "prev_close": 363.6,
+      "volume": 169075,
+      "deliverable_qty": 106415,
+      "delivery_pct": 62.94
     }
   ],
   "news": [
@@ -543,20 +543,6 @@
       "desc": "Change in Director(s)",
       "sm_name": "FDC Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FDC_18032026145948_Final_outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 19:34:45",
-      "an_dt": "19-Feb-2026 19:34:45",
-      "desc": "Disclosure under SEBI Takeover Regulations",
-      "sm_name": "FDC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/vipulr_19022026191953_aditidisclosureunder10_5.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 19:26:12",
-      "an_dt": "19-Feb-2026 19:26:12",
-      "desc": "Disclosure under SEBI Takeover Regulations",
-      "sm_name": "FDC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/vipulr_19022026192236_aditidisclosureunder10_6.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 116.04,
   "market_cap_cr": 14307.03,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 133.07,
-      "prev_close": 132.98,
-      "volume": 1128347,
-      "deliverable_qty": 569690,
-      "delivery_pct": 50.49
-    },
     {
       "date": "2026-02-20",
       "close": 133.0,
@@ -450,9 +442,24 @@
       "volume": 1011085,
       "deliverable_qty": 341413,
       "delivery_pct": 33.77
+    },
+    {
+      "date": "2026-05-21",
+      "close": 114.64,
+      "prev_close": 116.22,
+      "volume": 1261959,
+      "deliverable_qty": 566174,
+      "delivery_pct": 44.86
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 12:29:36",
+      "an_dt": "21-May-2026 12:29:36",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Devyani International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DEVYANI_21052026122845_DIL_Transcript_covering_May_2026_DSC.pdf"
+    },
     {
       "sort_date": "2026-05-16 14:38:42",
       "an_dt": "16-May-2026 14:38:42",
@@ -599,13 +606,6 @@
       "desc": "Change in Management",
       "sm_name": "Devyani International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DEVYANI_05032026185334_Intimation_-_Resignation_of_SMP_DSC.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 15:51:29",
-      "an_dt": "19-Feb-2026 15:51:29",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Devyani International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DEVYANI_19022026155054_SE_Intimation_-_Investor_ConferenceSd.pdf"
     }
   ]
 }

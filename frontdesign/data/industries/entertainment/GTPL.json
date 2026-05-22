@@ -8,17 +8,9 @@
   "price": 68.14,
   "market_cap_cr": 766.32,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 70.89,
-      "prev_close": 73.26,
-      "volume": 34975,
-      "deliverable_qty": 19839,
-      "delivery_pct": 56.72
-    },
     {
       "date": "2026-02-20",
       "close": 71.07,
@@ -450,9 +442,24 @@
       "volume": 19999,
       "deliverable_qty": 6727,
       "delivery_pct": 33.64
+    },
+    {
+      "date": "2026-05-21",
+      "close": 67.1,
+      "prev_close": 67.84,
+      "volume": 11920,
+      "deliverable_qty": 6176,
+      "delivery_pct": 51.81
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 09:38:53",
+      "an_dt": "21-May-2026 09:38:53",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "GTPL Hathway Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_21042026105943_GTPL.pdf"
+    },
     {
       "sort_date": "2026-05-06 16:43:50",
       "an_dt": "06-May-2026 16:43:50",

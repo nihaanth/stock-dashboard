@@ -8,17 +8,9 @@
   "price": 276.55,
   "market_cap_cr": 19146.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 217.47,
-      "prev_close": 216.29,
-      "volume": 1433994,
-      "deliverable_qty": 546116,
-      "delivery_pct": 38.08
-    },
     {
       "date": "2026-02-20",
       "close": 210.66,
@@ -450,6 +442,14 @@
       "volume": 2738738,
       "deliverable_qty": 1148674,
       "delivery_pct": 41.94
+    },
+    {
+      "date": "2026-05-21",
+      "close": 261.25,
+      "prev_close": 260.55,
+      "volume": 3426212,
+      "deliverable_qty": 1440863,
+      "delivery_pct": 42.05
     }
   ],
   "news": [
@@ -557,13 +557,6 @@
       "desc": "General Updates",
       "sm_name": "Emmvee Photovoltaic Power Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMMVEE_25022026172707_Regulation_30_stock_exchange_intimation_25022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 19:23:43",
-      "an_dt": "19-Feb-2026 19:23:43",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Emmvee Photovoltaic Power Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMMVEE_19022026192147_Regulation_30_stock_exchange_intimation.pdf"
     }
   ]
 }

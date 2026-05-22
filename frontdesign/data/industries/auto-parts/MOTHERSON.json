@@ -8,17 +8,9 @@
   "price": 119.11,
   "market_cap_cr": 125437.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 129.88,
-      "prev_close": 133.92,
-      "volume": 15598959,
-      "deliverable_qty": 8659192,
-      "delivery_pct": 55.51
-    },
     {
       "date": "2026-02-20",
       "close": 129.42,
@@ -450,9 +442,24 @@
       "volume": 56355040,
       "deliverable_qty": 16199951,
       "delivery_pct": 28.75
+    },
+    {
+      "date": "2026-05-21",
+      "close": 137.0,
+      "prev_close": 132.17,
+      "volume": 65674007,
+      "deliverable_qty": 17340937,
+      "delivery_pct": 26.4
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 18:45:08",
+      "an_dt": "21-May-2026 18:45:08",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Samvardhana Motherson International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOTHERSON_21052026184413_SE_Disclosure_Newspaper.pdf"
+    },
     {
       "sort_date": "2026-05-20 19:18:51",
       "an_dt": "20-May-2026 19:18:51",
@@ -816,13 +823,6 @@
       "desc": "Updates",
       "sm_name": "Samvardhana Motherson International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOTHERSON_23022026154023_Disclosure-Press_Release.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 18:31:12",
-      "an_dt": "19-Feb-2026 18:31:12",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Samvardhana Motherson International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOTHERSON_19022026183052_SE_Disclosure_Investor_Meeting.pdf"
     }
   ]
 }

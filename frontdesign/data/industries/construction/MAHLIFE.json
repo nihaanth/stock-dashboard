@@ -8,17 +8,9 @@
   "price": 332.95,
   "market_cap_cr": 7103.25,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 365.95,
-      "prev_close": 363.2,
-      "volume": 120530,
-      "deliverable_qty": 71879,
-      "delivery_pct": 59.64
-    },
     {
       "date": "2026-02-20",
       "close": 369.15,
@@ -450,9 +442,24 @@
       "volume": 87552,
       "deliverable_qty": 48044,
       "delivery_pct": 54.87
+    },
+    {
+      "date": "2026-05-21",
+      "close": 333.6,
+      "prev_close": 326.7,
+      "volume": 91755,
+      "deliverable_qty": 48425,
+      "delivery_pct": 52.78
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 14:40:54",
+      "an_dt": "21-May-2026 14:40:54",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Mahindra Lifespace Developers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAHLIFE1_21052026144029_IntimationofNewspaperPublicationPB.pdf"
+    },
     {
       "sort_date": "2026-05-14 17:51:05",
       "an_dt": "14-May-2026 17:51:05",
@@ -655,20 +662,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Mahindra Lifespace Developers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAHLIFE1_20022026195357_IntimationofdispatchofPBNotice.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 15:21:16",
-      "an_dt": "19-Feb-2026 15:21:16",
-      "desc": "Credit Rating- New",
-      "sm_name": "Mahindra Lifespace Developers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAHLIFE1_19022026152053_IntimationOfESGRating.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 11:20:03",
-      "an_dt": "19-Feb-2026 11:20:03",
-      "desc": "Credit Rating- New",
-      "sm_name": "Mahindra Lifespace Developers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAHLIFE1_19022026111925_IntimationofCreditRating.pdf"
     }
   ]
 }

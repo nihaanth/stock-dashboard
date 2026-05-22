@@ -8,17 +8,9 @@
   "price": 484.15,
   "market_cap_cr": 6554.33,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 539.55,
-      "prev_close": 551.85,
-      "volume": 47026,
-      "deliverable_qty": 27631,
-      "delivery_pct": 58.76
-    },
     {
       "date": "2026-02-20",
       "close": 532.05,
@@ -450,9 +442,52 @@
       "volume": 60150,
       "deliverable_qty": 30066,
       "delivery_pct": 49.99
+    },
+    {
+      "date": "2026-05-21",
+      "close": 573.9,
+      "prev_close": 486.8,
+      "volume": 5088473,
+      "deliverable_qty": 495243,
+      "delivery_pct": 9.73
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 13:51:25",
+      "an_dt": "21-May-2026 13:51:25",
+      "desc": "Investor Presentation",
+      "sm_name": "WeWork India Management Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WEWORK_21052026135109_WeWork_-_Investor_Presentation.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 13:44:12",
+      "an_dt": "21-May-2026 13:44:12",
+      "desc": "General Updates",
+      "sm_name": "WeWork India Management Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WEWORK_21052026134359_WeWork_-_Shareholders_Letter.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 13:37:14",
+      "an_dt": "21-May-2026 13:37:14",
+      "desc": "Press Release",
+      "sm_name": "WeWork India Management Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WEWORK_21052026133706_WeWork_-_Media_Release_Q4.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 13:19:18",
+      "an_dt": "21-May-2026 13:19:18",
+      "desc": "Change in Auditors",
+      "sm_name": "WeWork India Management Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WEWORK_21052026131910_WeWork_-_Internal_Auditor.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 13:12:31",
+      "an_dt": "21-May-2026 13:12:31",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "WeWork India Management Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WEWORK_21052026131034_WeWork_-_BM_Outcome.pdf"
+    },
     {
       "sort_date": "2026-05-18 16:09:34",
       "an_dt": "18-May-2026 16:09:34",
@@ -627,13 +662,6 @@
       "desc": "Capacity addition",
       "sm_name": "WeWork India Management Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WEWORK_20022026220642_WeWork_-_Capacity_Addition_-_Infinix_Phalladium.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 14:26:57",
-      "an_dt": "19-Feb-2026 14:26:57",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "WeWork India Management Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WEWORK_19022026142641_WeWork_-_Kotak_Chasing_Growth_2026.pdf"
     }
   ]
 }

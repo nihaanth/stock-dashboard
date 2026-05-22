@@ -8,17 +8,9 @@
   "price": 284.05,
   "market_cap_cr": 17193.45,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 228.73,
-      "prev_close": 230.93,
-      "volume": 641963,
-      "deliverable_qty": 239303,
-      "delivery_pct": 37.28
-    },
     {
       "date": "2026-02-20",
       "close": 231.61,
@@ -450,9 +442,38 @@
       "volume": 1909502,
       "deliverable_qty": 938384,
       "delivery_pct": 49.14
+    },
+    {
+      "date": "2026-05-21",
+      "close": 282.65,
+      "prev_close": 281.65,
+      "volume": 825045,
+      "deliverable_qty": 334669,
+      "delivery_pct": 40.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 20:19:49",
+      "an_dt": "21-May-2026 20:19:49",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_21052026200235_Intimation.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 20:19:49",
+      "an_dt": "21-May-2026 20:19:49",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_21052026200217_Intimation.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 20:19:49",
+      "an_dt": "21-May-2026 20:19:49",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_21052026200200_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-18 19:28:19",
       "an_dt": "18-May-2026 19:28:19",
@@ -921,13 +942,6 @@
       "desc": "Commencement of commercial production/operations",
       "sm_name": "Acme Solar Holdings Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_25022026215904_Intimation25022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 08:42:40",
-      "an_dt": "19-Feb-2026 08:42:40",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "Acme Solar Holdings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_19022026084218_Intimation19022026.pdf"
     }
   ]
 }

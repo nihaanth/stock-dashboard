@@ -8,17 +8,9 @@
   "price": 165.11,
   "market_cap_cr": 2183.47,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 135.03,
-      "prev_close": 132.21,
-      "volume": 838389,
-      "deliverable_qty": 242385,
-      "delivery_pct": 28.91
-    },
     {
       "date": "2026-02-20",
       "close": 132.3,
@@ -450,6 +442,14 @@
       "volume": 362014,
       "deliverable_qty": 115180,
       "delivery_pct": 31.82
+    },
+    {
+      "date": "2026-05-21",
+      "close": 170.87,
+      "prev_close": 165.57,
+      "volume": 875350,
+      "deliverable_qty": 311308,
+      "delivery_pct": 35.56
     }
   ],
   "news": [
@@ -599,13 +599,6 @@
       "desc": "Resignation",
       "sm_name": "Hindustan Oil Exploration Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDOILEXPCS_23022026164942_R30.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 18:26:34",
-      "an_dt": "19-Feb-2026 18:26:34",
-      "desc": "Action(s) taken or orders passed",
-      "sm_name": "Hindustan Oil Exploration Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDOILEXPCS_19022026182319_R-30_-_GST_Penalty.pdf"
     }
   ]
 }

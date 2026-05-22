@@ -8,17 +8,9 @@
   "price": 264.2,
   "market_cap_cr": 68599.15,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 326.65,
-      "prev_close": 333.95,
-      "volume": 5700612,
-      "deliverable_qty": 2152918,
-      "delivery_pct": 37.77
-    },
     {
       "date": "2026-02-20",
       "close": 323.8,
@@ -450,9 +442,24 @@
       "volume": 9905588,
       "deliverable_qty": 5525154,
       "delivery_pct": 55.78
+    },
+    {
+      "date": "2026-05-21",
+      "close": 250.75,
+      "prev_close": 256.35,
+      "volume": 9716798,
+      "deliverable_qty": 4796887,
+      "delivery_pct": 49.37
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 20:01:33",
+      "an_dt": "21-May-2026 20:01:33",
+      "desc": "Shareholders meeting",
+      "sm_name": "Swiggy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SWIGGY_21052026200104_PB_Outcome_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-14 17:39:27",
       "an_dt": "14-May-2026 17:39:27",

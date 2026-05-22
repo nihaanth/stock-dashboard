@@ -8,17 +8,9 @@
   "price": 264.06,
   "market_cap_cr": 1495.92,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 230.45,
-      "prev_close": 230.94,
-      "volume": 36495,
-      "deliverable_qty": 13863,
-      "delivery_pct": 37.99
-    },
     {
       "date": "2026-02-20",
       "close": 226.32,
@@ -450,9 +442,24 @@
       "volume": 29781,
       "deliverable_qty": 15696,
       "delivery_pct": 52.7
+    },
+    {
+      "date": "2026-05-21",
+      "close": 222.68,
+      "prev_close": 223.54,
+      "volume": 49596,
+      "deliverable_qty": 27470,
+      "delivery_pct": 55.39
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 15:35:57",
+      "an_dt": "21-May-2026 15:35:57",
+      "desc": "Commencement of commercial production/operations",
+      "sm_name": "Platinum Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PLATINUM_21052026153545_Reg_30-_Commence_Commercial_Production.pdf"
+    },
     {
       "sort_date": "2026-05-16 19:10:19",
       "an_dt": "16-May-2026 19:10:19",

@@ -8,17 +8,9 @@
   "price": 3661.6,
   "market_cap_cr": 4591.54,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 3599.5,
-      "prev_close": 3599.8,
-      "volume": 216,
-      "deliverable_qty": 126,
-      "delivery_pct": 58.33
-    },
     {
       "date": "2026-02-20",
       "close": 3601.0,
@@ -450,9 +442,31 @@
       "volume": 380,
       "deliverable_qty": 329,
       "delivery_pct": 86.58
+    },
+    {
+      "date": "2026-05-21",
+      "close": 3600.5,
+      "prev_close": 3607.9,
+      "volume": 798,
+      "deliverable_qty": 550,
+      "delivery_pct": 68.92
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 17:59:00",
+      "an_dt": "21-May-2026 17:59:00",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Bannari Amman Sugars Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANARISUG_ROID_87447_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-05-21 17:56:59",
+      "an_dt": "21-May-2026 17:56:59",
+      "desc": "Cessation",
+      "sm_name": "Bannari Amman Sugars Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANARISUG_21052026175643_Change_in_Management_VP_Resignation.pdf"
+    },
     {
       "sort_date": "2026-04-30 10:58:28",
       "an_dt": "30-Apr-2026 10:58:28",

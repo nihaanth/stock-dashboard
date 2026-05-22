@@ -8,17 +8,9 @@
   "price": 515.65,
   "market_cap_cr": 16283.79,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 524.55,
-      "prev_close": 537.25,
-      "volume": 508962,
-      "deliverable_qty": 181282,
-      "delivery_pct": 35.62
-    },
     {
       "date": "2026-02-20",
       "close": 532.25,
@@ -450,9 +442,24 @@
       "volume": 1260530,
       "deliverable_qty": 581411,
       "delivery_pct": 46.12
+    },
+    {
+      "date": "2026-05-21",
+      "close": 567.4,
+      "prev_close": 565.25,
+      "volume": 453648,
+      "deliverable_qty": 258800,
+      "delivery_pct": 57.05
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 18:39:13",
+      "an_dt": "21-May-2026 18:39:13",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Elgi Equipments Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELGIEQUIP_21052026183838_AnalystCallIntimation29thMay2026.pdf"
+    },
     {
       "sort_date": "2026-05-13 17:19:32",
       "an_dt": "13-May-2026 17:19:32",
@@ -585,20 +592,6 @@
       "desc": "General Updates",
       "sm_name": "Elgi Equipments Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELGIEQUIP_20022026102746_corrigendum200226.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 18:30:40",
-      "an_dt": "19-Feb-2026 18:30:40",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Elgi Equipments Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELGIEQUIP_19022026182824_InvestorsCallIntimation26022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 11:32:09",
-      "an_dt": "19-Feb-2026 11:32:09",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Elgi Equipments Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELGIEQUIP_19022026112931_AnnualInvestorConcallintimation26022026.pdf"
     }
   ]
 }

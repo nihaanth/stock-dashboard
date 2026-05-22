@@ -8,17 +8,9 @@
   "price": 109.37,
   "market_cap_cr": 4825.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 122.95,
-      "prev_close": 123.71,
-      "volume": 2224897,
-      "deliverable_qty": 513613,
-      "delivery_pct": 23.08
-    },
     {
       "date": "2026-02-20",
       "close": 122.35,
@@ -42,9 +34,24 @@
       "volume": 131445,
       "deliverable_qty": 75651,
       "delivery_pct": 57.55
+    },
+    {
+      "date": "2026-05-21",
+      "close": 115.79,
+      "prev_close": 113.05,
+      "volume": 277849,
+      "deliverable_qty": 182943,
+      "delivery_pct": 65.84
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 19:10:53",
+      "an_dt": "21-May-2026 19:10:53",
+      "desc": "Acquisition",
+      "sm_name": "TVS Supply Chain Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_21052026191035_TVS_SCS_FIT_3PL_acquisition_sd.pdf"
+    },
     {
       "sort_date": "2026-05-20 19:01:24",
       "an_dt": "20-May-2026 19:01:24",
@@ -177,13 +184,6 @@
       "desc": "Investor Presentation",
       "sm_name": "TVS Supply Chain Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_23022026164612_TVS_SCS_Investor_Presentation_NDR_-signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 14:43:06",
-      "an_dt": "19-Feb-2026 14:43:06",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "TVS Supply Chain Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CSCOMPLIANCE_19022026144117_Intimation_of_Schedule_of_Analyst__Institutional_Investor_meetings_sd.pdf"
     }
   ]
 }

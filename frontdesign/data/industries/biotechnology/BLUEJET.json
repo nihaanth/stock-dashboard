@@ -8,17 +8,9 @@
   "price": 474.6,
   "market_cap_cr": 8232.67,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 364.2,
-      "prev_close": 359.35,
-      "volume": 1523832,
-      "deliverable_qty": 390495,
-      "delivery_pct": 25.63
-    },
     {
       "date": "2026-02-20",
       "close": 355.85,
@@ -450,6 +442,14 @@
       "volume": 269458,
       "deliverable_qty": 109964,
       "delivery_pct": 40.81
+    },
+    {
+      "date": "2026-05-21",
+      "close": 439.95,
+      "prev_close": 437.55,
+      "volume": 224382,
+      "deliverable_qty": 91630,
+      "delivery_pct": 40.84
     }
   ],
   "news": [
@@ -494,13 +494,6 @@
       "desc": "Press Release",
       "sm_name": "Blue Jet Healthcare Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLUEJET_28022026142827_Blue_Jet_Press_Release_Vizag.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 15:47:17",
-      "an_dt": "19-Feb-2026 15:47:17",
-      "desc": "Updates",
-      "sm_name": "Blue Jet Healthcare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLUEJET_19022026154640_Intimation_vizag_update.pdf"
     }
   ]
 }

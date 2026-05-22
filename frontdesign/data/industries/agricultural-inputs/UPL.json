@@ -8,17 +8,9 @@
   "price": 669.0,
   "market_cap_cr": 56549.51,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 765.05,
-      "prev_close": 747.65,
-      "volume": 2242488,
-      "deliverable_qty": 1031233,
-      "delivery_pct": 45.99
-    },
     {
       "date": "2026-02-20",
       "close": 752.35,
@@ -450,6 +442,14 @@
       "volume": 1549873,
       "deliverable_qty": 945905,
       "delivery_pct": 61.03
+    },
+    {
+      "date": "2026-05-21",
+      "close": 629.0,
+      "prev_close": 634.35,
+      "volume": 1405142,
+      "deliverable_qty": 780868,
+      "delivery_pct": 55.57
     }
   ],
   "news": [
@@ -627,13 +627,6 @@
       "desc": "Scheme of Arrangement",
       "sm_name": "UPL Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/UPL_20022026153902_Draft_Reg_30_Disclosure__Feb_19__Clean.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 19:16:21",
-      "an_dt": "19-Feb-2026 19:16:21",
-      "desc": "General Updates",
-      "sm_name": "UPL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UPL_19022026191405_Intimation_forfeiture.pdf"
     }
   ]
 }

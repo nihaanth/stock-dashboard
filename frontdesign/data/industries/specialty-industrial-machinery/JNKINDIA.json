@@ -8,17 +8,9 @@
   "price": 370.3,
   "market_cap_cr": 2071.97,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 241.51,
-      "prev_close": 249.22,
-      "volume": 72592,
-      "deliverable_qty": 33880,
-      "delivery_pct": 46.67
-    },
     {
       "date": "2026-02-20",
       "close": 245.31,
@@ -450,9 +442,24 @@
       "volume": 1379424,
       "deliverable_qty": 573304,
       "delivery_pct": 41.56
+    },
+    {
+      "date": "2026-05-21",
+      "close": 409.9,
+      "prev_close": 373.15,
+      "volume": 1458707,
+      "deliverable_qty": 780706,
+      "delivery_pct": 53.52
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 19:25:08",
+      "an_dt": "21-May-2026 19:25:08",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "JNK India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JNKINDIA23_21052026192342_Audio_Recording_of_Q4_FY26_earnings_call.pdf"
+    },
     {
       "sort_date": "2026-05-20 20:25:56",
       "an_dt": "20-May-2026 20:25:56",

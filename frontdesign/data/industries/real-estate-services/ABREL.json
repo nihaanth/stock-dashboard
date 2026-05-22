@@ -8,17 +8,9 @@
   "price": 1363.7,
   "market_cap_cr": 15076.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 1344.9,
-      "prev_close": 1370.4,
-      "volume": 389169,
-      "deliverable_qty": 106145,
-      "delivery_pct": 27.27
-    },
     {
       "date": "2026-02-20",
       "close": 1300.9,
@@ -450,6 +442,14 @@
       "volume": 112979,
       "deliverable_qty": 37636,
       "delivery_pct": 33.31
+    },
+    {
+      "date": "2026-05-21",
+      "close": 1254.7,
+      "prev_close": 1279.0,
+      "volume": 138054,
+      "deliverable_qty": 62326,
+      "delivery_pct": 45.15
     }
   ],
   "news": [
@@ -683,13 +683,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Aditya Birla Real Estate Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CENTURYTEX_24022026130348_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 17:13:28",
-      "an_dt": "19-Feb-2026 17:13:28",
-      "desc": "General Updates",
-      "sm_name": "Aditya Birla Real Estate Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CENTURYTEX_19022026171311_Finalintimation.pdf"
     }
   ]
 }

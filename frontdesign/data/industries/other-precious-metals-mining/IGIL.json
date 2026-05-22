@@ -8,17 +8,9 @@
   "price": 343.85,
   "market_cap_cr": 14859.81,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 331.55,
-      "prev_close": 333.25,
-      "volume": 652866,
-      "deliverable_qty": 368582,
-      "delivery_pct": 56.46
-    },
     {
       "date": "2026-02-20",
       "close": 331.65,
@@ -450,6 +442,14 @@
       "volume": 1447336,
       "deliverable_qty": 504427,
       "delivery_pct": 34.85
+    },
+    {
+      "date": "2026-05-21",
+      "close": 375.25,
+      "prev_close": 352.3,
+      "volume": 5496201,
+      "deliverable_qty": 1204858,
+      "delivery_pct": 21.92
     }
   ],
   "news": [
@@ -571,13 +571,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "International Gemmological Institute (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGIINDIA_24022026120055_Investor_meet_intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 17:07:28",
-      "an_dt": "19-Feb-2026 17:07:28",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "International Gemmological Institute (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGIINDIA_19022026170641_Investor_meet_intimation.pdf"
     }
   ]
 }

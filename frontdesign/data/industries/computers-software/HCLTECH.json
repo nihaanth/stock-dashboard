@@ -8,17 +8,9 @@
   "price": 1429.4,
   "market_cap_cr": 386745.97,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 1450.4,
-      "prev_close": 1467.2,
-      "volume": 2397127,
-      "deliverable_qty": 1064022,
-      "delivery_pct": 44.39
-    },
     {
       "date": "2026-02-20",
       "close": 1436.5,
@@ -450,9 +442,24 @@
       "volume": 1415960,
       "deliverable_qty": 664665,
       "delivery_pct": 46.94
+    },
+    {
+      "date": "2026-05-21",
+      "close": 1168.2,
+      "prev_close": 1169.8,
+      "volume": 2245247,
+      "deliverable_qty": 1135307,
+      "delivery_pct": 50.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 14:47:25",
+      "an_dt": "21-May-2026 14:47:25",
+      "desc": "Updates",
+      "sm_name": "HCL Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HCLTECH_21052026144713_Release21May2026.pdf"
+    },
     {
       "sort_date": "2026-05-20 18:32:55",
       "an_dt": "20-May-2026 18:32:55",
@@ -753,13 +760,6 @@
       "desc": "Updates",
       "sm_name": "HCL Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HCLTECH_20022026093021_Release20February2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 17:40:43",
-      "an_dt": "19-Feb-2026 17:40:43",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "HCL Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HCLTECH_19022026173934_Intimationtostockexchanges-SD.pdf"
     }
   ]
 }

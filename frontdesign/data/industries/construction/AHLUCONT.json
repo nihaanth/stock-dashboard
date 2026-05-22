@@ -8,17 +8,9 @@
   "price": 823.35,
   "market_cap_cr": 5515.42,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 809.6,
-      "prev_close": 813.5,
-      "volume": 118045,
-      "deliverable_qty": 77402,
-      "delivery_pct": 65.57
-    },
     {
       "date": "2026-02-20",
       "close": 805.75,
@@ -450,9 +442,24 @@
       "volume": 25572,
       "deliverable_qty": 14164,
       "delivery_pct": 55.39
+    },
+    {
+      "date": "2026-05-21",
+      "close": 782.25,
+      "prev_close": 789.95,
+      "volume": 16068,
+      "deliverable_qty": 9389,
+      "delivery_pct": 58.43
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 11:56:02",
+      "an_dt": "21-May-2026 11:56:02",
+      "desc": "Press Release",
+      "sm_name": "Ahluwalia Contracts (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/532811_21052026115549_IntimationLetterforBODM_NewsPaperCutting.pdf"
+    },
     {
       "sort_date": "2026-05-20 11:07:50",
       "an_dt": "20-May-2026 11:07:50",
@@ -501,13 +508,6 @@
       "desc": "General Updates",
       "sm_name": "Ahluwalia Contracts (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/532811_18032026151514_Recent_Award18032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 18:18:15",
-      "an_dt": "19-Feb-2026 18:18:15",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Ahluwalia Contracts (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/532811_19022026181806_Transcript16022026.pdf"
     }
   ]
 }

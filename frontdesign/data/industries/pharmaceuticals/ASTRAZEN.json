@@ -8,17 +8,9 @@
   "price": 8579.5,
   "market_cap_cr": 21448.75,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 8903.0,
-      "prev_close": 8886.0,
-      "volume": 2460,
-      "deliverable_qty": 916,
-      "delivery_pct": 37.24
-    },
     {
       "date": "2026-02-20",
       "close": 8889.5,
@@ -450,9 +442,24 @@
       "volume": 6788,
       "deliverable_qty": 2648,
       "delivery_pct": 39.01
+    },
+    {
+      "date": "2026-05-21",
+      "close": 8589.5,
+      "prev_close": 8609.5,
+      "volume": 4397,
+      "deliverable_qty": 1847,
+      "delivery_pct": 42.01
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 13:29:56",
+      "an_dt": "21-May-2026 13:29:56",
+      "desc": "General Updates",
+      "sm_name": "AstraZeneca Pharma India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASTRAZEN_21052026132946_Intimation_to_Stock_Exchanges_Calquence_ECHO.pdf"
+    },
     {
       "sort_date": "2026-05-20 20:31:02",
       "an_dt": "20-May-2026 20:31:02",
@@ -550,20 +557,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "AstraZeneca Pharma India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASTRAZEN_27022026165557_Intimation_Postal_Ballot_RPT_2026_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 18:21:30",
-      "an_dt": "19-Feb-2026 18:21:30",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "AstraZeneca Pharma India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASTRAZEN_19022026182118_Newspaper_Publication_December_31_2025.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 18:03:48",
-      "an_dt": "19-Feb-2026 18:03:48",
-      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "sm_name": "AstraZeneca Pharma India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASTRAZEN_19022026180339_Regulation_74_5_January_2026.pdf"
     }
   ]
 }

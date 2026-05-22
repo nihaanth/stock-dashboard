@@ -8,17 +8,9 @@
   "price": 293.5,
   "market_cap_cr": 4832.11,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 316.9,
-      "prev_close": 319.85,
-      "volume": 349857,
-      "deliverable_qty": 163279,
-      "delivery_pct": 46.67
-    },
     {
       "date": "2026-02-20",
       "close": 315.0,
@@ -450,6 +442,14 @@
       "volume": 377538,
       "deliverable_qty": 203581,
       "delivery_pct": 53.92
+    },
+    {
+      "date": "2026-05-21",
+      "close": 303.0,
+      "prev_close": 305.95,
+      "volume": 800288,
+      "deliverable_qty": 468790,
+      "delivery_pct": 58.58
     }
   ],
   "news": [
@@ -599,13 +599,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "CMS Info Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CMSINFO_20022026153912_IntimationofInstitutionalInvestorGroupMeeting-SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 15:25:05",
-      "an_dt": "19-Feb-2026 15:25:05",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "CMS Info Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CMSINFO_19022026152428_NewspaperPublicationPostalBallotNoticedispatchFeb2026SD.pdf"
     }
   ]
 }

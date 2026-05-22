@@ -8,17 +8,9 @@
   "price": 1636.8,
   "market_cap_cr": 14720.11,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 1327.1,
-      "prev_close": 1333.4,
-      "volume": 223314,
-      "deliverable_qty": 105216,
-      "delivery_pct": 47.12
-    },
     {
       "date": "2026-02-20",
       "close": 1322.2,
@@ -450,6 +442,14 @@
       "volume": 538013,
       "deliverable_qty": 167700,
       "delivery_pct": 31.17
+    },
+    {
+      "date": "2026-05-21",
+      "close": 1603.8,
+      "prev_close": 1604.2,
+      "volume": 407853,
+      "deliverable_qty": 123682,
+      "delivery_pct": 30.33
     }
   ],
   "news": [
@@ -676,13 +676,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Zen Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZENTEC_20022026163013_AnalystMeet20022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 17:51:27",
-      "an_dt": "19-Feb-2026 17:51:27",
-      "desc": "Press Release",
-      "sm_name": "Zen Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZENTEC_19022026175101_CL_Signed.pdf"
     }
   ]
 }

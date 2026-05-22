@@ -8,17 +8,9 @@
   "price": 1514.0,
   "market_cap_cr": 25361.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 1658.4,
-      "prev_close": 1639.5,
-      "volume": 65505,
-      "deliverable_qty": 42825,
-      "delivery_pct": 65.38
-    },
     {
       "date": "2026-02-20",
       "close": 1594.4,
@@ -450,6 +442,14 @@
       "volume": 57846,
       "deliverable_qty": 32009,
       "delivery_pct": 55.33
+    },
+    {
+      "date": "2026-05-21",
+      "close": 1619.2,
+      "prev_close": 1628.6,
+      "volume": 71743,
+      "deliverable_qty": 30891,
+      "delivery_pct": 43.06
     }
   ],
   "news": [
@@ -753,13 +753,6 @@
       "desc": "Options to purchase securities",
       "sm_name": "Inventurus Knowledge Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IKSSHEETAL_20022026125510_Grantofstockoptions20022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 17:46:56",
-      "an_dt": "19-Feb-2026 17:46:56",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Inventurus Knowledge Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IKSSHEETAL_19022026174627_20251117IntimationofInvestorMeetF.pdf"
     }
   ]
 }

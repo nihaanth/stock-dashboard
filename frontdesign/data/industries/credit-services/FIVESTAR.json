@@ -8,17 +8,9 @@
   "price": 420.7,
   "market_cap_cr": 12424.52,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 443.35,
-      "prev_close": 439.3,
-      "volume": 853797,
-      "deliverable_qty": 281379,
-      "delivery_pct": 32.96
-    },
     {
       "date": "2026-02-20",
       "close": 439.7,
@@ -450,6 +442,14 @@
       "volume": 377127,
       "deliverable_qty": 154082,
       "delivery_pct": 40.86
+    },
+    {
+      "date": "2026-05-21",
+      "close": 445.1,
+      "prev_close": 444.05,
+      "volume": 994313,
+      "deliverable_qty": 449412,
+      "delivery_pct": 45.2
     }
   ],
   "news": [
@@ -648,13 +648,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Five-Star Business Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FIVESTAR_20022026175204_ExchangeIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 15:24:14",
-      "an_dt": "19-Feb-2026 15:24:14",
-      "desc": "Shareholders meeting",
-      "sm_name": "Five-Star Business Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FIVESTAR_19022026152202_ExchangeIntimation.pdf"
     }
   ]
 }

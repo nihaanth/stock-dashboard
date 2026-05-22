@@ -8,17 +8,9 @@
   "price": 5039.8,
   "market_cap_cr": 3817.47,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 4601.2,
-      "prev_close": 4708.3,
-      "volume": 643,
-      "deliverable_qty": 290,
-      "delivery_pct": 45.1
-    },
     {
       "date": "2026-02-20",
       "close": 4723.5,
@@ -450,9 +442,24 @@
       "volume": 11377,
       "deliverable_qty": 4492,
       "delivery_pct": 39.48
+    },
+    {
+      "date": "2026-05-21",
+      "close": 5188.6,
+      "prev_close": 5279.3,
+      "volume": 3920,
+      "deliverable_qty": 2079,
+      "delivery_pct": 53.04
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 19:21:09",
+      "an_dt": "21-May-2026 19:21:09",
+      "desc": "Record Date",
+      "sm_name": "Foseco India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FOSECOIND_21052026192020_Foseco_AGM2026_Notice.pdf"
+    },
     {
       "sort_date": "2026-05-20 23:37:21",
       "an_dt": "20-May-2026 23:37:21",
@@ -592,13 +599,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Foseco India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FOSECOIND_25022026200304_Foseco_AFR_31Dec25.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 23:29:19",
-      "an_dt": "19-Feb-2026 23:29:19",
-      "desc": "Trading Window",
-      "sm_name": "Foseco India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FOSECOIND_19022026232903_Reg29_LODR_-_BMIntimationtoSEs.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 549.2,
   "market_cap_cr": 94964.13,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 479.9,
-      "prev_close": 486.35,
-      "volume": 1906083,
-      "deliverable_qty": 648446,
-      "delivery_pct": 34.02
-    },
     {
       "date": "2026-02-20",
       "close": 489.4,
@@ -450,9 +442,31 @@
       "volume": 10836077,
       "deliverable_qty": 5440877,
       "delivery_pct": 50.21
+    },
+    {
+      "date": "2026-05-21",
+      "close": 498.5,
+      "prev_close": 486.85,
+      "volume": 43786428,
+      "deliverable_qty": 21600139,
+      "delivery_pct": 49.33
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 13:02:48",
+      "an_dt": "21-May-2026 13:02:48",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Lenskart Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LENSKART_21052026130230_Reg30_-_Audio_Recording_FR_-_SE_Intimation_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 11:24:03",
+      "an_dt": "21-May-2026 11:24:03",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Lenskart Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LENSKART_21052026112158_Reg30_-_NewsPaper_Publication_-_SE_Intimation_signed.pdf"
+    },
     {
       "sort_date": "2026-05-20 21:48:00",
       "an_dt": "20-May-2026 21:48:00",
@@ -564,13 +578,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Lenskart Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LENSKART_10032026152524_Reg30_-_Analysts_Meet_-_SE_Intimation__1_.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 17:39:09",
-      "an_dt": "19-Feb-2026 17:39:09",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Lenskart Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LENSKART_19022026173819_Reg30_Allotment_under_ESOP_Intimation_Final_2.pdf"
     }
   ]
 }

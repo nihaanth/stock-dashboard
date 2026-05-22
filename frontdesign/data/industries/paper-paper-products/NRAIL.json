@@ -8,17 +8,9 @@
   "price": 503.35,
   "market_cap_cr": 856.66,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 433.1,
-      "prev_close": 441.65,
-      "volume": 1958,
-      "deliverable_qty": 1051,
-      "delivery_pct": 53.68
-    },
     {
       "date": "2026-02-20",
       "close": 460.7,
@@ -450,6 +442,14 @@
       "volume": 1853,
       "deliverable_qty": 1101,
       "delivery_pct": 59.42
+    },
+    {
+      "date": "2026-05-21",
+      "close": 459.9,
+      "prev_close": 460.0,
+      "volume": 856,
+      "deliverable_qty": 545,
+      "delivery_pct": 63.67
     }
   ],
   "news": [
@@ -543,13 +543,6 @@
       "desc": "Updates",
       "sm_name": "N R Agarwal Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NRAIL_20022026142949_IntimationunderReg30UpdateonUnitVIproject20022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 16:52:27",
-      "an_dt": "19-Feb-2026 16:52:27",
-      "desc": "Appointment",
-      "sm_name": "N R Agarwal Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NRAIL_19022026165146_IntimationReg30AppointmentofSMP19022026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 623.75,
   "market_cap_cr": 7700.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 566.6,
-      "prev_close": 565.4,
-      "volume": 113788,
-      "deliverable_qty": 35085,
-      "delivery_pct": 30.83
-    },
     {
       "date": "2026-02-20",
       "close": 559.8,
@@ -450,9 +442,24 @@
       "volume": 114014,
       "deliverable_qty": 65958,
       "delivery_pct": 57.85
+    },
+    {
+      "date": "2026-05-21",
+      "close": 521.85,
+      "prev_close": 521.5,
+      "volume": 88282,
+      "deliverable_qty": 27967,
+      "delivery_pct": 31.68
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 19:54:58",
+      "an_dt": "21-May-2026 19:54:58",
+      "desc": "Shareholders meeting",
+      "sm_name": "Archean Chemical Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARCHEAN_21052026195443_Intimation_Notice_of_AGM.pdf"
+    },
     {
       "sort_date": "2026-05-19 18:23:16",
       "an_dt": "19-May-2026 18:23:16",
@@ -613,13 +620,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Archean Chemical Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARCHEAN_13032026184257_VotingResultIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 11:54:34",
-      "an_dt": "19-Feb-2026 11:54:34",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Archean Chemical Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARCHEAN_19022026115402_Intimation.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 144.93,
   "market_cap_cr": 13757.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 148.76,
-      "prev_close": 151.56,
-      "volume": 408680,
-      "deliverable_qty": 153770,
-      "delivery_pct": 37.63
-    },
     {
       "date": "2026-02-20",
       "close": 149.57,
@@ -450,6 +442,14 @@
       "volume": 245482,
       "deliverable_qty": 140158,
       "delivery_pct": 57.1
+    },
+    {
+      "date": "2026-05-21",
+      "close": 139.21,
+      "prev_close": 138.47,
+      "volume": 122670,
+      "deliverable_qty": 65933,
+      "delivery_pct": 53.75
     }
   ],
   "news": [
@@ -627,13 +627,6 @@
       "desc": "Credit Rating",
       "sm_name": "Canara HSBC Life Insurance Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANARAHSBCLIFE_20022026150601_Credit_Rating_intimation_CRISIL_20th_February_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 11:49:08",
-      "an_dt": "19-Feb-2026 11:49:08",
-      "desc": "Credit Rating",
-      "sm_name": "Canara HSBC Life Insurance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANARAHSBCLIFE_19022026114729_Credit_Rating_intimation_February_2026.pdf"
     }
   ]
 }

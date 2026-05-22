@@ -8,17 +8,9 @@
   "price": 195.46,
   "market_cap_cr": 22444.21,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 207.63,
-      "prev_close": 202.97,
-      "volume": 2089719,
-      "deliverable_qty": 808570,
-      "delivery_pct": 38.69
-    },
     {
       "date": "2026-02-20",
       "close": 202.04,
@@ -450,6 +442,14 @@
       "volume": 4926826,
       "deliverable_qty": 2208737,
       "delivery_pct": 44.83
+    },
+    {
+      "date": "2026-05-21",
+      "close": 148.32,
+      "prev_close": 149.27,
+      "volume": 5080368,
+      "deliverable_qty": 2433130,
+      "delivery_pct": 47.89
     }
   ],
   "news": [
@@ -557,13 +557,6 @@
       "desc": "General Updates",
       "sm_name": "Pine Labs Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PINELABS_20022026180545_Agya_Intimation_PLL_.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 12:00:56",
-      "an_dt": "19-Feb-2026 12:00:56",
-      "desc": "Press Release",
-      "sm_name": "Pine Labs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PINELABS_19022026120027_IntimationOpenAIPR.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 304.3,
   "market_cap_cr": 2412.14,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 288.45,
-      "prev_close": 291.2,
-      "volume": 31774,
-      "deliverable_qty": 23270,
-      "delivery_pct": 73.24
-    },
     {
       "date": "2026-02-20",
       "close": 286.5,
@@ -450,9 +442,24 @@
       "volume": 135519,
       "deliverable_qty": 87755,
       "delivery_pct": 64.75
+    },
+    {
+      "date": "2026-05-21",
+      "close": 315.65,
+      "prev_close": 311.65,
+      "volume": 103978,
+      "deliverable_qty": 49090,
+      "delivery_pct": 47.21
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 10:59:57",
+      "an_dt": "21-May-2026 10:59:57",
+      "desc": "General Updates",
+      "sm_name": "Monarch Networth Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONARCH_21052026105728_Letter.pdf"
+    },
     {
       "sort_date": "2026-05-18 13:43:37",
       "an_dt": "18-May-2026 13:43:37",

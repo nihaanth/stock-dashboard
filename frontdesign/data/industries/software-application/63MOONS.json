@@ -8,17 +8,9 @@
   "price": 698.45,
   "market_cap_cr": 8043.6,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 640.65,
-      "prev_close": 654.5,
-      "volume": 78676,
-      "deliverable_qty": 44583,
-      "delivery_pct": 56.67
-    },
     {
       "date": "2026-02-20",
       "close": 641.9,
@@ -450,9 +442,24 @@
       "volume": 212754,
       "deliverable_qty": 102817,
       "delivery_pct": 48.33
+    },
+    {
+      "date": "2026-05-21",
+      "close": 682.7,
+      "prev_close": 688.5,
+      "volume": 51430,
+      "deliverable_qty": 27067,
+      "delivery_pct": 52.63
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 17:05:16",
+      "an_dt": "21-May-2026 17:05:16",
+      "desc": "Shareholders meeting",
+      "sm_name": "63 moons technologies limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/63MOONS_21052026170238_PBNotice21052026.pdf"
+    },
     {
       "sort_date": "2026-05-18 19:30:38",
       "an_dt": "18-May-2026 19:30:38",

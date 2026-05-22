@@ -8,17 +8,9 @@
   "price": 299.55,
   "market_cap_cr": 4119.42,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 342.75,
-      "prev_close": 358.0,
-      "volume": 57850,
-      "deliverable_qty": 35102,
-      "delivery_pct": 60.68
-    },
     {
       "date": "2026-02-20",
       "close": 344.9,
@@ -450,9 +442,24 @@
       "volume": 320529,
       "deliverable_qty": 221770,
       "delivery_pct": 69.19
+    },
+    {
+      "date": "2026-05-21",
+      "close": 224.8,
+      "prev_close": 231.5,
+      "volume": 588057,
+      "deliverable_qty": 363864,
+      "delivery_pct": 61.88
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 14:41:25",
+      "an_dt": "21-May-2026 14:41:25",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "NIIT Learning Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLSL_21052026144103_NLSLSEInvestorMeet21052026.pdf"
+    },
     {
       "sort_date": "2026-05-20 21:12:45",
       "an_dt": "20-May-2026 21:12:45",

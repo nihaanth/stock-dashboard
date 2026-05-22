@@ -8,17 +8,9 @@
   "price": 2700.1,
   "market_cap_cr": 12408.33,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 2061.3,
-      "prev_close": 2097.2,
-      "volume": 105067,
-      "deliverable_qty": 61610,
-      "delivery_pct": 58.64
-    },
     {
       "date": "2026-02-20",
       "close": 2021.9,
@@ -450,6 +442,14 @@
       "volume": 982376,
       "deliverable_qty": 285903,
       "delivery_pct": 29.1
+    },
+    {
+      "date": "2026-05-21",
+      "close": 2752.5,
+      "prev_close": 2733.8,
+      "volume": 284516,
+      "deliverable_qty": 95536,
+      "delivery_pct": 33.58
     }
   ],
   "news": [
@@ -592,13 +592,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Shaily Engineering Plastics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Shailyengineering_20022026145609_Q3FY26_transcipt_CL.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 19:23:58",
-      "an_dt": "19-Feb-2026 19:23:58",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Shaily Engineering Plastics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Shailyengineering_19022026192332_SEPL_Stock_Exchange_Intimation_-_Group_Meeting_signed.pdf"
     }
   ]
 }

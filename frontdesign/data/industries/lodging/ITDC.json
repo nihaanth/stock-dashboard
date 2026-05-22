@@ -8,17 +8,9 @@
   "price": 587.5,
   "market_cap_cr": 5038.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 534.35,
-      "prev_close": 538.75,
-      "volume": 15503,
-      "deliverable_qty": 7492,
-      "delivery_pct": 48.33
-    },
     {
       "date": "2026-02-20",
       "close": 532.0,
@@ -450,9 +442,31 @@
       "volume": 23748,
       "deliverable_qty": 9454,
       "delivery_pct": 39.81
+    },
+    {
+      "date": "2026-05-21",
+      "close": 548.55,
+      "prev_close": 543.8,
+      "volume": 37500,
+      "deliverable_qty": 14279,
+      "delivery_pct": 38.08
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 19:21:03",
+      "an_dt": "21-May-2026 19:21:03",
+      "desc": "Dividend",
+      "sm_name": "India Tourism Development Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ITDC1_21052026191851_ITDC_Dividend_2025_26.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 19:14:55",
+      "an_dt": "21-May-2026 19:14:55",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "India Tourism Development Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ITDC1_21052026191343_ITDC_Results_2025_26.pdf"
+    },
     {
       "sort_date": "2026-05-08 18:49:44",
       "an_dt": "08-May-2026 18:49:44",

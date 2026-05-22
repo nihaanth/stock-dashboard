@@ -8,17 +8,9 @@
   "price": 451.65,
   "market_cap_cr": 5099.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 376.8,
-      "prev_close": 386.15,
-      "volume": 378930,
-      "deliverable_qty": 197676,
-      "delivery_pct": 52.17
-    },
     {
       "date": "2026-02-20",
       "close": 380.6,
@@ -450,9 +442,24 @@
       "volume": 373934,
       "deliverable_qty": 161689,
       "delivery_pct": 43.24
+    },
+    {
+      "date": "2026-05-21",
+      "close": 459.4,
+      "prev_close": 464.15,
+      "volume": 301799,
+      "deliverable_qty": 133089,
+      "delivery_pct": 44.1
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 10:43:13",
+      "an_dt": "21-May-2026 10:43:13",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Skipper Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_21042026121554_Disc8.pdf"
+    },
     {
       "sort_date": "2026-05-15 14:06:35",
       "an_dt": "15-May-2026 14:06:35",

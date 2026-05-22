@@ -8,17 +8,9 @@
   "price": 284.9,
   "market_cap_cr": 11729.08,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 276.1,
-      "prev_close": 278.7,
-      "volume": 663063,
-      "deliverable_qty": 218775,
-      "delivery_pct": 32.99
-    },
     {
       "date": "2026-02-20",
       "close": 268.4,
@@ -450,9 +442,24 @@
       "volume": 29300266,
       "deliverable_qty": 2329786,
       "delivery_pct": 7.95
+    },
+    {
+      "date": "2026-05-21",
+      "close": 268.65,
+      "prev_close": 268.4,
+      "volume": 2585854,
+      "deliverable_qty": 586585,
+      "delivery_pct": 22.68
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 18:16:57",
+      "an_dt": "21-May-2026 18:16:57",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "BLS International Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLS_21052026181648_NPADV_-_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-20 19:25:21",
       "an_dt": "20-May-2026 19:25:21",
@@ -533,7 +540,7 @@
     {
       "sort_date": "2026-04-15 19:32:59",
       "an_dt": "15-Apr-2026 19:32:59",
-      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
+      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
       "sm_name": "BLS International Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLS_15042026193245_Update_on_change_in_RTA__Final_15042026.pdf"
     },
@@ -620,13 +627,6 @@
       "desc": "Spurt in Volume",
       "sm_name": "BLS International Services Limited",
       "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-02-19 13:49:11",
-      "an_dt": "19-Feb-2026 13:49:11",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "BLS International Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLS_19022026134858_Intimation_of_Newspaper_Publication_Signed.pdf"
     }
   ]
 }

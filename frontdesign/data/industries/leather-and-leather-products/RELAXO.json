@@ -8,17 +8,9 @@
   "price": 310.35,
   "market_cap_cr": 7725.81,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 365.35,
-      "prev_close": 372.65,
-      "volume": 46681,
-      "deliverable_qty": 24958,
-      "delivery_pct": 53.47
-    },
     {
       "date": "2026-02-20",
       "close": 357.95,
@@ -450,9 +442,24 @@
       "volume": 38822,
       "deliverable_qty": 15515,
       "delivery_pct": 39.96
+    },
+    {
+      "date": "2026-05-21",
+      "close": 293.8,
+      "prev_close": 291.3,
+      "volume": 59081,
+      "deliverable_qty": 29626,
+      "delivery_pct": 50.14
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 14:49:09",
+      "an_dt": "21-May-2026 14:49:09",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Relaxo Footwears Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RELAXO_21052026144714_Relaxo_Investors_call__Signed.pdf"
+    },
     {
       "sort_date": "2026-05-04 18:52:20",
       "an_dt": "04-May-2026 18:52:20",
@@ -543,13 +550,6 @@
       "desc": "Change in Management",
       "sm_name": "Relaxo Footwears Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RELAXO_11032026181025_SMPDisclosuresigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 19:22:59",
-      "an_dt": "19-Feb-2026 19:22:59",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Relaxo Footwears Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RELAXO_19022026192246_Signed_Intimation_Letter.pdf"
     }
   ]
 }

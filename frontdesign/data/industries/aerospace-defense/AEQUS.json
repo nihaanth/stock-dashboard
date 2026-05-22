@@ -8,17 +8,9 @@
   "price": 189.37,
   "market_cap_cr": 12400.97,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 142.59,
-      "prev_close": 147.09,
-      "volume": 637473,
-      "deliverable_qty": 259313,
-      "delivery_pct": 40.68
-    },
     {
       "date": "2026-02-20",
       "close": 144.74,
@@ -450,6 +442,14 @@
       "volume": 4846014,
       "deliverable_qty": 1562400,
       "delivery_pct": 32.24
+    },
+    {
+      "date": "2026-05-21",
+      "close": 214.75,
+      "prev_close": 206.19,
+      "volume": 6654794,
+      "deliverable_qty": 1840331,
+      "delivery_pct": 27.65
     }
   ],
   "news": [
@@ -662,20 +662,6 @@
       "desc": "General Updates",
       "sm_name": "Aequs Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_23022026173511_Aequs_Limited___Reg_30__Acquisition_of_Aequs_Foundation.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 16:43:27",
-      "an_dt": "19-Feb-2026 16:43:27",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Aequs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_19022026164252_Prior_Intimation_InvestorMeet_25_Feb_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 16:41:22",
-      "an_dt": "19-Feb-2026 16:41:22",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Aequs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_19022026164104_Prior_Intimation_InvestorMeet_24_Feb_2026.pdf"
     }
   ]
 }

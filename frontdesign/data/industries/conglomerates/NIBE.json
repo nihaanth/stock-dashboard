@@ -8,17 +8,9 @@
   "price": 1024.8,
   "market_cap_cr": 1531.18,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 1097.8,
-      "prev_close": 1128.2,
-      "volume": 51595,
-      "deliverable_qty": 17002,
-      "delivery_pct": 32.95
-    },
     {
       "date": "2026-02-20",
       "close": 1059.8,
@@ -450,9 +442,24 @@
       "volume": 341383,
       "deliverable_qty": 110676,
       "delivery_pct": 32.42
+    },
+    {
+      "date": "2026-05-21",
+      "close": 1290.4,
+      "prev_close": 1174.6,
+      "volume": 1980696,
+      "deliverable_qty": 308760,
+      "delivery_pct": 15.59
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 12:21:14",
+      "an_dt": "21-May-2026 12:21:14",
+      "desc": "Press Release",
+      "sm_name": "NIBE Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9028072464_21052026122057_Final_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-20 13:02:06",
       "an_dt": "20-May-2026 13:02:06",

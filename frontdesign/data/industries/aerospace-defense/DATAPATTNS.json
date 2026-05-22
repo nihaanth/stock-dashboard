@@ -8,17 +8,9 @@
   "price": 4142.0,
   "market_cap_cr": 23188.56,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 2914.0,
-      "prev_close": 2898.1,
-      "volume": 658550,
-      "deliverable_qty": 148739,
-      "delivery_pct": 22.59
-    },
     {
       "date": "2026-02-20",
       "close": 2984.6,
@@ -450,9 +442,24 @@
       "volume": 1356724,
       "deliverable_qty": 211177,
       "delivery_pct": 15.57
+    },
+    {
+      "date": "2026-05-21",
+      "close": 3934.5,
+      "prev_close": 3834.1,
+      "volume": 983950,
+      "deliverable_qty": 171645,
+      "delivery_pct": 17.44
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 09:32:47",
+      "an_dt": "21-May-2026 09:32:47",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Data Patterns (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_16042026164540_DATAPATTNS.zip"
+    },
     {
       "sort_date": "2026-05-15 16:39:28",
       "an_dt": "15-May-2026 16:39:28",

@@ -8,17 +8,9 @@
   "price": 994.65,
   "market_cap_cr": 64403.62,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 1094.4,
-      "prev_close": 1119.3,
-      "volume": 1363289,
-      "deliverable_qty": 620736,
-      "delivery_pct": 45.53
-    },
     {
       "date": "2026-02-20",
       "close": 1074.8,
@@ -450,9 +442,24 @@
       "volume": 1512310,
       "deliverable_qty": 1001465,
       "delivery_pct": 66.22
+    },
+    {
+      "date": "2026-05-21",
+      "close": 926.25,
+      "prev_close": 942.25,
+      "volume": 2267419,
+      "deliverable_qty": 1413264,
+      "delivery_pct": 62.33
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 18:34:51",
+      "an_dt": "21-May-2026 18:34:51",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Info Edge (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NAUKRI2_21052026183440_IEIL_Intimation_Investor_Call_Schedule_May_2026.pdf"
+    },
     {
       "sort_date": "2026-05-19 15:09:17",
       "an_dt": "19-May-2026 15:09:17",
@@ -676,27 +683,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Info Edge (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NAUKRI2_23022026182612_IEIL_Intimation_Investor_Call_Schedule_Feb_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 17:47:30",
-      "an_dt": "19-Feb-2026 17:47:30",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Info Edge (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NAUKRI2_19022026174524_IEIL_Transcript_Feb2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 17:32:06",
-      "an_dt": "19-Feb-2026 17:32:06",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Info Edge (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NAUKRI2_19022026173147_IEIL_Intimation_Investor_Call_Schedule_Feb_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 13:41:40",
-      "an_dt": "19-Feb-2026 13:41:40",
-      "desc": "General Updates",
-      "sm_name": "Info Edge (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NAUKRI2_19022026133956_IEIL_Stock_Exchange_Intimation_update_Reg_30.pdf"
     }
   ]
 }

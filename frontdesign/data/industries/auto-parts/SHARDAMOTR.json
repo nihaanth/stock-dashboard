@@ -8,17 +8,9 @@
   "price": 814.0,
   "market_cap_cr": 4672.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 943.0,
-      "prev_close": 977.15,
-      "volume": 41480,
-      "deliverable_qty": 22269,
-      "delivery_pct": 53.69
-    },
     {
       "date": "2026-02-20",
       "close": 954.7,
@@ -450,9 +442,31 @@
       "volume": 36244,
       "deliverable_qty": 22443,
       "delivery_pct": 61.92
+    },
+    {
+      "date": "2026-05-21",
+      "close": 906.5,
+      "prev_close": 884.3,
+      "volume": 200859,
+      "deliverable_qty": 86421,
+      "delivery_pct": 43.03
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 19:37:59",
+      "an_dt": "21-May-2026 19:37:59",
+      "desc": "Dividend",
+      "sm_name": "Sharda Motor Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHARDACHIRAG_21052026193738_Results31032026.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 19:31:27",
+      "an_dt": "21-May-2026 19:31:27",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Sharda Motor Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHARDACHIRAG_21052026192748_Results31032026.pdf"
+    },
     {
       "sort_date": "2026-05-19 10:37:42",
       "an_dt": "19-May-2026 10:37:42",

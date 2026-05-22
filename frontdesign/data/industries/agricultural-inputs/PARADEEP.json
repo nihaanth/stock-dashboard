@@ -8,17 +8,9 @@
   "price": 122.59,
   "market_cap_cr": 12726.93,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 118.88,
-      "prev_close": 121.48,
-      "volume": 4637394,
-      "deliverable_qty": 1932443,
-      "delivery_pct": 41.67
-    },
     {
       "date": "2026-02-20",
       "close": 118.19,
@@ -450,9 +442,24 @@
       "volume": 3265621,
       "deliverable_qty": 1264592,
       "delivery_pct": 38.72
+    },
+    {
+      "date": "2026-05-21",
+      "close": 123.71,
+      "prev_close": 124.36,
+      "volume": 2275422,
+      "deliverable_qty": 935395,
+      "delivery_pct": 41.11
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 17:06:42",
+      "an_dt": "21-May-2026 17:06:42",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "Paradeep Phosphates Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PPLTD_21052026170008_IntimationofITOrder21052026.pdf"
+    },
     {
       "sort_date": "2026-05-20 17:58:23",
       "an_dt": "20-May-2026 17:58:23",

@@ -8,17 +8,9 @@
   "price": 538.75,
   "market_cap_cr": 8248.37,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 487.5,
-      "prev_close": 487.85,
-      "volume": 461288,
-      "deliverable_qty": 142425,
-      "delivery_pct": 30.88
-    },
     {
       "date": "2026-02-20",
       "close": 478.35,
@@ -450,9 +442,24 @@
       "volume": 322065,
       "deliverable_qty": 215123,
       "delivery_pct": 66.79
+    },
+    {
+      "date": "2026-05-21",
+      "close": 521.35,
+      "prev_close": 514.95,
+      "volume": 221302,
+      "deliverable_qty": 122064,
+      "delivery_pct": 55.16
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 12:12:24",
+      "an_dt": "21-May-2026 12:12:24",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Akums Drugs and Pharmaceuticals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NSEAKUMS10_21052026121204_AKUMSTRANSCRIPTQ4FY26.pdf"
+    },
     {
       "sort_date": "2026-05-20 19:06:09",
       "an_dt": "20-May-2026 19:06:09",
@@ -620,20 +627,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Akums Drugs and Pharmaceuticals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NSEAKUMS10_26022026124943_AKUMS10032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 10:29:47",
-      "an_dt": "19-Feb-2026 10:29:47",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Akums Drugs and Pharmaceuticals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NSEAKUMS10_19022026102925_AKUMS19022026final.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 10:18:23",
-      "an_dt": "19-Feb-2026 10:18:23",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Akums Drugs and Pharmaceuticals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NSEAKUMS10_19022026101813_AKUMS19022026final.pdf"
     }
   ]
 }

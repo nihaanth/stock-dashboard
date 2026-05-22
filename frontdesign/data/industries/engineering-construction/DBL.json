@@ -8,17 +8,9 @@
   "price": 437.45,
   "market_cap_cr": 7106.15,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 438.0,
-      "prev_close": 452.9,
-      "volume": 355920,
-      "deliverable_qty": 165739,
-      "delivery_pct": 46.57
-    },
     {
       "date": "2026-02-20",
       "close": 447.95,
@@ -450,9 +442,24 @@
       "volume": 79203,
       "deliverable_qty": 38202,
       "delivery_pct": 48.23
+    },
+    {
+      "date": "2026-05-21",
+      "close": 432.85,
+      "prev_close": 436.85,
+      "volume": 113427,
+      "deliverable_qty": 57569,
+      "delivery_pct": 50.75
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 18:59:22",
+      "an_dt": "21-May-2026 18:59:22",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Dilip Buildcon Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DBL_21052026185804_Finalintimation.pdf"
+    },
     {
       "sort_date": "2026-05-16 11:09:02",
       "an_dt": "16-May-2026 11:09:02",

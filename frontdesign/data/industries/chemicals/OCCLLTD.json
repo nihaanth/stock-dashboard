@@ -8,17 +8,9 @@
   "price": 101.49,
   "market_cap_cr": 506.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 90.63,
-      "prev_close": 91.32,
-      "volume": 14952,
-      "deliverable_qty": 8240,
-      "delivery_pct": 55.11
-    },
     {
       "date": "2026-02-20",
       "close": 91.37,
@@ -450,9 +442,31 @@
       "volume": 18573,
       "deliverable_qty": 11592,
       "delivery_pct": 62.41
+    },
+    {
+      "date": "2026-05-21",
+      "close": 96.79,
+      "prev_close": 94.42,
+      "volume": 64388,
+      "deliverable_qty": 43873,
+      "delivery_pct": 68.14
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 17:49:16",
+      "an_dt": "21-May-2026 17:49:16",
+      "desc": "Record Date",
+      "sm_name": "OCCL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OCCLLTD_21052026174840_Outcome21052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 17:33:51",
+      "an_dt": "21-May-2026 17:33:51",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "OCCL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OCCLLTD_21052026173011_Outcome21052026.pdf"
+    },
     {
       "sort_date": "2026-04-08 16:08:11",
       "an_dt": "08-Apr-2026 16:08:11",

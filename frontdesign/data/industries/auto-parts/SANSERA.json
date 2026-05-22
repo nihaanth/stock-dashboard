@@ -8,17 +8,9 @@
   "price": 2475.3,
   "market_cap_cr": 15429.05,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 2252.6,
-      "prev_close": 2251.7,
-      "volume": 236051,
-      "deliverable_qty": 103573,
-      "delivery_pct": 43.88
-    },
     {
       "date": "2026-02-20",
       "close": 2285.4,
@@ -450,9 +442,59 @@
       "volume": 211459,
       "deliverable_qty": 93320,
       "delivery_pct": 44.13
+    },
+    {
+      "date": "2026-05-21",
+      "close": 2854.5,
+      "prev_close": 2486.2,
+      "volume": 3037959,
+      "deliverable_qty": 843347,
+      "delivery_pct": 27.76
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 16:23:31",
+      "an_dt": "21-May-2026 16:23:31",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Sansera Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANSERA_21052026162316_audiorecording.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 06:32:46",
+      "an_dt": "21-May-2026 06:32:46",
+      "desc": "Press Release",
+      "sm_name": "Sansera Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANSERA_21052026062942_earnings.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 06:24:29",
+      "an_dt": "21-May-2026 06:24:29",
+      "desc": "Investor Presentation",
+      "sm_name": "Sansera Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANSERA_21052026062418_investorspresentation.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 06:05:39",
+      "an_dt": "21-May-2026 06:05:39",
+      "desc": "Change in Director(s)",
+      "sm_name": "Sansera Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANSERA_21052026060458_Outcome21052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 06:04:06",
+      "an_dt": "21-May-2026 06:04:06",
+      "desc": "Dividend",
+      "sm_name": "Sansera Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANSERA_21052026060348_Outcome21052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 06:00:32",
+      "an_dt": "21-May-2026 06:00:32",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Sansera Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANSERA_21052026055805_Outcome21052026.pdf"
+    },
     {
       "sort_date": "2026-05-15 17:32:50",
       "an_dt": "15-May-2026 17:32:50",

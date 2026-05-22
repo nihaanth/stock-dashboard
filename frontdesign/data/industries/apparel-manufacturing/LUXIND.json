@@ -8,17 +8,9 @@
   "price": 1546.2,
   "market_cap_cr": 4649.68,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 950.3,
-      "prev_close": 955.95,
-      "volume": 25239,
-      "deliverable_qty": 15578,
-      "delivery_pct": 61.72
-    },
     {
       "date": "2026-02-20",
       "close": 933.05,
@@ -450,9 +442,45 @@
       "volume": 35131,
       "deliverable_qty": 17345,
       "delivery_pct": 49.37
+    },
+    {
+      "date": "2026-05-21",
+      "close": 1341.6,
+      "prev_close": 1361.1,
+      "volume": 39717,
+      "deliverable_qty": 19513,
+      "delivery_pct": 49.13
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 22:55:25",
+      "an_dt": "21-May-2026 22:55:25",
+      "desc": "Investor Presentation",
+      "sm_name": "Lux Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LUXIND_21052026225456_Investorpresentation.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 18:22:59",
+      "an_dt": "21-May-2026 18:22:59",
+      "desc": "Change in Auditors",
+      "sm_name": "Lux Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LUXIND_21052026182248_Outcome.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 18:01:46",
+      "an_dt": "21-May-2026 18:01:46",
+      "desc": "Dividend",
+      "sm_name": "Lux Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LUXIND_21052026180011_Outcome.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 17:55:25",
+      "an_dt": "21-May-2026 17:55:25",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Lux Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LUXIND_21052026175413_Outcome.pdf"
+    },
     {
       "sort_date": "2026-05-18 19:13:11",
       "an_dt": "18-May-2026 19:13:11",

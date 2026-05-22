@@ -8,17 +8,9 @@
   "price": 213.52,
   "market_cap_cr": 3450.08,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 237.41,
-      "prev_close": 236.65,
-      "volume": 394769,
-      "deliverable_qty": 230801,
-      "delivery_pct": 58.46
-    },
     {
       "date": "2026-02-20",
       "close": 233.64,
@@ -450,9 +442,24 @@
       "volume": 38756,
       "deliverable_qty": 17798,
       "delivery_pct": 45.92
+    },
+    {
+      "date": "2026-05-21",
+      "close": 211.13,
+      "prev_close": 194.32,
+      "volume": 163570,
+      "deliverable_qty": 72369,
+      "delivery_pct": 44.24
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 18:38:59",
+      "an_dt": "21-May-2026 18:38:59",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "IndoStar Capital Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDOSTAR_21052026183826_Intimation_for_schedule_of_call.pdf"
+    },
     {
       "sort_date": "2026-05-11 16:06:10",
       "an_dt": "11-May-2026 16:06:10",
@@ -515,13 +522,6 @@
       "desc": "Trading Window",
       "sm_name": "IndoStar Capital Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDOSTAR_27032026163553_Window_closure_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 18:04:42",
-      "an_dt": "19-Feb-2026 18:04:42",
-      "desc": "Updates",
-      "sm_name": "IndoStar Capital Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDOSTAR_19022026180327_OutcomeQ3FY26.pdf"
     }
   ]
 }

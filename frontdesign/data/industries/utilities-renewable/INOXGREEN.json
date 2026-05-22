@@ -8,17 +8,9 @@
   "price": 160.05,
   "market_cap_cr": 6429.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 180.7,
-      "prev_close": 175.01,
-      "volume": 5350689,
-      "deliverable_qty": 1114500,
-      "delivery_pct": 20.83
-    },
     {
       "date": "2026-02-20",
       "close": 181.53,
@@ -450,6 +442,14 @@
       "volume": 566996,
       "deliverable_qty": 199858,
       "delivery_pct": 35.25
+    },
+    {
+      "date": "2026-05-21",
+      "close": 180.18,
+      "prev_close": 180.42,
+      "volume": 367739,
+      "deliverable_qty": 170668,
+      "delivery_pct": 46.41
     }
   ],
   "news": [
@@ -536,27 +536,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Inox Green Energy Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGESL_10032026182721_IGESL_PB_Stx_MM_Mar2026_dsc.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 19:21:57",
-      "an_dt": "19-Feb-2026 19:21:57",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Inox Green Energy Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGESL_19022026191307_6_IGESL_Transcript_concall13022026_dsc.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 08:50:59",
-      "an_dt": "19-Feb-2026 08:50:59",
-      "desc": "Press Release",
-      "sm_name": "Inox Green Energy Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGESL_19022026085010_IGESL__PR_STXfinal_dsc.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 08:46:33",
-      "an_dt": "19-Feb-2026 08:46:33",
-      "desc": "General Updates",
-      "sm_name": "Inox Green Energy Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGESL_19022026083536_IGESL_Reg30_WWIL_dsc.pdf"
     }
   ]
 }

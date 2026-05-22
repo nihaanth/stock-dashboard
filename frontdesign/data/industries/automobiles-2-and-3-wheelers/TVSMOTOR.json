@@ -8,17 +8,9 @@
   "price": 3613.7,
   "market_cap_cr": 171732.5,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 3830.1,
-      "prev_close": 3885.2,
-      "volume": 309698,
-      "deliverable_qty": 172794,
-      "delivery_pct": 55.79
-    },
     {
       "date": "2026-02-20",
       "close": 3816.2,
@@ -450,9 +442,24 @@
       "volume": 1265474,
       "deliverable_qty": 589537,
       "delivery_pct": 46.59
+    },
+    {
+      "date": "2026-05-21",
+      "close": 3380.7,
+      "prev_close": 3361.9,
+      "volume": 823043,
+      "deliverable_qty": 416632,
+      "delivery_pct": 50.62
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 19:30:24",
+      "an_dt": "21-May-2026 19:30:24",
+      "desc": "Shareholders meeting",
+      "sm_name": "TVS Motor Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TVSMOTOR_21052026192646_TVSM_PB_NSEBSEIntimation_sd.pdf"
+    },
     {
       "sort_date": "2026-05-19 19:02:08",
       "an_dt": "19-May-2026 19:02:08",
@@ -711,13 +718,6 @@
       "desc": "General Updates",
       "sm_name": "TVS Motor Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TVSMOTOR_25022026183707_TVSMNSEBSE_Accel_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 16:51:18",
-      "an_dt": "19-Feb-2026 16:51:18",
-      "desc": "General Updates",
-      "sm_name": "TVS Motor Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TVSMOTOR_19022026164950_TVSMNSEBSEACCEL_updateSD.pdf"
     }
   ]
 }

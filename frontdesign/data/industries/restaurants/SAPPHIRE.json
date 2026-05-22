@@ -8,17 +8,9 @@
   "price": 179.74,
   "market_cap_cr": 5783.28,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 219.18,
-      "prev_close": 219.69,
-      "volume": 212087,
-      "deliverable_qty": 103776,
-      "delivery_pct": 48.93
-    },
     {
       "date": "2026-02-20",
       "close": 217.16,
@@ -450,6 +442,14 @@
       "volume": 297648,
       "deliverable_qty": 119678,
       "delivery_pct": 40.21
+    },
+    {
+      "date": "2026-05-21",
+      "close": 182.41,
+      "prev_close": 181.05,
+      "volume": 507368,
+      "deliverable_qty": 283815,
+      "delivery_pct": 55.94
     }
   ],
   "news": [
@@ -627,13 +627,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Sapphire Foods India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_23022026230048_NSE.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 14:54:37",
-      "an_dt": "19-Feb-2026 14:54:37",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Sapphire Foods India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_19022026145419_NSE.pdf"
     }
   ]
 }

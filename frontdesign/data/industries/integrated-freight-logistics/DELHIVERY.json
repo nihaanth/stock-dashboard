@@ -8,17 +8,9 @@
   "price": 479.15,
   "market_cap_cr": 35874.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 427.9,
-      "prev_close": 432.2,
-      "volume": 1413530,
-      "deliverable_qty": 510887,
-      "delivery_pct": 36.14
-    },
     {
       "date": "2026-02-20",
       "close": 430.95,
@@ -450,6 +442,14 @@
       "volume": 1487135,
       "deliverable_qty": 662038,
       "delivery_pct": 44.52
+    },
+    {
+      "date": "2026-05-21",
+      "close": 452.75,
+      "prev_close": 456.8,
+      "volume": 2471320,
+      "deliverable_qty": 1292357,
+      "delivery_pct": 52.29
     }
   ],
   "news": [
@@ -725,13 +725,6 @@
       "desc": "Options to purchase securities",
       "sm_name": "Delhivery Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DELHIVERYLTD_03032026131127_Grant_of_StockOptions_03032026sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 11:26:04",
-      "an_dt": "19-Feb-2026 11:26:04",
-      "desc": "Press Release",
-      "sm_name": "Delhivery Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DELHIVERYLTD_19022026112308_Press_Release_Builds_AI_powered_location_intelligence_Sd.pdf"
     }
   ]
 }

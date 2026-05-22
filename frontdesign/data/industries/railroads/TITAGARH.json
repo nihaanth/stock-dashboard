@@ -8,17 +8,9 @@
   "price": 815.3,
   "market_cap_cr": 10979.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 750.3,
-      "prev_close": 761.55,
-      "volume": 255861,
-      "deliverable_qty": 111616,
-      "delivery_pct": 43.62
-    },
     {
       "date": "2026-02-20",
       "close": 743.5,
@@ -450,9 +442,24 @@
       "volume": 707138,
       "deliverable_qty": 134915,
       "delivery_pct": 19.08
+    },
+    {
+      "date": "2026-05-21",
+      "close": 752.9,
+      "prev_close": 746.95,
+      "volume": 463328,
+      "deliverable_qty": 114912,
+      "delivery_pct": 24.8
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 10:09:07",
+      "an_dt": "21-May-2026 10:09:07",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "TITAGARH RAIL SYSTEMS LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_21042026110641_reg3.pdf"
+    },
     {
       "sort_date": "2026-05-14 10:50:04",
       "an_dt": "14-May-2026 10:50:04",

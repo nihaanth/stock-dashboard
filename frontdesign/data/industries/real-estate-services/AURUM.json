@@ -8,17 +8,9 @@
   "price": 169.55,
   "market_cap_cr": 1291.42,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 177.16,
-      "prev_close": 178.91,
-      "volume": 36850,
-      "deliverable_qty": 25058,
-      "delivery_pct": 68.0
-    },
     {
       "date": "2026-02-20",
       "close": 187.34,
@@ -450,9 +442,31 @@
       "volume": 53887,
       "deliverable_qty": 35158,
       "delivery_pct": 65.24
+    },
+    {
+      "date": "2026-05-21",
+      "close": 178.96,
+      "prev_close": 175.97,
+      "volume": 290872,
+      "deliverable_qty": 121217,
+      "delivery_pct": 41.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 13:36:51",
+      "an_dt": "21-May-2026 13:36:51",
+      "desc": "Press Release",
+      "sm_name": "Aurum PropTech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AURUM_21052026133546_UpdateonsaleQ5Q6.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 13:36:51",
+      "an_dt": "21-May-2026 13:36:51",
+      "desc": "General Updates",
+      "sm_name": "Aurum PropTech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AURUM_21052026133527_UpdateonsaleQ5Q6.pdf"
+    },
     {
       "sort_date": "2026-05-16 17:04:00",
       "an_dt": "16-May-2026 17:04:00",

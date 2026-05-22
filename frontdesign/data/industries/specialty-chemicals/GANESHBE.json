@@ -8,17 +8,9 @@
   "price": 93.78,
   "market_cap_cr": 675.12,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 80.72,
-      "prev_close": 79.7,
-      "volume": 107389,
-      "deliverable_qty": 56543,
-      "delivery_pct": 52.65
-    },
     {
       "date": "2026-02-20",
       "close": 88.5,
@@ -450,6 +442,14 @@
       "volume": 2623849,
       "deliverable_qty": 1217316,
       "delivery_pct": 46.39
+    },
+    {
+      "date": "2026-05-21",
+      "close": 98.65,
+      "prev_close": 100.68,
+      "volume": 369006,
+      "deliverable_qty": 209650,
+      "delivery_pct": 56.81
     }
   ],
   "news": [
@@ -473,20 +473,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Ganesh Benzoplast Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GANESHBE_23022026100840_CONCALLTRANSCRIPT19022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 18:09:44",
-      "an_dt": "19-Feb-2026 18:09:44",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Ganesh Benzoplast Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GANESHBE_19022026180927_CONCALLAUDIO19022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 11:22:11",
-      "an_dt": "19-Feb-2026 11:22:11",
-      "desc": "Investor Presentation",
-      "sm_name": "Ganesh Benzoplast Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GANESHBE_19022026112156_InvestorPresentationFebruary2026.pdf"
     }
   ]
 }

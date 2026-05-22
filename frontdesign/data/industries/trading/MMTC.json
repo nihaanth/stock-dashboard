@@ -8,17 +8,9 @@
   "price": 66.7,
   "market_cap_cr": 10005.0,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 62.74,
-      "prev_close": 63.33,
-      "volume": 1131046,
-      "deliverable_qty": 430084,
-      "delivery_pct": 38.03
-    },
     {
       "date": "2026-02-20",
       "close": 62.07,
@@ -450,9 +442,24 @@
       "volume": 1738930,
       "deliverable_qty": 426039,
       "delivery_pct": 24.5
+    },
+    {
+      "date": "2026-05-21",
+      "close": 64.02,
+      "prev_close": 63.93,
+      "volume": 1230889,
+      "deliverable_qty": 374561,
+      "delivery_pct": 30.43
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 09:40:06",
+      "an_dt": "21-May-2026 09:40:06",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "MMTC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_17042026111006_Reg.pdf"
+    },
     {
       "sort_date": "2026-05-11 12:59:05",
       "an_dt": "11-May-2026 12:59:05",

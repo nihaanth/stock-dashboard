@@ -8,17 +8,9 @@
   "price": 460.5,
   "market_cap_cr": 30286.16,
   "industry_source": "webarchive",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 524.75,
-      "prev_close": 524.05,
-      "volume": 834188,
-      "deliverable_qty": 325130,
-      "delivery_pct": 38.98
-    },
     {
       "date": "2026-02-20",
       "close": 532.4,
@@ -450,9 +442,24 @@
       "volume": 1290565,
       "deliverable_qty": 554212,
       "delivery_pct": 42.94
+    },
+    {
+      "date": "2026-05-21",
+      "close": 435.65,
+      "prev_close": 472.55,
+      "volume": 18865418,
+      "deliverable_qty": 7397790,
+      "delivery_pct": 39.21
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 12:59:20",
+      "an_dt": "21-May-2026 12:59:20",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Jubilant Foodworks Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JUBLFOOD_21052026125910_SEINTIMATIONNEWSPPAERADVT.pdf"
+    },
     {
       "sort_date": "2026-05-20 19:07:35",
       "an_dt": "20-May-2026 19:07:35",
@@ -634,20 +641,6 @@
       "desc": "Sale or disposal",
       "sm_name": "Jubilant Foodworks Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JUBLFOOD_20022026175217_SE_Intimation_Sale_of_stake_Hashtag.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 18:51:42",
-      "an_dt": "19-Feb-2026 18:51:42",
-      "desc": "Credit Rating",
-      "sm_name": "Jubilant Foodworks Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JUBLFOOD_19022026185135_SECreditRating_19-Feb-26.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 17:27:30",
-      "an_dt": "19-Feb-2026 17:27:30",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Jubilant Foodworks Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JUBLFOOD_19022026172704_SEJFLInvestorCall19th_Feb_2026.pdf"
     }
   ]
 }

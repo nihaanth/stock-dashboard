@@ -8,17 +8,9 @@
   "price": 825.3,
   "market_cap_cr": 1257.62,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 812.4,
-      "prev_close": 815.15,
-      "volume": 5953,
-      "deliverable_qty": 4726,
-      "delivery_pct": 79.39
-    },
     {
       "date": "2026-02-20",
       "close": 852.95,
@@ -450,9 +442,24 @@
       "volume": 3571,
       "deliverable_qty": 2461,
       "delivery_pct": 68.92
+    },
+    {
+      "date": "2026-05-21",
+      "close": 826.45,
+      "prev_close": 821.2,
+      "volume": 4161,
+      "deliverable_qty": 2683,
+      "delivery_pct": 64.48
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 17:05:09",
+      "an_dt": "21-May-2026 17:05:09",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Alldigi Tech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALLSEC_21052026170451_SE_News_21052026.pdf"
+    },
     {
       "sort_date": "2026-05-12 12:01:42",
       "an_dt": "12-May-2026 12:01:42",

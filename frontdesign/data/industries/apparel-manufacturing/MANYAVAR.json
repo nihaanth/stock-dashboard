@@ -8,17 +8,9 @@
   "price": 468.6,
   "market_cap_cr": 11385.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 426.55,
-      "prev_close": 434.8,
-      "volume": 129228,
-      "deliverable_qty": 58883,
-      "delivery_pct": 45.57
-    },
     {
       "date": "2026-02-20",
       "close": 425.7,
@@ -450,9 +442,31 @@
       "volume": 460734,
       "deliverable_qty": 250047,
       "delivery_pct": 54.27
+    },
+    {
+      "date": "2026-05-21",
+      "close": 422.2,
+      "prev_close": 415.05,
+      "volume": 173588,
+      "deliverable_qty": 76792,
+      "delivery_pct": 44.24
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 23:41:40",
+      "an_dt": "21-May-2026 23:41:40",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Vedant Fashions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANYAVAR_21052026233951_VFL_IntiSch21052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 12:49:48",
+      "an_dt": "21-May-2026 12:49:48",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Vedant Fashions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANYAVAR_21052026124918_PDF.pdf"
+    },
     {
       "sort_date": "2026-05-14 19:34:36",
       "an_dt": "14-May-2026 19:34:36",
@@ -585,13 +599,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Vedant Fashions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANYAVAR_05032026233239_VFLIntiSchedule05032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 19:29:07",
-      "an_dt": "19-Feb-2026 19:29:07",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Vedant Fashions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANYAVAR_19022026192759_VFLIntiTranscript_Q3FY26.pdf"
     }
   ]
 }

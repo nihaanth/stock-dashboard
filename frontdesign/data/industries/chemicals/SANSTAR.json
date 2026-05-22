@@ -8,17 +8,9 @@
   "price": 84.03,
   "market_cap_cr": 1531.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 88.1,
-      "prev_close": 89.36,
-      "volume": 150003,
-      "deliverable_qty": 71751,
-      "delivery_pct": 47.83
-    },
     {
       "date": "2026-02-20",
       "close": 87.87,
@@ -450,9 +442,24 @@
       "volume": 972368,
       "deliverable_qty": 390396,
       "delivery_pct": 40.15
+    },
+    {
+      "date": "2026-05-21",
+      "close": 118.57,
+      "prev_close": 111.95,
+      "volume": 1471201,
+      "deliverable_qty": 627759,
+      "delivery_pct": 42.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 10:09:52",
+      "an_dt": "21-May-2026 10:09:52",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Sanstar Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_21042026111655_reg5.pdf"
+    },
     {
       "sort_date": "2026-05-20 10:48:57",
       "an_dt": "20-May-2026 10:48:57",

@@ -8,17 +8,9 @@
   "price": 546.5,
   "market_cap_cr": 79168.22,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 648.65,
-      "prev_close": 648.85,
-      "volume": 1373867,
-      "deliverable_qty": 911330,
-      "delivery_pct": 66.33
-    },
     {
       "date": "2026-02-20",
       "close": 651.3,
@@ -450,9 +442,24 @@
       "volume": 2263722,
       "deliverable_qty": 1546137,
       "delivery_pct": 68.3
+    },
+    {
+      "date": "2026-05-21",
+      "close": 510.1,
+      "prev_close": 509.25,
+      "volume": 1474562,
+      "deliverable_qty": 734605,
+      "delivery_pct": 49.82
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 12:59:23",
+      "an_dt": "21-May-2026 12:59:23",
+      "desc": "Rumour Verification - Regulation 30(11)",
+      "sm_name": "ICICI Prudential Life Insurance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIPRULI_21052026125909_Disclosure_under_Regulation_30_11_.pdf"
+    },
     {
       "sort_date": "2026-05-19 15:00:35",
       "an_dt": "19-May-2026 15:00:35",
@@ -795,20 +802,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "ICICI Prudential Life Insurance Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIPRULI_24022026121021_SE_Intimation_Feb_24_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 17:41:10",
-      "an_dt": "19-Feb-2026 17:41:10",
-      "desc": "General Updates",
-      "sm_name": "ICICI Prudential Life Insurance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIPRULI_19022026174055_Disclosure_order_dated_19022026_2_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 17:31:47",
-      "an_dt": "19-Feb-2026 17:31:47",
-      "desc": "General Updates",
-      "sm_name": "ICICI Prudential Life Insurance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIPRULI_19022026173120_Disclosure_order_dated_19022026__1__signed.pdf"
     }
   ]
 }

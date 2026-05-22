@@ -8,17 +8,9 @@
   "price": 232.77,
   "market_cap_cr": 523.44,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 261.05,
-      "prev_close": 258.7,
-      "volume": 27782,
-      "deliverable_qty": 16518,
-      "delivery_pct": 59.46
-    },
     {
       "date": "2026-02-20",
       "close": 261.4,
@@ -450,9 +442,24 @@
       "volume": 14210,
       "deliverable_qty": 7712,
       "delivery_pct": 54.27
+    },
+    {
+      "date": "2026-05-21",
+      "close": 222.66,
+      "prev_close": 223.58,
+      "volume": 7250,
+      "deliverable_qty": 4325,
+      "delivery_pct": 59.66
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 11:18:54",
+      "an_dt": "21-May-2026 11:18:54",
+      "desc": "Allotment of Securities",
+      "sm_name": "CSL Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CSLFINANCELIMITED_21052026111844_outcome.pdf"
+    },
     {
       "sort_date": "2026-05-12 17:06:53",
       "an_dt": "12-May-2026 17:06:53",

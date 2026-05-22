@@ -8,17 +8,9 @@
   "price": 1260.2,
   "market_cap_cr": 8262.63,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 1232.0,
-      "prev_close": 1233.0,
-      "volume": 6901,
-      "deliverable_qty": 4806,
-      "delivery_pct": 69.64
-    },
     {
       "date": "2026-02-20",
       "close": 1211.7,
@@ -450,9 +442,24 @@
       "volume": 117098,
       "deliverable_qty": 106978,
       "delivery_pct": 91.36
+    },
+    {
+      "date": "2026-05-21",
+      "close": 1312.0,
+      "prev_close": 1318.2,
+      "volume": 14336,
+      "deliverable_qty": 5284,
+      "delivery_pct": 36.86
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 12:43:05",
+      "an_dt": "21-May-2026 12:43:05",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Jupiter Life Line Hospitals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JUPITER2023_21052026124254_Earning_call_transcript_26.pdf"
+    },
     {
       "sort_date": "2026-05-18 20:27:23",
       "an_dt": "18-May-2026 20:27:23",

@@ -8,17 +8,9 @@
   "price": 531.8,
   "market_cap_cr": 611.23,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 549.9,
-      "prev_close": 550.35,
-      "volume": 2551,
-      "deliverable_qty": 1650,
-      "delivery_pct": 64.68
-    },
     {
       "date": "2026-02-20",
       "close": 531.0,
@@ -442,9 +434,31 @@
       "volume": 2070,
       "deliverable_qty": 933,
       "delivery_pct": 45.07
+    },
+    {
+      "date": "2026-05-21",
+      "close": 561.35,
+      "prev_close": 555.3,
+      "volume": 218,
+      "deliverable_qty": 129,
+      "delivery_pct": 59.17
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 19:35:42",
+      "an_dt": "21-May-2026 19:35:42",
+      "desc": "Appointment",
+      "sm_name": "Shree Vasu Logistics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SVLL_21052026193529_Svll.pdf"
+    },
+    {
+      "sort_date": "2026-05-21 19:33:48",
+      "an_dt": "21-May-2026 19:33:48",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Shree Vasu Logistics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SVLL_21052026193218_Svll.pdf"
+    },
     {
       "sort_date": "2026-04-24 21:04:17",
       "an_dt": "24-Apr-2026 21:04:17",

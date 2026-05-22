@@ -8,17 +8,9 @@
   "price": 889.1,
   "market_cap_cr": 12492.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 1037.55,
-      "prev_close": 1062.0,
-      "volume": 285417,
-      "deliverable_qty": 40488,
-      "delivery_pct": 14.19
-    },
     {
       "date": "2026-02-20",
       "close": 1008.0,
@@ -450,9 +442,24 @@
       "volume": 188539,
       "deliverable_qty": 16970,
       "delivery_pct": 9.0
+    },
+    {
+      "date": "2026-05-21",
+      "close": 821.85,
+      "prev_close": 820.75,
+      "volume": 164048,
+      "deliverable_qty": 7182,
+      "delivery_pct": 4.38
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 19:16:23",
+      "an_dt": "21-May-2026 19:16:23",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Signatureglobal (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLOBAL_21052026191602_transcriptsigned.pdf"
+    },
     {
       "sort_date": "2026-05-15 17:10:03",
       "an_dt": "15-May-2026 17:10:03",

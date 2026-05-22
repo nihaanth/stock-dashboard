@@ -8,17 +8,9 @@
   "price": 424.35,
   "market_cap_cr": 2681.63,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 398.7,
-      "prev_close": 399.45,
-      "volume": 376460,
-      "deliverable_qty": 244802,
-      "delivery_pct": 65.03
-    },
     {
       "date": "2026-02-20",
       "close": 399.6,
@@ -450,9 +442,24 @@
       "volume": 31830,
       "deliverable_qty": 18160,
       "delivery_pct": 57.05
+    },
+    {
+      "date": "2026-05-21",
+      "close": 388.6,
+      "prev_close": 377.45,
+      "volume": 173607,
+      "deliverable_qty": 72826,
+      "delivery_pct": 41.95
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 15:27:19",
+      "an_dt": "21-May-2026 15:27:19",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Jash Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JASH_21052026152642_JASHCALLINVITE27052026.pdf"
+    },
     {
       "sort_date": "2026-05-13 14:15:07",
       "an_dt": "13-May-2026 14:15:07",
@@ -578,13 +585,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Jash Engineering Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JASH_20022026102223_CALLTRANSCRIPTJASH.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 16:42:41",
-      "an_dt": "19-Feb-2026 16:42:41",
-      "desc": "Amalgamation/Merger",
-      "sm_name": "Jash Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JASH_19022026163904_MERGERORDER16022026.pdf"
     }
   ]
 }

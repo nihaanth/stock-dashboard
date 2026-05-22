@@ -8,17 +8,9 @@
   "price": 863.1,
   "market_cap_cr": 2675.96,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 1042.35,
-      "prev_close": 1072.65,
-      "volume": 82004,
-      "deliverable_qty": 22843,
-      "delivery_pct": 27.86
-    },
     {
       "date": "2026-02-20",
       "close": 1003.7,
@@ -450,9 +442,24 @@
       "volume": 49909,
       "deliverable_qty": 23200,
       "delivery_pct": 46.48
+    },
+    {
+      "date": "2026-05-21",
+      "close": 823.15,
+      "prev_close": 824.25,
+      "volume": 67475,
+      "deliverable_qty": 48285,
+      "delivery_pct": 71.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-21 10:13:59",
+      "an_dt": "21-May-2026 10:13:59",
+      "desc": "Credit Rating",
+      "sm_name": "Pokarna Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POKARNA_21052026101348_Pokarna_Credit_Ratings_FY26.pdf"
+    },
     {
       "sort_date": "2026-05-15 19:11:07",
       "an_dt": "15-May-2026 19:11:07",

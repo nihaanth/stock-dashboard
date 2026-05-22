@@ -8,17 +8,9 @@
   "price": 326.65,
   "market_cap_cr": 12013.69,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 320.2,
-      "prev_close": 323.3,
-      "volume": 178067,
-      "deliverable_qty": 94413,
-      "delivery_pct": 53.02
-    },
     {
       "date": "2026-02-20",
       "close": 320.0,
@@ -450,6 +442,14 @@
       "volume": 657268,
       "deliverable_qty": 221055,
       "delivery_pct": 33.63
+    },
+    {
+      "date": "2026-05-21",
+      "close": 301.15,
+      "prev_close": 305.4,
+      "volume": 684275,
+      "deliverable_qty": 269998,
+      "delivery_pct": 39.46
     }
   ],
   "news": [
@@ -676,13 +676,6 @@
       "desc": "Disclosure of material issue",
       "sm_name": "Afcons Infrastructure Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_24022026172325_Intimation_TerminationofGabonProject_24022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 16:36:55",
-      "an_dt": "19-Feb-2026 16:36:55",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Afcons Infrastructure Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_19022026163640_Afcons_Anayalst_Meeting.pdf"
     }
   ]
 }

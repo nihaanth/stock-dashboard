@@ -8,17 +8,9 @@
   "price": 602.5,
   "market_cap_cr": 935.98,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 515.15,
-      "prev_close": 510.7,
-      "volume": 18823,
-      "deliverable_qty": 12198,
-      "delivery_pct": 64.8
-    },
     {
       "date": "2026-02-20",
       "close": 510.0,
@@ -450,6 +442,14 @@
       "volume": 25819,
       "deliverable_qty": 13842,
       "delivery_pct": 53.61
+    },
+    {
+      "date": "2026-05-21",
+      "close": 507.25,
+      "prev_close": 531.4,
+      "volume": 48939,
+      "deliverable_qty": 29034,
+      "delivery_pct": 59.33
     }
   ],
   "news": [
@@ -536,13 +536,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Synergy Green Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGIL_21022026100955_Newspaper_Advt_PB_Notice.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 12:46:32",
-      "an_dt": "19-Feb-2026 12:46:32",
-      "desc": "Shareholders meeting",
-      "sm_name": "Synergy Green Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGIL_19022026124620_Intimation_of_Postal_Ballot_Notice.pdf"
     }
   ]
 }

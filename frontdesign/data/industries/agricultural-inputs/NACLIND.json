@@ -8,17 +8,9 @@
   "price": 162.4,
   "market_cap_cr": 3815.0,
   "industry_source": "yfinance",
-  "as_of": "2026-05-20",
+  "as_of": "2026-05-21",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-19",
-      "close": 141.77,
-      "prev_close": 145.48,
-      "volume": 114306,
-      "deliverable_qty": 63509,
-      "delivery_pct": 55.56
-    },
     {
       "date": "2026-02-20",
       "close": 139.92,
@@ -450,6 +442,14 @@
       "volume": 164422,
       "deliverable_qty": 96888,
       "delivery_pct": 58.93
+    },
+    {
+      "date": "2026-05-21",
+      "close": 164.0,
+      "prev_close": 161.71,
+      "volume": 162611,
+      "deliverable_qty": 81290,
+      "delivery_pct": 49.99
     }
   ],
   "news": [
@@ -564,13 +564,6 @@
       "desc": "General Updates",
       "sm_name": "NACL Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NACLIND_25032026132842_BM_Outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-19 17:44:09",
-      "an_dt": "19-Feb-2026 17:44:09",
-      "desc": "General Updates",
-      "sm_name": "NACL Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NACLIND_19022026174158_SEIPAPERPUBLICATIONNACL.pdf"
     }
   ]
 }
