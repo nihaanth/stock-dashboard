@@ -1437,21 +1437,286 @@ a:hover { color: var(--ink); }
 }
 @media (max-width: 900px) {
   .layout { grid-template-columns: 1fr; }
-  .sidebar { position: static; max-height: none; border-right: 0; border-bottom: 1px solid var(--rule); }
-  .topbar { grid-template-columns: 1fr auto; padding: 12px 16px; }
-  .topbar__center { display: none; }
-  .main { padding: 18px 16px 32px; }
-  .tablewrap { overflow-x: auto; }
+  .sidebar {
+    position: static;
+    max-height: none;
+    border-right: 0;
+    border-bottom: 1px solid var(--rule);
+    padding: 14px 0 20px;
+  }
+  /* Two-column metadata at top so masthead doesn't get tall — picker on its own row.
+     Drop sticky on mobile: lets the masthead scroll away naturally, and gives the
+     inside-sticky elements (ind-toolbar, live-ticker, table thead) clean top: 0. */
+  .topbar {
+    position: static;
+    grid-template-columns: 1fr auto;
+    grid-template-areas:
+      "brand right"
+      "center center";
+    padding: 10px 14px;
+    gap: 10px 12px;
+    padding-top: max(10px, env(safe-area-inset-top));
+    padding-left: max(14px, env(safe-area-inset-left));
+    padding-right: max(14px, env(safe-area-inset-right));
+  }
+  .topbar__brand { grid-area: brand; gap: 10px; }
+  .topbar__right { grid-area: right; }
+  .topbar__center {
+    grid-area: center;
+    display: flex;
+    justify-self: stretch;
+    width: 100%;
+    align-items: center;
+    gap: 12px;
+    padding-top: 8px;
+    border-top: 1px dotted var(--rule-soft);
+    flex-wrap: wrap;
+  }
+  .picker { flex: 1 1 200px; }
+  #datePicker { min-width: 0; width: 100%; font-size: 14px; padding: 8px 22px 8px 0; }
+  .alltime { font-size: 11px; padding: 6px 10px; flex-shrink: 0; }
+  .brand__mark { width: 38px; height: 38px; font-size: 22px; padding-top: 6px; flex-shrink: 0; }
+  .topbar__brand { min-width: 0; }
+  .brand__label { min-width: 0; }
+  .brand__title { font-size: 18px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .brand__sub { font-size: 10px; letter-spacing: 0.1em; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .main { padding: 18px 14px 32px; }
+  .tablewrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
   .ptable { min-width: 900px; }
-  .stock-detail { grid-template-columns: 1fr; }
-  .ind-toolbar { top: 0; flex-wrap: wrap; gap: 10px; }
-  .ind-main { padding: 18px 16px 40px; }
+  .ptable thead th { top: 0; } /* don't try to track the (now non-sticky-height) masthead */
+  .stock-detail { grid-template-columns: 1fr; gap: 22px; }
+  .ind-toolbar { top: 60px; flex-wrap: wrap; gap: 10px; padding: 12px 0 10px; }
+  .ind-search { font-size: 16px; padding: 10px 0; }
+  .ind-main { padding: 16px 14px 40px; }
+  /* Top nav: let it scroll horizontally instead of wrapping/cramped */
+  .topnav {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+    max-width: 100%;
+  }
+  .topnav::-webkit-scrollbar { display: none; }
+  .topnav__link { flex-shrink: 0; min-height: 36px; }
+  .iconbtn { min-width: 40px; min-height: 40px; }
+  .filters { gap: 14px 18px; }
+  .filter { min-width: 0; flex: 1 1 140px; }
+  .filter select, .filter input[type="range"] { font-size: 14px; }
+  .filter--note { margin-left: 0; flex: 1 1 100%; gap: 12px; flex-wrap: wrap; }
 }
 @media (max-width: 700px) {
   .srctabs, .cards { grid-template-columns: repeat(2, 1fr); }
+  .srctab { padding: 10px 12px; }
+  .srctab__letter { font-size: 18px; width: 24px; height: 24px; }
+  .srctab__label { font-size: 10px; letter-spacing: 0.1em; }
+  .srctab__sub { font-size: 10px; }
+  .card { padding: 12px 14px 14px; }
+  .card__value { font-size: 22px; }
+  .card__label { font-size: 9px; letter-spacing: 0.14em; }
+  .card__sub { font-size: 10.5px; }
   .industry-grid { grid-template-columns: 1fr; }
   .stock-head { flex-direction: column; align-items: flex-start; gap: 12px; }
   .stock-price { text-align: left; }
+  /* Filters: stack into one column */
+  .filters { gap: 12px; padding: 12px 0; }
+  .filter { flex: 1 1 100%; min-width: 0; }
+  .filter--note { gap: 14px; justify-content: flex-start; }
+  /* Sidebar internal padding tightens */
+  .sidebar__hdr { padding: 0 14px 8px; font-size: 14px; }
+  .sidebar__hdr--sub { margin-top: 16px; padding-top: 12px; }
+  .vwitem { padding: 9px 14px; }
+  .dateitem { padding: 10px 14px; }
+  .srcsumm { padding: 4px 10px 12px; }
+}
+@media (max-width: 560px) {
+  /* Touch-friendly: inputs at 16px to prevent iOS zoom-on-focus */
+  button, input, select, textarea { font-size: 16px; }
+  .topbar { padding: 10px 12px; }
+  .brand__title { font-size: 16px; line-height: 1.05; }
+  .brand__sub { font-size: 9.5px; letter-spacing: 0.08em; }
+  .brand__mark { width: 34px; height: 34px; font-size: 20px; padding-top: 6px; }
+  .alltime { font-size: 10.5px; padding: 5px 8px; letter-spacing: 0.02em; }
+  .topnav__link { padding: 8px 12px; font-size: 10.5px; letter-spacing: 0.1em; }
+  .topnav__link span { gap: 4px; }
+  /* News rows: stack the time/body fully */
+  .news-row {
+    grid-template-columns: 1fr;
+    gap: 6px;
+    padding: 12px 4px;
+  }
+  .news-row__time { flex-direction: row; align-items: baseline; gap: 8px; }
+  .news-row__hhmm { font-size: 14px; }
+  .news-row__date { font-size: 10px; }
+  .news-row__time .news-pill { margin: 0; }
+  .news-row__desc { font-size: 14.5px; line-height: 1.35; }
+  .news-row__action { text-align: left; }
+  /* Live ticker fits within the narrow viewport */
+  .live-ticker {
+    padding: 6px 12px;
+    gap: 10px;
+    font-size: 10.5px;
+  }
+  .live-ticker__label { font-size: 10px; letter-spacing: 0.1em; }
+  .live-ticker__time { display: none; }
+  .live-ticker__desc { max-width: 14ch; font-size: 12px; }
+  .live-ticker__list { gap: 16px; }
+  /* Industry meta line is too long */
+  .ind-toolbar { gap: 8px; }
+  .ind-meta { font-size: 10px; letter-spacing: 0.1em; }
+  .ind-headline { margin: 18px 0 22px; }
+  .ind-h2, .ind-h3 { font-size: 9.5px; letter-spacing: 0.18em; }
+  /* Drawer / news-headline grids stack */
+  .news-headline { gap: 12px; padding-bottom: 18px; }
+  .news-headline__meta { padding-top: 12px; }
+  /* Footer wraps */
+  .footer { flex-direction: column; gap: 6px; align-items: flex-start; padding: 18px 4px 0; }
+  /* Stock detail head */
+  .stock-sym { font-size: clamp(36px, 12vw, 56px); }
+  .stock-price__val { font-size: clamp(24px, 8vw, 32px); }
+  .news-feed { max-height: none; }
+  .news-feed .news-link { padding-left: 0; }
+  /* Make the underlying horizontal table feel intentional, not broken */
+  .tablewrap {
+    border-left: 1px solid var(--rule-soft);
+    border-right: 1px solid var(--rule-soft);
+  }
+}
+@media (max-width: 420px) {
+  .srctabs, .cards { grid-template-columns: 1fr; }
+  .srctab, .card { border-right: 0; border-bottom: 1px solid var(--rule-soft); }
+  .srctab:last-child, .card:last-child { border-bottom: 0; }
+  .am-summary__num { font-size: 28px; }
+  .am-grid { grid-template-columns: 1fr; }
+}
+
+/* ============================================================
+   Hamburger menu (industries.html mobile only)
+   ============================================================ */
+.iconbtn--menu { display: none; }
+.hamburger {
+  position: relative;
+  display: inline-block;
+  width: 18px;
+  height: 14px;
+}
+.hamburger > span {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: currentColor;
+  border-radius: 0;
+  transition: transform 0.2s ease, opacity 0.15s ease, top 0.2s ease;
+}
+.hamburger > span:nth-child(1) { top: 0; }
+.hamburger > span:nth-child(2) { top: 6px; }
+.hamburger > span:nth-child(3) { top: 12px; }
+.iconbtn--menu[aria-expanded="true"] .hamburger > span:nth-child(1) {
+  top: 6px;
+  transform: rotate(45deg);
+}
+.iconbtn--menu[aria-expanded="true"] .hamburger > span:nth-child(2) {
+  opacity: 0;
+}
+.iconbtn--menu[aria-expanded="true"] .hamburger > span:nth-child(3) {
+  top: 6px;
+  transform: rotate(-45deg);
+}
+
+.nav-backdrop {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 49;
+  background: rgba(15, 14, 12, 0.42);
+  animation: nav-fade 0.18s ease both;
+}
+[data-theme="dark"] .nav-backdrop { background: rgba(0, 0, 0, 0.55); }
+@keyframes nav-fade { from { opacity: 0; } to { opacity: 1; } }
+
+@media (max-width: 900px) {
+  .iconbtn--menu { display: inline-flex; }
+
+  /* Override the 2-row topbar layout when a hamburger is in use:
+     restore a single row of brand + right (with menu toggle). The nav
+     becomes an off-canvas drawer instead of a second row. */
+  body:has(#navToggle) .topbar {
+    position: sticky;
+    top: 0;
+    z-index: 70; /* above the drawer so the hamburger stays tappable to close */
+    grid-template-columns: 1fr auto;
+    grid-template-areas: "brand right";
+  }
+  body:has(#navToggle) .topbar__center {
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 60;
+    width: min(78vw, 320px);
+    height: 100vh;
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+    padding: calc(env(safe-area-inset-top) + 72px) 18px 24px;
+    padding-right: max(18px, env(safe-area-inset-right));
+    background: var(--paper);
+    border-left: 1px solid var(--rule);
+    box-shadow: -8px 0 24px rgba(15, 14, 12, 0.08);
+    transform: translateX(100%);
+    transition: transform 0.22s cubic-bezier(0.2, 0.7, 0.2, 1);
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+  [data-theme="dark"] body:has(#navToggle) .topbar__center {
+    box-shadow: -8px 0 24px rgba(0, 0, 0, 0.5);
+  }
+  body:has(#navToggle.is-open) .topbar__center {
+    transform: translateX(0);
+  }
+  body:has(#navToggle.is-open) .nav-backdrop {
+    display: block;
+  }
+  body:has(#navToggle.is-open) {
+    overflow: hidden;
+  }
+  body:has(#navToggle) .topnav {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 2px;
+    overflow: visible;
+    max-width: none;
+  }
+  body:has(#navToggle) .topnav__link {
+    width: 100%;
+    justify-content: space-between;
+    padding: 14px 16px;
+    font-size: 12px;
+    letter-spacing: 0.14em;
+    border: 1px solid var(--rule);
+    border-radius: 0;
+    min-height: 48px;
+  }
+  body:has(#navToggle) .topnav__link + .topnav__link {
+    margin-top: 4px;
+  }
+  body:has(#navToggle) .topnav__badge {
+    margin-left: auto;
+  }
+}
+
+/* Pointer-coarse: extra hit-slop for thumbs */
+@media (pointer: coarse) {
+  .topnav__link,
+  .iconbtn,
+  .srctab,
+  .chip,
+  .filter select,
+  .dateitem,
+  .vwitem,
+  .srcsumm__row { min-height: 44px; }
+  .chip { padding: 10px 12px; }
 }
 
 /* ============================================================
@@ -1631,7 +1896,7 @@ a:hover { color: var(--ink); }
 }
 
 @media (max-width: 900px) {
-  .live-ticker { top: 0; }
+  .live-ticker { top: 60px; }
   .live-ticker__desc { max-width: 18ch; }
 }
 

@@ -63,6 +63,7 @@ let livePollTimer = null;
 // ---------- bootstrap ----------
 async function init() {
   initTheme();
+  initNavToggle();
   bindToolbar();
   try {
     state.index = await fetchJSON(DATA_ROOT + "industries.json");
@@ -860,6 +861,32 @@ function initTheme() {
     const next = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
     document.documentElement.dataset.theme = next;
     localStorage.setItem("sb-theme", next);
+  });
+}
+
+function initNavToggle() {
+  const toggle = document.getElementById("navToggle");
+  const nav = document.getElementById("topNav");
+  const backdrop = document.getElementById("navBackdrop");
+  if (!toggle || !nav) return;
+
+  const setOpen = (open) => {
+    toggle.classList.toggle("is-open", open);
+    toggle.setAttribute("aria-expanded", open ? "true" : "false");
+    toggle.setAttribute("aria-label", open ? "Close menu" : "Open menu");
+    if (backdrop) backdrop.hidden = !open;
+  };
+
+  toggle.addEventListener("click", () => {
+    setOpen(!toggle.classList.contains("is-open"));
+  });
+  if (backdrop) backdrop.addEventListener("click", () => setOpen(false));
+  // Close after picking a destination — even hash navigation feels intentional this way.
+  nav.addEventListener("click", (e) => {
+    if (e.target.closest("a")) setOpen(false);
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && toggle.classList.contains("is-open")) setOpen(false);
   });
 }
 

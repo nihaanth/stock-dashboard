@@ -2,7 +2,12 @@
 <html lang="en" data-theme="light">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#f3eee2" media="(prefers-color-scheme: light)" />
+  <meta name="theme-color" content="#0e0d0a" media="(prefers-color-scheme: dark)" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
   <title>Stockbot — Industries</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -18,7 +23,7 @@
       </div>
     </div>
 
-    <nav class="topbar__center topnav">
+    <nav class="topbar__center topnav" id="topNav" aria-label="Sections">
       <a class="topnav__link" href="index.html">Dashboard</a>
       <a class="topnav__link topnav__link--active" href="industries.html">Industries</a>
       <a class="topnav__link" href="industries.html#/news" id="navNews">
@@ -33,8 +38,13 @@
     </nav>
 
     <div class="topbar__right">
+      <button id="navToggle" class="iconbtn iconbtn--menu" aria-label="Open menu"
+              aria-controls="topNav" aria-expanded="false">
+        <span class="hamburger" aria-hidden="true"><span></span><span></span><span></span></span>
+      </button>
       <button id="themeToggle" class="iconbtn" aria-label="Toggle theme">◐</button>
     </div>
+    <div class="nav-backdrop" id="navBackdrop" hidden></div>
   </header>
 
   <aside class="live-ticker" id="liveTicker" hidden>
