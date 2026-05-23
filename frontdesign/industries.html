@@ -23,7 +23,7 @@
       </div>
     </div>
 
-    <nav class="topbar__center topnav">
+    <nav class="topbar__center topnav" id="topNav" aria-label="Sections">
       <a class="topnav__link" href="index.html">Dashboard</a>
       <a class="topnav__link topnav__link--active" href="industries.html">Industries</a>
       <a class="topnav__link" href="industries.html#/news" id="navNews">
@@ -38,8 +38,13 @@
     </nav>
 
     <div class="topbar__right">
+      <button id="navToggle" class="iconbtn iconbtn--menu" aria-label="Open menu"
+              aria-controls="topNav" aria-expanded="false">
+        <span class="hamburger" aria-hidden="true"><span></span><span></span><span></span></span>
+      </button>
       <button id="themeToggle" class="iconbtn" aria-label="Toggle theme">◐</button>
     </div>
+    <div class="nav-backdrop" id="navBackdrop" hidden></div>
   </header>
 
   <aside class="live-ticker" id="liveTicker" hidden>
