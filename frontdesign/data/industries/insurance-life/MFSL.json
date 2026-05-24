@@ -8,17 +8,9 @@
   "price": 1695.5,
   "market_cap_cr": 58514.21,
   "industry_source": "yfinance",
-  "as_of": "2026-05-21",
+  "as_of": "2026-05-23",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-20",
-      "close": 1849.3,
-      "prev_close": 1832.0,
-      "volume": 1289579,
-      "deliverable_qty": 914716,
-      "delivery_pct": 70.93
-    },
     {
       "date": "2026-02-23",
       "close": 1870.0,
@@ -454,6 +446,13 @@
   ],
   "news": [
     {
+      "sort_date": "2026-05-22 18:02:28",
+      "an_dt": "22-May-2026 18:02:28",
+      "desc": "Clarification - Financial Results",
+      "sm_name": "Max Financial Services Limited",
+      "attchmntFile": "-"
+    },
+    {
       "sort_date": "2026-05-21 10:58:36",
       "an_dt": "21-May-2026 10:58:36",
       "desc": "Updates",
@@ -732,13 +731,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Max Financial Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Max_25022026144712_SEDMFSL25022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-20 12:23:33",
-      "an_dt": "20-Feb-2026 12:23:33",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Max Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Max_20022026122252_SEDADVERTISEMENT.pdf"
     }
   ]
 }

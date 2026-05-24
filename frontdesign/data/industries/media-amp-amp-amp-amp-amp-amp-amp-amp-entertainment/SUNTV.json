@@ -8,17 +8,9 @@
   "price": 567.75,
   "market_cap_cr": 22374.15,
   "industry_source": "webarchive",
-  "as_of": "2026-05-21",
+  "as_of": "2026-05-23",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-20",
-      "close": 584.65,
-      "prev_close": 578.6,
-      "volume": 178811,
-      "deliverable_qty": 119206,
-      "delivery_pct": 66.67
-    },
     {
       "date": "2026-02-23",
       "close": 586.6,
@@ -454,6 +446,13 @@
   ],
   "news": [
     {
+      "sort_date": "2026-05-22 14:45:59",
+      "an_dt": "22-May-2026 14:45:59",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Sun TV Network Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNTV1_22052026144547_NewspaperSunTV31032026.pdf"
+    },
+    {
       "sort_date": "2026-05-21 17:01:03",
       "an_dt": "21-May-2026 17:01:03",
       "desc": "Outcome of Board Meeting",
@@ -508,13 +507,6 @@
       "desc": "Trading Window",
       "sm_name": "Sun TV Network Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNTV1_26022026170604_BMIntimation06032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-20 17:11:44",
-      "an_dt": "20-Feb-2026 17:11:44",
-      "desc": "General Updates",
-      "sm_name": "Sun TV Network Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNTV1_20022026171127_SunTVESGRating20022026.pdf"
     }
   ]
 }

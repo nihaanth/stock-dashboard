@@ -8,17 +8,9 @@
   "price": 6520.0,
   "market_cap_cr": 20055.25,
   "industry_source": "yfinance",
-  "as_of": "2026-05-21",
+  "as_of": "2026-05-23",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-20",
-      "close": 3657.6,
-      "prev_close": 3647.9,
-      "volume": 417382,
-      "deliverable_qty": 125987,
-      "delivery_pct": 30.19
-    },
     {
       "date": "2026-02-23",
       "close": 3725.8,
@@ -454,6 +446,13 @@
   ],
   "news": [
     {
+      "sort_date": "2026-05-22 09:54:00",
+      "an_dt": "22-May-2026 09:54:00",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "Mtar Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MTARTECH_22052026095348_Order.pdf"
+    },
+    {
       "sort_date": "2026-05-20 20:12:14",
       "an_dt": "20-May-2026 20:12:14",
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -564,13 +563,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Mtar Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MTARTECH_02032026145240_Plantvisit.pdf"
-    },
-    {
-      "sort_date": "2026-02-20 15:32:16",
-      "an_dt": "20-Feb-2026 15:32:16",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Mtar Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MTARTECH_20022026153205_paper_ad_F.pdf"
     }
   ]
 }

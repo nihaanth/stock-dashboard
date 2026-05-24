@@ -8,17 +8,9 @@
   "price": 349.55,
   "market_cap_cr": 7562.13,
   "industry_source": "yfinance",
-  "as_of": "2026-05-21",
+  "as_of": "2026-05-23",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-20",
-      "close": 410.75,
-      "prev_close": 408.2,
-      "volume": 528293,
-      "deliverable_qty": 197269,
-      "delivery_pct": 37.34
-    },
     {
       "date": "2026-02-23",
       "close": 400.7,
@@ -454,6 +446,13 @@
   ],
   "news": [
     {
+      "sort_date": "2026-05-22 16:27:33",
+      "an_dt": "22-May-2026 16:27:33",
+      "desc": "Updates",
+      "sm_name": "Amagi Media Labs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMAGI_22052026162721_AnnualSecretarialComplianceReport.pdf"
+    },
+    {
       "sort_date": "2026-05-21 16:02:07",
       "an_dt": "21-May-2026 16:02:07",
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -676,13 +675,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Amagi Media Labs Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMAGI_04032026164342_PostalBallotNotice.pdf"
-    },
-    {
-      "sort_date": "2026-02-20 11:54:45",
-      "an_dt": "20-Feb-2026 11:54:45",
-      "desc": "General Updates",
-      "sm_name": "Amagi Media Labs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMAGI_20022026115427_ChangeofCIN.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 380.95,
   "market_cap_cr": 26224.22,
   "industry_source": "yfinance",
-  "as_of": "2026-05-21",
+  "as_of": "2026-05-23",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-20",
-      "close": 405.15,
-      "prev_close": 407.95,
-      "volume": 296815,
-      "deliverable_qty": 194565,
-      "delivery_pct": 65.55
-    },
     {
       "date": "2026-02-23",
       "close": 408.9,
@@ -454,6 +446,13 @@
   ],
   "news": [
     {
+      "sort_date": "2026-05-22 19:34:11",
+      "an_dt": "22-May-2026 19:34:11",
+      "desc": "Trading Window",
+      "sm_name": "Gujarat Gas Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GUJGASLTD_22052026193359_1570SECRescheduleofBM29052026.pdf"
+    },
+    {
       "sort_date": "2026-05-20 10:50:48",
       "an_dt": "20-May-2026 10:50:48",
       "desc": "Disclosure under SEBI Takeover Regulations",
@@ -599,13 +598,6 @@
       "desc": "General Updates",
       "sm_name": "Gujarat Gas Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GUJGASLTD_24022026173531_1543SECESGRatingCFC24022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-20 17:55:04",
-      "an_dt": "20-Feb-2026 17:55:04",
-      "desc": "Credit Rating",
-      "sm_name": "Gujarat Gas Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GUJGASLTD_20022026175443_1542SECESGRatingintim20022026.pdf"
     }
   ]
 }
