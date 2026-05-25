@@ -8,17 +8,9 @@
   "price": 494.5,
   "market_cap_cr": 1545.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-23",
+  "as_of": "2026-05-25",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-23",
-      "close": 443.1,
-      "prev_close": 437.55,
-      "volume": 2690852,
-      "deliverable_qty": 229546,
-      "delivery_pct": 8.53
-    },
     {
       "date": "2026-02-24",
       "close": 431.8,
@@ -444,13 +436,5 @@
       "delivery_pct": 26.14
     }
   ],
-  "news": [
-    {
-      "sort_date": "2026-02-23 17:21:18",
-      "an_dt": "23-Feb-2026 17:21:18",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Apex Frozen Foods Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APEX_23022026172044_Apex_Q3__9MFY26Transcriptt.pdf"
-    }
-  ]
+  "news": []
 }
