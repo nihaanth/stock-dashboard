@@ -8,17 +8,9 @@
   "price": 420.7,
   "market_cap_cr": 12424.52,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 426.15,
-      "prev_close": 435.35,
-      "volume": 1184506,
-      "deliverable_qty": 772861,
-      "delivery_pct": 65.25
-    },
     {
       "date": "2026-02-25",
       "close": 426.35,
@@ -442,9 +434,24 @@
       "volume": 428491,
       "deliverable_qty": 208872,
       "delivery_pct": 48.75
+    },
+    {
+      "date": "2026-05-26",
+      "close": 455.15,
+      "prev_close": 456.1,
+      "volume": 477183,
+      "deliverable_qty": 224962,
+      "delivery_pct": 47.14
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 14:49:57",
+      "an_dt": "26-May-2026 14:49:57",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Five-Star Business Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_05052026163109_FIVESTAR.pdf"
+    },
     {
       "sort_date": "2026-05-25 19:00:32",
       "an_dt": "25-May-2026 19:00:32",

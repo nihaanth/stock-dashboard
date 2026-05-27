@@ -8,17 +8,9 @@
   "price": 1566.6,
   "market_cap_cr": 896.88,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 1367.8,
-      "prev_close": 1402.0,
-      "volume": 5699,
-      "deliverable_qty": 3707,
-      "delivery_pct": 65.05
-    },
     {
       "date": "2026-02-25",
       "close": 1373.3,
@@ -442,9 +434,31 @@
       "volume": 7956,
       "deliverable_qty": 4513,
       "delivery_pct": 56.72
+    },
+    {
+      "date": "2026-05-26",
+      "close": 1666.7,
+      "prev_close": 1605.1,
+      "volume": 108473,
+      "deliverable_qty": 29864,
+      "delivery_pct": 27.53
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 13:15:27",
+      "an_dt": "26-May-2026 13:15:27",
+      "desc": "Dividend",
+      "sm_name": "Ambika Cotton Mills Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMBIKCO_26052026131518_OCRQ426dividend.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 13:12:32",
+      "an_dt": "26-May-2026 13:12:32",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Ambika Cotton Mills Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMBIKCO_26052026130100_OCRQ426Result.pdf"
+    },
     {
       "sort_date": "2026-05-14 12:21:12",
       "an_dt": "14-May-2026 12:21:12",
@@ -493,13 +507,6 @@
       "desc": "Action(s) initiated or orders passed",
       "sm_name": "Ambika Cotton Mills Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMBIKCO_06032026144553_OCRsdintimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 12:54:00",
-      "an_dt": "24-Feb-2026 12:54:00",
-      "desc": "Updates",
-      "sm_name": "Ambika Cotton Mills Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMBIKCO_24022026125311_SDOCRSPECIALWINDOW.pdf"
     }
   ]
 }

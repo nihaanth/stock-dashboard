@@ -8,17 +8,9 @@
   "price": 875.75,
   "market_cap_cr": 10509.3,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 835.05,
-      "prev_close": 835.2,
-      "volume": 147503,
-      "deliverable_qty": 103804,
-      "delivery_pct": 70.37
-    },
     {
       "date": "2026-02-25",
       "close": 854.8,
@@ -442,9 +434,24 @@
       "volume": 251984,
       "deliverable_qty": 136895,
       "delivery_pct": 54.33
+    },
+    {
+      "date": "2026-05-26",
+      "close": 882.45,
+      "prev_close": 896.95,
+      "volume": 279169,
+      "deliverable_qty": 179493,
+      "delivery_pct": 64.3
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 17:27:56",
+      "an_dt": "26-May-2026 17:27:56",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Medplus Health Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDPLUS_26052026172745_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-25 16:16:21",
       "an_dt": "25-May-2026 16:16:21",
@@ -801,13 +808,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Medplus Health Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDPLUS_25022026162544_NPPostalballot.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 21:39:16",
-      "an_dt": "24-Feb-2026 21:39:16",
-      "desc": "Shareholders meeting",
-      "sm_name": "Medplus Health Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEDPLUS_24022026213728_IntimationNoticedispatchPostalBallot.pdf"
     }
   ]
 }

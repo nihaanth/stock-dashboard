@@ -8,17 +8,9 @@
   "price": 340.65,
   "market_cap_cr": 15867.44,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 259.9,
-      "prev_close": 259.27,
-      "volume": 2397825,
-      "deliverable_qty": 564214,
-      "delivery_pct": 23.53
-    },
     {
       "date": "2026-02-25",
       "close": 265.32,
@@ -442,6 +434,14 @@
       "volume": 10236255,
       "deliverable_qty": 4275396,
       "delivery_pct": 41.77
+    },
+    {
+      "date": "2026-05-26",
+      "close": 308.05,
+      "prev_close": 302.75,
+      "volume": 6299358,
+      "deliverable_qty": 1741828,
+      "delivery_pct": 27.65
     }
   ],
   "news": [
@@ -598,13 +598,6 @@
       "desc": "General Updates",
       "sm_name": "Shipping Corporation Of India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SCI_28022026102050_Q3SEintimationfine_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 15:48:24",
-      "an_dt": "24-Feb-2026 15:48:24",
-      "desc": "Appointment",
-      "sm_name": "Shipping Corporation Of India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SCI_24022026154748_draftSEIntimationsd.pdf"
     }
   ]
 }

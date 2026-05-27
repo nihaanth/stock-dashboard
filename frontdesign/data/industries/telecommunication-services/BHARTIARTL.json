@@ -8,17 +8,9 @@
   "price": 1759.8,
   "market_cap_cr": 1071977.28,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 1941.0,
-      "prev_close": 1997.3,
-      "volume": 10006761,
-      "deliverable_qty": 5670983,
-      "delivery_pct": 56.67
-    },
     {
       "date": "2026-02-25",
       "close": 1913.4,
@@ -442,9 +434,24 @@
       "volume": 5903841,
       "deliverable_qty": 4479053,
       "delivery_pct": 75.87
+    },
+    {
+      "date": "2026-05-26",
+      "close": 1846.9,
+      "prev_close": 1874.8,
+      "volume": 5803034,
+      "deliverable_qty": 3713781,
+      "delivery_pct": 64.0
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 21:25:49",
+      "an_dt": "26-May-2026 21:25:49",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Bharti Airtel Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARTIARTL_26052026212537_Bharti_Airtel_-_Investor_Meet_STX_Intimation_sgd_.pdf"
+    },
     {
       "sort_date": "2026-05-22 15:45:41",
       "an_dt": "22-May-2026 15:45:41",
@@ -878,13 +885,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Bharti Airtel Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARTIARTL_26022026232244_STXintimationmeet.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 21:15:18",
-      "an_dt": "24-Feb-2026 21:15:18",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Bharti Airtel Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARTIARTL_24022026210725_Bharti_Airtel_-_STX_intimation__Group_Investor_Call_.pdf"
     }
   ]
 }

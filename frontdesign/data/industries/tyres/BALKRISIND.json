@@ -8,17 +8,9 @@
   "price": 2234.3,
   "market_cap_cr": 43192.86,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 2518.5,
-      "prev_close": 2509.0,
-      "volume": 544353,
-      "deliverable_qty": 483080,
-      "delivery_pct": 88.74
-    },
     {
       "date": "2026-02-25",
       "close": 2517.0,
@@ -442,6 +434,14 @@
       "volume": 94164,
       "deliverable_qty": 66265,
       "delivery_pct": 70.37
+    },
+    {
+      "date": "2026-05-26",
+      "close": 2202.7,
+      "prev_close": 2219.1,
+      "volume": 97457,
+      "deliverable_qty": 72662,
+      "delivery_pct": 74.56
     }
   ],
   "news": [
@@ -619,20 +619,6 @@
       "desc": "Credit Rating",
       "sm_name": "Balkrishna Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BALKRISIND_28022026121150_CreditRating28022026_L1_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 19:13:39",
-      "an_dt": "24-Feb-2026 19:13:39",
-      "desc": "Product launch",
-      "sm_name": "Balkrishna Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BALKRISIND_24022026191124_Regulation30ProductLaunchFinalSigned240226.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 12:55:01",
-      "an_dt": "24-Feb-2026 12:55:01",
-      "desc": "Capacity addition",
-      "sm_name": "Balkrishna Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BALKRISIND_24022026125202_Regulation30Finalsigned240226.pdf"
     }
   ]
 }

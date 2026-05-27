@@ -8,17 +8,9 @@
   "price": 225.23,
   "market_cap_cr": 9830.46,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 219.42,
-      "prev_close": 219.16,
-      "volume": 660124,
-      "deliverable_qty": 288144,
-      "delivery_pct": 43.65
-    },
     {
       "date": "2026-02-25",
       "close": 219.27,
@@ -442,9 +434,24 @@
       "volume": 2405194,
       "deliverable_qty": 1059144,
       "delivery_pct": 44.04
+    },
+    {
+      "date": "2026-05-26",
+      "close": 257.36,
+      "prev_close": 260.96,
+      "volume": 1282031,
+      "deliverable_qty": 651124,
+      "delivery_pct": 50.79
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 18:33:44",
+      "an_dt": "26-May-2026 18:33:44",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Viyash Scientific Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SEQUENT1_26052026183333_SE_Covering_newspaper_Publication_IEPF.pdf"
+    },
     {
       "sort_date": "2026-05-22 18:22:23",
       "an_dt": "22-May-2026 18:22:23",

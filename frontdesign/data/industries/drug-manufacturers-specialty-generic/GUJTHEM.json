@@ -8,17 +8,9 @@
   "price": 385.5,
   "market_cap_cr": 4208.22,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 319.3,
-      "prev_close": 333.95,
-      "volume": 45188,
-      "deliverable_qty": 23214,
-      "delivery_pct": 51.37
-    },
     {
       "date": "2026-02-25",
       "close": 316.3,
@@ -442,9 +434,24 @@
       "volume": 679627,
       "deliverable_qty": 188810,
       "delivery_pct": 27.78
+    },
+    {
+      "date": "2026-05-26",
+      "close": 367.7,
+      "prev_close": 389.35,
+      "volume": 272665,
+      "deliverable_qty": 111864,
+      "delivery_pct": 41.03
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 18:44:42",
+      "an_dt": "26-May-2026 18:44:42",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Gujarat Themis Biosyn Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GUJARATTHEMIS_26052026184426_NewspaperResultsGTBL31032026.pdf"
+    },
     {
       "sort_date": "2026-05-25 15:45:44",
       "an_dt": "25-May-2026 15:45:44",

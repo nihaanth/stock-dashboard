@@ -8,17 +8,9 @@
   "price": 581.7,
   "market_cap_cr": 6323.71,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 555.85,
-      "prev_close": 568.85,
-      "volume": 47570,
-      "deliverable_qty": 21913,
-      "delivery_pct": 46.06
-    },
     {
       "date": "2026-02-25",
       "close": 552.95,
@@ -442,9 +434,24 @@
       "volume": 382350,
       "deliverable_qty": 154074,
       "delivery_pct": 40.3
+    },
+    {
+      "date": "2026-05-26",
+      "close": 626.7,
+      "prev_close": 635.05,
+      "volume": 193036,
+      "deliverable_qty": 84745,
+      "delivery_pct": 43.9
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 10:11:21",
+      "an_dt": "26-May-2026 10:11:21",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Sheela Foam Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SFL_26052026101111_Investor_Meet_on_01062026.pdf"
+    },
     {
       "sort_date": "2026-05-21 17:01:29",
       "an_dt": "21-May-2026 17:01:29",
@@ -605,13 +612,6 @@
       "desc": "Dividend",
       "sm_name": "Sheela Foam Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SFL_02032026193836_Updated_Dividend_Outcome_-_Unapproved.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 17:47:28",
-      "an_dt": "24-Feb-2026 17:47:28",
-      "desc": "Trading Window",
-      "sm_name": "Sheela Foam Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SFL_24022026174720_Trading_Window.pdf"
     }
   ]
 }

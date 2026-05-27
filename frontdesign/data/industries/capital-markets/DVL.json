@@ -8,17 +8,9 @@
   "price": 255.16,
   "market_cap_cr": 893.69,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 254.5,
-      "prev_close": 252.9,
-      "volume": 18359,
-      "deliverable_qty": 12903,
-      "delivery_pct": 70.28
-    },
     {
       "date": "2026-02-25",
       "close": 253.2,
@@ -442,9 +434,38 @@
       "volume": 11236,
       "deliverable_qty": 8006,
       "delivery_pct": 71.25
+    },
+    {
+      "date": "2026-05-26",
+      "close": 248.09,
+      "prev_close": 249.19,
+      "volume": 43110,
+      "deliverable_qty": 12952,
+      "delivery_pct": 30.04
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 15:17:04",
+      "an_dt": "26-May-2026 15:17:04",
+      "desc": "Record Date",
+      "sm_name": "Dhunseri Ventures Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DVL_26052026151633_Record_Date_260526.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 14:58:36",
+      "an_dt": "26-May-2026 14:58:36",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Dhunseri Ventures Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DVL_26052026145707_Outcome_260526.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 14:58:36",
+      "an_dt": "26-May-2026 14:58:36",
+      "desc": "Dividend",
+      "sm_name": "Dhunseri Ventures Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DVL_26052026145557_Outcome_260526.pdf"
+    },
     {
       "sort_date": "2026-05-21 16:52:11",
       "an_dt": "21-May-2026 16:52:11",
@@ -458,13 +479,6 @@
       "desc": "Trading Window",
       "sm_name": "Dhunseri Ventures Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DVL_26032026160045_Trading_Window_Closure_26032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 17:12:07",
-      "an_dt": "24-Feb-2026 17:12:07",
-      "desc": "General Updates",
-      "sm_name": "Dhunseri Ventures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DVL_24022026171119_StockExchangeInterimDIv.pdf"
     }
   ]
 }

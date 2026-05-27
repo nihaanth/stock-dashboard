@@ -8,17 +8,9 @@
   "price": 2011.7,
   "market_cap_cr": 6436.79,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 1846.0,
-      "prev_close": 1827.0,
-      "volume": 61840,
-      "deliverable_qty": 26811,
-      "delivery_pct": 43.36
-    },
     {
       "date": "2026-02-25",
       "close": 1845.6,
@@ -442,6 +434,14 @@
       "volume": 67341,
       "deliverable_qty": 39023,
       "delivery_pct": 57.95
+    },
+    {
+      "date": "2026-05-26",
+      "close": 2038.4,
+      "prev_close": 2015.0,
+      "volume": 87164,
+      "deliverable_qty": 38671,
+      "delivery_pct": 44.37
     }
   ],
   "news": [
@@ -626,13 +626,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "S.J.S. Enterprises Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SJS_25022026150507_IIFLInvestorMeeting25022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 13:16:57",
-      "an_dt": "24-Feb-2026 13:16:57",
-      "desc": "Credit Rating- Revision",
-      "sm_name": "S.J.S. Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SJS_24022026131646_LetterCreditRatingIntimation.pdf"
     }
   ]
 }

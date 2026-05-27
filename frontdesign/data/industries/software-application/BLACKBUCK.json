@@ -8,17 +8,9 @@
   "price": 562.15,
   "market_cap_cr": 10225.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 603.2,
-      "prev_close": 612.3,
-      "volume": 421264,
-      "deliverable_qty": 273336,
-      "delivery_pct": 64.88
-    },
     {
       "date": "2026-02-25",
       "close": 599.9,
@@ -442,6 +434,14 @@
       "volume": 1166467,
       "deliverable_qty": 578212,
       "delivery_pct": 49.57
+    },
+    {
+      "date": "2026-05-26",
+      "close": 533.6,
+      "prev_close": 515.0,
+      "volume": 858358,
+      "deliverable_qty": 467102,
+      "delivery_pct": 54.42
     }
   ],
   "news": [
@@ -570,13 +570,6 @@
       "desc": "Cessation",
       "sm_name": "BLACKBUCK LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZINKA2015_23032026174031_Change_in_Management_23_03_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 19:20:15",
-      "an_dt": "24-Feb-2026 19:20:15",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "BLACKBUCK LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZINKA2015_24022026192003_Intimation_ESOP_Allotment.pdf"
     }
   ]
 }

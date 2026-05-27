@@ -8,17 +8,9 @@
   "price": 264.06,
   "market_cap_cr": 1495.92,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 225.79,
-      "prev_close": 226.63,
-      "volume": 37391,
-      "deliverable_qty": 25359,
-      "delivery_pct": 67.82
-    },
     {
       "date": "2026-02-25",
       "close": 223.04,
@@ -442,9 +434,24 @@
       "volume": 69786,
       "deliverable_qty": 32266,
       "delivery_pct": 46.24
+    },
+    {
+      "date": "2026-05-26",
+      "close": 225.43,
+      "prev_close": 227.59,
+      "volume": 123304,
+      "deliverable_qty": 66597,
+      "delivery_pct": 54.01
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 13:11:50",
+      "an_dt": "26-May-2026 13:11:50",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Platinum Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_14052026113017_Reg1.pdf"
+    },
     {
       "sort_date": "2026-05-21 15:35:57",
       "an_dt": "21-May-2026 15:35:57",

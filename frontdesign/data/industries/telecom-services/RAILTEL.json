@@ -8,17 +8,9 @@
   "price": 284.38,
   "market_cap_cr": 9126.85,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 323.45,
-      "prev_close": 330.6,
-      "volume": 1003914,
-      "deliverable_qty": 394547,
-      "delivery_pct": 39.3
-    },
     {
       "date": "2026-02-25",
       "close": 317.55,
@@ -442,6 +434,14 @@
       "volume": 1486613,
       "deliverable_qty": 449187,
       "delivery_pct": 30.22
+    },
+    {
+      "date": "2026-05-26",
+      "close": 324.05,
+      "prev_close": 328.55,
+      "volume": 716104,
+      "deliverable_qty": 252782,
+      "delivery_pct": 35.3
     }
   ],
   "news": [
@@ -836,13 +836,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "Railtel Corporation Of India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAILTEL_26022026165026_Order_Book_Company_Report_22718.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 18:50:47",
-      "an_dt": "24-Feb-2026 18:50:47",
-      "desc": "Updates",
-      "sm_name": "Railtel Corporation Of India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAILTEL_24022026185037_Board_comments.pdf"
     }
   ]
 }

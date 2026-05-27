@@ -8,17 +8,9 @@
   "price": 720.05,
   "market_cap_cr": 3652.03,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 647.9,
-      "prev_close": 665.3,
-      "volume": 51609,
-      "deliverable_qty": 33608,
-      "delivery_pct": 65.12
-    },
     {
       "date": "2026-02-25",
       "close": 630.6,
@@ -442,9 +434,31 @@
       "volume": 81450,
       "deliverable_qty": 42165,
       "delivery_pct": 51.77
+    },
+    {
+      "date": "2026-05-26",
+      "close": 724.35,
+      "prev_close": 715.35,
+      "volume": 119274,
+      "deliverable_qty": 35587,
+      "delivery_pct": 29.84
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 19:43:03",
+      "an_dt": "26-May-2026 19:43:03",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Orchid Pharma Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORCHPHARMA_26052026193413_Stx_ltr.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 14:14:01",
+      "an_dt": "26-May-2026 14:14:01",
+      "desc": "Investor Presentation",
+      "sm_name": "Orchid Pharma Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORCHPHARMA_26052026141342_Stx_Ltr_presentation_new.pdf"
+    },
     {
       "sort_date": "2026-05-25 21:14:57",
       "an_dt": "25-May-2026 21:14:57",

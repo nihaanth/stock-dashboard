@@ -8,17 +8,9 @@
   "price": 1177.0,
   "market_cap_cr": 476332.79,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 1275.5,
-      "prev_close": 1327.5,
-      "volume": 27839061,
-      "deliverable_qty": 15953772,
-      "delivery_pct": 57.31
-    },
     {
       "date": "2026-02-25",
       "close": 1290.1,
@@ -442,9 +434,24 @@
       "volume": 5856136,
       "deliverable_qty": 3285372,
       "delivery_pct": 56.1
+    },
+    {
+      "date": "2026-05-26",
+      "close": 1167.7,
+      "prev_close": 1168.5,
+      "volume": 8005767,
+      "deliverable_qty": 4323399,
+      "delivery_pct": 54.0
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 19:47:44",
+      "an_dt": "26-May-2026 19:47:44",
+      "desc": "Shareholders meeting",
+      "sm_name": "Infosys Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Infosys_26052026194705_SE_Voting_Results_26052026_signed.pdf"
+    },
     {
       "sort_date": "2026-05-25 22:08:56",
       "an_dt": "25-May-2026 22:08:56",
@@ -934,20 +941,6 @@
       "desc": "Updates",
       "sm_name": "Infosys Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Infosys_26022026191317_SEfiling_Investorconference_26022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 18:40:29",
-      "an_dt": "24-Feb-2026 18:40:29",
-      "desc": "Updates",
-      "sm_name": "Infosys Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Infosys_24022026183902_AIDayTranscript17022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 18:37:04",
-      "an_dt": "24-Feb-2026 18:37:04",
-      "desc": "Updates",
-      "sm_name": "Infosys Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Infosys_24022026183647_PR_Feb242026.pdf"
     }
   ]
 }

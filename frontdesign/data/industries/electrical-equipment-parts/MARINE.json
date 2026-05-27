@@ -8,17 +8,9 @@
   "price": 192.01,
   "market_cap_cr": 2547.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 189.2,
-      "prev_close": 190.81,
-      "volume": 253213,
-      "deliverable_qty": 99306,
-      "delivery_pct": 39.22
-    },
     {
       "date": "2026-02-25",
       "close": 185.83,
@@ -442,9 +434,24 @@
       "volume": 598944,
       "deliverable_qty": 279170,
       "delivery_pct": 46.61
+    },
+    {
+      "date": "2026-05-26",
+      "close": 245.27,
+      "prev_close": 238.02,
+      "volume": 1302861,
+      "deliverable_qty": 457206,
+      "delivery_pct": 35.09
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 13:37:28",
+      "an_dt": "26-May-2026 13:37:28",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "Marine Electricals (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARINE_26052026133616_Signed_Princeton_Digital_Group_final.pdf"
+    },
     {
       "sort_date": "2026-05-23 18:54:08",
       "an_dt": "23-May-2026 18:54:08",

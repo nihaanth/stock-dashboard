@@ -8,17 +8,9 @@
   "price": 424.35,
   "market_cap_cr": 2681.63,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 394.65,
-      "prev_close": 397.1,
-      "volume": 81547,
-      "deliverable_qty": 48511,
-      "delivery_pct": 59.49
-    },
     {
       "date": "2026-02-25",
       "close": 387.2,
@@ -442,9 +434,24 @@
       "volume": 52382,
       "deliverable_qty": 27289,
       "delivery_pct": 52.1
+    },
+    {
+      "date": "2026-05-26",
+      "close": 397.2,
+      "prev_close": 401.15,
+      "volume": 199053,
+      "deliverable_qty": 91957,
+      "delivery_pct": 46.2
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 19:37:34",
+      "an_dt": "26-May-2026 19:37:34",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Jash Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JASH_26052026191836_OUTCOMEJASH26052026.pdf"
+    },
     {
       "sort_date": "2026-05-25 18:01:26",
       "an_dt": "25-May-2026 18:01:26",

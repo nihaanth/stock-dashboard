@@ -8,17 +8,9 @@
   "price": 825.3,
   "market_cap_cr": 1257.62,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 825.8,
-      "prev_close": 825.45,
-      "volume": 2370,
-      "deliverable_qty": 1445,
-      "delivery_pct": 60.97
-    },
     {
       "date": "2026-02-25",
       "close": 819.95,
@@ -442,9 +434,45 @@
       "volume": 3855,
       "deliverable_qty": 2688,
       "delivery_pct": 69.73
+    },
+    {
+      "date": "2026-05-26",
+      "close": 829.55,
+      "prev_close": 828.05,
+      "volume": 9033,
+      "deliverable_qty": 6312,
+      "delivery_pct": 69.88
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 18:18:08",
+      "an_dt": "26-May-2026 18:18:08",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Alldigi Tech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALLDIGI_ROID_88538_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-05-26 18:14:13",
+      "an_dt": "26-May-2026 18:14:13",
+      "desc": "Updates",
+      "sm_name": "Alldigi Tech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALLSEC_26052026181355_Alldigi_30_5_.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 18:07:46",
+      "an_dt": "26-May-2026 18:07:46",
+      "desc": "Appointment",
+      "sm_name": "Alldigi Tech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALLSEC_26052026180715_Alldigi_SEIntimationforappointmentCFO.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 18:05:00",
+      "an_dt": "26-May-2026 18:05:00",
+      "desc": "Resignation",
+      "sm_name": "Alldigi Tech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALLSEC_26052026180420_Alldigi_SEIntimationforappointmentCFO.pdf"
+    },
     {
       "sort_date": "2026-05-21 17:05:09",
       "an_dt": "21-May-2026 17:05:09",

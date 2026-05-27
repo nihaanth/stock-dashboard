@@ -8,7 +8,7 @@
   "price": 473.2,
   "market_cap_cr": 3182.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
     {
@@ -34,6 +34,14 @@
       "volume": 372302,
       "deliverable_qty": 186796,
       "delivery_pct": 50.17
+    },
+    {
+      "date": "2026-05-26",
+      "close": 797.6,
+      "prev_close": 768.4,
+      "volume": 973140,
+      "deliverable_qty": 433645,
+      "delivery_pct": 44.56
     }
   ],
   "news": [
@@ -211,13 +219,6 @@
       "desc": "Credit Rating- Revision",
       "sm_name": "GE Power India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GEPILDEEP_03032026171017_CreditRatingIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 16:21:02",
-      "an_dt": "24-Feb-2026 16:21:02",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "GE Power India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GEPILDEE_24022026162039_Coverinvestormeettranscript.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 1335.3,
   "market_cap_cr": 19063.7,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 1323.2,
-      "prev_close": 1299.2,
-      "volume": 542567,
-      "deliverable_qty": 273319,
-      "delivery_pct": 50.38
-    },
     {
       "date": "2026-02-25",
       "close": 1346.8,
@@ -442,6 +434,14 @@
       "volume": 953112,
       "deliverable_qty": 365684,
       "delivery_pct": 38.37
+    },
+    {
+      "date": "2026-05-26",
+      "close": 1650.7,
+      "prev_close": 1648.6,
+      "volume": 640280,
+      "deliverable_qty": 257810,
+      "delivery_pct": 40.27
     }
   ],
   "news": [
@@ -689,13 +689,6 @@
       "desc": "Press Release",
       "sm_name": "The Great Eastern Shipping Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GESHIP_04032026155714_prtobefiled.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 15:45:16",
-      "an_dt": "24-Feb-2026 15:45:16",
-      "desc": "Press Release",
-      "sm_name": "The Great Eastern Shipping Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GESHIP_24022026154502_prtobefiled.pdf"
     }
   ]
 }

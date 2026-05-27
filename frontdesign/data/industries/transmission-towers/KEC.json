@@ -8,17 +8,9 @@
   "price": 582.0,
   "market_cap_cr": 15492.84,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 590.7,
-      "prev_close": 582.65,
-      "volume": 699611,
-      "deliverable_qty": 258235,
-      "delivery_pct": 36.91
-    },
     {
       "date": "2026-02-25",
       "close": 591.5,
@@ -442,9 +434,24 @@
       "volume": 2242729,
       "deliverable_qty": 966909,
       "delivery_pct": 43.11
+    },
+    {
+      "date": "2026-05-26",
+      "close": 499.1,
+      "prev_close": 507.55,
+      "volume": 872376,
+      "deliverable_qty": 412501,
+      "delivery_pct": 47.28
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 21:53:15",
+      "an_dt": "26-May-2026 21:53:15",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "KEC International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KEC_26052026215245_PressRelease.pdf"
+    },
     {
       "sort_date": "2026-05-25 21:49:59",
       "an_dt": "25-May-2026 21:49:59",
@@ -640,13 +647,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "KEC International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KEC_25022026145206_SEIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 13:26:26",
-      "an_dt": "24-Feb-2026 13:26:26",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "KEC International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KEC_24022026132603_PressRelease.pdf"
     }
   ]
 }

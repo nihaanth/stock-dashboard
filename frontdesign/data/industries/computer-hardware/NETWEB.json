@@ -8,17 +8,9 @@
   "price": 4295.2,
   "market_cap_cr": 24457.17,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 3563.2,
-      "prev_close": 3552.7,
-      "volume": 2102813,
-      "deliverable_qty": 245122,
-      "delivery_pct": 11.66
-    },
     {
       "date": "2026-02-25",
       "close": 3629.9,
@@ -442,9 +434,24 @@
       "volume": 770545,
       "deliverable_qty": 204390,
       "delivery_pct": 26.53
+    },
+    {
+      "date": "2026-05-26",
+      "close": 3851.7,
+      "prev_close": 3843.1,
+      "volume": 877405,
+      "deliverable_qty": 205182,
+      "delivery_pct": 23.39
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 13:24:37",
+      "an_dt": "26-May-2026 13:24:37",
+      "desc": "Credit Rating",
+      "sm_name": "Netweb Technologies India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NETWEB1234_26052026132424_Intimation_of_Credit_Rating_2026.pdf"
+    },
     {
       "sort_date": "2026-05-18 14:54:49",
       "an_dt": "18-May-2026 14:54:49",

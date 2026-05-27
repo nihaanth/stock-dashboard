@@ -8,17 +8,9 @@
   "price": 490.25,
   "market_cap_cr": 6920.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 513.95,
-      "prev_close": 536.65,
-      "volume": 5164871,
-      "deliverable_qty": 516602,
-      "delivery_pct": 10.0
-    },
     {
       "date": "2026-02-25",
       "close": 499.9,
@@ -442,9 +434,24 @@
       "volume": 622148,
       "deliverable_qty": 291537,
       "delivery_pct": 46.86
+    },
+    {
+      "date": "2026-05-26",
+      "close": 435.95,
+      "prev_close": 435.9,
+      "volume": 429538,
+      "deliverable_qty": 170296,
+      "delivery_pct": 39.65
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 13:04:43",
+      "an_dt": "26-May-2026 13:04:43",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Newgen Software Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEWGEN2_26052026130421_Newspaper_covering_IEPF_sign.pdf"
+    },
     {
       "sort_date": "2026-05-06 22:36:17",
       "an_dt": "06-May-2026 22:36:17",

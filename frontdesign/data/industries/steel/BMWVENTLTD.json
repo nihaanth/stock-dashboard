@@ -8,17 +8,9 @@
   "price": 64.8,
   "market_cap_cr": 561.91,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 60.39,
-      "prev_close": 60.0,
-      "volume": 508870,
-      "deliverable_qty": 377982,
-      "delivery_pct": 74.28
-    },
     {
       "date": "2026-02-25",
       "close": 60.37,
@@ -442,9 +434,31 @@
       "volume": 79521,
       "deliverable_qty": 47220,
       "delivery_pct": 59.38
+    },
+    {
+      "date": "2026-05-26",
+      "close": 61.67,
+      "prev_close": 62.33,
+      "volume": 36043,
+      "deliverable_qty": 23247,
+      "delivery_pct": 64.5
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 18:02:08",
+      "an_dt": "26-May-2026 18:02:08",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "BMW Ventures Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BMWVENTURES2024_26052026180126_covering_letter_of_concall_revised.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 16:37:54",
+      "an_dt": "26-May-2026 16:37:54",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "BMW Ventures Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BMWVENTURES2024_26052026163640_Covering_letter_of_conference_call.pdf"
+    },
     {
       "sort_date": "2026-05-23 13:30:29",
       "an_dt": "23-May-2026 13:30:29",

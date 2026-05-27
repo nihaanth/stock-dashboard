@@ -8,17 +8,9 @@
   "price": 433.4,
   "market_cap_cr": 5945.0,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 423.3,
-      "prev_close": 417.9,
-      "volume": 79738,
-      "deliverable_qty": 46461,
-      "delivery_pct": 58.27
-    },
     {
       "date": "2026-02-25",
       "close": 449.0,
@@ -442,9 +434,38 @@
       "volume": 168752,
       "deliverable_qty": 77481,
       "delivery_pct": 45.91
+    },
+    {
+      "date": "2026-05-26",
+      "close": 473.6,
+      "prev_close": 444.95,
+      "volume": 4603362,
+      "deliverable_qty": 489508,
+      "delivery_pct": 10.63
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 16:17:12",
+      "an_dt": "26-May-2026 16:17:12",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Suprajit Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUPRAJIT_26052026161647_NewspaperAd26May2026Intimation.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 16:12:17",
+      "an_dt": "26-May-2026 16:12:17",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Suprajit Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUPRAJIT_26052026161141_InvestorCallRecordingIntimation26May2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 12:37:50",
+      "an_dt": "26-May-2026 12:37:50",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Suprajit Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUPRAJIT_26052026123235_Intimationofconcall27May2026.pdf"
+    },
     {
       "sort_date": "2026-05-25 20:04:21",
       "an_dt": "25-May-2026 20:04:21",
@@ -528,20 +549,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Suprajit Engineering Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUPRAJIT_05032026110410_Intimationofconcall11Mar2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 12:56:05",
-      "an_dt": "24-Feb-2026 12:56:05",
-      "desc": "Updates",
-      "sm_name": "Suprajit Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUPRAJIT_24022026125547_AjithraiDisclosure24Feb2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 12:43:50",
-      "an_dt": "24-Feb-2026 12:43:50",
-      "desc": "Updates",
-      "sm_name": "Suprajit Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUPRAJIT_24022026124326_SFTdisclosure24Feb2026.pdf"
     }
   ]
 }

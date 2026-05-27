@@ -8,17 +8,9 @@
   "price": 227.74,
   "market_cap_cr": 827.71,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 228.15,
-      "prev_close": 229.7,
-      "volume": 30245,
-      "deliverable_qty": 13601,
-      "delivery_pct": 44.97
-    },
     {
       "date": "2026-02-25",
       "close": 225.55,
@@ -442,9 +434,24 @@
       "volume": 37091,
       "deliverable_qty": 15046,
       "delivery_pct": 40.57
+    },
+    {
+      "date": "2026-05-26",
+      "close": 235.72,
+      "prev_close": 234.56,
+      "volume": 25864,
+      "deliverable_qty": 13940,
+      "delivery_pct": 53.9
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 16:52:53",
+      "an_dt": "26-May-2026 16:52:53",
+      "desc": "Shareholders meeting",
+      "sm_name": "Sterling Tools Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STERTOOLS_26052026165231_PostalBallot1505.pdf"
+    },
     {
       "sort_date": "2026-05-22 14:24:34",
       "an_dt": "22-May-2026 14:24:34",
@@ -619,13 +626,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Sterling Tools Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/STERTOOLS_25022026142918_NEWSPAPERINTIMATIONSIGN.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 15:46:03",
-      "an_dt": "24-Feb-2026 15:46:03",
-      "desc": "Shareholders meeting",
-      "sm_name": "Sterling Tools Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STERTOOLS_24022026154555_PostalBallotIntimationsign.pdf"
     }
   ]
 }

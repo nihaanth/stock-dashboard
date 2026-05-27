@@ -8,17 +8,9 @@
   "price": 1335.2,
   "market_cap_cr": 4828.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 1308.4,
-      "prev_close": 1334.3,
-      "volume": 31612,
-      "deliverable_qty": 11787,
-      "delivery_pct": 37.29
-    },
     {
       "date": "2026-02-25",
       "close": 1298.1,
@@ -442,9 +434,31 @@
       "volume": 82224,
       "deliverable_qty": 52396,
       "delivery_pct": 63.72
+    },
+    {
+      "date": "2026-05-26",
+      "close": 1242.5,
+      "prev_close": 1256.8,
+      "volume": 39670,
+      "deliverable_qty": 23855,
+      "delivery_pct": 60.13
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 21:20:11",
+      "an_dt": "26-May-2026 21:20:11",
+      "desc": "Change in Company Secretary/Compliance Officer",
+      "sm_name": "Midwest Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MIDWEST_26052026211954_Change_in_the_Management.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 21:05:25",
+      "an_dt": "26-May-2026 21:05:25",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Midwest Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MIDWEST_26052026210333_Financial_Results_ML.pdf"
+    },
     {
       "sort_date": "2026-05-25 15:30:12",
       "an_dt": "25-May-2026 15:30:12",

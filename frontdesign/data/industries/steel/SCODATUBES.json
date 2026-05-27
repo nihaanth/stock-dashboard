@@ -8,17 +8,9 @@
   "price": 158.35,
   "market_cap_cr": 948.66,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 133.73,
-      "prev_close": 136.04,
-      "volume": 49048,
-      "deliverable_qty": 25515,
-      "delivery_pct": 52.02
-    },
     {
       "date": "2026-02-25",
       "close": 135.32,
@@ -442,9 +434,31 @@
       "volume": 240478,
       "deliverable_qty": 135724,
       "delivery_pct": 56.44
+    },
+    {
+      "date": "2026-05-26",
+      "close": 138.33,
+      "prev_close": 138.5,
+      "volume": 269943,
+      "deliverable_qty": 167781,
+      "delivery_pct": 62.15
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 18:10:59",
+      "an_dt": "26-May-2026 18:10:59",
+      "desc": "General Updates",
+      "sm_name": "Scoda Tubes Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SCODA_26052026181053_Outcome_-_26-05-2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 18:09:27",
+      "an_dt": "26-May-2026 18:09:27",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Scoda Tubes Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SCODA_26052026180803_Outcome_-_26-05-2026.pdf"
+    },
     {
       "sort_date": "2026-05-20 16:48:12",
       "an_dt": "20-May-2026 16:48:12",

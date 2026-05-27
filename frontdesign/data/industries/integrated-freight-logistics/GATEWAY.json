@@ -8,17 +8,9 @@
   "price": 58.19,
   "market_cap_cr": 2907.43,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 59.32,
-      "prev_close": 60.42,
-      "volume": 738256,
-      "deliverable_qty": 442965,
-      "delivery_pct": 60.0
-    },
     {
       "date": "2026-02-25",
       "close": 59.0,
@@ -442,9 +434,31 @@
       "volume": 353722,
       "deliverable_qty": 193972,
       "delivery_pct": 54.84
+    },
+    {
+      "date": "2026-05-26",
+      "close": 55.73,
+      "prev_close": 55.77,
+      "volume": 403496,
+      "deliverable_qty": 193835,
+      "delivery_pct": 48.04
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 14:53:26",
+      "an_dt": "26-May-2026 14:53:26",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Gateway Distriparks Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_05052026164538_GATEWAY.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 14:39:15",
+      "an_dt": "26-May-2026 14:39:15",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Gateway Distriparks Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_05052026154416_GATEWAY.pdf"
+    },
     {
       "sort_date": "2026-05-14 11:43:58",
       "an_dt": "14-May-2026 11:43:58",

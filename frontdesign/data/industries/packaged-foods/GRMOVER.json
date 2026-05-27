@@ -8,17 +8,9 @@
   "price": 167.33,
   "market_cap_cr": 3472.5,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 159.67,
-      "prev_close": 158.87,
-      "volume": 1741185,
-      "deliverable_qty": 501640,
-      "delivery_pct": 28.81
-    },
     {
       "date": "2026-02-25",
       "close": 164.38,
@@ -442,9 +434,24 @@
       "volume": 7410781,
       "deliverable_qty": 1516435,
       "delivery_pct": 20.46
+    },
+    {
+      "date": "2026-05-26",
+      "close": 163.84,
+      "prev_close": 157.32,
+      "volume": 5144801,
+      "deliverable_qty": 922476,
+      "delivery_pct": 17.93
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 21:53:36",
+      "an_dt": "26-May-2026 21:53:36",
+      "desc": "General Updates",
+      "sm_name": "GRM Overseas Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRMOVER_26052026215323_intimation_trading_signed.pdf"
+    },
     {
       "sort_date": "2026-05-13 18:38:19",
       "an_dt": "13-May-2026 18:38:19",

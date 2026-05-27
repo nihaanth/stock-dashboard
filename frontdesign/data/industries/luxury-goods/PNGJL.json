@@ -8,17 +8,9 @@
   "price": 662.35,
   "market_cap_cr": 8988.64,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 550.7,
-      "prev_close": 556.25,
-      "volume": 83107,
-      "deliverable_qty": 43661,
-      "delivery_pct": 52.54
-    },
     {
       "date": "2026-02-25",
       "close": 547.0,
@@ -442,6 +434,14 @@
       "volume": 301039,
       "deliverable_qty": 153666,
       "delivery_pct": 51.05
+    },
+    {
+      "date": "2026-05-26",
+      "close": 533.1,
+      "prev_close": 528.05,
+      "volume": 261427,
+      "deliverable_qty": 123969,
+      "delivery_pct": 47.42
     }
   ],
   "news": [
@@ -675,13 +675,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "P N Gadgil Jewellers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNGJEWELLERS_25022026194301_IntimationofNewspaperAdvertisment.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 15:37:54",
-      "an_dt": "24-Feb-2026 15:37:54",
-      "desc": "Shareholders meeting",
-      "sm_name": "P N Gadgil Jewellers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNGJEWELLERS_24022026153455_IntimationOfPostalBallotNotice.pdf"
     }
   ]
 }

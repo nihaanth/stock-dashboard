@@ -8,17 +8,9 @@
   "price": 1713.8,
   "market_cap_cr": 2069.5,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 1454.6,
-      "prev_close": 1498.4,
-      "volume": 41132,
-      "deliverable_qty": 26340,
-      "delivery_pct": 64.04
-    },
     {
       "date": "2026-02-25",
       "close": 1469.1,
@@ -442,6 +434,14 @@
       "volume": 56114,
       "deliverable_qty": 28312,
       "delivery_pct": 50.45
+    },
+    {
+      "date": "2026-05-26",
+      "close": 2249.8,
+      "prev_close": 2110.7,
+      "volume": 71746,
+      "deliverable_qty": 29217,
+      "delivery_pct": 40.72
     }
   ],
   "news": [
@@ -549,13 +549,6 @@
       "desc": "Credit Rating",
       "sm_name": "Yasho Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/8291904474_10032026114829_covering.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 18:05:25",
-      "an_dt": "24-Feb-2026 18:05:25",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Yasho Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/8291904474_24022026180516_intimation.pdf"
     }
   ]
 }

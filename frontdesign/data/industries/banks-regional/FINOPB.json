@@ -8,17 +8,9 @@
   "price": 132.81,
   "market_cap_cr": 1105.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 205.02,
-      "prev_close": 211.89,
-      "volume": 740299,
-      "deliverable_qty": 379107,
-      "delivery_pct": 51.21
-    },
     {
       "date": "2026-02-25",
       "close": 202.95,
@@ -442,9 +434,24 @@
       "volume": 154190,
       "deliverable_qty": 79059,
       "delivery_pct": 51.27
+    },
+    {
+      "date": "2026-05-26",
+      "close": 127.9,
+      "prev_close": 125.4,
+      "volume": 275913,
+      "deliverable_qty": 147507,
+      "delivery_pct": 53.46
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 16:15:53",
+      "an_dt": "26-May-2026 16:15:53",
+      "desc": "Change in Management",
+      "sm_name": "Fino Payments Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINOPB_26052026161532_Cover_CEO_Extension.pdf"
+    },
     {
       "sort_date": "2026-05-21 20:43:13",
       "an_dt": "21-May-2026 20:43:13",

@@ -8,17 +8,9 @@
   "price": 116.34,
   "market_cap_cr": 2482.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 125.73,
-      "prev_close": 127.72,
-      "volume": 100948,
-      "deliverable_qty": 70757,
-      "delivery_pct": 70.09
-    },
     {
       "date": "2026-02-25",
       "close": 126.09,
@@ -442,9 +434,31 @@
       "volume": 200274,
       "deliverable_qty": 111102,
       "delivery_pct": 55.47
+    },
+    {
+      "date": "2026-05-26",
+      "close": 123.33,
+      "prev_close": 122.33,
+      "volume": 142721,
+      "deliverable_qty": 63202,
+      "delivery_pct": 44.28
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 23:31:32",
+      "an_dt": "26-May-2026 23:31:32",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Apeejay Surrendra Park Hotels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASPHL_26052026232820_Outcome_Intimation.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 23:13:51",
+      "an_dt": "26-May-2026 23:13:51",
+      "desc": "Change in Auditors",
+      "sm_name": "Apeejay Surrendra Park Hotels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASPHL_26052026231300_Internal_Auditors.pdf"
+    },
     {
       "sort_date": "2026-05-25 22:16:43",
       "an_dt": "25-May-2026 22:16:43",

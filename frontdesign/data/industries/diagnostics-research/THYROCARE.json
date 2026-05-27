@@ -8,17 +8,9 @@
   "price": 480.85,
   "market_cap_cr": 7653.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 399.95,
-      "prev_close": 410.4,
-      "volume": 695864,
-      "deliverable_qty": 427014,
-      "delivery_pct": 61.36
-    },
     {
       "date": "2026-02-25",
       "close": 403.3,
@@ -442,9 +434,24 @@
       "volume": 416753,
       "deliverable_qty": 228340,
       "delivery_pct": 54.79
+    },
+    {
+      "date": "2026-05-26",
+      "close": 502.25,
+      "prev_close": 493.15,
+      "volume": 496517,
+      "deliverable_qty": 252871,
+      "delivery_pct": 50.93
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 13:08:31",
+      "an_dt": "26-May-2026 13:08:31",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Thyrocare Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THYROCARE_26052026130815_NP_26052026.pdf"
+    },
     {
       "sort_date": "2026-05-21 10:49:00",
       "an_dt": "21-May-2026 10:49:00",
@@ -626,13 +633,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Thyrocare Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/THYROCARE_02032026152546_Intimation_to_Stock_Exchange_ESOS_Allotment.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 22:03:23",
-      "an_dt": "24-Feb-2026 22:03:23",
-      "desc": "Acquisition",
-      "sm_name": "Thyrocare Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THYROCARE_24022026220316_SE_Letter_CCPS_USD_475000.pdf"
     }
   ]
 }

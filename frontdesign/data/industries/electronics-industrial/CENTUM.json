@@ -8,17 +8,9 @@
   "price": 3055.9,
   "market_cap_cr": 4504.7,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 2780.2,
-      "prev_close": 2673.2,
-      "volume": 211071,
-      "deliverable_qty": 37176,
-      "delivery_pct": 17.61
-    },
     {
       "date": "2026-02-25",
       "close": 2684.4,
@@ -442,9 +434,24 @@
       "volume": 53052,
       "deliverable_qty": 22460,
       "delivery_pct": 42.34
+    },
+    {
+      "date": "2026-05-26",
+      "close": 3170.6,
+      "prev_close": 3171.9,
+      "volume": 44416,
+      "deliverable_qty": 17159,
+      "delivery_pct": 38.63
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 19:25:27",
+      "an_dt": "26-May-2026 19:25:27",
+      "desc": "Investor Presentation",
+      "sm_name": "Centum Electronics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CENTUME_26052026192512_IPintimation.pdf"
+    },
     {
       "sort_date": "2026-05-22 17:50:37",
       "an_dt": "22-May-2026 17:50:37",
@@ -633,20 +640,6 @@
       "desc": "General Updates",
       "sm_name": "Centum Electronics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CENTUME_25022026181846_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 15:04:15",
-      "an_dt": "24-Feb-2026 15:04:15",
-      "desc": "Press Release",
-      "sm_name": "Centum Electronics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CENTUME_24022026150334_PRintimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 14:51:24",
-      "an_dt": "24-Feb-2026 14:51:24",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "Centum Electronics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CENTUME_24022026145047_IntimationalongwithPR.pdf"
     }
   ]
 }

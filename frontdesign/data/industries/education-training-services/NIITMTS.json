@@ -8,17 +8,9 @@
   "price": 299.55,
   "market_cap_cr": 4119.42,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 345.65,
-      "prev_close": 355.8,
-      "volume": 160362,
-      "deliverable_qty": 86141,
-      "delivery_pct": 53.72
-    },
     {
       "date": "2026-02-25",
       "close": 339.55,
@@ -442,6 +434,14 @@
       "volume": 569350,
       "deliverable_qty": 304754,
       "delivery_pct": 53.53
+    },
+    {
+      "date": "2026-05-26",
+      "close": 216.35,
+      "prev_close": 219.25,
+      "volume": 355845,
+      "deliverable_qty": 197385,
+      "delivery_pct": 55.47
     }
   ],
   "news": [
@@ -633,20 +633,6 @@
       "desc": "Press Release",
       "sm_name": "NIIT Learning Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLSL_25022026135822_NLSLPressRelease25022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 14:57:58",
-      "an_dt": "24-Feb-2026 14:57:58",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "NIIT Learning Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLSL_24022026145728_NLSLSEESOPAllotment24022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 14:21:21",
-      "an_dt": "24-Feb-2026 14:21:21",
-      "desc": "Press Release",
-      "sm_name": "NIIT Learning Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLSL_24022026142114_NLSLPressRelease24022026.pdf"
     }
   ]
 }

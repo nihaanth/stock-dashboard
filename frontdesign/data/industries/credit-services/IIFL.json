@@ -8,17 +8,9 @@
   "price": 462.35,
   "market_cap_cr": 19660.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 502.45,
-      "prev_close": 503.9,
-      "volume": 670293,
-      "deliverable_qty": 283226,
-      "delivery_pct": 42.25
-    },
     {
       "date": "2026-02-25",
       "close": 508.95,
@@ -442,9 +434,24 @@
       "volume": 3797994,
       "deliverable_qty": 1833779,
       "delivery_pct": 48.28
+    },
+    {
+      "date": "2026-05-26",
+      "close": 474.95,
+      "prev_close": 481.9,
+      "volume": 4086101,
+      "deliverable_qty": 1741108,
+      "delivery_pct": 42.61
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 11:17:27",
+      "an_dt": "26-May-2026 11:17:27",
+      "desc": "General Updates",
+      "sm_name": "IIFL Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFL_26052026111451_SE_Intimation_Intimation_regarding_OC.pdf"
+    },
     {
       "sort_date": "2026-05-21 16:55:30",
       "an_dt": "21-May-2026 16:55:30",
@@ -668,13 +675,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "IIFL Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFL_26022026003129_SEIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 14:11:27",
-      "an_dt": "24-Feb-2026 14:11:27",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "IIFL Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFL_24022026141101_SEIntimationPostissuance.pdf"
     }
   ]
 }

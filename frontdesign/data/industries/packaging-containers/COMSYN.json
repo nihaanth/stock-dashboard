@@ -8,17 +8,9 @@
   "price": 152.94,
   "market_cap_cr": 616.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 190.58,
-      "prev_close": 192.59,
-      "volume": 171126,
-      "deliverable_qty": 112549,
-      "delivery_pct": 65.77
-    },
     {
       "date": "2026-02-25",
       "close": 154.46,
@@ -442,9 +434,24 @@
       "volume": 8110,
       "deliverable_qty": 5793,
       "delivery_pct": 71.43
+    },
+    {
+      "date": "2026-05-26",
+      "close": 154.54,
+      "prev_close": 153.32,
+      "volume": 39201,
+      "deliverable_qty": 30185,
+      "delivery_pct": 77.0
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 11:13:40",
+      "an_dt": "26-May-2026 11:13:40",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Commercial Syn Bags Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_22042026130357_22.pdf"
+    },
     {
       "sort_date": "2026-05-25 16:21:12",
       "an_dt": "25-May-2026 16:21:12",

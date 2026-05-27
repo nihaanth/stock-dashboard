@@ -8,17 +8,9 @@
   "price": 546.5,
   "market_cap_cr": 79168.22,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 661.4,
-      "prev_close": 664.15,
-      "volume": 812117,
-      "deliverable_qty": 468187,
-      "delivery_pct": 57.65
-    },
     {
       "date": "2026-02-25",
       "close": 668.25,
@@ -442,9 +434,24 @@
       "volume": 1019989,
       "deliverable_qty": 593235,
       "delivery_pct": 58.16
+    },
+    {
+      "date": "2026-05-26",
+      "close": 522.7,
+      "prev_close": 526.7,
+      "volume": 710898,
+      "deliverable_qty": 320414,
+      "delivery_pct": 45.07
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 15:23:33",
+      "an_dt": "26-May-2026 15:23:33",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "ICICI Prudential Life Insurance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIPRULI_26052026152324_SE_Intimation_May_26_2026.pdf"
+    },
     {
       "sort_date": "2026-05-21 12:59:23",
       "an_dt": "21-May-2026 12:59:23",
@@ -787,13 +794,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "ICICI Prudential Life Insurance Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIPRULI_04032026121300_SE_Intimation_March_4_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 12:10:38",
-      "an_dt": "24-Feb-2026 12:10:38",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "ICICI Prudential Life Insurance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIPRULI_24022026121021_SE_Intimation_Feb_24_2026.pdf"
     }
   ]
 }

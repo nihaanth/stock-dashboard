@@ -8,17 +8,9 @@
   "price": 550.65,
   "market_cap_cr": 8221.33,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 584.7,
-      "prev_close": 592.7,
-      "volume": 59359,
-      "deliverable_qty": 28835,
-      "delivery_pct": 48.58
-    },
     {
       "date": "2026-02-25",
       "close": 579.95,
@@ -442,9 +434,24 @@
       "volume": 321725,
       "deliverable_qty": 217337,
       "delivery_pct": 67.55
+    },
+    {
+      "date": "2026-05-26",
+      "close": 656.0,
+      "prev_close": 655.95,
+      "volume": 204808,
+      "deliverable_qty": 171131,
+      "delivery_pct": 83.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 15:24:50",
+      "an_dt": "26-May-2026 15:24:50",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Healthcare Global Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HCG1_26052026152343_Earnings_Call_Transcript_-_26May2026.pdf"
+    },
     {
       "sort_date": "2026-05-25 18:19:37",
       "an_dt": "25-May-2026 18:19:37",
@@ -654,27 +661,6 @@
       "desc": "General Updates",
       "sm_name": "Healthcare Global Enterprises Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HCG1_25022026005014_HCG_-_Letter_of_Offer_-_NSE_-_24_February_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 20:10:01",
-      "an_dt": "24-Feb-2026 20:10:01",
-      "desc": "Record Date",
-      "sm_name": "Healthcare Global Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HCG1_24022026200950_Board_Meeting_Outcome_-_24_February_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 20:06:57",
-      "an_dt": "24-Feb-2026 20:06:57",
-      "desc": "Rights Issue",
-      "sm_name": "Healthcare Global Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HCG1_24022026200645_Board_Meeting_Outcome_-_24_February_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 20:01:21",
-      "an_dt": "24-Feb-2026 20:01:21",
-      "desc": "Rights Issue",
-      "sm_name": "Healthcare Global Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HCG1_24022026195648_Board_Meeting_Outcome_-_24_February_2026.pdf"
     }
   ]
 }

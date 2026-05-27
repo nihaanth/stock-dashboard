@@ -8,17 +8,9 @@
   "price": 1262.1,
   "market_cap_cr": 21553.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 1205.4,
-      "prev_close": 1187.0,
-      "volume": 288392,
-      "deliverable_qty": 122780,
-      "delivery_pct": 42.57
-    },
     {
       "date": "2026-02-25",
       "close": 1213.9,
@@ -442,6 +434,14 @@
       "volume": 91804,
       "deliverable_qty": 44594,
       "delivery_pct": 48.58
+    },
+    {
+      "date": "2026-05-26",
+      "close": 1297.1,
+      "prev_close": 1273.0,
+      "volume": 187883,
+      "deliverable_qty": 89180,
+      "delivery_pct": 47.47
     }
   ],
   "news": [
@@ -640,13 +640,6 @@
       "desc": "General Updates",
       "sm_name": "Kalpataru Projects International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KALPATPOWER_27022026234752_SEIntimation27022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 11:35:33",
-      "an_dt": "24-Feb-2026 11:35:33",
-      "desc": "Acquisition",
-      "sm_name": "Kalpataru Projects International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KALPATPOWR_24022026113518_SEIntimationKIOCL022026.pdf"
     }
   ]
 }

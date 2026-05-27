@@ -8,17 +8,9 @@
   "price": 77.41,
   "market_cap_cr": 1362.42,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 76.23,
-      "prev_close": 76.12,
-      "volume": 239388,
-      "deliverable_qty": 76564,
-      "delivery_pct": 31.98
-    },
     {
       "date": "2026-02-25",
       "close": 76.23,
@@ -442,9 +434,24 @@
       "volume": 419124,
       "deliverable_qty": 223234,
       "delivery_pct": 53.26
+    },
+    {
+      "date": "2026-05-26",
+      "close": 74.75,
+      "prev_close": 75.72,
+      "volume": 154948,
+      "deliverable_qty": 98214,
+      "delivery_pct": 63.39
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 15:55:31",
+      "an_dt": "26-May-2026 15:55:31",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Dolat Algotech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DOLATALGO_26052026155507_26-05-26-Newspaper-signed.pdf"
+    },
     {
       "sort_date": "2026-05-25 14:54:56",
       "an_dt": "25-May-2026 14:54:56",

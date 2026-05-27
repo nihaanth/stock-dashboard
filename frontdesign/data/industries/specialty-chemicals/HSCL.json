@@ -8,17 +8,9 @@
   "price": 615.95,
   "market_cap_cr": 31077.24,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 488.2,
-      "prev_close": 490.35,
-      "volume": 1366504,
-      "deliverable_qty": 404305,
-      "delivery_pct": 29.59
-    },
     {
       "date": "2026-02-25",
       "close": 483.05,
@@ -442,6 +434,14 @@
       "volume": 6111518,
       "deliverable_qty": 596245,
       "delivery_pct": 9.76
+    },
+    {
+      "date": "2026-05-26",
+      "close": 606.4,
+      "prev_close": 593.25,
+      "volume": 6911907,
+      "deliverable_qty": 1619850,
+      "delivery_pct": 23.44
     }
   ],
   "news": [
@@ -703,20 +703,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Himadri Speciality Chemical Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HSCL_05032026184506_ESOPAllotment_05032026_Stock_ex.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 17:08:02",
-      "an_dt": "24-Feb-2026 17:08:02",
-      "desc": "Press Release",
-      "sm_name": "Himadri Speciality Chemical Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HSCL_24022026170741_Pressrelease24022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 13:23:44",
-      "an_dt": "24-Feb-2026 13:23:44",
-      "desc": "Commencement of commercial production/operations",
-      "sm_name": "Himadri Speciality Chemical Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HSCL_24022026132134_CommencementofCommercialOperationsSpecialityCarbonBlack.pdf"
     }
   ]
 }

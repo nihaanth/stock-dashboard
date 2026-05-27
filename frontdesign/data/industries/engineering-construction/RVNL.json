@@ -8,17 +8,9 @@
   "price": 295.4,
   "market_cap_cr": 61591.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 321.65,
-      "prev_close": 319.2,
-      "volume": 6655071,
-      "deliverable_qty": 2173153,
-      "delivery_pct": 32.65
-    },
     {
       "date": "2026-02-25",
       "close": 317.6,
@@ -442,9 +434,31 @@
       "volume": 7242974,
       "deliverable_qty": 3092206,
       "delivery_pct": 42.69
+    },
+    {
+      "date": "2026-05-26",
+      "close": 259.75,
+      "prev_close": 272.45,
+      "volume": 21022452,
+      "deliverable_qty": 6814489,
+      "delivery_pct": 32.42
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 17:02:08",
+      "an_dt": "26-May-2026 17:02:08",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Rail Vikas Nigam Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RVNL_26052026170158_Outcomeofconcall26052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 14:48:02",
+      "an_dt": "26-May-2026 14:48:02",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Rail Vikas Nigam Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_05052026162332_RVNL.pdf"
+    },
     {
       "sort_date": "2026-05-25 18:19:54",
       "an_dt": "25-May-2026 18:19:54",
@@ -640,13 +654,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "Rail Vikas Nigam Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RVNL_25022026223011_Coveringletter25022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 16:05:42",
-      "an_dt": "24-Feb-2026 16:05:42",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "Rail Vikas Nigam Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RVNL_24022026160533_Coveringletter24022026.pdf"
     }
   ]
 }

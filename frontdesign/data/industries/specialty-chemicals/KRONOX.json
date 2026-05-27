@@ -8,17 +8,9 @@
   "price": 139.46,
   "market_cap_cr": 517.45,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 116.96,
-      "prev_close": 119.31,
-      "volume": 43570,
-      "deliverable_qty": 23635,
-      "delivery_pct": 54.25
-    },
     {
       "date": "2026-02-25",
       "close": 112.0,
@@ -442,9 +434,24 @@
       "volume": 52037,
       "deliverable_qty": 24116,
       "delivery_pct": 46.34
+    },
+    {
+      "date": "2026-05-26",
+      "close": 138.7,
+      "prev_close": 136.82,
+      "volume": 90711,
+      "deliverable_qty": 47951,
+      "delivery_pct": 52.86
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 16:19:12",
+      "an_dt": "26-May-2026 16:19:12",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Kronox Lab Sciences Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_14052026120132_43.pdf"
+    },
     {
       "sort_date": "2026-05-24 19:58:01",
       "an_dt": "24-May-2026 19:58:01",

@@ -8,17 +8,9 @@
   "price": 144.75,
   "market_cap_cr": 579.0,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 124.56,
-      "prev_close": 127.28,
-      "volume": 111884,
-      "deliverable_qty": 61412,
-      "delivery_pct": 54.89
-    },
     {
       "date": "2026-02-25",
       "close": 124.35,
@@ -442,6 +434,14 @@
       "volume": 49954,
       "deliverable_qty": 31731,
       "delivery_pct": 63.52
+    },
+    {
+      "date": "2026-05-26",
+      "close": 124.29,
+      "prev_close": 124.09,
+      "volume": 100311,
+      "deliverable_qty": 47751,
+      "delivery_pct": 47.6
     }
   ],
   "news": [
@@ -563,13 +563,6 @@
       "desc": "General Updates",
       "sm_name": "RBZ Jewellers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RBZ_25022026190436_Reg30DisclosureInsurenceClaim25022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 16:38:58",
-      "an_dt": "24-Feb-2026 16:38:58",
-      "desc": "General Updates",
-      "sm_name": "RBZ Jewellers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RBZ_24022026163847_Reg30IntimationofreceitofInsuranceclaim24022026.pdf"
     }
   ]
 }

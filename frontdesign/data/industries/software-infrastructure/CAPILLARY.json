@@ -8,17 +8,9 @@
   "price": 561.0,
   "market_cap_cr": 4449.39,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 511.75,
-      "prev_close": 525.55,
-      "volume": 91140,
-      "deliverable_qty": 39132,
-      "delivery_pct": 42.94
-    },
     {
       "date": "2026-02-25",
       "close": 518.95,
@@ -442,6 +434,14 @@
       "volume": 15470,
       "deliverable_qty": 7837,
       "delivery_pct": 50.66
+    },
+    {
+      "date": "2026-05-26",
+      "close": 515.4,
+      "prev_close": 522.1,
+      "volume": 42292,
+      "deliverable_qty": 13952,
+      "delivery_pct": 32.99
     }
   ],
   "news": [
@@ -633,48 +633,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Capillary Technologies India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPILLARY12_27022026130357_Acquisition_Investor_call_outcome.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 21:11:18",
-      "an_dt": "24-Feb-2026 21:11:18",
-      "desc": "Updates",
-      "sm_name": "Capillary Technologies India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPILLARY12_24022026211105_General_update.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 21:02:33",
-      "an_dt": "24-Feb-2026 21:02:33",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Capillary Technologies India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPILLARY12_24022026210225_Investor_Meet_Feb_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 20:59:03",
-      "an_dt": "24-Feb-2026 20:59:03",
-      "desc": "Investor Presentation",
-      "sm_name": "Capillary Technologies India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPILLARY12_24022026205850_Investor_presentation.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 20:55:18",
-      "an_dt": "24-Feb-2026 20:55:18",
-      "desc": "Press Release",
-      "sm_name": "Capillary Technologies India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPILLARY12_24022026205505_Press_Release.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 20:42:57",
-      "an_dt": "24-Feb-2026 20:42:57",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Capillary Technologies India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPILLARY12_24022026204241_Intimation_Investor_Call.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 20:35:59",
-      "an_dt": "24-Feb-2026 20:35:59",
-      "desc": "Acquisition",
-      "sm_name": "Capillary Technologies India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPILLARY12_24022026203548_Disclosure-Reg_30_Acquisition_.pdf"
     }
   ]
 }

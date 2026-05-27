@@ -8,17 +8,9 @@
   "price": 102.31,
   "market_cap_cr": 1605.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 116.92,
-      "prev_close": 143.3,
-      "volume": 10981995,
-      "deliverable_qty": 3491523,
-      "delivery_pct": 31.79
-    },
     {
       "date": "2026-02-25",
       "close": 114.21,
@@ -442,9 +434,24 @@
       "volume": 2563656,
       "deliverable_qty": 559861,
       "delivery_pct": 21.84
+    },
+    {
+      "date": "2026-05-26",
+      "close": 101.15,
+      "prev_close": 101.47,
+      "volume": 1112849,
+      "deliverable_qty": 393818,
+      "delivery_pct": 35.39
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 13:06:20",
+      "an_dt": "26-May-2026 13:06:20",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Yatra Online Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_14052026111701_THCL.pdf"
+    },
     {
       "sort_date": "2026-05-25 16:42:40",
       "an_dt": "25-May-2026 16:42:40",

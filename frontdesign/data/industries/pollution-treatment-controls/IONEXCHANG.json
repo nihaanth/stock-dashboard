@@ -8,17 +8,9 @@
   "price": 404.15,
   "market_cap_cr": 4968.23,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 375.8,
-      "prev_close": 384.85,
-      "volume": 116062,
-      "deliverable_qty": 55265,
-      "delivery_pct": 47.62
-    },
     {
       "date": "2026-02-25",
       "close": 373.9,
@@ -442,9 +434,38 @@
       "volume": 311537,
       "deliverable_qty": 134569,
       "delivery_pct": 43.2
+    },
+    {
+      "date": "2026-05-26",
+      "close": 407.7,
+      "prev_close": 408.3,
+      "volume": 256015,
+      "deliverable_qty": 135640,
+      "delivery_pct": 52.98
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 23:04:12",
+      "an_dt": "26-May-2026 23:04:12",
+      "desc": "Change in Auditors",
+      "sm_name": "ION Exchange (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IONEXCHANGE_26052026230146_IEI_Results_Mar_2026_for_upload.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 22:53:05",
+      "an_dt": "26-May-2026 22:53:05",
+      "desc": "Record Date",
+      "sm_name": "ION Exchange (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IONEXCHANGE_26052026225229_IEI_Results_Mar_2026_for_upload.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 22:51:26",
+      "an_dt": "26-May-2026 22:51:26",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "ION Exchange (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IONEXCHANGE_26052026224956_IEI_Results_Mar_2026_for_upload.pdf"
+    },
     {
       "sort_date": "2026-05-25 20:15:29",
       "an_dt": "25-May-2026 20:15:29",

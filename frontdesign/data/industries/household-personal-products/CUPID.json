@@ -8,17 +8,9 @@
   "price": 130.96,
   "market_cap_cr": 17609.68,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 416.9,
-      "prev_close": 422.85,
-      "volume": 1857278,
-      "deliverable_qty": 756077,
-      "delivery_pct": 40.71
-    },
     {
       "date": "2026-02-25",
       "close": 412.75,
@@ -442,6 +434,14 @@
       "volume": 13549225,
       "deliverable_qty": 5714756,
       "delivery_pct": 42.18
+    },
+    {
+      "date": "2026-05-26",
+      "close": 127.84,
+      "prev_close": 124.69,
+      "volume": 11886797,
+      "deliverable_qty": 4883369,
+      "delivery_pct": 41.08
     }
   ],
   "news": [
@@ -640,20 +640,6 @@
       "desc": "General Updates",
       "sm_name": "Cupid Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CUPID_25022026125713_Intimation_Appointment_of_Additional_Non_Executive_Independent_Director.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 17:05:35",
-      "an_dt": "24-Feb-2026 17:05:35",
-      "desc": "Shareholders meeting",
-      "sm_name": "Cupid Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CUPID_24022026170528_Voting_Results_and_Scrutiniser_Report_PDF.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 13:11:13",
-      "an_dt": "24-Feb-2026 13:11:13",
-      "desc": "Shareholders meeting",
-      "sm_name": "Cupid Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CUPID_24022026131104_EGM_Outcome_Proceedings.pdf"
     }
   ]
 }

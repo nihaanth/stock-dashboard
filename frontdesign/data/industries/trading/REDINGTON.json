@@ -8,17 +8,9 @@
   "price": 218.66,
   "market_cap_cr": 17094.28,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 239.95,
-      "prev_close": 245.8,
-      "volume": 1445567,
-      "deliverable_qty": 714091,
-      "delivery_pct": 49.4
-    },
     {
       "date": "2026-02-25",
       "close": 242.55,
@@ -442,6 +434,14 @@
       "volume": 2798806,
       "deliverable_qty": 1172400,
       "delivery_pct": 41.89
+    },
+    {
+      "date": "2026-05-26",
+      "close": 224.51,
+      "prev_close": 224.14,
+      "volume": 2800786,
+      "deliverable_qty": 1169049,
+      "delivery_pct": 41.74
     }
   ],
   "news": [
@@ -584,13 +584,6 @@
       "desc": "Spurt in Volume",
       "sm_name": "Redington Limited",
       "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-02-24 16:15:35",
-      "an_dt": "24-Feb-2026 16:15:35",
-      "desc": "General Updates",
-      "sm_name": "Redington Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Abhinandhanan_24022026161516_RIML_Redomsd.pdf"
     }
   ]
 }

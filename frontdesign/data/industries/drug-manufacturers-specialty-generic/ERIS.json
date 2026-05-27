@@ -8,17 +8,9 @@
   "price": 1376.4,
   "market_cap_cr": 19072.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 1384.6,
-      "prev_close": 1352.7,
-      "volume": 127185,
-      "deliverable_qty": 40111,
-      "delivery_pct": 31.54
-    },
     {
       "date": "2026-02-25",
       "close": 1380.2,
@@ -442,9 +434,24 @@
       "volume": 63907,
       "deliverable_qty": 25119,
       "delivery_pct": 39.31
+    },
+    {
+      "date": "2026-05-26",
+      "close": 1361.4,
+      "prev_close": 1353.5,
+      "volume": 105765,
+      "deliverable_qty": 39987,
+      "delivery_pct": 37.81
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 17:55:49",
+      "an_dt": "26-May-2026 17:55:49",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Eris Lifesciences Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ERIS_26052026175539_intimationsigned.pdf"
+    },
     {
       "sort_date": "2026-05-25 20:13:50",
       "an_dt": "25-May-2026 20:13:50",
@@ -605,13 +612,6 @@
       "desc": "Action(s) taken or orders passed",
       "sm_name": "Eris Lifesciences Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ERIS_28022026190208_Intimationpenaltysigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 12:09:57",
-      "an_dt": "24-Feb-2026 12:09:57",
-      "desc": "Press Release",
-      "sm_name": "Eris Lifesciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ERIS_24022026120919_Pressreleasesigned.pdf"
     }
   ]
 }

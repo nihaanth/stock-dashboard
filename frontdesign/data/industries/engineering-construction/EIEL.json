@@ -8,17 +8,9 @@
   "price": 219.17,
   "market_cap_cr": 3847.09,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 160.41,
-      "prev_close": 163.48,
-      "volume": 501172,
-      "deliverable_qty": 261348,
-      "delivery_pct": 52.15
-    },
     {
       "date": "2026-02-25",
       "close": 158.98,
@@ -442,6 +434,14 @@
       "volume": 18772998,
       "deliverable_qty": 1223729,
       "delivery_pct": 6.52
+    },
+    {
+      "date": "2026-05-26",
+      "close": 207.32,
+      "prev_close": 209.69,
+      "volume": 2448523,
+      "deliverable_qty": 667452,
+      "delivery_pct": 27.26
     }
   ],
   "news": [
@@ -584,13 +584,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Enviro Infra Engineers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENVIRO_27022026174919_Enviro_Investor_Meeting_Intimation_5Mar.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 21:03:02",
-      "an_dt": "24-Feb-2026 21:03:02",
-      "desc": "General Updates",
-      "sm_name": "Enviro Infra Engineers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENVIRO_24022026210132_ESOPfinal.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 168.3,
   "market_cap_cr": 546.13,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 138.96,
-      "prev_close": 139.28,
-      "volume": 30760,
-      "deliverable_qty": 16323,
-      "delivery_pct": 53.07
-    },
     {
       "date": "2026-02-25",
       "close": 140.26,
@@ -442,6 +434,14 @@
       "volume": 334597,
       "deliverable_qty": 332097,
       "delivery_pct": 99.25
+    },
+    {
+      "date": "2026-05-26",
+      "close": 251.13,
+      "prev_close": 209.28,
+      "volume": 1465078,
+      "deliverable_qty": 656321,
+      "delivery_pct": 44.8
     }
   ],
   "news": [
@@ -493,13 +493,6 @@
       "desc": "Trading Window",
       "sm_name": "MODISON LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MODISNME_26032026110400_IntimationToSE.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 15:25:18",
-      "an_dt": "24-Feb-2026 15:25:18",
-      "desc": "Updates",
-      "sm_name": "MODISON LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MODISNME_24022026152432_Inimation_to_se.pdf"
     }
   ]
 }

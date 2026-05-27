@@ -8,17 +8,9 @@
   "price": 100.73,
   "market_cap_cr": 1539.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 114.53,
-      "prev_close": 116.67,
-      "volume": 522418,
-      "deliverable_qty": 275736,
-      "delivery_pct": 52.78
-    },
     {
       "date": "2026-02-25",
       "close": 114.66,
@@ -442,9 +434,24 @@
       "volume": 210050,
       "deliverable_qty": 114952,
       "delivery_pct": 54.73
+    },
+    {
+      "date": "2026-05-26",
+      "close": 98.32,
+      "prev_close": 99.81,
+      "volume": 362542,
+      "deliverable_qty": 180184,
+      "delivery_pct": 49.7
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 16:07:24",
+      "an_dt": "26-May-2026 16:07:24",
+      "desc": "Allotment of Securities",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_26052026160610_Outcome26052026.pdf"
+    },
     {
       "sort_date": "2026-05-15 18:24:10",
       "an_dt": "15-May-2026 18:24:10",

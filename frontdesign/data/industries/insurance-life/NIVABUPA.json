@@ -8,17 +8,9 @@
   "price": 84.31,
   "market_cap_cr": 15575.91,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 76.5,
-      "prev_close": 76.17,
-      "volume": 375491,
-      "deliverable_qty": 237853,
-      "delivery_pct": 63.34
-    },
     {
       "date": "2026-02-25",
       "close": 76.44,
@@ -442,9 +434,24 @@
       "volume": 1557871,
       "deliverable_qty": 802673,
       "delivery_pct": 51.52
+    },
+    {
+      "date": "2026-05-26",
+      "close": 84.08,
+      "prev_close": 83.96,
+      "volume": 569160,
+      "deliverable_qty": 240281,
+      "delivery_pct": 42.22
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 18:20:19",
+      "an_dt": "26-May-2026 18:20:19",
+      "desc": "Updates",
+      "sm_name": "Niva Bupa Health Insurance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAXBUPA_26052026181928_ASCR_stock_exchange.pdf"
+    },
     {
       "sort_date": "2026-05-15 20:33:39",
       "an_dt": "15-May-2026 20:33:39",
@@ -619,13 +626,6 @@
       "desc": "Action(s) initiated or orders passed",
       "sm_name": "Niva Bupa Health Insurance Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAXBUPA_27022026162852_Discosure_under_Regulation_30_IRDAI_Advisory.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 16:19:20",
-      "an_dt": "24-Feb-2026 16:19:20",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Niva Bupa Health Insurance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAXBUPA_24022026161846_Newspaperadvtpostalballot24022026_.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 2475.3,
   "market_cap_cr": 15429.05,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 2345.5,
-      "prev_close": 2330.5,
-      "volume": 346085,
-      "deliverable_qty": 181495,
-      "delivery_pct": 52.44
-    },
     {
       "date": "2026-02-25",
       "close": 2353.4,
@@ -442,9 +434,24 @@
       "volume": 332408,
       "deliverable_qty": 157557,
       "delivery_pct": 47.4
+    },
+    {
+      "date": "2026-05-26",
+      "close": 2879.8,
+      "prev_close": 2905.2,
+      "volume": 185667,
+      "deliverable_qty": 94027,
+      "delivery_pct": 50.64
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 13:17:54",
+      "an_dt": "26-May-2026 13:17:54",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Sansera Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANSERA_26052026131713_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-22 12:46:36",
       "an_dt": "22-May-2026 12:46:36",

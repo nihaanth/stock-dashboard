@@ -8,17 +8,9 @@
   "price": 421.65,
   "market_cap_cr": 10421.96,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 444.75,
-      "prev_close": 451.45,
-      "volume": 261896,
-      "deliverable_qty": 154850,
-      "delivery_pct": 59.13
-    },
     {
       "date": "2026-02-25",
       "close": 442.35,
@@ -442,9 +434,24 @@
       "volume": 217345,
       "deliverable_qty": 115462,
       "delivery_pct": 53.12
+    },
+    {
+      "date": "2026-05-26",
+      "close": 456.85,
+      "prev_close": 440.9,
+      "volume": 1288731,
+      "deliverable_qty": 553374,
+      "delivery_pct": 42.94
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 12:29:13",
+      "an_dt": "26-May-2026 12:29:13",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Tilaknagar Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/gthakur_26052026122250_TIEarningsintimation_May2026.pdf"
+    },
     {
       "sort_date": "2026-05-15 17:56:00",
       "an_dt": "15-May-2026 17:56:00",
@@ -570,20 +577,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Tilaknagar Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/gthakur_05032026182755_TI_Investormeet_11March2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 18:47:59",
-      "an_dt": "24-Feb-2026 18:47:59",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Tilaknagar Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/gthakur_24022026184526_SENEWSRELODGEMENT.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 15:14:35",
-      "an_dt": "24-Feb-2026 15:14:35",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Tilaknagar Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/gthakur_24022026151201_SPECIALWINDOW240226.pdf"
     }
   ]
 }

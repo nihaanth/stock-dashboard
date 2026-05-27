@@ -8,17 +8,9 @@
   "price": 836.1,
   "market_cap_cr": 9095.52,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 714.15,
-      "prev_close": 719.1,
-      "volume": 96433,
-      "deliverable_qty": 58543,
-      "delivery_pct": 60.71
-    },
     {
       "date": "2026-02-25",
       "close": 719.05,
@@ -442,9 +434,24 @@
       "volume": 42738,
       "deliverable_qty": 25369,
       "delivery_pct": 59.36
+    },
+    {
+      "date": "2026-05-26",
+      "close": 780.3,
+      "prev_close": 779.8,
+      "volume": 53360,
+      "deliverable_qty": 28461,
+      "delivery_pct": 53.34
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 12:24:49",
+      "an_dt": "26-May-2026 12:24:49",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "India Shelter Finance Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ISFC2010_26052026122427_Newspaper_publication_advertisement.pdf"
+    },
     {
       "sort_date": "2026-05-25 19:44:05",
       "an_dt": "25-May-2026 19:44:05",
@@ -591,13 +598,6 @@
       "desc": "Credit Rating",
       "sm_name": "India Shelter Finance Corporation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ISFC2010_26022026171713_Intimation-_Credit_rating.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 15:49:33",
-      "an_dt": "24-Feb-2026 15:49:33",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "India Shelter Finance Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ISFC2010_24022026154740_Intimation_of_ESOP_Allotment.pdf"
     }
   ]
 }

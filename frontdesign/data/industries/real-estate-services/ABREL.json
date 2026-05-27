@@ -8,17 +8,9 @@
   "price": 1363.7,
   "market_cap_cr": 15076.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 1267.8,
-      "prev_close": 1304.6,
-      "volume": 106499,
-      "deliverable_qty": 59753,
-      "delivery_pct": 56.11
-    },
     {
       "date": "2026-02-25",
       "close": 1262.4,
@@ -442,9 +434,31 @@
       "volume": 218318,
       "deliverable_qty": 107438,
       "delivery_pct": 49.21
+    },
+    {
+      "date": "2026-05-26",
+      "close": 1268.7,
+      "prev_close": 1285.8,
+      "volume": 230519,
+      "deliverable_qty": 108417,
+      "delivery_pct": 47.03
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 19:26:22",
+      "an_dt": "26-May-2026 19:26:22",
+      "desc": "General Updates",
+      "sm_name": "Aditya Birla Real Estate Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CENTURYTEX_26052026192337_Intimation.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 11:55:03",
+      "an_dt": "26-May-2026 11:55:03",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aditya Birla Real Estate Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CENTURYTEX_26052026115452_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-20 12:42:19",
       "an_dt": "20-May-2026 12:42:19",
@@ -668,13 +682,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Aditya Birla Real Estate Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CENTURYTEX_16032026175755_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 13:03:59",
-      "an_dt": "24-Feb-2026 13:03:59",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Aditya Birla Real Estate Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CENTURYTEX_24022026130348_Intimation.pdf"
     }
   ]
 }

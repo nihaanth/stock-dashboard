@@ -8,17 +8,9 @@
   "price": 307.6,
   "market_cap_cr": 1408.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 303.2,
-      "prev_close": 306.15,
-      "volume": 264681,
-      "deliverable_qty": 67546,
-      "delivery_pct": 25.52
-    },
     {
       "date": "2026-02-25",
       "close": 298.75,
@@ -442,6 +434,14 @@
       "volume": 161628,
       "deliverable_qty": 76074,
       "delivery_pct": 47.07
+    },
+    {
+      "date": "2026-05-26",
+      "close": 286.5,
+      "prev_close": 278.35,
+      "volume": 300757,
+      "deliverable_qty": 94745,
+      "delivery_pct": 31.5
     }
   ],
   "news": [
@@ -521,13 +521,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Orient Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Orient97_25022026161712_Intimation_NoticePublication_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 17:28:23",
-      "an_dt": "24-Feb-2026 17:28:23",
-      "desc": "Shareholders meeting",
-      "sm_name": "Orient Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Orient97_24022026172802_Intimation_of_Postal_Ballot_Notice_signed.pdf"
     }
   ]
 }

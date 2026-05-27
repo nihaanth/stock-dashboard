@@ -8,17 +8,9 @@
   "price": 150.55,
   "market_cap_cr": 709.12,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 149.41,
-      "prev_close": 151.94,
-      "volume": 32922,
-      "deliverable_qty": 25896,
-      "delivery_pct": 78.66
-    },
     {
       "date": "2026-02-25",
       "close": 149.38,
@@ -442,6 +434,14 @@
       "volume": 53717,
       "deliverable_qty": 32182,
       "delivery_pct": 59.91
+    },
+    {
+      "date": "2026-05-26",
+      "close": 178.98,
+      "prev_close": 173.78,
+      "volume": 340464,
+      "deliverable_qty": 192479,
+      "delivery_pct": 56.53
     }
   ],
   "news": [
@@ -675,20 +675,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "RSWM Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RSWM_25022026112812_Newspaper_Advertisement_25-02-2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 18:11:09",
-      "an_dt": "24-Feb-2026 18:11:09",
-      "desc": "Change in Management",
-      "sm_name": "RSWM Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RSWM_24022026181101_Resignation_and_Appointment_of_SMP_SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 16:33:21",
-      "an_dt": "24-Feb-2026 16:33:21",
-      "desc": "Shareholders meeting",
-      "sm_name": "RSWM Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RSWM_24022026163311_For_Uploading_sd.pdf"
     }
   ]
 }

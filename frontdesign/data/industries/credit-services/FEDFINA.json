@@ -8,17 +8,9 @@
   "price": 152.34,
   "market_cap_cr": 5702.43,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 136.71,
-      "prev_close": 134.21,
-      "volume": 1055946,
-      "deliverable_qty": 424323,
-      "delivery_pct": 40.18
-    },
     {
       "date": "2026-02-25",
       "close": 135.04,
@@ -442,9 +434,24 @@
       "volume": 3472827,
       "deliverable_qty": 1706653,
       "delivery_pct": 49.14
+    },
+    {
+      "date": "2026-05-26",
+      "close": 161.74,
+      "prev_close": 164.79,
+      "volume": 1113666,
+      "deliverable_qty": 563712,
+      "delivery_pct": 50.62
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 15:16:39",
+      "an_dt": "26-May-2026 15:16:39",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Fedbank Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FEDFINA_26052026151613_IntimationAnalysts_meets26052026.pdf"
+    },
     {
       "sort_date": "2026-05-25 15:52:45",
       "an_dt": "25-May-2026 15:52:45",

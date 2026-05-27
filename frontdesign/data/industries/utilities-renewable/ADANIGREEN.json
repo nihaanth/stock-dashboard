@@ -8,17 +8,9 @@
   "price": 1085.45,
   "market_cap_cr": 178792.73,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 981.35,
-      "prev_close": 970.35,
-      "volume": 1290484,
-      "deliverable_qty": 342293,
-      "delivery_pct": 26.52
-    },
     {
       "date": "2026-02-25",
       "close": 964.15,
@@ -442,9 +434,38 @@
       "volume": 4194567,
       "deliverable_qty": 1122111,
       "delivery_pct": 26.75
+    },
+    {
+      "date": "2026-05-26",
+      "close": 1457.4,
+      "prev_close": 1411.1,
+      "volume": 4949474,
+      "deliverable_qty": 1378062,
+      "delivery_pct": 27.84
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 12:18:26",
+      "an_dt": "26-May-2026 12:18:26",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Adani Green Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADANIGREEN_26052026121807_Letter.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 08:31:26",
+      "an_dt": "26-May-2026 08:31:26",
+      "desc": "Press Release",
+      "sm_name": "Adani Green Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADANIGREEN_26052026083108_LettersPR.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 08:24:43",
+      "an_dt": "26-May-2026 08:24:43",
+      "desc": "Updates",
+      "sm_name": "Adani Green Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADANIGREEN_26052026082234_Letters.pdf"
+    },
     {
       "sort_date": "2026-05-18 22:19:52",
       "an_dt": "18-May-2026 22:19:52",

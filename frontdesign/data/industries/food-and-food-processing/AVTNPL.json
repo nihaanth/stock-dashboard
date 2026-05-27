@@ -8,17 +8,9 @@
   "price": 67.78,
   "market_cap_cr": 1032.18,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 65.37,
-      "prev_close": 65.62,
-      "volume": 22517,
-      "deliverable_qty": 14461,
-      "delivery_pct": 64.22
-    },
     {
       "date": "2026-02-25",
       "close": 65.23,
@@ -442,9 +434,24 @@
       "volume": 49327,
       "deliverable_qty": 31306,
       "delivery_pct": 63.47
+    },
+    {
+      "date": "2026-05-26",
+      "close": 68.02,
+      "prev_close": 69.33,
+      "volume": 45846,
+      "deliverable_qty": 32592,
+      "delivery_pct": 71.09
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 19:33:00",
+      "an_dt": "26-May-2026 19:33:00",
+      "desc": "Change in Management",
+      "sm_name": "AVT Natural Products Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVTNPL_26052026193218_TenureCompletionofManagerdated_26052026signed.pdf"
+    },
     {
       "sort_date": "2026-04-09 11:06:19",
       "an_dt": "09-Apr-2026 11:06:19",

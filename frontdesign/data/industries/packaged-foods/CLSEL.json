@@ -8,17 +8,9 @@
   "price": 285.15,
   "market_cap_cr": 1417.93,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 271.16,
-      "prev_close": 279.81,
-      "volume": 73533,
-      "deliverable_qty": 36681,
-      "delivery_pct": 49.88
-    },
     {
       "date": "2026-02-25",
       "close": 276.66,
@@ -442,9 +434,31 @@
       "volume": 899324,
       "deliverable_qty": 154001,
       "delivery_pct": 17.12
+    },
+    {
+      "date": "2026-05-26",
+      "close": 292.4,
+      "prev_close": 298.0,
+      "volume": 153571,
+      "deliverable_qty": 58915,
+      "delivery_pct": 38.36
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 18:03:02",
+      "an_dt": "26-May-2026 18:03:02",
+      "desc": "Dividend",
+      "sm_name": "Chaman Lal Setia Exports Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CLSEL_26052026180142_FINAL26052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 17:59:52",
+      "an_dt": "26-May-2026 17:59:52",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Chaman Lal Setia Exports Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CLSEL_26052026175816_FINAL26052026.pdf"
+    },
     {
       "sort_date": "2026-05-20 16:46:46",
       "an_dt": "20-May-2026 16:46:46",

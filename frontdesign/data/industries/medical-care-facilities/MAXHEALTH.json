@@ -8,17 +8,9 @@
   "price": 1037.95,
   "market_cap_cr": 101017.83,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 1086.4,
-      "prev_close": 1083.6,
-      "volume": 2375483,
-      "deliverable_qty": 1618954,
-      "delivery_pct": 68.15
-    },
     {
       "date": "2026-02-25",
       "close": 1088.1,
@@ -442,9 +434,24 @@
       "volume": 3847234,
       "deliverable_qty": 1707289,
       "delivery_pct": 44.38
+    },
+    {
+      "date": "2026-05-26",
+      "close": 993.95,
+      "prev_close": 1000.85,
+      "volume": 2515276,
+      "deliverable_qty": 1235830,
+      "delivery_pct": 49.13
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 23:07:34",
+      "an_dt": "26-May-2026 23:07:34",
+      "desc": "Investor Presentation",
+      "sm_name": "Max Healthcare Institute Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAXHEALTH_26052026230705_SE_Intimation_Investor_Presentation.pdf"
+    },
     {
       "sort_date": "2026-05-24 22:31:28",
       "an_dt": "24-May-2026 22:31:28",

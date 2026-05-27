@@ -8,17 +8,9 @@
   "price": 4427.2,
   "market_cap_cr": 171176.38,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 4850.3,
-      "prev_close": 4862.2,
-      "volume": 406380,
-      "deliverable_qty": 228925,
-      "delivery_pct": 56.33
-    },
     {
       "date": "2026-02-25",
       "close": 4947.4,
@@ -442,6 +434,14 @@
       "volume": 2493013,
       "deliverable_qty": 1404611,
       "delivery_pct": 56.34
+    },
+    {
+      "date": "2026-05-26",
+      "close": 4480.8,
+      "prev_close": 4501.9,
+      "volume": 759683,
+      "deliverable_qty": 283579,
+      "delivery_pct": 37.33
     }
   ],
   "news": [
@@ -612,13 +612,6 @@
       "desc": "General Updates",
       "sm_name": "InterGlobe Aviation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Indigo1_04032026102149_SE_Disclosure_04032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 16:39:16",
-      "an_dt": "24-Feb-2026 16:39:16",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "InterGlobe Aviation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Indigo1_24022026163627_SE_Investor_Meet_disclosure.pdf"
     }
   ]
 }

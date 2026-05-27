@@ -8,17 +8,9 @@
   "price": 352.45,
   "market_cap_cr": 5973.24,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 390.6,
-      "prev_close": 379.65,
-      "volume": 429504,
-      "deliverable_qty": 172313,
-      "delivery_pct": 40.12
-    },
     {
       "date": "2026-02-25",
       "close": 391.75,
@@ -442,9 +434,24 @@
       "volume": 199531,
       "deliverable_qty": 95304,
       "delivery_pct": 47.76
+    },
+    {
+      "date": "2026-05-26",
+      "close": 364.1,
+      "prev_close": 365.5,
+      "volume": 137721,
+      "deliverable_qty": 59747,
+      "delivery_pct": 43.38
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 18:37:36",
+      "an_dt": "26-May-2026 18:37:36",
+      "desc": "Updates",
+      "sm_name": "CSB Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CSBBANK_26052026183536_BSENSEAuditorsAppointmentRBIApproval26052026f.pdf"
+    },
     {
       "sort_date": "2026-05-22 15:07:05",
       "an_dt": "22-May-2026 15:07:05",

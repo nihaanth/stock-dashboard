@@ -8,17 +8,9 @@
   "price": 921.65,
   "market_cap_cr": 10969.49,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 865.55,
-      "prev_close": 877.35,
-      "volume": 82545,
-      "deliverable_qty": 37143,
-      "delivery_pct": 45.0
-    },
     {
       "date": "2026-02-25",
       "close": 871.2,
@@ -442,9 +434,24 @@
       "volume": 220584,
       "deliverable_qty": 105618,
       "delivery_pct": 47.88
+    },
+    {
+      "date": "2026-05-26",
+      "close": 894.9,
+      "prev_close": 885.45,
+      "volume": 342470,
+      "deliverable_qty": 145920,
+      "delivery_pct": 42.61
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 15:05:41",
+      "an_dt": "26-May-2026 15:05:41",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Action Construction Equipment Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACE_26052026150531_Transcript_Concall_21052026ff.pdf"
+    },
     {
       "sort_date": "2026-05-22 12:10:50",
       "an_dt": "22-May-2026 12:10:50",
@@ -549,13 +556,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Action Construction Equipment Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACE_02032026173912_Investor_Meet_02032026_final_upload.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 14:30:18",
-      "an_dt": "24-Feb-2026 14:30:18",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Action Construction Equipment Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACE_24022026143008_Investor_Meet.pdf"
     }
   ]
 }

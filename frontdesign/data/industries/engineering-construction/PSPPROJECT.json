@@ -8,17 +8,9 @@
   "price": 818.0,
   "market_cap_cr": 3242.7,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 742.2,
-      "prev_close": 764.4,
-      "volume": 27460,
-      "deliverable_qty": 15987,
-      "delivery_pct": 58.22
-    },
     {
       "date": "2026-02-25",
       "close": 751.1,
@@ -442,9 +434,24 @@
       "volume": 65620,
       "deliverable_qty": 35151,
       "delivery_pct": 53.57
+    },
+    {
+      "date": "2026-05-26",
+      "close": 836.05,
+      "prev_close": 772.45,
+      "volume": 278446,
+      "deliverable_qty": 115146,
+      "delivery_pct": 41.35
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 13:26:17",
+      "an_dt": "26-May-2026 13:26:17",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "PSP Projects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PSPPROJECT_26052026132545_20260526_Pre-AGM_Newspaper_Advertisement_12.pdf"
+    },
     {
       "sort_date": "2026-05-20 09:51:56",
       "an_dt": "20-May-2026 09:51:56",

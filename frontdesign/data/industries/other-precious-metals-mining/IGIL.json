@@ -8,17 +8,9 @@
   "price": 343.85,
   "market_cap_cr": 14859.81,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 330.0,
-      "prev_close": 333.8,
-      "volume": 300926,
-      "deliverable_qty": 152604,
-      "delivery_pct": 50.71
-    },
     {
       "date": "2026-02-25",
       "close": 332.2,
@@ -442,9 +434,24 @@
       "volume": 764133,
       "deliverable_qty": 334728,
       "delivery_pct": 43.8
+    },
+    {
+      "date": "2026-05-26",
+      "close": 381.25,
+      "prev_close": 373.9,
+      "volume": 613079,
+      "deliverable_qty": 300529,
+      "delivery_pct": 49.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 12:18:48",
+      "an_dt": "26-May-2026 12:18:48",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "International Gemological Institute Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGIINDIA_26052026121827_Investor_meet_intimation.pdf"
+    },
     {
       "sort_date": "2026-05-22 12:03:38",
       "an_dt": "22-May-2026 12:03:38",
@@ -556,20 +563,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "International Gemmological Institute (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGIINDIA_04032026173703_Investor_meet_intimation_11032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 18:51:00",
-      "an_dt": "24-Feb-2026 18:51:00",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "International Gemmological Institute (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGIINDIA_24022026185023_Investor_meet_intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 12:01:29",
-      "an_dt": "24-Feb-2026 12:01:29",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "International Gemmological Institute (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGIINDIA_24022026120055_Investor_meet_intimation.pdf"
     }
   ]
 }

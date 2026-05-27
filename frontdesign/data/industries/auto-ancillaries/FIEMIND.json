@@ -8,17 +8,9 @@
   "price": 2221.3,
   "market_cap_cr": 5846.39,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 2243.2,
-      "prev_close": 2247.6,
-      "volume": 58449,
-      "deliverable_qty": 25745,
-      "delivery_pct": 44.05
-    },
     {
       "date": "2026-02-25",
       "close": 2262.3,
@@ -442,6 +434,14 @@
       "volume": 39161,
       "deliverable_qty": 18436,
       "delivery_pct": 47.08
+    },
+    {
+      "date": "2026-05-26",
+      "close": 2251.2,
+      "prev_close": 2273.6,
+      "volume": 37048,
+      "deliverable_qty": 20670,
+      "delivery_pct": 55.79
     }
   ],
   "news": [
@@ -514,13 +514,6 @@
       "desc": "General Updates",
       "sm_name": "Fiem Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FIEMIND_25022026144142_FIEMINDPostalBallotNewspaperAdv.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 12:40:47",
-      "an_dt": "24-Feb-2026 12:40:47",
-      "desc": "Shareholders meeting",
-      "sm_name": "Fiem Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FIEMIND_24022026124021_FIEMINDPostalBallotNotice.pdf"
     }
   ]
 }

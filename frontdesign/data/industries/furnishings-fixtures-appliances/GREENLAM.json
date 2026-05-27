@@ -8,17 +8,9 @@
   "price": 228.34,
   "market_cap_cr": 5826.04,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 236.59,
-      "prev_close": 240.13,
-      "volume": 9382,
-      "deliverable_qty": 6821,
-      "delivery_pct": 72.7
-    },
     {
       "date": "2026-02-25",
       "close": 238.36,
@@ -442,9 +434,24 @@
       "volume": 5042140,
       "deliverable_qty": 619311,
       "delivery_pct": 12.28
+    },
+    {
+      "date": "2026-05-26",
+      "close": 234.13,
+      "prev_close": 250.43,
+      "volume": 506367,
+      "deliverable_qty": 171005,
+      "delivery_pct": 33.77
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 14:46:02",
+      "an_dt": "26-May-2026 14:46:02",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Greenlam Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_05052026161025_GREENLAM.pdf"
+    },
     {
       "sort_date": "2026-05-25 16:57:02",
       "an_dt": "25-May-2026 16:57:02",

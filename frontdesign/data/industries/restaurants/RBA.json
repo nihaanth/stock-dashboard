@@ -8,17 +8,9 @@
   "price": 62.57,
   "market_cap_cr": 3647.06,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 63.6,
-      "prev_close": 64.27,
-      "volume": 3848123,
-      "deliverable_qty": 3184217,
-      "delivery_pct": 82.75
-    },
     {
       "date": "2026-02-25",
       "close": 63.7,
@@ -442,9 +434,31 @@
       "volume": 1004381,
       "deliverable_qty": 686476,
       "delivery_pct": 68.35
+    },
+    {
+      "date": "2026-05-26",
+      "close": 67.95,
+      "prev_close": 68.06,
+      "volume": 1893488,
+      "deliverable_qty": 1548249,
+      "delivery_pct": 81.77
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 18:05:35",
+      "an_dt": "26-May-2026 18:05:35",
+      "desc": "Updates",
+      "sm_name": "Restaurant Brands Asia Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_26052026175530_RBA.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 17:57:27",
+      "an_dt": "26-May-2026 17:57:27",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Restaurant Brands Asia Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_19052026183623_RBA.pdf"
+    },
     {
       "sort_date": "2026-05-22 11:51:44",
       "an_dt": "22-May-2026 11:51:44",

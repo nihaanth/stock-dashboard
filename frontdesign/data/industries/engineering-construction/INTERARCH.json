@@ -8,17 +8,9 @@
   "price": 2103.1,
   "market_cap_cr": 3527.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 1902.3,
-      "prev_close": 1920.8,
-      "volume": 53718,
-      "deliverable_qty": 32603,
-      "delivery_pct": 60.69
-    },
     {
       "date": "2026-02-25",
       "close": 1883.9,
@@ -442,6 +434,14 @@
       "volume": 86581,
       "deliverable_qty": 38762,
       "delivery_pct": 44.77
+    },
+    {
+      "date": "2026-05-26",
+      "close": 1805.4,
+      "prev_close": 1813.0,
+      "volume": 72556,
+      "deliverable_qty": 27406,
+      "delivery_pct": 37.77
     }
   ],
   "news": [
@@ -675,13 +675,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Interarch Building Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTERARCH1983_25022026122549_Intimation_NP_Postal_Ballot_25022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 17:04:29",
-      "an_dt": "24-Feb-2026 17:04:29",
-      "desc": "Shareholders meeting",
-      "sm_name": "Interarch Building Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTERARCH1983_24022026170415_Notice_of_Postal_Ballot_24022026.pdf"
     }
   ]
 }

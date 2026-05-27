@@ -8,17 +8,9 @@
   "price": 168.45,
   "market_cap_cr": 5466.57,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 127.5,
-      "prev_close": 128.06,
-      "volume": 473343,
-      "deliverable_qty": 222292,
-      "delivery_pct": 46.96
-    },
     {
       "date": "2026-02-25",
       "close": 130.92,
@@ -442,6 +434,14 @@
       "volume": 60716079,
       "deliverable_qty": 3604968,
       "delivery_pct": 5.94
+    },
+    {
+      "date": "2026-05-26",
+      "close": 235.57,
+      "prev_close": 232.99,
+      "volume": 37412116,
+      "deliverable_qty": 4611295,
+      "delivery_pct": 12.33
     }
   ],
   "news": [
@@ -535,13 +535,6 @@
       "desc": "Spurt in Volume",
       "sm_name": "Sun Pharma Advanced Research Company Limited",
       "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-02-24 15:00:39",
-      "an_dt": "24-Feb-2026 15:00:39",
-      "desc": "General Updates",
-      "sm_name": "Sun Pharma Advanced Research Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPARC_24022026150025_AddendumtotheValuationReport24022026.pdf"
     }
   ]
 }

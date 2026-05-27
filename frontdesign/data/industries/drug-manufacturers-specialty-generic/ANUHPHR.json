@@ -8,17 +8,9 @@
   "price": 82.68,
   "market_cap_cr": 828.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 75.58,
-      "prev_close": 73.67,
-      "volume": 67113,
-      "deliverable_qty": 49415,
-      "delivery_pct": 73.63
-    },
     {
       "date": "2026-02-25",
       "close": 76.0,
@@ -442,9 +434,24 @@
       "volume": 22246,
       "deliverable_qty": 15408,
       "delivery_pct": 69.26
+    },
+    {
+      "date": "2026-05-26",
+      "close": 76.47,
+      "prev_close": 76.29,
+      "volume": 34265,
+      "deliverable_qty": 22732,
+      "delivery_pct": 66.34
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 13:06:04",
+      "an_dt": "26-May-2026 13:06:04",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Anuh Pharma Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_05052026133053_23.pdf"
+    },
     {
       "sort_date": "2026-05-25 23:31:43",
       "an_dt": "25-May-2026 23:31:43",

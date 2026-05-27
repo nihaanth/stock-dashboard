@@ -8,17 +8,9 @@
   "price": 2565.8,
   "market_cap_cr": 103499.24,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 2256.4,
-      "prev_close": 2280.8,
-      "volume": 729152,
-      "deliverable_qty": 225042,
-      "delivery_pct": 30.86
-    },
     {
       "date": "2026-02-25",
       "close": 2237.8,
@@ -442,9 +434,24 @@
       "volume": 810730,
       "deliverable_qty": 310295,
       "delivery_pct": 38.27
+    },
+    {
+      "date": "2026-05-26",
+      "close": 2460.1,
+      "prev_close": 2470.2,
+      "volume": 609775,
+      "deliverable_qty": 183751,
+      "delivery_pct": 30.13
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 14:52:31",
+      "an_dt": "26-May-2026 14:52:31",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Mazagon Dock Shipbuilders Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_05052026164344_MAZDOCK.pdf"
+    },
     {
       "sort_date": "2026-05-12 11:01:53",
       "an_dt": "12-May-2026 11:01:53",

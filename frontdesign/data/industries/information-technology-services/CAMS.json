@@ -8,17 +8,9 @@
   "price": 815.7,
   "market_cap_cr": 20228.1,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 709.2,
-      "prev_close": 718.0,
-      "volume": 624360,
-      "deliverable_qty": 325674,
-      "delivery_pct": 52.16
-    },
     {
       "date": "2026-02-25",
       "close": 713.75,
@@ -442,9 +434,31 @@
       "volume": 1904876,
       "deliverable_qty": 1007095,
       "delivery_pct": 52.87
+    },
+    {
+      "date": "2026-05-26",
+      "close": 773.15,
+      "prev_close": 769.65,
+      "volume": 995179,
+      "deliverable_qty": 349948,
+      "delivery_pct": 35.16
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 18:33:16",
+      "an_dt": "26-May-2026 18:33:16",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Computer Age Management Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Jaiganesh_26052026183305_Analyst_Investor_Call_Filing.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 15:40:13",
+      "an_dt": "26-May-2026 15:40:13",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Computer Age Management Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Jaiganesh_26052026154003_Analyst_Investor_Call_Filing.pdf"
+    },
     {
       "sort_date": "2026-05-21 17:21:09",
       "an_dt": "21-May-2026 17:21:09",
@@ -626,20 +640,6 @@
       "desc": "Press Release",
       "sm_name": "Computer Age Management Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Jaiganesh_25022026164318_CAMS_Press_Release.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 20:09:38",
-      "an_dt": "24-Feb-2026 20:09:38",
-      "desc": "Press Release",
-      "sm_name": "Computer Age Management Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Jaiganesh_24022026200854_CAMS_Press_Release_NPS_Vatsalya.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 17:39:25",
-      "an_dt": "24-Feb-2026 17:39:25",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Computer Age Management Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Jaiganesh_24022026173909_Analyst_Investor_call_filing_24022026.pdf"
     }
   ]
 }

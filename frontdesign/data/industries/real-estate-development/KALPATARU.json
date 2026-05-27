@@ -8,17 +8,9 @@
   "price": 302.8,
   "market_cap_cr": 6235.08,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 337.0,
-      "prev_close": 339.0,
-      "volume": 312616,
-      "deliverable_qty": 299147,
-      "delivery_pct": 95.69
-    },
     {
       "date": "2026-02-25",
       "close": 335.45,
@@ -442,6 +434,14 @@
       "volume": 160873,
       "deliverable_qty": 61189,
       "delivery_pct": 38.04
+    },
+    {
+      "date": "2026-05-26",
+      "close": 333.8,
+      "prev_close": 337.85,
+      "volume": 27831,
+      "deliverable_qty": 16939,
+      "delivery_pct": 60.86
     }
   ],
   "news": [
@@ -605,13 +605,6 @@
       "desc": "Giving guarantees/indemnity/ becoming a surety for third party",
       "sm_name": "Kalpataru Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IMREVATINAIR_12032026201204_Issue_of_CG_to_Subsidiary.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 12:10:51",
-      "an_dt": "24-Feb-2026 12:10:51",
-      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-      "sm_name": "Kalpataru Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IMREVATINAIR_24022026121030_Reg_30_Disclosure_GST_Order_from_Appeal_to_Ananta_Landmarks.pdf"
     }
   ]
 }

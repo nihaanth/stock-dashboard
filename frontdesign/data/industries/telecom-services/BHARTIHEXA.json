@@ -8,17 +8,9 @@
   "price": 1464.7,
   "market_cap_cr": 73235.0,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 1653.7,
-      "prev_close": 1697.8,
-      "volume": 53184,
-      "deliverable_qty": 30227,
-      "delivery_pct": 56.83
-    },
     {
       "date": "2026-02-25",
       "close": 1656.2,
@@ -442,9 +434,24 @@
       "volume": 42966,
       "deliverable_qty": 24805,
       "delivery_pct": 57.73
+    },
+    {
+      "date": "2026-05-26",
+      "close": 1558.0,
+      "prev_close": 1547.7,
+      "volume": 51938,
+      "deliverable_qty": 28876,
+      "delivery_pct": 55.6
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 21:19:09",
+      "an_dt": "26-May-2026 21:19:09",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Bharti Hexacom Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HexacomApril20_26052026211123_BHL_Investor_meet_STX_intimation.pdf"
+    },
     {
       "sort_date": "2026-05-20 20:16:35",
       "an_dt": "20-May-2026 20:16:35",

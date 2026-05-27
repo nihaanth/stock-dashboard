@@ -8,17 +8,9 @@
   "price": 2027.1,
   "market_cap_cr": 2216.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 1717.6,
-      "prev_close": 1700.4,
-      "volume": 21516,
-      "deliverable_qty": 10008,
-      "delivery_pct": 46.51
-    },
     {
       "date": "2026-02-25",
       "close": 1678.5,
@@ -442,9 +434,24 @@
       "volume": 51104,
       "deliverable_qty": 25419,
       "delivery_pct": 49.74
+    },
+    {
+      "date": "2026-05-26",
+      "close": 2074.0,
+      "prev_close": 2103.0,
+      "volume": 51781,
+      "deliverable_qty": 26263,
+      "delivery_pct": 50.72
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 19:25:10",
+      "an_dt": "26-May-2026 19:25:10",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Advait Energy Transitions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_26052026192407_AETL_Earnings_call_s.pdf"
+    },
     {
       "sort_date": "2026-05-19 18:33:22",
       "an_dt": "19-May-2026 18:33:22",

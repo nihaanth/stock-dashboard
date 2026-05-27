@@ -8,17 +8,9 @@
   "price": 207.82,
   "market_cap_cr": 1060.38,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 201.21,
-      "prev_close": 202.45,
-      "volume": 41836,
-      "deliverable_qty": 9124,
-      "delivery_pct": 21.81
-    },
     {
       "date": "2026-02-25",
       "close": 201.1,
@@ -442,6 +434,14 @@
       "volume": 70055,
       "deliverable_qty": 65757,
       "delivery_pct": 93.86
+    },
+    {
+      "date": "2026-05-26",
+      "close": 201.0,
+      "prev_close": 201.04,
+      "volume": 15581,
+      "deliverable_qty": 12931,
+      "delivery_pct": 82.99
     }
   ],
   "news": [
@@ -647,13 +647,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Abans Financial Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AHL_25022026165943_Intimation_Newsp_ad_Postal_Ballot_Notice.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 20:16:15",
-      "an_dt": "24-Feb-2026 20:16:15",
-      "desc": "Shareholders meeting",
-      "sm_name": "Abans Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AHL_24022026201543_Intimation_Postal_Ballot_Notice.pdf"
     }
   ]
 }

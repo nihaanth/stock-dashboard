@@ -8,17 +8,9 @@
   "price": 1872.7,
   "market_cap_cr": 449323.41,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 1731.8,
-      "prev_close": 1732.3,
-      "volume": 2769363,
-      "deliverable_qty": 1589962,
-      "delivery_pct": 57.41
-    },
     {
       "date": "2026-02-25",
       "close": 1764.2,
@@ -442,9 +434,31 @@
       "volume": 3049028,
       "deliverable_qty": 1563607,
       "delivery_pct": 51.28
+    },
+    {
+      "date": "2026-05-26",
+      "close": 1840.8,
+      "prev_close": 1840.6,
+      "volume": 2337759,
+      "deliverable_qty": 1337826,
+      "delivery_pct": 57.23
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 21:16:28",
+      "an_dt": "26-May-2026 21:16:28",
+      "desc": "General Updates",
+      "sm_name": "Sun Pharmaceutical Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNSEC_26052026211518_SE_Intimation_about_filing_appplication_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 18:24:09",
+      "an_dt": "26-May-2026 18:24:09",
+      "desc": "Press Release",
+      "sm_name": "Sun Pharmaceutical Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNSEC_26052026182237_SEintimationPRforASCO.pdf"
+    },
     {
       "sort_date": "2026-05-25 14:15:01",
       "an_dt": "25-May-2026 14:15:01",
@@ -689,13 +703,6 @@
       "desc": "Press Release",
       "sm_name": "Sun Pharmaceutical Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNSEC_16032026162216_SEIntimationforPRforILUMYA.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 15:42:17",
-      "an_dt": "24-Feb-2026 15:42:17",
-      "desc": "Investor Presentation",
-      "sm_name": "Sun Pharmaceutical Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNPHARMA456_24022026154119_IntimationSE20260224_Investor_Presenatation_Feb_2026_Signed.pdf"
     }
   ]
 }

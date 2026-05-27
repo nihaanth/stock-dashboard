@@ -8,17 +8,9 @@
   "price": 591.4,
   "market_cap_cr": 11412.69,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 564.75,
-      "prev_close": 554.65,
-      "volume": 3540765,
-      "deliverable_qty": 934466,
-      "delivery_pct": 26.39
-    },
     {
       "date": "2026-02-25",
       "close": 578.85,
@@ -442,6 +434,14 @@
       "volume": 979417,
       "deliverable_qty": 360961,
       "delivery_pct": 36.85
+    },
+    {
+      "date": "2026-05-26",
+      "close": 587.2,
+      "prev_close": 584.55,
+      "volume": 880327,
+      "deliverable_qty": 360260,
+      "delivery_pct": 40.92
     }
   ],
   "news": [
@@ -717,20 +717,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "HEG Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEG_05032026164802_Investorsmeet11032026S.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 15:42:21",
-      "an_dt": "24-Feb-2026 15:42:21",
-      "desc": "General Updates",
-      "sm_name": "HEG Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEG_24022026154140_Stxintimation240226_PR01.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 15:42:21",
-      "an_dt": "24-Feb-2026 15:42:21",
-      "desc": "Press Release",
-      "sm_name": "HEG Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEG_24022026154050_Stxintimation240226_PR01.pdf"
     }
   ]
 }

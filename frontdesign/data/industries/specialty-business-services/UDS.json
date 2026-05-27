@@ -8,17 +8,9 @@
   "price": 173.13,
   "market_cap_cr": 1169.25,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 154.23,
-      "prev_close": 160.25,
-      "volume": 127661,
-      "deliverable_qty": 70378,
-      "delivery_pct": 55.13
-    },
     {
       "date": "2026-02-25",
       "close": 163.71,
@@ -442,9 +434,24 @@
       "volume": 442790,
       "deliverable_qty": 240825,
       "delivery_pct": 54.39
+    },
+    {
+      "date": "2026-05-26",
+      "close": 181.52,
+      "prev_close": 179.79,
+      "volume": 872684,
+      "deliverable_qty": 352214,
+      "delivery_pct": 40.36
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 15:40:05",
+      "an_dt": "26-May-2026 15:40:05",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Updater Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COMPLIANCEOFFICERUDS_26052026153933_Reg_47_Postal_Ballot_Notice_Newspaper_Intimation_Sd.pdf"
+    },
     {
       "sort_date": "2026-05-25 22:07:26",
       "an_dt": "25-May-2026 22:07:26",

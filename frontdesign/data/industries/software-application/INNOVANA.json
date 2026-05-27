@@ -8,17 +8,9 @@
   "price": 389.95,
   "market_cap_cr": 805.64,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 423.9,
-      "prev_close": 422.4,
-      "volume": 1471,
-      "deliverable_qty": 1090,
-      "delivery_pct": 74.1
-    },
     {
       "date": "2026-02-25",
       "close": 437.3,
@@ -442,9 +434,24 @@
       "volume": 15849,
       "deliverable_qty": 9381,
       "delivery_pct": 59.19
+    },
+    {
+      "date": "2026-05-26",
+      "close": 347.45,
+      "prev_close": 350.0,
+      "volume": 3548,
+      "deliverable_qty": 2313,
+      "delivery_pct": 65.19
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 13:01:57",
+      "an_dt": "26-May-2026 13:01:57",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Innovana Thinklabs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_14052026111252_Reg.pdf"
+    },
     {
       "sort_date": "2026-05-22 12:24:16",
       "an_dt": "22-May-2026 12:24:16",

@@ -8,17 +8,9 @@
   "price": 1023.5,
   "market_cap_cr": 228870.27,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 922.85,
-      "prev_close": 916.2,
-      "volume": 5179022,
-      "deliverable_qty": 2858604,
-      "delivery_pct": 55.2
-    },
     {
       "date": "2026-02-25",
       "close": 937.4,
@@ -442,9 +434,31 @@
       "volume": 7677225,
       "deliverable_qty": 3344239,
       "delivery_pct": 43.56
+    },
+    {
+      "date": "2026-05-26",
+      "close": 1103.8,
+      "prev_close": 1099.6,
+      "volume": 5880899,
+      "deliverable_qty": 3142802,
+      "delivery_pct": 53.44
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 22:32:14",
+      "an_dt": "26-May-2026 22:32:14",
+      "desc": "General Updates",
+      "sm_name": "Hindalco Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_26052026223205_Reg30_TDSCommunication_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 12:33:10",
+      "an_dt": "26-May-2026 12:33:10",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Hindalco Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_26052026123255_Q4FY26_Transcript_signed.pdf"
+    },
     {
       "sort_date": "2026-05-23 12:42:28",
       "an_dt": "23-May-2026 12:42:28",
@@ -612,20 +626,6 @@
       "desc": "Change in Management",
       "sm_name": "Hindalco Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_26022026160949_Reg30_Changes_in_SMP_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 20:20:40",
-      "an_dt": "24-Feb-2026 20:20:40",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Hindalco Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_24022026201714_Investor_Meet_Intimation_IIFL_SS_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 18:07:20",
-      "an_dt": "24-Feb-2026 18:07:20",
-      "desc": "General Updates",
-      "sm_name": "Hindalco Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_24022026180635_Novelis_8K_2402_signed.pdf"
     }
   ]
 }

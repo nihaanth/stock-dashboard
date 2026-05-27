@@ -8,17 +8,9 @@
   "price": 7178.5,
   "market_cap_cr": 25262.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 7929.5,
-      "prev_close": 7770.0,
-      "volume": 190988,
-      "deliverable_qty": 63318,
-      "delivery_pct": 33.15
-    },
     {
       "date": "2026-02-25",
       "close": 8044.5,
@@ -442,6 +434,14 @@
       "volume": 383538,
       "deliverable_qty": 119578,
       "delivery_pct": 31.18
+    },
+    {
+      "date": "2026-05-26",
+      "close": 7312.0,
+      "prev_close": 7461.5,
+      "volume": 312560,
+      "deliverable_qty": 108322,
+      "delivery_pct": 34.66
     }
   ],
   "news": [
@@ -668,13 +668,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Amber Enterprises India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMBER_25022026162635_Intimation_for_allotment_of_Equity_Shares_under_ESOP_25022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 10:42:50",
-      "an_dt": "24-Feb-2026 10:42:50",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Amber Enterprises India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMBER_24022026104147_SE_Intimation_Investor_Meet_27022026.pdf"
     }
   ]
 }

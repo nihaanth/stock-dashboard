@@ -8,17 +8,9 @@
   "price": 1142.9,
   "market_cap_cr": 1631.81,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 1219.3,
-      "prev_close": 1207.3,
-      "volume": 18334,
-      "deliverable_qty": 4870,
-      "delivery_pct": 26.56
-    },
     {
       "date": "2026-02-25",
       "close": 1194.9,
@@ -442,9 +434,24 @@
       "volume": 13950,
       "deliverable_qty": 8875,
       "delivery_pct": 63.62
+    },
+    {
+      "date": "2026-05-26",
+      "close": 1384.7,
+      "prev_close": 1397.2,
+      "volume": 19481,
+      "deliverable_qty": 15246,
+      "delivery_pct": 78.26
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 14:49:25",
+      "an_dt": "26-May-2026 14:49:25",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Rane Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RANEHOLDIN_26052026144908_RHL_SE_PaperPublication_26052026_SD.pdf"
+    },
     {
       "sort_date": "2026-05-25 20:01:57",
       "an_dt": "25-May-2026 20:01:57",
@@ -619,27 +626,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Rane Holdings Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RANEHOLDIN_11032026112313_RHL_SE_PaperPublication_11032026_SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 12:24:40",
-      "an_dt": "24-Feb-2026 12:24:40",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Rane Holdings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RANEHOLDIN_24022026122422_RHL_SE_Transcript_Feb_2026_SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 10:47:39",
-      "an_dt": "24-Feb-2026 10:47:39",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Rane Holdings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RANEHOLDIN_24022026104727_RHLSE_PBPaperpublication_Feb_2026_SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 10:38:48",
-      "an_dt": "24-Feb-2026 10:38:48",
-      "desc": "Shareholders meeting",
-      "sm_name": "Rane Holdings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RANEHOLDIN_24022026103805_RHL_SE_PB_Feb_2026_SD.pdf"
     }
   ]
 }

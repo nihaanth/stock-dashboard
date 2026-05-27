@@ -8,17 +8,9 @@
   "price": 183.39,
   "market_cap_cr": 612.53,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 179.04,
-      "prev_close": 181.87,
-      "volume": 76544,
-      "deliverable_qty": 49535,
-      "delivery_pct": 64.71
-    },
     {
       "date": "2026-02-25",
       "close": 179.23,
@@ -442,9 +434,38 @@
       "volume": 111133,
       "deliverable_qty": 80834,
       "delivery_pct": 72.74
+    },
+    {
+      "date": "2026-05-26",
+      "close": 192.18,
+      "prev_close": 199.76,
+      "volume": 99812,
+      "deliverable_qty": 58766,
+      "delivery_pct": 58.88
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 12:18:56",
+      "an_dt": "26-May-2026 12:18:56",
+      "desc": "General Updates",
+      "sm_name": "Patel Retail Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PATEL_26052026121715_PRL_Newspaper_Publication.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 12:14:50",
+      "an_dt": "26-May-2026 12:14:50",
+      "desc": "Press Release",
+      "sm_name": "Patel Retail Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PATEL_26052026121131_PRL_Press_Release.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 11:41:15",
+      "an_dt": "26-May-2026 11:41:15",
+      "desc": "Press Release",
+      "sm_name": "Patel Retail Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PATEL_26052026113544_PRL_Newspaper_Publication.pdf"
+    },
     {
       "sort_date": "2026-05-25 17:38:52",
       "an_dt": "25-May-2026 17:38:52",

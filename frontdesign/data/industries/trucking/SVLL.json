@@ -8,17 +8,9 @@
   "price": 531.8,
   "market_cap_cr": 611.23,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 553.0,
-      "prev_close": 546.55,
-      "volume": 260,
-      "deliverable_qty": 222,
-      "delivery_pct": 85.38
-    },
     {
       "date": "2026-02-25",
       "close": 543.0,
@@ -434,6 +426,14 @@
       "volume": 337,
       "deliverable_qty": 275,
       "delivery_pct": 81.6
+    },
+    {
+      "date": "2026-05-26",
+      "close": 560.05,
+      "prev_close": 558.35,
+      "volume": 1135,
+      "deliverable_qty": 886,
+      "delivery_pct": 78.06
     }
   ],
   "news": [
@@ -506,20 +506,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Shree Vasu Logistics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SVLL_26022026174323_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 16:38:06",
-      "an_dt": "24-Feb-2026 16:38:06",
-      "desc": "Resignation of Independent director",
-      "sm_name": "Shree Vasu Logistics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SVLL_ROID_79642_KMP_Doc.zip"
-    },
-    {
-      "sort_date": "2026-02-24 16:21:51",
-      "an_dt": "24-Feb-2026 16:21:51",
-      "desc": "Resignation",
-      "sm_name": "Shree Vasu Logistics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SVLL_24022026161953_Svll_Intimation.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 553.6,
   "market_cap_cr": 3610.98,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 569.0,
-      "prev_close": 582.35,
-      "volume": 133748,
-      "deliverable_qty": 77119,
-      "delivery_pct": 57.66
-    },
     {
       "date": "2026-02-25",
       "close": 566.15,
@@ -442,9 +434,24 @@
       "volume": 102163,
       "deliverable_qty": 32828,
       "delivery_pct": 32.13
+    },
+    {
+      "date": "2026-05-26",
+      "close": 596.25,
+      "prev_close": 602.85,
+      "volume": 71740,
+      "deliverable_qty": 25712,
+      "delivery_pct": 35.84
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 16:37:53",
+      "an_dt": "26-May-2026 16:37:53",
+      "desc": "Updates",
+      "sm_name": "H.G. Infra Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HGINFRA_26052026163731_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-25 21:14:24",
       "an_dt": "25-May-2026 21:14:24",
@@ -598,13 +605,6 @@
       "desc": "Action(s) taken or orders passed",
       "sm_name": "H.G. Infra Engineering Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HGINFRA_27022026131015_DisclosureCBI.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 19:39:21",
-      "an_dt": "24-Feb-2026 19:39:21",
-      "desc": "Updates",
-      "sm_name": "H.G. Infra Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HGINFRA_24022026193751_FinalIntimation.pdf"
     }
   ]
 }

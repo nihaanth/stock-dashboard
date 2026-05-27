@@ -8,17 +8,9 @@
   "price": 326.45,
   "market_cap_cr": 20415.01,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 320.45,
-      "prev_close": 323.6,
-      "volume": 183029,
-      "deliverable_qty": 119953,
-      "delivery_pct": 65.54
-    },
     {
       "date": "2026-02-25",
       "close": 318.45,
@@ -442,9 +434,38 @@
       "volume": 155806,
       "deliverable_qty": 74579,
       "delivery_pct": 47.87
+    },
+    {
+      "date": "2026-05-26",
+      "close": 319.9,
+      "prev_close": 321.05,
+      "volume": 92976,
+      "deliverable_qty": 47805,
+      "delivery_pct": 51.42
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 18:48:09",
+      "an_dt": "26-May-2026 18:48:09",
+      "desc": "Record Date",
+      "sm_name": "EIH Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIHOTEL01_26052026184722_Dividend_outcome.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 18:45:21",
+      "an_dt": "26-May-2026 18:45:21",
+      "desc": "Dividend",
+      "sm_name": "EIH Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIHOTEL01_26052026184439_Dividend_outcome.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 18:43:27",
+      "an_dt": "26-May-2026 18:43:27",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "EIH Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIHOTEL01_26052026184206_EIHQ4.pdf"
+    },
     {
       "sort_date": "2026-05-19 20:07:19",
       "an_dt": "19-May-2026 20:07:19",

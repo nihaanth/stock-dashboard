@@ -8,17 +8,9 @@
   "price": 6387.5,
   "market_cap_cr": 135356.47,
   "industry_source": "webarchive",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 6056.0,
-      "prev_close": 5917.5,
-      "volume": 782563,
-      "deliverable_qty": 256723,
-      "delivery_pct": 32.81
-    },
     {
       "date": "2026-02-25",
       "close": 6167.5,
@@ -442,9 +434,24 @@
       "volume": 263153,
       "deliverable_qty": 101916,
       "delivery_pct": 38.73
+    },
+    {
+      "date": "2026-05-26",
+      "close": 6804.0,
+      "prev_close": 6755.0,
+      "volume": 200573,
+      "deliverable_qty": 86421,
+      "delivery_pct": 43.09
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 17:11:04",
+      "an_dt": "26-May-2026 17:11:04",
+      "desc": "Shareholders meeting",
+      "sm_name": "ABB India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABB_26052026170921_Postal_ballot_Notice.pdf"
+    },
     {
       "sort_date": "2026-05-15 12:25:26",
       "an_dt": "15-May-2026 12:25:26",
@@ -577,13 +584,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "ABB India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABB_27022026191521_SETranscriptofAnalystcallQ42025.pdf"
-    },
-    {
-      "sort_date": "2026-02-24 19:07:57",
-      "an_dt": "24-Feb-2026 19:07:57",
-      "desc": "General Updates",
-      "sm_name": "ABB India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABB_24022026190747_Reg30disclosure.pdf"
     }
   ]
 }

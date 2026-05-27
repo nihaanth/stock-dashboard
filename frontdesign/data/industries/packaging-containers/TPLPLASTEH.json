@@ -8,17 +8,9 @@
   "price": 66.13,
   "market_cap_cr": 515.83,
   "industry_source": "yfinance",
-  "as_of": "2026-05-25",
+  "as_of": "2026-05-26",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-24",
-      "close": 69.78,
-      "prev_close": 71.13,
-      "volume": 109454,
-      "deliverable_qty": 19453,
-      "delivery_pct": 17.77
-    },
     {
       "date": "2026-02-25",
       "close": 68.94,
@@ -442,9 +434,38 @@
       "volume": 25223,
       "deliverable_qty": 12468,
       "delivery_pct": 49.43
+    },
+    {
+      "date": "2026-05-26",
+      "close": 65.75,
+      "prev_close": 64.58,
+      "volume": 248709,
+      "deliverable_qty": 136297,
+      "delivery_pct": 54.8
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-26 21:37:34",
+      "an_dt": "26-May-2026 21:37:34",
+      "desc": "Press Release",
+      "sm_name": "TPL Plastech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TPLPLASTEH_26052026213712_TPLpressrelease26052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 20:44:02",
+      "an_dt": "26-May-2026 20:44:02",
+      "desc": "Dividend",
+      "sm_name": "TPL Plastech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TPLPLASTEH_26052026204235_Outcome26052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-26 20:39:44",
+      "an_dt": "26-May-2026 20:39:44",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "TPL Plastech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TPLPLASTEH_26052026203114_Outcome26052026.pdf"
+    },
     {
       "sort_date": "2026-04-08 16:52:41",
       "an_dt": "08-Apr-2026 16:52:41",
