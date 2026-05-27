@@ -104,7 +104,7 @@ async function pollLive() {
   const [liveRes, afterRes, histRes] = await Promise.allSettled([
     fetch(`${LIVE_URL}?t=${bust}`, { cache: "no-store" }),
     fetch(`${AFTER_MARKET_URL}?t=${bust}`, { cache: "no-store" }),
-    fetch(`${HISTORY_URL}?t=${bust}`, { cache: "no-store" }),
+    fetch(HISTORY_URL),
   ]);
 
   let firstPoll = state.live.polledAt === null;
@@ -121,7 +121,7 @@ async function pollLive() {
       state.live.marketState = next.market_state;
       state.live.newSeqs = firstPoll ? new Set() : new Set(newSeqs);
       incomingSeqs.forEach((s) => state.live.seenSeqs.add(s));
-    } catch (e) { /* ignore parse errors */ }
+    } catch (e) { console.warn("Failed to parse _live_news.json:", e); }
   }
 
   if (afterRes.status === "fulfilled" && afterRes.value.ok) {
@@ -130,7 +130,7 @@ async function pollLive() {
       state.afterMarket.items = am.items || [];
       state.afterMarket.tradingDays = am.trading_days || [];
       state.afterMarket.updatedAt = am.updated_at || null;
-    } catch (e) { /* ignore */ }
+    } catch (e) { console.warn("Failed to parse _after_market_news.json:", e); }
   }
 
   if (histRes.status === "fulfilled" && histRes.value.ok) {
@@ -139,7 +139,7 @@ async function pollLive() {
       state.history.items = h.items || [];
       state.history.tradingDays = h.trading_days || [];
       state.history.updatedAt = h.updated_at || null;
-    } catch (e) { /* ignore */ }
+    } catch (e) { console.warn("Failed to parse _news_history.json:", e); }
   }
 
   renderLiveTicker();
@@ -197,6 +197,15 @@ function startLivePolling() {
   if (livePollTimer) return;
   pollLive();
   livePollTimer = setInterval(pollLive, LIVE_POLL_MS);
+  document.addEventListener("visibilitychange", () => {
+    if (document.hidden) {
+      clearInterval(livePollTimer);
+      livePollTimer = null;
+    } else if (!livePollTimer) {
+      pollLive();
+      livePollTimer = setInterval(pollLive, LIVE_POLL_MS);
+    }
+  });
 }
 
 function renderNewsPage() {
@@ -767,7 +776,7 @@ function newsRowHTML(it, opts = {}) {
       </div>
       <div class="news-row__action">
         ${it.attchmntFile
-          ? `<a class="news-row__pdf" href="${esc(it.attchmntFile)}" target="_blank" rel="noopener noreferrer">Open PDF →</a>`
+          ? `<a class="news-row__pdf" href="${esc(safeUrl(it.attchmntFile))}" target="_blank" rel="noopener noreferrer">Open PDF →</a>`
           : `<span class="muted">no attachment</span>`}
       </div>
     </li>`;
@@ -795,7 +804,7 @@ function renderLiveTicker() {
           <span class="live-ticker__desc">${esc(it.desc || "Announcement")}</span>
         </a>
         ${it.attchmntFile
-          ? `<a class="live-ticker__pdf" href="${esc(it.attchmntFile)}" target="_blank" rel="noopener noreferrer">PDF</a>`
+          ? `<a class="live-ticker__pdf" href="${esc(safeUrl(it.attchmntFile))}" target="_blank" rel="noopener noreferrer">PDF</a>`
           : ""}
       </li>`;
   }).join("");
@@ -853,14 +862,17 @@ async function fetchJSON(path) {
 }
 
 function initTheme() {
-  const saved = localStorage.getItem("sb-theme") || "light";
+  let saved;
+  try {
+    saved = localStorage.getItem("sb-theme") || "light";
+  } catch { saved = "light"; }
   document.documentElement.dataset.theme = saved;
   const btn = document.getElementById("themeToggle");
   if (!btn) return;
   btn.addEventListener("click", () => {
     const next = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
     document.documentElement.dataset.theme = next;
-    localStorage.setItem("sb-theme", next);
+    try { localStorage.setItem("sb-theme", next); } catch { }
   });
 }
 
@@ -1350,7 +1362,7 @@ function renderNewsFeed(news) {
             <span class="news-desc">${esc(n.desc || "Announcement")}</span>
           </div>
           ${n.attchmntFile
-            ? `<a class="news-link" href="${esc(n.attchmntFile)}" target="_blank" rel="noopener noreferrer">Open PDF →</a>`
+            ? `<a class="news-link" href="${esc(safeUrl(n.attchmntFile))}" target="_blank" rel="noopener noreferrer">Open PDF →</a>`
             : `<span class="muted">no attachment</span>`}
         </li>`;
       }).join("")}
@@ -1361,6 +1373,13 @@ function renderNewsFeed(news) {
 function esc(s) {
   return String(s ?? "").replace(/[&<>"']/g, (c) =>
     ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+
+function safeUrl(u) {
+  try {
+    const url = new URL(u, location.href);
+    return url.protocol === "https:" || url.protocol === "http:" ? url.href : "#";
+  } catch { return "#"; }
 }
 
 init();

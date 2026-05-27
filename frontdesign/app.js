@@ -90,20 +90,30 @@ async function fetchJSON(path) {
   return r.json();
 }
 
+function safeUrl(u) {
+  try {
+    const url = new URL(u, location.href);
+    return url.protocol === "https:" || url.protocol === "http:" ? url.href : "#";
+  } catch { return "#"; }
+}
+
 function showError(msg) {
   document.body.innerHTML = `<pre style="padding:24px;color:#ef4444">${esc(msg)}</pre>`;
 }
 
 // ---------- theme ----------
 function initTheme() {
-  const saved = localStorage.getItem("sb-theme") || "light";
+  let saved;
+  try {
+    saved = localStorage.getItem("sb-theme") || "light";
+  } catch { saved = "light"; }
   document.documentElement.dataset.theme = saved;
   const btn = document.getElementById("themeToggle");
   if (!btn) return;
   btn.addEventListener("click", () => {
     const next = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
     document.documentElement.dataset.theme = next;
-    localStorage.setItem("sb-theme", next);
+    try { localStorage.setItem("sb-theme", next); } catch { }
   });
 }
 
@@ -295,8 +305,8 @@ function renderSummaryCards(s, mode) {
     { label: "Correct", value: s.correct != null ? s.correct : "—", cls: s.correct ? "card--good" : "" },
     { label: "Accuracy", value: s.accuracy_pct != null ? `${s.accuracy_pct.toFixed(1)}%` : (mode === "forecast" ? "pending" : "—") },
     { label: "Avg move", value: s.avg_move_pct != null ? PCT.format(s.avg_move_pct) + "%" : "—" },
-    { label: "Best", value: s.best ? s.best.ticker : "—", sub: s.best ? PCT.format(s.best.pct) + "%" : "", cls: "card--good" },
-    { label: "Worst", value: s.worst ? s.worst.ticker : "—", sub: s.worst ? PCT.format(s.worst.pct) + "%" : "", cls: "card--bad" },
+    { label: "Best", value: s.best ? esc(s.best.ticker) : "—", sub: s.best ? PCT.format(s.best.pct) + "%" : "", cls: "card--good" },
+    { label: "Worst", value: s.worst ? esc(s.worst.ticker) : "—", sub: s.worst ? PCT.format(s.worst.pct) + "%" : "", cls: "card--bad" },
   ];
   document.getElementById("summaryCards").innerHTML = cards
     .map((c) => `
@@ -387,7 +397,7 @@ function renderNews(pdfs) {
   const items = pdfs.map((p) => `
     <li>
       <span class="news-date">${esc(p.date || "")}</span>
-      <a class="news-link" href="${esc(p.url)}" target="_blank" rel="noopener noreferrer">${esc(p.title || "PDF")}</a>
+      <a class="news-link" href="${esc(safeUrl(p.url))}" target="_blank" rel="noopener noreferrer">${esc(p.title || "PDF")}</a>
       ${p.size ? `<span class="news-size">${esc(p.size)}</span>` : ""}
       ${p.blurb ? `<div class="news-blurb">${esc(p.blurb)}</div>` : ""}
     </li>
