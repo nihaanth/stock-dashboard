@@ -8,25 +8,9 @@
   "price": 4090.0,
   "market_cap_cr": 29910.17,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 4538.8,
-      "prev_close": 4508.0,
-      "volume": 19107,
-      "deliverable_qty": 8377,
-      "delivery_pct": 43.84
-    },
-    {
-      "date": "2026-02-26",
-      "close": 4487.0,
-      "prev_close": 4538.8,
-      "volume": 23033,
-      "deliverable_qty": 14196,
-      "delivery_pct": 61.63
-    },
     {
       "date": "2026-02-27",
       "close": 4376.4,
@@ -442,9 +426,24 @@
       "volume": 32110,
       "deliverable_qty": 17159,
       "delivery_pct": 53.44
+    },
+    {
+      "date": "2026-05-27",
+      "close": 3987.3,
+      "prev_close": 4015.7,
+      "volume": 34579,
+      "deliverable_qty": 22624,
+      "delivery_pct": 65.43
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 10:22:57",
+      "an_dt": "27-May-2026 10:22:57",
+      "desc": "Resignation",
+      "sm_name": "CRISIL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRISIL_27052026102126_Resignation_Disclosure_-_Saugata_Saha_signed.pdf"
+    },
     {
       "sort_date": "2026-05-22 15:12:41",
       "an_dt": "22-May-2026 15:12:41",

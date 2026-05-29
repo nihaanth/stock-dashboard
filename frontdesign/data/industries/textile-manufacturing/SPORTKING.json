@@ -8,25 +8,9 @@
   "price": 149.86,
   "market_cap_cr": 1907.28,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 116.15,
-      "prev_close": 114.22,
-      "volume": 120002,
-      "deliverable_qty": 84820,
-      "delivery_pct": 70.68
-    },
-    {
-      "date": "2026-02-26",
-      "close": 116.33,
-      "prev_close": 116.15,
-      "volume": 153148,
-      "deliverable_qty": 84909,
-      "delivery_pct": 55.44
-    },
     {
       "date": "2026-02-27",
       "close": 115.5,
@@ -442,9 +426,31 @@
       "volume": 1531179,
       "deliverable_qty": 676436,
       "delivery_pct": 44.18
+    },
+    {
+      "date": "2026-05-27",
+      "close": 179.38,
+      "prev_close": 178.77,
+      "volume": 812795,
+      "deliverable_qty": 358295,
+      "delivery_pct": 44.08
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 14:34:35",
+      "an_dt": "28-May-2026 14:34:35",
+      "desc": "Price movement",
+      "sm_name": "Sportking India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPORTKING_28052026143231_Letter_to_Stock_Exchange.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 18:41:18",
+      "an_dt": "27-May-2026 18:41:18",
+      "desc": "Price movement",
+      "sm_name": "Sportking India Limited",
+      "attchmntFile": "-"
+    },
     {
       "sort_date": "2026-05-25 14:41:59",
       "an_dt": "25-May-2026 14:41:59",

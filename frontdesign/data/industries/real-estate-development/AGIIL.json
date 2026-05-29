@@ -8,25 +8,9 @@
   "price": 380.3,
   "market_cap_cr": 4753.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 307.35,
-      "prev_close": 294.2,
-      "volume": 2936941,
-      "deliverable_qty": 608725,
-      "delivery_pct": 20.73
-    },
-    {
-      "date": "2026-02-26",
-      "close": 308.95,
-      "prev_close": 307.35,
-      "volume": 1619620,
-      "deliverable_qty": 238587,
-      "delivery_pct": 14.73
-    },
     {
       "date": "2026-02-27",
       "close": 305.75,
@@ -442,9 +426,31 @@
       "volume": 3119844,
       "deliverable_qty": 1318313,
       "delivery_pct": 42.26
+    },
+    {
+      "date": "2026-05-27",
+      "close": 365.0,
+      "prev_close": 364.1,
+      "volume": 2567867,
+      "deliverable_qty": 1338050,
+      "delivery_pct": 52.11
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 12:29:02",
+      "an_dt": "27-May-2026 12:29:02",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Agi Infra Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AGIINFRA_27052026122714_NewspaperCuttings.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 11:54:49",
+      "an_dt": "27-May-2026 11:54:49",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Agi Infra Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AGIINFRA_27052026115327_NewspaperCuttings.pdf"
+    },
     {
       "sort_date": "2026-05-25 12:19:43",
       "an_dt": "25-May-2026 12:19:43",

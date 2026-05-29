@@ -8,25 +8,9 @@
   "price": 189.37,
   "market_cap_cr": 12400.97,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 143.04,
-      "prev_close": 142.61,
-      "volume": 445267,
-      "deliverable_qty": 208461,
-      "delivery_pct": 46.82
-    },
-    {
-      "date": "2026-02-26",
-      "close": 142.28,
-      "prev_close": 143.04,
-      "volume": 362127,
-      "deliverable_qty": 158081,
-      "delivery_pct": 43.65
-    },
     {
       "date": "2026-02-27",
       "close": 141.51,
@@ -442,9 +426,24 @@
       "volume": 2226235,
       "deliverable_qty": 813270,
       "delivery_pct": 36.53
+    },
+    {
+      "date": "2026-05-27",
+      "close": 190.47,
+      "prev_close": 211.63,
+      "volume": 5882661,
+      "deliverable_qty": 2084299,
+      "delivery_pct": 35.43
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 10:48:22",
+      "an_dt": "27-May-2026 10:48:22",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Aequs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_27052026104756_Submission_of_Newspaper_publication.pdf"
+    },
     {
       "sort_date": "2026-05-26 19:47:11",
       "an_dt": "26-May-2026 19:47:11",
@@ -661,27 +660,6 @@
       "desc": "General Updates",
       "sm_name": "Aequs Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_27022026144257_Intimation_for_execution_of_letter_of_subscription.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 11:55:46",
-      "an_dt": "26-Feb-2026 11:55:46",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Aequs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_26022026115531_Intimation_for_Newspaper_Advertisements_Postal_Ballot.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 23:52:39",
-      "an_dt": "25-Feb-2026 23:52:39",
-      "desc": "Shareholders meeting",
-      "sm_name": "Aequs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_25022026235158_Intimation_Stock_Exchange_Postal_Ballot_Notice.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 23:14:51",
-      "an_dt": "25-Feb-2026 23:14:51",
-      "desc": "Shareholders meeting",
-      "sm_name": "Aequs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_25022026231308_Intimation_Stock_Exchange_Postal_Ballot_Notice.pdf"
     }
   ]
 }

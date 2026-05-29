@@ -8,25 +8,9 @@
   "price": 567.75,
   "market_cap_cr": 22374.15,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 603.85,
-      "prev_close": 588.65,
-      "volume": 284335,
-      "deliverable_qty": 181422,
-      "delivery_pct": 63.81
-    },
-    {
-      "date": "2026-02-26",
-      "close": 611.4,
-      "prev_close": 603.85,
-      "volume": 181100,
-      "deliverable_qty": 70019,
-      "delivery_pct": 38.66
-    },
     {
       "date": "2026-02-27",
       "close": 647.65,
@@ -442,6 +426,14 @@
       "volume": 823727,
       "deliverable_qty": 496207,
       "delivery_pct": 60.24
+    },
+    {
+      "date": "2026-05-27",
+      "close": 512.9,
+      "prev_close": 493.2,
+      "volume": 2123874,
+      "deliverable_qty": 1015903,
+      "delivery_pct": 47.83
     }
   ],
   "news": [
@@ -500,13 +492,6 @@
       "desc": "Record Date",
       "sm_name": "Sun TV Network Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNTV1_03032026151110_Record_date_Intimation_to_SE_03032026_SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 17:06:38",
-      "an_dt": "26-Feb-2026 17:06:38",
-      "desc": "Trading Window",
-      "sm_name": "Sun TV Network Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNTV1_26022026170604_BMIntimation06032026.pdf"
     }
   ]
 }

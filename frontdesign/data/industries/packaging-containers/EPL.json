@@ -8,25 +8,9 @@
   "price": 236.75,
   "market_cap_cr": 7581.93,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 215.84,
-      "prev_close": 215.07,
-      "volume": 155905,
-      "deliverable_qty": 79594,
-      "delivery_pct": 51.05
-    },
-    {
-      "date": "2026-02-26",
-      "close": 217.4,
-      "prev_close": 215.84,
-      "volume": 307587,
-      "deliverable_qty": 162816,
-      "delivery_pct": 52.93
-    },
     {
       "date": "2026-02-27",
       "close": 217.07,
@@ -442,9 +426,24 @@
       "volume": 357039,
       "deliverable_qty": 193859,
       "delivery_pct": 54.3
+    },
+    {
+      "date": "2026-05-27",
+      "close": 215.39,
+      "prev_close": 219.1,
+      "volume": 160865,
+      "deliverable_qty": 86742,
+      "delivery_pct": 53.92
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 17:31:08",
+      "an_dt": "27-May-2026 17:31:08",
+      "desc": "Granting/withdrawal/surrender/cancellation/suspension of key licenses/ regulatory approvals",
+      "sm_name": "EPL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Sonia_Gupte_27052026173026_SEintimationCCIapprovalFinalSd.pdf"
+    },
     {
       "sort_date": "2026-05-20 18:36:55",
       "an_dt": "20-May-2026 18:36:55",

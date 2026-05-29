@@ -8,25 +8,9 @@
   "price": 68.0,
   "market_cap_cr": 1074.33,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 67.7,
-      "prev_close": 64.09,
-      "volume": 158152,
-      "deliverable_qty": 110290,
-      "delivery_pct": 69.74
-    },
-    {
-      "date": "2026-02-26",
-      "close": 67.75,
-      "prev_close": 67.7,
-      "volume": 250188,
-      "deliverable_qty": 145952,
-      "delivery_pct": 58.34
-    },
     {
       "date": "2026-02-27",
       "close": 68.03,
@@ -442,9 +426,24 @@
       "volume": 1215670,
       "deliverable_qty": 1106499,
       "delivery_pct": 91.02
+    },
+    {
+      "date": "2026-05-27",
+      "close": 64.04,
+      "prev_close": 64.2,
+      "volume": 38188,
+      "deliverable_qty": 20227,
+      "delivery_pct": 52.97
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 11:17:31",
+      "an_dt": "27-May-2026 11:17:31",
+      "desc": "Updates",
+      "sm_name": "Oricon Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORICON_27052026111602_Reg31A8ReceiptofRequestLettersDisclosuresign.pdf"
+    },
     {
       "sort_date": "2026-04-13 14:53:58",
       "an_dt": "13-Apr-2026 14:53:58",

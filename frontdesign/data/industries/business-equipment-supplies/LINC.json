@@ -8,25 +8,9 @@
   "price": 98.62,
   "market_cap_cr": 586.84,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 109.26,
-      "prev_close": 109.72,
-      "volume": 11542,
-      "deliverable_qty": 8073,
-      "delivery_pct": 69.94
-    },
-    {
-      "date": "2026-02-26",
-      "close": 108.31,
-      "prev_close": 109.26,
-      "volume": 8609,
-      "deliverable_qty": 6777,
-      "delivery_pct": 78.72
-    },
     {
       "date": "2026-02-27",
       "close": 107.37,
@@ -442,9 +426,38 @@
       "volume": 24618,
       "deliverable_qty": 13789,
       "delivery_pct": 56.01
+    },
+    {
+      "date": "2026-05-27",
+      "close": 98.13,
+      "prev_close": 100.88,
+      "volume": 86610,
+      "deliverable_qty": 44790,
+      "delivery_pct": 51.71
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 19:06:12",
+      "an_dt": "27-May-2026 19:06:12",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Linc Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIPANKARDE_27052026190515_Earnings_Call_Audio_Link_S.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 16:11:54",
+      "an_dt": "27-May-2026 16:11:54",
+      "desc": "Updates",
+      "sm_name": "Linc Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIPANKARDE_27052026161039_Strategy_Presentation_H2_2526_S.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 16:02:49",
+      "an_dt": "27-May-2026 16:02:49",
+      "desc": "Investor Presentation",
+      "sm_name": "Linc Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIPANKARDE_27052026160229_Earnings_Presentation_Q4_2526_S.pdf"
+    },
     {
       "sort_date": "2026-05-26 21:20:33",
       "an_dt": "26-May-2026 21:20:33",

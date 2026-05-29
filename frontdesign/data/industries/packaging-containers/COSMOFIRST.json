@@ -8,25 +8,9 @@
   "price": 779.5,
   "market_cap_cr": 2023.44,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 700.25,
-      "prev_close": 653.1,
-      "volume": 917241,
-      "deliverable_qty": 134240,
-      "delivery_pct": 14.64
-    },
-    {
-      "date": "2026-02-26",
-      "close": 704.65,
-      "prev_close": 700.25,
-      "volume": 89828,
-      "deliverable_qty": 45147,
-      "delivery_pct": 50.26
-    },
     {
       "date": "2026-02-27",
       "close": 711.35,
@@ -442,9 +426,31 @@
       "volume": 108397,
       "deliverable_qty": 52601,
       "delivery_pct": 48.53
+    },
+    {
+      "date": "2026-05-27",
+      "close": 748.15,
+      "prev_close": 771.85,
+      "volume": 114578,
+      "deliverable_qty": 72009,
+      "delivery_pct": 62.85
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 14:32:47",
+      "an_dt": "28-May-2026 14:32:47",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "COSMO FIRST LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSMOFILMS_28052026143240_Intimation_Transcript.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 14:10:44",
+      "an_dt": "27-May-2026 14:10:44",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "COSMO FIRST LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSMOFILMS_27052026141024_Intimation_IEPF.pdf"
+    },
     {
       "sort_date": "2026-05-22 14:11:36",
       "an_dt": "22-May-2026 14:11:36",
@@ -577,20 +583,6 @@
       "desc": "Change in Management",
       "sm_name": "COSMO FIRST LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSMOFILMS_27022026175658_Intimation_Resignation_Raj_Sharma.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 10:36:48",
-      "an_dt": "26-Feb-2026 10:36:48",
-      "desc": "Spurt in Volume",
-      "sm_name": "COSMO FIRST LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSMOFILMS_26022026103605_NSE_Reply_Volume_Movement_Letter.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 18:44:02",
-      "an_dt": "25-Feb-2026 18:44:02",
-      "desc": "Spurt in Volume",
-      "sm_name": "COSMO FIRST LIMITED",
-      "attchmntFile": "-"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 915.6,
   "market_cap_cr": 4118.71,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 985.65,
-      "prev_close": 960.3,
-      "volume": 72367,
-      "deliverable_qty": 39289,
-      "delivery_pct": 54.29
-    },
-    {
-      "date": "2026-02-26",
-      "close": 964.3,
-      "prev_close": 985.65,
-      "volume": 64811,
-      "deliverable_qty": 40986,
-      "delivery_pct": 63.24
-    },
     {
       "date": "2026-02-27",
       "close": 933.1,
@@ -442,9 +426,24 @@
       "volume": 316928,
       "deliverable_qty": 198489,
       "delivery_pct": 62.63
+    },
+    {
+      "date": "2026-05-27",
+      "close": 787.15,
+      "prev_close": 796.4,
+      "volume": 117810,
+      "deliverable_qty": 71808,
+      "delivery_pct": 60.95
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 19:26:26",
+      "an_dt": "28-May-2026 19:26:26",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "GMM Pfaudler Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_28052026192546_GMM_Pfaudler-Q4_FY26_Transcript_Earnings_Call.pdf"
+    },
     {
       "sort_date": "2026-05-22 17:30:16",
       "an_dt": "22-May-2026 17:30:16",

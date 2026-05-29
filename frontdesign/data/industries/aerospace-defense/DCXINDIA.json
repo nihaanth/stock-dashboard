@@ -8,25 +8,9 @@
   "price": 175.13,
   "market_cap_cr": 1951.01,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 175.18,
-      "prev_close": 171.51,
-      "volume": 791707,
-      "deliverable_qty": 208059,
-      "delivery_pct": 26.28
-    },
-    {
-      "date": "2026-02-26",
-      "close": 184.83,
-      "prev_close": 175.18,
-      "volume": 1161928,
-      "deliverable_qty": 377455,
-      "delivery_pct": 32.49
-    },
     {
       "date": "2026-02-27",
       "close": 177.25,
@@ -442,9 +426,52 @@
       "volume": 1530714,
       "deliverable_qty": 569633,
       "delivery_pct": 37.21
+    },
+    {
+      "date": "2026-05-27",
+      "close": 212.39,
+      "prev_close": 211.68,
+      "volume": 1029467,
+      "deliverable_qty": 341014,
+      "delivery_pct": 33.13
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 12:20:02",
+      "an_dt": "28-May-2026 12:20:02",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "DCX Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCX_2022_28052026121955_CoveringLetter_NewspaperAdvertisement.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 20:08:33",
+      "an_dt": "27-May-2026 20:08:33",
+      "desc": "Investor Presentation",
+      "sm_name": "DCX Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCX_2022_27052026200826_CoveringLetter_InvestorPresentation.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 20:06:12",
+      "an_dt": "27-May-2026 20:06:12",
+      "desc": "Press Release",
+      "sm_name": "DCX Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCX_2022_27052026200601_Press_Release.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 18:56:53",
+      "an_dt": "27-May-2026 18:56:53",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "DCX Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCX_2022_27052026185257_Outcome_of_Board_Meeting.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 18:35:33",
+      "an_dt": "27-May-2026 18:35:33",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "DCX Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCX_2022_27052026183432_Outcome_BM.pdf"
+    },
     {
       "sort_date": "2026-05-12 13:02:43",
       "an_dt": "12-May-2026 13:02:43",

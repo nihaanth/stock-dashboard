@@ -8,25 +8,9 @@
   "price": 139.15,
   "market_cap_cr": 1208.33,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 147.22,
-      "prev_close": 142.26,
-      "volume": 517782,
-      "deliverable_qty": 216763,
-      "delivery_pct": 41.86
-    },
-    {
-      "date": "2026-02-26",
-      "close": 149.35,
-      "prev_close": 147.22,
-      "volume": 760761,
-      "deliverable_qty": 339101,
-      "delivery_pct": 44.57
-    },
     {
       "date": "2026-02-27",
       "close": 145.33,
@@ -442,9 +426,38 @@
       "volume": 690019,
       "deliverable_qty": 412511,
       "delivery_pct": 59.78
+    },
+    {
+      "date": "2026-05-27",
+      "close": 134.83,
+      "prev_close": 136.17,
+      "volume": 742846,
+      "deliverable_qty": 429278,
+      "delivery_pct": 57.79
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 22:33:08",
+      "an_dt": "28-May-2026 22:33:08",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Ind-Swift Laboratories Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDSWFTLAB_28052026223259_ESOP.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 20:28:04",
+      "an_dt": "28-May-2026 20:28:04",
+      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
+      "sm_name": "Ind-Swift Laboratories Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDSWFTLAB_28052026202751_Statement_of_Deviation.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 20:06:14",
+      "an_dt": "28-May-2026 20:06:14",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Ind-Swift Laboratories Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDSWFTLAB_28052026200148_OUTCOME.pdf"
+    },
     {
       "sort_date": "2026-05-19 16:16:00",
       "an_dt": "19-May-2026 16:16:00",
@@ -570,13 +583,6 @@
       "desc": "General Updates",
       "sm_name": "Ind-Swift Laboratories Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDSWFTLAB_27022026115833_Intimation_Essix.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 15:52:11",
-      "an_dt": "26-Feb-2026 15:52:11",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Ind-Swift Laboratories Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDSWFTLAB_26022026155154_Intimation.pdf"
     }
   ]
 }

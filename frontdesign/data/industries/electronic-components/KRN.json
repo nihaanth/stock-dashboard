@@ -8,25 +8,9 @@
   "price": 1285.9,
   "market_cap_cr": 7992.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 999.65,
-      "prev_close": 946.25,
-      "volume": 12710982,
-      "deliverable_qty": 1137045,
-      "delivery_pct": 8.95
-    },
-    {
-      "date": "2026-02-26",
-      "close": 997.15,
-      "prev_close": 999.65,
-      "volume": 5543420,
-      "deliverable_qty": 585516,
-      "delivery_pct": 10.56
-    },
     {
       "date": "2026-02-27",
       "close": 998.05,
@@ -414,6 +398,13 @@
   ],
   "news": [
     {
+      "sort_date": "2026-05-27 00:23:15",
+      "an_dt": "27-May-2026 00:23:15",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "KRN Heat Exchanger and Refrigeration Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KRNHEAT_27052026002305_intimationcallsigned.pdf"
+    },
+    {
       "sort_date": "2026-05-26 23:14:01",
       "an_dt": "26-May-2026 23:14:01",
       "desc": "Committee Meeting Updates",
@@ -629,20 +620,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "KRN Heat Exchanger and Refrigeration Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KRNHEAT_02032026164732_investorcallmarchsign.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 21:59:33",
-      "an_dt": "25-Feb-2026 21:59:33",
-      "desc": "Price movement",
-      "sm_name": "KRN Heat Exchanger and Refrigeration Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KRNHEAT_25022026215857_nsereplypricemovementsign.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 18:43:46",
-      "an_dt": "25-Feb-2026 18:43:46",
-      "desc": "Price movement",
-      "sm_name": "KRN Heat Exchanger and Refrigeration Limited",
-      "attchmntFile": "-"
     }
   ]
 }

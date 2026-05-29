@@ -8,25 +8,9 @@
   "price": 1304.9,
   "market_cap_cr": 105407.56,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1346.1,
-      "prev_close": 1326.7,
-      "volume": 1018377,
-      "deliverable_qty": 569772,
-      "delivery_pct": 55.95
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1358.1,
-      "prev_close": 1346.1,
-      "volume": 2013877,
-      "deliverable_qty": 1122053,
-      "delivery_pct": 55.72
-    },
     {
       "date": "2026-02-27",
       "close": 1348.2,
@@ -442,9 +426,24 @@
       "volume": 1132793,
       "deliverable_qty": 728066,
       "delivery_pct": 64.27
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1418.2,
+      "prev_close": 1417.5,
+      "volume": 937447,
+      "deliverable_qty": 577194,
+      "delivery_pct": 61.57
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 16:02:21",
+      "an_dt": "28-May-2026 16:02:21",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Cipla Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CIPLA_28052026160057_InvestorMeetingCitiIndiasigned.pdf"
+    },
     {
       "sort_date": "2026-05-21 17:03:09",
       "an_dt": "21-May-2026 17:03:09",
@@ -661,13 +660,6 @@
       "desc": "Incorporation",
       "sm_name": "Cipla Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CIPLA_02032026192223_SEIntimationSaudi02032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 17:20:34",
-      "an_dt": "26-Feb-2026 17:20:34",
-      "desc": "General Updates",
-      "sm_name": "Cipla Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CIPLA_26022026171910_NSEESGRating2026_signed.pdf"
     }
   ]
 }

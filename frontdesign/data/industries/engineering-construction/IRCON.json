@@ -8,25 +8,9 @@
   "price": 152.31,
   "market_cap_cr": 14324.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 146.77,
-      "prev_close": 148.03,
-      "volume": 1065971,
-      "deliverable_qty": 480862,
-      "delivery_pct": 45.11
-    },
-    {
-      "date": "2026-02-26",
-      "close": 145.12,
-      "prev_close": 146.77,
-      "volume": 1391811,
-      "deliverable_qty": 567336,
-      "delivery_pct": 40.76
-    },
     {
       "date": "2026-02-27",
       "close": 143.61,
@@ -442,9 +426,24 @@
       "volume": 2386677,
       "deliverable_qty": 770307,
       "delivery_pct": 32.28
+    },
+    {
+      "date": "2026-05-27",
+      "close": 139.66,
+      "prev_close": 140.23,
+      "volume": 2261256,
+      "deliverable_qty": 649253,
+      "delivery_pct": 28.71
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 22:27:10",
+      "an_dt": "27-May-2026 22:27:10",
+      "desc": "Action(s) taken or orders passed",
+      "sm_name": "Ircon International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCON_27052026222659_STXINTIMATION.pdf"
+    },
     {
       "sort_date": "2026-05-26 18:17:13",
       "an_dt": "26-May-2026 18:17:13",
@@ -584,13 +583,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Ircon International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCON_27022026114449_STXNEWSPAPER27022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 17:22:36",
-      "an_dt": "26-Feb-2026 17:22:36",
-      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-      "sm_name": "Ircon International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCON_26022026172229_STEXINTIMATION26022026.pdf"
     }
   ]
 }

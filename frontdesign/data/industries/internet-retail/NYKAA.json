@@ -8,25 +8,9 @@
   "price": 270.25,
   "market_cap_cr": 77386.3,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 266.63,
-      "prev_close": 261.36,
-      "volume": 4486992,
-      "deliverable_qty": 2186970,
-      "delivery_pct": 48.74
-    },
-    {
-      "date": "2026-02-26",
-      "close": 267.53,
-      "prev_close": 266.63,
-      "volume": 2819499,
-      "deliverable_qty": 1129865,
-      "delivery_pct": 40.07
-    },
     {
       "date": "2026-02-27",
       "close": 265.48,
@@ -442,9 +426,24 @@
       "volume": 7379166,
       "deliverable_qty": 3810427,
       "delivery_pct": 51.64
+    },
+    {
+      "date": "2026-05-27",
+      "close": 263.15,
+      "prev_close": 266.35,
+      "volume": 5470638,
+      "deliverable_qty": 2863973,
+      "delivery_pct": 52.35
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 18:21:31",
+      "an_dt": "28-May-2026 18:21:31",
+      "desc": "Shareholders meeting",
+      "sm_name": "FSN E-Commerce Ventures Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NYKAA_28052026181949_Noticeofpostalballot15052026.pdf"
+    },
     {
       "sort_date": "2026-05-26 16:47:04",
       "an_dt": "26-May-2026 16:47:04",
@@ -591,13 +590,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "FSN E-Commerce Ventures Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NYKAA_17032026105817_NykaaIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 20:06:39",
-      "an_dt": "26-Feb-2026 20:06:39",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "FSN E-Commerce Ventures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NYKAA_26022026200614_Schedule_of_Investor_Meet_March_2026.pdf"
     }
   ]
 }

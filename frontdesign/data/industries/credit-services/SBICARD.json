@@ -8,25 +8,9 @@
   "price": 641.5,
   "market_cap_cr": 61045.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 788.75,
-      "prev_close": 779.6,
-      "volume": 957320,
-      "deliverable_qty": 375621,
-      "delivery_pct": 39.24
-    },
-    {
-      "date": "2026-02-26",
-      "close": 775.4,
-      "prev_close": 788.75,
-      "volume": 735256,
-      "deliverable_qty": 309718,
-      "delivery_pct": 42.12
-    },
     {
       "date": "2026-02-27",
       "close": 774.4,
@@ -442,6 +426,14 @@
       "volume": 1318962,
       "deliverable_qty": 542204,
       "delivery_pct": 41.11
+    },
+    {
+      "date": "2026-05-27",
+      "close": 625.25,
+      "prev_close": 628.7,
+      "volume": 476005,
+      "deliverable_qty": 180276,
+      "delivery_pct": 37.87
     }
   ],
   "news": [
@@ -654,20 +646,6 @@
       "desc": "Trading Window",
       "sm_name": "SBI Cards and Payment Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBICPSL_27022026190740_SEFilingBoardMeetingIntimationFeb2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 18:38:02",
-      "an_dt": "26-Feb-2026 18:38:02",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "SBI Cards and Payment Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBICARDS_26022026183752_SEFilingESOPAllotmentFeb2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 17:38:55",
-      "an_dt": "25-Feb-2026 17:38:55",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "SBI Cards and Payment Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBICARDS_25022026173812_SEFilingFeb2026.pdf"
     }
   ]
 }

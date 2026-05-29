@@ -8,25 +8,9 @@
   "price": 537.9,
   "market_cap_cr": 43032.0,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 605.9,
-      "prev_close": 614.45,
-      "volume": 2460682,
-      "deliverable_qty": 1297585,
-      "delivery_pct": 52.73
-    },
-    {
-      "date": "2026-02-26",
-      "close": 594.95,
-      "prev_close": 605.9,
-      "volume": 3156132,
-      "deliverable_qty": 1781565,
-      "delivery_pct": 56.45
-    },
     {
       "date": "2026-02-27",
       "close": 569.55,
@@ -442,9 +426,38 @@
       "volume": 1238113,
       "deliverable_qty": 556817,
       "delivery_pct": 44.97
+    },
+    {
+      "date": "2026-05-27",
+      "close": 523.2,
+      "prev_close": 537.2,
+      "volume": 1866537,
+      "deliverable_qty": 951577,
+      "delivery_pct": 50.98
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 16:11:36",
+      "an_dt": "28-May-2026 16:11:36",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Indian Railway Catering And Tourism Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCTC_28052026161112_STXintimationnewpaperpublication28052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 08:57:44",
+      "an_dt": "28-May-2026 08:57:44",
+      "desc": "General Updates",
+      "sm_name": "Indian Railway Catering And Tourism Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCTC_28052026085730_PenaltynoticesSTXQ4FY26.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 17:55:21",
+      "an_dt": "27-May-2026 17:55:21",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Indian Railway Catering And Tourism Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCTC_27052026175513_SEintimationforearningcallQ4FY26.pdf"
+    },
     {
       "sort_date": "2026-05-26 21:18:25",
       "an_dt": "26-May-2026 21:18:25",
@@ -577,13 +590,6 @@
       "desc": "Appointment",
       "sm_name": "Indian Railway Catering And Tourism Corporation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCTC_27022026181617_STXintimationnavinkumar270226.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 11:14:35",
-      "an_dt": "26-Feb-2026 11:14:35",
-      "desc": "General Updates",
-      "sm_name": "Indian Railway Catering And Tourism Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCTC_26022026111428_STXintimationnavinkumar.pdf"
     }
   ]
 }

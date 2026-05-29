@@ -8,25 +8,9 @@
   "price": 77.26,
   "market_cap_cr": 871.68,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 80.4,
-      "prev_close": 80.76,
-      "volume": 98496,
-      "deliverable_qty": 39901,
-      "delivery_pct": 40.51
-    },
-    {
-      "date": "2026-02-26",
-      "close": 81.24,
-      "prev_close": 80.4,
-      "volume": 117818,
-      "deliverable_qty": 31174,
-      "delivery_pct": 26.46
-    },
     {
       "date": "2026-02-27",
       "close": 79.8,
@@ -442,9 +426,31 @@
       "volume": 1015035,
       "deliverable_qty": 320382,
       "delivery_pct": 31.56
+    },
+    {
+      "date": "2026-05-27",
+      "close": 86.77,
+      "prev_close": 78.84,
+      "volume": 7675527,
+      "deliverable_qty": 1051232,
+      "delivery_pct": 13.7
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 12:58:59",
+      "an_dt": "28-May-2026 12:58:59",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "New Delhi Television Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NDTV_28052026125837_NDTV_Newspaper_Advertisement_Pre_AGM.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 19:30:56",
+      "an_dt": "27-May-2026 19:30:56",
+      "desc": "Spurt in Volume",
+      "sm_name": "New Delhi Television Limited",
+      "attchmntFile": "-"
+    },
     {
       "sort_date": "2026-05-05 10:58:17",
       "an_dt": "05-May-2026 10:58:17",
@@ -521,20 +527,6 @@
       "desc": "General Updates",
       "sm_name": "New Delhi Television Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NDTV_20032026221450_NDTV_Disclosure_GoodTimes_200326.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 15:17:28",
-      "an_dt": "26-Feb-2026 15:17:28",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "New Delhi Television Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NDTV_26022026151713_NDTV_SE_Intimation_Postal_Ballot_Newspaper_Publication_26022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 23:19:35",
-      "an_dt": "25-Feb-2026 23:19:35",
-      "desc": "Shareholders meeting",
-      "sm_name": "New Delhi Television Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NDTV_25022026231746_NDTV_Postal_Ballot_Stock_Exchange_Intimation.pdf"
     }
   ]
 }

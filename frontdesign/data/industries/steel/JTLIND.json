@@ -8,25 +8,9 @@
   "price": 81.26,
   "market_cap_cr": 3194.18,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 63.82,
-      "prev_close": 63.77,
-      "volume": 1736741,
-      "deliverable_qty": 614224,
-      "delivery_pct": 35.37
-    },
-    {
-      "date": "2026-02-26",
-      "close": 63.7,
-      "prev_close": 63.82,
-      "volume": 615957,
-      "deliverable_qty": 227075,
-      "delivery_pct": 36.87
-    },
     {
       "date": "2026-02-27",
       "close": 63.63,
@@ -442,9 +426,24 @@
       "volume": 1950619,
       "deliverable_qty": 937079,
       "delivery_pct": 48.04
+    },
+    {
+      "date": "2026-05-27",
+      "close": 70.12,
+      "prev_close": 69.5,
+      "volume": 1691537,
+      "deliverable_qty": 792399,
+      "delivery_pct": 46.84
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 13:07:47",
+      "an_dt": "27-May-2026 13:07:47",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "JTL INDUSTRIES LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_14052026132050_16.pdf"
+    },
     {
       "sort_date": "2026-05-15 17:54:24",
       "an_dt": "15-May-2026 17:54:24",

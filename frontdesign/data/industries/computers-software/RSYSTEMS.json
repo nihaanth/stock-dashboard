@@ -8,25 +8,9 @@
   "price": 306.85,
   "market_cap_cr": 3637.07,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 295.85,
-      "prev_close": 293.55,
-      "volume": 55912,
-      "deliverable_qty": 27928,
-      "delivery_pct": 49.95
-    },
-    {
-      "date": "2026-02-26",
-      "close": 293.0,
-      "prev_close": 295.85,
-      "volume": 52411,
-      "deliverable_qty": 20512,
-      "delivery_pct": 39.14
-    },
     {
       "date": "2026-02-27",
       "close": 289.1,
@@ -442,9 +426,31 @@
       "volume": 321211,
       "deliverable_qty": 165457,
       "delivery_pct": 51.51
+    },
+    {
+      "date": "2026-05-27",
+      "close": 265.7,
+      "prev_close": 265.9,
+      "volume": 133598,
+      "deliverable_qty": 89097,
+      "delivery_pct": 66.69
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 10:18:06",
+      "an_dt": "28-May-2026 10:18:06",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "R Systems International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RSYSTEMSPJ_28052026101731_RSYSTEMS.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 19:04:46",
+      "an_dt": "27-May-2026 19:04:46",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "R Systems International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RSYSTEMSPJ_27052026190320_RSYSTEMS.pdf"
+    },
     {
       "sort_date": "2026-05-21 14:58:30",
       "an_dt": "21-May-2026 14:58:30",
@@ -668,13 +674,6 @@
       "desc": "Press Release",
       "sm_name": "R Systems International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RSYSTEMS_03032026194413_RSYSTEMS.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 18:57:15",
-      "an_dt": "25-Feb-2026 18:57:15",
-      "desc": "General Updates",
-      "sm_name": "R Systems International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RSYSTEMS_25022026185544_RSYSTEMS.pdf"
     }
   ]
 }

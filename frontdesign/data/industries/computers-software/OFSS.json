@@ -8,25 +8,9 @@
   "price": 9239.5,
   "market_cap_cr": 80441.35,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 6612.0,
-      "prev_close": 6454.0,
-      "volume": 148595,
-      "deliverable_qty": 53987,
-      "delivery_pct": 36.33
-    },
-    {
-      "date": "2026-02-26",
-      "close": 6856.5,
-      "prev_close": 6612.0,
-      "volume": 254463,
-      "deliverable_qty": 74087,
-      "delivery_pct": 29.12
-    },
     {
       "date": "2026-02-27",
       "close": 6932.0,
@@ -442,9 +426,24 @@
       "volume": 259841,
       "deliverable_qty": 99288,
       "delivery_pct": 38.21
+    },
+    {
+      "date": "2026-05-27",
+      "close": 10299.5,
+      "prev_close": 9882.0,
+      "volume": 450281,
+      "deliverable_qty": 107590,
+      "delivery_pct": 23.89
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 09:15:30",
+      "an_dt": "27-May-2026 09:15:30",
+      "desc": "Agreements",
+      "sm_name": "Oracle Financial Services Software Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OFSS_27052026091114_OFSSIntimationunderRegulation30ofSEBILODR.pdf"
+    },
     {
       "sort_date": "2026-05-20 11:05:15",
       "an_dt": "20-May-2026 11:05:15",
@@ -556,20 +555,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Oracle Financial Services Software Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/OFSS_04032026162048_IntimationtoStock_Exchange-PostalBallotNoticeMarch2026sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 21:26:11",
-      "an_dt": "25-Feb-2026 21:26:11",
-      "desc": "Appointment",
-      "sm_name": "Oracle Financial Services Software Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OFSS_25022026212545_OutcomeofBoardMeetingFeb252026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 21:23:37",
-      "an_dt": "25-Feb-2026 21:23:37",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Oracle Financial Services Software Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OFSS_25022026212320_OutcomeofBoardMeetingFeb252026.pdf"
     }
   ]
 }

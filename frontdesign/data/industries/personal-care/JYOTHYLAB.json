@@ -8,25 +8,9 @@
   "price": 237.2,
   "market_cap_cr": 8710.33,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 259.68,
-      "prev_close": 255.77,
-      "volume": 530258,
-      "deliverable_qty": 267077,
-      "delivery_pct": 50.37
-    },
-    {
-      "date": "2026-02-26",
-      "close": 254.38,
-      "prev_close": 259.68,
-      "volume": 516816,
-      "deliverable_qty": 179237,
-      "delivery_pct": 34.68
-    },
     {
       "date": "2026-02-27",
       "close": 253.46,
@@ -442,9 +426,24 @@
       "volume": 1633794,
       "deliverable_qty": 758414,
       "delivery_pct": 46.42
+    },
+    {
+      "date": "2026-05-27",
+      "close": 208.6,
+      "prev_close": 204.95,
+      "volume": 794607,
+      "deliverable_qty": 330574,
+      "delivery_pct": 41.6
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 15:33:32",
+      "an_dt": "27-May-2026 15:33:32",
+      "desc": "General Updates",
+      "sm_name": "Jyothy Labs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JYOTHYLAB_27052026153317_SE_Intimation_27052026.pdf"
+    },
     {
       "sort_date": "2026-05-21 13:29:20",
       "an_dt": "21-May-2026 13:29:20",
@@ -689,20 +688,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Jyothy Labs Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JYOTHYLAB_02032026150755_SE_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 12:43:19",
-      "an_dt": "25-Feb-2026 12:43:19",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Jyothy Labs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JYOTHYLAB_25022026124300_SEIntimationRennaisance06032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 12:43:19",
-      "an_dt": "25-Feb-2026 12:43:19",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Jyothy Labs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JYOTHYLAB_25022026124215_SEIntimationNippon04032026.pdf"
     }
   ]
 }

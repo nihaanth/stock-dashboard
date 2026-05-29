@@ -8,25 +8,9 @@
   "price": 526.55,
   "market_cap_cr": 2536.47,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 472.7,
-      "prev_close": 473.15,
-      "volume": 65419,
-      "deliverable_qty": 31687,
-      "delivery_pct": 48.44
-    },
-    {
-      "date": "2026-02-26",
-      "close": 463.05,
-      "prev_close": 472.7,
-      "volume": 67261,
-      "deliverable_qty": 30911,
-      "delivery_pct": 45.96
-    },
     {
       "date": "2026-02-27",
       "close": 462.2,
@@ -442,9 +426,24 @@
       "volume": 89914,
       "deliverable_qty": 47163,
       "delivery_pct": 52.45
+    },
+    {
+      "date": "2026-05-27",
+      "close": 545.8,
+      "prev_close": 558.5,
+      "volume": 129824,
+      "deliverable_qty": 58620,
+      "delivery_pct": 45.15
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 13:17:06",
+      "an_dt": "27-May-2026 13:17:06",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Solara Active Pharma Sciences Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_14052026164303_SOLARA.pdf"
+    },
     {
       "sort_date": "2026-05-21 12:21:32",
       "an_dt": "21-May-2026 12:21:32",

@@ -8,25 +8,9 @@
   "price": 126.12,
   "market_cap_cr": 6957.89,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 128.75,
-      "prev_close": 127.61,
-      "volume": 577981,
-      "deliverable_qty": 180666,
-      "delivery_pct": 31.26
-    },
-    {
-      "date": "2026-02-26",
-      "close": 127.87,
-      "prev_close": 128.75,
-      "volume": 500948,
-      "deliverable_qty": 204702,
-      "delivery_pct": 40.86
-    },
     {
       "date": "2026-02-27",
       "close": 126.78,
@@ -442,9 +426,24 @@
       "volume": 2563851,
       "deliverable_qty": 888189,
       "delivery_pct": 34.64
+    },
+    {
+      "date": "2026-05-27",
+      "close": 132.68,
+      "prev_close": 132.09,
+      "volume": 2089959,
+      "deliverable_qty": 723871,
+      "delivery_pct": 34.64
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 11:00:38",
+      "an_dt": "28-May-2026 11:00:38",
+      "desc": "Action(s) initiated or orders passed",
+      "sm_name": "Rashtriya Chemicals and Fertilizers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RCF_28052026110019_Marchfine2026.pdf"
+    },
     {
       "sort_date": "2026-05-22 15:04:23",
       "an_dt": "22-May-2026 15:04:23",
@@ -591,13 +590,6 @@
       "desc": "Updates",
       "sm_name": "Rashtriya Chemicals and Fertilizers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RCF_28022026131851_SEIntimation_Fine_Dec25.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 14:28:38",
-      "an_dt": "26-Feb-2026 14:28:38",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Rashtriya Chemicals and Fertilizers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RCF_26022026142821_SEIntimation_SpecialWindow.pdf"
     }
   ]
 }

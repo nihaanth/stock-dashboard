@@ -8,25 +8,9 @@
   "price": 170.24,
   "market_cap_cr": 2843.43,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 148.22,
-      "prev_close": 147.57,
-      "volume": 128750,
-      "deliverable_qty": 60759,
-      "delivery_pct": 47.19
-    },
-    {
-      "date": "2026-02-26",
-      "close": 148.82,
-      "prev_close": 148.22,
-      "volume": 285374,
-      "deliverable_qty": 150577,
-      "delivery_pct": 52.76
-    },
     {
       "date": "2026-02-27",
       "close": 144.51,
@@ -442,6 +426,14 @@
       "volume": 1207055,
       "deliverable_qty": 539311,
       "delivery_pct": 44.68
+    },
+    {
+      "date": "2026-05-27",
+      "close": 169.14,
+      "prev_close": 167.85,
+      "volume": 248637,
+      "deliverable_qty": 123676,
+      "delivery_pct": 49.74
     }
   ],
   "news": [
@@ -584,13 +576,6 @@
       "desc": "Updates",
       "sm_name": "NOCIL Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NOCIL_27022026114945_TDS_Intimation_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 16:27:37",
-      "an_dt": "26-Feb-2026 16:27:37",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "NOCIL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NOCIL_26022026162722_RelodgementofTransfer_signed.pdf"
     }
   ]
 }

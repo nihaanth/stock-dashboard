@@ -8,25 +8,9 @@
   "price": 2992.2,
   "market_cap_cr": 57914.88,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 2618.7,
-      "prev_close": 2562.7,
-      "volume": 460966,
-      "deliverable_qty": 267367,
-      "delivery_pct": 58.0
-    },
-    {
-      "date": "2026-02-26",
-      "close": 2720.3,
-      "prev_close": 2618.7,
-      "volume": 862660,
-      "deliverable_qty": 371005,
-      "delivery_pct": 43.01
-    },
     {
       "date": "2026-02-27",
       "close": 2753.4,
@@ -442,9 +426,24 @@
       "volume": 169112,
       "deliverable_qty": 47718,
       "delivery_pct": 28.22
+    },
+    {
+      "date": "2026-05-27",
+      "close": 3210.5,
+      "prev_close": 3039.1,
+      "volume": 647171,
+      "deliverable_qty": 246354,
+      "delivery_pct": 38.07
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 13:00:14",
+      "an_dt": "27-May-2026 13:00:14",
+      "desc": "Updates",
+      "sm_name": "Tube Investments of India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIINDIA_27052026130006_TIINSEBSEInvestorPresentation.pdf"
+    },
     {
       "sort_date": "2026-05-22 18:16:02",
       "an_dt": "22-May-2026 18:16:02",
@@ -619,27 +618,6 @@
       "desc": "Allotment of Securities",
       "sm_name": "Tube Investments of India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIINDIA_27022026184355_TIINSEBSEESOPAllotment.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 15:50:44",
-      "an_dt": "26-Feb-2026 15:50:44",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Tube Investments of India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIINDIA_26022026154959_InvestorMeet10thMarch2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 15:48:41",
-      "an_dt": "26-Feb-2026 15:48:41",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Tube Investments of India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIINDIA_26022026154833_InvestorMeet4thMarch2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 15:47:23",
-      "an_dt": "26-Feb-2026 15:47:23",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Tube Investments of India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIINDIA_26022026154713_InvestorMeet4March2026.pdf"
     }
   ]
 }

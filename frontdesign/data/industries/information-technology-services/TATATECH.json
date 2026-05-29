@@ -8,25 +8,9 @@
   "price": 560.35,
   "market_cap_cr": 22749.05,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 577.75,
-      "prev_close": 572.15,
-      "volume": 891075,
-      "deliverable_qty": 349415,
-      "delivery_pct": 39.21
-    },
-    {
-      "date": "2026-02-26",
-      "close": 583.0,
-      "prev_close": 577.75,
-      "volume": 779370,
-      "deliverable_qty": 298670,
-      "delivery_pct": 38.32
-    },
     {
       "date": "2026-02-27",
       "close": 585.45,
@@ -442,6 +426,14 @@
       "volume": 3060163,
       "deliverable_qty": 1473310,
       "delivery_pct": 48.14
+    },
+    {
+      "date": "2026-05-27",
+      "close": 719.75,
+      "prev_close": 706.3,
+      "volume": 2564736,
+      "deliverable_qty": 1193902,
+      "delivery_pct": 46.55
     }
   ],
   "news": [
@@ -612,20 +604,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Tata Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TTLNSE_27022026194354_PostalBallotOutcome_27022026_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 19:07:43",
-      "an_dt": "26-Feb-2026 19:07:43",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Tata Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TTLNSE_26022026190726_Investor_Call_Outcome_26022026_S.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 19:03:06",
-      "an_dt": "25-Feb-2026 19:03:06",
-      "desc": "Investor Presentation",
-      "sm_name": "Tata Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TTLNSE_25022026190253_SE_Intimation_Analyst_Meeting_Presentation_Feb_2026_S.pdf"
     }
   ]
 }

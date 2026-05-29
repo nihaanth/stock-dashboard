@@ -8,25 +8,9 @@
   "price": 492.0,
   "market_cap_cr": 3274.33,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 397.6,
-      "prev_close": 400.95,
-      "volume": 204207,
-      "deliverable_qty": 103056,
-      "delivery_pct": 50.47
-    },
-    {
-      "date": "2026-02-26",
-      "close": 405.2,
-      "prev_close": 397.6,
-      "volume": 351969,
-      "deliverable_qty": 118061,
-      "delivery_pct": 33.54
-    },
     {
       "date": "2026-02-27",
       "close": 400.8,
@@ -442,9 +426,31 @@
       "volume": 691273,
       "deliverable_qty": 252095,
       "delivery_pct": 36.47
+    },
+    {
+      "date": "2026-05-27",
+      "close": 532.0,
+      "prev_close": 551.85,
+      "volume": 1154486,
+      "deliverable_qty": 491227,
+      "delivery_pct": 42.55
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 17:18:56",
+      "an_dt": "28-May-2026 17:18:56",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Raymond Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAYMOND_28052026171745_RLSEintimationnewspaper.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 16:04:29",
+      "an_dt": "27-May-2026 16:04:29",
+      "desc": "Shareholders meeting",
+      "sm_name": "Raymond Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAYMOND_27052026160257_RLSEintimationEGMNoticesigned.pdf"
+    },
     {
       "sort_date": "2026-05-26 18:17:46",
       "an_dt": "26-May-2026 18:17:46",
@@ -584,13 +590,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Raymond Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAYMOND_04032026120123_RLSEintimationsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 15:39:39",
-      "an_dt": "25-Feb-2026 15:39:39",
-      "desc": "General Updates",
-      "sm_name": "Raymond Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAYMOND_25022026153713_RLSEintimationsigned.pdf"
     }
   ]
 }

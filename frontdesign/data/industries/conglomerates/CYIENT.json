@@ -8,25 +8,9 @@
   "price": 896.15,
   "market_cap_cr": 9894.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 931.8,
-      "prev_close": 950.1,
-      "volume": 245304,
-      "deliverable_qty": 99719,
-      "delivery_pct": 40.65
-    },
-    {
-      "date": "2026-02-26",
-      "close": 921.9,
-      "prev_close": 931.8,
-      "volume": 256589,
-      "deliverable_qty": 111103,
-      "delivery_pct": 43.3
-    },
     {
       "date": "2026-02-27",
       "close": 914.7,
@@ -442,9 +426,24 @@
       "volume": 336958,
       "deliverable_qty": 157252,
       "delivery_pct": 46.67
+    },
+    {
+      "date": "2026-05-27",
+      "close": 917.5,
+      "prev_close": 925.55,
+      "volume": 153501,
+      "deliverable_qty": 72866,
+      "delivery_pct": 47.47
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 10:04:40",
+      "an_dt": "28-May-2026 10:04:40",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Cyient Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CYIENT_28052026100428_28May2026LinkSigned.pdf"
+    },
     {
       "sort_date": "2026-05-26 17:51:57",
       "an_dt": "26-May-2026 17:51:57",
@@ -689,13 +688,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Cyient Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CYIENT_03032026212031_ChangeinManagementSigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 20:20:22",
-      "an_dt": "25-Feb-2026 20:20:22",
-      "desc": "Trading Window",
-      "sm_name": "Cyient Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CYIENT_25022026202013_25022026TradingwindowSigned.pdf"
     }
   ]
 }

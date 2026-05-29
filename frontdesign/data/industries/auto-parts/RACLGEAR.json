@@ -8,25 +8,9 @@
   "price": 1272.3,
   "market_cap_cr": 1502.45,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1429.1,
-      "prev_close": 1401.4,
-      "volume": 78655,
-      "deliverable_qty": 20273,
-      "delivery_pct": 25.77
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1425.4,
-      "prev_close": 1429.1,
-      "volume": 44287,
-      "deliverable_qty": 12548,
-      "delivery_pct": 28.33
-    },
     {
       "date": "2026-02-27",
       "close": 1401.2,
@@ -442,9 +426,31 @@
       "volume": 33385,
       "deliverable_qty": 17733,
       "delivery_pct": 53.12
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1265.8,
+      "prev_close": 1366.9,
+      "volume": 106701,
+      "deliverable_qty": 41773,
+      "delivery_pct": 39.15
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 18:05:38",
+      "an_dt": "27-May-2026 18:05:38",
+      "desc": "Updates",
+      "sm_name": "RACL Geartech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RACL1983_27052026180344_Intimation_for_Turnover_Milestone.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 13:23:12",
+      "an_dt": "27-May-2026 13:23:12",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "RACL Geartech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RACL1983_27052026132151_Intimation_for_results_in_newspaper26052026.pdf"
+    },
     {
       "sort_date": "2026-05-26 19:39:13",
       "an_dt": "26-May-2026 19:39:13",
@@ -542,13 +548,6 @@
       "desc": "Investor Presentation",
       "sm_name": "RACL Geartech Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RACL1983_27022026124939_Investor_Concall_PPT.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 11:28:29",
-      "an_dt": "26-Feb-2026 11:28:29",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "RACL Geartech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RACL1983_26022026112820_Intimation_Newspaper_Publication_sd.pdf"
     }
   ]
 }

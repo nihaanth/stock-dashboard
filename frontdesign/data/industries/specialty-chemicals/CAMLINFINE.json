@@ -8,25 +8,9 @@
   "price": 126.45,
   "market_cap_cr": 2429.0,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 141.0,
-      "prev_close": 140.39,
-      "volume": 405313,
-      "deliverable_qty": 194631,
-      "delivery_pct": 48.02
-    },
-    {
-      "date": "2026-02-26",
-      "close": 139.35,
-      "prev_close": 141.0,
-      "volume": 573152,
-      "deliverable_qty": 296574,
-      "delivery_pct": 51.74
-    },
     {
       "date": "2026-02-27",
       "close": 147.9,
@@ -442,9 +426,24 @@
       "volume": 1376282,
       "deliverable_qty": 531604,
       "delivery_pct": 38.63
+    },
+    {
+      "date": "2026-05-27",
+      "close": 130.19,
+      "prev_close": 121.56,
+      "volume": 4900754,
+      "deliverable_qty": 1573983,
+      "delivery_pct": 32.12
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 12:53:22",
+      "an_dt": "27-May-2026 12:53:22",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Camlin Fine Sciences Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAMLINFINE_27052026125313_AFR_as_on_31032026_Newspaper_Advertisement.pdf"
+    },
     {
       "sort_date": "2026-05-26 18:54:43",
       "an_dt": "26-May-2026 18:54:43",

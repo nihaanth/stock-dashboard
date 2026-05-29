@@ -8,25 +8,9 @@
   "price": 100.73,
   "market_cap_cr": 1539.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 114.66,
-      "prev_close": 114.53,
-      "volume": 571671,
-      "deliverable_qty": 310546,
-      "delivery_pct": 54.32
-    },
-    {
-      "date": "2026-02-26",
-      "close": 115.51,
-      "prev_close": 114.66,
-      "volume": 849233,
-      "deliverable_qty": 515865,
-      "delivery_pct": 60.74
-    },
     {
       "date": "2026-02-27",
       "close": 111.03,
@@ -442,9 +426,24 @@
       "volume": 362542,
       "deliverable_qty": 180184,
       "delivery_pct": 49.7
+    },
+    {
+      "date": "2026-05-27",
+      "close": 97.69,
+      "prev_close": 98.32,
+      "volume": 207392,
+      "deliverable_qty": 101180,
+      "delivery_pct": 48.79
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 15:27:11",
+      "an_dt": "28-May-2026 15:27:11",
+      "desc": "General Updates",
+      "sm_name": "Ugro Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_28052026152547_Reg30final.pdf"
+    },
     {
       "sort_date": "2026-05-26 16:07:24",
       "an_dt": "26-May-2026 16:07:24",
@@ -724,27 +723,6 @@
       "desc": "Agreements",
       "sm_name": "Ugro Capital Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_05032026224726_RevisedSEdisclosureAmendedSPAFeb2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 18:50:14",
-      "an_dt": "26-Feb-2026 18:50:14",
-      "desc": "Allotment of Securities",
-      "sm_name": "Ugro Capital Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_26022026184923_OutcomeCP26022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 16:14:53",
-      "an_dt": "26-Feb-2026 16:14:53",
-      "desc": "General Updates",
-      "sm_name": "Ugro Capital Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_26022026161328_Intimationunderreg30.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 19:28:22",
-      "an_dt": "25-Feb-2026 19:28:22",
-      "desc": "Allotment of Securities",
-      "sm_name": "Ugro Capital Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UGROCAP_25022026192803_OutcomeCP25012026.pdf"
     }
   ]
 }

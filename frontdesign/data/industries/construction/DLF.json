@@ -8,25 +8,9 @@
   "price": 590.25,
   "market_cap_cr": 146105.26,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 611.2,
-      "prev_close": 611.65,
-      "volume": 3522834,
-      "deliverable_qty": 1796438,
-      "delivery_pct": 50.99
-    },
-    {
-      "date": "2026-02-26",
-      "close": 610.8,
-      "prev_close": 611.2,
-      "volume": 2671861,
-      "deliverable_qty": 1320665,
-      "delivery_pct": 49.43
-    },
     {
       "date": "2026-02-27",
       "close": 603.85,
@@ -442,6 +426,14 @@
       "volume": 2572405,
       "deliverable_qty": 1369649,
       "delivery_pct": 53.24
+    },
+    {
+      "date": "2026-05-27",
+      "close": 593.9,
+      "prev_close": 589.8,
+      "volume": 1918632,
+      "deliverable_qty": 757915,
+      "delivery_pct": 39.5
     }
   ],
   "news": [
@@ -563,13 +555,6 @@
       "desc": "News Verification",
       "sm_name": "DLF Limited",
       "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-02-26 19:44:13",
-      "an_dt": "26-Feb-2026 19:44:13",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "DLF Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DLF_26022026194329_Letter.pdf"
     }
   ]
 }

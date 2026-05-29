@@ -8,25 +8,9 @@
   "price": 1021.4,
   "market_cap_cr": 76437.37,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 982.1,
-      "prev_close": 1002.2,
-      "volume": 2811304,
-      "deliverable_qty": 1644181,
-      "delivery_pct": 58.48
-    },
-    {
-      "date": "2026-02-26",
-      "close": 972.7,
-      "prev_close": 982.1,
-      "volume": 3615184,
-      "deliverable_qty": 2119140,
-      "delivery_pct": 58.62
-    },
     {
       "date": "2026-02-27",
       "close": 958.35,
@@ -442,9 +426,31 @@
       "volume": 2701128,
       "deliverable_qty": 1135730,
       "delivery_pct": 42.05
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1005.0,
+      "prev_close": 1011.8,
+      "volume": 846441,
+      "deliverable_qty": 463294,
+      "delivery_pct": 54.73
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 19:09:11",
+      "an_dt": "27-May-2026 19:09:11",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "AU Small Finance Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUMIT1_27052026190818_20260527_Newspaper_Intimation.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 18:43:36",
+      "an_dt": "27-May-2026 18:43:36",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "AU Small Finance Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUMIT1_27052026184242_Investor_meet_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-22 18:13:18",
       "an_dt": "22-May-2026 18:13:18",
@@ -689,13 +695,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "AU Small Finance Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AUBANK_27022026173347_20260227_Investor_Meet_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 20:24:24",
-      "an_dt": "26-Feb-2026 20:24:24",
-      "desc": "Credit Rating",
-      "sm_name": "AU Small Finance Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AUBANK_26022026202340_20260226_Credit_Rating_Intimation.pdf"
     }
   ]
 }

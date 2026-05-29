@@ -8,25 +8,9 @@
   "price": 256.3,
   "market_cap_cr": 2466.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 248.89,
-      "prev_close": 251.65,
-      "volume": 289990,
-      "deliverable_qty": 125500,
-      "delivery_pct": 43.28
-    },
-    {
-      "date": "2026-02-26",
-      "close": 251.22,
-      "prev_close": 248.89,
-      "volume": 354065,
-      "deliverable_qty": 127644,
-      "delivery_pct": 36.05
-    },
     {
       "date": "2026-02-27",
       "close": 247.99,
@@ -442,9 +426,24 @@
       "volume": 593872,
       "deliverable_qty": 200267,
       "delivery_pct": 33.72
+    },
+    {
+      "date": "2026-05-27",
+      "close": 230.95,
+      "prev_close": 235.25,
+      "volume": 600874,
+      "deliverable_qty": 243756,
+      "delivery_pct": 40.57
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 15:02:15",
+      "an_dt": "27-May-2026 15:02:15",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "EPACK Durable Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EPACKNSE_27052026150200_Transcript_Letter.pdf"
+    },
     {
       "sort_date": "2026-05-22 15:08:42",
       "an_dt": "22-May-2026 15:08:42",
@@ -640,20 +639,6 @@
       "desc": "Updates",
       "sm_name": "EPACK Durable Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EPACKNSE_11032026151957_STX_Intimation_GeneralUpdates.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 12:56:56",
-      "an_dt": "26-Feb-2026 12:56:56",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "EPACK Durable Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EPACKNSE_26022026125608_STX_Intimation_PB_Notice_Newspaper_Advertisement.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 14:20:34",
-      "an_dt": "25-Feb-2026 14:20:34",
-      "desc": "Shareholders meeting",
-      "sm_name": "EPACK Durable Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EPACKNSE_25022026142008_Cover_Letter_Intimation_Postal_ballot.pdf"
     }
   ]
 }

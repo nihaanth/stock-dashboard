@@ -8,25 +8,9 @@
   "price": 1914.4,
   "market_cap_cr": 192031.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 2073.6,
-      "prev_close": 2082.9,
-      "volume": 355352,
-      "deliverable_qty": 194224,
-      "delivery_pct": 54.66
-    },
-    {
-      "date": "2026-02-26",
-      "close": 2082.8,
-      "prev_close": 2073.6,
-      "volume": 567098,
-      "deliverable_qty": 255598,
-      "delivery_pct": 45.07
-    },
     {
       "date": "2026-02-27",
       "close": 2037.2,
@@ -442,6 +426,14 @@
       "volume": 812898,
       "deliverable_qty": 498722,
       "delivery_pct": 61.35
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1864.5,
+      "prev_close": 1883.2,
+      "volume": 372683,
+      "deliverable_qty": 210356,
+      "delivery_pct": 56.44
     }
   ],
   "news": [
@@ -584,20 +576,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "SBI Life Insurance Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBILIFE_28022026155657_Postal_Ballot_Notice_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 18:35:56",
-      "an_dt": "25-Feb-2026 18:35:56",
-      "desc": "Dividend",
-      "sm_name": "SBI Life Insurance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBILIFE_25022026183536_OutcomeBM25022026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 18:31:52",
-      "an_dt": "25-Feb-2026 18:31:52",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "SBI Life Insurance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBILIFE_25022026183133_OutcomeBM25022026signed.pdf"
     }
   ]
 }

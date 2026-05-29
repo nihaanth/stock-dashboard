@@ -8,25 +8,9 @@
   "price": 666.05,
   "market_cap_cr": 34438.76,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 642.6,
-      "prev_close": 638.0,
-      "volume": 402191,
-      "deliverable_qty": 202831,
-      "delivery_pct": 50.43
-    },
-    {
-      "date": "2026-02-26",
-      "close": 649.45,
-      "prev_close": 642.6,
-      "volume": 277143,
-      "deliverable_qty": 102472,
-      "delivery_pct": 36.97
-    },
     {
       "date": "2026-02-27",
       "close": 654.6,
@@ -442,6 +426,14 @@
       "volume": 486972,
       "deliverable_qty": 219744,
       "delivery_pct": 45.12
+    },
+    {
+      "date": "2026-05-27",
+      "close": 741.25,
+      "prev_close": 757.6,
+      "volume": 309927,
+      "deliverable_qty": 200170,
+      "delivery_pct": 64.59
     }
   ],
   "news": [
@@ -682,13 +674,6 @@
       "desc": "General Updates",
       "sm_name": "Aster DM Healthcare Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASTERDM2_02032026152513_Reg_30_Disclosure.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 19:21:32",
-      "an_dt": "26-Feb-2026 19:21:32",
-      "desc": "General Updates",
-      "sm_name": "Aster DM Healthcare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASTERDM2_26022026192118_Disclosure.pdf"
     }
   ]
 }

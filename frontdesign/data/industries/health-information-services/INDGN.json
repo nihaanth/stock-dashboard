@@ -8,25 +8,9 @@
   "price": 543.0,
   "market_cap_cr": 13049.22,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 493.25,
-      "prev_close": 479.8,
-      "volume": 503164,
-      "deliverable_qty": 231425,
-      "delivery_pct": 45.99
-    },
-    {
-      "date": "2026-02-26",
-      "close": 500.3,
-      "prev_close": 493.25,
-      "volume": 659720,
-      "deliverable_qty": 421504,
-      "delivery_pct": 63.89
-    },
     {
       "date": "2026-02-27",
       "close": 496.3,
@@ -442,9 +426,31 @@
       "volume": 112433,
       "deliverable_qty": 54544,
       "delivery_pct": 48.51
+    },
+    {
+      "date": "2026-05-27",
+      "close": 518.9,
+      "prev_close": 517.55,
+      "volume": 172270,
+      "deliverable_qty": 90462,
+      "delivery_pct": 52.51
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 13:51:59",
+      "an_dt": "28-May-2026 13:51:59",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Indegene Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDEGENE_28052026135134_Intimation_Reg30.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 20:07:43",
+      "an_dt": "27-May-2026 20:07:43",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Indegene Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDEGENE_27052026200701_Intimation_Reg30_1.pdf"
+    },
     {
       "sort_date": "2026-05-20 19:33:50",
       "an_dt": "20-May-2026 19:33:50",
@@ -591,13 +597,6 @@
       "desc": "Acquisition",
       "sm_name": "Indegene Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDEGENE_01032026173227_Acquisition_.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 19:00:31",
-      "an_dt": "25-Feb-2026 19:00:31",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Indegene Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDEGENE_25022026190021_Intimation_of_Investors_Meet.pdf"
     }
   ]
 }

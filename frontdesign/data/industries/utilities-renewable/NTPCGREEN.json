@@ -8,25 +8,9 @@
   "price": 107.93,
   "market_cap_cr": 90945.38,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 90.22,
-      "prev_close": 89.9,
-      "volume": 2487345,
-      "deliverable_qty": 1098608,
-      "delivery_pct": 44.17
-    },
-    {
-      "date": "2026-02-26",
-      "close": 90.19,
-      "prev_close": 90.22,
-      "volume": 1585290,
-      "deliverable_qty": 782984,
-      "delivery_pct": 49.39
-    },
     {
       "date": "2026-02-27",
       "close": 90.14,
@@ -442,9 +426,24 @@
       "volume": 4526976,
       "deliverable_qty": 1617271,
       "delivery_pct": 35.73
+    },
+    {
+      "date": "2026-05-27",
+      "close": 104.33,
+      "prev_close": 103.04,
+      "volume": 4365754,
+      "deliverable_qty": 1484540,
+      "delivery_pct": 34.0
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 18:47:44",
+      "an_dt": "27-May-2026 18:47:44",
+      "desc": "General Updates",
+      "sm_name": "NTPC Green Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/igsingh_27052026184702_STXDisclosure27052026_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-22 18:31:32",
       "an_dt": "22-May-2026 18:31:32",
@@ -588,16 +587,9 @@
     {
       "sort_date": "2026-03-06 10:44:36",
       "an_dt": "06-Mar-2026 10:44:36",
-      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
+      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
       "sm_name": "NTPC Green Energy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/dinesh01_06032026103556_Intimation_7_3_.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 21:58:52",
-      "an_dt": "25-Feb-2026 21:58:52",
-      "desc": "General Updates",
-      "sm_name": "NTPC Green Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/dinesh01_25022026215408_Disclosure.pdf"
     }
   ]
 }

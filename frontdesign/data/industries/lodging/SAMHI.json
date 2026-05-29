@@ -8,25 +8,9 @@
   "price": 156.42,
   "market_cap_cr": 3479.81,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 167.04,
-      "prev_close": 162.13,
-      "volume": 1018927,
-      "deliverable_qty": 433842,
-      "delivery_pct": 42.58
-    },
-    {
-      "date": "2026-02-26",
-      "close": 165.06,
-      "prev_close": 167.04,
-      "volume": 313530,
-      "deliverable_qty": 188042,
-      "delivery_pct": 59.98
-    },
     {
       "date": "2026-02-27",
       "close": 162.5,
@@ -442,9 +426,24 @@
       "volume": 2348628,
       "deliverable_qty": 1184090,
       "delivery_pct": 50.42
+    },
+    {
+      "date": "2026-05-27",
+      "close": 164.6,
+      "prev_close": 169.95,
+      "volume": 1358751,
+      "deliverable_qty": 706027,
+      "delivery_pct": 51.96
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 16:40:06",
+      "an_dt": "27-May-2026 16:40:06",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Samhi Hotels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Samhi_27052026163917_Transcript_EarningsCallQ4FY26.pdf"
+    },
     {
       "sort_date": "2026-05-24 01:02:38",
       "an_dt": "24-May-2026 01:02:38",
@@ -654,13 +653,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Samhi Hotels Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Samhi_03032026201510_InvestorsMeeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 11:02:22",
-      "an_dt": "25-Feb-2026 11:02:22",
-      "desc": "Investor Presentation",
-      "sm_name": "Samhi Hotels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Samhi_25022026110206_CorporatePresentation.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 66.13,
   "market_cap_cr": 515.83,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 68.94,
-      "prev_close": 69.78,
-      "volume": 116030,
-      "deliverable_qty": 37897,
-      "delivery_pct": 32.66
-    },
-    {
-      "date": "2026-02-26",
-      "close": 68.43,
-      "prev_close": 68.94,
-      "volume": 147299,
-      "deliverable_qty": 39610,
-      "delivery_pct": 26.89
-    },
     {
       "date": "2026-02-27",
       "close": 67.43,
@@ -442,9 +426,24 @@
       "volume": 248709,
       "deliverable_qty": 136297,
       "delivery_pct": 54.8
+    },
+    {
+      "date": "2026-05-27",
+      "close": 69.83,
+      "prev_close": 65.75,
+      "volume": 336938,
+      "deliverable_qty": 169632,
+      "delivery_pct": 50.35
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 16:36:05",
+      "an_dt": "28-May-2026 16:36:05",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "TPL Plastech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TPLPLASTEH_28052026163536_TPLNP_28052026.pdf"
+    },
     {
       "sort_date": "2026-05-26 21:37:34",
       "an_dt": "26-May-2026 21:37:34",

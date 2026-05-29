@@ -8,25 +8,9 @@
   "price": 572.9,
   "market_cap_cr": 55400.81,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 585.95,
-      "prev_close": 563.45,
-      "volume": 17518066,
-      "deliverable_qty": 4234695,
-      "delivery_pct": 24.17
-    },
-    {
-      "date": "2026-02-26",
-      "close": 583.75,
-      "prev_close": 585.95,
-      "volume": 7976576,
-      "deliverable_qty": 2118459,
-      "delivery_pct": 26.56
-    },
     {
       "date": "2026-02-27",
       "close": 566.3,
@@ -442,9 +426,38 @@
       "volume": 7625490,
       "deliverable_qty": 2369178,
       "delivery_pct": 31.07
+    },
+    {
+      "date": "2026-05-27",
+      "close": 555.35,
+      "prev_close": 556.0,
+      "volume": 4061276,
+      "deliverable_qty": 1394851,
+      "delivery_pct": 34.35
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 18:21:35",
+      "an_dt": "28-May-2026 18:21:35",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "Hindustan Copper Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDCOPPERMKD_28052026182012_Reg30_DemandNotice_Water_Cess28052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 12:21:24",
+      "an_dt": "28-May-2026 12:21:24",
+      "desc": "General Updates",
+      "sm_name": "Hindustan Copper Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDCOPPERMKD_28052026122059_LetterBSENSEFinePenalty28052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 13:13:02",
+      "an_dt": "27-May-2026 13:13:02",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Hindustan Copper Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_14052026132846_12.pdf"
+    },
     {
       "sort_date": "2026-05-19 19:25:45",
       "an_dt": "19-May-2026 19:25:45",
@@ -654,13 +667,6 @@
       "desc": "General Updates",
       "sm_name": "Hindustan Copper Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDCOPPERMKD_28022026161103_FinesImposedStockExchanges28022026_.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 11:11:47",
-      "an_dt": "25-Feb-2026 11:11:47",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Hindustan Copper Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDCOPPERMKD_25022026111137_NewspaperAdvSpecialWindow25022026.pdf"
     }
   ]
 }

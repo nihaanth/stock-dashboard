@@ -8,25 +8,9 @@
   "price": 2359.6,
   "market_cap_cr": 6313.75,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 2424.2,
-      "prev_close": 2436.3,
-      "volume": 9415,
-      "deliverable_qty": 5037,
-      "delivery_pct": 53.5
-    },
-    {
-      "date": "2026-02-26",
-      "close": 2416.2,
-      "prev_close": 2424.2,
-      "volume": 10675,
-      "deliverable_qty": 4220,
-      "delivery_pct": 39.53
-    },
     {
       "date": "2026-02-27",
       "close": 2432.7,
@@ -442,6 +426,14 @@
       "volume": 7882,
       "deliverable_qty": 4127,
       "delivery_pct": 52.36
+    },
+    {
+      "date": "2026-05-27",
+      "close": 2389.8,
+      "prev_close": 2399.4,
+      "volume": 9988,
+      "deliverable_qty": 4249,
+      "delivery_pct": 42.54
     }
   ],
   "news": [
@@ -619,13 +611,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Ethos Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ETHOS_12032026172845_DIsclosureInvestorsMeetsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 14:29:53",
-      "an_dt": "25-Feb-2026 14:29:53",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Ethos Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ETHOS_25022026142931_NewspaperPublicationsigned.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 1732.0,
   "market_cap_cr": 1033.4,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1641.8,
-      "prev_close": 1667.1,
-      "volume": 133,
-      "deliverable_qty": 130,
-      "delivery_pct": 97.74
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1646.5,
-      "prev_close": 1641.8,
-      "volume": 74,
-      "deliverable_qty": 43,
-      "delivery_pct": 58.11
-    },
     {
       "date": "2026-02-27",
       "close": 1657.4,
@@ -442,9 +426,31 @@
       "volume": 454,
       "deliverable_qty": 348,
       "delivery_pct": 76.65
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1696.2,
+      "prev_close": 1722.9,
+      "volume": 515,
+      "deliverable_qty": 305,
+      "delivery_pct": 59.22
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 11:39:04",
+      "an_dt": "28-May-2026 11:39:04",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "GKW Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GKWLIMITED_28052026113851_Newspaper_Publication_AFR31032026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 13:42:53",
+      "an_dt": "27-May-2026 13:42:53",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "GKW Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GKWLIMITED_27052026134226_GKWRESULT31032026.pdf"
+    },
     {
       "sort_date": "2026-05-13 16:22:00",
       "an_dt": "13-May-2026 16:22:00",

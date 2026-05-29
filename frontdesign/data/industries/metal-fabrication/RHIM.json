@@ -8,25 +8,9 @@
   "price": 386.25,
   "market_cap_cr": 7976.12,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 435.45,
-      "prev_close": 440.3,
-      "volume": 120694,
-      "deliverable_qty": 56852,
-      "delivery_pct": 47.1
-    },
-    {
-      "date": "2026-02-26",
-      "close": 439.65,
-      "prev_close": 435.45,
-      "volume": 420815,
-      "deliverable_qty": 315057,
-      "delivery_pct": 74.87
-    },
     {
       "date": "2026-02-27",
       "close": 434.65,
@@ -442,9 +426,24 @@
       "volume": 161264,
       "deliverable_qty": 66720,
       "delivery_pct": 41.37
+    },
+    {
+      "date": "2026-05-27",
+      "close": 414.4,
+      "prev_close": 405.6,
+      "volume": 388637,
+      "deliverable_qty": 158285,
+      "delivery_pct": 40.73
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 16:19:47",
+      "an_dt": "28-May-2026 16:19:47",
+      "desc": "General Updates",
+      "sm_name": "RHI MAGNESITA INDIA LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RHIM_28052026161915_Intimationofadjournment.pdf"
+    },
     {
       "sort_date": "2026-05-26 16:24:34",
       "an_dt": "26-May-2026 16:24:34",
@@ -549,13 +548,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "RHI MAGNESITA INDIA LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RHIM_05032026225217_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 14:12:27",
-      "an_dt": "25-Feb-2026 14:12:27",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "RHI MAGNESITA INDIA LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RHIM_25022026141215_intimation.pdf"
     }
   ]
 }

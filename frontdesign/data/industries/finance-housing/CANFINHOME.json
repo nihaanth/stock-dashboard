@@ -8,25 +8,9 @@
   "price": 855.3,
   "market_cap_cr": 11388.67,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 888.35,
-      "prev_close": 883.8,
-      "volume": 53569,
-      "deliverable_qty": 24219,
-      "delivery_pct": 45.21
-    },
-    {
-      "date": "2026-02-26",
-      "close": 887.0,
-      "prev_close": 888.35,
-      "volume": 75489,
-      "deliverable_qty": 41136,
-      "delivery_pct": 54.49
-    },
     {
       "date": "2026-02-27",
       "close": 843.4,
@@ -442,9 +426,31 @@
       "volume": 153680,
       "deliverable_qty": 88870,
       "delivery_pct": 57.83
+    },
+    {
+      "date": "2026-05-27",
+      "close": 832.95,
+      "prev_close": 839.55,
+      "volume": 105466,
+      "deliverable_qty": 55601,
+      "delivery_pct": 52.72
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 23:10:41",
+      "an_dt": "27-May-2026 23:10:41",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Can Fin Homes Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANFINHOME_27052026231014_CANFINHOMEOutcomeOfanalystmeet.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 11:39:08",
+      "an_dt": "27-May-2026 11:39:08",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Can Fin Homes Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANFINHOME_27052026113901_CANFINHOMEPreAnalystMeet_27052026.pdf"
+    },
     {
       "sort_date": "2026-05-22 19:07:24",
       "an_dt": "22-May-2026 19:07:24",
@@ -654,13 +660,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Can Fin Homes Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANFINHOME_06032026114317_Postal_Ballot_Voting_Result_and_Scrutinizer_Report_06032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 16:53:06",
-      "an_dt": "25-Feb-2026 16:53:06",
-      "desc": "Record Date",
-      "sm_name": "Can Fin Homes Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANFINHOME_25022026165257_CANFINHOMErecorddate06032026.pdf"
     }
   ]
 }

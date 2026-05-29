@@ -8,25 +8,9 @@
   "price": 71.49,
   "market_cap_cr": 10913.32,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 54.14,
-      "prev_close": 54.22,
-      "volume": 6427764,
-      "deliverable_qty": 4666672,
-      "delivery_pct": 72.6
-    },
-    {
-      "date": "2026-02-26",
-      "close": 53.69,
-      "prev_close": 54.14,
-      "volume": 2019857,
-      "deliverable_qty": 1485677,
-      "delivery_pct": 73.55
-    },
     {
       "date": "2026-02-27",
       "close": 51.07,
@@ -442,9 +426,24 @@
       "volume": 3246894,
       "deliverable_qty": 1614776,
       "delivery_pct": 49.73
+    },
+    {
+      "date": "2026-05-27",
+      "close": 74.75,
+      "prev_close": 72.53,
+      "volume": 5126702,
+      "deliverable_qty": 2339281,
+      "delivery_pct": 45.63
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 12:02:29",
+      "an_dt": "28-May-2026 12:02:29",
+      "desc": "Giving guarantees/indemnity/ becoming a surety for third party",
+      "sm_name": "Lloyds Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGTL2008_28052026120154_Outcome28052026.pdf"
+    },
     {
       "sort_date": "2026-05-19 17:45:44",
       "an_dt": "19-May-2026 17:45:44",

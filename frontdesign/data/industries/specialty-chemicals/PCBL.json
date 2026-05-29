@@ -8,25 +8,9 @@
   "price": 294.15,
   "market_cap_cr": 11573.7,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 306.5,
-      "prev_close": 310.5,
-      "volume": 1015916,
-      "deliverable_qty": 249116,
-      "delivery_pct": 24.52
-    },
-    {
-      "date": "2026-02-26",
-      "close": 300.5,
-      "prev_close": 306.5,
-      "volume": 850487,
-      "deliverable_qty": 357155,
-      "delivery_pct": 41.99
-    },
     {
       "date": "2026-02-27",
       "close": 309.4,
@@ -442,9 +426,24 @@
       "volume": 524016,
       "deliverable_qty": 181159,
       "delivery_pct": 34.57
+    },
+    {
+      "date": "2026-05-27",
+      "close": 287.5,
+      "prev_close": 289.6,
+      "volume": 472249,
+      "deliverable_qty": 152305,
+      "delivery_pct": 32.25
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 13:06:25",
+      "an_dt": "27-May-2026 13:06:25",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "PCBL Chemical Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_14052026131839_18.pdf"
+    },
     {
       "sort_date": "2026-05-21 17:48:29",
       "an_dt": "21-May-2026 17:48:29",

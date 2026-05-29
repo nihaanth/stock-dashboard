@@ -8,25 +8,9 @@
   "price": 218.66,
   "market_cap_cr": 525.06,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 184.1,
-      "prev_close": 187.31,
-      "volume": 3478,
-      "deliverable_qty": 1984,
-      "delivery_pct": 57.04
-    },
-    {
-      "date": "2026-02-26",
-      "close": 184.71,
-      "prev_close": 184.1,
-      "volume": 9503,
-      "deliverable_qty": 7244,
-      "delivery_pct": 76.23
-    },
     {
       "date": "2026-02-27",
       "close": 176.93,
@@ -442,6 +426,14 @@
       "volume": 22026,
       "deliverable_qty": 9396,
       "delivery_pct": 42.66
+    },
+    {
+      "date": "2026-05-27",
+      "close": 198.15,
+      "prev_close": 207.92,
+      "volume": 41475,
+      "deliverable_qty": 21396,
+      "delivery_pct": 51.59
     }
   ],
   "news": [
@@ -556,13 +548,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Kanpur Plastipack Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KANPRPLA_02032026162910_KPL_-_Intimation_Arihant_Conference.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 16:49:48",
-      "an_dt": "25-Feb-2026 16:49:48",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Kanpur Plastipack Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KANPRPLA_25022026164934_Submission_Transcript_ConferenceCall.pdf"
     }
   ]
 }

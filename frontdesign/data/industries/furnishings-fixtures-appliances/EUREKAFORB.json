@@ -8,25 +8,9 @@
   "price": 499.8,
   "market_cap_cr": 9670.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 484.75,
-      "prev_close": 492.75,
-      "volume": 135110,
-      "deliverable_qty": 82618,
-      "delivery_pct": 61.15
-    },
-    {
-      "date": "2026-02-26",
-      "close": 485.45,
-      "prev_close": 484.75,
-      "volume": 171402,
-      "deliverable_qty": 95749,
-      "delivery_pct": 55.86
-    },
     {
       "date": "2026-02-27",
       "close": 475.8,
@@ -442,9 +426,24 @@
       "volume": 249760,
       "deliverable_qty": 135628,
       "delivery_pct": 54.3
+    },
+    {
+      "date": "2026-05-27",
+      "close": 449.8,
+      "prev_close": 459.0,
+      "volume": 329345,
+      "deliverable_qty": 200764,
+      "delivery_pct": 60.96
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 15:04:49",
+      "an_dt": "28-May-2026 15:04:49",
+      "desc": "Updates",
+      "sm_name": "Eureka Forbes Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHILPAJAIN_28052026150341_Intimation_-_Analyst_Call_-_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-25 19:13:49",
       "an_dt": "25-May-2026 19:13:49",

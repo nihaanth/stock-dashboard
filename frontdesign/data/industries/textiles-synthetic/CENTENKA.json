@@ -8,25 +8,9 @@
   "price": 440.65,
   "market_cap_cr": 962.85,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 432.7,
-      "prev_close": 432.6,
-      "volume": 8488,
-      "deliverable_qty": 5305,
-      "delivery_pct": 62.5
-    },
-    {
-      "date": "2026-02-26",
-      "close": 435.6,
-      "prev_close": 432.7,
-      "volume": 9449,
-      "deliverable_qty": 6452,
-      "delivery_pct": 68.28
-    },
     {
       "date": "2026-02-27",
       "close": 433.35,
@@ -442,9 +426,31 @@
       "volume": 127725,
       "deliverable_qty": 39944,
       "delivery_pct": 31.27
+    },
+    {
+      "date": "2026-05-27",
+      "close": 492.95,
+      "prev_close": 495.1,
+      "volume": 59925,
+      "deliverable_qty": 26385,
+      "delivery_pct": 44.03
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 17:14:35",
+      "an_dt": "27-May-2026 17:14:35",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Century Enka Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CENTURYENKA_27052026171413_Transcript_Reg30_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 15:44:30",
+      "an_dt": "27-May-2026 15:44:30",
+      "desc": "Updates",
+      "sm_name": "Century Enka Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CENTURYENKA_27052026154421_Annual_Secr_Compliance_signed.pdf"
+    },
     {
       "sort_date": "2026-05-22 17:10:15",
       "an_dt": "22-May-2026 17:10:15",
@@ -598,13 +604,6 @@
       "desc": "Trading Window",
       "sm_name": "Century Enka Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CENTURYENKA_24032026185513_Intimation_Trading_Window_Closure_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 19:36:35",
-      "an_dt": "25-Feb-2026 19:36:35",
-      "desc": "Updates",
-      "sm_name": "Century Enka Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CENTURYENKA_25022026193539_Regulation_30_IT_Communication_signed.pdf"
     }
   ]
 }

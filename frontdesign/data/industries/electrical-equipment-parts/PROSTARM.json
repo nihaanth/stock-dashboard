@@ -8,25 +8,9 @@
   "price": 159.83,
   "market_cap_cr": 940.99,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 152.22,
-      "prev_close": 152.35,
-      "volume": 148350,
-      "deliverable_qty": 68485,
-      "delivery_pct": 46.16
-    },
-    {
-      "date": "2026-02-26",
-      "close": 150.05,
-      "prev_close": 152.22,
-      "volume": 215422,
-      "deliverable_qty": 107595,
-      "delivery_pct": 49.95
-    },
     {
       "date": "2026-02-27",
       "close": 146.33,
@@ -442,9 +426,38 @@
       "volume": 404967,
       "deliverable_qty": 173682,
       "delivery_pct": 42.89
+    },
+    {
+      "date": "2026-05-27",
+      "close": 142.31,
+      "prev_close": 143.31,
+      "volume": 247437,
+      "deliverable_qty": 138508,
+      "delivery_pct": 55.98
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 17:45:47",
+      "an_dt": "28-May-2026 17:45:47",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Prostarm Info Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PROSTARM_28052026174537_SE_Transcript.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 12:22:54",
+      "an_dt": "27-May-2026 12:22:54",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Prostarm Info Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PROSTARM_27052026122243_SE_Newspaper-PAS-1_S.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 12:13:40",
+      "an_dt": "27-May-2026 12:13:40",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Prostarm Info Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PROSTARM_27052026121319_SE_Newspaper-Postal_Ballot_S.pdf"
+    },
     {
       "sort_date": "2026-05-26 14:11:38",
       "an_dt": "26-May-2026 14:11:38",

@@ -8,25 +8,9 @@
   "price": 312.75,
   "market_cap_cr": 1600.53,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 277.3,
-      "prev_close": 272.9,
-      "volume": 61625,
-      "deliverable_qty": 32460,
-      "delivery_pct": 52.67
-    },
-    {
-      "date": "2026-02-26",
-      "close": 283.55,
-      "prev_close": 277.3,
-      "volume": 391066,
-      "deliverable_qty": 129302,
-      "delivery_pct": 33.06
-    },
     {
       "date": "2026-02-27",
       "close": 294.65,
@@ -442,9 +426,24 @@
       "volume": 480259,
       "deliverable_qty": 262430,
       "delivery_pct": 54.64
+    },
+    {
+      "date": "2026-05-27",
+      "close": 284.05,
+      "prev_close": 283.85,
+      "volume": 107903,
+      "deliverable_qty": 58360,
+      "delivery_pct": 54.09
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 15:14:32",
+      "an_dt": "28-May-2026 15:14:32",
+      "desc": "General Updates",
+      "sm_name": "Godavari Biorefineries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GODAVARIBIO_28052026151418_intimation_to_SE.pdf"
+    },
     {
       "sort_date": "2026-05-26 14:00:42",
       "an_dt": "26-May-2026 14:00:42",
@@ -563,13 +562,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Godavari Biorefineries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GODAVARIBIO_27022026145741_Intimation_to_SE-_News_paper.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 12:40:26",
-      "an_dt": "26-Feb-2026 12:40:26",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Godavari Biorefineries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GODAVARIBIO_26022026123932_Intimation_to_SE-Transcript.pdf"
     }
   ]
 }

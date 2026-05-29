@@ -8,25 +8,9 @@
   "price": 4517.1,
   "market_cap_cr": 152879.2,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 4418.9,
-      "prev_close": 4397.9,
-      "volume": 359916,
-      "deliverable_qty": 174270,
-      "delivery_pct": 48.42
-    },
-    {
-      "date": "2026-02-26",
-      "close": 4399.8,
-      "prev_close": 4418.9,
-      "volume": 360650,
-      "deliverable_qty": 213457,
-      "delivery_pct": 59.19
-    },
     {
       "date": "2026-02-27",
       "close": 4333.3,
@@ -442,9 +426,31 @@
       "volume": 506176,
       "deliverable_qty": 235325,
       "delivery_pct": 46.49
+    },
+    {
+      "date": "2026-05-27",
+      "close": 4537.8,
+      "prev_close": 4452.1,
+      "volume": 217334,
+      "deliverable_qty": 94031,
+      "delivery_pct": 43.27
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 16:06:46",
+      "an_dt": "28-May-2026 16:06:46",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Torrent Pharmaceuticals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TORNTPHARM_28052026160614_SE_Intimation_Advt_PRE_AR_dispatch.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 17:26:21",
+      "an_dt": "27-May-2026 17:26:21",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Torrent Pharmaceuticals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TORNTPHARM_27052026172612_SE_Intimation_Transcript_of_concall.pdf"
+    },
     {
       "sort_date": "2026-05-22 19:58:47",
       "an_dt": "22-May-2026 19:58:47",
@@ -626,13 +632,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Torrent Pharmaceuticals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TORNTPHARM_10032026172739_SE_Intimation_Advt_Speical_window_for_physical_transfer.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 19:26:29",
-      "an_dt": "25-Feb-2026 19:26:29",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Torrent Pharmaceuticals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TORNTPHARM_25022026192619_SE_Intimation_Analyst_Meet_25022026.pdf"
     }
   ]
 }

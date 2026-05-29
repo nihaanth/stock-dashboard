@@ -8,25 +8,9 @@
   "price": 219.69,
   "market_cap_cr": 1904.11,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 199.33,
-      "prev_close": 199.95,
-      "volume": 123128,
-      "deliverable_qty": 53392,
-      "delivery_pct": 43.36
-    },
-    {
-      "date": "2026-02-26",
-      "close": 198.02,
-      "prev_close": 199.33,
-      "volume": 135613,
-      "deliverable_qty": 59333,
-      "delivery_pct": 43.75
-    },
     {
       "date": "2026-02-27",
       "close": 195.06,
@@ -442,9 +426,24 @@
       "volume": 3956709,
       "deliverable_qty": 691448,
       "delivery_pct": 17.48
+    },
+    {
+      "date": "2026-05-27",
+      "close": 209.16,
+      "prev_close": 216.3,
+      "volume": 802998,
+      "deliverable_qty": 261701,
+      "delivery_pct": 32.59
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 12:12:16",
+      "an_dt": "27-May-2026 12:12:16",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Solarworld Energy Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNSHINE123_27052026121158_newspaperpubication.pdf"
+    },
     {
       "sort_date": "2026-05-26 18:37:14",
       "an_dt": "26-May-2026 18:37:14",
@@ -647,20 +646,6 @@
       "desc": "Updates",
       "sm_name": "Solarworld Energy Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNSHINE123_05032026171543_CIN_Change_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 14:37:34",
-      "an_dt": "26-Feb-2026 14:37:34",
-      "desc": "Credit Rating- Revision",
-      "sm_name": "Solarworld Energy Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNSHINE123_26022026143632_Intimation_of_revision_in_credit_rating.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 17:21:54",
-      "an_dt": "25-Feb-2026 17:21:54",
-      "desc": "Memorandum of Understanding/Agreements",
-      "sm_name": "Solarworld Energy Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNSHINE123_25022026172116_IntimationofsigningMoU.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 1724.3,
   "market_cap_cr": 28408.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1848.5,
-      "prev_close": 1802.4,
-      "volume": 92312,
-      "deliverable_qty": 30338,
-      "delivery_pct": 32.86
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1861.2,
-      "prev_close": 1848.5,
-      "volume": 143089,
-      "deliverable_qty": 76093,
-      "delivery_pct": 53.18
-    },
     {
       "date": "2026-02-27",
       "close": 1822.2,
@@ -442,6 +426,14 @@
       "volume": 874160,
       "deliverable_qty": 587252,
       "delivery_pct": 67.18
+    },
+    {
+      "date": "2026-05-27",
+      "close": 2313.0,
+      "prev_close": 2307.9,
+      "volume": 224401,
+      "deliverable_qty": 121231,
+      "delivery_pct": 54.02
     }
   ],
   "news": [
@@ -668,13 +660,6 @@
       "desc": "Options to purchase securities",
       "sm_name": "Gland Pharma Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLAND_03032026185151_ESOPGrant03032026-SE_intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 15:09:50",
-      "an_dt": "25-Feb-2026 15:09:50",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Gland Pharma Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLAND_25022026150921_Analyst_Institutional_Investor_Meet_05032026.pdf"
     }
   ]
 }

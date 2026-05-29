@@ -8,25 +8,9 @@
   "price": 1234.0,
   "market_cap_cr": 19108.07,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1063.4,
-      "prev_close": 1083.1,
-      "volume": 37824,
-      "deliverable_qty": 21522,
-      "delivery_pct": 56.9
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1063.7,
-      "prev_close": 1063.4,
-      "volume": 14948,
-      "deliverable_qty": 8443,
-      "delivery_pct": 56.48
-    },
     {
       "date": "2026-02-27",
       "close": 1037.2,
@@ -442,6 +426,14 @@
       "volume": 28205,
       "deliverable_qty": 15170,
       "delivery_pct": 53.78
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1079.3,
+      "prev_close": 1087.9,
+      "volume": 21429,
+      "deliverable_qty": 10283,
+      "delivery_pct": 47.99
     }
   ],
   "news": [
@@ -668,20 +660,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "DCM Shriram Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCMSHRIRAM_12032026164126_DCMOUTCOME12MARCH2026SIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 13:04:32",
-      "an_dt": "26-Feb-2026 13:04:32",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "DCM Shriram Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCMSHRIRAM_26022026130419_SIGNEDRELODGEMENTADVT26022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 17:18:56",
-      "an_dt": "25-Feb-2026 17:18:56",
-      "desc": "Credit Rating- Others",
-      "sm_name": "DCM Shriram Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCMSHRIRAM_25022026171706_DCMESGRATING25FEB2026SIGNED.pdf"
     }
   ]
 }

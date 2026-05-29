@@ -8,25 +8,9 @@
   "price": 467.75,
   "market_cap_cr": 3082.24,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 394.05,
-      "prev_close": 394.85,
-      "volume": 141613,
-      "deliverable_qty": 68047,
-      "delivery_pct": 48.05
-    },
-    {
-      "date": "2026-02-26",
-      "close": 389.25,
-      "prev_close": 394.05,
-      "volume": 41203,
-      "deliverable_qty": 19573,
-      "delivery_pct": 47.5
-    },
     {
       "date": "2026-02-27",
       "close": 389.8,
@@ -442,6 +426,14 @@
       "volume": 100536,
       "deliverable_qty": 52684,
       "delivery_pct": 52.4
+    },
+    {
+      "date": "2026-05-27",
+      "close": 570.35,
+      "prev_close": 578.8,
+      "volume": 100548,
+      "deliverable_qty": 58695,
+      "delivery_pct": 58.38
     }
   ],
   "news": [
@@ -577,13 +569,6 @@
       "desc": "Credit Rating",
       "sm_name": "SG Finserve Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGFINSERVE_06032026162931_Credit_Rating_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 19:16:58",
-      "an_dt": "26-Feb-2026 19:16:58",
-      "desc": "Updates",
-      "sm_name": "SG Finserve Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGFINSERVE_26022026191006_bse_regulation_59.pdf"
     }
   ]
 }

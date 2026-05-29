@@ -8,25 +8,9 @@
   "price": 307.1,
   "market_cap_cr": 1599.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 281.0,
-      "prev_close": 282.25,
-      "volume": 23131,
-      "deliverable_qty": 11858,
-      "delivery_pct": 51.26
-    },
-    {
-      "date": "2026-02-26",
-      "close": 273.85,
-      "prev_close": 281.0,
-      "volume": 22242,
-      "deliverable_qty": 11391,
-      "delivery_pct": 51.21
-    },
     {
       "date": "2026-02-27",
       "close": 271.45,
@@ -442,9 +426,24 @@
       "volume": 15687,
       "deliverable_qty": 9951,
       "delivery_pct": 63.43
+    },
+    {
+      "date": "2026-05-27",
+      "close": 289.6,
+      "prev_close": 295.5,
+      "volume": 38621,
+      "deliverable_qty": 27101,
+      "delivery_pct": 70.17
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 16:09:09",
+      "an_dt": "27-May-2026 16:09:09",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Suraksha Diagnostic Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SURAKSHA_27052026155853_Suraksha_Transcript_of_Earnings_Call_Held_on_22-05-2026.pdf"
+    },
     {
       "sort_date": "2026-05-22 15:17:30",
       "an_dt": "22-May-2026 15:17:30",

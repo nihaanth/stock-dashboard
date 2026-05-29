@@ -8,25 +8,9 @@
   "price": 1555.9,
   "market_cap_cr": 11332.7,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1594.5,
-      "prev_close": 1579.8,
-      "volume": 65822,
-      "deliverable_qty": 37679,
-      "delivery_pct": 57.24
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1627.4,
-      "prev_close": 1594.5,
-      "volume": 256561,
-      "deliverable_qty": 113636,
-      "delivery_pct": 44.29
-    },
     {
       "date": "2026-02-27",
       "close": 1613.0,
@@ -442,6 +426,14 @@
       "volume": 569904,
       "deliverable_qty": 137625,
       "delivery_pct": 24.15
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1668.5,
+      "prev_close": 1662.0,
+      "volume": 173233,
+      "deliverable_qty": 74983,
+      "delivery_pct": 43.28
     }
   ],
   "news": [
@@ -752,34 +744,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Gravita India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRAVITA_27022026152428_Finalcovering.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 19:50:13",
-      "an_dt": "26-Feb-2026 19:50:13",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Gravita India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRAVITA_26022026195002_investormeet.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 19:13:05",
-      "an_dt": "26-Feb-2026 19:13:05",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Gravita India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRAVITA_26022026191109_Outcome26022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 21:58:22",
-      "an_dt": "25-Feb-2026 21:58:22",
-      "desc": "Capacity addition",
-      "sm_name": "Gravita India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRAVITA_25022026215624_FinalIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 20:42:02",
-      "an_dt": "25-Feb-2026 20:42:02",
-      "desc": "Press Release",
-      "sm_name": "Gravita India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRAVITA_25022026204118_FinalPressRelease.pdf"
     }
   ]
 }

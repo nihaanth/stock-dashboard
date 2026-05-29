@@ -8,25 +8,9 @@
   "price": 178.57,
   "market_cap_cr": 17662.76,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 186.83,
-      "prev_close": 186.94,
-      "volume": 996108,
-      "deliverable_qty": 580985,
-      "delivery_pct": 58.33
-    },
-    {
-      "date": "2026-02-26",
-      "close": 187.65,
-      "prev_close": 186.83,
-      "volume": 966283,
-      "deliverable_qty": 540592,
-      "delivery_pct": 55.95
-    },
     {
       "date": "2026-02-27",
       "close": 186.91,
@@ -442,9 +426,45 @@
       "volume": 1060367,
       "deliverable_qty": 609787,
       "delivery_pct": 57.51
+    },
+    {
+      "date": "2026-05-27",
+      "close": 185.37,
+      "prev_close": 184.02,
+      "volume": 1187394,
+      "deliverable_qty": 677720,
+      "delivery_pct": 57.08
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 18:17:59",
+      "an_dt": "28-May-2026 18:17:59",
+      "desc": "Investor Presentation",
+      "sm_name": "Castrol India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CASTROLINDIA_28052026181732_SEIntimation_AnalystsMeetPPT_29May2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 15:15:25",
+      "an_dt": "28-May-2026 15:15:25",
+      "desc": "Appointment",
+      "sm_name": "Castrol India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CASTROLINDIA_28052026151511_CIl_Outcome_of_BM_28_May_2026_Final.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 15:13:52",
+      "an_dt": "28-May-2026 15:13:52",
+      "desc": "Cessation",
+      "sm_name": "Castrol India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CASTROLINDIA_28052026151332_CIl_Outcome_of_BM_28_May_2026_Final.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 15:10:08",
+      "an_dt": "28-May-2026 15:10:08",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Castrol India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CASTROLINDIA_28052026150938_CIl_Outcome_of_BM_28_May_2026_Final.pdf"
+    },
     {
       "sort_date": "2026-05-25 12:25:54",
       "an_dt": "25-May-2026 12:25:54",
@@ -542,20 +562,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Castrol India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CASTROLINDIA_30032026182623_Outcome_of_AGM_30_March_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 14:18:44",
-      "an_dt": "26-Feb-2026 14:18:44",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Castrol India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CASTROLINDIA_26022026141829_Newspaper_Ad.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 15:07:27",
-      "an_dt": "25-Feb-2026 15:07:27",
-      "desc": "Shareholders meeting",
-      "sm_name": "Castrol India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CASTROLINDIA_25022026150657_SE_Intimation_Notice_of_48_AGM.pdf"
     }
   ]
 }

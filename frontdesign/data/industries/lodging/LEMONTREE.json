@@ -8,25 +8,9 @@
   "price": 112.3,
   "market_cap_cr": 8892.45,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 114.33,
-      "prev_close": 113.67,
-      "volume": 3551755,
-      "deliverable_qty": 2105097,
-      "delivery_pct": 59.27
-    },
-    {
-      "date": "2026-02-26",
-      "close": 116.74,
-      "prev_close": 114.33,
-      "volume": 5139458,
-      "deliverable_qty": 2387283,
-      "delivery_pct": 46.45
-    },
     {
       "date": "2026-02-27",
       "close": 113.67,
@@ -442,9 +426,38 @@
       "volume": 2102140,
       "deliverable_qty": 988724,
       "delivery_pct": 47.03
+    },
+    {
+      "date": "2026-05-27",
+      "close": 119.58,
+      "prev_close": 117.21,
+      "volume": 2049788,
+      "deliverable_qty": 1152792,
+      "delivery_pct": 56.24
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 22:35:16",
+      "an_dt": "28-May-2026 22:35:16",
+      "desc": "Investor Presentation",
+      "sm_name": "Lemon Tree Hotels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LEMONTREE_28052026223359_Presentation.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 22:10:09",
+      "an_dt": "28-May-2026 22:10:09",
+      "desc": "Change in Management",
+      "sm_name": "Lemon Tree Hotels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LEMONTREE_28052026220947_Internal_Auditor.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 21:37:12",
+      "an_dt": "28-May-2026 21:37:12",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Lemon Tree Hotels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LEMONTREE_28052026213314_Outcome.pdf"
+    },
     {
       "sort_date": "2026-05-25 20:45:22",
       "an_dt": "25-May-2026 20:45:22",

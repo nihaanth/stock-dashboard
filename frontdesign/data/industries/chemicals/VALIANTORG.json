@@ -8,25 +8,9 @@
   "price": 306.2,
   "market_cap_cr": 857.96,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 236.73,
-      "prev_close": 239.32,
-      "volume": 26166,
-      "deliverable_qty": 15889,
-      "delivery_pct": 60.72
-    },
-    {
-      "date": "2026-02-26",
-      "close": 232.97,
-      "prev_close": 236.73,
-      "volume": 31712,
-      "deliverable_qty": 15614,
-      "delivery_pct": 49.24
-    },
     {
       "date": "2026-02-27",
       "close": 229.58,
@@ -442,9 +426,24 @@
       "volume": 41268,
       "deliverable_qty": 18208,
       "delivery_pct": 44.12
+    },
+    {
+      "date": "2026-05-27",
+      "close": 302.25,
+      "prev_close": 286.7,
+      "volume": 80313,
+      "deliverable_qty": 40191,
+      "delivery_pct": 50.04
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 13:17:07",
+      "an_dt": "27-May-2026 13:17:07",
+      "desc": "Investor Presentation",
+      "sm_name": "Valiant Organics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VALIANTORG_27052026131647_BSENSE.pdf"
+    },
     {
       "sort_date": "2026-05-23 11:56:24",
       "an_dt": "23-May-2026 11:56:24",
@@ -549,13 +548,6 @@
       "desc": "Price movement",
       "sm_name": "Valiant Organics Limited",
       "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-02-25 16:21:22",
-      "an_dt": "25-Feb-2026 16:21:22",
-      "desc": "Investor Presentation",
-      "sm_name": "Valiant Organics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VALIANTORG_25022026162113_Intimation-_IP_Q3.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 147.09,
   "market_cap_cr": 1700.22,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 155.97,
-      "prev_close": 153.16,
-      "volume": 168942,
-      "deliverable_qty": 82384,
-      "delivery_pct": 48.76
-    },
-    {
-      "date": "2026-02-26",
-      "close": 157.8,
-      "prev_close": 155.97,
-      "volume": 214388,
-      "deliverable_qty": 117319,
-      "delivery_pct": 54.72
-    },
     {
       "date": "2026-02-27",
       "close": 157.4,
@@ -442,9 +426,24 @@
       "volume": 264037,
       "deliverable_qty": 140802,
       "delivery_pct": 53.33
+    },
+    {
+      "date": "2026-05-27",
+      "close": 168.02,
+      "prev_close": 171.28,
+      "volume": 322524,
+      "deliverable_qty": 169996,
+      "delivery_pct": 52.71
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 15:16:01",
+      "an_dt": "28-May-2026 15:16:01",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "India Pesticides Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IPL_28052026151554_Transcript_of_the_Earnings_Call.pdf"
+    },
     {
       "sort_date": "2026-05-25 17:18:23",
       "an_dt": "25-May-2026 17:18:23",

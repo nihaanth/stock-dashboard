@@ -8,25 +8,9 @@
   "price": 349.55,
   "market_cap_cr": 7562.13,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 386.45,
-      "prev_close": 383.15,
-      "volume": 321229,
-      "deliverable_qty": 185965,
-      "delivery_pct": 57.89
-    },
-    {
-      "date": "2026-02-26",
-      "close": 388.7,
-      "prev_close": 386.45,
-      "volume": 152888,
-      "deliverable_qty": 66780,
-      "delivery_pct": 43.68
-    },
     {
       "date": "2026-02-27",
       "close": 382.0,
@@ -442,9 +426,24 @@
       "volume": 120135,
       "deliverable_qty": 42281,
       "delivery_pct": 35.19
+    },
+    {
+      "date": "2026-05-27",
+      "close": 401.75,
+      "prev_close": 410.1,
+      "volume": 67288,
+      "deliverable_qty": 33547,
+      "delivery_pct": 49.86
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 13:08:13",
+      "an_dt": "27-May-2026 13:08:13",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Amagi Media Labs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMAGI_27052026130801_Q4Transcript.pdf"
+    },
     {
       "sort_date": "2026-05-22 16:27:33",
       "an_dt": "22-May-2026 16:27:33",

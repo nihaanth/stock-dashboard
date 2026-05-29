@@ -8,25 +8,9 @@
   "price": 171.88,
   "market_cap_cr": 3643.82,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 175.44,
-      "prev_close": 174.02,
-      "volume": 10119,
-      "deliverable_qty": 6280,
-      "delivery_pct": 62.06
-    },
-    {
-      "date": "2026-02-26",
-      "close": 174.07,
-      "prev_close": 175.44,
-      "volume": 12288,
-      "deliverable_qty": 6513,
-      "delivery_pct": 53.0
-    },
     {
       "date": "2026-02-27",
       "close": 172.52,
@@ -442,9 +426,24 @@
       "volume": 36894,
       "deliverable_qty": 22921,
       "delivery_pct": 62.13
+    },
+    {
+      "date": "2026-05-27",
+      "close": 163.77,
+      "prev_close": 163.53,
+      "volume": 39572,
+      "deliverable_qty": 19555,
+      "delivery_pct": 49.42
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 18:06:02",
+      "an_dt": "27-May-2026 18:06:02",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Indiqube Spaces Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIQUBE_27052026180309_INDIQUBE_EV.pdf"
+    },
     {
       "sort_date": "2026-05-26 16:11:35",
       "an_dt": "26-May-2026 16:11:35",
@@ -640,34 +639,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Indiqube Spaces Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIQUBE_02032026202415_Prior_Intimation_InvestorMeet_09032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 21:48:52",
-      "an_dt": "25-Feb-2026 21:48:52",
-      "desc": "General Updates",
-      "sm_name": "Indiqube Spaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIQUBE_25022026214840_Intimation_of_resignation_of_KMP_SMP.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 21:47:14",
-      "an_dt": "25-Feb-2026 21:47:14",
-      "desc": "General Updates",
-      "sm_name": "Indiqube Spaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIQUBE_25022026214659_Intimation_of_resignation_of_KMP_SMP.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 21:37:31",
-      "an_dt": "25-Feb-2026 21:37:31",
-      "desc": "Cessation",
-      "sm_name": "Indiqube Spaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIQUBE_25022026213645_Intimation_of_resignation_of_KMP_SMP.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 21:34:34",
-      "an_dt": "25-Feb-2026 21:34:34",
-      "desc": "Cessation",
-      "sm_name": "Indiqube Spaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIQUBE_25022026212722_Intimation_of_resignation_of_KMP_SMP.pdf"
     }
   ]
 }

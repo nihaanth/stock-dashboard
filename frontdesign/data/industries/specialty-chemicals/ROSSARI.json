@@ -8,25 +8,9 @@
   "price": 525.4,
   "market_cap_cr": 2910.28,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 493.25,
-      "prev_close": 499.35,
-      "volume": 37287,
-      "deliverable_qty": 21162,
-      "delivery_pct": 56.75
-    },
-    {
-      "date": "2026-02-26",
-      "close": 494.45,
-      "prev_close": 493.25,
-      "volume": 38477,
-      "deliverable_qty": 20693,
-      "delivery_pct": 53.78
-    },
     {
       "date": "2026-02-27",
       "close": 496.25,
@@ -442,9 +426,38 @@
       "volume": 124059,
       "deliverable_qty": 53995,
       "delivery_pct": 43.52
+    },
+    {
+      "date": "2026-05-27",
+      "close": 537.2,
+      "prev_close": 543.75,
+      "volume": 109031,
+      "deliverable_qty": 48032,
+      "delivery_pct": 44.05
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 21:23:00",
+      "an_dt": "27-May-2026 21:23:00",
+      "desc": "Options to purchase securities",
+      "sm_name": "Rossari Biotech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ROSSARI_27052026212147_20260527_Outcome_of_Board_Meeting_27052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 21:08:50",
+      "an_dt": "27-May-2026 21:08:50",
+      "desc": "Appointment",
+      "sm_name": "Rossari Biotech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ROSSARI_27052026210709_20260527_Outcome_of_Board_Meeting_27052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 20:54:03",
+      "an_dt": "27-May-2026 20:54:03",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Rossari Biotech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ROSSARI_27052026205337_20260527_Outcome_of_Board_Meeting_27052026.pdf"
+    },
     {
       "sort_date": "2026-05-21 21:23:51",
       "an_dt": "21-May-2026 21:23:51",

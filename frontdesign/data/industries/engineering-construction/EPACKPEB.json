@@ -8,25 +8,9 @@
   "price": 199.02,
   "market_cap_cr": 2002.45,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 181.25,
-      "prev_close": 180.68,
-      "volume": 254451,
-      "deliverable_qty": 151849,
-      "delivery_pct": 59.68
-    },
-    {
-      "date": "2026-02-26",
-      "close": 180.15,
-      "prev_close": 181.25,
-      "volume": 243283,
-      "deliverable_qty": 153526,
-      "delivery_pct": 63.11
-    },
     {
       "date": "2026-02-27",
       "close": 179.21,
@@ -442,9 +426,31 @@
       "volume": 409935,
       "deliverable_qty": 163036,
       "delivery_pct": 39.77
+    },
+    {
+      "date": "2026-05-27",
+      "close": 187.04,
+      "prev_close": 189.45,
+      "volume": 300918,
+      "deliverable_qty": 163335,
+      "delivery_pct": 54.28
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 17:08:50",
+      "an_dt": "27-May-2026 17:08:50",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "EPack Prefab Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EPACKPREFAB_27052026165104_IntimationConference_27052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 12:29:26",
+      "an_dt": "27-May-2026 12:29:26",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "EPack Prefab Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_14052026125800_24.pdf"
+    },
     {
       "sort_date": "2026-05-20 17:16:53",
       "an_dt": "20-May-2026 17:16:53",
@@ -584,13 +590,6 @@
       "desc": "Trading Window",
       "sm_name": "EPack Prefab Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EPACKPREFAB_25032026211017_TradingWindowClosureIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 21:41:25",
-      "an_dt": "26-Feb-2026 21:41:25",
-      "desc": "Cessation",
-      "sm_name": "EPack Prefab Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EPACKPREFAB_26022026213918_IntimationResingationAnoopKabra.pdf"
     }
   ]
 }

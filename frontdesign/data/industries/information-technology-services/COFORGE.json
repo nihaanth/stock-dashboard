@@ -8,25 +8,9 @@
   "price": 1231.3,
   "market_cap_cr": 41348.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1212.9,
-      "prev_close": 1212.2,
-      "volume": 5227982,
-      "deliverable_qty": 2366953,
-      "delivery_pct": 45.27
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1200.4,
-      "prev_close": 1212.9,
-      "volume": 6063557,
-      "deliverable_qty": 3421089,
-      "delivery_pct": 56.42
-    },
     {
       "date": "2026-02-27",
       "close": 1185.8,
@@ -442,6 +426,14 @@
       "volume": 1780000,
       "deliverable_qty": 882553,
       "delivery_pct": 49.58
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1388.4,
+      "prev_close": 1422.8,
+      "volume": 1709429,
+      "deliverable_qty": 867269,
+      "delivery_pct": 50.73
     }
   ],
   "news": [
@@ -742,7 +734,7 @@
     {
       "sort_date": "2026-03-20 11:15:16",
       "an_dt": "20-Mar-2026 11:15:16",
-      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
+      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
       "sm_name": "Coforge Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/COFORGE_20032026111503_Intimation_for_RTA_Change.pdf"
     },
@@ -773,20 +765,6 @@
       "desc": "General Updates",
       "sm_name": "Coforge Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/COFORGE_28022026153900_SE_Feb28.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 10:13:20",
-      "an_dt": "26-Feb-2026 10:13:20",
-      "desc": "Press Release",
-      "sm_name": "Coforge Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COFORGE_26022026101212_PR_26Feb.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 11:15:53",
-      "an_dt": "25-Feb-2026 11:15:53",
-      "desc": "Press Release",
-      "sm_name": "Coforge Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COFORGE_25022026111530_PR_intimation_25Feb.pdf"
     }
   ]
 }

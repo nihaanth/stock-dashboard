@@ -8,25 +8,9 @@
   "price": 330.25,
   "market_cap_cr": 2859.17,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 262.0,
-      "prev_close": 261.4,
-      "volume": 118155,
-      "deliverable_qty": 47622,
-      "delivery_pct": 40.3
-    },
-    {
-      "date": "2026-02-26",
-      "close": 265.05,
-      "prev_close": 262.0,
-      "volume": 291898,
-      "deliverable_qty": 102544,
-      "delivery_pct": 35.13
-    },
     {
       "date": "2026-02-27",
       "close": 261.2,
@@ -442,9 +426,24 @@
       "volume": 1108815,
       "deliverable_qty": 366243,
       "delivery_pct": 33.03
+    },
+    {
+      "date": "2026-05-27",
+      "close": 374.8,
+      "prev_close": 381.55,
+      "volume": 239397,
+      "deliverable_qty": 128137,
+      "delivery_pct": 53.52
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 11:26:00",
+      "an_dt": "27-May-2026 11:26:00",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Sanghvi Movers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANGHVIMOV_27052026112503_SE_Intimation_Earning_Call_Transcript_Q4.pdf"
+    },
     {
       "sort_date": "2026-05-22 16:57:53",
       "an_dt": "22-May-2026 16:57:53",
@@ -563,20 +562,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Sanghvi Movers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANGHVIMOV_02032026170856_SEIntimation_AnalystsMeetOutcome_02032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 14:47:07",
-      "an_dt": "25-Feb-2026 14:47:07",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Sanghvi Movers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANGHVIMOV_25022026144512_Analysts_Meet_3March.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 14:40:19",
-      "an_dt": "25-Feb-2026 14:40:19",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Sanghvi Movers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANGHVIMOV_25022026143547_Analysts_Meet_2March.pdf"
     }
   ]
 }

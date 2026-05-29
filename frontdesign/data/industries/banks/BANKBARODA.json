@@ -8,25 +8,9 @@
   "price": 266.0,
   "market_cap_cr": 137558.24,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 315.85,
-      "prev_close": 313.1,
-      "volume": 9318353,
-      "deliverable_qty": 5215302,
-      "delivery_pct": 55.97
-    },
-    {
-      "date": "2026-02-26",
-      "close": 324.45,
-      "prev_close": 315.85,
-      "volume": 20502406,
-      "deliverable_qty": 10278283,
-      "delivery_pct": 50.13
-    },
     {
       "date": "2026-02-27",
       "close": 321.95,
@@ -442,6 +426,14 @@
       "volume": 10164821,
       "deliverable_qty": 4786770,
       "delivery_pct": 47.09
+    },
+    {
+      "date": "2026-05-27",
+      "close": 270.95,
+      "prev_close": 270.55,
+      "volume": 10007296,
+      "deliverable_qty": 5234118,
+      "delivery_pct": 52.3
     }
   ],
   "news": [
@@ -773,27 +765,6 @@
       "desc": "Credit Rating",
       "sm_name": "Bank of Baroda",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANKBARODA_27022026153451_SERating.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 18:46:08",
-      "an_dt": "25-Feb-2026 18:46:08",
-      "desc": "Credit Rating",
-      "sm_name": "Bank of Baroda",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANKBARODA_25022026184600_SERATING.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 18:36:06",
-      "an_dt": "25-Feb-2026 18:36:06",
-      "desc": "Credit Rating",
-      "sm_name": "Bank of Baroda",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANKBARODA_25022026183558_SEICRA.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 12:44:23",
-      "an_dt": "25-Feb-2026 12:44:23",
-      "desc": "Credit Rating",
-      "sm_name": "Bank of Baroda",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANKBARODA_25022026124416_SEFitch1.pdf"
     }
   ]
 }

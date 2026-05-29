@@ -8,25 +8,9 @@
   "price": 167.33,
   "market_cap_cr": 3472.5,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 164.38,
-      "prev_close": 159.67,
-      "volume": 1547883,
-      "deliverable_qty": 404245,
-      "delivery_pct": 26.12
-    },
-    {
-      "date": "2026-02-26",
-      "close": 161.0,
-      "prev_close": 164.38,
-      "volume": 1388870,
-      "deliverable_qty": 292233,
-      "delivery_pct": 21.04
-    },
     {
       "date": "2026-02-27",
       "close": 160.67,
@@ -442,6 +426,14 @@
       "volume": 5144801,
       "deliverable_qty": 922476,
       "delivery_pct": 17.93
+    },
+    {
+      "date": "2026-05-27",
+      "close": 158.32,
+      "prev_close": 163.84,
+      "volume": 5201615,
+      "deliverable_qty": 1762543,
+      "delivery_pct": 33.88
     }
   ],
   "news": [
@@ -542,13 +534,6 @@
       "desc": "General Updates",
       "sm_name": "GRM Overseas Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRMOVER_14032026182905_Reg30appointmentnidhi.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 17:43:22",
-      "an_dt": "26-Feb-2026 17:43:22",
-      "desc": "General Updates",
-      "sm_name": "GRM Overseas Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRMOVER_26022026174314_Reg30intimationfinal.pdf"
     }
   ]
 }

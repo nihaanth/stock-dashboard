@@ -8,25 +8,9 @@
   "price": 438.75,
   "market_cap_cr": 3088.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 453.3,
-      "prev_close": 453.0,
-      "volume": 64095,
-      "deliverable_qty": 33435,
-      "delivery_pct": 52.16
-    },
-    {
-      "date": "2026-02-26",
-      "close": 451.9,
-      "prev_close": 453.3,
-      "volume": 68767,
-      "deliverable_qty": 28356,
-      "delivery_pct": 41.23
-    },
     {
       "date": "2026-02-27",
       "close": 457.2,
@@ -442,9 +426,31 @@
       "volume": 123657,
       "deliverable_qty": 56932,
       "delivery_pct": 46.04
+    },
+    {
+      "date": "2026-05-27",
+      "close": 438.6,
+      "prev_close": 436.1,
+      "volume": 114285,
+      "deliverable_qty": 52406,
+      "delivery_pct": 45.86
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 16:47:21",
+      "an_dt": "28-May-2026 16:47:21",
+      "desc": "General Updates",
+      "sm_name": "Mstc Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MSTCLTD_28052026164649_SE733.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 18:43:04",
+      "an_dt": "27-May-2026 18:43:04",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Mstc Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MSTCLTD_27052026184254_SE732.pdf"
+    },
     {
       "sort_date": "2026-05-25 12:19:35",
       "an_dt": "25-May-2026 12:19:35",
@@ -507,13 +513,6 @@
       "desc": "General Updates",
       "sm_name": "Mstc Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MSTCLTD_02032026160029_BSE716.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 18:48:02",
-      "an_dt": "26-Feb-2026 18:48:02",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "Mstc Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MSTCLTD_26022026184736_SE714.pdf"
     }
   ]
 }

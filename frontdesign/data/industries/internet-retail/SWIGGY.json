@@ -8,25 +8,9 @@
   "price": 264.2,
   "market_cap_cr": 68599.15,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 307.4,
-      "prev_close": 314.0,
-      "volume": 10518650,
-      "deliverable_qty": 4351683,
-      "delivery_pct": 41.37
-    },
-    {
-      "date": "2026-02-26",
-      "close": 307.05,
-      "prev_close": 307.4,
-      "volume": 7865362,
-      "deliverable_qty": 3957409,
-      "delivery_pct": 50.31
-    },
     {
       "date": "2026-02-27",
       "close": 301.75,
@@ -442,9 +426,24 @@
       "volume": 8487347,
       "deliverable_qty": 4130782,
       "delivery_pct": 48.67
+    },
+    {
+      "date": "2026-05-27",
+      "close": 270.65,
+      "prev_close": 253.9,
+      "volume": 27066874,
+      "deliverable_qty": 11036454,
+      "delivery_pct": 40.77
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 16:53:06",
+      "an_dt": "27-May-2026 16:53:06",
+      "desc": "General Updates",
+      "sm_name": "Swiggy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SWIGGY_27052026165244_SE_Disclosure_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-21 20:01:33",
       "an_dt": "21-May-2026 20:01:33",

@@ -8,25 +8,9 @@
   "price": 969.45,
   "market_cap_cr": 37098.25,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 706.3,
-      "prev_close": 698.85,
-      "volume": 1389510,
-      "deliverable_qty": 307716,
-      "delivery_pct": 22.15
-    },
-    {
-      "date": "2026-02-26",
-      "close": 700.3,
-      "prev_close": 706.3,
-      "volume": 2048529,
-      "deliverable_qty": 967247,
-      "delivery_pct": 47.22
-    },
     {
       "date": "2026-02-27",
       "close": 710.9,
@@ -442,9 +426,24 @@
       "volume": 9163908,
       "deliverable_qty": 2114359,
       "delivery_pct": 23.07
+    },
+    {
+      "date": "2026-05-27",
+      "close": 955.5,
+      "prev_close": 950.6,
+      "volume": 2225467,
+      "deliverable_qty": 619808,
+      "delivery_pct": 27.85
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 22:28:48",
+      "an_dt": "27-May-2026 22:28:48",
+      "desc": "General Updates",
+      "sm_name": "Ather Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ATHERENERGY_27052026222818_IncorporationofSubsidaryToFile.pdf"
+    },
     {
       "sort_date": "2026-05-25 15:25:20",
       "an_dt": "25-May-2026 15:25:20",

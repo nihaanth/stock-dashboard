@@ -8,25 +8,9 @@
   "price": 688.6,
   "market_cap_cr": 57044.7,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 725.45,
-      "prev_close": 717.0,
-      "volume": 302501,
-      "deliverable_qty": 193144,
-      "delivery_pct": 63.85
-    },
-    {
-      "date": "2026-02-26",
-      "close": 713.6,
-      "prev_close": 725.45,
-      "volume": 180498,
-      "deliverable_qty": 109003,
-      "delivery_pct": 60.39
-    },
     {
       "date": "2026-02-27",
       "close": 705.25,
@@ -442,6 +426,14 @@
       "volume": 431882,
       "deliverable_qty": 246551,
       "delivery_pct": 57.09
+    },
+    {
+      "date": "2026-05-27",
+      "close": 674.2,
+      "prev_close": 679.7,
+      "volume": 113431,
+      "deliverable_qty": 64539,
+      "delivery_pct": 56.9
     }
   ],
   "news": [
@@ -612,13 +604,6 @@
       "desc": "Resignation",
       "sm_name": "HDB Financial Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HDB_02032026175053_SE02032026_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 16:07:51",
-      "an_dt": "26-Feb-2026 16:07:51",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "HDB Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HDBF_26022026160520_Intimation_under_Regulation_30_-_Analyst_Investor_Meet.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 740.45,
   "market_cap_cr": 11678.12,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 593.3,
-      "prev_close": 602.45,
-      "volume": 117147,
-      "deliverable_qty": 52840,
-      "delivery_pct": 45.11
-    },
-    {
-      "date": "2026-02-26",
-      "close": 593.4,
-      "prev_close": 593.3,
-      "volume": 243586,
-      "deliverable_qty": 128043,
-      "delivery_pct": 52.57
-    },
     {
       "date": "2026-02-27",
       "close": 585.4,
@@ -442,9 +426,24 @@
       "volume": 1109411,
       "deliverable_qty": 214942,
       "delivery_pct": 19.37
+    },
+    {
+      "date": "2026-05-27",
+      "close": 680.45,
+      "prev_close": 697.05,
+      "volume": 555634,
+      "deliverable_qty": 252392,
+      "delivery_pct": 45.42
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 15:00:30",
+      "an_dt": "27-May-2026 15:00:30",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Jubilant Ingrevia Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JUBLINGREA_27052026145943_Stock_Exchange_intimation_Newspaper_Publication.pdf"
+    },
     {
       "sort_date": "2026-05-26 19:49:32",
       "an_dt": "26-May-2026 19:49:32",

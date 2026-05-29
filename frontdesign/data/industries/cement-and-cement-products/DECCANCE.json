@@ -8,25 +8,9 @@
   "price": 635.45,
   "market_cap_cr": 890.11,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 711.4,
-      "prev_close": 709.7,
-      "volume": 9475,
-      "deliverable_qty": 5211,
-      "delivery_pct": 55.0
-    },
-    {
-      "date": "2026-02-26",
-      "close": 754.75,
-      "prev_close": 711.4,
-      "volume": 204247,
-      "deliverable_qty": 92475,
-      "delivery_pct": 45.28
-    },
     {
       "date": "2026-02-27",
       "close": 738.25,
@@ -442,9 +426,24 @@
       "volume": 20115,
       "deliverable_qty": 13650,
       "delivery_pct": 67.86
+    },
+    {
+      "date": "2026-05-27",
+      "close": 619.8,
+      "prev_close": 615.25,
+      "volume": 16571,
+      "deliverable_qty": 11572,
+      "delivery_pct": 69.83
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 17:17:03",
+      "an_dt": "27-May-2026 17:17:03",
+      "desc": "Corrigendum",
+      "sm_name": "Deccan Cements Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DECCANCE_27052026171652_PostalBallotNoticetoSE_Updation.pdf"
+    },
     {
       "sort_date": "2026-05-15 15:21:55",
       "an_dt": "15-May-2026 15:21:55",

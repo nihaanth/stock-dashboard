@@ -8,25 +8,9 @@
   "price": 1034.2,
   "market_cap_cr": 28186.78,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1027.4,
-      "prev_close": 1041.1,
-      "volume": 20495,
-      "deliverable_qty": 10225,
-      "delivery_pct": 49.89
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1047.2,
-      "prev_close": 1027.4,
-      "volume": 36787,
-      "deliverable_qty": 27530,
-      "delivery_pct": 74.84
-    },
     {
       "date": "2026-02-27",
       "close": 1056.6,
@@ -442,9 +426,24 @@
       "volume": 15486,
       "deliverable_qty": 7557,
       "delivery_pct": 48.8
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1052.4,
+      "prev_close": 1058.6,
+      "volume": 29629,
+      "deliverable_qty": 10136,
+      "delivery_pct": 34.21
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 18:26:29",
+      "an_dt": "27-May-2026 18:26:29",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Metro Brands Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/METROBRAND_27052026182516_outcome_to_SE_-_Post_Meeting_May272026_signed.pdf"
+    },
     {
       "sort_date": "2026-05-26 17:00:37",
       "an_dt": "26-May-2026 17:00:37",
@@ -605,13 +604,6 @@
       "desc": "Options to purchase securities",
       "sm_name": "Metro Brands Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/METROBRAND_16032026151805_SE_Disclosure_and_10C_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 17:52:19",
-      "an_dt": "26-Feb-2026 17:52:19",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Metro Brands Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/METROBRAND_26022026175212_Intimation_to_SE_cancellation_of_meet_signed.pdf"
     }
   ]
 }

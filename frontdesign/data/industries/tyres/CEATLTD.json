@@ -8,25 +8,9 @@
   "price": 3575.1,
   "market_cap_cr": 14422.5,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 3749.7,
-      "prev_close": 3723.1,
-      "volume": 97952,
-      "deliverable_qty": 45550,
-      "delivery_pct": 46.5
-    },
-    {
-      "date": "2026-02-26",
-      "close": 3702.9,
-      "prev_close": 3749.7,
-      "volume": 113147,
-      "deliverable_qty": 50703,
-      "delivery_pct": 44.81
-    },
     {
       "date": "2026-02-27",
       "close": 3531.4,
@@ -442,9 +426,31 @@
       "volume": 112913,
       "deliverable_qty": 44732,
       "delivery_pct": 39.62
+    },
+    {
+      "date": "2026-05-27",
+      "close": 3295.3,
+      "prev_close": 3298.1,
+      "volume": 109286,
+      "deliverable_qty": 43250,
+      "delivery_pct": 39.58
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 12:30:05",
+      "an_dt": "28-May-2026 12:30:05",
+      "desc": "Issue of Duplicate Share Certificate",
+      "sm_name": "CEAT Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CEATLTD_28052026122956_SELetterDuplicateSC28052026signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 15:30:20",
+      "an_dt": "27-May-2026 15:30:20",
+      "desc": "Loss of Share Certificates",
+      "sm_name": "CEAT Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CEATLTD_27052026152951_SELossintimationMay272026signed.pdf"
+    },
     {
       "sort_date": "2026-05-25 20:36:15",
       "an_dt": "25-May-2026 20:36:15",
@@ -682,20 +688,6 @@
       "desc": "Issue of Duplicate Share Certificate",
       "sm_name": "CEAT Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CEATLTD_27022026155200_SELetterDuplicateSC27022026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 17:11:58",
-      "an_dt": "25-Feb-2026 17:11:58",
-      "desc": "Loss of Share Certificates",
-      "sm_name": "CEAT Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CEATLTD_25022026171140_SELetterLossSC25Feb2026finalsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 10:09:21",
-      "an_dt": "25-Feb-2026 10:09:21",
-      "desc": "General Updates",
-      "sm_name": "CEAT Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CEATLTD_25022026100721_SEintimationCSAratingGTsigned.pdf"
     }
   ]
 }

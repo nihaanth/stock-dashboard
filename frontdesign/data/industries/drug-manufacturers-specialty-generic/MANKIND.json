@@ -8,25 +8,9 @@
   "price": 2077.4,
   "market_cap_cr": 85760.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 2155.7,
-      "prev_close": 2054.7,
-      "volume": 802399,
-      "deliverable_qty": 425981,
-      "delivery_pct": 53.09
-    },
-    {
-      "date": "2026-02-26",
-      "close": 2279.7,
-      "prev_close": 2155.7,
-      "volume": 2770867,
-      "deliverable_qty": 1173511,
-      "delivery_pct": 42.35
-    },
     {
       "date": "2026-02-27",
       "close": 2247.6,
@@ -442,9 +426,24 @@
       "volume": 442713,
       "deliverable_qty": 225540,
       "delivery_pct": 50.94
+    },
+    {
+      "date": "2026-05-27",
+      "close": 2420.4,
+      "prev_close": 2423.6,
+      "volume": 424138,
+      "deliverable_qty": 294698,
+      "delivery_pct": 69.48
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 16:11:16",
+      "an_dt": "27-May-2026 16:11:16",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Mankind Pharma Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANKIND1_27052026161101_Intimation_Investorcoference.pdf"
+    },
     {
       "sort_date": "2026-05-26 17:01:32",
       "an_dt": "26-May-2026 17:01:32",
@@ -591,13 +590,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Mankind Pharma Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANKIND1_16032026134402_outcome-sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 18:26:04",
-      "an_dt": "26-Feb-2026 18:26:04",
-      "desc": "General Updates",
-      "sm_name": "Mankind Pharma Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANKIND1_26022026182556_GSTorderintimation.pdf"
     }
   ]
 }

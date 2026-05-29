@@ -8,25 +8,9 @@
   "price": 310.4,
   "market_cap_cr": 642.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 316.15,
-      "prev_close": 323.4,
-      "volume": 43100,
-      "deliverable_qty": 31145,
-      "delivery_pct": 72.26
-    },
-    {
-      "date": "2026-02-26",
-      "close": 310.05,
-      "prev_close": 316.15,
-      "volume": 82451,
-      "deliverable_qty": 62182,
-      "delivery_pct": 75.42
-    },
     {
       "date": "2026-02-27",
       "close": 299.55,
@@ -442,9 +426,24 @@
       "volume": 41943,
       "deliverable_qty": 20101,
       "delivery_pct": 47.92
+    },
+    {
+      "date": "2026-05-27",
+      "close": 281.05,
+      "prev_close": 283.6,
+      "volume": 13891,
+      "deliverable_qty": 6571,
+      "delivery_pct": 47.3
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 17:01:57",
+      "an_dt": "28-May-2026 17:01:57",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Concord Enviro Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CONCORDENVIRO_28052026170132_IntimationTranscriptQ4FY26sd.pdf"
+    },
     {
       "sort_date": "2026-05-25 18:16:13",
       "an_dt": "25-May-2026 18:16:13",

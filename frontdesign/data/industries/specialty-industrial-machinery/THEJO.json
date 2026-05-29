@@ -8,25 +8,9 @@
   "price": 1766.5,
   "market_cap_cr": 1915.93,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1730.6,
-      "prev_close": 1671.9,
-      "volume": 11827,
-      "deliverable_qty": 9250,
-      "delivery_pct": 78.21
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1702.6,
-      "prev_close": 1730.6,
-      "volume": 3035,
-      "deliverable_qty": 1834,
-      "delivery_pct": 60.43
-    },
     {
       "date": "2026-02-27",
       "close": 1686.6,
@@ -442,9 +426,52 @@
       "volume": 6763,
       "deliverable_qty": 4533,
       "delivery_pct": 67.03
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1615.5,
+      "prev_close": 1642.1,
+      "volume": 4436,
+      "deliverable_qty": 3087,
+      "delivery_pct": 69.59
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 18:10:50",
+      "an_dt": "28-May-2026 18:10:50",
+      "desc": "Press Release",
+      "sm_name": "Thejo Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THEJO_28052026180817_NSE_PressRelease_20260528.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 15:53:55",
+      "an_dt": "28-May-2026 15:53:55",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Thejo Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THEJO_28052026155143_NSE_NewspaperAd_FinRes_20260528.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 16:19:29",
+      "an_dt": "27-May-2026 16:19:29",
+      "desc": "Record Date",
+      "sm_name": "Thejo Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THEJO_27052026161736_NSEFiling_RecDate_AGM2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 16:12:13",
+      "an_dt": "27-May-2026 16:12:13",
+      "desc": "Dividend",
+      "sm_name": "Thejo Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THEJO_27052026161112_NSE_Outcome_BM_20260527.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 16:09:54",
+      "an_dt": "27-May-2026 16:09:54",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Thejo Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THEJO_27052026160732_NSE_Outcome_BM_20260527.pdf"
+    },
     {
       "sort_date": "2026-04-09 20:05:07",
       "an_dt": "09-Apr-2026 20:05:07",

@@ -8,25 +8,9 @@
   "price": 285.15,
   "market_cap_cr": 1417.93,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 276.66,
-      "prev_close": 271.16,
-      "volume": 252030,
-      "deliverable_qty": 69784,
-      "delivery_pct": 27.69
-    },
-    {
-      "date": "2026-02-26",
-      "close": 276.2,
-      "prev_close": 276.66,
-      "volume": 62543,
-      "deliverable_qty": 37994,
-      "delivery_pct": 60.75
-    },
     {
       "date": "2026-02-27",
       "close": 269.56,
@@ -442,9 +426,31 @@
       "volume": 153571,
       "deliverable_qty": 58915,
       "delivery_pct": 38.36
+    },
+    {
+      "date": "2026-05-27",
+      "close": 279.9,
+      "prev_close": 292.4,
+      "volume": 531609,
+      "deliverable_qty": 142617,
+      "delivery_pct": 26.83
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 16:27:22",
+      "an_dt": "28-May-2026 16:27:22",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Chaman Lal Setia Exports Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CLSEL_28052026162709_FINAL28.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 17:05:56",
+      "an_dt": "27-May-2026 17:05:56",
+      "desc": "Press Release",
+      "sm_name": "Chaman Lal Setia Exports Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CLSEL_27052026170457_Final27.pdf"
+    },
     {
       "sort_date": "2026-05-26 18:03:02",
       "an_dt": "26-May-2026 18:03:02",

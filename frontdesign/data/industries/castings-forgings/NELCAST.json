@@ -8,25 +8,9 @@
   "price": 155.47,
   "market_cap_cr": 1356.38,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 116.7,
-      "prev_close": 115.15,
-      "volume": 323619,
-      "deliverable_qty": 147190,
-      "delivery_pct": 45.48
-    },
-    {
-      "date": "2026-02-26",
-      "close": 111.56,
-      "prev_close": 116.7,
-      "volume": 208369,
-      "deliverable_qty": 109554,
-      "delivery_pct": 52.58
-    },
     {
       "date": "2026-02-27",
       "close": 114.51,
@@ -442,6 +426,14 @@
       "volume": 185808,
       "deliverable_qty": 83269,
       "delivery_pct": 44.81
+    },
+    {
+      "date": "2026-05-27",
+      "close": 137.8,
+      "prev_close": 137.21,
+      "volume": 185841,
+      "deliverable_qty": 66727,
+      "delivery_pct": 35.91
     }
   ],
   "news": [
@@ -563,20 +555,6 @@
       "desc": "Credit Rating",
       "sm_name": "Nelcast Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NELCAST1_05032026191652_CreditRating05032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 14:27:14",
-      "an_dt": "26-Feb-2026 14:27:14",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Nelcast Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NELCAST1_26022026142658_IntConcall09032026_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 14:25:18",
-      "an_dt": "26-Feb-2026 14:25:18",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Nelcast Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NELCAST1_26022026142451_IntConcall06032026_Signed.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 605.5,
   "market_cap_cr": 7629.3,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 438.75,
-      "prev_close": 430.45,
-      "volume": 180201,
-      "deliverable_qty": 98301,
-      "delivery_pct": 54.55
-    },
-    {
-      "date": "2026-02-26",
-      "close": 446.85,
-      "prev_close": 438.75,
-      "volume": 176286,
-      "deliverable_qty": 107300,
-      "delivery_pct": 60.87
-    },
     {
       "date": "2026-02-27",
       "close": 461.7,
@@ -442,9 +426,24 @@
       "volume": 164353,
       "deliverable_qty": 89280,
       "delivery_pct": 54.32
+    },
+    {
+      "date": "2026-05-27",
+      "close": 601.5,
+      "prev_close": 603.7,
+      "volume": 83961,
+      "deliverable_qty": 38195,
+      "delivery_pct": 45.49
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 19:00:25",
+      "an_dt": "27-May-2026 19:00:25",
+      "desc": "Action(s) initiated or orders passed",
+      "sm_name": "SG Mart Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGMART_27052026190006_Covering_of_Stamp_duty_order_27_05_2026.pdf"
+    },
     {
       "sort_date": "2026-05-07 18:57:28",
       "an_dt": "07-May-2026 18:57:28",

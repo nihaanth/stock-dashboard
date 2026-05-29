@@ -8,25 +8,9 @@
   "price": 126.06,
   "market_cap_cr": 19440.73,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 107.92,
-      "prev_close": 109.21,
-      "volume": 3307877,
-      "deliverable_qty": 1668880,
-      "delivery_pct": 50.45
-    },
-    {
-      "date": "2026-02-26",
-      "close": 108.07,
-      "prev_close": 107.92,
-      "volume": 12437473,
-      "deliverable_qty": 10487261,
-      "delivery_pct": 84.32
-    },
     {
       "date": "2026-02-27",
       "close": 107.1,
@@ -442,9 +426,24 @@
       "volume": 3961104,
       "deliverable_qty": 1914163,
       "delivery_pct": 48.32
+    },
+    {
+      "date": "2026-05-27",
+      "close": 123.36,
+      "prev_close": 123.36,
+      "volume": 3987036,
+      "deliverable_qty": 2224837,
+      "delivery_pct": 55.8
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 19:49:01",
+      "an_dt": "28-May-2026 19:49:01",
+      "desc": "Action(s) taken or orders passed",
+      "sm_name": "Urban Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/URBANCO_28052026194746_SEIntimationDroppingofGSTdemand28052026.pdf"
+    },
     {
       "sort_date": "2026-05-21 14:42:39",
       "an_dt": "21-May-2026 14:42:39",

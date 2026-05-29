@@ -8,25 +8,9 @@
   "price": 728.1,
   "market_cap_cr": 1736.9,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 759.5,
-      "prev_close": 758.15,
-      "volume": 12799,
-      "deliverable_qty": 6022,
-      "delivery_pct": 47.05
-    },
-    {
-      "date": "2026-02-26",
-      "close": 764.55,
-      "prev_close": 759.5,
-      "volume": 13490,
-      "deliverable_qty": 6190,
-      "delivery_pct": 45.89
-    },
     {
       "date": "2026-02-27",
       "close": 755.25,
@@ -442,6 +426,14 @@
       "volume": 49608,
       "deliverable_qty": 17564,
       "delivery_pct": 35.41
+    },
+    {
+      "date": "2026-05-27",
+      "close": 828.15,
+      "prev_close": 842.3,
+      "volume": 22099,
+      "deliverable_qty": 11900,
+      "delivery_pct": 53.85
     }
   ],
   "news": [
@@ -626,27 +618,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Ndr Auto Components Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NDRAUTO_27022026155853_Outcome3.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 17:00:04",
-      "an_dt": "26-Feb-2026 17:00:04",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Ndr Auto Components Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NDRAUTO_26022026165955_Outcome2.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 16:57:44",
-      "an_dt": "26-Feb-2026 16:57:44",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Ndr Auto Components Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NDRAUTO_26022026165730_Outcome1.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 12:17:19",
-      "an_dt": "26-Feb-2026 12:17:19",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Ndr Auto Components Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NDRAUTO_26022026121658_SEIntimation.pdf"
     }
   ]
 }

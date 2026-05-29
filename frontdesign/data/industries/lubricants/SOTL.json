@@ -8,25 +8,9 @@
   "price": 439.0,
   "market_cap_cr": 3009.8,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 364.7,
-      "prev_close": 370.2,
-      "volume": 26465,
-      "deliverable_qty": 17401,
-      "delivery_pct": 65.75
-    },
-    {
-      "date": "2026-02-26",
-      "close": 374.05,
-      "prev_close": 364.7,
-      "volume": 72912,
-      "deliverable_qty": 27887,
-      "delivery_pct": 38.25
-    },
     {
       "date": "2026-02-27",
       "close": 379.15,
@@ -442,9 +426,24 @@
       "volume": 48184,
       "deliverable_qty": 21551,
       "delivery_pct": 44.73
+    },
+    {
+      "date": "2026-05-27",
+      "close": 419.8,
+      "prev_close": 423.95,
+      "volume": 40324,
+      "deliverable_qty": 16633,
+      "delivery_pct": 41.25
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 17:09:55",
+      "an_dt": "27-May-2026 17:09:55",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Savita Oil Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_27052026170545_SOTL10.pdf"
+    },
     {
       "sort_date": "2026-05-18 11:08:29",
       "an_dt": "18-May-2026 11:08:29",
@@ -500,13 +499,6 @@
       "desc": "Updates",
       "sm_name": "Savita Oil Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOTL_28022026175226_phase2esterplant.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 15:17:59",
-      "an_dt": "25-Feb-2026 15:17:59",
-      "desc": "Updates",
-      "sm_name": "Savita Oil Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOTL_25022026151748_investorpresentation.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 8806.0,
   "market_cap_cr": 21007.23,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 7795.0,
-      "prev_close": 7876.5,
-      "volume": 66792,
-      "deliverable_qty": 35174,
-      "delivery_pct": 52.66
-    },
-    {
-      "date": "2026-02-26",
-      "close": 7754.5,
-      "prev_close": 7795.0,
-      "volume": 37520,
-      "deliverable_qty": 20414,
-      "delivery_pct": 54.41
-    },
     {
       "date": "2026-02-27",
       "close": 7526.0,
@@ -442,9 +426,31 @@
       "volume": 24446,
       "deliverable_qty": 9086,
       "delivery_pct": 37.17
+    },
+    {
+      "date": "2026-05-27",
+      "close": 8688.5,
+      "prev_close": 8667.5,
+      "volume": 31339,
+      "deliverable_qty": 13714,
+      "delivery_pct": 43.76
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 20:57:11",
+      "an_dt": "28-May-2026 20:57:11",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Craftsman Automation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRAFTSMAN_28052026205557_CraftsmanAnalystsCaloutcome28052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 21:33:19",
+      "an_dt": "27-May-2026 21:33:19",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Craftsman Automation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRAFTSMAN_27052026213259_CraftsmanAnalystsCaloutcome27052026.pdf"
+    },
     {
       "sort_date": "2026-05-25 18:10:39",
       "an_dt": "25-May-2026 18:10:39",

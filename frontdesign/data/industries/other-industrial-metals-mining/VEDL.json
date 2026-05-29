@@ -8,25 +8,9 @@
   "price": 752.55,
   "market_cap_cr": 294109.39,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 727.8,
-      "prev_close": 695.1,
-      "volume": 23666523,
-      "deliverable_qty": 9215200,
-      "delivery_pct": 38.94
-    },
-    {
-      "date": "2026-02-26",
-      "close": 737.45,
-      "prev_close": 727.8,
-      "volume": 13822953,
-      "deliverable_qty": 5576095,
-      "delivery_pct": 40.34
-    },
     {
       "date": "2026-02-27",
       "close": 718.4,
@@ -442,9 +426,31 @@
       "volume": 39844071,
       "deliverable_qty": 13516884,
       "delivery_pct": 33.92
+    },
+    {
+      "date": "2026-05-27",
+      "close": 354.7,
+      "prev_close": 344.9,
+      "volume": 26959207,
+      "deliverable_qty": 7145663,
+      "delivery_pct": 26.51
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 17:19:21",
+      "an_dt": "27-May-2026 17:19:21",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Vedanta Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VEDL_27052026171857_VEDLSEIntimationIRMeet02June2026signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 16:53:14",
+      "an_dt": "27-May-2026 16:53:14",
+      "desc": "Credit Rating",
+      "sm_name": "Vedanta Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VEDL_27052026165304_VEDLSEIntimationRatingsUpgradeVEDLVAMLTSPLcombinedsigned.pdf"
+    },
     {
       "sort_date": "2026-05-21 17:48:50",
       "an_dt": "21-May-2026 17:48:50",
@@ -843,34 +849,6 @@
       "desc": "Updates",
       "sm_name": "Vedanta Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VEDL_27022026212252_SEIntimationKarnapodikondaBauxiteBlock27feb2026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 20:22:30",
-      "an_dt": "26-Feb-2026 20:22:30",
-      "desc": "Credit Rating",
-      "sm_name": "Vedanta Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VEDL_26022026202215_VEDLSEIntimationICRARatingFeb2026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 16:55:46",
-      "an_dt": "25-Feb-2026 16:55:46",
-      "desc": "Credit Rating",
-      "sm_name": "Vedanta Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VEDL_25022026165459_VEDLSEIntimationCRISILRatingssigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 12:45:58",
-      "an_dt": "25-Feb-2026 12:45:58",
-      "desc": "Issue of Securities",
-      "sm_name": "Vedanta Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VEDL_25022026124523_VEDLOutcomeCODMeeting25February2026signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 12:45:58",
-      "an_dt": "25-Feb-2026 12:45:58",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Vedanta Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VEDL_25022026124509_VEDLOutcomeCODMeeting25February2026signed.pdf"
     }
   ]
 }

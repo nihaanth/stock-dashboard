@@ -8,7 +8,7 @@
   "price": 4352.2,
   "market_cap_cr": 129025.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,31 @@
       "volume": 333239,
       "deliverable_qty": 110542,
       "delivery_pct": 33.17
+    },
+    {
+      "date": "2026-05-27",
+      "close": 3988.6,
+      "prev_close": 3970.4,
+      "volume": 193654,
+      "deliverable_qty": 66782,
+      "delivery_pct": 34.49
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 22:02:17",
+      "an_dt": "28-May-2026 22:02:17",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "LTM Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LTI_28052026215832_SEintimationtranscript_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 21:50:48",
+      "an_dt": "28-May-2026 21:50:48",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "LTM Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LTI_28052026214444_stockexchnageintimationinvestordaysigned.pdf"
+    },
     {
       "sort_date": "2026-05-25 12:37:50",
       "an_dt": "25-May-2026 12:37:50",
@@ -743,13 +765,6 @@
       "desc": "General Updates",
       "sm_name": "LTIMindtree Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LTI_27022026084622_Changeinstocktickersigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 10:58:31",
-      "an_dt": "26-Feb-2026 10:58:31",
-      "desc": "Press Release",
-      "sm_name": "LTIMindtree Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LTI_26022026105737_SEintimationfeb262024.pdf"
     }
   ]
 }

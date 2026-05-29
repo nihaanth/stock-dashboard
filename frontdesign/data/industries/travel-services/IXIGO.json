@@ -8,25 +8,9 @@
   "price": 163.1,
   "market_cap_cr": 7146.77,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 165.3,
-      "prev_close": 164.4,
-      "volume": 3589476,
-      "deliverable_qty": 2146477,
-      "delivery_pct": 59.8
-    },
-    {
-      "date": "2026-02-26",
-      "close": 170.44,
-      "prev_close": 165.3,
-      "volume": 3605494,
-      "deliverable_qty": 1069534,
-      "delivery_pct": 29.66
-    },
     {
       "date": "2026-02-27",
       "close": 170.36,
@@ -442,9 +426,31 @@
       "volume": 1401024,
       "deliverable_qty": 667758,
       "delivery_pct": 47.66
+    },
+    {
+      "date": "2026-05-27",
+      "close": 164.44,
+      "prev_close": 168.48,
+      "volume": 1222092,
+      "deliverable_qty": 491531,
+      "delivery_pct": 40.22
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 18:40:04",
+      "an_dt": "28-May-2026 18:40:04",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Le Travenues Technology Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IXIGO_28052026183949_Announcement_Reg_30_Outcome_of_Analysts_Investors_Meetings_28052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 19:29:12",
+      "an_dt": "27-May-2026 19:29:12",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Le Travenues Technology Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IXIGO_27052026192816_Announcement_Reg_30_Schedule_of_Analyst_Investor_Meeting_02062026.pdf"
+    },
     {
       "sort_date": "2026-05-25 20:49:03",
       "an_dt": "25-May-2026 20:49:03",
@@ -738,27 +744,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Le Travenues Technology Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IXIGO_27022026191616_Announcement_Reg_30_Outcome_of_Analysts_Investors_Meetings_27022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 19:29:45",
-      "an_dt": "26-Feb-2026 19:29:45",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Le Travenues Technology Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IXIGO_26022026192935_Announcement_Reg_30_Outcome_of_Analysts_Investors_Meetings_26022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 20:15:08",
-      "an_dt": "25-Feb-2026 20:15:08",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Le Travenues Technology Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IXIGO_25022026201448_Announcement_Reg_30_Schedule_of_Analyst_Investor_Meeting_02032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 20:12:39",
-      "an_dt": "25-Feb-2026 20:12:39",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Le Travenues Technology Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IXIGO_25022026201227_Announcement_Reg_30_Outcome_of_Analysts_Investors_Meetings_25022026.pdf"
     }
   ]
 }

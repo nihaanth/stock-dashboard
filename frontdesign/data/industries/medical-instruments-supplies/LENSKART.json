@@ -8,25 +8,9 @@
   "price": 549.2,
   "market_cap_cr": 94964.13,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 505.45,
-      "prev_close": 484.5,
-      "volume": 3857628,
-      "deliverable_qty": 1557252,
-      "delivery_pct": 40.37
-    },
-    {
-      "date": "2026-02-26",
-      "close": 512.75,
-      "prev_close": 505.45,
-      "volume": 1879033,
-      "deliverable_qty": 1083995,
-      "delivery_pct": 57.69
-    },
     {
       "date": "2026-02-27",
       "close": 537.4,
@@ -442,9 +426,24 @@
       "volume": 7710789,
       "deliverable_qty": 5212915,
       "delivery_pct": 67.61
+    },
+    {
+      "date": "2026-05-27",
+      "close": 521.0,
+      "prev_close": 510.75,
+      "volume": 5156821,
+      "deliverable_qty": 3007479,
+      "delivery_pct": 58.32
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 17:25:06",
+      "an_dt": "27-May-2026 17:25:06",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Lenskart Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LENSKART_27052026172409_Reg30_-_Transcript_-_SE_Intimation_signed.pdf"
+    },
     {
       "sort_date": "2026-05-22 12:35:03",
       "an_dt": "22-May-2026 12:35:03",

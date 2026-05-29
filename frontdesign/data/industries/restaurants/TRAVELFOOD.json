@@ -8,25 +8,9 @@
   "price": 1301.3,
   "market_cap_cr": 17135.45,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1231.1,
-      "prev_close": 1229.9,
-      "volume": 21322,
-      "deliverable_qty": 12547,
-      "delivery_pct": 58.85
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1240.3,
-      "prev_close": 1231.1,
-      "volume": 34126,
-      "deliverable_qty": 19498,
-      "delivery_pct": 57.14
-    },
     {
       "date": "2026-02-27",
       "close": 1234.2,
@@ -442,9 +426,38 @@
       "volume": 305160,
       "deliverable_qty": 85636,
       "delivery_pct": 28.06
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1221.9,
+      "prev_close": 1201.2,
+      "volume": 76890,
+      "deliverable_qty": 39523,
+      "delivery_pct": 51.4
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 14:18:30",
+      "an_dt": "28-May-2026 14:18:30",
+      "desc": "Updates",
+      "sm_name": "Travel Food Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRAVELFOOD_28052026141613_TFSTaxPenalty28052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 15:39:26",
+      "an_dt": "27-May-2026 15:39:26",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Travel Food Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRAVELFOOD_27052026153918_TFSLNewspaperAd27052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 13:14:43",
+      "an_dt": "27-May-2026 13:14:43",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Travel Food Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRAVELFOOD_27052026130955_TFSLAudioRecording27052026.pdf"
+    },
     {
       "sort_date": "2026-05-25 22:15:31",
       "an_dt": "25-May-2026 22:15:31",

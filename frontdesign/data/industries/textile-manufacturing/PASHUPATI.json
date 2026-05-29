@@ -8,25 +8,9 @@
   "price": 998.85,
   "market_cap_cr": 1576.58,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 983.2,
-      "prev_close": 965.05,
-      "volume": 1830,
-      "deliverable_qty": 888,
-      "delivery_pct": 48.52
-    },
-    {
-      "date": "2026-02-26",
-      "close": 993.2,
-      "prev_close": 983.2,
-      "volume": 5097,
-      "deliverable_qty": 2378,
-      "delivery_pct": 46.65
-    },
     {
       "date": "2026-02-27",
       "close": 999.55,
@@ -442,6 +426,14 @@
       "volume": 61160,
       "deliverable_qty": 39214,
       "delivery_pct": 64.12
+    },
+    {
+      "date": "2026-05-27",
+      "close": 96.87,
+      "prev_close": 98.96,
+      "volume": 52005,
+      "deliverable_qty": 20039,
+      "delivery_pct": 38.53
     }
   ],
   "news": [
@@ -500,20 +492,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Pashupati Cotspin Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PASHUPATI_27022026172423_CoveringandPostalBallot.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 22:02:54",
-      "an_dt": "26-Feb-2026 22:02:54",
-      "desc": "Stock split",
-      "sm_name": "Pashupati Cotspin Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PASHUPATI_26022026220201_Outcome_of_BM.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 17:48:50",
-      "an_dt": "26-Feb-2026 17:48:50",
-      "desc": "Stock split",
-      "sm_name": "Pashupati Cotspin Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PASHUPATI_26022026174750_Outcome_of_BM.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 456.05,
   "market_cap_cr": 5210.92,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 416.05,
-      "prev_close": 428.95,
-      "volume": 113850,
-      "deliverable_qty": 82523,
-      "delivery_pct": 72.48
-    },
-    {
-      "date": "2026-02-26",
-      "close": 400.45,
-      "prev_close": 416.05,
-      "volume": 84050,
-      "deliverable_qty": 42788,
-      "delivery_pct": 50.91
-    },
     {
       "date": "2026-02-27",
       "close": 410.05,
@@ -442,9 +426,38 @@
       "volume": 61613,
       "deliverable_qty": 32683,
       "delivery_pct": 53.05
+    },
+    {
+      "date": "2026-05-27",
+      "close": 450.2,
+      "prev_close": 450.85,
+      "volume": 45198,
+      "deliverable_qty": 18834,
+      "delivery_pct": 41.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 21:49:38",
+      "an_dt": "28-May-2026 21:49:38",
+      "desc": "Credit Rating",
+      "sm_name": "Smartworks Coworking Spaces Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SMARTWORKS_28052026214922_Intimation_Credit_rating_reaffirmation_snd_snd.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 17:11:05",
+      "an_dt": "27-May-2026 17:11:05",
+      "desc": "Updates",
+      "sm_name": "Smartworks Coworking Spaces Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SMARTWORKS_27052026171045_Intimation__PressRelease.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 14:30:27",
+      "an_dt": "27-May-2026 14:30:27",
+      "desc": "Capacity addition",
+      "sm_name": "Smartworks Coworking Spaces Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SMARTWORKS_27052026143016_Intimation_of_Capacity_Addition_snd.pdf"
+    },
     {
       "sort_date": "2026-05-22 12:34:38",
       "an_dt": "22-May-2026 12:34:38",
@@ -591,13 +604,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Smartworks Coworking Spaces Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SMARTWORKS_05032026190231_Investors_Conference_10_March_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 09:08:36",
-      "an_dt": "26-Feb-2026 09:08:36",
-      "desc": "Capacity addition",
-      "sm_name": "Smartworks Coworking Spaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SMARTWORKS_26022026090819_Intimation_Capacity_addition_snd.pdf"
     }
   ]
 }

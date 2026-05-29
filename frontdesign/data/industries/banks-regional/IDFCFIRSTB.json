@@ -8,25 +8,9 @@
   "price": 64.86,
   "market_cap_cr": 55793.91,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 70.22,
-      "prev_close": 70.97,
-      "volume": 90865348,
-      "deliverable_qty": 30389441,
-      "delivery_pct": 33.44
-    },
-    {
-      "date": "2026-02-26",
-      "close": 72.81,
-      "prev_close": 70.22,
-      "volume": 142273285,
-      "deliverable_qty": 51893568,
-      "delivery_pct": 36.47
-    },
     {
       "date": "2026-02-27",
       "close": 73.48,
@@ -442,9 +426,24 @@
       "volume": 19387715,
       "deliverable_qty": 9262156,
       "delivery_pct": 47.77
+    },
+    {
+      "date": "2026-05-27",
+      "close": 71.48,
+      "prev_close": 70.22,
+      "volume": 16565002,
+      "deliverable_qty": 7472878,
+      "delivery_pct": 45.11
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 15:18:44",
+      "an_dt": "27-May-2026 15:18:44",
+      "desc": "General Updates",
+      "sm_name": "IDFC First Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IDFCFIRSTB_27052026151825_IDFCFIRST_CGFMU_Claim.pdf"
+    },
     {
       "sort_date": "2026-05-25 16:15:17",
       "an_dt": "25-May-2026 16:15:17",

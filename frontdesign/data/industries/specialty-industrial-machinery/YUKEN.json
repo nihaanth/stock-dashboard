@@ -8,25 +8,9 @@
   "price": 724.85,
   "market_cap_cr": 984.64,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 746.8,
-      "prev_close": 739.15,
-      "volume": 2559,
-      "deliverable_qty": 1959,
-      "delivery_pct": 76.55
-    },
-    {
-      "date": "2026-02-26",
-      "close": 765.05,
-      "prev_close": 746.8,
-      "volume": 5836,
-      "deliverable_qty": 4981,
-      "delivery_pct": 85.35
-    },
     {
       "date": "2026-02-27",
       "close": 782.5,
@@ -442,9 +426,24 @@
       "volume": 12373,
       "deliverable_qty": 8548,
       "delivery_pct": 69.09
+    },
+    {
+      "date": "2026-05-27",
+      "close": 675.1,
+      "prev_close": 668.0,
+      "volume": 24082,
+      "deliverable_qty": 17192,
+      "delivery_pct": 71.39
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 12:07:06",
+      "an_dt": "27-May-2026 12:07:06",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Yuken India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/YUKEN_27052026120659_Copy_newspaper_publication.pdf"
+    },
     {
       "sort_date": "2026-05-26 14:48:07",
       "an_dt": "26-May-2026 14:48:07",

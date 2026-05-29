@@ -8,25 +8,9 @@
   "price": 70.32,
   "market_cap_cr": 1265.83,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 78.41,
-      "prev_close": 77.63,
-      "volume": 150808,
-      "deliverable_qty": 65858,
-      "delivery_pct": 43.67
-    },
-    {
-      "date": "2026-02-26",
-      "close": 78.03,
-      "prev_close": 78.41,
-      "volume": 147112,
-      "deliverable_qty": 71085,
-      "delivery_pct": 48.32
-    },
     {
       "date": "2026-02-27",
       "close": 79.93,
@@ -442,6 +426,14 @@
       "volume": 578030,
       "deliverable_qty": 236331,
       "delivery_pct": 40.89
+    },
+    {
+      "date": "2026-05-27",
+      "close": 76.73,
+      "prev_close": 78.26,
+      "volume": 604518,
+      "deliverable_qty": 228700,
+      "delivery_pct": 37.83
     }
   ],
   "news": [
@@ -514,13 +506,6 @@
       "desc": "Appointment",
       "sm_name": "PNB Gilts Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNBGILTSSB_16032026122216_STXRBIAPP.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 14:15:18",
-      "an_dt": "25-Feb-2026 14:15:18",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "PNB Gilts Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNBGILTSSB_25022026141504_STX250226.pdf"
     }
   ]
 }

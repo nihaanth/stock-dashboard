@@ -8,25 +8,9 @@
   "price": 25205.0,
   "market_cap_cr": 90941.53,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 26865.0,
-      "prev_close": 26525.0,
-      "volume": 16889,
-      "deliverable_qty": 7004,
-      "delivery_pct": 41.47
-    },
-    {
-      "date": "2026-02-26",
-      "close": 26745.0,
-      "prev_close": 26865.0,
-      "volume": 12433,
-      "deliverable_qty": 5784,
-      "delivery_pct": 46.52
-    },
     {
       "date": "2026-02-27",
       "close": 26075.0,
@@ -442,9 +426,24 @@
       "volume": 17032,
       "deliverable_qty": 9031,
       "delivery_pct": 53.02
+    },
+    {
+      "date": "2026-05-27",
+      "close": 25400.0,
+      "prev_close": 25180.0,
+      "volume": 7231,
+      "deliverable_qty": 2372,
+      "delivery_pct": 32.8
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 19:28:13",
+      "an_dt": "28-May-2026 19:28:13",
+      "desc": "Change in Management",
+      "sm_name": "SHREE CEMENT LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHREECEM_28052026192758_NSE_BSE_SMP_280526.pdf"
+    },
     {
       "sort_date": "2026-05-16 12:53:30",
       "an_dt": "16-May-2026 12:53:30",
@@ -626,13 +625,6 @@
       "desc": "General Updates",
       "sm_name": "SHREE CEMENT LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHREECEM_14032026190731_NSE_BSE_Kodla_Cement_150326.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 12:29:54",
-      "an_dt": "25-Feb-2026 12:29:54",
-      "desc": "General Updates",
-      "sm_name": "SHREE CEMENT LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHREECEM_25022026122926_NSE_BSE_Demand_order_250226.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 404.15,
   "market_cap_cr": 4968.23,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 373.9,
-      "prev_close": 375.8,
-      "volume": 116722,
-      "deliverable_qty": 51794,
-      "delivery_pct": 44.37
-    },
-    {
-      "date": "2026-02-26",
-      "close": 368.5,
-      "prev_close": 373.9,
-      "volume": 127881,
-      "deliverable_qty": 64008,
-      "delivery_pct": 50.05
-    },
     {
       "date": "2026-02-27",
       "close": 364.1,
@@ -442,9 +426,24 @@
       "volume": 256015,
       "deliverable_qty": 135640,
       "delivery_pct": 52.98
+    },
+    {
+      "date": "2026-05-27",
+      "close": 380.1,
+      "prev_close": 407.7,
+      "volume": 989157,
+      "deliverable_qty": 350889,
+      "delivery_pct": 35.47
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 18:04:27",
+      "an_dt": "28-May-2026 18:04:27",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "ION Exchange (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IONEXCHANGE_28052026180401_Intimation_NewspaperAdv.pdf"
+    },
     {
       "sort_date": "2026-05-26 23:04:12",
       "an_dt": "26-May-2026 23:04:12",

@@ -8,25 +8,9 @@
   "price": 1529.0,
   "market_cap_cr": 2083.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1452.7,
-      "prev_close": 1489.8,
-      "volume": 8736,
-      "deliverable_qty": 4245,
-      "delivery_pct": 48.59
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1445.2,
-      "prev_close": 1452.7,
-      "volume": 12601,
-      "deliverable_qty": 5261,
-      "delivery_pct": 41.75
-    },
     {
       "date": "2026-02-27",
       "close": 1451.8,
@@ -442,6 +426,14 @@
       "volume": 33110,
       "deliverable_qty": 18428,
       "delivery_pct": 55.66
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1527.6,
+      "prev_close": 1540.4,
+      "volume": 19610,
+      "deliverable_qty": 12358,
+      "delivery_pct": 63.02
     }
   ],
   "news": [
@@ -514,20 +506,6 @@
       "desc": "Credit Rating",
       "sm_name": "Pix Transmissions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHYBUV_05032026143511_Credit_Rating_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 15:40:39",
-      "an_dt": "26-Feb-2026 15:40:39",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Pix Transmissions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHYBUV_26022026154022_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 13:05:44",
-      "an_dt": "25-Feb-2026 13:05:44",
-      "desc": "Shareholders meeting",
-      "sm_name": "Pix Transmissions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHYBUV_25022026130408_Postal_Ballot_Intimation.pdf"
     }
   ]
 }

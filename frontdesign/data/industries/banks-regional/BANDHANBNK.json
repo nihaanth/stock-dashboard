@@ -8,25 +8,9 @@
   "price": 166.73,
   "market_cap_cr": 26859.74,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 182.88,
-      "prev_close": 180.55,
-      "volume": 7659686,
-      "deliverable_qty": 2677909,
-      "delivery_pct": 34.96
-    },
-    {
-      "date": "2026-02-26",
-      "close": 186.1,
-      "prev_close": 182.88,
-      "volume": 19052653,
-      "deliverable_qty": 6728806,
-      "delivery_pct": 35.32
-    },
     {
       "date": "2026-02-27",
       "close": 181.98,
@@ -442,6 +426,14 @@
       "volume": 18270681,
       "deliverable_qty": 7461933,
       "delivery_pct": 40.84
+    },
+    {
+      "date": "2026-05-27",
+      "close": 205.83,
+      "prev_close": 200.4,
+      "volume": 12630859,
+      "deliverable_qty": 5576671,
+      "delivery_pct": 44.15
     }
   ],
   "news": [
@@ -717,20 +709,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Bandhan Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANDHANBNK_02032026172751_SE_Disclosure_Special_window_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 12:05:18",
-      "an_dt": "26-Feb-2026 12:05:18",
-      "desc": "General Updates",
-      "sm_name": "Bandhan Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANDHANBNK_26022026120418_SE_Disclosure_RBI_Approval_SBI_MF_Acquisition_26022026_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 17:47:04",
-      "an_dt": "25-Feb-2026 17:47:04",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Bandhan Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANDHANBNK_25022026174655_SE_Disclosure_Investors_Conferences_Outcome_25022026_sd.pdf"
     }
   ]
 }

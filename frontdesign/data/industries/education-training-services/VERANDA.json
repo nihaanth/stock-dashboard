@@ -8,25 +8,9 @@
   "price": 214.18,
   "market_cap_cr": 2059.76,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 186.58,
-      "prev_close": 191.93,
-      "volume": 101669,
-      "deliverable_qty": 50655,
-      "delivery_pct": 49.82
-    },
-    {
-      "date": "2026-02-26",
-      "close": 185.14,
-      "prev_close": 186.58,
-      "volume": 120885,
-      "deliverable_qty": 80488,
-      "delivery_pct": 66.58
-    },
     {
       "date": "2026-02-27",
       "close": 181.82,
@@ -442,6 +426,14 @@
       "volume": 165750,
       "deliverable_qty": 86627,
       "delivery_pct": 52.26
+    },
+    {
+      "date": "2026-05-27",
+      "close": 233.37,
+      "prev_close": 237.24,
+      "volume": 304261,
+      "deliverable_qty": 155402,
+      "delivery_pct": 51.08
     }
   ],
   "news": [
@@ -612,20 +604,6 @@
       "desc": "General Updates",
       "sm_name": "Veranda Learning Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Verandaipo_27022026074659_REG30NCDRED.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 11:23:09",
-      "an_dt": "26-Feb-2026 11:23:09",
-      "desc": "Agreements",
-      "sm_name": "Veranda Learning Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Verandaipo_26022026112228_VXLRBLReg3026022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 10:59:54",
-      "an_dt": "25-Feb-2026 10:59:54",
-      "desc": "Agreements",
-      "sm_name": "Veranda Learning Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Verandaipo_25022026105912_TermLoanDOHReg30.pdf"
     }
   ]
 }

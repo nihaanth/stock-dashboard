@@ -8,25 +8,9 @@
   "price": 232.77,
   "market_cap_cr": 523.44,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 261.45,
-      "prev_close": 261.9,
-      "volume": 4010,
-      "deliverable_qty": 2415,
-      "delivery_pct": 60.22
-    },
-    {
-      "date": "2026-02-26",
-      "close": 271.95,
-      "prev_close": 261.45,
-      "volume": 36104,
-      "deliverable_qty": 25001,
-      "delivery_pct": 69.25
-    },
     {
       "date": "2026-02-27",
       "close": 263.25,
@@ -442,9 +426,24 @@
       "volume": 64270,
       "deliverable_qty": 47128,
       "delivery_pct": 73.33
+    },
+    {
+      "date": "2026-05-27",
+      "close": 242.51,
+      "prev_close": 243.55,
+      "volume": 50557,
+      "deliverable_qty": 30169,
+      "delivery_pct": 59.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 12:51:02",
+      "an_dt": "27-May-2026 12:51:02",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "CSL Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CSLFINANCELIMITED_27052026125047_Final_Newspaper_publication_March_2026.pdf"
+    },
     {
       "sort_date": "2026-05-26 17:51:39",
       "an_dt": "26-May-2026 17:51:39",
@@ -570,13 +569,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "CSL Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CSLFINANCELIMITED_05032026115110_cl.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 11:22:17",
-      "an_dt": "25-Feb-2026 11:22:17",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "CSL Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CSLFINANCELIMITED_25022026112200_fINALcl.pdf"
     }
   ]
 }

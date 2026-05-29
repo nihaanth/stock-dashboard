@@ -8,25 +8,9 @@
   "price": 392.95,
   "market_cap_cr": 381030.52,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 384.9,
-      "prev_close": 382.75,
-      "volume": 12750016,
-      "deliverable_qty": 8369692,
-      "delivery_pct": 65.64
-    },
-    {
-      "date": "2026-02-26",
-      "close": 381.9,
-      "prev_close": 384.9,
-      "volume": 10721570,
-      "deliverable_qty": 6325367,
-      "delivery_pct": 59.0
-    },
     {
       "date": "2026-02-27",
       "close": 381.9,
@@ -442,9 +426,38 @@
       "volume": 9062218,
       "deliverable_qty": 5761337,
       "delivery_pct": 63.58
+    },
+    {
+      "date": "2026-05-27",
+      "close": 398.15,
+      "prev_close": 389.7,
+      "volume": 14418621,
+      "deliverable_qty": 7205315,
+      "delivery_pct": 49.97
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 23:12:43",
+      "an_dt": "27-May-2026 23:12:43",
+      "desc": "Updates",
+      "sm_name": "NTPC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NTPC_27052026231231_20260527_STEX_IMPOSTIONOFFINE.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 23:08:19",
+      "an_dt": "27-May-2026 23:08:19",
+      "desc": "Updates",
+      "sm_name": "NTPC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NTPC_27052026230809_20260527_COD_NGEL_KHAVDA_STEX.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 18:00:35",
+      "an_dt": "27-May-2026 18:00:35",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "NTPC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9425178051_27052026175637_Transcript_NTPC_Earnings_Call_Q4_FY26.pdf"
+    },
     {
       "sort_date": "2026-05-23 18:25:24",
       "an_dt": "23-May-2026 18:25:24",
@@ -745,27 +758,6 @@
       "desc": "Change in Management",
       "sm_name": "NTPC Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NTPC_27022026155219_STEX_CHANGEINSENIORMANAGEMENT27022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 19:36:47",
-      "an_dt": "26-Feb-2026 19:36:47",
-      "desc": "Press Release",
-      "sm_name": "NTPC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NTPC_26022026193119_20260226_STEX_PRESSRELEASE.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 10:47:23",
-      "an_dt": "26-Feb-2026 10:47:23",
-      "desc": "Updates",
-      "sm_name": "NTPC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NTPC_26022026104712_20260226_STEX_NGELCOD.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 10:02:31",
-      "an_dt": "25-Feb-2026 10:02:31",
-      "desc": "Updates",
-      "sm_name": "NTPC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NTPC_25022026100205_202602024STEX_Disclosure_SINNAR_ACQUISITION.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 1003.8,
   "market_cap_cr": 45301.14,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 729.4,
-      "prev_close": 777.05,
-      "volume": 12482197,
-      "deliverable_qty": 1709810,
-      "delivery_pct": 13.7
-    },
-    {
-      "date": "2026-02-26",
-      "close": 725.25,
-      "prev_close": 729.4,
-      "volume": 2431010,
-      "deliverable_qty": 477523,
-      "delivery_pct": 19.64
-    },
     {
       "date": "2026-02-27",
       "close": 731.0,
@@ -442,6 +426,14 @@
       "volume": 3696906,
       "deliverable_qty": 1010358,
       "delivery_pct": 27.33
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1046.0,
+      "prev_close": 1016.8,
+      "volume": 4606992,
+      "deliverable_qty": 2686345,
+      "delivery_pct": 58.31
     }
   ],
   "news": [
@@ -647,27 +639,6 @@
       "desc": "Acquisition",
       "sm_name": "Premier Energies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PEL2024_03032026132312_Update_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 10:21:06",
-      "an_dt": "26-Feb-2026 10:21:06",
-      "desc": "Press Release",
-      "sm_name": "Premier Energies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PEL2024_26022026102038_pressreleasebusbarsolarcell.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 15:49:53",
-      "an_dt": "25-Feb-2026 15:49:53",
-      "desc": "News Verification",
-      "sm_name": "Premier Energies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PEL2024_25022026154906_ReplytoNSEandBSEcf.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 13:57:26",
-      "an_dt": "25-Feb-2026 13:57:26",
-      "desc": "News Verification",
-      "sm_name": "Premier Energies Limited",
-      "attchmntFile": "-"
     }
   ]
 }

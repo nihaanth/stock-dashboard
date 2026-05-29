@@ -8,25 +8,9 @@
   "price": 207.82,
   "market_cap_cr": 1060.38,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 201.1,
-      "prev_close": 201.21,
-      "volume": 20220,
-      "deliverable_qty": 4752,
-      "delivery_pct": 23.5
-    },
-    {
-      "date": "2026-02-26",
-      "close": 201.0,
-      "prev_close": 201.1,
-      "volume": 43754,
-      "deliverable_qty": 31718,
-      "delivery_pct": 72.49
-    },
     {
       "date": "2026-02-27",
       "close": 201.0,
@@ -442,6 +426,14 @@
       "volume": 15581,
       "deliverable_qty": 12931,
       "delivery_pct": 82.99
+    },
+    {
+      "date": "2026-05-27",
+      "close": 201.01,
+      "prev_close": 201.0,
+      "volume": 6686,
+      "deliverable_qty": 3155,
+      "delivery_pct": 47.19
     }
   ],
   "news": [
@@ -640,13 +632,6 @@
       "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
       "sm_name": "Abans Financial Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AHL_17032026140952_AFSL_Initimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 17:00:58",
-      "an_dt": "25-Feb-2026 17:00:58",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Abans Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AHL_25022026165943_Intimation_Newsp_ad_Postal_Ballot_Notice.pdf"
     }
   ]
 }

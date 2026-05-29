@@ -8,25 +8,9 @@
   "price": 143.0,
   "market_cap_cr": 954.25,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 148.08,
-      "prev_close": 148.14,
-      "volume": 164504,
-      "deliverable_qty": 84554,
-      "delivery_pct": 51.4
-    },
-    {
-      "date": "2026-02-26",
-      "close": 147.74,
-      "prev_close": 148.08,
-      "volume": 301557,
-      "deliverable_qty": 135910,
-      "delivery_pct": 45.07
-    },
     {
       "date": "2026-02-27",
       "close": 147.06,
@@ -442,9 +426,45 @@
       "volume": 196177,
       "deliverable_qty": 76960,
       "delivery_pct": 39.23
+    },
+    {
+      "date": "2026-05-27",
+      "close": 137.91,
+      "prev_close": 138.68,
+      "volume": 215597,
+      "deliverable_qty": 118392,
+      "delivery_pct": 54.91
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 18:40:10",
+      "an_dt": "28-May-2026 18:40:10",
+      "desc": "Investor Presentation",
+      "sm_name": "Tribhovandas Bhimji Zaveri Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TBZ_28052026183923_TBZ_Inv_presentation_28052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 10:58:58",
+      "an_dt": "28-May-2026 10:58:58",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Tribhovandas Bhimji Zaveri Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TBZ_28052026105832_TBZ_Fin_Res_Hard_Paper_280526.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 17:09:59",
+      "an_dt": "27-May-2026 17:09:59",
+      "desc": "Dividend",
+      "sm_name": "Tribhovandas Bhimji Zaveri Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TBZ_27052026170923_TBZ_BM_Outcome_310326.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 17:07:27",
+      "an_dt": "27-May-2026 17:07:27",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Tribhovandas Bhimji Zaveri Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TBZ_27052026170628_TBZ_BM_Outcome_310326.pdf"
+    },
     {
       "sort_date": "2026-05-15 12:06:37",
       "an_dt": "15-May-2026 12:06:37",
@@ -486,13 +506,6 @@
       "desc": "Resignation",
       "sm_name": "Tribhovandas Bhimji Zaveri Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TBZ_04032026203338_20260304_Resignation_Shikha_Khurana.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 11:32:43",
-      "an_dt": "25-Feb-2026 11:32:43",
-      "desc": "Credit Rating",
-      "sm_name": "Tribhovandas Bhimji Zaveri Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TBZ_25022026113229_20260225_Intimation_of_credit_rating.pdf"
     }
   ]
 }

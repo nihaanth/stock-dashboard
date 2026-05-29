@@ -8,25 +8,9 @@
   "price": 105.28,
   "market_cap_cr": 2532.15,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 75.52,
-      "prev_close": 76.84,
-      "volume": 97459,
-      "deliverable_qty": 45306,
-      "delivery_pct": 46.49
-    },
-    {
-      "date": "2026-02-26",
-      "close": 76.2,
-      "prev_close": 75.52,
-      "volume": 530727,
-      "deliverable_qty": 474806,
-      "delivery_pct": 89.46
-    },
     {
       "date": "2026-02-27",
       "close": 74.77,
@@ -442,9 +426,24 @@
       "volume": 257728,
       "deliverable_qty": 104073,
       "delivery_pct": 40.38
+    },
+    {
+      "date": "2026-05-27",
+      "close": 94.97,
+      "prev_close": 95.01,
+      "volume": 227682,
+      "deliverable_qty": 101576,
+      "delivery_pct": 44.61
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 16:06:42",
+      "an_dt": "27-May-2026 16:06:42",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Nitco Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NITCO_27052026160635_SE_Newspaperpublication_27052026.pdf"
+    },
     {
       "sort_date": "2026-05-26 17:19:23",
       "an_dt": "26-May-2026 17:19:23",

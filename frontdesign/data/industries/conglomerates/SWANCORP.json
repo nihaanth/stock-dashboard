@@ -8,25 +8,9 @@
   "price": 340.35,
   "market_cap_cr": 10668.51,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 373.7,
-      "prev_close": 385.75,
-      "volume": 1339423,
-      "deliverable_qty": 605341,
-      "delivery_pct": 45.19
-    },
-    {
-      "date": "2026-02-26",
-      "close": 373.45,
-      "prev_close": 373.7,
-      "volume": 1156556,
-      "deliverable_qty": 432551,
-      "delivery_pct": 37.4
-    },
     {
       "date": "2026-02-27",
       "close": 382.4,
@@ -442,6 +426,14 @@
       "volume": 471918,
       "deliverable_qty": 207947,
       "delivery_pct": 44.06
+    },
+    {
+      "date": "2026-05-27",
+      "close": 321.45,
+      "prev_close": 318.7,
+      "volume": 354108,
+      "deliverable_qty": 156717,
+      "delivery_pct": 44.26
     }
   ],
   "news": [
@@ -549,13 +541,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "SWAN CORP LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SWANENERGY_04032026181322_SCL-_Postal_Ballot-_voting_results.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 16:27:04",
-      "an_dt": "25-Feb-2026 16:27:04",
-      "desc": "Updates",
-      "sm_name": "SWAN CORP LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SWANENERGY_25022026162458_Reconstitution_of_Audit_Committee.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 235.52,
   "market_cap_cr": 739.03,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 257.3,
-      "prev_close": 257.35,
-      "volume": 9348,
-      "deliverable_qty": 5550,
-      "delivery_pct": 59.37
-    },
-    {
-      "date": "2026-02-26",
-      "close": 255.4,
-      "prev_close": 257.3,
-      "volume": 11453,
-      "deliverable_qty": 7559,
-      "delivery_pct": 66.0
-    },
     {
       "date": "2026-02-27",
       "close": 251.85,
@@ -442,9 +426,24 @@
       "volume": 10113,
       "deliverable_qty": 6718,
       "delivery_pct": 66.43
+    },
+    {
+      "date": "2026-05-27",
+      "close": 224.65,
+      "prev_close": 238.84,
+      "volume": 48801,
+      "deliverable_qty": 29451,
+      "delivery_pct": 60.35
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 13:28:22",
+      "an_dt": "28-May-2026 13:28:22",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "VLS Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VLSFINANCE_28052026132803_Newspaper_Publication_March26_Financial_Results.pdf"
+    },
     {
       "sort_date": "2026-05-26 20:45:02",
       "an_dt": "26-May-2026 20:45:02",

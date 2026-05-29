@@ -8,25 +8,9 @@
   "price": 856.45,
   "market_cap_cr": 15244.22,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 866.65,
-      "prev_close": 867.0,
-      "volume": 130603,
-      "deliverable_qty": 72743,
-      "delivery_pct": 55.7
-    },
-    {
-      "date": "2026-02-26",
-      "close": 876.8,
-      "prev_close": 866.65,
-      "volume": 150627,
-      "deliverable_qty": 72694,
-      "delivery_pct": 48.26
-    },
     {
       "date": "2026-02-27",
       "close": 865.2,
@@ -442,9 +426,31 @@
       "volume": 1037624,
       "deliverable_qty": 228304,
       "delivery_pct": 22.0
+    },
+    {
+      "date": "2026-05-27",
+      "close": 743.4,
+      "prev_close": 764.55,
+      "volume": 504839,
+      "deliverable_qty": 250703,
+      "delivery_pct": 49.66
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 15:18:34",
+      "an_dt": "27-May-2026 15:18:34",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "EID Parry India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIDPARRY1_27052026151646_SENewspaperAdSd.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 15:14:29",
+      "an_dt": "27-May-2026 15:14:29",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "EID Parry India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIDPARRY1_27052026150901_SEAudioLinkSd.pdf"
+    },
     {
       "sort_date": "2026-05-26 14:46:14",
       "an_dt": "26-May-2026 14:46:14",
@@ -577,13 +583,6 @@
       "desc": "Change in Director(s)",
       "sm_name": "EID Parry India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIDPARRY1_11032026165023_SEIntimation_KKSd.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 15:11:39",
-      "an_dt": "26-Feb-2026 15:11:39",
-      "desc": "Press Release",
-      "sm_name": "EID Parry India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIDPARRY1_26022026151111_SENewspaperAdvtSD.pdf"
     }
   ]
 }

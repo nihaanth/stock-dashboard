@@ -8,25 +8,9 @@
   "price": 567.35,
   "market_cap_cr": 5692.83,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 575.5,
-      "prev_close": 567.45,
-      "volume": 79213,
-      "deliverable_qty": 41265,
-      "delivery_pct": 52.09
-    },
-    {
-      "date": "2026-02-26",
-      "close": 606.45,
-      "prev_close": 575.5,
-      "volume": 173297,
-      "deliverable_qty": 69876,
-      "delivery_pct": 40.32
-    },
     {
       "date": "2026-02-27",
       "close": 593.8,
@@ -442,9 +426,38 @@
       "volume": 94033,
       "deliverable_qty": 52008,
       "delivery_pct": 55.31
+    },
+    {
+      "date": "2026-05-27",
+      "close": 605.1,
+      "prev_close": 607.1,
+      "volume": 89061,
+      "deliverable_qty": 52561,
+      "delivery_pct": 59.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 16:51:33",
+      "an_dt": "27-May-2026 16:51:33",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Nephrocare Health Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEPHROCARE1_27052026165122_OutcomeF.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 16:48:05",
+      "an_dt": "27-May-2026 16:48:05",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Nephrocare Health Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEPHROCARE1_27052026164746_Intimationchoicebroking.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 16:24:30",
+      "an_dt": "27-May-2026 16:24:30",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Nephrocare Health Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEPHROCARE1_27052026162342_Intimationbankofamerica.pdf"
+    },
     {
       "sort_date": "2026-05-26 22:19:07",
       "an_dt": "26-May-2026 22:19:07",

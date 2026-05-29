@@ -8,25 +8,9 @@
   "price": 329.7,
   "market_cap_cr": 45717.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 263.45,
-      "prev_close": 263.9,
-      "volume": 1143302,
-      "deliverable_qty": 526072,
-      "delivery_pct": 46.01
-    },
-    {
-      "date": "2026-02-26",
-      "close": 262.4,
-      "prev_close": 263.45,
-      "volume": 690762,
-      "deliverable_qty": 310451,
-      "delivery_pct": 44.94
-    },
     {
       "date": "2026-02-27",
       "close": 260.05,
@@ -442,9 +426,45 @@
       "volume": 7630234,
       "deliverable_qty": 2629323,
       "delivery_pct": 34.46
+    },
+    {
+      "date": "2026-05-27",
+      "close": 349.9,
+      "prev_close": 343.4,
+      "volume": 5932444,
+      "deliverable_qty": 2048380,
+      "delivery_pct": 34.53
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 15:32:41",
+      "an_dt": "28-May-2026 15:32:41",
+      "desc": "General Updates",
+      "sm_name": "NLC India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLCINDIA_28052026153147_Fines_Intimation_Q4_28052026_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 15:11:54",
+      "an_dt": "28-May-2026 15:11:54",
+      "desc": "General Updates",
+      "sm_name": "NLC India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLCINDIA_28052026151113_Stock_Exchange_Intimation_28_05_2026_-Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 20:23:36",
+      "an_dt": "27-May-2026 20:23:36",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "NLC India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLCINDIA_27052026202120_InvestorMeetOutcome27052026_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 14:03:27",
+      "an_dt": "27-May-2026 14:03:27",
+      "desc": "Investor Presentation",
+      "sm_name": "NLC India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLCINDIA_27052026140300_InvestorPresentation27052026-Sign.pdf"
+    },
     {
       "sort_date": "2026-05-26 20:16:04",
       "an_dt": "26-May-2026 20:16:04",

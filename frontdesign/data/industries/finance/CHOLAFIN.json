@@ -8,25 +8,9 @@
   "price": 1624.5,
   "market_cap_cr": 138460.1,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1754.5,
-      "prev_close": 1735.1,
-      "volume": 779164,
-      "deliverable_qty": 420500,
-      "delivery_pct": 53.97
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1748.1,
-      "prev_close": 1754.5,
-      "volume": 9382761,
-      "deliverable_qty": 3781252,
-      "delivery_pct": 40.3
-    },
     {
       "date": "2026-02-27",
       "close": 1730.8,
@@ -442,9 +426,31 @@
       "volume": 866674,
       "deliverable_qty": 422568,
       "delivery_pct": 48.76
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1579.2,
+      "prev_close": 1567.3,
+      "volume": 557092,
+      "deliverable_qty": 255372,
+      "delivery_pct": 45.84
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 19:31:07",
+      "an_dt": "27-May-2026 19:31:07",
+      "desc": "Allotment of Securities",
+      "sm_name": "Cholamandalam Investment and Finance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JashJS_27052026193046_NSEIntimationSEBIReg30Allotment27May2026NCDSeries665.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 18:29:57",
+      "an_dt": "27-May-2026 18:29:57",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Cholamandalam Investment and Finance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/lakshmits_27052026182944_Allotment_of_ESOP_-_116696_shs_27May2026.pdf"
+    },
     {
       "sort_date": "2026-05-26 19:38:51",
       "an_dt": "26-May-2026 19:38:51",
@@ -584,27 +590,6 @@
       "desc": "Allotment of Securities",
       "sm_name": "Cholamandalam Investment and Finance Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JashJS_27022026193850_NSEIntimationSEBIReg30Allotment27Feb26NCDSeries661.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 12:45:02",
-      "an_dt": "26-Feb-2026 12:45:02",
-      "desc": "Rumour Verification - Regulation 30(11)",
-      "sm_name": "Cholamandalam Investment and Finance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/lakshmits_26022026124438_Clarification.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 12:33:47",
-      "an_dt": "26-Feb-2026 12:33:47",
-      "desc": "News Verification",
-      "sm_name": "Cholamandalam Investment and Finance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/lakshmits_26022026123309_Clarification.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 11:34:05",
-      "an_dt": "26-Feb-2026 11:34:05",
-      "desc": "News Verification",
-      "sm_name": "Cholamandalam Investment and Finance Company Limited",
-      "attchmntFile": "-"
     }
   ]
 }

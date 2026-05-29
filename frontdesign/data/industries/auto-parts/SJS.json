@@ -8,25 +8,9 @@
   "price": 2011.7,
   "market_cap_cr": 6436.79,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1845.6,
-      "prev_close": 1846.0,
-      "volume": 55146,
-      "deliverable_qty": 28122,
-      "delivery_pct": 51.0
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1819.6,
-      "prev_close": 1845.6,
-      "volume": 59772,
-      "deliverable_qty": 27773,
-      "delivery_pct": 46.46
-    },
     {
       "date": "2026-02-27",
       "close": 1759.7,
@@ -442,6 +426,14 @@
       "volume": 87164,
       "deliverable_qty": 38671,
       "delivery_pct": 44.37
+    },
+    {
+      "date": "2026-05-27",
+      "close": 2038.9,
+      "prev_close": 2038.4,
+      "volume": 102786,
+      "deliverable_qty": 35768,
+      "delivery_pct": 34.8
     }
   ],
   "news": [
@@ -619,13 +611,6 @@
       "desc": "Acquisition",
       "sm_name": "S.J.S. Enterprises Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SJS_27022026152825_DBRenewsAcquisition.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 15:06:24",
-      "an_dt": "25-Feb-2026 15:06:24",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "S.J.S. Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SJS_25022026150507_IIFLInvestorMeeting25022026.pdf"
     }
   ]
 }

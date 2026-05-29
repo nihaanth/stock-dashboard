@@ -8,25 +8,9 @@
   "price": 163.81,
   "market_cap_cr": 125046.1,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 199.3,
-      "prev_close": 200.62,
-      "volume": 20245353,
-      "deliverable_qty": 8777582,
-      "delivery_pct": 43.36
-    },
-    {
-      "date": "2026-02-26",
-      "close": 201.54,
-      "prev_close": 199.3,
-      "volume": 30109110,
-      "deliverable_qty": 15785736,
-      "delivery_pct": 52.43
-    },
     {
       "date": "2026-02-27",
       "close": 202.27,
@@ -442,9 +426,31 @@
       "volume": 16199061,
       "deliverable_qty": 5576639,
       "delivery_pct": 34.43
+    },
+    {
+      "date": "2026-05-27",
+      "close": 168.72,
+      "prev_close": 167.56,
+      "volume": 7569728,
+      "deliverable_qty": 3154576,
+      "delivery_pct": 41.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 21:36:55",
+      "an_dt": "27-May-2026 21:36:55",
+      "desc": "Updates",
+      "sm_name": "Union Bank of India",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIONBANK_27052026213613_AGM_Intimation_July_2026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 21:08:22",
+      "an_dt": "27-May-2026 21:08:22",
+      "desc": "Record Date",
+      "sm_name": "Union Bank of India",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIONBANK_27052026210716_AGM_Intimation_July_2026.pdf"
+    },
     {
       "sort_date": "2026-05-26 14:35:43",
       "an_dt": "26-May-2026 14:35:43",
@@ -654,27 +660,6 @@
       "desc": "Updates",
       "sm_name": "Union Bank of India",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIONBANK_16032026103357_CDRDF_Outcome_Capital_16032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 18:41:12",
-      "an_dt": "26-Feb-2026 18:41:12",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Union Bank of India",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIONBANK_26022026184103_Bilingual_Outcome_Analyst_Meet_01_26022026_NSE_BSE_UBS_Global.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 18:38:47",
-      "an_dt": "26-Feb-2026 18:38:47",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Union Bank of India",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIONBANK_26022026183837_Bilingual_Outcome_Analyst_Meet_26022026_NSE_BSE_Chase_Growth.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 19:28:14",
-      "an_dt": "25-Feb-2026 19:28:14",
-      "desc": "Credit Rating- New",
-      "sm_name": "Union Bank of India",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIONBANK_25022026192801_Fitch_Rating_Disclosure.pdf"
     }
   ]
 }

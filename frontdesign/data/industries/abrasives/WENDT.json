@@ -8,25 +8,9 @@
   "price": 7248.0,
   "market_cap_cr": 1449.6,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 6735.0,
-      "prev_close": 6750.0,
-      "volume": 5556,
-      "deliverable_qty": 4273,
-      "delivery_pct": 76.91
-    },
-    {
-      "date": "2026-02-26",
-      "close": 6861.5,
-      "prev_close": 6735.0,
-      "volume": 10589,
-      "deliverable_qty": 6516,
-      "delivery_pct": 61.54
-    },
     {
       "date": "2026-02-27",
       "close": 6854.5,
@@ -442,9 +426,24 @@
       "volume": 2257,
       "deliverable_qty": 963,
       "delivery_pct": 42.67
+    },
+    {
+      "date": "2026-05-27",
+      "close": 6971.0,
+      "prev_close": 7019.5,
+      "volume": 2780,
+      "deliverable_qty": 1435,
+      "delivery_pct": 51.62
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 17:14:09",
+      "an_dt": "27-May-2026 17:14:09",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Wendt (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WENDT_27052026170800_initimation_sd.pdf"
+    },
     {
       "sort_date": "2026-05-05 19:39:27",
       "an_dt": "05-May-2026 19:39:27",
@@ -521,13 +520,6 @@
       "desc": "Appointment",
       "sm_name": "Wendt (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WENDT_03032026121144_sm_intimation_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 16:36:30",
-      "an_dt": "25-Feb-2026 16:36:30",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Wendt (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WENDT_25022026163107_intimation_sd.pdf"
     }
   ]
 }

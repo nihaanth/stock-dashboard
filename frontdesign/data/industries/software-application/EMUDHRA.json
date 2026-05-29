@@ -8,25 +8,9 @@
   "price": 501.25,
   "market_cap_cr": 4112.43,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 439.0,
-      "prev_close": 443.55,
-      "volume": 134673,
-      "deliverable_qty": 74816,
-      "delivery_pct": 55.55
-    },
-    {
-      "date": "2026-02-26",
-      "close": 437.9,
-      "prev_close": 439.0,
-      "volume": 110395,
-      "deliverable_qty": 55652,
-      "delivery_pct": 50.41
-    },
     {
       "date": "2026-02-27",
       "close": 428.1,
@@ -442,9 +426,31 @@
       "volume": 57000,
       "deliverable_qty": 27340,
       "delivery_pct": 47.96
+    },
+    {
+      "date": "2026-05-27",
+      "close": 474.95,
+      "prev_close": 476.55,
+      "volume": 57521,
+      "deliverable_qty": 27796,
+      "delivery_pct": 48.32
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 12:04:23",
+      "an_dt": "28-May-2026 12:04:23",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "eMudhra Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMUDHRA2008_28052026120355_InvestorMeet_intimation_1_1.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 15:22:09",
+      "an_dt": "27-May-2026 15:22:09",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "eMudhra Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMUDHRA2008_27052026152159_InvestorMeet_intimation_1.pdf"
+    },
     {
       "sort_date": "2026-05-26 12:42:58",
       "an_dt": "26-May-2026 12:42:58",
@@ -724,27 +730,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "eMudhra Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMUDHRA2008_27022026114107_InvestorMeet_intimation_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 22:44:22",
-      "an_dt": "26-Feb-2026 22:44:22",
-      "desc": "Press Release",
-      "sm_name": "eMudhra Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMUDHRA2008_26022026224400_Press_Release_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 12:40:33",
-      "an_dt": "26-Feb-2026 12:40:33",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "eMudhra Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMUDHRA2008_26022026124025_InvestorMeet_intimation_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 12:31:02",
-      "an_dt": "26-Feb-2026 12:31:02",
-      "desc": "General Updates",
-      "sm_name": "eMudhra Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMUDHRA2008_26022026123045_ESG_Rating_signed.pdf"
     }
   ]
 }

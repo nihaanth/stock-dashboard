@@ -8,25 +8,9 @@
   "price": 138.81,
   "market_cap_cr": 777.89,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 115.52,
-      "prev_close": 116.09,
-      "volume": 16906,
-      "deliverable_qty": 9858,
-      "delivery_pct": 58.31
-    },
-    {
-      "date": "2026-02-26",
-      "close": 115.48,
-      "prev_close": 115.52,
-      "volume": 20396,
-      "deliverable_qty": 13263,
-      "delivery_pct": 65.03
-    },
     {
       "date": "2026-02-27",
       "close": 116.12,
@@ -442,6 +426,14 @@
       "volume": 86061,
       "deliverable_qty": 50067,
       "delivery_pct": 58.18
+    },
+    {
+      "date": "2026-05-27",
+      "close": 149.01,
+      "prev_close": 149.23,
+      "volume": 109848,
+      "deliverable_qty": 59251,
+      "delivery_pct": 53.94
     }
   ],
   "news": [
@@ -633,13 +625,6 @@
       "desc": "Trading Window",
       "sm_name": "Menon Bearings Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MENONBE_27022026181824_Trading_Window_Closure_Intimation_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 12:51:56",
-      "an_dt": "26-Feb-2026 12:51:56",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Menon Bearings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MENONBE_26022026125135_FILING-Arihant_Virtual_Investor_260226_Signed.pdf"
     }
   ]
 }

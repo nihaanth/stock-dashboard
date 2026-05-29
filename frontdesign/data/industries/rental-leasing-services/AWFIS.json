@@ -8,25 +8,9 @@
   "price": 388.65,
   "market_cap_cr": 2780.42,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 298.3,
-      "prev_close": 304.7,
-      "volume": 297347,
-      "deliverable_qty": 124373,
-      "delivery_pct": 41.83
-    },
-    {
-      "date": "2026-02-26",
-      "close": 297.35,
-      "prev_close": 298.3,
-      "volume": 146901,
-      "deliverable_qty": 54673,
-      "delivery_pct": 37.22
-    },
     {
       "date": "2026-02-27",
       "close": 292.4,
@@ -442,6 +426,14 @@
       "volume": 4023221,
       "deliverable_qty": 897025,
       "delivery_pct": 22.3
+    },
+    {
+      "date": "2026-05-27",
+      "close": 345.85,
+      "prev_close": 356.15,
+      "volume": 678248,
+      "deliverable_qty": 259855,
+      "delivery_pct": 38.31
     }
   ],
   "news": [
@@ -626,27 +618,6 @@
       "desc": "Press Release",
       "sm_name": "Awfis Space Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AWFIS2014_18032026103052_Awfis_Press_Release_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 10:59:32",
-      "an_dt": "26-Feb-2026 10:59:32",
-      "desc": "General Updates",
-      "sm_name": "Awfis Space Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AWFIS2014_26022026105705_Disclosure_Final_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 10:45:03",
-      "an_dt": "26-Feb-2026 10:45:03",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Awfis Space Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AWFIS2014_26022026104337_Disclosure_Final_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 14:32:28",
-      "an_dt": "25-Feb-2026 14:32:28",
-      "desc": "Updates",
-      "sm_name": "Awfis Space Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AWFIS2014_25022026143214_ICICI_Bank_Loan_Update_Signed.pdf"
     }
   ]
 }

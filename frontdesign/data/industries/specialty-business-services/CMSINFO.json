@@ -8,25 +8,9 @@
   "price": 293.5,
   "market_cap_cr": 4832.11,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 298.5,
-      "prev_close": 310.2,
-      "volume": 1517429,
-      "deliverable_qty": 1078480,
-      "delivery_pct": 71.07
-    },
-    {
-      "date": "2026-02-26",
-      "close": 301.3,
-      "prev_close": 298.5,
-      "volume": 1952574,
-      "deliverable_qty": 1589675,
-      "delivery_pct": 81.41
-    },
     {
       "date": "2026-02-27",
       "close": 303.6,
@@ -442,9 +426,24 @@
       "volume": 276442,
       "deliverable_qty": 164295,
       "delivery_pct": 59.43
+    },
+    {
+      "date": "2026-05-27",
+      "close": 309.4,
+      "prev_close": 308.1,
+      "volume": 304449,
+      "deliverable_qty": 121696,
+      "delivery_pct": 39.97
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 16:33:40",
+      "an_dt": "27-May-2026 16:33:40",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "CMS Info Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CMSINFO_27052026163318_SEIntimationofNpBBOfferAdvt-sd.pdf"
+    },
     {
       "sort_date": "2026-05-25 18:49:45",
       "an_dt": "25-May-2026 18:49:45",

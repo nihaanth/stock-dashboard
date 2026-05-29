@@ -8,25 +8,9 @@
   "price": 90.56,
   "market_cap_cr": 1042.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 86.82,
-      "prev_close": 79.88,
-      "volume": 3414026,
-      "deliverable_qty": 759130,
-      "delivery_pct": 22.24
-    },
-    {
-      "date": "2026-02-26",
-      "close": 87.31,
-      "prev_close": 86.82,
-      "volume": 1315028,
-      "deliverable_qty": 374279,
-      "delivery_pct": 28.46
-    },
     {
       "date": "2026-02-27",
       "close": 85.26,
@@ -442,9 +426,31 @@
       "volume": 1054053,
       "deliverable_qty": 438454,
       "delivery_pct": 41.6
+    },
+    {
+      "date": "2026-05-27",
+      "close": 87.43,
+      "prev_close": 87.46,
+      "volume": 776255,
+      "deliverable_qty": 278977,
+      "delivery_pct": 35.94
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 19:34:55",
+      "an_dt": "28-May-2026 19:34:55",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Excelsoft Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXCELSOFT_28052026193237_Earnings_Call_Transcript_sd.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 17:36:32",
+      "an_dt": "27-May-2026 17:36:32",
+      "desc": "Press Release",
+      "sm_name": "Excelsoft Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXCELSOFT_27052026173551_Press_release_sd.pdf"
+    },
     {
       "sort_date": "2026-05-25 17:46:51",
       "an_dt": "25-May-2026 17:46:51",

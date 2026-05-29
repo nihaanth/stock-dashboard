@@ -8,25 +8,9 @@
   "price": 699.6,
   "market_cap_cr": 1401.28,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 612.25,
-      "prev_close": 615.65,
-      "volume": 17974,
-      "deliverable_qty": 9099,
-      "delivery_pct": 50.62
-    },
-    {
-      "date": "2026-02-26",
-      "close": 629.9,
-      "prev_close": 612.25,
-      "volume": 60064,
-      "deliverable_qty": 26323,
-      "delivery_pct": 43.82
-    },
     {
       "date": "2026-02-27",
       "close": 631.05,
@@ -442,9 +426,31 @@
       "volume": 103289,
       "deliverable_qty": 58900,
       "delivery_pct": 57.02
+    },
+    {
+      "date": "2026-05-27",
+      "close": 758.15,
+      "prev_close": 747.45,
+      "volume": 123783,
+      "deliverable_qty": 79144,
+      "delivery_pct": 63.94
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 17:24:18",
+      "an_dt": "28-May-2026 17:24:18",
+      "desc": "Dividend",
+      "sm_name": "Lincoln Pharmaceuticals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LINCOLN_28052026172343_Q4_Result_F.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 17:09:55",
+      "an_dt": "28-May-2026 17:09:55",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Lincoln Pharmaceuticals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LINCOLN_28052026170717_Q4_Result_F.pdf"
+    },
     {
       "sort_date": "2026-05-08 14:34:03",
       "an_dt": "08-May-2026 14:34:03",

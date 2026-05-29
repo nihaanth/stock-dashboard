@@ -8,25 +8,9 @@
   "price": 1175.3,
   "market_cap_cr": 141186.76,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1013.0,
-      "prev_close": 1037.1,
-      "volume": 1394329,
-      "deliverable_qty": 546889,
-      "delivery_pct": 39.22
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1023.95,
-      "prev_close": 1013.0,
-      "volume": 1114743,
-      "deliverable_qty": 338127,
-      "delivery_pct": 30.33
-    },
     {
       "date": "2026-02-27",
       "close": 1011.55,
@@ -442,6 +426,14 @@
       "volume": 6172118,
       "deliverable_qty": 2556433,
       "delivery_pct": 41.42
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1540.1,
+      "prev_close": 1463.3,
+      "volume": 7841736,
+      "deliverable_qty": 2644871,
+      "delivery_pct": 33.73
     }
   ],
   "news": [
@@ -584,13 +576,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Adani Energy Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADANITRANS_11032026191452_AESL_Investor_Meet.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 18:46:36",
-      "an_dt": "25-Feb-2026 18:46:36",
-      "desc": "Shareholders meeting",
-      "sm_name": "Adani Energy Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADANITRANS_25022026184502_AESL_Results_25022026.pdf"
     }
   ]
 }

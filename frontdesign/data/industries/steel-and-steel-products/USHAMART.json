@@ -8,25 +8,9 @@
   "price": 477.65,
   "market_cap_cr": 14539.68,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 425.75,
-      "prev_close": 406.05,
-      "volume": 9323469,
-      "deliverable_qty": 1017688,
-      "delivery_pct": 10.92
-    },
-    {
-      "date": "2026-02-26",
-      "close": 425.65,
-      "prev_close": 425.75,
-      "volume": 566980,
-      "deliverable_qty": 223103,
-      "delivery_pct": 39.35
-    },
     {
       "date": "2026-02-27",
       "close": 418.4,
@@ -442,9 +426,31 @@
       "volume": 517110,
       "deliverable_qty": 285141,
       "delivery_pct": 55.14
+    },
+    {
+      "date": "2026-05-27",
+      "close": 510.45,
+      "prev_close": 480.8,
+      "volume": 5794545,
+      "deliverable_qty": 1451118,
+      "delivery_pct": 25.04
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 22:16:47",
+      "an_dt": "27-May-2026 22:16:47",
+      "desc": "Spurt in Volume",
+      "sm_name": "Usha Martin Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/USHAMART_27052026221543_NSEReply27052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 19:30:40",
+      "an_dt": "27-May-2026 19:30:40",
+      "desc": "Spurt in Volume",
+      "sm_name": "Usha Martin Limited",
+      "attchmntFile": "-"
+    },
     {
       "sort_date": "2026-05-26 11:03:52",
       "an_dt": "26-May-2026 11:03:52",
@@ -542,27 +548,6 @@
       "desc": "Trading Window",
       "sm_name": "Usha Martin Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/USHAMART_25032026175800_ClosureofTradingWindow.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 10:15:47",
-      "an_dt": "26-Feb-2026 10:15:47",
-      "desc": "Spurt in Volume",
-      "sm_name": "Usha Martin Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/USHAMART_26022026101347_NSEReply26022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 18:43:46",
-      "an_dt": "25-Feb-2026 18:43:46",
-      "desc": "Spurt in Volume",
-      "sm_name": "Usha Martin Limited",
-      "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-02-25 14:02:44",
-      "an_dt": "25-Feb-2026 14:02:44",
-      "desc": "General Updates",
-      "sm_name": "Usha Martin Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/USHAMART_25022026140204_SEIntimation25022026.pdf"
     }
   ]
 }

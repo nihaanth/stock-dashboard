@@ -8,25 +8,9 @@
   "price": 1023.5,
   "market_cap_cr": 228870.27,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 937.4,
-      "prev_close": 922.85,
-      "volume": 5288850,
-      "deliverable_qty": 3087919,
-      "delivery_pct": 58.39
-    },
-    {
-      "date": "2026-02-26",
-      "close": 941.3,
-      "prev_close": 937.4,
-      "volume": 3075442,
-      "deliverable_qty": 1731095,
-      "delivery_pct": 56.29
-    },
     {
       "date": "2026-02-27",
       "close": 924.7,
@@ -442,6 +426,14 @@
       "volume": 5880899,
       "deliverable_qty": 3142802,
       "delivery_pct": 53.44
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1149.7,
+      "prev_close": 1103.8,
+      "volume": 7559470,
+      "deliverable_qty": 2820642,
+      "delivery_pct": 37.31
     }
   ],
   "news": [
@@ -612,20 +604,6 @@
       "desc": "Change in Management",
       "sm_name": "Hindalco Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_27022026210551_Reg30_Changes_in_SMP_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 16:33:02",
-      "an_dt": "26-Feb-2026 16:33:02",
-      "desc": "Acquisition",
-      "sm_name": "Hindalco Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_26022026162724_Reg30_update_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 16:11:55",
-      "an_dt": "26-Feb-2026 16:11:55",
-      "desc": "Change in Management",
-      "sm_name": "Hindalco Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_26022026160949_Reg30_Changes_in_SMP_signed.pdf"
     }
   ]
 }

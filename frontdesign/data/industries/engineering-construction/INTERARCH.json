@@ -8,25 +8,9 @@
   "price": 2103.1,
   "market_cap_cr": 3527.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1883.9,
-      "prev_close": 1902.3,
-      "volume": 85953,
-      "deliverable_qty": 43901,
-      "delivery_pct": 51.08
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1902.0,
-      "prev_close": 1883.9,
-      "volume": 47609,
-      "deliverable_qty": 21092,
-      "delivery_pct": 44.3
-    },
     {
       "date": "2026-02-27",
       "close": 1878.5,
@@ -442,6 +426,14 @@
       "volume": 72556,
       "deliverable_qty": 27406,
       "delivery_pct": 37.77
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1785.8,
+      "prev_close": 1805.4,
+      "volume": 66758,
+      "deliverable_qty": 44013,
+      "delivery_pct": 65.93
     }
   ],
   "news": [
@@ -661,20 +653,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Interarch Building Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTERARCH1983_05032026120130_Intimation_for_Investor_Meet_11032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 12:26:53",
-      "an_dt": "25-Feb-2026 12:26:53",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Interarch Building Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTERARCH1983_25022026122645_Intimation_PAS-1_25020206.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 12:25:57",
-      "an_dt": "25-Feb-2026 12:25:57",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Interarch Building Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTERARCH1983_25022026122549_Intimation_NP_Postal_Ballot_25022026.pdf"
     }
   ]
 }

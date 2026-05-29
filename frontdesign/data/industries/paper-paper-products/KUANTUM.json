@@ -8,25 +8,9 @@
   "price": 78.75,
   "market_cap_cr": 687.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 88.26,
-      "prev_close": 88.24,
-      "volume": 48354,
-      "deliverable_qty": 38386,
-      "delivery_pct": 79.39
-    },
-    {
-      "date": "2026-02-26",
-      "close": 89.44,
-      "prev_close": 88.26,
-      "volume": 21703,
-      "deliverable_qty": 12958,
-      "delivery_pct": 59.71
-    },
     {
       "date": "2026-02-27",
       "close": 89.59,
@@ -442,9 +426,52 @@
       "volume": 112406,
       "deliverable_qty": 56363,
       "delivery_pct": 50.14
+    },
+    {
+      "date": "2026-05-27",
+      "close": 77.21,
+      "prev_close": 78.32,
+      "volume": 116972,
+      "deliverable_qty": 69349,
+      "delivery_pct": 59.29
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 11:57:08",
+      "an_dt": "28-May-2026 11:57:08",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Kuantum Papers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KUANTUM_28052026115654_NEWSPAPERIEPF28052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 16:37:56",
+      "an_dt": "27-May-2026 16:37:56",
+      "desc": "Investor Presentation",
+      "sm_name": "Kuantum Papers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KUANTUM_27052026163744_earningspresentation27052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 16:34:34",
+      "an_dt": "27-May-2026 16:34:34",
+      "desc": "Investor Presentation",
+      "sm_name": "Kuantum Papers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KUANTUM_27052026163350_earningspresentation27052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 10:05:54",
+      "an_dt": "27-May-2026 10:05:54",
+      "desc": "Dividend",
+      "sm_name": "Kuantum Papers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KUANTUM_27052026100528_OUTCOME26052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 09:51:51",
+      "an_dt": "27-May-2026 09:51:51",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Kuantum Papers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KUANTUM_27052026095138_NEWSPAPERRESULTS27072026.pdf"
+    },
     {
       "sort_date": "2026-05-26 17:14:49",
       "an_dt": "26-May-2026 17:14:49",
@@ -563,13 +590,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Kuantum Papers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KUANTUM_19032026181250_VOTINGRESULTSSCRU19032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 12:47:29",
-      "an_dt": "25-Feb-2026 12:47:29",
-      "desc": "Investor Presentation",
-      "sm_name": "Kuantum Papers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KUANTUM_25022026124651_INVESTORPRESENTATION25022026.pdf"
     }
   ]
 }

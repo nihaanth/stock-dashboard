@@ -8,25 +8,9 @@
   "price": 56.61,
   "market_cap_cr": 1069.43,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 57.99,
-      "prev_close": 59.98,
-      "volume": 569718,
-      "deliverable_qty": 385168,
-      "delivery_pct": 67.61
-    },
-    {
-      "date": "2026-02-26",
-      "close": 57.89,
-      "prev_close": 57.99,
-      "volume": 353856,
-      "deliverable_qty": 167159,
-      "delivery_pct": 47.24
-    },
     {
       "date": "2026-02-27",
       "close": 57.0,
@@ -442,9 +426,38 @@
       "volume": 438975,
       "deliverable_qty": 219379,
       "delivery_pct": 49.98
+    },
+    {
+      "date": "2026-05-27",
+      "close": 57.45,
+      "prev_close": 57.29,
+      "volume": 223298,
+      "deliverable_qty": 127494,
+      "delivery_pct": 57.1
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 20:53:09",
+      "an_dt": "27-May-2026 20:53:09",
+      "desc": "Change in Management",
+      "sm_name": "Roto Pumps Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ROTO_27052026205258_SE_Intimation_Outcome_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 20:45:09",
+      "an_dt": "27-May-2026 20:45:09",
+      "desc": "Dividend",
+      "sm_name": "Roto Pumps Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ROTO_27052026204421_SE_Intimation_Outcome_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 20:42:47",
+      "an_dt": "27-May-2026 20:42:47",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Roto Pumps Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ROTO_27052026203924_SE_Intimation_Results_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-07 17:48:16",
       "an_dt": "07-May-2026 17:48:16",

@@ -8,25 +8,9 @@
   "price": 1333.7,
   "market_cap_cr": 3119.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1217.5,
-      "prev_close": 1228.6,
-      "volume": 20031,
-      "deliverable_qty": 9027,
-      "delivery_pct": 45.07
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1236.6,
-      "prev_close": 1217.5,
-      "volume": 112943,
-      "deliverable_qty": 32538,
-      "delivery_pct": 28.81
-    },
     {
       "date": "2026-02-27",
       "close": 1223.5,
@@ -442,6 +426,14 @@
       "volume": 38739,
       "deliverable_qty": 20519,
       "delivery_pct": 52.97
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1146.8,
+      "prev_close": 1158.0,
+      "volume": 43183,
+      "deliverable_qty": 24412,
+      "delivery_pct": 56.53
     }
   ],
   "news": [
@@ -556,13 +548,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Tatva Chintan Pharma Chem Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATVA_11032026174712_II.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 16:38:09",
-      "an_dt": "25-Feb-2026 16:38:09",
-      "desc": "Updates",
-      "sm_name": "Tatva Chintan Pharma Chem Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATVA_25022026163611_S.pdf"
     }
   ]
 }

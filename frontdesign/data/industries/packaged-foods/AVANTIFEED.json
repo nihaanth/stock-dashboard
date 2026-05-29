@@ -8,25 +8,9 @@
   "price": 1404.5,
   "market_cap_cr": 19135.7,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1355.6,
-      "prev_close": 1334.5,
-      "volume": 420211,
-      "deliverable_qty": 118705,
-      "delivery_pct": 28.25
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1335.55,
-      "prev_close": 1355.6,
-      "volume": 576721,
-      "deliverable_qty": 236641,
-      "delivery_pct": 41.03
-    },
     {
       "date": "2026-02-27",
       "close": 1282.8,
@@ -442,9 +426,45 @@
       "volume": 380104,
       "deliverable_qty": 85595,
       "delivery_pct": 22.52
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1297.4,
+      "prev_close": 1337.8,
+      "volume": 311249,
+      "deliverable_qty": 114210,
+      "delivery_pct": 36.69
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 20:32:54",
+      "an_dt": "28-May-2026 20:32:54",
+      "desc": "Change in Management",
+      "sm_name": "Avanti Feeds Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_28052026203214_Outcome_-_Revised.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 20:06:36",
+      "an_dt": "28-May-2026 20:06:36",
+      "desc": "Change in Director(s)",
+      "sm_name": "Avanti Feeds Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_28052026200507_Outcome_-_Revised.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 19:56:47",
+      "an_dt": "28-May-2026 19:56:47",
+      "desc": "Dividend",
+      "sm_name": "Avanti Feeds Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_28052026195506_Outcome_-_Revised.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 18:03:43",
+      "an_dt": "28-May-2026 18:03:43",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Avanti Feeds Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_28052026180240_Outcome.pdf"
+    },
     {
       "sort_date": "2026-05-19 16:32:39",
       "an_dt": "19-May-2026 16:32:39",
@@ -535,13 +555,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Avanti Feeds Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_02032026185424_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 18:41:16",
-      "an_dt": "25-Feb-2026 18:41:16",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Avanti Feeds Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_25022026184054_AFL_Intimation.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 116.34,
   "market_cap_cr": 2482.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 126.09,
-      "prev_close": 125.73,
-      "volume": 130537,
-      "deliverable_qty": 83390,
-      "delivery_pct": 63.88
-    },
-    {
-      "date": "2026-02-26",
-      "close": 122.5,
-      "prev_close": 126.09,
-      "volume": 582015,
-      "deliverable_qty": 380337,
-      "delivery_pct": 65.35
-    },
     {
       "date": "2026-02-27",
       "close": 125.7,
@@ -442,9 +426,38 @@
       "volume": 142721,
       "deliverable_qty": 63202,
       "delivery_pct": 44.28
+    },
+    {
+      "date": "2026-05-27",
+      "close": 119.23,
+      "prev_close": 123.33,
+      "volume": 453640,
+      "deliverable_qty": 205295,
+      "delivery_pct": 45.26
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 23:20:14",
+      "an_dt": "28-May-2026 23:20:14",
+      "desc": "Press Release",
+      "sm_name": "Apeejay Surrendra Park Hotels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASPHL_28052026231844_Intimation_Press_Release.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 14:32:39",
+      "an_dt": "28-May-2026 14:32:39",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Apeejay Surrendra Park Hotels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASPHL_28052026143033_Newspaper_Advertisement.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 00:05:14",
+      "an_dt": "27-May-2026 00:05:14",
+      "desc": "Dividend",
+      "sm_name": "Apeejay Surrendra Park Hotels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASPHL_27052026000426_Outcome_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-26 23:31:32",
       "an_dt": "26-May-2026 23:31:32",
@@ -598,20 +611,6 @@
       "desc": "Updates",
       "sm_name": "Apeejay Surrendra Park Hotels Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASPHL_19032026154814_Intimation_PIT.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 18:34:05",
-      "an_dt": "26-Feb-2026 18:34:05",
-      "desc": "Updates",
-      "sm_name": "Apeejay Surrendra Park Hotels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASPHL_26022026183257_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 23:16:40",
-      "an_dt": "25-Feb-2026 23:16:40",
-      "desc": "Updates",
-      "sm_name": "Apeejay Surrendra Park Hotels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASPHL_25022026231513_Intimation.pdf"
     }
   ]
 }

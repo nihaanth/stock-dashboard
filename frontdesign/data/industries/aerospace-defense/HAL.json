@@ -8,25 +8,9 @@
   "price": 4756.3,
   "market_cap_cr": 318089.44,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 3985.0,
-      "prev_close": 3952.6,
-      "volume": 1239941,
-      "deliverable_qty": 576865,
-      "delivery_pct": 46.52
-    },
-    {
-      "date": "2026-02-26",
-      "close": 4008.9,
-      "prev_close": 3985.0,
-      "volume": 1423043,
-      "deliverable_qty": 891169,
-      "delivery_pct": 62.62
-    },
     {
       "date": "2026-02-27",
       "close": 3913.2,
@@ -442,9 +426,24 @@
       "volume": 983680,
       "deliverable_qty": 546807,
       "delivery_pct": 55.59
+    },
+    {
+      "date": "2026-05-27",
+      "close": 4413.0,
+      "prev_close": 4427.7,
+      "volume": 502395,
+      "deliverable_qty": 227674,
+      "delivery_pct": 45.32
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 10:58:35",
+      "an_dt": "27-May-2026 10:58:35",
+      "desc": "Change in Management",
+      "sm_name": "Hindustan Aeronautics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HAL_27052026105757_ChangeInManagement_27052026.pdf"
+    },
     {
       "sort_date": "2026-05-22 11:23:29",
       "an_dt": "22-May-2026 11:23:29",

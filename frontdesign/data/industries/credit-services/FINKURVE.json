@@ -8,25 +8,9 @@
   "price": 63.16,
   "market_cap_cr": 886.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 79.93,
-      "prev_close": 81.78,
-      "volume": 21299,
-      "deliverable_qty": 11201,
-      "delivery_pct": 52.59
-    },
-    {
-      "date": "2026-02-26",
-      "close": 77.44,
-      "prev_close": 79.93,
-      "volume": 12850,
-      "deliverable_qty": 7382,
-      "delivery_pct": 57.45
-    },
     {
       "date": "2026-02-27",
       "close": 77.93,
@@ -442,9 +426,24 @@
       "volume": 87526,
       "deliverable_qty": 60409,
       "delivery_pct": 69.02
+    },
+    {
+      "date": "2026-05-27",
+      "close": 60.62,
+      "prev_close": 63.16,
+      "volume": 115558,
+      "deliverable_qty": 67540,
+      "delivery_pct": 58.45
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 16:19:37",
+      "an_dt": "27-May-2026 16:19:37",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Finkurve Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_27052026161857_transcript_to_upload.pdf"
+    },
     {
       "sort_date": "2026-05-26 15:30:48",
       "an_dt": "26-May-2026 15:30:48",
@@ -738,13 +737,6 @@
       "desc": "Updates",
       "sm_name": "Finkurve Financial Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_27022026150045_Record_Date.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 12:02:12",
-      "an_dt": "25-Feb-2026 12:02:12",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Finkurve Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINKURVE_25022026120159_Board_Meeting_Outcome.pdf"
     }
   ]
 }

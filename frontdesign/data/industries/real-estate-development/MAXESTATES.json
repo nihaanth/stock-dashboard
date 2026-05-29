@@ -8,25 +8,9 @@
   "price": 374.9,
   "market_cap_cr": 6127.75,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 406.9,
-      "prev_close": 400.15,
-      "volume": 41033,
-      "deliverable_qty": 22699,
-      "delivery_pct": 55.32
-    },
-    {
-      "date": "2026-02-26",
-      "close": 403.75,
-      "prev_close": 406.9,
-      "volume": 32053,
-      "deliverable_qty": 22353,
-      "delivery_pct": 69.74
-    },
     {
       "date": "2026-02-27",
       "close": 402.85,
@@ -442,6 +426,14 @@
       "volume": 101752,
       "deliverable_qty": 54259,
       "delivery_pct": 53.32
+    },
+    {
+      "date": "2026-05-27",
+      "close": 453.4,
+      "prev_close": 448.95,
+      "volume": 103052,
+      "deliverable_qty": 60808,
+      "delivery_pct": 59.01
     }
   ],
   "news": [
@@ -626,13 +618,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Max Estates Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEL_05032026143857_20260305InvestorCall.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 19:06:49",
-      "an_dt": "25-Feb-2026 19:06:49",
-      "desc": "Action(s) initiated or orders passed",
-      "sm_name": "Max Estates Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEL_25022026190153_20260225UpdateITATOrder.pdf"
     }
   ]
 }

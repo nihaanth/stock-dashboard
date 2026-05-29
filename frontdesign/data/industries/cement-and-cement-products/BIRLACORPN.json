@@ -8,25 +8,9 @@
   "price": 1062.65,
   "market_cap_cr": 8182.97,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 999.9,
-      "prev_close": 998.7,
-      "volume": 23894,
-      "deliverable_qty": 11023,
-      "delivery_pct": 46.13
-    },
-    {
-      "date": "2026-02-26",
-      "close": 988.9,
-      "prev_close": 999.9,
-      "volume": 52310,
-      "deliverable_qty": 31954,
-      "delivery_pct": 61.09
-    },
     {
       "date": "2026-02-27",
       "close": 1000.6,
@@ -442,9 +426,24 @@
       "volume": 24914,
       "deliverable_qty": 12121,
       "delivery_pct": 48.65
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1006.45,
+      "prev_close": 1001.7,
+      "volume": 27723,
+      "deliverable_qty": 14010,
+      "delivery_pct": 50.54
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 15:30:13",
+      "an_dt": "27-May-2026 15:30:13",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Birla Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIRLACORP1_27052026152948_DisclosureReg30NewspaperPublication.pdf"
+    },
     {
       "sort_date": "2026-05-14 16:16:55",
       "an_dt": "14-May-2026 16:16:55",

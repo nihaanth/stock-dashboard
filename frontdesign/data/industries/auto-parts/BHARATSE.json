@@ -8,25 +8,9 @@
   "price": 174.84,
   "market_cap_cr": 1101.69,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 195.64,
-      "prev_close": 199.5,
-      "volume": 299693,
-      "deliverable_qty": 84617,
-      "delivery_pct": 28.23
-    },
-    {
-      "date": "2026-02-26",
-      "close": 194.26,
-      "prev_close": 195.64,
-      "volume": 253174,
-      "deliverable_qty": 79907,
-      "delivery_pct": 31.56
-    },
     {
       "date": "2026-02-27",
       "close": 190.07,
@@ -442,6 +426,14 @@
       "volume": 75711,
       "deliverable_qty": 36102,
       "delivery_pct": 47.68
+    },
+    {
+      "date": "2026-05-27",
+      "close": 191.09,
+      "prev_close": 187.12,
+      "volume": 136623,
+      "deliverable_qty": 58431,
+      "delivery_pct": 42.77
     }
   ],
   "news": [
@@ -577,13 +569,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Bharat Seats Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARATSEATS_13032026125436_SEIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 12:08:22",
-      "an_dt": "26-Feb-2026 12:08:22",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Bharat Seats Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHARATSEATS_26022026120813_SEIntimation.pdf"
     }
   ]
 }

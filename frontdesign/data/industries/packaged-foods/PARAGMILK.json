@@ -8,25 +8,9 @@
   "price": 213.52,
   "market_cap_cr": 2669.18,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 193.35,
-      "prev_close": 190.2,
-      "volume": 1418531,
-      "deliverable_qty": 652574,
-      "delivery_pct": 46.0
-    },
-    {
-      "date": "2026-02-26",
-      "close": 207.75,
-      "prev_close": 193.35,
-      "volume": 1813935,
-      "deliverable_qty": 699775,
-      "delivery_pct": 38.58
-    },
     {
       "date": "2026-02-27",
       "close": 202.45,
@@ -442,9 +426,24 @@
       "volume": 556016,
       "deliverable_qty": 230234,
       "delivery_pct": 41.41
+    },
+    {
+      "date": "2026-05-27",
+      "close": 213.6,
+      "prev_close": 211.27,
+      "volume": 397013,
+      "deliverable_qty": 158374,
+      "delivery_pct": 39.89
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 22:03:12",
+      "an_dt": "28-May-2026 22:03:12",
+      "desc": "Allotment of Securities",
+      "sm_name": "Parag Milk Foods Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARAGMILK_28052026220304_IntimationESOPallotment.pdf"
+    },
     {
       "sort_date": "2026-05-15 20:36:06",
       "an_dt": "15-May-2026 20:36:06",

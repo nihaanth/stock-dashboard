@@ -8,25 +8,9 @@
   "price": 1037.95,
   "market_cap_cr": 101017.83,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1088.1,
-      "prev_close": 1086.4,
-      "volume": 1836316,
-      "deliverable_qty": 1109477,
-      "delivery_pct": 60.42
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1109.9,
-      "prev_close": 1088.1,
-      "volume": 3383794,
-      "deliverable_qty": 1931519,
-      "delivery_pct": 57.08
-    },
     {
       "date": "2026-02-27",
       "close": 1091.95,
@@ -442,9 +426,24 @@
       "volume": 2515276,
       "deliverable_qty": 1235830,
       "delivery_pct": 49.13
+    },
+    {
+      "date": "2026-05-27",
+      "close": 993.45,
+      "prev_close": 993.95,
+      "volume": 2621505,
+      "deliverable_qty": 1462436,
+      "delivery_pct": 55.79
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 17:14:17",
+      "an_dt": "28-May-2026 17:14:17",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Max Healthcare Institute Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAXHEALTH_28052026171323_SE_Intimation_Schedule_of_Investor_Conference.pdf"
+    },
     {
       "sort_date": "2026-05-26 23:07:34",
       "an_dt": "26-May-2026 23:07:34",

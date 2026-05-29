@@ -8,25 +8,9 @@
   "price": 299.55,
   "market_cap_cr": 4119.42,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 339.55,
-      "prev_close": 345.65,
-      "volume": 70491,
-      "deliverable_qty": 45494,
-      "delivery_pct": 64.54
-    },
-    {
-      "date": "2026-02-26",
-      "close": 339.55,
-      "prev_close": 339.55,
-      "volume": 111397,
-      "deliverable_qty": 49620,
-      "delivery_pct": 44.54
-    },
     {
       "date": "2026-02-27",
       "close": 337.3,
@@ -442,6 +426,14 @@
       "volume": 355845,
       "deliverable_qty": 197385,
       "delivery_pct": 55.47
+    },
+    {
+      "date": "2026-05-27",
+      "close": 214.0,
+      "prev_close": 216.35,
+      "volume": 532621,
+      "deliverable_qty": 302558,
+      "delivery_pct": 56.81
     }
   ],
   "news": [
@@ -619,20 +611,6 @@
       "desc": "General Updates",
       "sm_name": "NIIT Learning Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLSL_27022026193757_NLSL_SECorp_Guarantee_Update_Feb_27_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 23:48:05",
-      "an_dt": "25-Feb-2026 23:48:05",
-      "desc": "Other Restructuring",
-      "sm_name": "NIIT Learning Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLSL_25022026234757_MST_Switzerland_stock_exchange_Final.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 13:58:32",
-      "an_dt": "25-Feb-2026 13:58:32",
-      "desc": "Press Release",
-      "sm_name": "NIIT Learning Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLSL_25022026135822_NLSLPressRelease25022026.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 165.11,
   "market_cap_cr": 2183.47,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 132.57,
-      "prev_close": 132.7,
-      "volume": 330191,
-      "deliverable_qty": 156623,
-      "delivery_pct": 47.43
-    },
-    {
-      "date": "2026-02-26",
-      "close": 131.64,
-      "prev_close": 132.57,
-      "volume": 285265,
-      "deliverable_qty": 190576,
-      "delivery_pct": 66.81
-    },
     {
       "date": "2026-02-27",
       "close": 130.88,
@@ -442,9 +426,31 @@
       "volume": 441082,
       "deliverable_qty": 178290,
       "delivery_pct": 40.42
+    },
+    {
+      "date": "2026-05-27",
+      "close": 169.46,
+      "prev_close": 161.89,
+      "volume": 1285264,
+      "deliverable_qty": 418962,
+      "delivery_pct": 32.6
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 17:49:48",
+      "an_dt": "28-May-2026 17:49:48",
+      "desc": "General Updates",
+      "sm_name": "Hindustan Oil Exploration Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDOILEXPCS_28052026174913_Earningscall_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 16:15:36",
+      "an_dt": "27-May-2026 16:15:36",
+      "desc": "General Updates",
+      "sm_name": "Hindustan Oil Exploration Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDOILEXPCS_27052026161305_SE_intimation__signed.pdf"
+    },
     {
       "sort_date": "2026-05-18 10:17:53",
       "an_dt": "18-May-2026 10:17:53",
@@ -556,27 +562,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Hindustan Oil Exploration Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDOILEXPCS_27022026112924_Postal_Ballot_Notice_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 13:41:11",
-      "an_dt": "25-Feb-2026 13:41:11",
-      "desc": "Change in Management",
-      "sm_name": "Hindustan Oil Exploration Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDOILEXPCS_25022026134014_OutcomeOfBoardMeeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 13:33:31",
-      "an_dt": "25-Feb-2026 13:33:31",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Hindustan Oil Exploration Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDOILEXPCS_25022026133322_OutcomeOfBoardMeeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 12:48:45",
-      "an_dt": "25-Feb-2026 12:48:45",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Hindustan Oil Exploration Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDOILEXPCS_25022026124834_Transcript_intimation_Final.pdf"
     }
   ]
 }

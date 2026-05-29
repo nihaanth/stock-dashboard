@@ -8,25 +8,9 @@
   "price": 550.65,
   "market_cap_cr": 8221.33,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 579.95,
-      "prev_close": 584.7,
-      "volume": 161656,
-      "deliverable_qty": 65211,
-      "delivery_pct": 40.34
-    },
-    {
-      "date": "2026-02-26",
-      "close": 574.6,
-      "prev_close": 579.95,
-      "volume": 163714,
-      "deliverable_qty": 71202,
-      "delivery_pct": 43.49
-    },
     {
       "date": "2026-02-27",
       "close": 575.65,
@@ -442,6 +426,14 @@
       "volume": 204808,
       "deliverable_qty": 171131,
       "delivery_pct": 83.56
+    },
+    {
+      "date": "2026-05-27",
+      "close": 659.95,
+      "prev_close": 656.0,
+      "volume": 90211,
+      "deliverable_qty": 56047,
+      "delivery_pct": 62.13
     }
   ],
   "news": [
@@ -654,13 +646,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Healthcare Global Enterprises Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HCG1_06032026172531_Newpaper_ad_6_March_2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 00:58:57",
-      "an_dt": "25-Feb-2026 00:58:57",
-      "desc": "General Updates",
-      "sm_name": "Healthcare Global Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HCG1_25022026005014_HCG_-_Letter_of_Offer_-_NSE_-_24_February_2026.pdf"
     }
   ]
 }

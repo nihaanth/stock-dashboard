@@ -8,25 +8,9 @@
   "price": 823.95,
   "market_cap_cr": 965.43,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 656.1,
-      "prev_close": 662.75,
-      "volume": 28647,
-      "deliverable_qty": 10755,
-      "delivery_pct": 37.54
-    },
-    {
-      "date": "2026-02-26",
-      "close": 657.35,
-      "prev_close": 656.1,
-      "volume": 17319,
-      "deliverable_qty": 8284,
-      "delivery_pct": 47.83
-    },
     {
       "date": "2026-02-27",
       "close": 708.5,
@@ -442,9 +426,31 @@
       "volume": 21722,
       "deliverable_qty": 12118,
       "delivery_pct": 55.79
+    },
+    {
+      "date": "2026-05-27",
+      "close": 758.15,
+      "prev_close": 768.25,
+      "volume": 63097,
+      "deliverable_qty": 20670,
+      "delivery_pct": 32.76
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 14:33:08",
+      "an_dt": "28-May-2026 14:33:08",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Suyog Telematics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUYOG_28052026143235_NewspaperAdvertisementSTL26052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 17:45:14",
+      "an_dt": "27-May-2026 17:45:14",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Suyog Telematics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_14052026180946_SUYOG.pdf"
+    },
     {
       "sort_date": "2026-05-26 22:08:17",
       "an_dt": "26-May-2026 22:08:17",

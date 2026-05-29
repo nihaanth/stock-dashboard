@@ -8,25 +8,9 @@
   "price": 573.25,
   "market_cap_cr": 3595.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 505.2,
-      "prev_close": 504.2,
-      "volume": 388406,
-      "deliverable_qty": 210510,
-      "delivery_pct": 54.2
-    },
-    {
-      "date": "2026-02-26",
-      "close": 504.45,
-      "prev_close": 505.2,
-      "volume": 126186,
-      "deliverable_qty": 52228,
-      "delivery_pct": 41.39
-    },
     {
       "date": "2026-02-27",
       "close": 506.65,
@@ -442,9 +426,24 @@
       "volume": 294131,
       "deliverable_qty": 111712,
       "delivery_pct": 37.98
+    },
+    {
+      "date": "2026-05-27",
+      "close": 539.6,
+      "prev_close": 546.45,
+      "volume": 277632,
+      "deliverable_qty": 113172,
+      "delivery_pct": 40.76
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 18:55:09",
+      "an_dt": "27-May-2026 18:55:09",
+      "desc": "Final  forensic  audit  report",
+      "sm_name": "Anand Rathi Share and Stock Brokers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARSSBL_2024_27052026185123_FORENSICAUDITREPORT_sd.pdf"
+    },
     {
       "sort_date": "2026-05-15 20:42:07",
       "an_dt": "15-May-2026 20:42:07",
@@ -647,27 +646,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Anand Rathi Share and Stock Brokers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARSSBL_2024_28022026210320_POSTALBALLOTINTIMATION_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 19:11:03",
-      "an_dt": "26-Feb-2026 19:11:03",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Anand Rathi Share and Stock Brokers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARSSBL_2024_26022026190625_ARSSBL_Outcome_26022026_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 19:11:03",
-      "an_dt": "26-Feb-2026 19:11:03",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Anand Rathi Share and Stock Brokers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARSSBL_2024_26022026190458_ARSSBL_Outcome_26022026_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 19:11:03",
-      "an_dt": "26-Feb-2026 19:11:03",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Anand Rathi Share and Stock Brokers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARSSBL_2024_26022026190342_ARSSBL_Outcome_26022026_sd.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 562.15,
   "market_cap_cr": 10225.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 599.9,
-      "prev_close": 603.2,
-      "volume": 473941,
-      "deliverable_qty": 321292,
-      "delivery_pct": 67.79
-    },
-    {
-      "date": "2026-02-26",
-      "close": 580.8,
-      "prev_close": 599.9,
-      "volume": 1068329,
-      "deliverable_qty": 705643,
-      "delivery_pct": 66.05
-    },
     {
       "date": "2026-02-27",
       "close": 582.7,
@@ -442,9 +426,38 @@
       "volume": 858358,
       "deliverable_qty": 467102,
       "delivery_pct": 54.42
+    },
+    {
+      "date": "2026-05-27",
+      "close": 520.3,
+      "prev_close": 533.6,
+      "volume": 968934,
+      "deliverable_qty": 500761,
+      "delivery_pct": 51.68
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 19:36:17",
+      "an_dt": "28-May-2026 19:36:17",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "BLACKBUCK LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLACKBUCK_ROID_88881_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-05-28 19:32:50",
+      "an_dt": "28-May-2026 19:32:50",
+      "desc": "Resignation",
+      "sm_name": "BLACKBUCK LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZINKA2015_28052026193216_Change_in_Management_KMP.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 10:24:42",
+      "an_dt": "28-May-2026 10:24:42",
+      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
+      "sm_name": "BLACKBUCK LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZINKA2015_28052026102422_Announcement_Statement_of_deviation.pdf"
+    },
     {
       "sort_date": "2026-05-25 15:12:14",
       "an_dt": "25-May-2026 15:12:14",

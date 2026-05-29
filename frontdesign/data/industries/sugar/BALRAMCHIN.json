@@ -8,25 +8,9 @@
   "price": 525.4,
   "market_cap_cr": 10610.48,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 466.9,
-      "prev_close": 456.95,
-      "volume": 234404,
-      "deliverable_qty": 98647,
-      "delivery_pct": 42.08
-    },
-    {
-      "date": "2026-02-26",
-      "close": 461.3,
-      "prev_close": 466.9,
-      "volume": 341327,
-      "deliverable_qty": 122316,
-      "delivery_pct": 35.84
-    },
     {
       "date": "2026-02-27",
       "close": 470.6,
@@ -442,9 +426,24 @@
       "volume": 168536,
       "deliverable_qty": 74027,
       "delivery_pct": 43.92
+    },
+    {
+      "date": "2026-05-27",
+      "close": 530.2,
+      "prev_close": 529.65,
+      "volume": 545763,
+      "deliverable_qty": 330564,
+      "delivery_pct": 60.57
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 21:06:50",
+      "an_dt": "27-May-2026 21:06:50",
+      "desc": "Updates",
+      "sm_name": "Balrampur Chini Mills Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNILBCML_27052026210632_BCML_Intimation_IP_Approval.pdf"
+    },
     {
       "sort_date": "2026-05-22 16:24:46",
       "an_dt": "22-May-2026 16:24:46",
@@ -710,13 +709,6 @@
       "desc": "General Updates",
       "sm_name": "Balrampur Chini Mills Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNILBCML_12032026154914_SE_Intimation_ESGRating_12032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 18:43:14",
-      "an_dt": "26-Feb-2026 18:43:14",
-      "desc": "Updates",
-      "sm_name": "Balrampur Chini Mills Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNILBCML_26022026184254_BCML_Intimation_for_Submission_of_ESG_Report_FY_2025.pdf"
     }
   ]
 }

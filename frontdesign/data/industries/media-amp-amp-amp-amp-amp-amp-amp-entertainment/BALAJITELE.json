@@ -8,25 +8,9 @@
   "price": 98.52,
   "market_cap_cr": 1200.7,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 102.38,
-      "prev_close": 101.16,
-      "volume": 385224,
-      "deliverable_qty": 92857,
-      "delivery_pct": 24.1
-    },
-    {
-      "date": "2026-02-26",
-      "close": 108.65,
-      "prev_close": 102.38,
-      "volume": 925614,
-      "deliverable_qty": 297668,
-      "delivery_pct": 32.16
-    },
     {
       "date": "2026-02-27",
       "close": 108.14,
@@ -442,9 +426,38 @@
       "volume": 204254,
       "deliverable_qty": 112893,
       "delivery_pct": 55.27
+    },
+    {
+      "date": "2026-05-27",
+      "close": 91.94,
+      "prev_close": 92.66,
+      "volume": 255330,
+      "deliverable_qty": 90950,
+      "delivery_pct": 35.62
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 11:58:47",
+      "an_dt": "28-May-2026 11:58:47",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Balaji Telefilms Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BALAJITELE_28052026115835_Covering_Letter.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 18:37:14",
+      "an_dt": "27-May-2026 18:37:14",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Balaji Telefilms Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BALAJITELE_27052026183531_SEdisclosure.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 00:01:04",
+      "an_dt": "27-May-2026 00:01:04",
+      "desc": "Press Release",
+      "sm_name": "Balaji Telefilms Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BALAJITELE_27052026000032_SEdisclosurefinal.pdf"
+    },
     {
       "sort_date": "2026-05-26 23:44:44",
       "an_dt": "26-May-2026 23:44:44",
@@ -591,13 +604,6 @@
       "desc": "Updates",
       "sm_name": "Balaji Telefilms Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BALAJITELE_02032026140302_CoveringPenalty.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 13:23:23",
-      "an_dt": "25-Feb-2026 13:23:23",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Balaji Telefilms Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BALAJITELE_25022026132305_SENewspaper.pdf"
     }
   ]
 }

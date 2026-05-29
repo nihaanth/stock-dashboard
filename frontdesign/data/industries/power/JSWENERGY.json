@@ -8,25 +8,9 @@
   "price": 556.65,
   "market_cap_cr": 97754.79,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 490.05,
-      "prev_close": 490.25,
-      "volume": 1377169,
-      "deliverable_qty": 553461,
-      "delivery_pct": 40.19
-    },
-    {
-      "date": "2026-02-26",
-      "close": 498.65,
-      "prev_close": 490.05,
-      "volume": 3459654,
-      "deliverable_qty": 1702485,
-      "delivery_pct": 49.21
-    },
     {
       "date": "2026-02-27",
       "close": 487.75,
@@ -442,6 +426,14 @@
       "volume": 6108184,
       "deliverable_qty": 1527301,
       "delivery_pct": 25.0
+    },
+    {
+      "date": "2026-05-27",
+      "close": 602.05,
+      "prev_close": 576.0,
+      "volume": 10917970,
+      "deliverable_qty": 4972514,
+      "delivery_pct": 45.54
     }
   ],
   "news": [
@@ -780,20 +772,6 @@
       "desc": "General Updates",
       "sm_name": "JSW Energy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_27022026211630_LettertoBSENSE_JSWHEL.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 21:13:15",
-      "an_dt": "26-Feb-2026 21:13:15",
-      "desc": "General Updates",
-      "sm_name": "JSW Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_26022026211212_JSWEL_INtimationOfTradingApproval26022026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 11:21:04",
-      "an_dt": "25-Feb-2026 11:21:04",
-      "desc": "General Updates",
-      "sm_name": "JSW Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_25022026112053_SEintimationNP.pdf"
     }
   ]
 }

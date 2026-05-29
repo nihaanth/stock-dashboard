@@ -8,25 +8,9 @@
   "price": 207.57,
   "market_cap_cr": 1737.38,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 233.19,
-      "prev_close": 228.71,
-      "volume": 29989,
-      "deliverable_qty": 16330,
-      "delivery_pct": 54.45
-    },
-    {
-      "date": "2026-02-26",
-      "close": 227.7,
-      "prev_close": 233.19,
-      "volume": 90589,
-      "deliverable_qty": 73579,
-      "delivery_pct": 81.22
-    },
     {
       "date": "2026-02-27",
       "close": 227.95,
@@ -442,9 +426,24 @@
       "volume": 38864,
       "deliverable_qty": 18807,
       "delivery_pct": 48.39
+    },
+    {
+      "date": "2026-05-27",
+      "close": 229.42,
+      "prev_close": 232.92,
+      "volume": 60846,
+      "deliverable_qty": 23513,
+      "delivery_pct": 38.64
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 15:33:27",
+      "an_dt": "27-May-2026 15:33:27",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Hindware Home Innovation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHIL_27052026153314_HHIL_NewspaperPublication.pdf"
+    },
     {
       "sort_date": "2026-05-26 18:52:59",
       "an_dt": "26-May-2026 18:52:59",

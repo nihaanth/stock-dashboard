@@ -8,25 +8,9 @@
   "price": 424.35,
   "market_cap_cr": 2681.63,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 387.2,
-      "prev_close": 394.65,
-      "volume": 60398,
-      "deliverable_qty": 39435,
-      "delivery_pct": 65.29
-    },
-    {
-      "date": "2026-02-26",
-      "close": 399.6,
-      "prev_close": 387.2,
-      "volume": 147053,
-      "deliverable_qty": 111289,
-      "delivery_pct": 75.68
-    },
     {
       "date": "2026-02-27",
       "close": 399.9,
@@ -442,9 +426,45 @@
       "volume": 199053,
       "deliverable_qty": 91957,
       "delivery_pct": 46.2
+    },
+    {
+      "date": "2026-05-27",
+      "close": 423.25,
+      "prev_close": 397.2,
+      "volume": 850796,
+      "deliverable_qty": 273584,
+      "delivery_pct": 32.16
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 14:55:40",
+      "an_dt": "28-May-2026 14:55:40",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Jash Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JASH_28052026145501_JASHNEWSPAPERPUBLICATION28052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 23:06:20",
+      "an_dt": "27-May-2026 23:06:20",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Jash Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JASH_27052026230541_CALLRECORDING27052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 15:53:29",
+      "an_dt": "27-May-2026 15:53:29",
+      "desc": "Updates",
+      "sm_name": "Jash Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JASH_27052026155203_JASHINTERNALAUDITOR27052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 12:34:57",
+      "an_dt": "27-May-2026 12:34:57",
+      "desc": "Investor Presentation",
+      "sm_name": "Jash Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JASH_27052026123122_JashQ4FY26InvestorPresentationV9Final.pdf"
+    },
     {
       "sort_date": "2026-05-26 19:37:34",
       "an_dt": "26-May-2026 19:37:34",

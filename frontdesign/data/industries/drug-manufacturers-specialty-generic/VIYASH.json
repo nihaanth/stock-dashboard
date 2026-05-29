@@ -8,25 +8,9 @@
   "price": 225.23,
   "market_cap_cr": 9830.46,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 219.27,
-      "prev_close": 219.42,
-      "volume": 684480,
-      "deliverable_qty": 348454,
-      "delivery_pct": 50.91
-    },
-    {
-      "date": "2026-02-26",
-      "close": 225.49,
-      "prev_close": 219.27,
-      "volume": 880079,
-      "deliverable_qty": 534288,
-      "delivery_pct": 60.71
-    },
     {
       "date": "2026-02-27",
       "close": 213.08,
@@ -442,6 +426,14 @@
       "volume": 1282031,
       "deliverable_qty": 651124,
       "delivery_pct": 50.79
+    },
+    {
+      "date": "2026-05-27",
+      "close": 250.26,
+      "prev_close": 257.36,
+      "volume": 6770841,
+      "deliverable_qty": 2763046,
+      "delivery_pct": 40.81
     }
   ],
   "news": [
@@ -612,13 +604,6 @@
       "desc": "General Updates",
       "sm_name": "Viyash Scientific Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SEQUENT1_10032026173700_Viyash_10_March_2026_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 18:39:34",
-      "an_dt": "26-Feb-2026 18:39:34",
-      "desc": "General Updates",
-      "sm_name": "Viyash Scientific Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SEQUENT1_26022026183922_ESOP_SE_intimation-_Feb2026.pdf"
     }
   ]
 }

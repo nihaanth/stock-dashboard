@@ -8,25 +8,9 @@
   "price": 101.91,
   "market_cap_cr": 1365.68,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 139.3,
-      "prev_close": 141.55,
-      "volume": 44940,
-      "deliverable_qty": 24802,
-      "delivery_pct": 55.19
-    },
-    {
-      "date": "2026-02-26",
-      "close": 142.51,
-      "prev_close": 139.3,
-      "volume": 94023,
-      "deliverable_qty": 44916,
-      "delivery_pct": 47.77
-    },
     {
       "date": "2026-02-27",
       "close": 141.15,
@@ -442,9 +426,24 @@
       "volume": 180574,
       "deliverable_qty": 84497,
       "delivery_pct": 46.79
+    },
+    {
+      "date": "2026-05-27",
+      "close": 93.65,
+      "prev_close": 94.54,
+      "volume": 119616,
+      "deliverable_qty": 69124,
+      "delivery_pct": 57.79
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 13:09:40",
+      "an_dt": "28-May-2026 13:09:40",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Wonder Electricals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WFL_28052026130737_Outcomeboardmeetingwel28052026.pdf"
+    },
     {
       "sort_date": "2026-05-20 10:08:05",
       "an_dt": "20-May-2026 10:08:05",

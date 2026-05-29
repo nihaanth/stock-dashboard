@@ -8,25 +8,9 @@
   "price": 7178.5,
   "market_cap_cr": 25262.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 8044.5,
-      "prev_close": 7929.5,
-      "volume": 256525,
-      "deliverable_qty": 105324,
-      "delivery_pct": 41.06
-    },
-    {
-      "date": "2026-02-26",
-      "close": 7942.5,
-      "prev_close": 8044.5,
-      "volume": 204008,
-      "deliverable_qty": 89155,
-      "delivery_pct": 43.7
-    },
     {
       "date": "2026-02-27",
       "close": 7974.0,
@@ -442,9 +426,24 @@
       "volume": 312560,
       "deliverable_qty": 108322,
       "delivery_pct": 34.66
+    },
+    {
+      "date": "2026-05-27",
+      "close": 7516.0,
+      "prev_close": 7312.0,
+      "volume": 395563,
+      "deliverable_qty": 132240,
+      "delivery_pct": 33.43
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 12:14:53",
+      "an_dt": "27-May-2026 12:14:53",
+      "desc": "Allotment of Securities",
+      "sm_name": "Amber Enterprises India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMBER_27052026121242_IntimationforallotmentofEquitySharesunderESOP27052026.pdf"
+    },
     {
       "sort_date": "2026-05-22 19:47:43",
       "an_dt": "22-May-2026 19:47:43",
@@ -654,20 +653,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Amber Enterprises India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMBER_02032026113053_SE_Intimation_Cancellation_Investor_Meet_02032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 17:09:23",
-      "an_dt": "25-Feb-2026 17:09:23",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Amber Enterprises India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMBER_25022026170418_SE_Intimation_Non_Deal_Roadshow_03032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 16:28:52",
-      "an_dt": "25-Feb-2026 16:28:52",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Amber Enterprises India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMBER_25022026162635_Intimation_for_allotment_of_Equity_Shares_under_ESOP_25022026.pdf"
     }
   ]
 }

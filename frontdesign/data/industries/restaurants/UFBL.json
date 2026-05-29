@@ -8,25 +8,9 @@
   "price": 292.16,
   "market_cap_cr": 1141.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 248.68,
-      "prev_close": 245.39,
-      "volume": 27887,
-      "deliverable_qty": 19095,
-      "delivery_pct": 68.47
-    },
-    {
-      "date": "2026-02-26",
-      "close": 242.18,
-      "prev_close": 248.68,
-      "volume": 29739,
-      "deliverable_qty": 19013,
-      "delivery_pct": 63.93
-    },
     {
       "date": "2026-02-27",
       "close": 237.23,
@@ -442,9 +426,38 @@
       "volume": 273107,
       "deliverable_qty": 76170,
       "delivery_pct": 27.89
+    },
+    {
+      "date": "2026-05-27",
+      "close": 483.0,
+      "prev_close": 475.4,
+      "volume": 194628,
+      "deliverable_qty": 78819,
+      "delivery_pct": 40.5
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 20:01:54",
+      "an_dt": "28-May-2026 20:01:54",
+      "desc": "General Updates",
+      "sm_name": "United Foodbrands Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BARBEQUE_28052026200141_CorporatePresentationFY26.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 17:11:23",
+      "an_dt": "27-May-2026 17:11:23",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "United Foodbrands Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BARBEQUE_27052026171010_TranscriptofEarningsConCallQ4FY26.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 09:58:53",
+      "an_dt": "27-May-2026 09:58:53",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "United Foodbrands Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BARBEQUE_27052026095840_IntimationofScheduleofAnalystMeet27052026.pdf"
+    },
     {
       "sort_date": "2026-05-20 15:28:49",
       "an_dt": "20-May-2026 15:28:49",
@@ -577,13 +590,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "United Foodbrands Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BARBEQUE_06032026164942_IntimationofScheduleofInvestorsMeet.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 12:22:59",
-      "an_dt": "25-Feb-2026 12:22:59",
-      "desc": "Acquisition",
-      "sm_name": "United Foodbrands Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BARBEQUE_25022026122150_IncorporationofSDSQatar.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 55.84,
   "market_cap_cr": 963.96,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 54.92,
-      "prev_close": 54.59,
-      "volume": 109117,
-      "deliverable_qty": 54171,
-      "delivery_pct": 49.64
-    },
-    {
-      "date": "2026-02-26",
-      "close": 56.24,
-      "prev_close": 54.92,
-      "volume": 190852,
-      "deliverable_qty": 102606,
-      "delivery_pct": 53.76
-    },
     {
       "date": "2026-02-27",
       "close": 55.41,
@@ -442,6 +426,14 @@
       "volume": 675602,
       "deliverable_qty": 249083,
       "delivery_pct": 36.87
+    },
+    {
+      "date": "2026-05-27",
+      "close": 60.34,
+      "prev_close": 59.48,
+      "volume": 374145,
+      "deliverable_qty": 163913,
+      "delivery_pct": 43.81
     }
   ],
   "news": [
@@ -612,13 +604,6 @@
       "desc": "Appointment",
       "sm_name": "Manali Petrochemicals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MPLSECTL_09032026181915_SE_SMP_appointment_sd.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 18:57:57",
-      "an_dt": "26-Feb-2026 18:57:57",
-      "desc": "Credit Rating",
-      "sm_name": "Manali Petrochemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MPLSECTL_26022026185533_SE_Credit_Rating_sd.pdf"
     }
   ]
 }

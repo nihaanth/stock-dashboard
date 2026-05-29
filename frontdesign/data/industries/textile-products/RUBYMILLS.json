@@ -8,25 +8,9 @@
   "price": 230.69,
   "market_cap_cr": 771.43,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 189.83,
-      "prev_close": 190.93,
-      "volume": 7443,
-      "deliverable_qty": 4808,
-      "delivery_pct": 64.6
-    },
-    {
-      "date": "2026-02-26",
-      "close": 189.05,
-      "prev_close": 189.83,
-      "volume": 5809,
-      "deliverable_qty": 4270,
-      "delivery_pct": 73.51
-    },
     {
       "date": "2026-02-27",
       "close": 179.73,
@@ -442,9 +426,45 @@
       "volume": 411696,
       "deliverable_qty": 130112,
       "delivery_pct": 31.6
+    },
+    {
+      "date": "2026-05-27",
+      "close": 251.36,
+      "prev_close": 253.83,
+      "volume": 126236,
+      "deliverable_qty": 54273,
+      "delivery_pct": 42.99
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 23:02:25",
+      "an_dt": "28-May-2026 23:02:25",
+      "desc": "Dividend",
+      "sm_name": "The Ruby Mills Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COMSEC_28052026230153_RMLBMOutcome28052026signedfinal2.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 22:51:44",
+      "an_dt": "28-May-2026 22:51:44",
+      "desc": "Appointment",
+      "sm_name": "The Ruby Mills Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COMSEC_28052026225118_RMLchangeinmanagment2.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 22:08:00",
+      "an_dt": "28-May-2026 22:08:00",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "The Ruby Mills Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COMSEC_28052026220409_RMLBMOutcome28052026signedfinal2.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 12:30:14",
+      "an_dt": "27-May-2026 12:30:14",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "The Ruby Mills Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_14052026130954_23.pdf"
+    },
     {
       "sort_date": "2026-04-10 17:06:35",
       "an_dt": "10-Apr-2026 17:06:35",

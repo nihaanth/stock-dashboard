@@ -8,25 +8,9 @@
   "price": 1509.4,
   "market_cap_cr": 10531.37,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1764.0,
-      "prev_close": 1766.4,
-      "volume": 17185,
-      "deliverable_qty": 9816,
-      "delivery_pct": 57.12
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1725.0,
-      "prev_close": 1764.0,
-      "volume": 33486,
-      "deliverable_qty": 20672,
-      "delivery_pct": 61.73
-    },
     {
       "date": "2026-02-27",
       "close": 1694.2,
@@ -442,9 +426,24 @@
       "volume": 22613,
       "deliverable_qty": 11265,
       "delivery_pct": 49.82
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1536.6,
+      "prev_close": 1533.2,
+      "volume": 22342,
+      "deliverable_qty": 9803,
+      "delivery_pct": 43.88
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 13:04:49",
+      "an_dt": "27-May-2026 13:04:49",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "The Bombay Burmah Trading Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_14052026131505_20.pdf"
+    },
     {
       "sort_date": "2026-05-15 15:00:40",
       "an_dt": "15-May-2026 15:00:40",
@@ -528,13 +527,6 @@
       "desc": "Trading Window",
       "sm_name": "The Bombay Burmah Trading Corporation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KML_25032026161507_SE_WindowDisclosure_Mar2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 13:25:35",
-      "an_dt": "25-Feb-2026 13:25:35",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "The Bombay Burmah Trading Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KML_25022026132506_SELetterNewspaperPublicationPostal_BallotFeb26.pdf"
     }
   ]
 }

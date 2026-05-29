@@ -8,25 +8,9 @@
   "price": 143.86,
   "market_cap_cr": 65494.68,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 175.58,
-      "prev_close": 175.5,
-      "volume": 9784182,
-      "deliverable_qty": 4038983,
-      "delivery_pct": 41.28
-    },
-    {
-      "date": "2026-02-26",
-      "close": 177.2,
-      "prev_close": 175.58,
-      "volume": 8488762,
-      "deliverable_qty": 3577911,
-      "delivery_pct": 42.15
-    },
     {
       "date": "2026-02-27",
       "close": 176.05,
@@ -442,9 +426,38 @@
       "volume": 12544549,
       "deliverable_qty": 5609597,
       "delivery_pct": 44.72
+    },
+    {
+      "date": "2026-05-27",
+      "close": 147.0,
+      "prev_close": 144.99,
+      "volume": 12172304,
+      "deliverable_qty": 6181713,
+      "delivery_pct": 50.79
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 17:39:26",
+      "an_dt": "27-May-2026 17:39:26",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Bank of India",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANKINDIA2_27052026173910_Outcome70.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 12:57:50",
+      "an_dt": "27-May-2026 12:57:50",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Bank of India",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANKINDIA2_27052026125737_newspaper_27052026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 12:46:16",
+      "an_dt": "27-May-2026 12:46:16",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Bank of India",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANKINDIA2_27052026124521_investormeet_intimation.pdf"
+    },
     {
       "sort_date": "2026-05-25 16:24:32",
       "an_dt": "25-May-2026 16:24:32",
@@ -808,20 +821,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Bank of India",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANKINDIA2_05032026130552_Investormeet.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 13:47:21",
-      "an_dt": "26-Feb-2026 13:47:21",
-      "desc": "Updates",
-      "sm_name": "Bank of India",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANKINDIA2_26022026134709_Recorddateintimation_bondint.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 18:19:35",
-      "an_dt": "25-Feb-2026 18:19:35",
-      "desc": "Credit Rating",
-      "sm_name": "Bank of India",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANKINDIA5_25022026181912_FitchRating25022026.pdf"
     }
   ]
 }

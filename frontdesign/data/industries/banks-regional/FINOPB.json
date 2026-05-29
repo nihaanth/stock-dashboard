@@ -8,25 +8,9 @@
   "price": 132.81,
   "market_cap_cr": 1105.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 202.95,
-      "prev_close": 205.02,
-      "volume": 175007,
-      "deliverable_qty": 86913,
-      "delivery_pct": 49.66
-    },
-    {
-      "date": "2026-02-26",
-      "close": 208.29,
-      "prev_close": 202.95,
-      "volume": 223225,
-      "deliverable_qty": 112424,
-      "delivery_pct": 50.36
-    },
     {
       "date": "2026-02-27",
       "close": 192.19,
@@ -442,6 +426,14 @@
       "volume": 275913,
       "deliverable_qty": 147507,
       "delivery_pct": 53.46
+    },
+    {
+      "date": "2026-05-27",
+      "close": 133.97,
+      "prev_close": 127.9,
+      "volume": 626322,
+      "deliverable_qty": 214877,
+      "delivery_pct": 34.31
     }
   ],
   "news": [
@@ -843,13 +835,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Fino Payments Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINOPB_27022026120238_Cover.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 20:30:05",
-      "an_dt": "26-Feb-2026 20:30:05",
-      "desc": "Shareholders meeting",
-      "sm_name": "Fino Payments Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINOPB_26022026202701_Intimation_of_Postal_Ballot_Final.pdf"
     }
   ]
 }

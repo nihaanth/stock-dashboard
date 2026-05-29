@@ -8,25 +8,9 @@
   "price": 483.6,
   "market_cap_cr": 18374.06,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 497.25,
-      "prev_close": 495.6,
-      "volume": 891824,
-      "deliverable_qty": 427300,
-      "delivery_pct": 47.91
-    },
-    {
-      "date": "2026-02-26",
-      "close": 491.85,
-      "prev_close": 497.25,
-      "volume": 667000,
-      "deliverable_qty": 304586,
-      "delivery_pct": 45.67
-    },
     {
       "date": "2026-02-27",
       "close": 471.65,
@@ -442,9 +426,24 @@
       "volume": 374800,
       "deliverable_qty": 199014,
       "delivery_pct": 53.1
+    },
+    {
+      "date": "2026-05-27",
+      "close": 457.75,
+      "prev_close": 457.2,
+      "volume": 163980,
+      "deliverable_qty": 87492,
+      "delivery_pct": 53.36
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 18:53:53",
+      "an_dt": "27-May-2026 18:53:53",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "CIE Automotive India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mahindracie_27052026185332_SEintimation.pdf"
+    },
     {
       "sort_date": "2026-05-26 19:10:26",
       "an_dt": "26-May-2026 19:10:26",
@@ -654,13 +653,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "CIE Automotive India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mahindracie_05032026162524_SEintimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 18:58:12",
-      "an_dt": "26-Feb-2026 18:58:12",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "CIE Automotive India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Mahindracie_26022026185801_SEintimation.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 468.6,
   "market_cap_cr": 3514.95,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 432.75,
-      "prev_close": 427.4,
-      "volume": 373166,
-      "deliverable_qty": 113563,
-      "delivery_pct": 30.43
-    },
-    {
-      "date": "2026-02-26",
-      "close": 450.3,
-      "prev_close": 432.75,
-      "volume": 1547992,
-      "deliverable_qty": 691443,
-      "delivery_pct": 44.67
-    },
     {
       "date": "2026-02-27",
       "close": 461.95,
@@ -442,9 +426,31 @@
       "volume": 1336756,
       "deliverable_qty": 526183,
       "delivery_pct": 39.36
+    },
+    {
+      "date": "2026-05-27",
+      "close": 528.6,
+      "prev_close": 547.45,
+      "volume": 963862,
+      "deliverable_qty": 453610,
+      "delivery_pct": 47.06
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 14:13:42",
+      "an_dt": "28-May-2026 14:13:42",
+      "desc": "Statement of deviation(s) or variation(s) under Reg. 32",
+      "sm_name": "Man Industries (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANINDS_28052026141334_MIIL_Statement_of_Deviation_31032026.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 14:01:43",
+      "an_dt": "27-May-2026 14:01:43",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Man Industries (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANINDS_27052026140132_MIIL_Intimation_of_Newspaper_Publication_27052026.pdf"
+    },
     {
       "sort_date": "2026-05-26 18:29:11",
       "an_dt": "26-May-2026 18:29:11",
@@ -577,13 +583,6 @@
       "desc": "Updates",
       "sm_name": "Man Industries (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANINDS_05032026151835_MIIL_Impact_of_current_geopolitical_situation_05032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 11:05:13",
-      "an_dt": "26-Feb-2026 11:05:13",
-      "desc": "Updates",
-      "sm_name": "Man Industries (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANINDS_26022026110453_MIIL_Intimation_of_Newspaper_Publication_25022026.pdf"
     }
   ]
 }

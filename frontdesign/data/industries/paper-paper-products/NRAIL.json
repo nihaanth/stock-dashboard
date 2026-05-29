@@ -8,25 +8,9 @@
   "price": 503.35,
   "market_cap_cr": 856.66,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 435.85,
-      "prev_close": 439.6,
-      "volume": 4606,
-      "deliverable_qty": 1952,
-      "delivery_pct": 42.38
-    },
-    {
-      "date": "2026-02-26",
-      "close": 439.15,
-      "prev_close": 435.85,
-      "volume": 1207,
-      "deliverable_qty": 614,
-      "delivery_pct": 50.87
-    },
     {
       "date": "2026-02-27",
       "close": 460.4,
@@ -442,9 +426,24 @@
       "volume": 2272,
       "deliverable_qty": 1306,
       "delivery_pct": 57.48
+    },
+    {
+      "date": "2026-05-27",
+      "close": 455.45,
+      "prev_close": 452.1,
+      "volume": 1371,
+      "deliverable_qty": 848,
+      "delivery_pct": 61.85
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 13:28:56",
+      "an_dt": "28-May-2026 13:28:56",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "N R Agarwal Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NRAIL_28052026132839_SEintimationforNewspaperPublication28052026.pdf"
+    },
     {
       "sort_date": "2026-05-14 13:26:06",
       "an_dt": "14-May-2026 13:26:06",
@@ -521,13 +520,6 @@
       "desc": "Trading Window",
       "sm_name": "N R Agarwal Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NRAIL_26032026131722_ClosureofTradingWindow31032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 16:26:13",
-      "an_dt": "26-Feb-2026 16:26:13",
-      "desc": "Capacity addition",
-      "sm_name": "N R Agarwal Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NRAIL_26022026162559_IntimationunderReg30EnhancementofProductionCapacity26022026.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 808.7,
   "market_cap_cr": 1456.93,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 714.45,
-      "prev_close": 725.1,
-      "volume": 11095,
-      "deliverable_qty": 5473,
-      "delivery_pct": 49.33
-    },
-    {
-      "date": "2026-02-26",
-      "close": 716.35,
-      "prev_close": 714.45,
-      "volume": 12241,
-      "deliverable_qty": 6949,
-      "delivery_pct": 56.77
-    },
     {
       "date": "2026-02-27",
       "close": 710.25,
@@ -442,9 +426,24 @@
       "volume": 108068,
       "deliverable_qty": 37558,
       "delivery_pct": 34.75
+    },
+    {
+      "date": "2026-05-27",
+      "close": 789.85,
+      "prev_close": 810.8,
+      "volume": 41965,
+      "deliverable_qty": 22527,
+      "delivery_pct": 53.68
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 17:30:16",
+      "an_dt": "28-May-2026 17:30:16",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Tinna Rubber and Infrastructure Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TINNARUBBER_28052026172944_SEIntimationTRILEarningCallTranscript_28May2026.pdf"
+    },
     {
       "sort_date": "2026-05-25 22:49:44",
       "an_dt": "25-May-2026 22:49:44",

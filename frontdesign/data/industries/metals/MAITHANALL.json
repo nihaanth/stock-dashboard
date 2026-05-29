@@ -8,25 +8,9 @@
   "price": 1002.3,
   "market_cap_cr": 2917.85,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1022.9,
-      "prev_close": 998.5,
-      "volume": 26481,
-      "deliverable_qty": 11629,
-      "delivery_pct": 43.91
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1022.6,
-      "prev_close": 1022.9,
-      "volume": 18180,
-      "deliverable_qty": 8168,
-      "delivery_pct": 44.93
-    },
     {
       "date": "2026-02-27",
       "close": 1003.8,
@@ -442,9 +426,24 @@
       "volume": 28709,
       "deliverable_qty": 16552,
       "delivery_pct": 57.65
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1013.0,
+      "prev_close": 934.75,
+      "volume": 150211,
+      "deliverable_qty": 59951,
+      "delivery_pct": 39.91
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 16:10:48",
+      "an_dt": "28-May-2026 16:10:48",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Maithan Alloys Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAITHANALL_28052026161026_Newspaper_advt_IEPF.pdf"
+    },
     {
       "sort_date": "2026-05-20 12:25:42",
       "an_dt": "20-May-2026 12:25:42",

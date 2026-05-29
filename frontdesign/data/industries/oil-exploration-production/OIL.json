@@ -8,25 +8,9 @@
   "price": 456.0,
   "market_cap_cr": 74173.31,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 470.25,
-      "prev_close": 472.2,
-      "volume": 2027246,
-      "deliverable_qty": 715975,
-      "delivery_pct": 35.32
-    },
-    {
-      "date": "2026-02-26",
-      "close": 473.45,
-      "prev_close": 470.25,
-      "volume": 1966686,
-      "deliverable_qty": 809552,
-      "delivery_pct": 41.16
-    },
     {
       "date": "2026-02-27",
       "close": 483.9,
@@ -442,9 +426,31 @@
       "volume": 3000663,
       "deliverable_qty": 1188412,
       "delivery_pct": 39.6
+    },
+    {
+      "date": "2026-05-27",
+      "close": 488.0,
+      "prev_close": 492.1,
+      "volume": 1177761,
+      "deliverable_qty": 475410,
+      "delivery_pct": 40.37
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 22:12:06",
+      "an_dt": "27-May-2026 22:12:06",
+      "desc": "General Updates",
+      "sm_name": "Oil India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OIL_27052026221133_Disclosure27052026_signed.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 16:04:57",
+      "an_dt": "27-May-2026 16:04:57",
+      "desc": "Press Release",
+      "sm_name": "Oil India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OIL_27052026160416_Pressrelease27052026_signed.pdf"
+    },
     {
       "sort_date": "2026-05-26 06:55:54",
       "an_dt": "26-May-2026 06:55:54",

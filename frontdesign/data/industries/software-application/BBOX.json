@@ -8,25 +8,9 @@
   "price": 788.1,
   "market_cap_cr": 13988.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 545.45,
-      "prev_close": 518.65,
-      "volume": 1017209,
-      "deliverable_qty": 352158,
-      "delivery_pct": 34.62
-    },
-    {
-      "date": "2026-02-26",
-      "close": 544.85,
-      "prev_close": 545.45,
-      "volume": 581337,
-      "deliverable_qty": 212800,
-      "delivery_pct": 36.61
-    },
     {
       "date": "2026-02-27",
       "close": 533.5,
@@ -442,9 +426,31 @@
       "volume": 2534229,
       "deliverable_qty": 748601,
       "delivery_pct": 29.54
+    },
+    {
+      "date": "2026-05-27",
+      "close": 994.1,
+      "prev_close": 978.25,
+      "volume": 1614880,
+      "deliverable_qty": 426883,
+      "delivery_pct": 26.43
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 17:56:44",
+      "an_dt": "28-May-2026 17:56:44",
+      "desc": "Shareholders meeting",
+      "sm_name": "Black Box Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBOX_28052026175634_SE_EGMNotice.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 17:47:01",
+      "an_dt": "27-May-2026 17:47:01",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Black Box Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BBOX_27052026174643_SE_NewspaperPublication_Q4FY26.pdf"
+    },
     {
       "sort_date": "2026-05-26 18:28:41",
       "an_dt": "26-May-2026 18:28:41",

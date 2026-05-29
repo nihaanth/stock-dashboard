@@ -8,25 +8,9 @@
   "price": 352.95,
   "market_cap_cr": 92491.34,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 353.1,
-      "prev_close": 349.3,
-      "volume": 16813613,
-      "deliverable_qty": 11142723,
-      "delivery_pct": 66.27
-    },
-    {
-      "date": "2026-02-26",
-      "close": 356.15,
-      "prev_close": 353.1,
-      "volume": 5866534,
-      "deliverable_qty": 2892358,
-      "delivery_pct": 49.3
-    },
     {
       "date": "2026-02-27",
       "close": 344.45,
@@ -442,9 +426,24 @@
       "volume": 5344287,
       "deliverable_qty": 3505612,
       "delivery_pct": 65.6
+    },
+    {
+      "date": "2026-05-27",
+      "close": 364.9,
+      "prev_close": 363.05,
+      "volume": 2330771,
+      "deliverable_qty": 1089948,
+      "delivery_pct": 46.76
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 18:40:11",
+      "an_dt": "27-May-2026 18:40:11",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Aditya Birla Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABCAPITAL_27052026183949_Covering_Letter_Newspaper_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-26 16:47:06",
       "an_dt": "26-May-2026 16:47:06",
@@ -773,27 +772,6 @@
       "desc": "Updates",
       "sm_name": "Aditya Birla Capital Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABCAPITAL_27022026174826_ABCLDisclosureforABSLI_credit_ratingSIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 21:26:48",
-      "an_dt": "26-Feb-2026 21:26:48",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Aditya Birla Capital Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABCAPITAL_26022026212620_ABCL_Analyst_Meet_26022026_OutcomeSIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 22:55:33",
-      "an_dt": "25-Feb-2026 22:55:33",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Aditya Birla Capital Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABCAPITAL_25022026225510_SE_Newspaper_Intimation_250226signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 22:38:47",
-      "an_dt": "25-Feb-2026 22:38:47",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Aditya Birla Capital Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABCAPITAL_25022026223819_ABCL_Analyst_Meet_25022026_OutcomeSIGNED.pdf"
     }
   ]
 }

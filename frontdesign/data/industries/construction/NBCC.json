@@ -8,25 +8,9 @@
   "price": 88.65,
   "market_cap_cr": 23935.5,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 94.63,
-      "prev_close": 94.54,
-      "volume": 10414932,
-      "deliverable_qty": 4167273,
-      "delivery_pct": 40.01
-    },
-    {
-      "date": "2026-02-26",
-      "close": 94.06,
-      "prev_close": 94.63,
-      "volume": 7125794,
-      "deliverable_qty": 2094564,
-      "delivery_pct": 29.39
-    },
     {
       "date": "2026-02-27",
       "close": 92.67,
@@ -442,9 +426,24 @@
       "volume": 31029229,
       "deliverable_qty": 11172189,
       "delivery_pct": 36.01
+    },
+    {
+      "date": "2026-05-27",
+      "close": 99.1,
+      "prev_close": 95.55,
+      "volume": 27016586,
+      "deliverable_qty": 8511396,
+      "delivery_pct": 31.5
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 16:33:46",
+      "an_dt": "27-May-2026 16:33:46",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "NBCC (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NBCC_27052026163340_Stock_Exchange_Intimation_newspaper_27052026.pdf"
+    },
     {
       "sort_date": "2026-05-25 18:00:39",
       "an_dt": "25-May-2026 18:00:39",
@@ -598,13 +597,6 @@
       "desc": "Press Release",
       "sm_name": "NBCC (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NBCC_19032026150757_Intimation_Presselease_Rajasthn_mandapam.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 21:13:29",
-      "an_dt": "26-Feb-2026 21:13:29",
-      "desc": "Updates",
-      "sm_name": "NBCC (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NBCC_26022026211137_intimationddaworkorder_775_cr.pdf"
     }
   ]
 }

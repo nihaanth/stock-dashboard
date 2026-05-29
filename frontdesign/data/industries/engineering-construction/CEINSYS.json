@@ -8,25 +8,9 @@
   "price": 1060.0,
   "market_cap_cr": 2219.39,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 972.5,
-      "prev_close": 953.5,
-      "volume": 25508,
-      "deliverable_qty": 14821,
-      "delivery_pct": 58.1
-    },
-    {
-      "date": "2026-02-26",
-      "close": 987.8,
-      "prev_close": 972.5,
-      "volume": 26997,
-      "deliverable_qty": 16229,
-      "delivery_pct": 60.11
-    },
     {
       "date": "2026-02-27",
       "close": 972.1,
@@ -442,9 +426,24 @@
       "volume": 394223,
       "deliverable_qty": 101444,
       "delivery_pct": 25.73
+    },
+    {
+      "date": "2026-05-27",
+      "close": 968.1,
+      "prev_close": 984.6,
+      "volume": 104913,
+      "deliverable_qty": 41739,
+      "delivery_pct": 39.78
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 15:07:58",
+      "an_dt": "28-May-2026 15:07:58",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Ceinsys Tech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CEINSYSTECH_28052026150513_SEIntimationofInvestorMeetofCTL03062026.pdf"
+    },
     {
       "sort_date": "2026-05-15 17:10:58",
       "an_dt": "15-May-2026 17:10:58",

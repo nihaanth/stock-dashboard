@@ -8,25 +8,9 @@
   "price": 1090.0,
   "market_cap_cr": 680.16,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1153.4,
-      "prev_close": 1137.5,
-      "volume": 18364,
-      "deliverable_qty": 4870,
-      "delivery_pct": 26.52
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1175.1,
-      "prev_close": 1153.4,
-      "volume": 2678,
-      "deliverable_qty": 1773,
-      "delivery_pct": 66.21
-    },
     {
       "date": "2026-02-27",
       "close": 1157.6,
@@ -442,9 +426,38 @@
       "volume": 9628,
       "deliverable_qty": 5347,
       "delivery_pct": 55.54
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1041.4,
+      "prev_close": 996.3,
+      "volume": 3561,
+      "deliverable_qty": 2488,
+      "delivery_pct": 69.87
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 20:47:41",
+      "an_dt": "28-May-2026 20:47:41",
+      "desc": "Appointment",
+      "sm_name": "Mallcom (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MALLCOM_28052026204715_BMOMIL.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 20:35:41",
+      "an_dt": "28-May-2026 20:35:41",
+      "desc": "Dividend",
+      "sm_name": "Mallcom (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MALLCOM_28052026203444_BMOMIL.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 20:32:55",
+      "an_dt": "28-May-2026 20:32:55",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Mallcom (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MALLCOM_28052026203049_BMOMIL.pdf"
+    },
     {
       "sort_date": "2026-05-25 12:30:01",
       "an_dt": "25-May-2026 12:30:01",

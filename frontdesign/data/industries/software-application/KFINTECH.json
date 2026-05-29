@@ -8,25 +8,9 @@
   "price": 900.55,
   "market_cap_cr": 15536.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 999.1,
-      "prev_close": 1001.3,
-      "volume": 391925,
-      "deliverable_qty": 190086,
-      "delivery_pct": 48.5
-    },
-    {
-      "date": "2026-02-26",
-      "close": 977.0,
-      "prev_close": 999.1,
-      "volume": 929199,
-      "deliverable_qty": 540913,
-      "delivery_pct": 58.21
-    },
     {
       "date": "2026-02-27",
       "close": 956.7,
@@ -442,6 +426,14 @@
       "volume": 1309160,
       "deliverable_qty": 633929,
       "delivery_pct": 48.42
+    },
+    {
+      "date": "2026-05-27",
+      "close": 848.15,
+      "prev_close": 837.05,
+      "volume": 1236465,
+      "deliverable_qty": 389584,
+      "delivery_pct": 31.51
     }
   ],
   "news": [
@@ -647,13 +639,6 @@
       "desc": "General Updates",
       "sm_name": "Kfin Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KFINTECHNSE_27022026130325_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 16:07:46",
-      "an_dt": "25-Feb-2026 16:07:46",
-      "desc": "Press Release",
-      "sm_name": "Kfin Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KFINTECHNSE_25022026160728_Intimation.pdf"
     }
   ]
 }

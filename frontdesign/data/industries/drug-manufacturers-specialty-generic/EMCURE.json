@@ -8,25 +8,9 @@
   "price": 1678.0,
   "market_cap_cr": 31813.13,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1430.8,
-      "prev_close": 1434.5,
-      "volume": 90077,
-      "deliverable_qty": 47930,
-      "delivery_pct": 53.21
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1454.5,
-      "prev_close": 1430.8,
-      "volume": 123630,
-      "deliverable_qty": 50501,
-      "delivery_pct": 40.85
-    },
     {
       "date": "2026-02-27",
       "close": 1455.5,
@@ -442,9 +426,24 @@
       "volume": 107691,
       "deliverable_qty": 60638,
       "delivery_pct": 56.31
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1725.3,
+      "prev_close": 1698.5,
+      "volume": 145703,
+      "deliverable_qty": 76764,
+      "delivery_pct": 52.69
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 20:01:09",
+      "an_dt": "27-May-2026 20:01:09",
+      "desc": "Allotment of Securities",
+      "sm_name": "Emcure Pharmaceuticals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMCURE_27052026200056_EPLIntimationAllotmentofEquityShares.pdf"
+    },
     {
       "sort_date": "2026-05-20 16:38:48",
       "an_dt": "20-May-2026 16:38:48",

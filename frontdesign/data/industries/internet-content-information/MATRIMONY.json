@@ -8,25 +8,9 @@
   "price": 440.55,
   "market_cap_cr": 910.63,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 418.65,
-      "prev_close": 433.25,
-      "volume": 198524,
-      "deliverable_qty": 64884,
-      "delivery_pct": 32.68
-    },
-    {
-      "date": "2026-02-26",
-      "close": 413.85,
-      "prev_close": 418.65,
-      "volume": 27411,
-      "deliverable_qty": 11625,
-      "delivery_pct": 42.41
-    },
     {
       "date": "2026-02-27",
       "close": 403.95,
@@ -442,6 +426,14 @@
       "volume": 4718,
       "deliverable_qty": 3671,
       "delivery_pct": 77.81
+    },
+    {
+      "date": "2026-05-27",
+      "close": 423.05,
+      "prev_close": 418.25,
+      "volume": 5150,
+      "deliverable_qty": 3457,
+      "delivery_pct": 67.13
     }
   ],
   "news": [
@@ -563,13 +555,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Matrimony.Com Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MATRIMONY_12032026121400_NSEQuickresults12Feb26.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 17:44:46",
-      "an_dt": "26-Feb-2026 17:44:46",
-      "desc": "Buyback",
-      "sm_name": "Matrimony.Com Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MATRIMONY_26022026174330_NSEExtinguishment26Feb2026.pdf"
     }
   ]
 }

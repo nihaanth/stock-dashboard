@@ -8,25 +8,9 @@
   "price": 111.39,
   "market_cap_cr": 1195.5,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 128.25,
-      "prev_close": 113.92,
-      "volume": 16559322,
-      "deliverable_qty": 1668751,
-      "delivery_pct": 10.08
-    },
-    {
-      "date": "2026-02-26",
-      "close": 145.8,
-      "prev_close": 128.25,
-      "volume": 83583911,
-      "deliverable_qty": 4736684,
-      "delivery_pct": 5.67
-    },
     {
       "date": "2026-02-27",
       "close": 118.5,
@@ -442,9 +426,38 @@
       "volume": 468361,
       "deliverable_qty": 220519,
       "delivery_pct": 47.08
+    },
+    {
+      "date": "2026-05-27",
+      "close": 105.96,
+      "prev_close": 102.34,
+      "volume": 664193,
+      "deliverable_qty": 332416,
+      "delivery_pct": 50.05
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 22:44:51",
+      "an_dt": "28-May-2026 22:44:51",
+      "desc": "Investor Presentation",
+      "sm_name": "Renaissance Global Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RJL1_28052026224430_PressReleaseSigned.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 22:40:08",
+      "an_dt": "28-May-2026 22:40:08",
+      "desc": "Updates",
+      "sm_name": "Renaissance Global Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RJL1_28052026222154_RGLOUTCOMEDATED28052026signed1.pdf"
+    },
+    {
+      "sort_date": "2026-05-28 22:00:54",
+      "an_dt": "28-May-2026 22:00:54",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Renaissance Global Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RJL1_28052026220010_RGLOUTCOMEDATED28052026signed1.pdf"
+    },
     {
       "sort_date": "2026-05-25 18:27:05",
       "an_dt": "25-May-2026 18:27:05",
@@ -514,20 +527,6 @@
       "desc": "Trading Window",
       "sm_name": "Renaissance Global Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RJL1_25032026171431_Closureoftradingwindow25032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 08:29:20",
-      "an_dt": "26-Feb-2026 08:29:20",
-      "desc": "General Updates",
-      "sm_name": "Renaissance Global Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RJL1_26022026082901_RGLINTIMATIONSIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 15:06:12",
-      "an_dt": "25-Feb-2026 15:06:12",
-      "desc": "General Updates",
-      "sm_name": "Renaissance Global Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RJL1_25022026150432_RGLintimationsigned.pdf"
     }
   ]
 }

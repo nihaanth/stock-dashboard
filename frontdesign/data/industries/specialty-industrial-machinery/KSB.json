@@ -8,25 +8,9 @@
   "price": 884.5,
   "market_cap_cr": 15393.77,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 717.1,
-      "prev_close": 710.4,
-      "volume": 229177,
-      "deliverable_qty": 106013,
-      "delivery_pct": 46.26
-    },
-    {
-      "date": "2026-02-26",
-      "close": 783.35,
-      "prev_close": 717.1,
-      "volume": 17434400,
-      "deliverable_qty": 796741,
-      "delivery_pct": 4.57
-    },
     {
       "date": "2026-02-27",
       "close": 770.25,
@@ -442,6 +426,14 @@
       "volume": 95845,
       "deliverable_qty": 52492,
       "delivery_pct": 54.77
+    },
+    {
+      "date": "2026-05-27",
+      "close": 813.6,
+      "prev_close": 811.35,
+      "volume": 68812,
+      "deliverable_qty": 35213,
+      "delivery_pct": 51.17
     }
   ],
   "news": [
@@ -563,41 +555,6 @@
       "desc": "Press Release",
       "sm_name": "Ksb Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KSB_27022026170234_KSBPressreleaseQ4signedR.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 18:32:23",
-      "an_dt": "25-Feb-2026 18:32:23",
-      "desc": "General Updates",
-      "sm_name": "Ksb Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KSB_25022026183206_KSBBMOutcomefinalSigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 18:23:40",
-      "an_dt": "25-Feb-2026 18:23:40",
-      "desc": "Appointment",
-      "sm_name": "Ksb Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KSB_25022026182330_KSB_ChangeinManagement.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 18:06:02",
-      "an_dt": "25-Feb-2026 18:06:02",
-      "desc": "General Updates",
-      "sm_name": "Ksb Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KSB_25022026180549_KSBDividendrecorddate.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 17:52:33",
-      "an_dt": "25-Feb-2026 17:52:33",
-      "desc": "Record Date",
-      "sm_name": "Ksb Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KSB_25022026175158_KSBDividendrecorddate.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 17:33:18",
-      "an_dt": "25-Feb-2026 17:33:18",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Ksb Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KSB_25022026173148_KSBBMOutcomefinalSigned.pdf"
     }
   ]
 }

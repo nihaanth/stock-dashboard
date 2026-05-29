@@ -8,25 +8,9 @@
   "price": 410.85,
   "market_cap_cr": 3740.55,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 373.7,
-      "prev_close": 365.95,
-      "volume": 43443,
-      "deliverable_qty": 28516,
-      "delivery_pct": 65.64
-    },
-    {
-      "date": "2026-02-26",
-      "close": 371.0,
-      "prev_close": 373.7,
-      "volume": 16591,
-      "deliverable_qty": 7785,
-      "delivery_pct": 46.92
-    },
     {
       "date": "2026-02-27",
       "close": 369.55,
@@ -442,9 +426,24 @@
       "volume": 357044,
       "deliverable_qty": 223262,
       "delivery_pct": 62.53
+    },
+    {
+      "date": "2026-05-27",
+      "close": 399.7,
+      "prev_close": 399.7,
+      "volume": 168677,
+      "deliverable_qty": 84158,
+      "delivery_pct": 49.89
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 14:21:31",
+      "an_dt": "28-May-2026 14:21:31",
+      "desc": "Capacity addition",
+      "sm_name": "Harsha Engineers International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Harsha_28052026142110_SE_Intimation_HEAL_May2026_F.pdf"
+    },
     {
       "sort_date": "2026-05-19 11:18:55",
       "an_dt": "19-May-2026 11:18:55",

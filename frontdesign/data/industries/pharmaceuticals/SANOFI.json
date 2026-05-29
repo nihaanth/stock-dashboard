@@ -8,25 +8,9 @@
   "price": 3267.1,
   "market_cap_cr": 7524.33,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 4134.7,
-      "prev_close": 4080.7,
-      "volume": 16004,
-      "deliverable_qty": 9441,
-      "delivery_pct": 58.99
-    },
-    {
-      "date": "2026-02-26",
-      "close": 4015.3,
-      "prev_close": 4134.7,
-      "volume": 131807,
-      "deliverable_qty": 21315,
-      "delivery_pct": 16.17
-    },
     {
       "date": "2026-02-27",
       "close": 3965.1,
@@ -442,9 +426,24 @@
       "volume": 18654,
       "deliverable_qty": 12248,
       "delivery_pct": 65.66
+    },
+    {
+      "date": "2026-05-27",
+      "close": 3223.4,
+      "prev_close": 3197.5,
+      "volume": 28558,
+      "deliverable_qty": 15778,
+      "delivery_pct": 55.25
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 11:49:44",
+      "an_dt": "27-May-2026 11:49:44",
+      "desc": "General Updates",
+      "sm_name": "Sanofi India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSECSANOFI_27052026114935_BSENSEUpload.pdf"
+    },
     {
       "sort_date": "2026-05-20 15:40:06",
       "an_dt": "20-May-2026 15:40:06",
@@ -640,55 +639,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Sanofi India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSECSANOFI_27022026160607_BSENSEUpload.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 15:41:50",
-      "an_dt": "26-Feb-2026 15:41:50",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Sanofi India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSECSANOFI_26022026154143_BSENSEUpload.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 15:16:16",
-      "an_dt": "26-Feb-2026 15:16:16",
-      "desc": "Investor Presentation",
-      "sm_name": "Sanofi India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSECSANOFI_26022026151605_BSENSEUpload_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 19:08:02",
-      "an_dt": "25-Feb-2026 19:08:02",
-      "desc": "Appointment",
-      "sm_name": "Sanofi India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSECSANOFI_25022026190751_BSENSEUpload_Final.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 19:03:24",
-      "an_dt": "25-Feb-2026 19:03:24",
-      "desc": "Resignation",
-      "sm_name": "Sanofi India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSECSANOFI_25022026190316_BSENSEUpload_Final.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 18:49:59",
-      "an_dt": "25-Feb-2026 18:49:59",
-      "desc": "Appointment",
-      "sm_name": "Sanofi India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSECSANOFI_25022026184926_BSENSEUpload_Final.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 18:40:34",
-      "an_dt": "25-Feb-2026 18:40:34",
-      "desc": "Dividend",
-      "sm_name": "Sanofi India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSECSANOFI_25022026184000_BSENSEUpload_Final.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 18:36:58",
-      "an_dt": "25-Feb-2026 18:36:58",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Sanofi India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COSECSANOFI_25022026183546_BSENSEUpload_Final.pdf"
     }
   ]
 }

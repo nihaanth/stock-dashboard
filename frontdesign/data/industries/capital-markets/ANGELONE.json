@@ -8,25 +8,9 @@
   "price": 317.2,
   "market_cap_cr": 28928.6,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 2489.9,
-      "prev_close": 2460.2,
-      "volume": 947656,
-      "deliverable_qty": 345027,
-      "delivery_pct": 36.41
-    },
-    {
-      "date": "2026-02-26",
-      "close": 246.5,
-      "prev_close": 2489.9,
-      "volume": 7992020,
-      "deliverable_qty": 2314106,
-      "delivery_pct": 28.96
-    },
     {
       "date": "2026-02-27",
       "close": 233.2,
@@ -442,9 +426,24 @@
       "volume": 6678864,
       "deliverable_qty": 2392207,
       "delivery_pct": 35.82
+    },
+    {
+      "date": "2026-05-27",
+      "close": 336.95,
+      "prev_close": 344.45,
+      "volume": 6777475,
+      "deliverable_qty": 2472597,
+      "delivery_pct": 36.48
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 20:45:10",
+      "an_dt": "27-May-2026 20:45:10",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Angel One Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANGEL8896_27052026204429_May272026intimationofallotment.pdf"
+    },
     {
       "sort_date": "2026-05-26 20:52:42",
       "an_dt": "26-May-2026 20:52:42",

@@ -8,25 +8,9 @@
   "price": 245.18,
   "market_cap_cr": 608.05,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 241.85,
-      "prev_close": 238.8,
-      "volume": 9628,
-      "deliverable_qty": 6100,
-      "delivery_pct": 63.36
-    },
-    {
-      "date": "2026-02-26",
-      "close": 243.5,
-      "prev_close": 241.85,
-      "volume": 115078,
-      "deliverable_qty": 100030,
-      "delivery_pct": 86.92
-    },
     {
       "date": "2026-02-27",
       "close": 233.1,
@@ -442,9 +426,31 @@
       "volume": 8651,
       "deliverable_qty": 5354,
       "delivery_pct": 61.89
+    },
+    {
+      "date": "2026-05-27",
+      "close": 235.3,
+      "prev_close": 236.86,
+      "volume": 17681,
+      "deliverable_qty": 16389,
+      "delivery_pct": 92.69
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 19:12:08",
+      "an_dt": "27-May-2026 19:12:08",
+      "desc": "Change in Auditors",
+      "sm_name": "Euro India Fresh Foods Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIFFL_27052026191015_Outcome_of_Board_Meeting.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 18:54:15",
+      "an_dt": "27-May-2026 18:54:15",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Euro India Fresh Foods Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIFFL_27052026184716_Outcome_of_Board_Meeting.pdf"
+    },
     {
       "sort_date": "2026-04-09 12:23:10",
       "an_dt": "09-Apr-2026 12:23:10",

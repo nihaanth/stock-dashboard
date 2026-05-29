@@ -8,25 +8,9 @@
   "price": 498.9,
   "market_cap_cr": 21737.26,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 457.25,
-      "prev_close": 452.35,
-      "volume": 2158969,
-      "deliverable_qty": 1361664,
-      "delivery_pct": 63.07
-    },
-    {
-      "date": "2026-02-26",
-      "close": 475.2,
-      "prev_close": 457.25,
-      "volume": 647332,
-      "deliverable_qty": 368894,
-      "delivery_pct": 56.99
-    },
     {
       "date": "2026-02-27",
       "close": 458.95,
@@ -442,6 +426,14 @@
       "volume": 253411,
       "deliverable_qty": 154996,
       "delivery_pct": 61.16
+    },
+    {
+      "date": "2026-05-27",
+      "close": 477.8,
+      "prev_close": 478.2,
+      "volume": 173436,
+      "deliverable_qty": 97932,
+      "delivery_pct": 56.47
     }
   ],
   "news": [
@@ -640,20 +632,6 @@
       "desc": "Updates",
       "sm_name": "Aadhar Housing Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AHFL2021_27022026163000_SEIntimation-PIT_7_2__b__SD.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 18:28:46",
-      "an_dt": "26-Feb-2026 18:28:46",
-      "desc": "General Updates",
-      "sm_name": "Aadhar Housing Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AHFL2021_26022026182757_SD_Reg_31A_with_annexure.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 18:16:31",
-      "an_dt": "26-Feb-2026 18:16:31",
-      "desc": "General Updates",
-      "sm_name": "Aadhar Housing Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AHFL2021_26022026181610_Reg_30-_Completion_of_transactions.pdf"
     }
   ]
 }

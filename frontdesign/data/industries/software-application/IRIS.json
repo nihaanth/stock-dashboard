@@ -8,25 +8,9 @@
   "price": 244.19,
   "market_cap_cr": 502.26,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 249.15,
-      "prev_close": 250.15,
-      "volume": 35783,
-      "deliverable_qty": 19711,
-      "delivery_pct": 55.08
-    },
-    {
-      "date": "2026-02-26",
-      "close": 251.85,
-      "prev_close": 249.15,
-      "volume": 31080,
-      "deliverable_qty": 21709,
-      "delivery_pct": 69.85
-    },
     {
       "date": "2026-02-27",
       "close": 248.05,
@@ -442,9 +426,24 @@
       "volume": 24544,
       "deliverable_qty": 13458,
       "delivery_pct": 54.83
+    },
+    {
+      "date": "2026-05-27",
+      "close": 258.29,
+      "prev_close": 253.79,
+      "volume": 14843,
+      "deliverable_qty": 4899,
+      "delivery_pct": 33.01
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 12:22:33",
+      "an_dt": "28-May-2026 12:22:33",
+      "desc": "Address Change",
+      "sm_name": "IRIS RegTech Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRIS_28052026122222_Revised_IRIS_Intimation_RegisteredOffice_28May26_ss.pdf"
+    },
     {
       "sort_date": "2026-05-26 17:42:41",
       "an_dt": "26-May-2026 17:42:41",
@@ -570,13 +569,6 @@
       "desc": "Incorporation",
       "sm_name": "IRIS RegTech Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRIS_06032026133548_IRIS_Incorporation_WOS_IRISDataSolutions_06Mar2026_signed.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 12:30:28",
-      "an_dt": "25-Feb-2026 12:30:28",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "IRIS RegTech Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRIS_25022026123012_IRIS_investor_meet_Club_Millionaire_signed.pdf"
     }
   ]
 }

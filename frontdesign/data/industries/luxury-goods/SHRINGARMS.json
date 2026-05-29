@@ -8,25 +8,9 @@
   "price": 210.92,
   "market_cap_cr": 2033.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 249.12,
-      "prev_close": 245.43,
-      "volume": 1469248,
-      "deliverable_qty": 453420,
-      "delivery_pct": 30.86
-    },
-    {
-      "date": "2026-02-26",
-      "close": 245.56,
-      "prev_close": 249.12,
-      "volume": 569791,
-      "deliverable_qty": 171974,
-      "delivery_pct": 30.18
-    },
     {
       "date": "2026-02-27",
       "close": 234.17,
@@ -442,9 +426,31 @@
       "volume": 1443731,
       "deliverable_qty": 542937,
       "delivery_pct": 37.61
+    },
+    {
+      "date": "2026-05-27",
+      "close": 212.97,
+      "prev_close": 217.49,
+      "volume": 2541188,
+      "deliverable_qty": 812361,
+      "delivery_pct": 31.97
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 14:17:47",
+      "an_dt": "28-May-2026 14:17:47",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Shringar House of Mangalsutra Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHRINGAR_28052026141738_Final.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 18:54:41",
+      "an_dt": "27-May-2026 18:54:41",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shringar House of Mangalsutra Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHRINGAR_27052026185427_Earnings_calls__Outcome.pdf"
+    },
     {
       "sort_date": "2026-05-26 20:37:52",
       "an_dt": "26-May-2026 20:37:52",
@@ -528,20 +534,6 @@
       "desc": "General Updates",
       "sm_name": "Shringar House of Mangalsutra Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHRINGAR_14032026124633_SHOML_Demise.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 18:07:07",
-      "an_dt": "25-Feb-2026 18:07:07",
-      "desc": "General Updates",
-      "sm_name": "Shringar House of Mangalsutra Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHRINGAR_25022026180652_SHOML_demise.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 11:40:55",
-      "an_dt": "25-Feb-2026 11:40:55",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Shringar House of Mangalsutra Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHRINGAR_25022026113926_Cancellation_of_Investor_meet.pdf"
     }
   ]
 }

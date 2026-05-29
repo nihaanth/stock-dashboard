@@ -8,25 +8,9 @@
   "price": 1254.4,
   "market_cap_cr": 1355.06,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 883.15,
-      "prev_close": 957.3,
-      "volume": 105621,
-      "deliverable_qty": 38128,
-      "delivery_pct": 36.1
-    },
-    {
-      "date": "2026-02-26",
-      "close": 887.9,
-      "prev_close": 883.15,
-      "volume": 33857,
-      "deliverable_qty": 14668,
-      "delivery_pct": 43.32
-    },
     {
       "date": "2026-02-27",
       "close": 862.7,
@@ -442,9 +426,24 @@
       "volume": 184077,
       "deliverable_qty": 98416,
       "delivery_pct": 53.46
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1271.1,
+      "prev_close": 1315.3,
+      "volume": 107894,
+      "deliverable_qty": 68767,
+      "delivery_pct": 63.74
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-28 15:31:41",
+      "an_dt": "28-May-2026 15:31:41",
+      "desc": "Press Release",
+      "sm_name": "Solex Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOLEX_28052026153125_Press_Release.pdf"
+    },
     {
       "sort_date": "2026-05-22 19:13:56",
       "an_dt": "22-May-2026 19:13:56",

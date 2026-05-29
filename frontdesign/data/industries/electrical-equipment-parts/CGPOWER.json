@@ -8,25 +8,9 @@
   "price": 716.1,
   "market_cap_cr": 112780.1,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 713.4,
-      "prev_close": 724.5,
-      "volume": 2099052,
-      "deliverable_qty": 1014285,
-      "delivery_pct": 48.32
-    },
-    {
-      "date": "2026-02-26",
-      "close": 726.75,
-      "prev_close": 713.4,
-      "volume": 4352772,
-      "deliverable_qty": 2602236,
-      "delivery_pct": 59.78
-    },
     {
       "date": "2026-02-27",
       "close": 725.2,
@@ -442,6 +426,14 @@
       "volume": 2788855,
       "deliverable_qty": 1220751,
       "delivery_pct": 43.77
+    },
+    {
+      "date": "2026-05-27",
+      "close": 934.8,
+      "prev_close": 879.15,
+      "volume": 9258467,
+      "deliverable_qty": 3011790,
+      "delivery_pct": 32.53
     }
   ],
   "news": [
@@ -647,13 +639,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "CG Power and Industrial Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CGPOWER_03032026152231_Disclosure_Allotment_03032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 21:16:35",
-      "an_dt": "25-Feb-2026 21:16:35",
-      "desc": "General Updates",
-      "sm_name": "CG Power and Industrial Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CGPOWER_25022026211549_Disclosure_CPSI.pdf"
     }
   ]
 }

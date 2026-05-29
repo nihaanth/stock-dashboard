@@ -8,25 +8,9 @@
   "price": 173.44,
   "market_cap_cr": 3362.39,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 194.7,
-      "prev_close": 199.04,
-      "volume": 1363888,
-      "deliverable_qty": 462218,
-      "delivery_pct": 33.89
-    },
-    {
-      "date": "2026-02-26",
-      "close": 195.49,
-      "prev_close": 194.7,
-      "volume": 969915,
-      "deliverable_qty": 245212,
-      "delivery_pct": 25.28
-    },
     {
       "date": "2026-02-27",
       "close": 194.34,
@@ -442,6 +426,14 @@
       "volume": 1353957,
       "deliverable_qty": 608561,
       "delivery_pct": 44.95
+    },
+    {
+      "date": "2026-05-27",
+      "close": 207.98,
+      "prev_close": 203.3,
+      "volume": 2491818,
+      "deliverable_qty": 851317,
+      "delivery_pct": 34.16
     }
   ],
   "news": [
@@ -598,13 +590,6 @@
       "desc": "Allotment of Securities",
       "sm_name": "Moschip Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOSCHIP_17032026183548_Outcome_of_Circular_Resolution.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 19:09:21",
-      "an_dt": "26-Feb-2026 19:09:21",
-      "desc": "Allotment of Securities",
-      "sm_name": "Moschip Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOSCHIP_26022026190911_Outcome_of_Circular_Resolution.pdf"
     }
   ]
 }

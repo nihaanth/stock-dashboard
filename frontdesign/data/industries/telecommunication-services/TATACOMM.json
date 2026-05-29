@@ -8,25 +8,9 @@
   "price": 1512.3,
   "market_cap_cr": 43100.55,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 1629.6,
-      "prev_close": 1622.8,
-      "volume": 276162,
-      "deliverable_qty": 125977,
-      "delivery_pct": 45.62
-    },
-    {
-      "date": "2026-02-26",
-      "close": 1660.3,
-      "prev_close": 1629.6,
-      "volume": 133512,
-      "deliverable_qty": 62737,
-      "delivery_pct": 46.99
-    },
     {
       "date": "2026-02-27",
       "close": 1597.5,
@@ -442,6 +426,14 @@
       "volume": 2522180,
       "deliverable_qty": 1010585,
       "delivery_pct": 40.07
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1966.6,
+      "prev_close": 2009.1,
+      "volume": 1155522,
+      "deliverable_qty": 453884,
+      "delivery_pct": 39.28
     }
   ],
   "news": [
@@ -626,13 +618,6 @@
       "desc": "Other Restructuring",
       "sm_name": "Tata Communications Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATACOMM_27022026135418_18373a.pdf"
-    },
-    {
-      "sort_date": "2026-02-26 18:05:02",
-      "an_dt": "26-Feb-2026 18:05:02",
-      "desc": "Other Restructuring",
-      "sm_name": "Tata Communications Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATACOMM_26022026180405_18373.pdf"
     }
   ]
 }

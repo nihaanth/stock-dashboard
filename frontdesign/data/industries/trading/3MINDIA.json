@@ -8,25 +8,9 @@
   "price": 31680.0,
   "market_cap_cr": 35687.74,
   "industry_source": "webarchive",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 36440.0,
-      "prev_close": 35875.0,
-      "volume": 3213,
-      "deliverable_qty": 1560,
-      "delivery_pct": 48.55
-    },
-    {
-      "date": "2026-02-26",
-      "close": 36455.0,
-      "prev_close": 36440.0,
-      "volume": 1681,
-      "deliverable_qty": 660,
-      "delivery_pct": 39.26
-    },
     {
       "date": "2026-02-27",
       "close": 37505.0,
@@ -442,9 +426,31 @@
       "volume": 5962,
       "deliverable_qty": 2116,
       "delivery_pct": 35.49
+    },
+    {
+      "date": "2026-05-27",
+      "close": 33225.0,
+      "prev_close": 33100.0,
+      "volume": 2695,
+      "deliverable_qty": 938,
+      "delivery_pct": 34.81
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 18:31:46",
+      "an_dt": "27-May-2026 18:31:46",
+      "desc": "General Updates",
+      "sm_name": "3M India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/3MINDIALTD_27052026183129_ESGRATING.pdf"
+    },
+    {
+      "sort_date": "2026-05-27 09:23:41",
+      "an_dt": "27-May-2026 09:23:41",
+      "desc": "Investor Presentation",
+      "sm_name": "3M India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/3MINDIALTD_27052026092320_INVESTORTMEEETPPT.pdf"
+    },
     {
       "sort_date": "2026-05-26 19:35:17",
       "an_dt": "26-May-2026 19:35:17",
@@ -570,13 +576,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "3M India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/3MINDIALTD_09032026131348_9326.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 22:05:51",
-      "an_dt": "25-Feb-2026 22:05:51",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "3M India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/3MINDIALTD_25022026220503_NP_AD_PB.pdf"
     }
   ]
 }

@@ -8,25 +8,9 @@
   "price": 279.4,
   "market_cap_cr": 8574.84,
   "industry_source": "yfinance",
-  "as_of": "2026-05-26",
+  "as_of": "2026-05-28",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-25",
-      "close": 194.36,
-      "prev_close": 197.91,
-      "volume": 157757,
-      "deliverable_qty": 86932,
-      "delivery_pct": 55.11
-    },
-    {
-      "date": "2026-02-26",
-      "close": 190.29,
-      "prev_close": 194.36,
-      "volume": 252710,
-      "deliverable_qty": 114702,
-      "delivery_pct": 45.39
-    },
     {
       "date": "2026-02-27",
       "close": 187.87,
@@ -442,9 +426,24 @@
       "volume": 530971,
       "deliverable_qty": 368061,
       "delivery_pct": 69.32
+    },
+    {
+      "date": "2026-05-27",
+      "close": 312.8,
+      "prev_close": 297.95,
+      "volume": 366516,
+      "deliverable_qty": 249906,
+      "delivery_pct": 68.18
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-05-27 22:36:03",
+      "an_dt": "27-May-2026 22:36:03",
+      "desc": "General Updates",
+      "sm_name": "Fujiyama Power Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UTLSOLAR2024_27052026223544_NSE_DelayClarification.pdf"
+    },
     {
       "sort_date": "2026-05-26 14:57:54",
       "an_dt": "26-May-2026 14:57:54",
@@ -633,13 +632,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Fujiyama Power Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/UTLSOLAR2024_05032026110601_NSEPriorInvestorMeetIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-02-25 16:30:32",
-      "an_dt": "25-Feb-2026 16:30:32",
-      "desc": "Investor Presentation",
-      "sm_name": "Fujiyama Power Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UTLSOLAR2024_25022026162958_NSEIntimationInvestorPresentation.pdf"
     }
   ]
 }
