@@ -8,17 +8,9 @@
   "price": 245.18,
   "market_cap_cr": 608.05,
   "industry_source": "yfinance",
-  "as_of": "2026-05-28",
+  "as_of": "2026-05-30",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-27",
-      "close": 233.1,
-      "prev_close": 243.5,
-      "volume": 110783,
-      "deliverable_qty": 99325,
-      "delivery_pct": 89.66
-    },
     {
       "date": "2026-03-02",
       "close": 230.14,
@@ -438,6 +430,13 @@
   ],
   "news": [
     {
+      "sort_date": "2026-05-29 14:15:00",
+      "an_dt": "29-May-2026 14:15:00",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Euro India Fresh Foods Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIFFL_29052026141414_Newspaper_Publications.pdf"
+    },
+    {
       "sort_date": "2026-05-27 19:12:08",
       "an_dt": "27-May-2026 19:12:08",
       "desc": "Change in Auditors",
@@ -464,34 +463,6 @@
       "desc": "Trading Window",
       "sm_name": "Euro India Fresh Foods Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIFFL_27032026153547_Trading_window_closure.pdf"
-    },
-    {
-      "sort_date": "2026-02-28 14:20:22",
-      "an_dt": "28-Feb-2026 14:20:22",
-      "desc": "Updates",
-      "sm_name": "Euro India Fresh Foods Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIFFL_28022026141815_List_of_Key_Managerial_Personnel_Revised.pdf"
-    },
-    {
-      "sort_date": "2026-02-27 17:07:32",
-      "an_dt": "27-Feb-2026 17:07:32",
-      "desc": "Updates",
-      "sm_name": "Euro India Fresh Foods Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIFFL_27022026170500_List_of_Key_Managerial_Personnel.pdf"
-    },
-    {
-      "sort_date": "2026-02-27 16:51:22",
-      "an_dt": "27-Feb-2026 16:51:22",
-      "desc": "Appointment",
-      "sm_name": "Euro India Fresh Foods Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIFFL_27022026164937_Outcome_of_Board_Meeting.pdf"
-    },
-    {
-      "sort_date": "2026-02-27 16:43:43",
-      "an_dt": "27-Feb-2026 16:43:43",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Euro India Fresh Foods Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIFFL_27022026164124_Outcome_of_Board_Meeting.pdf"
     }
   ]
 }

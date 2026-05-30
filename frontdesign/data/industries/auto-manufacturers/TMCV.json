@@ -8,17 +8,9 @@
   "price": 411.0,
   "market_cap_cr": 151343.82,
   "industry_source": "yfinance",
-  "as_of": "2026-05-28",
+  "as_of": "2026-05-30",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-27",
-      "close": 505.3,
-      "prev_close": 491.35,
-      "volume": 19988897,
-      "deliverable_qty": 12276548,
-      "delivery_pct": 61.42
-    },
     {
       "date": "2026-03-02",
       "close": 498.0,
@@ -438,6 +430,13 @@
   ],
   "news": [
     {
+      "sort_date": "2026-05-29 18:43:16",
+      "an_dt": "29-May-2026 18:43:16",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Tata Motors Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_29052026184238_NSEBSELetterReg30AnalystMeet_.pdf"
+    },
+    {
       "sort_date": "2026-05-28 20:44:25",
       "an_dt": "28-May-2026 20:44:25",
       "desc": "Copy of Newspaper Publication",
@@ -674,13 +673,6 @@
       "desc": "Press Release",
       "sm_name": "Tata Motors Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_01032026123543_NSEBSECVSALES.pdf"
-    },
-    {
-      "sort_date": "2026-02-27 17:34:43",
-      "an_dt": "27-Feb-2026 17:34:43",
-      "desc": "News Verification",
-      "sm_name": "Tata Motors Limited",
-      "attchmntFile": "-"
     }
   ]
 }

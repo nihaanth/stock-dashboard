@@ -8,17 +8,9 @@
   "price": 1220.5,
   "market_cap_cr": 19541.6,
   "industry_source": "yfinance",
-  "as_of": "2026-05-28",
+  "as_of": "2026-05-30",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-27",
-      "close": 1265.2,
-      "prev_close": 1338.8,
-      "volume": 865829,
-      "deliverable_qty": 422564,
-      "delivery_pct": 48.8
-    },
     {
       "date": "2026-03-02",
       "close": 1210.9,
@@ -438,6 +430,13 @@
   ],
   "news": [
     {
+      "sort_date": "2026-05-29 19:42:11",
+      "an_dt": "29-May-2026 19:42:11",
+      "desc": "Disclosure of material issue",
+      "sm_name": "CREDITACCESS GRAMEEN LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CREDITACC_29052026194120_CA_Grameen_Reg_30_RBI_Fine_imposed_GN_29052026_1856hrs.pdf"
+    },
+    {
       "sort_date": "2026-05-22 14:27:34",
       "an_dt": "22-May-2026 14:27:34",
       "desc": "ESOP/ESOS/ESPS",
@@ -611,13 +610,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "CREDITACCESS GRAMEEN LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CREDITACC_06032026103205_CAGL_SE_ESOPAllotment_05032026.pdf"
-    },
-    {
-      "sort_date": "2026-02-28 13:13:41",
-      "an_dt": "28-Feb-2026 13:13:41",
-      "desc": "Action(s) taken or orders passed",
-      "sm_name": "CREDITACCESS GRAMEEN LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CREDITACC_28022026131331_CA_Grameen_Reg_30_SE_Fine_Payment_28022026.pdf"
     }
   ]
 }

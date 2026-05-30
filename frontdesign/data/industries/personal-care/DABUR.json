@@ -8,17 +8,9 @@
   "price": 424.75,
   "market_cap_cr": 75337.49,
   "industry_source": "webarchive",
-  "as_of": "2026-05-28",
+  "as_of": "2026-05-30",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-27",
-      "close": 518.5,
-      "prev_close": 524.45,
-      "volume": 2414657,
-      "deliverable_qty": 1304179,
-      "delivery_pct": 54.01
-    },
     {
       "date": "2026-03-02",
       "close": 507.6,
@@ -438,6 +430,20 @@
   ],
   "news": [
     {
+      "sort_date": "2026-05-29 19:00:04",
+      "an_dt": "29-May-2026 19:00:04",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Dabur India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DABURU_29052026185936_Letter.pdf"
+    },
+    {
+      "sort_date": "2026-05-29 10:29:56",
+      "an_dt": "29-May-2026 10:29:56",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Dabur India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DABURU_29052026102542_esopletter.pdf"
+    },
+    {
       "sort_date": "2026-05-25 14:37:44",
       "an_dt": "25-May-2026 14:37:44",
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -716,13 +722,6 @@
       "desc": "Press Release",
       "sm_name": "Dabur India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DABURU_02032026192506_upload.pdf"
-    },
-    {
-      "sort_date": "2026-02-27 18:09:08",
-      "an_dt": "27-Feb-2026 18:09:08",
-      "desc": "Action(s) taken or orders passed",
-      "sm_name": "Dabur India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DABURU_27022026180858_update.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 151.38,
   "market_cap_cr": 3438.4,
   "industry_source": "webarchive",
-  "as_of": "2026-05-28",
+  "as_of": "2026-05-30",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-27",
-      "close": 163.73,
-      "prev_close": 162.88,
-      "volume": 66332,
-      "deliverable_qty": 37453,
-      "delivery_pct": 56.46
-    },
     {
       "date": "2026-03-02",
       "close": 159.64,
@@ -438,6 +430,13 @@
   ],
   "news": [
     {
+      "sort_date": "2026-05-29 11:56:17",
+      "an_dt": "29-May-2026 11:56:17",
+      "desc": "Investor Presentation",
+      "sm_name": "HeidelbergCement India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEIDELBERG_29052026115554_HCILEarningCallPresentationSD.pdf"
+    },
+    {
       "sort_date": "2026-05-26 14:19:10",
       "an_dt": "26-May-2026 14:19:10",
       "desc": "Copy of Newspaper Publication",
@@ -534,20 +533,6 @@
       "desc": "Trading Window",
       "sm_name": "HeidelbergCement India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEIDELBERG_25032026132649_HCILClosureofTradingWindowsd.pdf"
-    },
-    {
-      "sort_date": "2026-02-27 16:08:13",
-      "an_dt": "27-Feb-2026 16:08:13",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "HeidelbergCement India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEIDELBERG_27022026160800_HCILNewspaperAdvetisementsd.pdf"
-    },
-    {
-      "sort_date": "2026-02-27 16:08:13",
-      "an_dt": "27-Feb-2026 16:08:13",
-      "desc": "General Updates",
-      "sm_name": "HeidelbergCement India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEIDELBERG_27022026160136_Re-lodgement_of_sharessd.pdf"
     }
   ]
 }

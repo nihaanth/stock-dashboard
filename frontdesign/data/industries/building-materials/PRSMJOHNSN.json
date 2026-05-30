@@ -8,17 +8,9 @@
   "price": 123.79,
   "market_cap_cr": 6231.05,
   "industry_source": "yfinance",
-  "as_of": "2026-05-28",
+  "as_of": "2026-05-30",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-27",
-      "close": 125.77,
-      "prev_close": 126.15,
-      "volume": 131308,
-      "deliverable_qty": 72765,
-      "delivery_pct": 55.42
-    },
     {
       "date": "2026-03-02",
       "close": 126.57,
@@ -438,6 +430,13 @@
   ],
   "news": [
     {
+      "sort_date": "2026-05-29 13:39:33",
+      "an_dt": "29-May-2026 13:39:33",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Prism Johnson Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRSMJOHNSN_29052026133916_SEIntimationNewspaperLetter.pdf"
+    },
+    {
       "sort_date": "2026-05-22 16:10:06",
       "an_dt": "22-May-2026 16:10:06",
       "desc": "Copy of Newspaper Publication",
@@ -576,13 +575,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Prism Johnson Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRSMJOHNSN_02032026082147_SEIntimationDivestmentInRQBE.pdf"
-    },
-    {
-      "sort_date": "2026-02-27 11:23:36",
-      "an_dt": "27-Feb-2026 11:23:36",
-      "desc": "Press Release",
-      "sm_name": "Prism Johnson Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PRSMJOHNSN_27022026112316_SEIntimationMediaReleasePrismChakachak.pdf"
     }
   ]
 }

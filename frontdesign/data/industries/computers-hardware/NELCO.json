@@ -8,17 +8,9 @@
   "price": 708.5,
   "market_cap_cr": 1616.68,
   "industry_source": "webarchive",
-  "as_of": "2026-05-28",
+  "as_of": "2026-05-30",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-27",
-      "close": 622.2,
-      "prev_close": 627.45,
-      "volume": 51497,
-      "deliverable_qty": 14827,
-      "delivery_pct": 28.79
-    },
     {
       "date": "2026-03-02",
       "close": 601.55,
@@ -438,6 +430,13 @@
   ],
   "news": [
     {
+      "sort_date": "2026-05-29 15:15:12",
+      "an_dt": "29-May-2026 15:15:12",
+      "desc": "Change in Management",
+      "sm_name": "NELCO Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NELCO_29052026151442_LettertoStockExchangeMay26.pdf"
+    },
+    {
       "sort_date": "2026-05-22 13:01:33",
       "an_dt": "22-May-2026 13:01:33",
       "desc": "Copy of Newspaper Publication",
@@ -562,13 +561,6 @@
       "desc": "Updates",
       "sm_name": "NELCO Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NELCO_11032026130858_BSENSEletterforTaxUpdate.pdf"
-    },
-    {
-      "sort_date": "2026-02-27 14:31:20",
-      "an_dt": "27-Feb-2026 14:31:20",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "NELCO Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NELCO_27022026143108_NewspaperAdvertisementletter.pdf"
     }
   ]
 }

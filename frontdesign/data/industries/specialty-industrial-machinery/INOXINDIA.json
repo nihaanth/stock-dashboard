@@ -8,17 +8,9 @@
   "price": 1458.3,
   "market_cap_cr": 13236.04,
   "industry_source": "yfinance",
-  "as_of": "2026-05-28",
+  "as_of": "2026-05-30",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-27",
-      "close": 1163.0,
-      "prev_close": 1149.7,
-      "volume": 78052,
-      "deliverable_qty": 50591,
-      "delivery_pct": 64.82
-    },
     {
       "date": "2026-03-02",
       "close": 1129.7,
@@ -438,6 +430,13 @@
   ],
   "news": [
     {
+      "sort_date": "2026-05-29 15:25:20",
+      "an_dt": "29-May-2026 15:25:20",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "INOX India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAMLESHS_29052026152504_SENewspaperIntimation29052026Predispatchsigned.pdf"
+    },
+    {
       "sort_date": "2026-05-28 17:25:15",
       "an_dt": "28-May-2026 17:25:15",
       "desc": "General Updates",
@@ -674,13 +673,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "INOX India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAMLESHS_02032026124356_SENoticeofEOGMsigned.pdf"
-    },
-    {
-      "sort_date": "2026-02-27 12:48:28",
-      "an_dt": "27-Feb-2026 12:48:28",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "INOX India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KAMLESHS_27022026124500_SENewspaperEOGMIntimationPreDispatchsigned.pdf"
     }
   ]
 }

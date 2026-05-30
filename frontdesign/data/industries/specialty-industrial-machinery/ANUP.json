@@ -8,17 +8,9 @@
   "price": 2067.6,
   "market_cap_cr": 4141.71,
   "industry_source": "yfinance",
-  "as_of": "2026-05-28",
+  "as_of": "2026-05-30",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-27",
-      "close": 1571.2,
-      "prev_close": 1613.3,
-      "volume": 232930,
-      "deliverable_qty": 168301,
-      "delivery_pct": 72.25
-    },
     {
       "date": "2026-03-02",
       "close": 1557.8,
@@ -438,6 +430,13 @@
   ],
   "news": [
     {
+      "sort_date": "2026-05-29 12:35:19",
+      "an_dt": "29-May-2026 12:35:19",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "The Anup Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANUP_29052026123353_IntimationNPAdv.pdf"
+    },
+    {
       "sort_date": "2026-05-28 20:24:58",
       "an_dt": "28-May-2026 20:24:58",
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -576,13 +575,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "The Anup Engineering Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANUP_02032026170902_IntimationInvestorMeet.pdf"
-    },
-    {
-      "sort_date": "2026-02-28 16:12:38",
-      "an_dt": "28-Feb-2026 16:12:38",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "The Anup Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANUP_28022026161146_Reg_30_Intimation_for_Advertisement.pdf"
     }
   ]
 }

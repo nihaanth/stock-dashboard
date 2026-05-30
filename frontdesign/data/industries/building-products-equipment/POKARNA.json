@@ -8,17 +8,9 @@
   "price": 863.1,
   "market_cap_cr": 2675.96,
   "industry_source": "yfinance",
-  "as_of": "2026-05-28",
+  "as_of": "2026-05-30",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-02-27",
-      "close": 906.8,
-      "prev_close": 919.45,
-      "volume": 64011,
-      "deliverable_qty": 19576,
-      "delivery_pct": 30.58
-    },
     {
       "date": "2026-03-02",
       "close": 891.95,
@@ -438,6 +430,13 @@
   ],
   "news": [
     {
+      "sort_date": "2026-05-29 14:34:51",
+      "an_dt": "29-May-2026 14:34:51",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Pokarna Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POKARNA_29052026143445_Pokarna_Newspaper_Publication.pdf"
+    },
+    {
       "sort_date": "2026-05-28 16:51:22",
       "an_dt": "28-May-2026 16:51:22",
       "desc": "Dividend",
@@ -527,13 +526,6 @@
       "desc": "Trading Window",
       "sm_name": "Pokarna Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/POKARNA_26032026163733_PokarnaTWCMarch2026.pdf"
-    },
-    {
-      "sort_date": "2026-02-27 17:19:44",
-      "an_dt": "27-Feb-2026 17:19:44",
-      "desc": "General Updates",
-      "sm_name": "Pokarna Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POKARNA_27022026171930_Pokarna_Income_Tax_Assessment_Order_for_AY.pdf"
     }
   ]
 }
