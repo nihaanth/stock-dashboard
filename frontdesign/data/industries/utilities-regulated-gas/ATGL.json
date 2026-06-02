@@ -8,17 +8,9 @@
   "price": 572.4,
   "market_cap_cr": 62953.13,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 492.85,
-      "prev_close": 512.0,
-      "volume": 754603,
-      "deliverable_qty": 305807,
-      "delivery_pct": 40.53
-    },
     {
       "date": "2026-03-04",
       "close": 480.8,
@@ -426,9 +418,24 @@
       "volume": 57324845,
       "deliverable_qty": 6124765,
       "delivery_pct": 10.68
+    },
+    {
+      "date": "2026-06-01",
+      "close": 733.8,
+      "prev_close": 773.3,
+      "volume": 19243521,
+      "deliverable_qty": 3098473,
+      "delivery_pct": 16.1
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 14:03:39",
+      "an_dt": "01-Jun-2026 14:03:39",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Adani Total Gas Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ATGL2024_01062026140323_ATGL_Newspaper_Advt__AGM_01062026.pdf"
+    },
     {
       "sort_date": "2026-05-29 23:49:01",
       "an_dt": "29-May-2026 23:49:01",

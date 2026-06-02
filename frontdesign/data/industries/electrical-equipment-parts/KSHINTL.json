@@ -8,17 +8,9 @@
   "price": 638.1,
   "market_cap_cr": 4323.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 379.85,
-      "prev_close": 373.95,
-      "volume": 260265,
-      "deliverable_qty": 146877,
-      "delivery_pct": 56.43
-    },
     {
       "date": "2026-03-04",
       "close": 362.7,
@@ -426,9 +418,24 @@
       "volume": 3064441,
       "deliverable_qty": 487525,
       "delivery_pct": 15.91
+    },
+    {
+      "date": "2026-06-01",
+      "close": 813.1,
+      "prev_close": 793.15,
+      "volume": 723525,
+      "deliverable_qty": 259136,
+      "delivery_pct": 35.82
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 16:41:04",
+      "an_dt": "01-Jun-2026 16:41:04",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "KSH International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_01062026163652_KSH_Intimation_of_Investor_Meet_multiplesigned.pdf"
+    },
     {
       "sort_date": "2026-05-30 15:50:54",
       "an_dt": "30-May-2026 15:50:54",

@@ -8,17 +8,9 @@
   "price": 310.9,
   "market_cap_cr": 289155.76,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 296.8,
-      "prev_close": 298.65,
-      "volume": 15690227,
-      "deliverable_qty": 8409330,
-      "delivery_pct": 53.6
-    },
     {
       "date": "2026-03-04",
       "close": 291.95,
@@ -426,9 +418,24 @@
       "volume": 9883025,
       "deliverable_qty": 5433219,
       "delivery_pct": 54.98
+    },
+    {
+      "date": "2026-06-01",
+      "close": 286.15,
+      "prev_close": 290.55,
+      "volume": 17628347,
+      "deliverable_qty": 6102452,
+      "delivery_pct": 34.62
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 21:09:52",
+      "an_dt": "01-Jun-2026 21:09:52",
+      "desc": "Change in Management",
+      "sm_name": "Power Grid Corporation of India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POWERGRID1_01062026210849_BSENSEReg30dt01062026.pdf"
+    },
     {
       "sort_date": "2026-05-31 19:35:04",
       "an_dt": "31-May-2026 19:35:04",
@@ -736,13 +743,6 @@
       "desc": "Trading Window",
       "sm_name": "Power Grid Corporation of India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/POWERGRID1_03032026230458_BSENSE_PI03032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 18:53:40",
-      "an_dt": "02-Mar-2026 18:53:40",
-      "desc": "General Updates",
-      "sm_name": "Power Grid Corporation of India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POWERGRID1_02032026185332_BSENSEReg30Relaxationdt02032025.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 412.05,
   "market_cap_cr": 1013.96,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 422.8,
-      "prev_close": 437.75,
-      "volume": 125729,
-      "deliverable_qty": 46082,
-      "delivery_pct": 36.65
-    },
     {
       "date": "2026-03-04",
       "close": 415.9,
@@ -426,9 +418,24 @@
       "volume": 84555,
       "deliverable_qty": 44020,
       "delivery_pct": 52.06
+    },
+    {
+      "date": "2026-06-01",
+      "close": 384.9,
+      "prev_close": 408.9,
+      "volume": 335822,
+      "deliverable_qty": 126889,
+      "delivery_pct": 37.78
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 14:15:25",
+      "an_dt": "01-Jun-2026 14:15:25",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Mamata Machinery Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAMATA_01062026141511_MML_Earnings_call_outcome_audio_01062026__1_.pdf"
+    },
     {
       "sort_date": "2026-05-30 15:22:53",
       "an_dt": "30-May-2026 15:22:53",

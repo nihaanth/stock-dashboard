@@ -8,17 +8,9 @@
   "price": 1304.9,
   "market_cap_cr": 105407.56,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 1351.6,
-      "prev_close": 1348.2,
-      "volume": 1899674,
-      "deliverable_qty": 840728,
-      "delivery_pct": 44.26
-    },
     {
       "date": "2026-03-04",
       "close": 1313.2,
@@ -426,9 +418,31 @@
       "volume": 937447,
       "deliverable_qty": 577194,
       "delivery_pct": 61.57
+    },
+    {
+      "date": "2026-06-01",
+      "close": 1390.3,
+      "prev_close": 1401.0,
+      "volume": 714608,
+      "deliverable_qty": 351740,
+      "delivery_pct": 49.22
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 23:37:28",
+      "an_dt": "01-Jun-2026 23:37:28",
+      "desc": "Updates",
+      "sm_name": "Cipla Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CIPLA_01062026233621_Cipla_BRSR_FY26_signed.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 23:27:41",
+      "an_dt": "01-Jun-2026 23:27:41",
+      "desc": "Shareholders meeting",
+      "sm_name": "Cipla Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CIPLA_01062026232702_FinalCipla_AnnualReport_FY26_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-28 16:02:21",
       "an_dt": "28-May-2026 16:02:21",
@@ -638,20 +652,6 @@
       "desc": "General Updates",
       "sm_name": "Cipla Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CIPLA_09032026225014_SignedUSFDA-inspection-Pharmathen09032026Signed_1.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 20:06:44",
-      "an_dt": "02-Mar-2026 20:06:44",
-      "desc": "Acquisition",
-      "sm_name": "Cipla Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CIPLA_02032026195825_SEkemwell2026v2signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 19:29:55",
-      "an_dt": "02-Mar-2026 19:29:55",
-      "desc": "Incorporation",
-      "sm_name": "Cipla Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CIPLA_02032026192223_SEIntimationSaudi02032026.pdf"
     }
   ]
 }

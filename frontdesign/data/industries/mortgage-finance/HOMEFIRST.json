@@ -8,17 +8,9 @@
   "price": 1171.3,
   "market_cap_cr": 12235.22,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 1096.8,
-      "prev_close": 1083.1,
-      "volume": 1244080,
-      "deliverable_qty": 645854,
-      "delivery_pct": 51.91
-    },
     {
       "date": "2026-03-04",
       "close": 1074.4,
@@ -426,9 +418,31 @@
       "volume": 180358,
       "deliverable_qty": 96678,
       "delivery_pct": 53.6
+    },
+    {
+      "date": "2026-06-01",
+      "close": 1076.1,
+      "prev_close": 1065.2,
+      "volume": 179279,
+      "deliverable_qty": 120186,
+      "delivery_pct": 67.04
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 22:43:25",
+      "an_dt": "01-Jun-2026 22:43:25",
+      "desc": "General Updates",
+      "sm_name": "Home First Finance Company India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HOMEFIRST_01062026224316_Intimation_36_1__b_F.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 22:41:42",
+      "an_dt": "01-Jun-2026 22:41:42",
+      "desc": "General Updates",
+      "sm_name": "Home First Finance Company India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HOMEFIRST_01062026224135_Intimation_for_DDT.pdf"
+    },
     {
       "sort_date": "2026-05-31 17:44:54",
       "an_dt": "31-May-2026 17:44:54",

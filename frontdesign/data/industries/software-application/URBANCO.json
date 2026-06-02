@@ -8,17 +8,9 @@
   "price": 126.06,
   "market_cap_cr": 19440.73,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 103.03,
-      "prev_close": 107.1,
-      "volume": 6589978,
-      "deliverable_qty": 3309835,
-      "delivery_pct": 50.23
-    },
     {
       "date": "2026-03-04",
       "close": 106.56,
@@ -426,9 +418,24 @@
       "volume": 3987036,
       "deliverable_qty": 2224837,
       "delivery_pct": 55.8
+    },
+    {
+      "date": "2026-06-01",
+      "close": 120.0,
+      "prev_close": 120.03,
+      "volume": 8038222,
+      "deliverable_qty": 4094072,
+      "delivery_pct": 50.93
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 21:15:04",
+      "an_dt": "01-Jun-2026 21:15:04",
+      "desc": "Sale or disposal",
+      "sm_name": "Urban Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/URBANCO_01062026211445_KSAupdate_UC_01062026.pdf"
+    },
     {
       "sort_date": "2026-05-29 14:37:56",
       "an_dt": "29-May-2026 14:37:56",
@@ -645,20 +652,6 @@
       "desc": "Updates",
       "sm_name": "Urban Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/URBANCO_10032026125021_UC_ESOP_Trust_Deed_10032026_.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 15:05:02",
-      "an_dt": "02-Mar-2026 15:05:02",
-      "desc": "Press Release",
-      "sm_name": "Urban Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/URBANCO_02032026150454_UC_Press_Release_02032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 13:42:54",
-      "an_dt": "02-Mar-2026 13:42:54",
-      "desc": "Shareholders meeting",
-      "sm_name": "Urban Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/URBANCO_02032026134216_UC_PB_Result_02032026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 212.52,
   "market_cap_cr": 3342.99,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 205.8,
-      "prev_close": 214.99,
-      "volume": 240251,
-      "deliverable_qty": 113869,
-      "delivery_pct": 47.4
-    },
     {
       "date": "2026-03-04",
       "close": 196.04,
@@ -426,9 +418,31 @@
       "volume": 538981,
       "deliverable_qty": 319163,
       "delivery_pct": 59.22
+    },
+    {
+      "date": "2026-06-01",
+      "close": 196.34,
+      "prev_close": 201.79,
+      "volume": 376782,
+      "deliverable_qty": 186603,
+      "delivery_pct": 49.53
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 16:08:03",
+      "an_dt": "01-Jun-2026 16:08:03",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Steel Strips Wheels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SSWL_01062026160735_Intimation_Presentation_SIGNED.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 10:31:06",
+      "an_dt": "01-Jun-2026 10:31:06",
+      "desc": "Monthly Business Updates",
+      "sm_name": "Steel Strips Wheels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SSWL_01062026103053_CA01062026_SIGNED.pdf"
+    },
     {
       "sort_date": "2026-05-30 11:15:54",
       "an_dt": "30-May-2026 11:15:54",
@@ -547,13 +561,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Steel Strips Wheels Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SSWL_16032026171220_Intimation_Analystmeet_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 10:18:37",
-      "an_dt": "02-Mar-2026 10:18:37",
-      "desc": "Monthly Business Updates",
-      "sm_name": "Steel Strips Wheels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SSWL_02032026101818_IntimationFebruary2026Signed.pdf"
     }
   ]
 }

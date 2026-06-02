@@ -8,17 +8,9 @@
   "price": 66.7,
   "market_cap_cr": 10005.0,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 58.54,
-      "prev_close": 61.82,
-      "volume": 2522429,
-      "deliverable_qty": 866901,
-      "delivery_pct": 34.37
-    },
     {
       "date": "2026-03-04",
       "close": 55.9,
@@ -426,9 +418,24 @@
       "volume": 2934441,
       "deliverable_qty": 838585,
       "delivery_pct": 28.58
+    },
+    {
+      "date": "2026-06-01",
+      "close": 64.04,
+      "prev_close": 64.88,
+      "volume": 1279304,
+      "deliverable_qty": 380168,
+      "delivery_pct": 29.72
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 11:39:50",
+      "an_dt": "01-Jun-2026 11:39:50",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "MMTC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ajaymisra_01062026113823_Npfiling.pdf"
+    },
     {
       "sort_date": "2026-05-31 12:23:05",
       "an_dt": "31-May-2026 12:23:05",

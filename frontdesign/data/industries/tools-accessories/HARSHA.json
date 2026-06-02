@@ -8,17 +8,9 @@
   "price": 410.85,
   "market_cap_cr": 3740.55,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 358.65,
-      "prev_close": 369.55,
-      "volume": 24185,
-      "deliverable_qty": 13663,
-      "delivery_pct": 56.49
-    },
     {
       "date": "2026-03-04",
       "close": 355.55,
@@ -426,9 +418,24 @@
       "volume": 168677,
       "deliverable_qty": 84158,
       "delivery_pct": 49.89
+    },
+    {
+      "date": "2026-06-01",
+      "close": 390.5,
+      "prev_close": 397.15,
+      "volume": 138725,
+      "deliverable_qty": 83457,
+      "delivery_pct": 60.16
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 17:55:21",
+      "an_dt": "01-Jun-2026 17:55:21",
+      "desc": "General Updates",
+      "sm_name": "Harsha Engineers International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Harsha_01062026175437_SC_Stock_Exchange.pdf"
+    },
     {
       "sort_date": "2026-05-28 14:21:31",
       "an_dt": "28-May-2026 14:21:31",

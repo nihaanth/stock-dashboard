@@ -8,17 +8,9 @@
   "price": 216.05,
   "market_cap_cr": 14933.26,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 210.41,
-      "prev_close": 213.15,
-      "volume": 2889833,
-      "deliverable_qty": 759843,
-      "delivery_pct": 26.29
-    },
     {
       "date": "2026-03-04",
       "close": 216.75,
@@ -426,9 +418,24 @@
       "volume": 2606791,
       "deliverable_qty": 758856,
       "delivery_pct": 29.11
+    },
+    {
+      "date": "2026-06-01",
+      "close": 267.25,
+      "prev_close": 262.73,
+      "volume": 2211736,
+      "deliverable_qty": 378248,
+      "delivery_pct": 17.1
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 18:34:54",
+      "an_dt": "01-Jun-2026 18:34:54",
+      "desc": "Press Release",
+      "sm_name": "Firstsource Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FSL_01062026183429_PressRelease_AppliedAIsigned.pdf"
+    },
     {
       "sort_date": "2026-05-20 17:02:42",
       "an_dt": "20-May-2026 17:02:42",
@@ -645,13 +652,6 @@
       "desc": "Appointment",
       "sm_name": "Firstsource Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FSL_05032026133202_IntimationtoSEsRe-appointmentofRajivKumarandParasChoudharysigned.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 17:51:33",
-      "an_dt": "02-Mar-2026 17:51:33",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Firstsource Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FSL_02032026175121_Reg30ESOS2003ESOP2019_2nd_March_2026signed.pdf"
     }
   ]
 }

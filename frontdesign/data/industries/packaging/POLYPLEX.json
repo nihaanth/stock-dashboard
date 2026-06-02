@@ -8,17 +8,9 @@
   "price": 935.2,
   "market_cap_cr": 2935.82,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 839.9,
-      "prev_close": 848.3,
-      "volume": 128258,
-      "deliverable_qty": 40587,
-      "delivery_pct": 31.64
-    },
     {
       "date": "2026-03-04",
       "close": 808.95,
@@ -426,6 +418,14 @@
       "volume": 33836,
       "deliverable_qty": 16745,
       "delivery_pct": 49.49
+    },
+    {
+      "date": "2026-06-01",
+      "close": 933.15,
+      "prev_close": 926.1,
+      "volume": 59165,
+      "deliverable_qty": 23579,
+      "delivery_pct": 39.85
     }
   ],
   "news": [
@@ -554,13 +554,6 @@
       "desc": "Credit Rating",
       "sm_name": "Polyplex Corporation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/POLYPLEX_10032026164338_PCL_Credit_Rating_10032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 11:25:00",
-      "an_dt": "02-Mar-2026 11:25:00",
-      "desc": "Spurt in Volume",
-      "sm_name": "Polyplex Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POLYPLEX_02032026112108_NSE_reply_02032026_signed.pdf"
     }
   ]
 }

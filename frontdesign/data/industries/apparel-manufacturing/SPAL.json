@@ -8,17 +8,9 @@
   "price": 831.3,
   "market_cap_cr": 2089.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 700.6,
-      "prev_close": 707.45,
-      "volume": 29445,
-      "deliverable_qty": 12572,
-      "delivery_pct": 42.7
-    },
     {
       "date": "2026-03-04",
       "close": 705.6,
@@ -426,6 +418,14 @@
       "volume": 8180,
       "deliverable_qty": 4654,
       "delivery_pct": 56.89
+    },
+    {
+      "date": "2026-06-01",
+      "close": 773.25,
+      "prev_close": 782.05,
+      "volume": 20257,
+      "deliverable_qty": 8935,
+      "delivery_pct": 44.11
     }
   ],
   "news": [
@@ -526,20 +526,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "S. P. Apparels Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPAL_23032026154032_coveringletter.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 17:08:43",
-      "an_dt": "02-Mar-2026 17:08:43",
-      "desc": "Committee Meeting Updates",
-      "sm_name": "S. P. Apparels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPAL_02032026170834_Coveringletter_27_.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 17:00:09",
-      "an_dt": "02-Mar-2026 17:00:09",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "S. P. Apparels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPAL_02032026165958_Coveringletter_27_.pdf"
     }
   ]
 }

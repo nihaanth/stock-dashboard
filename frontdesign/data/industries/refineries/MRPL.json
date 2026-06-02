@@ -8,17 +8,9 @@
   "price": 160.33,
   "market_cap_cr": 28099.42,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 188.51,
-      "prev_close": 196.65,
-      "volume": 6543818,
-      "deliverable_qty": 1909975,
-      "delivery_pct": 29.19
-    },
     {
       "date": "2026-03-04",
       "close": 191.31,
@@ -426,9 +418,24 @@
       "volume": 3381631,
       "deliverable_qty": 976692,
       "delivery_pct": 28.88
+    },
+    {
+      "date": "2026-06-01",
+      "close": 147.07,
+      "prev_close": 144.96,
+      "volume": 4415461,
+      "deliverable_qty": 1058938,
+      "delivery_pct": 23.98
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 17:08:11",
+      "an_dt": "01-Jun-2026 17:08:11",
+      "desc": "Change in Management",
+      "sm_name": "Mangalore Refinery and Petrochemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MRPL_01062026164440_ExchangeIntimationSD.pdf"
+    },
     {
       "sort_date": "2026-05-28 17:28:16",
       "an_dt": "28-May-2026 17:28:16",
@@ -568,13 +575,6 @@
       "desc": "Dividend",
       "sm_name": "Mangalore Refinery and Petrochemicals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MRPL_03032026185022_OutcomeSD03032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 13:06:22",
-      "an_dt": "02-Mar-2026 13:06:22",
-      "desc": "General Updates",
-      "sm_name": "Mangalore Refinery and Petrochemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MRPL_02032026130613_intimationtoSEsd.pdf"
     }
   ]
 }

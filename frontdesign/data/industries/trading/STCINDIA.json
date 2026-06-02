@@ -8,17 +8,9 @@
   "price": 119.47,
   "market_cap_cr": 716.82,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 110.53,
-      "prev_close": 116.65,
-      "volume": 67943,
-      "deliverable_qty": 31563,
-      "delivery_pct": 46.46
-    },
     {
       "date": "2026-03-04",
       "close": 107.32,
@@ -426,6 +418,14 @@
       "volume": 269858,
       "deliverable_qty": 101312,
       "delivery_pct": 37.54
+    },
+    {
+      "date": "2026-06-01",
+      "close": 117.6,
+      "prev_close": 120.21,
+      "volume": 36976,
+      "deliverable_qty": 21365,
+      "delivery_pct": 57.78
     }
   ],
   "news": [
@@ -547,13 +547,6 @@
       "desc": "Change in Company Secretary/Compliance Officer",
       "sm_name": "The State Trading Corporation of India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/STCINDIA_10032026102505_Change_in_management_KMP_CS.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 10:45:46",
-      "an_dt": "02-Mar-2026 10:45:46",
-      "desc": "General Updates",
-      "sm_name": "The State Trading Corporation of India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STCINDIA_02032026104536_FINE_STOCK_EXCHANGE_31122025.pdf"
     }
   ]
 }

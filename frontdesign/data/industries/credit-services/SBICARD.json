@@ -8,17 +8,9 @@
   "price": 641.5,
   "market_cap_cr": 61045.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 746.5,
-      "prev_close": 774.4,
-      "volume": 1139992,
-      "deliverable_qty": 414565,
-      "delivery_pct": 36.37
-    },
     {
       "date": "2026-03-04",
       "close": 726.6,
@@ -426,6 +418,14 @@
       "volume": 476005,
       "deliverable_qty": 180276,
       "delivery_pct": 37.87
+    },
+    {
+      "date": "2026-06-01",
+      "close": 615.95,
+      "prev_close": 624.4,
+      "volume": 1725343,
+      "deliverable_qty": 720294,
+      "delivery_pct": 41.75
     }
   ],
   "news": [
@@ -638,13 +638,6 @@
       "desc": "Dividend",
       "sm_name": "SBI Cards and Payment Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBICPSL_05032026195835_SEFilingOutcomeOfBoardMeetingMarch2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 17:39:12",
-      "an_dt": "02-Mar-2026 17:39:12",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "SBI Cards and Payment Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBICARDS_02032026173822_SEFilingInvestorMeet.pdf"
     }
   ]
 }

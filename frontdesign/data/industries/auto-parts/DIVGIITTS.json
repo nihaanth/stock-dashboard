@@ -8,17 +8,9 @@
   "price": 689.2,
   "market_cap_cr": 2107.78,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 667.95,
-      "prev_close": 722.25,
-      "volume": 76836,
-      "deliverable_qty": 43710,
-      "delivery_pct": 56.89
-    },
     {
       "date": "2026-03-04",
       "close": 692.2,
@@ -426,6 +418,14 @@
       "volume": 81027,
       "deliverable_qty": 36603,
       "delivery_pct": 45.17
+    },
+    {
+      "date": "2026-06-01",
+      "close": 806.4,
+      "prev_close": 811.55,
+      "volume": 73035,
+      "deliverable_qty": 32682,
+      "delivery_pct": 44.75
     }
   ],
   "news": [
@@ -561,13 +561,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Divgi Torqtransfer Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIVGITTS_03032026160733_DTTS_Cancellation_of_Intimation_of_Investor_Meet_030326.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 21:05:23",
-      "an_dt": "02-Mar-2026 21:05:23",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Divgi Torqtransfer Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIVGITTS_02032026210431_DTTS_Intimation_of_Investor_Meet_020326.pdf"
     }
   ]
 }

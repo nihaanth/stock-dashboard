@@ -8,17 +8,9 @@
   "price": 422.65,
   "market_cap_cr": 1733.41,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 388.35,
-      "prev_close": 410.15,
-      "volume": 57560,
-      "deliverable_qty": 31994,
-      "delivery_pct": 55.58
-    },
     {
       "date": "2026-03-04",
       "close": 374.45,
@@ -426,9 +418,31 @@
       "volume": 29423,
       "deliverable_qty": 13186,
       "delivery_pct": 44.82
+    },
+    {
+      "date": "2026-06-01",
+      "close": 526.0,
+      "prev_close": 492.9,
+      "volume": 387094,
+      "deliverable_qty": 104026,
+      "delivery_pct": 26.87
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 20:15:09",
+      "an_dt": "01-Jun-2026 20:15:09",
+      "desc": "General Updates",
+      "sm_name": "Somany Ceramics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOMANYCERAMICS_01062026201459_CorrigendumOrderSomany_Unsecured_Creditors_sd.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 20:13:40",
+      "an_dt": "01-Jun-2026 20:13:40",
+      "desc": "General Updates",
+      "sm_name": "Somany Ceramics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOMANYCERAMICS_01062026201324_CorrigendumOrderSomany_Equity_sd.pdf"
+    },
     {
       "sort_date": "2026-05-21 11:46:29",
       "an_dt": "21-May-2026 11:46:29",
@@ -589,20 +603,6 @@
       "desc": "Updates",
       "sm_name": "Somany Ceramics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOMANYCERAMICS_05032026152533_Intimation_Reg30_sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 18:55:07",
-      "an_dt": "02-Mar-2026 18:55:07",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Somany Ceramics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOMANYCERAMICS_02032026185450_Intimation_Investormeet_2026_11032026_sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 18:53:22",
-      "an_dt": "02-Mar-2026 18:53:22",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Somany Ceramics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOMANYCERAMICS_02032026185258_Intimation_Investormeet_2026_10032026_sd.pdf"
     }
   ]
 }

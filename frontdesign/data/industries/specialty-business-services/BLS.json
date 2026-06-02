@@ -8,17 +8,9 @@
   "price": 284.9,
   "market_cap_cr": 11729.08,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 266.65,
-      "prev_close": 278.7,
-      "volume": 1164222,
-      "deliverable_qty": 424032,
-      "delivery_pct": 36.42
-    },
     {
       "date": "2026-03-04",
       "close": 257.05,
@@ -426,9 +418,31 @@
       "volume": 933023,
       "deliverable_qty": 447323,
       "delivery_pct": 47.94
+    },
+    {
+      "date": "2026-06-01",
+      "close": 261.9,
+      "prev_close": 260.9,
+      "volume": 1032678,
+      "deliverable_qty": 383635,
+      "delivery_pct": 37.15
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 18:48:11",
+      "an_dt": "01-Jun-2026 18:48:11",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "BLS International Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLS_ROID_89451_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-06-01 17:12:42",
+      "an_dt": "01-Jun-2026 17:12:42",
+      "desc": "Change in Management",
+      "sm_name": "BLS International Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLS_01062026171230_Resignation_of_CHRO_01062026_signed.pdf"
+    },
     {
       "sort_date": "2026-05-25 20:46:58",
       "an_dt": "25-May-2026 20:46:58",
@@ -530,7 +544,7 @@
     {
       "sort_date": "2026-04-15 19:32:59",
       "an_dt": "15-Apr-2026 19:32:59",
-      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
+      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
       "sm_name": "BLS International Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLS_15042026193245_Update_on_change_in_RTA__Final_15042026.pdf"
     },

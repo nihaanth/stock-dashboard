@@ -8,17 +8,9 @@
   "price": 260.65,
   "market_cap_cr": 4419.16,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 229.0,
-      "prev_close": 233.89,
-      "volume": 233625,
-      "deliverable_qty": 125073,
-      "delivery_pct": 53.54
-    },
     {
       "date": "2026-03-04",
       "close": 223.46,
@@ -426,6 +418,14 @@
       "volume": 127359,
       "deliverable_qty": 78583,
       "delivery_pct": 61.7
+    },
+    {
+      "date": "2026-06-01",
+      "close": 253.3,
+      "prev_close": 255.7,
+      "volume": 348222,
+      "deliverable_qty": 213268,
+      "delivery_pct": 61.24
     }
   ],
   "news": [
@@ -526,20 +526,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "VST Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VSTIND_04032026151840_SEPostalBallotNotice.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 15:19:28",
-      "an_dt": "02-Mar-2026 15:19:28",
-      "desc": "Updates",
-      "sm_name": "VST Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VSTIND_02032026150856_SEDisclosurematerialityofanevent.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 13:45:14",
-      "an_dt": "02-Mar-2026 13:45:14",
-      "desc": "Resignation",
-      "sm_name": "VST Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VSTIND_02032026134458_SEResignationofDirector.pdf"
     }
   ]
 }

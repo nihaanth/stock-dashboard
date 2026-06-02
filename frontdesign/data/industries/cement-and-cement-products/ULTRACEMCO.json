@@ -8,17 +8,9 @@
   "price": 11866.0,
   "market_cap_cr": 349061.7,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 12521.0,
-      "prev_close": 12677.0,
-      "volume": 237506,
-      "deliverable_qty": 112000,
-      "delivery_pct": 47.16
-    },
     {
       "date": "2026-03-04",
       "close": 12107.0,
@@ -426,9 +418,31 @@
       "volume": 243628,
       "deliverable_qty": 136963,
       "delivery_pct": 56.22
+    },
+    {
+      "date": "2026-06-01",
+      "close": 11232.0,
+      "prev_close": 11482.0,
+      "volume": 497866,
+      "deliverable_qty": 243511,
+      "delivery_pct": 48.91
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 18:04:29",
+      "an_dt": "01-Jun-2026 18:04:29",
+      "desc": "Trading Window",
+      "sm_name": "UltraTech Cement Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ULTRACEMCO1_01062026180324_SE_Letter_-_BM_Notice.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 15:42:45",
+      "an_dt": "01-Jun-2026 15:42:45",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "UltraTech Cement Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ULTRACEMCO_01062026154230_SEIntimation01062026.pdf"
+    },
     {
       "sort_date": "2026-05-27 23:22:01",
       "an_dt": "27-May-2026 23:22:01",
@@ -701,20 +715,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "UltraTech Cement Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ULTRACEMCO1_04032026114407_Investor_Meet_SE_letter.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 19:01:38",
-      "an_dt": "02-Mar-2026 19:01:38",
-      "desc": "Trading Window",
-      "sm_name": "UltraTech Cement Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ULTRACEMCO1_02032026190126_Board_Meeting_Intimation_-_March_2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 18:12:17",
-      "an_dt": "02-Mar-2026 18:12:17",
-      "desc": "Acquisition",
-      "sm_name": "UltraTech Cement Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ULTRACEMCO1_02032026181131_AMPIN.pdf"
     }
   ]
 }

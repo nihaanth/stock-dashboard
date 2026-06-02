@@ -8,17 +8,9 @@
   "price": 103.22,
   "market_cap_cr": 542.92,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 94.38,
-      "prev_close": 95.92,
-      "volume": 12380,
-      "deliverable_qty": 7708,
-      "delivery_pct": 62.26
-    },
     {
       "date": "2026-03-04",
       "close": 92.71,
@@ -426,9 +418,24 @@
       "volume": 7236,
       "deliverable_qty": 4592,
       "delivery_pct": 63.46
+    },
+    {
+      "date": "2026-06-01",
+      "close": 98.93,
+      "prev_close": 102.59,
+      "volume": 20067,
+      "deliverable_qty": 6333,
+      "delivery_pct": 31.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 18:11:56",
+      "an_dt": "01-Jun-2026 18:11:56",
+      "desc": "Updates",
+      "sm_name": "The Investment Trust Of India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THEINVEST_01062026181143_TITL_-_Reg_30_for_Update_on_the_business_transfer.pdf"
+    },
     {
       "sort_date": "2026-05-20 15:14:02",
       "an_dt": "20-May-2026 15:14:02",

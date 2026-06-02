@@ -8,17 +8,9 @@
   "price": 490.25,
   "market_cap_cr": 2195.48,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 439.45,
-      "prev_close": 452.05,
-      "volume": 185306,
-      "deliverable_qty": 89362,
-      "delivery_pct": 48.22
-    },
     {
       "date": "2026-03-04",
       "close": 430.4,
@@ -426,9 +418,24 @@
       "volume": 66426,
       "deliverable_qty": 32804,
       "delivery_pct": 49.38
+    },
+    {
+      "date": "2026-06-01",
+      "close": 462.15,
+      "prev_close": 469.7,
+      "volume": 123105,
+      "deliverable_qty": 44171,
+      "delivery_pct": 35.88
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 14:17:45",
+      "an_dt": "01-Jun-2026 14:17:45",
+      "desc": "Shareholders meeting",
+      "sm_name": "Vimta Labs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIMTALABS_01062026141649_Reg_34_Notice.pdf"
+    },
     {
       "sort_date": "2026-05-29 20:31:04",
       "an_dt": "29-May-2026 20:31:04",

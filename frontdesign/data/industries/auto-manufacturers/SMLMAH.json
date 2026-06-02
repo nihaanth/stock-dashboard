@@ -8,17 +8,9 @@
   "price": 3763.9,
   "market_cap_cr": 5446.98,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 4542.9,
-      "prev_close": 4780.5,
-      "volume": 116226,
-      "deliverable_qty": 50023,
-      "delivery_pct": 43.04
-    },
     {
       "date": "2026-03-04",
       "close": 4326.8,
@@ -426,9 +418,24 @@
       "volume": 45601,
       "deliverable_qty": 26398,
       "delivery_pct": 57.89
+    },
+    {
+      "date": "2026-06-01",
+      "close": 3657.2,
+      "prev_close": 3745.8,
+      "volume": 37803,
+      "deliverable_qty": 14461,
+      "delivery_pct": 38.25
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 08:13:54",
+      "an_dt": "01-Jun-2026 08:13:54",
+      "desc": "Monthly Business Updates",
+      "sm_name": "SML Mahindra Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SMLMAH_01062026081347_018-Sales_May_2026_sd.pdf"
+    },
     {
       "sort_date": "2026-05-29 21:56:20",
       "an_dt": "29-May-2026 21:56:20",

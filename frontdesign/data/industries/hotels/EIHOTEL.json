@@ -8,17 +8,9 @@
   "price": 326.45,
   "market_cap_cr": 20415.01,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 312.55,
-      "prev_close": 313.55,
-      "volume": 285224,
-      "deliverable_qty": 139635,
-      "delivery_pct": 48.96
-    },
     {
       "date": "2026-03-04",
       "close": 312.15,
@@ -426,9 +418,24 @@
       "volume": 131398,
       "deliverable_qty": 80412,
       "delivery_pct": 61.2
+    },
+    {
+      "date": "2026-06-01",
+      "close": 288.75,
+      "prev_close": 296.2,
+      "volume": 321488,
+      "deliverable_qty": 190653,
+      "delivery_pct": 59.3
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 19:45:40",
+      "an_dt": "01-Jun-2026 19:45:40",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "EIH Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIHOTEL01_01062026194502_EIHSTXNEWSPAPER.pdf"
+    },
     {
       "sort_date": "2026-05-29 18:18:32",
       "an_dt": "29-May-2026 18:18:32",

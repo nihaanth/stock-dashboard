@@ -8,17 +8,9 @@
   "price": 422.05,
   "market_cap_cr": 6875.97,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 390.3,
-      "prev_close": 398.65,
-      "volume": 943921,
-      "deliverable_qty": 386265,
-      "delivery_pct": 40.92
-    },
     {
       "date": "2026-03-04",
       "close": 377.15,
@@ -426,9 +418,31 @@
       "volume": 633500,
       "deliverable_qty": 130529,
       "delivery_pct": 20.6
+    },
+    {
+      "date": "2026-06-01",
+      "close": 468.3,
+      "prev_close": 462.7,
+      "volume": 1681669,
+      "deliverable_qty": 701754,
+      "delivery_pct": 41.73
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 12:09:49",
+      "an_dt": "01-Jun-2026 12:09:49",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Shreeji Shipping Global Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHREEJI_01062026120925_Newspaper_Advertisement_31-05-2026.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 08:24:38",
+      "an_dt": "01-Jun-2026 08:24:38",
+      "desc": "Press Release",
+      "sm_name": "Shreeji Shipping Global Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHREEJI_01062026082344_Shreeji_Press_Release_FY26.pdf"
+    },
     {
       "sort_date": "2026-05-29 21:17:13",
       "an_dt": "29-May-2026 21:17:13",

@@ -8,17 +8,9 @@
   "price": 94.28,
   "market_cap_cr": 2005.26,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 51.63,
-      "prev_close": 53.43,
-      "volume": 1929641,
-      "deliverable_qty": 923755,
-      "delivery_pct": 47.87
-    },
     {
       "date": "2026-03-04",
       "close": 51.3,
@@ -426,9 +418,24 @@
       "volume": 15728491,
       "deliverable_qty": 3425347,
       "delivery_pct": 21.78
+    },
+    {
+      "date": "2026-06-01",
+      "close": 114.0,
+      "prev_close": 108.65,
+      "volume": 5846540,
+      "deliverable_qty": 2384650,
+      "delivery_pct": 40.79
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 17:32:12",
+      "an_dt": "01-Jun-2026 17:32:12",
+      "desc": "Disclosure of material issue",
+      "sm_name": "Vidya Wires Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIDYAWIRESLTD_01062026173041_Intimation_Regulation_30.pdf"
+    },
     {
       "sort_date": "2026-05-29 13:37:21",
       "an_dt": "29-May-2026 13:37:21",

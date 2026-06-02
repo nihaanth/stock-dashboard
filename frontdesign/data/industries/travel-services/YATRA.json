@@ -8,17 +8,9 @@
   "price": 102.31,
   "market_cap_cr": 1605.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 106.46,
-      "prev_close": 118.6,
-      "volume": 6522355,
-      "deliverable_qty": 1176496,
-      "delivery_pct": 18.04
-    },
     {
       "date": "2026-03-04",
       "close": 118.02,
@@ -426,9 +418,24 @@
       "volume": 1886329,
       "deliverable_qty": 906930,
       "delivery_pct": 48.08
+    },
+    {
+      "date": "2026-06-01",
+      "close": 97.75,
+      "prev_close": 100.3,
+      "volume": 1377222,
+      "deliverable_qty": 471783,
+      "delivery_pct": 34.26
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 15:48:49",
+      "an_dt": "01-Jun-2026 15:48:49",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Yatra Online Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/YATRA2022_01062026154735_Transcript_Q4_FY_26-sign.pdf"
+    },
     {
       "sort_date": "2026-05-26 13:06:20",
       "an_dt": "26-May-2026 13:06:20",

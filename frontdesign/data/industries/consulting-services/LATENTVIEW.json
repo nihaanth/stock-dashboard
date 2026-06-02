@@ -8,17 +8,9 @@
   "price": 308.85,
   "market_cap_cr": 6390.88,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 326.75,
-      "prev_close": 337.2,
-      "volume": 659491,
-      "deliverable_qty": 274043,
-      "delivery_pct": 41.55
-    },
     {
       "date": "2026-03-04",
       "close": 315.4,
@@ -426,6 +418,14 @@
       "volume": 404609,
       "deliverable_qty": 138606,
       "delivery_pct": 34.26
+    },
+    {
+      "date": "2026-06-01",
+      "close": 316.4,
+      "prev_close": 322.55,
+      "volume": 1206332,
+      "deliverable_qty": 436485,
+      "delivery_pct": 36.18
     }
   ],
   "news": [
@@ -575,13 +575,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Latent View Analytics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LATENTVIEW_10032026154548_SE_Intimation_Analyst_Meet_March_10_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 14:48:38",
-      "an_dt": "02-Mar-2026 14:48:38",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Latent View Analytics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LATENTVIEW_02032026144822_SE_Intimation_Analyst_Meet_March_02_Signed.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 1369.8,
   "market_cap_cr": 15493.19,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 1531.8,
-      "prev_close": 1562.6,
-      "volume": 343736,
-      "deliverable_qty": 127499,
-      "delivery_pct": 37.09
-    },
     {
       "date": "2026-03-04",
       "close": 1487.8,
@@ -426,6 +418,14 @@
       "volume": 854759,
       "deliverable_qty": 266141,
       "delivery_pct": 31.14
+    },
+    {
+      "date": "2026-06-01",
+      "close": 2027.9,
+      "prev_close": 2056.3,
+      "volume": 911596,
+      "deliverable_qty": 277279,
+      "delivery_pct": 30.42
     }
   ],
   "news": [
@@ -596,13 +596,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "R R Kabel Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RRKL1995_03032026154846_Intimation_about_Analyst_Investor_meet_RRKL_9_10_11_March_26.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 23:16:01",
-      "an_dt": "02-Mar-2026 23:16:01",
-      "desc": "Appointment",
-      "sm_name": "R R Kabel Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RRKL1995_02032026231530_Reg_30_intimation_-_Change_in_Management.pdf"
     }
   ]
 }

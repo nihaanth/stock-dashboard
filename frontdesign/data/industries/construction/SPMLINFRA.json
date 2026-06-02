@@ -8,17 +8,9 @@
   "price": 184.3,
   "market_cap_cr": 1470.6,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 165.77,
-      "prev_close": 169.82,
-      "volume": 211936,
-      "deliverable_qty": 109163,
-      "delivery_pct": 51.51
-    },
     {
       "date": "2026-03-04",
       "close": 179.33,
@@ -426,9 +418,31 @@
       "volume": 465235,
       "deliverable_qty": 267993,
       "delivery_pct": 57.6
+    },
+    {
+      "date": "2026-06-01",
+      "close": 202.07,
+      "prev_close": 207.62,
+      "volume": 283023,
+      "deliverable_qty": 136563,
+      "delivery_pct": 48.25
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 18:53:43",
+      "an_dt": "01-Jun-2026 18:53:43",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "SPML Infra Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPMLINFRA_01062026185332_Cover_letter_signed-output.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 12:04:42",
+      "an_dt": "01-Jun-2026 12:04:42",
+      "desc": "Investor Presentation",
+      "sm_name": "SPML Infra Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPMLINFRA_01062026120427_Investor_presentation_F1.pdf"
+    },
     {
       "sort_date": "2026-05-30 13:47:01",
       "an_dt": "30-May-2026 13:47:01",
@@ -638,13 +652,6 @@
       "desc": "General Updates",
       "sm_name": "SPML Infra Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPMLINFRA_05032026131245_Intimation_webinar_.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 12:42:10",
-      "an_dt": "02-Mar-2026 12:42:10",
-      "desc": "Allotment of Securities",
-      "sm_name": "SPML Infra Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPMLINFRA_02032026124136_Intimation_signed-output__1_.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 2500.2,
   "market_cap_cr": 342763.48,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 2124.6,
-      "prev_close": 2161.8,
-      "volume": 2134522,
-      "deliverable_qty": 718818,
-      "delivery_pct": 33.68
-    },
     {
       "date": "2026-03-04",
       "close": 2076.5,
@@ -426,6 +418,14 @@
       "volume": 3826916,
       "deliverable_qty": 879795,
       "delivery_pct": 22.99
+    },
+    {
+      "date": "2026-06-01",
+      "close": 2909.4,
+      "prev_close": 2937.4,
+      "volume": 1629342,
+      "deliverable_qty": 604568,
+      "delivery_pct": 37.11
     }
   ],
   "news": [
@@ -792,20 +792,6 @@
       "desc": "Incorporation",
       "sm_name": "Adani Enterprises Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/nishant_joshi_adani_com_09032026133133_AELintimationCORRTOLLWAYSLIMITED.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 18:57:59",
-      "an_dt": "02-Mar-2026 18:57:59",
-      "desc": "Diversification/Disinvestment",
-      "sm_name": "Adani Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADANIENT_02032026185742_Intimation_Sale_of_stake_by_KCL_2.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 16:24:43",
-      "an_dt": "02-Mar-2026 16:24:43",
-      "desc": "General Updates",
-      "sm_name": "Adani Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/nishant_joshi_adani_com_02032026162434_AELIntimationSPAUpdate.pdf"
     }
   ]
 }

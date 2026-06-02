@@ -8,17 +8,9 @@
   "price": 284.38,
   "market_cap_cr": 9126.85,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 293.55,
-      "prev_close": 313.65,
-      "volume": 1878268,
-      "deliverable_qty": 694231,
-      "delivery_pct": 36.96
-    },
     {
       "date": "2026-03-04",
       "close": 278.55,
@@ -426,6 +418,14 @@
       "volume": 507838,
       "deliverable_qty": 203457,
       "delivery_pct": 40.06
+    },
+    {
+      "date": "2026-06-01",
+      "close": 311.3,
+      "prev_close": 315.3,
+      "volume": 680654,
+      "deliverable_qty": 268857,
+      "delivery_pct": 39.5
     }
   ],
   "news": [
@@ -806,20 +806,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "Railtel Corporation Of India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAILTEL_07032026193117_Railtel_Order_Book_Company_Rep_070326.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 17:04:57",
-      "an_dt": "02-Mar-2026 17:04:57",
-      "desc": "Action(s) initiated or orders passed",
-      "sm_name": "Railtel Corporation Of India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAILTEL_02032026170422_Intimation_Imposition_Fine.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 16:59:21",
-      "an_dt": "02-Mar-2026 16:59:21",
-      "desc": "Trading Window",
-      "sm_name": "Railtel Corporation Of India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAILTEL_02032026165908_Intimation_Closure_Trading_Window.pdf"
     }
   ]
 }

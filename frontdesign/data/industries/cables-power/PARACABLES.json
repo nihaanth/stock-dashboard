@@ -8,17 +8,9 @@
   "price": 60.07,
   "market_cap_cr": 1833.4,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 34.15,
-      "prev_close": 34.84,
-      "volume": 828044,
-      "deliverable_qty": 430730,
-      "delivery_pct": 52.02
-    },
     {
       "date": "2026-03-04",
       "close": 33.29,
@@ -426,9 +418,24 @@
       "volume": 7820986,
       "deliverable_qty": 2302119,
       "delivery_pct": 29.44
+    },
+    {
+      "date": "2026-06-01",
+      "close": 60.57,
+      "prev_close": 65.87,
+      "volume": 5827157,
+      "deliverable_qty": 2678574,
+      "delivery_pct": 45.97
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 19:52:13",
+      "an_dt": "01-Jun-2026 19:52:13",
+      "desc": "General Updates",
+      "sm_name": "Paramount Communications Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARACABLES_01062026195135_Corrigendum_EGM_Notice_.pdf"
+    },
     {
       "sort_date": "2026-05-28 17:37:04",
       "an_dt": "28-May-2026 17:37:04",

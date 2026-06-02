@@ -8,17 +8,9 @@
   "price": 741.3,
   "market_cap_cr": 61079.4,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 783.35,
-      "prev_close": 776.35,
-      "volume": 1696464,
-      "deliverable_qty": 971444,
-      "delivery_pct": 57.26
-    },
     {
       "date": "2026-03-04",
       "close": 754.95,
@@ -426,9 +418,24 @@
       "volume": 466816,
       "deliverable_qty": 242817,
       "delivery_pct": 52.02
+    },
+    {
+      "date": "2026-06-01",
+      "close": 695.9,
+      "prev_close": 685.1,
+      "volume": 649897,
+      "deliverable_qty": 342203,
+      "delivery_pct": 52.65
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 17:13:00",
+      "an_dt": "01-Jun-2026 17:13:00",
+      "desc": "Appointment",
+      "sm_name": "Jindal Stainless Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JSL_01062026171211_JSLFinalSEIntimationAppointmentofSMPsd.pdf"
+    },
     {
       "sort_date": "2026-05-25 17:53:37",
       "an_dt": "25-May-2026 17:53:37",

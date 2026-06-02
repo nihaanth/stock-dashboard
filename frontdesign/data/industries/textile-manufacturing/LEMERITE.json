@@ -8,17 +8,9 @@
   "price": 440.6,
   "market_cap_cr": 1073.3,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 448.65,
-      "prev_close": 454.55,
-      "volume": 97416,
-      "deliverable_qty": 37096,
-      "delivery_pct": 38.08
-    },
     {
       "date": "2026-03-04",
       "close": 446.05,
@@ -426,9 +418,24 @@
       "volume": 26863,
       "deliverable_qty": 26483,
       "delivery_pct": 98.59
+    },
+    {
+      "date": "2026-06-01",
+      "close": 36.15,
+      "prev_close": 38.05,
+      "volume": 28841,
+      "deliverable_qty": 28841,
+      "delivery_pct": 100.0
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 18:24:17",
+      "an_dt": "01-Jun-2026 18:24:17",
+      "desc": "Updates",
+      "sm_name": "Le Merite Exports Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LMEL_01062026182411_NSE_Credit_of_Shares_Disclosure.pdf"
+    },
     {
       "sort_date": "2026-05-29 12:35:55",
       "an_dt": "29-May-2026 12:35:55",

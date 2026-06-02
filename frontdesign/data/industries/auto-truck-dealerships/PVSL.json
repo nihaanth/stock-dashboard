@@ -8,17 +8,9 @@
   "price": 107.61,
   "market_cap_cr": 766.16,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 92.65,
-      "prev_close": 93.95,
-      "volume": 211247,
-      "deliverable_qty": 156000,
-      "delivery_pct": 73.85
-    },
     {
       "date": "2026-03-04",
       "close": 87.91,
@@ -426,6 +418,14 @@
       "volume": 163208,
       "deliverable_qty": 114248,
       "delivery_pct": 70.0
+    },
+    {
+      "date": "2026-06-01",
+      "close": 100.14,
+      "prev_close": 97.54,
+      "volume": 57057,
+      "deliverable_qty": 36208,
+      "delivery_pct": 63.46
     }
   ],
   "news": [
@@ -750,20 +750,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Popular Vehicles and Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/9072530155_06032026101037_Disclosureofinvestormeet_FinalSD.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 17:39:41",
-      "an_dt": "02-Mar-2026 17:39:41",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Popular Vehicles and Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9072530155_02032026173907_DisclosureofinvestFinalSD.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 17:30:26",
-      "an_dt": "02-Mar-2026 17:30:26",
-      "desc": "Giving guarantees/indemnity/ becoming a surety for third party",
-      "sm_name": "Popular Vehicles and Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9072530155_02032026173002_DisclosureofCorporateGuaranteeSD.pdf"
     }
   ]
 }

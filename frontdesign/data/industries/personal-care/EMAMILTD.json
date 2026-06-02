@@ -8,17 +8,9 @@
   "price": 444.55,
   "market_cap_cr": 19404.61,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 458.7,
-      "prev_close": 462.6,
-      "volume": 450197,
-      "deliverable_qty": 275420,
-      "delivery_pct": 61.18
-    },
     {
       "date": "2026-03-04",
       "close": 460.0,
@@ -426,9 +418,24 @@
       "volume": 222476,
       "deliverable_qty": 125569,
       "delivery_pct": 56.44
+    },
+    {
+      "date": "2026-06-01",
+      "close": 397.6,
+      "prev_close": 399.1,
+      "volume": 423618,
+      "deliverable_qty": 218062,
+      "delivery_pct": 51.48
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 19:42:37",
+      "an_dt": "01-Jun-2026 19:42:37",
+      "desc": "Acquisition",
+      "sm_name": "Emami Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMAMILTD2_01062026194152_Intimation_Update_on_IncNut_signed.pdf"
+    },
     {
       "sort_date": "2026-05-25 17:23:42",
       "an_dt": "25-May-2026 17:23:42",

@@ -8,17 +8,9 @@
   "price": 3737.3,
   "market_cap_cr": 41054.24,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 3316.8,
-      "prev_close": 3483.3,
-      "volume": 41055,
-      "deliverable_qty": 19844,
-      "delivery_pct": 48.34
-    },
     {
       "date": "2026-03-04",
       "close": 3338.8,
@@ -426,9 +418,24 @@
       "volume": 326228,
       "deliverable_qty": 150483,
       "delivery_pct": 46.13
+    },
+    {
+      "date": "2026-06-01",
+      "close": 3612.0,
+      "prev_close": 3629.0,
+      "volume": 54324,
+      "deliverable_qty": 25701,
+      "delivery_pct": 47.31
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 11:17:08",
+      "an_dt": "01-Jun-2026 11:17:08",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Gujarat Fluorochemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FLUOROCHEM_01062026111624_GFCLTrancriptofConCall1June2026.pdf"
+    },
     {
       "sort_date": "2026-05-29 18:15:57",
       "an_dt": "29-May-2026 18:15:57",

@@ -8,17 +8,9 @@
   "price": 782.0,
   "market_cap_cr": 5370.1,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 795.65,
-      "prev_close": 792.75,
-      "volume": 165593,
-      "deliverable_qty": 80994,
-      "delivery_pct": 48.91
-    },
     {
       "date": "2026-03-04",
       "close": 765.65,
@@ -426,6 +418,14 @@
       "volume": 102823,
       "deliverable_qty": 67273,
       "delivery_pct": 65.43
+    },
+    {
+      "date": "2026-06-01",
+      "close": 689.25,
+      "prev_close": 696.15,
+      "volume": 68547,
+      "deliverable_qty": 39322,
+      "delivery_pct": 57.37
     }
   ],
   "news": [
@@ -603,13 +603,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Symphony Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SYMPHONY_09032026171631_Letter_for_Stock_Exchange_09_03_2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 17:22:30",
-      "an_dt": "02-Mar-2026 17:22:30",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Symphony Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SYMPHONY_02032026172212_Letter_for_Stock_Exchange_02_03_2026.pdf"
     }
   ]
 }

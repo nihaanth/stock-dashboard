@@ -8,17 +8,9 @@
   "price": 905.95,
   "market_cap_cr": 15563.1,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 569.0,
-      "prev_close": 576.1,
-      "volume": 291518,
-      "deliverable_qty": 136480,
-      "delivery_pct": 46.82
-    },
     {
       "date": "2026-03-04",
       "close": 552.5,
@@ -426,9 +418,31 @@
       "volume": 1383634,
       "deliverable_qty": 464711,
       "delivery_pct": 33.59
+    },
+    {
+      "date": "2026-06-01",
+      "close": 1073.8,
+      "prev_close": 1071.15,
+      "volume": 1012665,
+      "deliverable_qty": 359142,
+      "delivery_pct": 35.47
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 14:59:37",
+      "an_dt": "01-Jun-2026 14:59:37",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Cemindia Projects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Cemindia_01062026145929_Newspaper__Notice-_after_Dispatch_of_AGM_Notice__Signed.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 14:30:59",
+      "an_dt": "01-Jun-2026 14:30:59",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Cemindia Projects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Cemindia_01062026142901_Stock_exchange___Newspaper__Notice-_after_Dispatch_of_AGM_Notice_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-29 23:54:47",
       "an_dt": "29-May-2026 23:54:47",

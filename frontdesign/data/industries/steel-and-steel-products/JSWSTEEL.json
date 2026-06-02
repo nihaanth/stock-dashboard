@@ -8,17 +8,9 @@
   "price": 1204.2,
   "market_cap_cr": 294169.4,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 1267.3,
-      "prev_close": 1264.7,
-      "volume": 1608917,
-      "deliverable_qty": 588747,
-      "delivery_pct": 36.59
-    },
     {
       "date": "2026-03-04",
       "close": 1213.0,
@@ -426,9 +418,38 @@
       "volume": 2030720,
       "deliverable_qty": 832023,
       "delivery_pct": 40.97
+    },
+    {
+      "date": "2026-06-01",
+      "close": 1299.4,
+      "prev_close": 1278.0,
+      "volume": 1388242,
+      "deliverable_qty": 655005,
+      "delivery_pct": 47.18
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 16:07:52",
+      "an_dt": "01-Jun-2026 16:07:52",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "JSW Steel Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/jessydenny_01062026160737_SEIntimation_Saksham_Niveshak.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 16:02:43",
+      "an_dt": "01-Jun-2026 16:02:43",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "JSW Steel Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/jessydenny_01062026160204_SEIntimation_IEPF.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 15:57:59",
+      "an_dt": "01-Jun-2026 15:57:59",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "JSW Steel Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/jessydenny_01062026155716_SEintimation_SpecialWindow.pdf"
+    },
     {
       "sort_date": "2026-05-29 21:02:56",
       "an_dt": "29-May-2026 21:02:56",
@@ -708,13 +729,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "JSW Steel Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/jessydenny_04032026151523_analyst_meet.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 16:26:10",
-      "an_dt": "02-Mar-2026 16:26:10",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "JSW Steel Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/jessydenny_02032026162544_SE_Intimation.pdf"
     }
   ]
 }

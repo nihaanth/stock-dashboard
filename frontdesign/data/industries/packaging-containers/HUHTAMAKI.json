@@ -8,17 +8,9 @@
   "price": 174.69,
   "market_cap_cr": 1319.29,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 171.49,
-      "prev_close": 176.53,
-      "volume": 144451,
-      "deliverable_qty": 83048,
-      "delivery_pct": 57.49
-    },
     {
       "date": "2026-03-04",
       "close": 169.05,
@@ -426,6 +418,14 @@
       "volume": 149955,
       "deliverable_qty": 102681,
       "delivery_pct": 68.47
+    },
+    {
+      "date": "2026-06-01",
+      "close": 160.11,
+      "prev_close": 163.43,
+      "volume": 369855,
+      "deliverable_qty": 246062,
+      "delivery_pct": 66.53
     }
   ],
   "news": [
@@ -624,13 +624,6 @@
       "desc": "Appointment",
       "sm_name": "Huhtamaki India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUHTAMAKI_18032026182549_HIL_Reg_30_BM_Appt_of_Directors_AGMdate-18Mar2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 19:01:48",
-      "an_dt": "02-Mar-2026 19:01:48",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Huhtamaki India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HUHTAMAKI_02032026190137_HIL_Intimation_NewspaperPublicationIEPF_02Mar2026.pdf"
     }
   ]
 }

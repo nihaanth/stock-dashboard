@@ -8,17 +8,9 @@
   "price": 760.35,
   "market_cap_cr": 10565.22,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 683.5,
-      "prev_close": 697.6,
-      "volume": 353822,
-      "deliverable_qty": 164675,
-      "delivery_pct": 46.54
-    },
     {
       "date": "2026-03-04",
       "close": 669.95,
@@ -426,6 +418,14 @@
       "volume": 239388,
       "deliverable_qty": 86264,
       "delivery_pct": 36.04
+    },
+    {
+      "date": "2026-06-01",
+      "close": 730.05,
+      "prev_close": 716.85,
+      "volume": 871303,
+      "deliverable_qty": 259641,
+      "delivery_pct": 29.8
     }
   ],
   "news": [
@@ -771,27 +771,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Intellect Design Arena Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTELLECT_04032026114735_InvestorMeet04032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 12:15:05",
-      "an_dt": "02-Mar-2026 12:15:05",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Intellect Design Arena Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTELLECT_02032026121441_InvestorMeetingdated02032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 12:08:22",
-      "an_dt": "02-Mar-2026 12:08:22",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Intellect Design Arena Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTELLECT_02032026120801_InvestorMeetingdated02032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 12:02:13",
-      "an_dt": "02-Mar-2026 12:02:13",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Intellect Design Arena Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTELLECT_02032026120155_Investormeetingdated02032026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 4634.0,
   "market_cap_cr": 14207.83,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 4467.2,
-      "prev_close": 4710.3,
-      "volume": 21516,
-      "deliverable_qty": 12584,
-      "delivery_pct": 58.49
-    },
     {
       "date": "2026-03-04",
       "close": 4263.9,
@@ -426,9 +418,24 @@
       "volume": 10488,
       "deliverable_qty": 4386,
       "delivery_pct": 41.82
+    },
+    {
+      "date": "2026-06-01",
+      "close": 4491.6,
+      "prev_close": 4625.4,
+      "volume": 9975,
+      "deliverable_qty": 4175,
+      "delivery_pct": 41.85
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 15:36:37",
+      "an_dt": "01-Jun-2026 15:36:37",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Fine Organic Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINEORG_01062026153612_IEPF_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-26 18:54:35",
       "an_dt": "26-May-2026 18:54:35",

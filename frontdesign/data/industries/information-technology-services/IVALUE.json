@@ -8,17 +8,9 @@
   "price": 244.87,
   "market_cap_cr": 1337.73,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 226.67,
-      "prev_close": 225.1,
-      "volume": 62516,
-      "deliverable_qty": 33673,
-      "delivery_pct": 53.86
-    },
     {
       "date": "2026-03-04",
       "close": 226.46,
@@ -426,9 +418,24 @@
       "volume": 58136,
       "deliverable_qty": 30700,
       "delivery_pct": 52.81
+    },
+    {
+      "date": "2026-06-01",
+      "close": 237.12,
+      "prev_close": 243.7,
+      "volume": 100796,
+      "deliverable_qty": 61707,
+      "delivery_pct": 61.22
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 19:48:53",
+      "an_dt": "01-Jun-2026 19:48:53",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Ivalue Infosolutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IVALUE927_01062026194813_Investor_Meet_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-28 16:54:07",
       "an_dt": "28-May-2026 16:54:07",
@@ -540,13 +547,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Ivalue Infosolutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IVALUE927_04032026225036_Board_Meeting_Group_Meeting_March_09_2026_NSE.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 20:41:18",
-      "an_dt": "02-Mar-2026 20:41:18",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Ivalue Infosolutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IVALUE927_02032026204105_Group_Investor_Meeting_Final_Announcement_02032026.pdf"
     }
   ]
 }

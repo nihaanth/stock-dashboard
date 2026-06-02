@@ -8,17 +8,9 @@
   "price": 1716.5,
   "market_cap_cr": 45157.82,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 1448.9,
-      "prev_close": 1491.7,
-      "volume": 1164505,
-      "deliverable_qty": 300842,
-      "delivery_pct": 25.83
-    },
     {
       "date": "2026-03-04",
       "close": 1398.0,
@@ -426,9 +418,24 @@
       "volume": 1127361,
       "deliverable_qty": 248027,
       "delivery_pct": 22.0
+    },
+    {
+      "date": "2026-06-01",
+      "close": 1429.4,
+      "prev_close": 1467.4,
+      "volume": 920596,
+      "deliverable_qty": 328110,
+      "delivery_pct": 35.64
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 17:16:08",
+      "an_dt": "01-Jun-2026 17:16:08",
+      "desc": "Updates",
+      "sm_name": "Cochin Shipyard Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Aswi4739_01062026171523_SE_Intimation_SD.pdf"
+    },
     {
       "sort_date": "2026-05-28 14:37:19",
       "an_dt": "28-May-2026 14:37:19",
@@ -540,13 +547,6 @@
       "desc": "Arrangements for strategic, technical, manufacturing, or marketing tie up",
       "sm_name": "Cochin Shipyard Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Aswi4739_25032026154745_SE_Intimation_sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 14:07:17",
-      "an_dt": "02-Mar-2026 14:07:17",
-      "desc": "Action(s) taken or orders passed",
-      "sm_name": "Cochin Shipyard Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Aswi4739_02032026140653_SE_Intimation_SD.pdf"
     }
   ]
 }

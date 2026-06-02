@@ -8,17 +8,9 @@
   "price": 1262.1,
   "market_cap_cr": 21553.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 1177.0,
-      "prev_close": 1240.1,
-      "volume": 468286,
-      "deliverable_qty": 239367,
-      "delivery_pct": 51.12
-    },
     {
       "date": "2026-03-04",
       "close": 1122.5,
@@ -426,9 +418,24 @@
       "volume": 146423,
       "deliverable_qty": 83663,
       "delivery_pct": 57.14
+    },
+    {
+      "date": "2026-06-01",
+      "close": 1301.8,
+      "prev_close": 1305.0,
+      "volume": 383049,
+      "deliverable_qty": 233351,
+      "delivery_pct": 60.92
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 08:48:22",
+      "an_dt": "01-Jun-2026 08:48:22",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "Kalpataru Projects International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KALPATPOWR_01062026084809_SEIntimationPR01062026.pdf"
+    },
     {
       "sort_date": "2026-05-22 19:36:28",
       "an_dt": "22-May-2026 19:36:28",

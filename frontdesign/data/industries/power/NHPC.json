@@ -8,17 +8,9 @@
   "price": 77.66,
   "market_cap_cr": 78009.74,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 73.14,
-      "prev_close": 75.33,
-      "volume": 25723090,
-      "deliverable_qty": 14119266,
-      "delivery_pct": 54.89
-    },
     {
       "date": "2026-03-04",
       "close": 72.23,
@@ -426,9 +418,31 @@
       "volume": 20004108,
       "deliverable_qty": 9092666,
       "delivery_pct": 45.45
+    },
+    {
+      "date": "2026-06-01",
+      "close": 77.2,
+      "prev_close": 78.87,
+      "volume": 13495785,
+      "deliverable_qty": 6281311,
+      "delivery_pct": 46.54
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 21:04:55",
+      "an_dt": "01-Jun-2026 21:04:55",
+      "desc": "Offer for sale",
+      "sm_name": "NHPC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/vipulr_01062026210228_NHPCOFSNotice.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 18:06:54",
+      "an_dt": "01-Jun-2026 18:06:54",
+      "desc": "General Updates",
+      "sm_name": "NHPC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NHPC_01062026180633_STX_Newspaper_Special_Window__C.pdf"
+    },
     {
       "sort_date": "2026-05-29 20:32:13",
       "an_dt": "29-May-2026 20:32:13",
@@ -645,13 +659,6 @@
       "desc": "General Updates",
       "sm_name": "NHPC Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NHPC_17032026213456_STX_Subansiri_Uniut1_COD.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 13:19:17",
-      "an_dt": "02-Mar-2026 13:19:17",
-      "desc": "Change in Director(s)",
-      "sm_name": "NHPC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NHPC_02032026131850_STX_cessation_ID.pdf"
     }
   ]
 }

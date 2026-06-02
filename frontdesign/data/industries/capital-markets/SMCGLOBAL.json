@@ -8,17 +8,9 @@
   "price": 64.25,
   "market_cap_cr": 1345.39,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 74.58,
-      "prev_close": 76.85,
-      "volume": 778373,
-      "deliverable_qty": 456712,
-      "delivery_pct": 58.68
-    },
     {
       "date": "2026-03-04",
       "close": 73.49,
@@ -426,6 +418,14 @@
       "volume": 249474,
       "deliverable_qty": 144635,
       "delivery_pct": 57.98
+    },
+    {
+      "date": "2026-06-01",
+      "close": 59.47,
+      "prev_close": 61.51,
+      "volume": 181388,
+      "deliverable_qty": 119898,
+      "delivery_pct": 66.1
     }
   ],
   "news": [
@@ -582,13 +582,6 @@
       "desc": "Spurt in Volume",
       "sm_name": "SMC Global Securities Limited",
       "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-03-02 18:41:12",
-      "an_dt": "02-Mar-2026 18:41:12",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "SMC Global Securities Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SMCGLOBAL_02032026184042_Investor_Call.pdf"
     }
   ]
 }

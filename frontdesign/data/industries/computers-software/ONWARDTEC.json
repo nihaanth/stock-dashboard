@@ -8,17 +8,9 @@
   "price": 251.32,
   "market_cap_cr": 565.76,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 266.1,
-      "prev_close": 272.65,
-      "volume": 52809,
-      "deliverable_qty": 34001,
-      "delivery_pct": 64.38
-    },
     {
       "date": "2026-03-04",
       "close": 258.4,
@@ -426,6 +418,14 @@
       "volume": 23769,
       "deliverable_qty": 15128,
       "delivery_pct": 63.65
+    },
+    {
+      "date": "2026-06-01",
+      "close": 259.95,
+      "prev_close": 264.87,
+      "volume": 47179,
+      "deliverable_qty": 26513,
+      "delivery_pct": 56.2
     }
   ],
   "news": [
@@ -582,13 +582,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Onward Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MD11015_04032026181123_OTL__Intimation_to_Stock_Exchanges_9th_March_2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 17:01:25",
-      "an_dt": "02-Mar-2026 17:01:25",
-      "desc": "Allotment of Securities",
-      "sm_name": "Onward Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MD11015_02032026170045_OTL__Intimation_to_Stock_Exchanges.pdf"
     }
   ]
 }

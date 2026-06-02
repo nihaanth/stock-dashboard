@@ -8,17 +8,9 @@
   "price": 3605.6,
   "market_cap_cr": 128402.81,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 3341.6,
-      "prev_close": 3418.6,
-      "volume": 598519,
-      "deliverable_qty": 221583,
-      "delivery_pct": 37.02
-    },
     {
       "date": "2026-03-04",
       "close": 3161.0,
@@ -426,9 +418,24 @@
       "volume": 1738785,
       "deliverable_qty": 327936,
       "delivery_pct": 18.86
+    },
+    {
+      "date": "2026-06-01",
+      "close": 3711.3,
+      "prev_close": 3844.0,
+      "volume": 526590,
+      "deliverable_qty": 118780,
+      "delivery_pct": 22.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 08:54:22",
+      "an_dt": "01-Jun-2026 08:54:22",
+      "desc": "General Updates",
+      "sm_name": "Siemens Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SIEMENS_01062026085411_LEMON.pdf"
+    },
     {
       "sort_date": "2026-05-28 17:22:24",
       "an_dt": "28-May-2026 17:22:24",

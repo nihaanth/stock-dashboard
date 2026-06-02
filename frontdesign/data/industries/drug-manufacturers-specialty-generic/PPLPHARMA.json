@@ -8,17 +8,9 @@
   "price": 146.47,
   "market_cap_cr": 19393.49,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 152.81,
-      "prev_close": 156.13,
-      "volume": 2046239,
-      "deliverable_qty": 801126,
-      "delivery_pct": 39.15
-    },
     {
       "date": "2026-03-04",
       "close": 152.31,
@@ -426,9 +418,24 @@
       "volume": 2480547,
       "deliverable_qty": 1017156,
       "delivery_pct": 41.01
+    },
+    {
+      "date": "2026-06-01",
+      "close": 170.9,
+      "prev_close": 172.79,
+      "volume": 1692993,
+      "deliverable_qty": 508280,
+      "delivery_pct": 30.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 12:04:10",
+      "an_dt": "01-Jun-2026 12:04:10",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Piramal Pharma Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PIRAMALPHARMA_01062026120344_SEIntimationJune.pdf"
+    },
     {
       "sort_date": "2026-05-19 14:08:22",
       "an_dt": "19-May-2026 14:08:22",
@@ -582,13 +589,6 @@
       "desc": "General Updates",
       "sm_name": "Piramal Pharma Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PIRAMALPHARMA_20032026202812_SES_ESG_Rating_-_sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 15:26:54",
-      "an_dt": "02-Mar-2026 15:26:54",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Piramal Pharma Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PIRAMALPHARMA_02032026152559_Stock_Exchange_Intimation_-_March_2026.pdf"
     }
   ]
 }

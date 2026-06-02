@@ -8,17 +8,9 @@
   "price": 296.7,
   "market_cap_cr": 517.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 297.9,
-      "prev_close": 303.0,
-      "volume": 715,
-      "deliverable_qty": 481,
-      "delivery_pct": 67.27
-    },
     {
       "date": "2026-03-04",
       "close": 287.05,
@@ -410,9 +402,24 @@
       "volume": 35233,
       "deliverable_qty": 707,
       "delivery_pct": 2.01
+    },
+    {
+      "date": "2026-06-01",
+      "close": 283.85,
+      "prev_close": 299.5,
+      "volume": 20315,
+      "deliverable_qty": 1273,
+      "delivery_pct": 6.27
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 15:28:33",
+      "an_dt": "01-Jun-2026 15:28:33",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Pansari Developers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PANSARI_01062026152816_News_Paper_Advertisement_NSE.pdf"
+    },
     {
       "sort_date": "2026-05-29 19:34:38",
       "an_dt": "29-May-2026 19:34:38",

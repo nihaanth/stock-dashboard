@@ -8,17 +8,9 @@
   "price": 468.6,
   "market_cap_cr": 11385.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 374.2,
-      "prev_close": 389.95,
-      "volume": 565371,
-      "deliverable_qty": 295229,
-      "delivery_pct": 52.22
-    },
     {
       "date": "2026-03-04",
       "close": 371.5,
@@ -426,9 +418,24 @@
       "volume": 214741,
       "deliverable_qty": 107564,
       "delivery_pct": 50.09
+    },
+    {
+      "date": "2026-06-01",
+      "close": 399.05,
+      "prev_close": 408.35,
+      "volume": 180844,
+      "deliverable_qty": 100939,
+      "delivery_pct": 55.82
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 23:42:07",
+      "an_dt": "01-Jun-2026 23:42:07",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Vedant Fashions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANYAVAR_01062026234059_VFLIntiResch01062026.pdf"
+    },
     {
       "sort_date": "2026-05-27 19:36:50",
       "an_dt": "27-May-2026 19:36:50",

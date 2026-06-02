@@ -8,17 +8,9 @@
   "price": 896.15,
   "market_cap_cr": 9894.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 899.5,
-      "prev_close": 914.7,
-      "volume": 181048,
-      "deliverable_qty": 82189,
-      "delivery_pct": 45.4
-    },
     {
       "date": "2026-03-04",
       "close": 882.25,
@@ -426,9 +418,38 @@
       "volume": 153501,
       "deliverable_qty": 72866,
       "delivery_pct": 47.47
+    },
+    {
+      "date": "2026-06-01",
+      "close": 906.45,
+      "prev_close": 908.25,
+      "volume": 494645,
+      "deliverable_qty": 227846,
+      "delivery_pct": 46.06
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 21:09:53",
+      "an_dt": "01-Jun-2026 21:09:53",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Cyient Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CYIENT_01062026210920_01062026TransciptSigned.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 18:35:51",
+      "an_dt": "01-Jun-2026 18:35:51",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Cyient Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CYIENT_01062026183515_01062026ConferncecallRecordingSigned.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 06:34:09",
+      "an_dt": "01-Jun-2026 06:34:09",
+      "desc": "Investor Presentation",
+      "sm_name": "Cyient Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CYIENT_01062026063358_01062026InvestorPresentataionFinalSigned.pdf"
+    },
     {
       "sort_date": "2026-05-30 12:45:50",
       "an_dt": "30-May-2026 12:45:50",

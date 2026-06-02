@@ -8,17 +8,9 @@
   "price": 411.0,
   "market_cap_cr": 151343.82,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 498.0,
-      "prev_close": 505.3,
-      "volume": 11533032,
-      "deliverable_qty": 6334086,
-      "delivery_pct": 54.92
-    },
     {
       "date": "2026-03-04",
       "close": 470.75,
@@ -426,9 +418,31 @@
       "volume": 6674566,
       "deliverable_qty": 3018465,
       "delivery_pct": 45.22
+    },
+    {
+      "date": "2026-06-01",
+      "close": 374.25,
+      "prev_close": 379.5,
+      "volume": 6033578,
+      "deliverable_qty": 2978858,
+      "delivery_pct": 49.37
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 16:26:27",
+      "an_dt": "01-Jun-2026 16:26:27",
+      "desc": "General Updates",
+      "sm_name": "Tata Motors Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_01062026162616_NSEBSEF.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 13:46:14",
+      "an_dt": "01-Jun-2026 13:46:14",
+      "desc": "Press Release",
+      "sm_name": "Tata Motors Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_01062026134603_NSEBSE.pdf"
+    },
     {
       "sort_date": "2026-05-30 17:07:35",
       "an_dt": "30-May-2026 17:07:35",
@@ -652,27 +666,6 @@
       "desc": "General Updates",
       "sm_name": "Tata Motors Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_11032026193606_NSEBSELETTERESOPSCHEMEF.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 23:09:21",
-      "an_dt": "02-Mar-2026 23:09:21",
-      "desc": "News Verification",
-      "sm_name": "Tata Motors Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_02032026230827_NSEBSENEWSCLARIFICATION.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 13:52:42",
-      "an_dt": "02-Mar-2026 13:52:42",
-      "desc": "News Verification",
-      "sm_name": "Tata Motors Limited",
-      "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-03-02 08:05:39",
-      "an_dt": "02-Mar-2026 08:05:39",
-      "desc": "News Verification",
-      "sm_name": "Tata Motors Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_02032026080516_FinalNSEBSE.pdf"
     }
   ]
 }

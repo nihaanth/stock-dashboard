@@ -8,17 +8,9 @@
   "price": 589.65,
   "market_cap_cr": 823.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 600.8,
-      "prev_close": 625.85,
-      "volume": 37181,
-      "deliverable_qty": 17153,
-      "delivery_pct": 46.13
-    },
     {
       "date": "2026-03-04",
       "close": 566.75,
@@ -426,6 +418,14 @@
       "volume": 13271,
       "deliverable_qty": 7101,
       "delivery_pct": 53.51
+    },
+    {
+      "date": "2026-06-01",
+      "close": 578.95,
+      "prev_close": 578.75,
+      "volume": 4416,
+      "deliverable_qty": 2681,
+      "delivery_pct": 60.71
     }
   ],
   "news": [
@@ -645,13 +645,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "Krystal Integrated Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KISL123_13032026123802_Reg_30_TMSC.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 13:09:31",
-      "an_dt": "02-Mar-2026 13:09:31",
-      "desc": "Shareholders meeting",
-      "sm_name": "Krystal Integrated Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KISL123_02032026130919_Reg44.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 22072.0,
   "market_cap_cr": 29082.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 23380.0,
-      "prev_close": 24341.0,
-      "volume": 94543,
-      "deliverable_qty": 25772,
-      "delivery_pct": 27.26
-    },
     {
       "date": "2026-03-04",
       "close": 21450.0,
@@ -426,9 +418,45 @@
       "volume": 63880,
       "deliverable_qty": 18150,
       "delivery_pct": 28.41
+    },
+    {
+      "date": "2026-06-01",
+      "close": 18904.0,
+      "prev_close": 19473.0,
+      "volume": 98992,
+      "deliverable_qty": 32793,
+      "delivery_pct": 33.13
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 20:19:04",
+      "an_dt": "01-Jun-2026 20:19:04",
+      "desc": "Resignation",
+      "sm_name": "FORCE MOTORS LTD",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FORCEMOTORS_01062026201820_intiresignationsmp01062026.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 20:08:58",
+      "an_dt": "01-Jun-2026 20:08:58",
+      "desc": "Cessation",
+      "sm_name": "FORCE MOTORS LTD",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FORCEMOTORS_01062026200644_intiresignationsmp01062026.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 20:03:09",
+      "an_dt": "01-Jun-2026 20:03:09",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "FORCE MOTORS LTD",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FORCEMOT_ROID_89464_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-06-01 19:21:02",
+      "an_dt": "01-Jun-2026 19:21:02",
+      "desc": "Monthly Business Updates",
+      "sm_name": "FORCE MOTORS LTD",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FORCEMOTORS_01062026192044_intisalesdatmay2026.pdf"
+    },
     {
       "sort_date": "2026-05-05 14:53:50",
       "an_dt": "05-May-2026 14:53:50",
@@ -554,13 +582,6 @@
       "desc": "General Updates",
       "sm_name": "FORCE MOTORS LTD",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FORCEMOTORS_05032026144653_Intimation_under_Reg30_13__R.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 14:12:12",
-      "an_dt": "02-Mar-2026 14:12:12",
-      "desc": "Monthly Business Updates",
-      "sm_name": "FORCE MOTORS LTD",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FORCEMOTORS_02032026141150_intisalesdatafeb2602032026.pdf"
     }
   ]
 }

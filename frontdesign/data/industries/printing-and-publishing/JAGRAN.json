@@ -8,17 +8,9 @@
   "price": 66.95,
   "market_cap_cr": 1457.2,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 62.91,
-      "prev_close": 63.35,
-      "volume": 124138,
-      "deliverable_qty": 80667,
-      "delivery_pct": 64.98
-    },
     {
       "date": "2026-03-04",
       "close": 62.09,
@@ -426,9 +418,24 @@
       "volume": 224653,
       "deliverable_qty": 150212,
       "delivery_pct": 66.86
+    },
+    {
+      "date": "2026-06-01",
+      "close": 76.33,
+      "prev_close": 74.93,
+      "volume": 1419832,
+      "deliverable_qty": 862593,
+      "delivery_pct": 60.75
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 19:02:34",
+      "an_dt": "01-Jun-2026 19:02:34",
+      "desc": "Shareholders meeting",
+      "sm_name": "Jagran Prakashan Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JAGRAN_01062026190134_JPLOUTCOMEOFEGM29052026.pdf"
+    },
     {
       "sort_date": "2026-05-30 13:27:44",
       "an_dt": "30-May-2026 13:27:44",

@@ -8,17 +8,9 @@
   "price": 474.05,
   "market_cap_cr": 7222.67,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 443.25,
-      "prev_close": 437.45,
-      "volume": 535969,
-      "deliverable_qty": 157692,
-      "delivery_pct": 29.42
-    },
     {
       "date": "2026-03-04",
       "close": 449.5,
@@ -426,9 +418,24 @@
       "volume": 65133,
       "deliverable_qty": 19537,
       "delivery_pct": 30.0
+    },
+    {
+      "date": "2026-06-01",
+      "close": 496.1,
+      "prev_close": 479.6,
+      "volume": 248970,
+      "deliverable_qty": 118585,
+      "delivery_pct": 47.63
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 20:17:49",
+      "an_dt": "01-Jun-2026 20:17:49",
+      "desc": "Shareholders meeting",
+      "sm_name": "BlueStone Jewellery and Lifestyle Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLUESTONE_01062026201726_VotingResults.pdf"
+    },
     {
       "sort_date": "2026-05-28 15:31:38",
       "an_dt": "28-May-2026 15:31:38",
@@ -596,13 +603,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "BlueStone Jewellery and Lifestyle Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLUESTONE_10032026142118_DisclosureunderRegulation30.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 16:59:25",
-      "an_dt": "02-Mar-2026 16:59:25",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "BlueStone Jewellery and Lifestyle Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BLUESTONE_02032026165541_StockExchnageintimation.pdf"
     }
   ]
 }

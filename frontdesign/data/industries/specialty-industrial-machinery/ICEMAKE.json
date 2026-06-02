@@ -8,17 +8,9 @@
   "price": 779.15,
   "market_cap_cr": 1229.48,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 828.35,
-      "prev_close": 825.45,
-      "volume": 81894,
-      "deliverable_qty": 38615,
-      "delivery_pct": 47.15
-    },
     {
       "date": "2026-03-04",
       "close": 824.9,
@@ -426,9 +418,31 @@
       "volume": 97031,
       "deliverable_qty": 44514,
       "delivery_pct": 45.88
+    },
+    {
+      "date": "2026-06-01",
+      "close": 787.95,
+      "prev_close": 835.15,
+      "volume": 111372,
+      "deliverable_qty": 49114,
+      "delivery_pct": 44.1
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 17:38:49",
+      "an_dt": "01-Jun-2026 17:38:49",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Ice Make Refrigeration Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICEMAKE_01062026173728_NSEConferenceCall.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 15:45:04",
+      "an_dt": "01-Jun-2026 15:45:04",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Ice Make Refrigeration Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICEMAKE_01062026154354_NSENP.pdf"
+    },
     {
       "sort_date": "2026-05-30 16:53:34",
       "an_dt": "30-May-2026 16:53:34",

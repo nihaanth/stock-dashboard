@@ -8,17 +8,9 @@
   "price": 166.33,
   "market_cap_cr": 4419.57,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 141.61,
-      "prev_close": 143.38,
-      "volume": 1812521,
-      "deliverable_qty": 668400,
-      "delivery_pct": 36.88
-    },
     {
       "date": "2026-03-04",
       "close": 140.69,
@@ -426,9 +418,31 @@
       "volume": 7297733,
       "deliverable_qty": 2646857,
       "delivery_pct": 36.27
+    },
+    {
+      "date": "2026-06-01",
+      "close": 173.41,
+      "prev_close": 177.38,
+      "volume": 2628824,
+      "deliverable_qty": 1006892,
+      "delivery_pct": 38.3
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 11:49:03",
+      "an_dt": "01-Jun-2026 11:49:03",
+      "desc": "General Updates",
+      "sm_name": "Avantel Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVANTEL_01062026114717_LetterIntimation01062026.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 10:35:47",
+      "an_dt": "01-Jun-2026 10:35:47",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Avantel Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVANTEL_01062026103437_AGMPaperPublication01062026.pdf"
+    },
     {
       "sort_date": "2026-05-30 14:33:59",
       "an_dt": "30-May-2026 14:33:59",

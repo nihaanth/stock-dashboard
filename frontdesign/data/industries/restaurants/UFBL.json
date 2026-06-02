@@ -8,17 +8,9 @@
   "price": 292.16,
   "market_cap_cr": 1141.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 247.69,
-      "prev_close": 237.23,
-      "volume": 71673,
-      "deliverable_qty": 49307,
-      "delivery_pct": 68.79
-    },
     {
       "date": "2026-03-04",
       "close": 238.69,
@@ -426,9 +418,24 @@
       "volume": 194628,
       "deliverable_qty": 78819,
       "delivery_pct": 40.5
+    },
+    {
+      "date": "2026-06-01",
+      "close": 479.15,
+      "prev_close": 493.2,
+      "volume": 177889,
+      "deliverable_qty": 65577,
+      "delivery_pct": 36.86
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 16:22:37",
+      "an_dt": "01-Jun-2026 16:22:37",
+      "desc": "General Updates",
+      "sm_name": "United Foodbrands Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BARBEQUE_01062026162133_ITDemandNotice01062026.pdf"
+    },
     {
       "sort_date": "2026-05-28 20:01:54",
       "an_dt": "28-May-2026 20:01:54",

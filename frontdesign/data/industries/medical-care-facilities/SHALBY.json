@@ -8,17 +8,9 @@
   "price": 165.46,
   "market_cap_cr": 1775.37,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 149.7,
-      "prev_close": 154.83,
-      "volume": 147843,
-      "deliverable_qty": 88742,
-      "delivery_pct": 60.02
-    },
     {
       "date": "2026-03-04",
       "close": 146.88,
@@ -426,6 +418,14 @@
       "volume": 215319,
       "deliverable_qty": 94500,
       "delivery_pct": 43.89
+    },
+    {
+      "date": "2026-06-01",
+      "close": 169.29,
+      "prev_close": 168.81,
+      "volume": 133409,
+      "deliverable_qty": 61360,
+      "delivery_pct": 45.99
     }
   ],
   "news": [
@@ -568,13 +568,6 @@
       "desc": "Updates",
       "sm_name": "Shalby Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHALBYLTD_03032026170257_101NABHPKHealthcare.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 19:17:13",
-      "an_dt": "02-Mar-2026 19:17:13",
-      "desc": "Updates",
-      "sm_name": "Shalby Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHALBYLTD_02032026191631_100clarification.pdf"
     }
   ]
 }

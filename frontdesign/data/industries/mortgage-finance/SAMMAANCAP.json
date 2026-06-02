@@ -8,17 +8,9 @@
   "price": 145.05,
   "market_cap_cr": 16622.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 145.96,
-      "prev_close": 149.91,
-      "volume": 8317301,
-      "deliverable_qty": 3820897,
-      "delivery_pct": 45.94
-    },
     {
       "date": "2026-03-04",
       "close": 142.25,
@@ -426,9 +418,24 @@
       "volume": 33567073,
       "deliverable_qty": 11985231,
       "delivery_pct": 35.71
+    },
+    {
+      "date": "2026-06-01",
+      "close": 177.35,
+      "prev_close": 177.01,
+      "volume": 14994346,
+      "deliverable_qty": 4744215,
+      "delivery_pct": 31.64
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 18:31:20",
+      "an_dt": "01-Jun-2026 18:31:20",
+      "desc": "Updates",
+      "sm_name": "Sammaan Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IHFL_01062026183104_SCL_Retail_Intimation_57_01062026_NA2.pdf"
+    },
     {
       "sort_date": "2026-05-29 19:51:45",
       "an_dt": "29-May-2026 19:51:45",
@@ -1289,13 +1296,6 @@
       "desc": "Updates",
       "sm_name": "Sammaan Capital Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IHFL_05032026133650_SCL_NCD_allotment_intimation_05Mar2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 21:49:23",
-      "an_dt": "02-Mar-2026 21:49:23",
-      "desc": "Updates",
-      "sm_name": "Sammaan Capital Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IHFL_02032026214855_SCL_Retail_Intimation_57_02032026_NA2.pdf"
     }
   ]
 }

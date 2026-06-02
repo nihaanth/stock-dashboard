@@ -8,17 +8,9 @@
   "price": 71.97,
   "market_cap_cr": 502.42,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 62.13,
-      "prev_close": 63.4,
-      "volume": 39121,
-      "deliverable_qty": 27873,
-      "delivery_pct": 71.25
-    },
     {
       "date": "2026-03-04",
       "close": 65.94,
@@ -426,9 +418,24 @@
       "volume": 7689,
       "deliverable_qty": 4371,
       "delivery_pct": 56.85
+    },
+    {
+      "date": "2026-06-01",
+      "close": 70.03,
+      "prev_close": 70.02,
+      "volume": 10693,
+      "deliverable_qty": 5956,
+      "delivery_pct": 55.7
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 18:18:56",
+      "an_dt": "01-Jun-2026 18:18:56",
+      "desc": "General Updates",
+      "sm_name": "Moneyboxx Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONEYBOXX_01062026180836_02_Branch_Peenya_SE.pdf"
+    },
     {
       "sort_date": "2026-05-29 17:07:52",
       "an_dt": "29-May-2026 17:07:52",
@@ -582,13 +589,6 @@
       "desc": "Allotment of Securities",
       "sm_name": "Moneyboxx Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONEYBOXX_03032026174737_Allotment_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 16:37:16",
-      "an_dt": "02-Mar-2026 16:37:16",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Moneyboxx Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONEYBOXX_02032026163655_Intimation_Investor_Meet.pdf"
     }
   ]
 }

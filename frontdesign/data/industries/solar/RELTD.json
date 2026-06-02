@@ -8,17 +8,9 @@
   "price": 134.63,
   "market_cap_cr": 2404.82,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 142.45,
-      "prev_close": 146.95,
-      "volume": 104204,
-      "deliverable_qty": 48405,
-      "delivery_pct": 46.45
-    },
     {
       "date": "2026-03-04",
       "close": 137.07,
@@ -426,9 +418,24 @@
       "volume": 60335,
       "deliverable_qty": 28598,
       "delivery_pct": 47.4
+    },
+    {
+      "date": "2026-06-01",
+      "close": 125.53,
+      "prev_close": 127.37,
+      "volume": 9230429,
+      "deliverable_qty": 2370428,
+      "delivery_pct": 25.68
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 19:52:03",
+      "an_dt": "01-Jun-2026 19:52:03",
+      "desc": "Updates",
+      "sm_name": "Ravindra Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAVINDRA_01062026195118_1.pdf"
+    },
     {
       "sort_date": "2026-05-27 22:08:03",
       "an_dt": "27-May-2026 22:08:03",

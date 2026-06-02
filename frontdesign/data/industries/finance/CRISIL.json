@@ -8,17 +8,9 @@
   "price": 4090.0,
   "market_cap_cr": 29910.17,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 4316.8,
-      "prev_close": 4376.4,
-      "volume": 35823,
-      "deliverable_qty": 17661,
-      "delivery_pct": 49.3
-    },
     {
       "date": "2026-03-04",
       "close": 4314.7,
@@ -426,9 +418,24 @@
       "volume": 34579,
       "deliverable_qty": 22624,
       "delivery_pct": 65.43
+    },
+    {
+      "date": "2026-06-01",
+      "close": 3935.8,
+      "prev_close": 3948.4,
+      "volume": 28219,
+      "deliverable_qty": 15085,
+      "delivery_pct": 53.46
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 15:10:30",
+      "an_dt": "01-Jun-2026 15:10:30",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "CRISIL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRISIL_01062026150931_SignedBSENSE.pdf"
+    },
     {
       "sort_date": "2026-05-27 10:22:57",
       "an_dt": "27-May-2026 10:22:57",
@@ -596,13 +603,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "CRISIL Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRISIL_18032026190245_SignedBSENSE.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 17:51:29",
-      "an_dt": "02-Mar-2026 17:51:29",
-      "desc": "General Updates",
-      "sm_name": "CRISIL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRISIL_02032026174820_SignedBSENSE.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 380.6,
   "market_cap_cr": 2331.2,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 326.4,
-      "prev_close": 331.0,
-      "volume": 122321,
-      "deliverable_qty": 43984,
-      "delivery_pct": 35.96
-    },
     {
       "date": "2026-03-04",
       "close": 320.4,
@@ -426,9 +418,24 @@
       "volume": 219347,
       "deliverable_qty": 110085,
       "delivery_pct": 50.19
+    },
+    {
+      "date": "2026-06-01",
+      "close": 398.05,
+      "prev_close": 412.85,
+      "volume": 350561,
+      "deliverable_qty": 139999,
+      "delivery_pct": 39.94
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 16:43:45",
+      "an_dt": "01-Jun-2026 16:43:45",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Panacea Biotec Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PANACEABIO_01062026164325_NewspaperPublication01062026_-_signed.pdf"
+    },
     {
       "sort_date": "2026-05-30 22:42:51",
       "an_dt": "30-May-2026 22:42:51",
@@ -596,13 +603,6 @@
       "desc": "Updates",
       "sm_name": "Panacea Biotec Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PANACEABIO_06032026141905_DematStatusReport06032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 12:41:43",
-      "an_dt": "02-Mar-2026 12:41:43",
-      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-      "sm_name": "Panacea Biotec Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PANACEABIO_02032026124116_DemandNotice01032026signed.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 815.3,
   "market_cap_cr": 10979.95,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 671.35,
-      "prev_close": 700.95,
-      "volume": 652594,
-      "deliverable_qty": 269594,
-      "delivery_pct": 41.31
-    },
     {
       "date": "2026-03-04",
       "close": 641.95,
@@ -426,9 +418,24 @@
       "volume": 1514080,
       "deliverable_qty": 566103,
       "delivery_pct": 37.39
+    },
+    {
+      "date": "2026-06-01",
+      "close": 801.45,
+      "prev_close": 826.15,
+      "volume": 749262,
+      "deliverable_qty": 243126,
+      "delivery_pct": 32.45
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 21:07:01",
+      "an_dt": "01-Jun-2026 21:07:01",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "TITAGARH RAIL SYSTEMS LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TWL_01062026210652_InvestorsCallAudioLink.pdf"
+    },
     {
       "sort_date": "2026-05-31 18:49:18",
       "an_dt": "31-May-2026 18:49:18",

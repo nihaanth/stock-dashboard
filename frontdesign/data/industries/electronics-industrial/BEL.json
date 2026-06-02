@@ -8,17 +8,9 @@
   "price": 431.95,
   "market_cap_cr": 315745.92,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 453.95,
-      "prev_close": 444.7,
-      "volume": 35034174,
-      "deliverable_qty": 13709041,
-      "delivery_pct": 39.13
-    },
     {
       "date": "2026-03-04",
       "close": 446.85,
@@ -426,9 +418,24 @@
       "volume": 10871894,
       "deliverable_qty": 6277314,
       "delivery_pct": 57.74
+    },
+    {
+      "date": "2026-06-01",
+      "close": 407.2,
+      "prev_close": 410.75,
+      "volume": 16453240,
+      "deliverable_qty": 9095142,
+      "delivery_pct": 55.28
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 10:42:26",
+      "an_dt": "01-Jun-2026 10:42:26",
+      "desc": "Change in Management",
+      "sm_name": "Bharat Electronics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BEL_01062026104138_Letter_SM_signed.pdf"
+    },
     {
       "sort_date": "2026-05-25 16:21:38",
       "an_dt": "25-May-2026 16:21:38",
@@ -568,13 +575,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "Bharat Electronics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BEL_17032026152306_Letter_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 13:29:45",
-      "an_dt": "02-Mar-2026 13:29:45",
-      "desc": "Record Date",
-      "sm_name": "Bharat Electronics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BEL_02032026132831_RD_Revised_Signed.pdf"
     }
   ]
 }

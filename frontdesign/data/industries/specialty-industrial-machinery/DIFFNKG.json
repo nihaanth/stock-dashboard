@@ -8,17 +8,9 @@
   "price": 320.85,
   "market_cap_cr": 1191.2,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 250.35,
-      "prev_close": 264.04,
-      "volume": 99084,
-      "deliverable_qty": 62410,
-      "delivery_pct": 62.99
-    },
     {
       "date": "2026-03-04",
       "close": 245.9,
@@ -426,6 +418,14 @@
       "volume": 160632,
       "deliverable_qty": 82825,
       "delivery_pct": 51.56
+    },
+    {
+      "date": "2026-06-01",
+      "close": 323.7,
+      "prev_close": 328.75,
+      "volume": 138963,
+      "deliverable_qty": 62455,
+      "delivery_pct": 44.94
     }
   ],
   "news": [
@@ -610,20 +610,6 @@
       "desc": "Updates",
       "sm_name": "Diffusion Engineers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIFFUSION_09032026174145_Arihantpostintimation09032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 13:20:50",
-      "an_dt": "02-Mar-2026 13:20:50",
-      "desc": "Updates",
-      "sm_name": "Diffusion Engineers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIFFUSION_02032026131951_PlantvisitPreintimation02032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 13:18:16",
-      "an_dt": "02-Mar-2026 13:18:16",
-      "desc": "Updates",
-      "sm_name": "Diffusion Engineers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIFFUSION_02032026131650_ArihantPreintimation02032026.pdf"
     }
   ]
 }

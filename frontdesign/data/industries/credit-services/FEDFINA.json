@@ -8,17 +8,9 @@
   "price": 152.34,
   "market_cap_cr": 5702.43,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 128.76,
-      "prev_close": 130.87,
-      "volume": 821412,
-      "deliverable_qty": 372990,
-      "delivery_pct": 45.41
-    },
     {
       "date": "2026-03-04",
       "close": 126.02,
@@ -426,6 +418,14 @@
       "volume": 698872,
       "deliverable_qty": 325566,
       "delivery_pct": 46.58
+    },
+    {
+      "date": "2026-06-01",
+      "close": 156.65,
+      "prev_close": 161.69,
+      "volume": 1106167,
+      "deliverable_qty": 525944,
+      "delivery_pct": 47.55
     }
   ],
   "news": [
@@ -813,13 +813,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Fedbank Financial Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FEDFINA_03032026123552_Outcome_Issuance_of_NCD_03032026[WGEdits-02032026]_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 21:49:33",
-      "an_dt": "02-Mar-2026 21:49:33",
-      "desc": "Updates",
-      "sm_name": "Fedbank Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FEDFINA_02032026214307_waiverrejected_02032026_Signed.pdf"
     }
   ]
 }

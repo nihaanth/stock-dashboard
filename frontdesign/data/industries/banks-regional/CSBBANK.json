@@ -8,17 +8,9 @@
   "price": 352.45,
   "market_cap_cr": 5973.24,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 381.4,
-      "prev_close": 397.4,
-      "volume": 431080,
-      "deliverable_qty": 227407,
-      "delivery_pct": 52.75
-    },
     {
       "date": "2026-03-04",
       "close": 366.8,
@@ -426,6 +418,14 @@
       "volume": 420244,
       "deliverable_qty": 236086,
       "delivery_pct": 56.18
+    },
+    {
+      "date": "2026-06-01",
+      "close": 359.05,
+      "prev_close": 352.85,
+      "volume": 357639,
+      "deliverable_qty": 136864,
+      "delivery_pct": 38.27
     }
   ],
   "news": [
@@ -624,13 +624,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "CSB Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CSBBANK_09032026194351_BSENSEIntimationTransferofShares09032026f.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 17:00:49",
-      "an_dt": "02-Mar-2026 17:00:49",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "CSB Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CSBBANK_02032026165918_IntimationofAnalystMeet02032026f.pdf"
     }
   ]
 }

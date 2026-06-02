@@ -8,17 +8,9 @@
   "price": 2628.9,
   "market_cap_cr": 36978.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 2654.1,
-      "prev_close": 2661.7,
-      "volume": 82913,
-      "deliverable_qty": 47169,
-      "delivery_pct": 56.89
-    },
     {
       "date": "2026-03-04",
       "close": 2505.0,
@@ -426,9 +418,24 @@
       "volume": 60006,
       "deliverable_qty": 33116,
       "delivery_pct": 55.19
+    },
+    {
+      "date": "2026-06-01",
+      "close": 2732.2,
+      "prev_close": 2722.6,
+      "volume": 134537,
+      "deliverable_qty": 64138,
+      "delivery_pct": 47.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 18:06:48",
+      "an_dt": "01-Jun-2026 18:06:48",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Endurance Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENDURANCE_01062026180031_2026_06_01-_Intimation_of_meeting__3_to_5_June_2026.pdf"
+    },
     {
       "sort_date": "2026-05-26 19:07:03",
       "an_dt": "26-May-2026 19:07:03",

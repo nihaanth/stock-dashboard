@@ -8,17 +8,9 @@
   "price": 347.4,
   "market_cap_cr": 6303.69,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 315.35,
-      "prev_close": 324.35,
-      "volume": 141141,
-      "deliverable_qty": 73024,
-      "delivery_pct": 51.74
-    },
     {
       "date": "2026-03-04",
       "close": 306.0,
@@ -426,6 +418,14 @@
       "volume": 133824,
       "deliverable_qty": 81288,
       "delivery_pct": 60.74
+    },
+    {
+      "date": "2026-06-01",
+      "close": 304.5,
+      "prev_close": 308.95,
+      "volume": 119932,
+      "deliverable_qty": 69217,
+      "delivery_pct": 57.71
     }
   ],
   "news": [
@@ -596,20 +596,6 @@
       "desc": "Credit Rating",
       "sm_name": "MAS Financial Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASFIN_11032026193826_Final.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 17:41:42",
-      "an_dt": "02-Mar-2026 17:41:42",
-      "desc": "Shareholders meeting",
-      "sm_name": "MAS Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASFIN_02032026174117_Covering_with_Scrutiniser_Report.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 15:53:44",
-      "an_dt": "02-Mar-2026 15:53:44",
-      "desc": "Granting/withdrawal/surrender/cancellation/suspension of key licenses/ regulatory approvals",
-      "sm_name": "MAS Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASFIN_02032026155255_MFSLSECEQ2026_20_Factoring_license.pdf"
     }
   ]
 }

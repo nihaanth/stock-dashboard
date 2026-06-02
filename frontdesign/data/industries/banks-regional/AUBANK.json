@@ -8,17 +8,9 @@
   "price": 1021.4,
   "market_cap_cr": 76437.37,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 951.25,
-      "prev_close": 958.35,
-      "volume": 2534464,
-      "deliverable_qty": 1197912,
-      "delivery_pct": 47.26
-    },
     {
       "date": "2026-03-04",
       "close": 946.1,
@@ -426,6 +418,14 @@
       "volume": 846441,
       "deliverable_qty": 463294,
       "delivery_pct": 54.73
+    },
+    {
+      "date": "2026-06-01",
+      "close": 969.15,
+      "prev_close": 984.7,
+      "volume": 1546836,
+      "deliverable_qty": 831683,
+      "delivery_pct": 53.77
     }
   ],
   "news": [
@@ -666,20 +666,6 @@
       "desc": "General Updates",
       "sm_name": "AU Small Finance Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUMIT1_07032026170504_20260307_SE_UB_NOFHC_Update.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 18:51:20",
-      "an_dt": "02-Mar-2026 18:51:20",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "AU Small Finance Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AUBANK_02032026184841_ESOPAllotmentIntimation.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 17:43:52",
-      "an_dt": "02-Mar-2026 17:43:52",
-      "desc": "Shareholders meeting",
-      "sm_name": "AU Small Finance Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AUBANK_02032026174205_PB_Scrutinzers_Report_and_Voting_results.pdf"
     }
   ]
 }

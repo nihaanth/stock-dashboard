@@ -8,17 +8,9 @@
   "price": 132.81,
   "market_cap_cr": 1105.65,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 190.97,
-      "prev_close": 192.19,
-      "volume": 4435226,
-      "deliverable_qty": 829244,
-      "delivery_pct": 18.7
-    },
     {
       "date": "2026-03-04",
       "close": 183.34,
@@ -426,9 +418,24 @@
       "volume": 626322,
       "deliverable_qty": 214877,
       "delivery_pct": 34.31
+    },
+    {
+      "date": "2026-06-01",
+      "close": 126.72,
+      "prev_close": 127.74,
+      "volume": 151438,
+      "deliverable_qty": 72713,
+      "delivery_pct": 48.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 17:28:26",
+      "an_dt": "01-Jun-2026 17:28:26",
+      "desc": "General Updates",
+      "sm_name": "Fino Payments Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINOPB_01062026172803_Cover_Ezee_partnership.pdf"
+    },
     {
       "sort_date": "2026-05-26 16:15:53",
       "an_dt": "26-May-2026 16:15:53",
@@ -785,20 +792,6 @@
       "desc": "Updates",
       "sm_name": "Fino Payments Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINOPB_04032026073141_Cover_clarification.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 11:54:48",
-      "an_dt": "02-Mar-2026 11:54:48",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Fino Payments Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINOPB_02032026115055_Cover_Letter_Audio_Link.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 05:02:42",
-      "an_dt": "02-Mar-2026 05:02:42",
-      "desc": "General Updates",
-      "sm_name": "Fino Payments Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINOPB_02032026050231_Clarification_New.pdf"
     }
   ]
 }

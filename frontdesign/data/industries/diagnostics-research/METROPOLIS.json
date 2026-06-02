@@ -8,17 +8,9 @@
   "price": 462.35,
   "market_cap_cr": 9585.8,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 1858.8,
-      "prev_close": 1903.8,
-      "volume": 23080,
-      "deliverable_qty": 12469,
-      "delivery_pct": 54.03
-    },
     {
       "date": "2026-03-04",
       "close": 1846.3,
@@ -426,6 +418,14 @@
       "volume": 139350,
       "deliverable_qty": 78460,
       "delivery_pct": 56.3
+    },
+    {
+      "date": "2026-06-01",
+      "close": 540.85,
+      "prev_close": 555.35,
+      "volume": 149892,
+      "deliverable_qty": 70522,
+      "delivery_pct": 47.05
     }
   ],
   "news": [
@@ -603,13 +603,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Metropolis Healthcare Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/METROPOLIS_09032026153932_SE_Scrutinizer_Report_Signed_SG_MHL.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 13:05:28",
-      "an_dt": "02-Mar-2026 13:05:28",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Metropolis Healthcare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/METROPOLIS_02032026130352_SE_Investor_Meet_March_10_2026.pdf"
     }
   ]
 }

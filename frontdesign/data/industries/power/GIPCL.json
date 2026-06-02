@@ -8,17 +8,9 @@
   "price": 152.0,
   "market_cap_cr": 2359.28,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 136.65,
-      "prev_close": 141.22,
-      "volume": 254880,
-      "deliverable_qty": 152724,
-      "delivery_pct": 59.92
-    },
     {
       "date": "2026-03-04",
       "close": 133.69,
@@ -426,9 +418,24 @@
       "volume": 196484,
       "deliverable_qty": 97614,
       "delivery_pct": 49.68
+    },
+    {
+      "date": "2026-06-01",
+      "close": 162.46,
+      "prev_close": 165.17,
+      "volume": 1443623,
+      "deliverable_qty": 696197,
+      "delivery_pct": 48.23
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 10:50:50",
+      "an_dt": "01-Jun-2026 10:50:50",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Gujarat Industries Power Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Gipcl7868_01062026105034_SE_NewspaperCompliance_01062026.pdf"
+    },
     {
       "sort_date": "2026-05-30 15:48:42",
       "an_dt": "30-May-2026 15:48:42",

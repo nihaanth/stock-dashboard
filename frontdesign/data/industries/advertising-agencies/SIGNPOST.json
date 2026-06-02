@@ -8,17 +8,9 @@
   "price": 297.95,
   "market_cap_cr": 1592.54,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 248.4,
-      "prev_close": 251.91,
-      "volume": 117753,
-      "deliverable_qty": 64745,
-      "delivery_pct": 54.98
-    },
     {
       "date": "2026-03-04",
       "close": 236.75,
@@ -426,9 +418,31 @@
       "volume": 58291,
       "deliverable_qty": 38713,
       "delivery_pct": 66.41
+    },
+    {
+      "date": "2026-06-01",
+      "close": 273.0,
+      "prev_close": 296.55,
+      "volume": 410957,
+      "deliverable_qty": 210552,
+      "delivery_pct": 51.23
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 18:23:03",
+      "an_dt": "01-Jun-2026 18:23:03",
+      "desc": "Press Release",
+      "sm_name": "Signpost India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SIGNPOST_01062026182254_SIL_SE_Press_Release_01062026_signed.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 18:08:48",
+      "an_dt": "01-Jun-2026 18:08:48",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Signpost India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SIGNPOST_01062026180503_SIL_SE_FR_Publication_signed.pdf"
+    },
     {
       "sort_date": "2026-05-30 20:19:53",
       "an_dt": "30-May-2026 20:19:53",

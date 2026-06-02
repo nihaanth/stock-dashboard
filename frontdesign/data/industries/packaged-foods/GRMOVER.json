@@ -8,17 +8,9 @@
   "price": 167.33,
   "market_cap_cr": 3472.5,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 158.96,
-      "prev_close": 160.67,
-      "volume": 1199356,
-      "deliverable_qty": 256653,
-      "delivery_pct": 21.4
-    },
     {
       "date": "2026-03-04",
       "close": 158.31,
@@ -426,9 +418,24 @@
       "volume": 5201615,
       "deliverable_qty": 1762543,
       "delivery_pct": 33.88
+    },
+    {
+      "date": "2026-06-01",
+      "close": 154.38,
+      "prev_close": 160.03,
+      "volume": 3469883,
+      "deliverable_qty": 567329,
+      "delivery_pct": 16.35
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 12:58:46",
+      "an_dt": "01-Jun-2026 12:58:46",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "GRM Overseas Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRMOVER_01062026125833_Newspaper_signed.pdf"
+    },
     {
       "sort_date": "2026-05-30 20:08:04",
       "an_dt": "30-May-2026 20:08:04",

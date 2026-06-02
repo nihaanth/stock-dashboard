@@ -8,17 +8,9 @@
   "price": 1634.6,
   "market_cap_cr": 2482.38,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 1113.4,
-      "prev_close": 1144.9,
-      "volume": 11444,
-      "deliverable_qty": 6628,
-      "delivery_pct": 57.92
-    },
     {
       "date": "2026-03-04",
       "close": 1129.3,
@@ -426,9 +418,24 @@
       "volume": 334378,
       "deliverable_qty": 85820,
       "delivery_pct": 25.67
+    },
+    {
+      "date": "2026-06-01",
+      "close": 2270.1,
+      "prev_close": 2258.2,
+      "volume": 98347,
+      "deliverable_qty": 25815,
+      "delivery_pct": 26.25
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 23:21:05",
+      "an_dt": "01-Jun-2026 23:21:05",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Sasken Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SASKEN_01062026232049_Ltr_to_SE_Investor_meeting_1_June_2026.pdf"
+    },
     {
       "sort_date": "2026-05-28 23:27:45",
       "an_dt": "28-May-2026 23:27:45",
@@ -638,13 +645,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Sasken Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SASKEN_05032026195717_Ltr_to_SE_Arihant_5Mar2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 22:16:55",
-      "an_dt": "02-Mar-2026 22:16:55",
-      "desc": "Action(s) taken or orders passed",
-      "sm_name": "Sasken Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SASKEN_02032026221634_Ltr_SE_Updates_SE_Mar_2_2026.pdf"
     }
   ]
 }

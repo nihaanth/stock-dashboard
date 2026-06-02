@@ -8,17 +8,9 @@
   "price": 232.47,
   "market_cap_cr": 8742.81,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 214.02,
-      "prev_close": 237.8,
-      "volume": 14503872,
-      "deliverable_qty": 4937952,
-      "delivery_pct": 34.05
-    },
     {
       "date": "2026-03-04",
       "close": 212.04,
@@ -426,9 +418,38 @@
       "volume": 44512706,
       "deliverable_qty": 5336718,
       "delivery_pct": 11.99
+    },
+    {
+      "date": "2026-06-01",
+      "close": 404.15,
+      "prev_close": 409.0,
+      "volume": 31964502,
+      "deliverable_qty": 3825550,
+      "delivery_pct": 11.97
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 14:13:23",
+      "an_dt": "01-Jun-2026 14:13:23",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Apollo Micro Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APOLLO_ROID_89403_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-06-01 14:06:21",
+      "an_dt": "01-Jun-2026 14:06:21",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Apollo Micro Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APOLLO_ROID_89400_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-06-01 13:51:01",
+      "an_dt": "01-Jun-2026 13:51:01",
+      "desc": "Change in Company Secretary/Compliance Officer",
+      "sm_name": "Apollo Micro Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APOLLO_01062026135027_AMS_intimation_of_resignation_and_appointment_of_Company_Secretary.pdf"
+    },
     {
       "sort_date": "2026-05-29 11:27:03",
       "an_dt": "29-May-2026 11:27:03",

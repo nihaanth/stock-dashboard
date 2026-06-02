@@ -8,17 +8,9 @@
   "price": 823.95,
   "market_cap_cr": 965.43,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 692.1,
-      "prev_close": 708.5,
-      "volume": 21955,
-      "deliverable_qty": 9720,
-      "delivery_pct": 44.27
-    },
     {
       "date": "2026-03-04",
       "close": 667.65,
@@ -426,9 +418,24 @@
       "volume": 63097,
       "deliverable_qty": 20670,
       "delivery_pct": 32.76
+    },
+    {
+      "date": "2026-06-01",
+      "close": 784.0,
+      "prev_close": 783.2,
+      "volume": 11641,
+      "deliverable_qty": 6144,
+      "delivery_pct": 52.78
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 17:50:36",
+      "an_dt": "01-Jun-2026 17:50:36",
+      "desc": "Investor Presentation",
+      "sm_name": "Suyog Telematics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUYOG_01062026175012_InvestorPresentationSTLQ4.pdf"
+    },
     {
       "sort_date": "2026-05-28 14:33:08",
       "an_dt": "28-May-2026 14:33:08",

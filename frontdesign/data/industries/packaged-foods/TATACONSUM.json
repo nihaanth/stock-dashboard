@@ -8,17 +8,9 @@
   "price": 1090.3,
   "market_cap_cr": 107906.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 1125.2,
-      "prev_close": 1141.0,
-      "volume": 1368110,
-      "deliverable_qty": 619385,
-      "delivery_pct": 45.27
-    },
     {
       "date": "2026-03-04",
       "close": 1110.6,
@@ -426,9 +418,24 @@
       "volume": 1608027,
       "deliverable_qty": 977438,
       "delivery_pct": 60.78
+    },
+    {
+      "date": "2026-06-01",
+      "close": 1143.3,
+      "prev_close": 1178.4,
+      "volume": 2075188,
+      "deliverable_qty": 1394820,
+      "delivery_pct": 67.21
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 20:23:30",
+      "an_dt": "01-Jun-2026 20:23:30",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "TATA CONSUMER PRODUCTS LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Sukhvinder_01062026202211_SE_ESOP_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-21 11:37:29",
       "an_dt": "21-May-2026 11:37:29",

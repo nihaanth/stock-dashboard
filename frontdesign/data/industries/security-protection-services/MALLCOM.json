@@ -8,17 +8,9 @@
   "price": 1090.0,
   "market_cap_cr": 680.16,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 1129.6,
-      "prev_close": 1157.6,
-      "volume": 3089,
-      "deliverable_qty": 2224,
-      "delivery_pct": 72.0
-    },
     {
       "date": "2026-03-04",
       "close": 1079.7,
@@ -426,9 +418,24 @@
       "volume": 3561,
       "deliverable_qty": 2488,
       "delivery_pct": 69.87
+    },
+    {
+      "date": "2026-06-01",
+      "close": 959.8,
+      "prev_close": 955.1,
+      "volume": 5743,
+      "deliverable_qty": 4283,
+      "delivery_pct": 74.58
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 16:07:39",
+      "an_dt": "01-Jun-2026 16:07:39",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Mallcom (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MALLCOM_01062026160707_Q4ECCT.pdf"
+    },
     {
       "sort_date": "2026-05-29 18:50:30",
       "an_dt": "29-May-2026 18:50:30",

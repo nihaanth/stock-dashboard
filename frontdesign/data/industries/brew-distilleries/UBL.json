@@ -8,17 +8,9 @@
   "price": 1412.2,
   "market_cap_cr": 37339.29,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 1589.9,
-      "prev_close": 1605.0,
-      "volume": 40176,
-      "deliverable_qty": 19973,
-      "delivery_pct": 49.71
-    },
     {
       "date": "2026-03-04",
       "close": 1629.8,
@@ -426,9 +418,24 @@
       "volume": 137002,
       "deliverable_qty": 73299,
       "delivery_pct": 53.5
+    },
+    {
+      "date": "2026-06-01",
+      "close": 1286.0,
+      "prev_close": 1320.0,
+      "volume": 166261,
+      "deliverable_qty": 85091,
+      "delivery_pct": 51.18
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 13:08:15",
+      "an_dt": "01-Jun-2026 13:08:15",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "United Breweries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UBLSJR_01062026130753_IntimationLossofShareCertificate.pdf"
+    },
     {
       "sort_date": "2026-05-25 13:39:25",
       "an_dt": "25-May-2026 13:39:25",

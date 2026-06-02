@@ -8,17 +8,9 @@
   "price": 957.8,
   "market_cap_cr": 4411.01,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 766.0,
-      "prev_close": 764.9,
-      "volume": 202315,
-      "deliverable_qty": 88593,
-      "delivery_pct": 43.79
-    },
     {
       "date": "2026-03-04",
       "close": 747.25,
@@ -426,6 +418,14 @@
       "volume": 225197,
       "deliverable_qty": 110001,
       "delivery_pct": 48.85
+    },
+    {
+      "date": "2026-06-01",
+      "close": 1067.8,
+      "prev_close": 1120.65,
+      "volume": 864313,
+      "deliverable_qty": 379502,
+      "delivery_pct": 43.91
     }
   ],
   "news": [
@@ -617,20 +617,6 @@
       "desc": "Giving guarantees/indemnity/ becoming a surety for third party",
       "sm_name": "Senores Pharmaceuticals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SENORES_03032026150010_Intimationregardingcorporateguaranteehavixsigned.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 15:26:01",
-      "an_dt": "02-Mar-2026 15:26:01",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Senores Pharmaceuticals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SENORES_02032026152550_Intimationforinvestormeet09032026signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 15:21:03",
-      "an_dt": "02-Mar-2026 15:21:03",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Senores Pharmaceuticals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SENORES_02032026152040_Intimationforinvestormeet06032026signed.pdf"
     }
   ]
 }

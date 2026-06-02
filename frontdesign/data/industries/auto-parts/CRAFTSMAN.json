@@ -8,17 +8,9 @@
   "price": 8806.0,
   "market_cap_cr": 21007.23,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 7667.5,
-      "prev_close": 7526.0,
-      "volume": 67491,
-      "deliverable_qty": 31568,
-      "delivery_pct": 46.77
-    },
     {
       "date": "2026-03-04",
       "close": 7421.5,
@@ -426,9 +418,24 @@
       "volume": 31339,
       "deliverable_qty": 13714,
       "delivery_pct": 43.76
+    },
+    {
+      "date": "2026-06-01",
+      "close": 8771.5,
+      "prev_close": 9074.0,
+      "volume": 205545,
+      "deliverable_qty": 34841,
+      "delivery_pct": 16.95
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 16:59:25",
+      "an_dt": "01-Jun-2026 16:59:25",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Craftsman Automation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRAFTSMAN_01062026165914_CALAnalystsCallmeetingsOutcome01062026signed.pdf"
+    },
     {
       "sort_date": "2026-05-28 20:57:11",
       "an_dt": "28-May-2026 20:57:11",

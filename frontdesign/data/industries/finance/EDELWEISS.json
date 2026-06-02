@@ -8,17 +8,9 @@
   "price": 115.51,
   "market_cap_cr": 10941.82,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 112.59,
-      "prev_close": 114.42,
-      "volume": 6409570,
-      "deliverable_qty": 2844626,
-      "delivery_pct": 44.38
-    },
     {
       "date": "2026-03-04",
       "close": 107.79,
@@ -426,9 +418,24 @@
       "volume": 1555593,
       "deliverable_qty": 768876,
       "delivery_pct": 49.43
+    },
+    {
+      "date": "2026-06-01",
+      "close": 111.15,
+      "prev_close": 112.82,
+      "volume": 3879139,
+      "deliverable_qty": 1820251,
+      "delivery_pct": 46.92
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 21:06:08",
+      "an_dt": "01-Jun-2026 21:06:08",
+      "desc": "Updates",
+      "sm_name": "Edelweiss Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EDELWEISS_01062026210552_ExchangeIntimation.pdf"
+    },
     {
       "sort_date": "2026-05-28 19:02:27",
       "an_dt": "28-May-2026 19:02:27",
@@ -582,13 +589,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Edelweiss Financial Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EDELWEISS_05032026164302_EFSLPostalBallot.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 12:01:53",
-      "an_dt": "02-Mar-2026 12:01:53",
-      "desc": "Press Release",
-      "sm_name": "Edelweiss Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EDELWEISS_02032026120139_EFSL.pdf"
     }
   ]
 }

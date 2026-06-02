@@ -8,17 +8,9 @@
   "price": 1622.4,
   "market_cap_cr": 12188.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 1759.2,
-      "prev_close": 1817.7,
-      "volume": 76080,
-      "deliverable_qty": 49149,
-      "delivery_pct": 64.6
-    },
     {
       "date": "2026-03-04",
       "close": 1672.5,
@@ -426,9 +418,38 @@
       "volume": 27406,
       "deliverable_qty": 18752,
       "delivery_pct": 68.42
+    },
+    {
+      "date": "2026-06-01",
+      "close": 1811.4,
+      "prev_close": 1766.0,
+      "volume": 1242951,
+      "deliverable_qty": 313040,
+      "delivery_pct": 25.19
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 23:12:56",
+      "an_dt": "01-Jun-2026 23:12:56",
+      "desc": "Investor Presentation",
+      "sm_name": "Tega Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TEGA_01062026231245_Investor_Presentation_Q4_Complete_sd.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 22:55:06",
+      "an_dt": "01-Jun-2026 22:55:06",
+      "desc": "Press Release",
+      "sm_name": "Tega Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TEGA_01062026225456_Press_Release_Closing_sd.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 22:52:58",
+      "an_dt": "01-Jun-2026 22:52:58",
+      "desc": "General Updates",
+      "sm_name": "Tega Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TEGA_01062026225246_Intimation_Reg_30_Closing_sd.pdf"
+    },
     {
       "sort_date": "2026-05-30 12:09:07",
       "an_dt": "30-May-2026 12:09:07",

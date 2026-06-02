@@ -8,17 +8,9 @@
   "price": 175.24,
   "market_cap_cr": 920.41,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 149.53,
-      "prev_close": 152.62,
-      "volume": 40582,
-      "deliverable_qty": 23950,
-      "delivery_pct": 59.02
-    },
     {
       "date": "2026-03-04",
       "close": 148.86,
@@ -426,6 +418,14 @@
       "volume": 775044,
       "deliverable_qty": 123321,
       "delivery_pct": 15.91
+    },
+    {
+      "date": "2026-06-01",
+      "close": 169.47,
+      "prev_close": 160.16,
+      "volume": 211473,
+      "deliverable_qty": 38883,
+      "delivery_pct": 18.39
     }
   ],
   "news": [
@@ -596,13 +596,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Max India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAXIND_18032026115457_StockExchangeIntimation23rdMarch26.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 16:54:22",
-      "an_dt": "02-Mar-2026 16:54:22",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Max India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAXIND_02032026165412_Investorcallintimation11032026.pdf"
     }
   ]
 }

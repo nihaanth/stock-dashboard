@@ -8,17 +8,9 @@
   "price": 626.1,
   "market_cap_cr": 2871.73,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 516.2,
-      "prev_close": 546.95,
-      "volume": 56962,
-      "deliverable_qty": 30866,
-      "delivery_pct": 54.19
-    },
     {
       "date": "2026-03-04",
       "close": 509.3,
@@ -426,9 +418,31 @@
       "volume": 24716,
       "deliverable_qty": 12676,
       "delivery_pct": 51.29
+    },
+    {
+      "date": "2026-06-01",
+      "close": 575.9,
+      "prev_close": 594.1,
+      "volume": 76422,
+      "deliverable_qty": 31172,
+      "delivery_pct": 40.79
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 18:03:53",
+      "an_dt": "01-Jun-2026 18:03:53",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Arvind SmartSpaces Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARVSMART_ROID_89438_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-06-01 18:01:58",
+      "an_dt": "01-Jun-2026 18:01:58",
+      "desc": "Change in Management",
+      "sm_name": "Arvind SmartSpaces Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_01062026180144_ASLCBOResignationManoj.pdf"
+    },
     {
       "sort_date": "2026-05-29 12:06:02",
       "an_dt": "29-May-2026 12:06:02",

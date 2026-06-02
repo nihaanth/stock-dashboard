@@ -8,17 +8,9 @@
   "price": 229.0,
   "market_cap_cr": 957.0,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 286.85,
-      "prev_close": 300.65,
-      "volume": 406421,
-      "deliverable_qty": 171032,
-      "delivery_pct": 42.08
-    },
     {
       "date": "2026-03-04",
       "close": 270.35,
@@ -426,9 +418,31 @@
       "volume": 386944,
       "deliverable_qty": 182347,
       "delivery_pct": 47.12
+    },
+    {
+      "date": "2026-06-01",
+      "close": 258.05,
+      "prev_close": 262.65,
+      "volume": 541569,
+      "deliverable_qty": 196807,
+      "delivery_pct": 36.34
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 19:16:29",
+      "an_dt": "01-Jun-2026 19:16:29",
+      "desc": "Amendment to AOA/MOA",
+      "sm_name": "Genesys International Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GENESYS_01062026191608_MOAAmendment.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 19:15:01",
+      "an_dt": "01-Jun-2026 19:15:01",
+      "desc": "Shareholders meeting",
+      "sm_name": "Genesys International Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GENESYS_01062026191450_Postal_Ballot_Results.pdf"
+    },
     {
       "sort_date": "2026-05-31 22:02:50",
       "an_dt": "31-May-2026 22:02:50",

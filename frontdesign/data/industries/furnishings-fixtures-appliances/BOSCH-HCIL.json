@@ -8,17 +8,9 @@
   "price": 1466.1,
   "market_cap_cr": 3986.46,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 1367.5,
-      "prev_close": 1408.7,
-      "volume": 16280,
-      "deliverable_qty": 10257,
-      "delivery_pct": 63.0
-    },
     {
       "date": "2026-03-04",
       "close": 1335.3,
@@ -426,6 +418,14 @@
       "volume": 16386,
       "deliverable_qty": 7952,
       "delivery_pct": 48.53
+    },
+    {
+      "date": "2026-06-01",
+      "close": 1400.4,
+      "prev_close": 1396.2,
+      "volume": 15027,
+      "deliverable_qty": 9670,
+      "delivery_pct": 64.35
     }
   ],
   "news": [
@@ -470,13 +470,6 @@
       "desc": "Disruption of Operations",
       "sm_name": "BOSCH HOME COMFORT INDIA LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JCHAC_10032026163022_20260310IntimationReg30.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 16:00:25",
-      "an_dt": "02-Mar-2026 16:00:25",
-      "desc": "Updates",
-      "sm_name": "BOSCH HOME COMFORT INDIA LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JCHAC_02032026155950_20250302Intimation.pdf"
     }
   ]
 }

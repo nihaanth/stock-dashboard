@@ -8,17 +8,9 @@
   "price": 833.25,
   "market_cap_cr": 17508.95,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 846.95,
-      "prev_close": 873.15,
-      "volume": 71612,
-      "deliverable_qty": 36189,
-      "delivery_pct": 50.53
-    },
     {
       "date": "2026-03-04",
       "close": 835.9,
@@ -426,9 +418,24 @@
       "volume": 37880,
       "deliverable_qty": 18794,
       "delivery_pct": 49.61
+    },
+    {
+      "date": "2026-06-01",
+      "close": 839.05,
+      "prev_close": 860.45,
+      "volume": 59753,
+      "deliverable_qty": 29825,
+      "delivery_pct": 49.91
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 12:20:49",
+      "an_dt": "01-Jun-2026 12:20:49",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Sundram Fasteners Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNDRMFAST_01062026122040_SELetterPaperAdv01062026.pdf"
+    },
     {
       "sort_date": "2026-05-29 15:08:43",
       "an_dt": "29-May-2026 15:08:43",
@@ -624,13 +631,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Sundram Fasteners Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNDRMFAST_13032026155805_SFLSEIEPFLetter13032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 16:49:17",
-      "an_dt": "02-Mar-2026 16:49:17",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Sundram Fasteners Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNDRMFAST_02032026164859_SELetterPaperAdv02032026.pdf"
     }
   ]
 }

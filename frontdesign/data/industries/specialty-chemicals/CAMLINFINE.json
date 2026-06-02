@@ -8,17 +8,9 @@
   "price": 126.45,
   "market_cap_cr": 2429.0,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 144.14,
-      "prev_close": 147.9,
-      "volume": 396299,
-      "deliverable_qty": 171302,
-      "delivery_pct": 43.23
-    },
     {
       "date": "2026-03-04",
       "close": 139.17,
@@ -426,6 +418,14 @@
       "volume": 4900754,
       "deliverable_qty": 1573983,
       "delivery_pct": 32.12
+    },
+    {
+      "date": "2026-06-01",
+      "close": 117.56,
+      "prev_close": 122.05,
+      "volume": 1205336,
+      "deliverable_qty": 610516,
+      "delivery_pct": 50.65
     }
   ],
   "news": [
@@ -617,13 +617,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Camlin Fine Sciences Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAMLINFINE_04032026153008_Intimation_of_Schedule_of_Investor_Meet_10032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 13:03:13",
-      "an_dt": "02-Mar-2026 13:03:13",
-      "desc": "General Updates",
-      "sm_name": "Camlin Fine Sciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAMLINFINE_02032026130251_Un-audited_Financial_Results_CFS_31122025.pdf"
     }
   ]
 }

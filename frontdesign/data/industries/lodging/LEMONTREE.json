@@ -8,17 +8,9 @@
   "price": 112.3,
   "market_cap_cr": 8892.45,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 113.97,
-      "prev_close": 113.67,
-      "volume": 4077749,
-      "deliverable_qty": 1908832,
-      "delivery_pct": 46.81
-    },
     {
       "date": "2026-03-04",
       "close": 111.48,
@@ -426,9 +418,24 @@
       "volume": 2049788,
       "deliverable_qty": 1152792,
       "delivery_pct": 56.24
+    },
+    {
+      "date": "2026-06-01",
+      "close": 112.15,
+      "prev_close": 113.95,
+      "volume": 2373270,
+      "deliverable_qty": 1134440,
+      "delivery_pct": 47.8
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 21:07:37",
+      "an_dt": "01-Jun-2026 21:07:37",
+      "desc": "Updates",
+      "sm_name": "Lemon Tree Hotels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LEMONTREE_01062026210647_Stock_Exchange_Intimation_Termination.pdf"
+    },
     {
       "sort_date": "2026-05-29 23:06:45",
       "an_dt": "29-May-2026 23:06:45",

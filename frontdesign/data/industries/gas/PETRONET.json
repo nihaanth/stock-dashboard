@@ -8,17 +8,9 @@
   "price": 275.75,
   "market_cap_cr": 41362.5,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 308.65,
-      "prev_close": 323.4,
-      "volume": 4585224,
-      "deliverable_qty": 2184628,
-      "delivery_pct": 47.64
-    },
     {
       "date": "2026-03-04",
       "close": 280.0,
@@ -426,9 +418,24 @@
       "volume": 1198057,
       "deliverable_qty": 493270,
       "delivery_pct": 41.17
+    },
+    {
+      "date": "2026-06-01",
+      "close": 270.45,
+      "prev_close": 271.05,
+      "volume": 7812225,
+      "deliverable_qty": 3205444,
+      "delivery_pct": 41.03
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 11:59:43",
+      "an_dt": "01-Jun-2026 11:59:43",
+      "desc": "Record Date",
+      "sm_name": "Petronet LNG Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PETRONET_01062026115849_intimationrecorddate1062026.pdf"
+    },
     {
       "sort_date": "2026-05-28 18:15:51",
       "an_dt": "28-May-2026 18:15:51",
@@ -631,20 +638,6 @@
       "desc": "Press Release",
       "sm_name": "Petronet LNG Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PETRONET_03032026152322_SEpostdespatchnotice.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 15:36:46",
-      "an_dt": "02-Mar-2026 15:36:46",
-      "desc": "Shareholders meeting",
-      "sm_name": "Petronet LNG Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PETRONET_02032026153620_IntimationtoStockExchangePostalBallotNoticesi23.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 10:48:59",
-      "an_dt": "02-Mar-2026 10:48:59",
-      "desc": "Change in Director(s)",
-      "sm_name": "Petronet LNG Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PETRONET_02032026104840_SEintimationchangeindirectorsi23.pdf"
     }
   ]
 }

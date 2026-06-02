@@ -8,17 +8,9 @@
   "price": 60.3,
   "market_cap_cr": 11721.69,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 57.28,
-      "prev_close": 58.06,
-      "volume": 20028709,
-      "deliverable_qty": 10600140,
-      "delivery_pct": 52.92
-    },
     {
       "date": "2026-03-04",
       "close": 54.26,
@@ -426,6 +418,14 @@
       "volume": 5274663,
       "deliverable_qty": 2136813,
       "delivery_pct": 40.51
+    },
+    {
+      "date": "2026-06-01",
+      "close": 53.87,
+      "prev_close": 54.39,
+      "volume": 9839852,
+      "deliverable_qty": 4486319,
+      "delivery_pct": 45.59
     }
   ],
   "news": [
@@ -680,13 +680,6 @@
       "desc": "Allotment of Securities",
       "sm_name": "Ujjivan Small Finance Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/UJJIVANBANK_05032026180843_138_ESOP_Allotment_05032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 13:03:58",
-      "an_dt": "02-Mar-2026 13:03:58",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Ujjivan Small Finance Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UJJIVANBANK_02032026130344_137_Intimation_Investor_Meet_02032026.pdf"
     }
   ]
 }

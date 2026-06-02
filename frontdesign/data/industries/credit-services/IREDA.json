@@ -8,17 +8,9 @@
   "price": 130.68,
   "market_cap_cr": 36711.03,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 115.93,
-      "prev_close": 122.25,
-      "volume": 12595759,
-      "deliverable_qty": 4742355,
-      "delivery_pct": 37.65
-    },
     {
       "date": "2026-03-04",
       "close": 113.52,
@@ -426,6 +418,14 @@
       "volume": 5122289,
       "deliverable_qty": 1586320,
       "delivery_pct": 30.97
+    },
+    {
+      "date": "2026-06-01",
+      "close": 126.27,
+      "prev_close": 133.25,
+      "volume": 22746116,
+      "deliverable_qty": 6375489,
+      "delivery_pct": 28.03
     }
   ],
   "news": [
@@ -561,13 +561,6 @@
       "desc": "Change in Director(s)",
       "sm_name": "Indian Renewable Energy Development Agency Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IREDAEQ_06032026151910_SignedintimationIDS.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 16:06:09",
-      "an_dt": "02-Mar-2026 16:06:09",
-      "desc": "Change in Management",
-      "sm_name": "Indian Renewable Energy Development Agency Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IREDAEQ_02032026160601_SignedPostIntimationBMSMKMP.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 243.05,
   "market_cap_cr": 4846.84,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 242.65,
-      "prev_close": 251.7,
-      "volume": 646361,
-      "deliverable_qty": 293850,
-      "delivery_pct": 45.46
-    },
     {
       "date": "2026-03-04",
       "close": 232.55,
@@ -426,9 +418,31 @@
       "volume": 441214,
       "deliverable_qty": 351510,
       "delivery_pct": 79.67
+    },
+    {
+      "date": "2026-06-01",
+      "close": 249.33,
+      "prev_close": 245.8,
+      "volume": 625079,
+      "deliverable_qty": 290354,
+      "delivery_pct": 46.45
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 12:53:27",
+      "an_dt": "01-Jun-2026 12:53:27",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Canara Robeco Asset Management Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRAMC_ROID_89396_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-06-01 12:37:49",
+      "an_dt": "01-Jun-2026 12:37:49",
+      "desc": "Change in Management",
+      "sm_name": "Canara Robeco Asset Management Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CRAMC_01062026123734_ChangeinSMPIntimationunderReg30signed.pdf"
+    },
     {
       "sort_date": "2026-05-24 13:50:47",
       "an_dt": "24-May-2026 13:50:47",

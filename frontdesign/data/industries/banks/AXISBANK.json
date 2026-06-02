@@ -8,17 +8,9 @@
   "price": 1272.3,
   "market_cap_cr": 395553.59,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 1372.3,
-      "prev_close": 1383.9,
-      "volume": 5132511,
-      "deliverable_qty": 2236138,
-      "delivery_pct": 43.57
-    },
     {
       "date": "2026-03-04",
       "close": 1351.3,
@@ -426,9 +418,31 @@
       "volume": 7243174,
       "deliverable_qty": 4151013,
       "delivery_pct": 57.31
+    },
+    {
+      "date": "2026-06-01",
+      "close": 1275.9,
+      "prev_close": 1286.6,
+      "volume": 4311076,
+      "deliverable_qty": 2762419,
+      "delivery_pct": 64.08
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 21:56:09",
+      "an_dt": "01-Jun-2026 21:56:09",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Axis Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK1_01062026215530_AnalystP01062026_signed.pdf"
+    },
+    {
+      "sort_date": "2026-06-01 14:54:33",
+      "an_dt": "01-Jun-2026 14:54:33",
+      "desc": "Updates",
+      "sm_name": "Axis Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK1_01062026144315_SE_Intimation-_UpdateF_1_signed.pdf"
+    },
     {
       "sort_date": "2026-05-27 21:14:51",
       "an_dt": "27-May-2026 21:14:51",
@@ -813,13 +827,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Axis Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK_03032026225136_Schedule_of_Investor_Analyst_Meet_03032026_Daiwa_Conference_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 16:18:55",
-      "an_dt": "02-Mar-2026 16:18:55",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Axis Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK_02032026161835_Schedule_of_Investor_Analyst_Meet_02032026_Daiwa_Conference_Signed.pdf"
     }
   ]
 }

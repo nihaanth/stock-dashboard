@@ -8,17 +8,9 @@
   "price": 351.25,
   "market_cap_cr": 10939.14,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 315.95,
-      "prev_close": 288.5,
-      "volume": 6399305,
-      "deliverable_qty": 1306856,
-      "delivery_pct": 20.42
-    },
     {
       "date": "2026-03-04",
       "close": 318.8,
@@ -426,9 +418,24 @@
       "volume": 737288,
       "deliverable_qty": 520520,
       "delivery_pct": 70.6
+    },
+    {
+      "date": "2026-06-01",
+      "close": 338.7,
+      "prev_close": 341.4,
+      "volume": 438546,
+      "deliverable_qty": 315318,
+      "delivery_pct": 71.9
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 18:04:12",
+      "an_dt": "01-Jun-2026 18:04:12",
+      "desc": "Shareholders meeting",
+      "sm_name": "IIFL Capital Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFLSEC_01062026180402_EGMoutcomesigned.pdf"
+    },
     {
       "sort_date": "2026-05-27 18:19:32",
       "an_dt": "27-May-2026 18:19:32",
@@ -715,27 +722,6 @@
       "desc": "Action(s) taken or orders passed",
       "sm_name": "IIFL Capital Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFLSEC_19032026170003_SEIntimationsigned.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 19:11:43",
-      "an_dt": "02-Mar-2026 19:11:43",
-      "desc": "Spurt in Volume",
-      "sm_name": "IIFL Capital Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFLSEC_02032026191038_SEIntimationResponse.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 18:28:22",
-      "an_dt": "02-Mar-2026 18:28:22",
-      "desc": "Spurt in Volume",
-      "sm_name": "IIFL Capital Services Limited",
-      "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-03-02 17:11:41",
-      "an_dt": "02-Mar-2026 17:11:41",
-      "desc": "Action(s) taken or orders passed",
-      "sm_name": "IIFL Capital Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFLSEC_02032026171051_SEIntimation.pdf"
     }
   ]
 }

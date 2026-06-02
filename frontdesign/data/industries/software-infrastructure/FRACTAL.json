@@ -8,17 +8,9 @@
   "price": 1059.8,
   "market_cap_cr": 18224.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 751.5,
-      "prev_close": 778.5,
-      "volume": 725782,
-      "deliverable_qty": 358503,
-      "delivery_pct": 49.4
-    },
     {
       "date": "2026-03-04",
       "close": 786.3,
@@ -426,9 +418,24 @@
       "volume": 860999,
       "deliverable_qty": 355824,
       "delivery_pct": 41.33
+    },
+    {
+      "date": "2026-06-01",
+      "close": 983.7,
+      "prev_close": 1002.4,
+      "volume": 1022771,
+      "deliverable_qty": 373289,
+      "delivery_pct": 36.5
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 19:27:28",
+      "an_dt": "01-Jun-2026 19:27:28",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Fractal Analytics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FRACTAL_01062026192703_Institutional_Investors_Meet.pdf"
+    },
     {
       "sort_date": "2026-05-29 22:44:27",
       "an_dt": "29-May-2026 22:44:27",
@@ -666,13 +673,6 @@
       "desc": "Updates",
       "sm_name": "Fractal Analytics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FRACTAL_04032026164432_SE_Intimation_CIN_Update.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 20:13:25",
-      "an_dt": "02-Mar-2026 20:13:25",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Fractal Analytics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FRACTAL_02032026201253_Intimation_Earnings_call.pdf"
     }
   ]
 }

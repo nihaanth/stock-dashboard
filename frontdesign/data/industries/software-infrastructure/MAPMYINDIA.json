@@ -8,17 +8,9 @@
   "price": 1077.0,
   "market_cap_cr": 5897.77,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 1010.0,
-      "prev_close": 1034.1,
-      "volume": 82544,
-      "deliverable_qty": 33086,
-      "delivery_pct": 40.08
-    },
     {
       "date": "2026-03-04",
       "close": 1008.7,
@@ -426,6 +418,14 @@
       "volume": 271484,
       "deliverable_qty": 107801,
       "delivery_pct": 39.71
+    },
+    {
+      "date": "2026-06-01",
+      "close": 840.5,
+      "prev_close": 819.75,
+      "volume": 380967,
+      "deliverable_qty": 109398,
+      "delivery_pct": 28.72
     }
   ],
   "news": [
@@ -498,13 +498,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "C.E. Info Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAPMYINDIA_06042026193349_BM_Outcome_06_April_2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 11:44:35",
-      "an_dt": "02-Mar-2026 11:44:35",
-      "desc": "Updates",
-      "sm_name": "C.E. Info Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAPMYINDIA_02032026114428_Corporate_Announcement_Completion_of_Acquisition_PASLLP.pdf"
     }
   ]
 }

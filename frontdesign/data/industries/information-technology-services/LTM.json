@@ -8,17 +8,9 @@
   "price": 4352.2,
   "market_cap_cr": 129025.86,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 4404.4,
-      "prev_close": 4462.0,
-      "volume": 171388,
-      "deliverable_qty": 64114,
-      "delivery_pct": 37.41
-    },
     {
       "date": "2026-03-04",
       "close": 4349.3,
@@ -426,9 +418,24 @@
       "volume": 193654,
       "deliverable_qty": 66782,
       "delivery_pct": 34.49
+    },
+    {
+      "date": "2026-06-01",
+      "close": 4196.1,
+      "prev_close": 4061.6,
+      "volume": 642808,
+      "deliverable_qty": 195791,
+      "delivery_pct": 30.46
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 18:22:35",
+      "an_dt": "01-Jun-2026 18:22:35",
+      "desc": "Shareholders meeting",
+      "sm_name": "LTM Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LTI_01062026182223_stockexchnageintimation_june12026.pdf"
+    },
     {
       "sort_date": "2026-05-28 22:02:17",
       "an_dt": "28-May-2026 22:02:17",

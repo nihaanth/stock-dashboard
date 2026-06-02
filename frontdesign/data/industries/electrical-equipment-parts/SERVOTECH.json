@@ -8,17 +8,9 @@
   "price": 96.5,
   "market_cap_cr": 2179.4,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 70.18,
-      "prev_close": 75.56,
-      "volume": 937954,
-      "deliverable_qty": 447081,
-      "delivery_pct": 47.67
-    },
     {
       "date": "2026-03-04",
       "close": 67.25,
@@ -426,6 +418,14 @@
       "volume": 609917,
       "deliverable_qty": 260299,
       "delivery_pct": 42.68
+    },
+    {
+      "date": "2026-06-01",
+      "close": 98.36,
+      "prev_close": 97.51,
+      "volume": 3209399,
+      "deliverable_qty": 962025,
+      "delivery_pct": 29.98
     }
   ],
   "news": [
@@ -603,13 +603,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Servotech Renewable Power System Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SERVOTECH_07032026164450_NSE.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 15:43:17",
-      "an_dt": "02-Mar-2026 15:43:17",
-      "desc": "General Updates",
-      "sm_name": "Servotech Renewable Power System Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SERVOTECH_02032026153441_NSENREDCAP.pdf"
     }
   ]
 }

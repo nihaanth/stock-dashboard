@@ -8,17 +8,9 @@
   "price": 1034.2,
   "market_cap_cr": 28186.78,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 1017.1,
-      "prev_close": 1056.6,
-      "volume": 31425,
-      "deliverable_qty": 13189,
-      "delivery_pct": 41.97
-    },
     {
       "date": "2026-03-04",
       "close": 992.9,
@@ -426,9 +418,24 @@
       "volume": 29629,
       "deliverable_qty": 10136,
       "delivery_pct": 34.21
+    },
+    {
+      "date": "2026-06-01",
+      "close": 1032.6,
+      "prev_close": 1024.3,
+      "volume": 22757,
+      "deliverable_qty": 12320,
+      "delivery_pct": 54.14
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 18:45:43",
+      "an_dt": "01-Jun-2026 18:45:43",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Metro Brands Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/METROBRAND_01062026184521_outcometoSE_Post_Meeting_June12026_signed.pdf"
+    },
     {
       "sort_date": "2026-05-29 18:30:33",
       "an_dt": "29-May-2026 18:30:33",

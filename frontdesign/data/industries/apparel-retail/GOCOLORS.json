@@ -8,17 +8,9 @@
   "price": 285.9,
   "market_cap_cr": 1503.72,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 307.6,
-      "prev_close": 309.55,
-      "volume": 229211,
-      "deliverable_qty": 91965,
-      "delivery_pct": 40.12
-    },
     {
       "date": "2026-03-04",
       "close": 305.15,
@@ -426,9 +418,24 @@
       "volume": 3273042,
       "deliverable_qty": 375627,
       "delivery_pct": 11.48
+    },
+    {
+      "date": "2026-06-01",
+      "close": 325.0,
+      "prev_close": 315.8,
+      "volume": 1011023,
+      "deliverable_qty": 189551,
+      "delivery_pct": 18.75
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 17:28:51",
+      "an_dt": "01-Jun-2026 17:28:51",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Go Fashion (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_14052026175757_GOCOLORS.pdf"
+    },
     {
       "sort_date": "2026-05-27 13:07:03",
       "an_dt": "27-May-2026 13:07:03",
@@ -575,27 +582,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Go Fashion (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOCOLORS_06032026132417_InvestorMeetIntimationfinalupload.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 18:45:17",
-      "an_dt": "02-Mar-2026 18:45:17",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Go Fashion (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOCOLORS_02032026184506_PostbuybackPAupload02032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 18:42:50",
-      "an_dt": "02-Mar-2026 18:42:50",
-      "desc": "Post Buyback Public Announcement",
-      "sm_name": "Go Fashion (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOCOLORS_02032026184200_PostbuybackPAupload02032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 13:39:48",
-      "an_dt": "02-Mar-2026 13:39:48",
-      "desc": "Appointment",
-      "sm_name": "Go Fashion (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GOCOLORS_02032026133915_Reg30AppointmentofSMPSignedUpload.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 656.05,
   "market_cap_cr": 6266.99,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 522.15,
-      "prev_close": 528.5,
-      "volume": 547847,
-      "deliverable_qty": 189746,
-      "delivery_pct": 34.63
-    },
     {
       "date": "2026-03-04",
       "close": 514.85,
@@ -426,9 +418,24 @@
       "volume": 830919,
       "deliverable_qty": 377223,
       "delivery_pct": 45.4
+    },
+    {
+      "date": "2026-06-01",
+      "close": 716.35,
+      "prev_close": 739.5,
+      "volume": 2361083,
+      "deliverable_qty": 642898,
+      "delivery_pct": 27.23
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 12:34:03",
+      "an_dt": "01-Jun-2026 12:34:03",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Ashapura Minechem Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASHAPURMIN_01062026123355_InvestorCallInvite04062026.pdf"
+    },
     {
       "sort_date": "2026-05-30 11:49:39",
       "an_dt": "30-May-2026 11:49:39",

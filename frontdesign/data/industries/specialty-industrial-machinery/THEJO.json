@@ -8,17 +8,9 @@
   "price": 1766.5,
   "market_cap_cr": 1915.93,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 1637.9,
-      "prev_close": 1686.6,
-      "volume": 6153,
-      "deliverable_qty": 3415,
-      "delivery_pct": 55.5
-    },
     {
       "date": "2026-03-04",
       "close": 1612.5,
@@ -426,6 +418,14 @@
       "volume": 4436,
       "deliverable_qty": 3087,
       "delivery_pct": 69.59
+    },
+    {
+      "date": "2026-06-01",
+      "close": 1550.7,
+      "prev_close": 1564.7,
+      "volume": 5311,
+      "deliverable_qty": 4301,
+      "delivery_pct": 80.98
     }
   ],
   "news": [
@@ -491,13 +491,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Thejo Engineering Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/THEJO_04032026173216_NSE_Schedule_InvCall_202603.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 12:44:23",
-      "an_dt": "02-Mar-2026 12:44:23",
-      "desc": "Allotment of Securities",
-      "sm_name": "Thejo Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THEJO_02032026124255_NSEIntimation_ESOP_20260302.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 1404.5,
   "market_cap_cr": 19135.7,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 1290.3,
-      "prev_close": 1282.8,
-      "volume": 739317,
-      "deliverable_qty": 232470,
-      "delivery_pct": 31.44
-    },
     {
       "date": "2026-03-04",
       "close": 1204.8,
@@ -426,6 +418,14 @@
       "volume": 311249,
       "deliverable_qty": 114210,
       "delivery_pct": 36.69
+    },
+    {
+      "date": "2026-06-01",
+      "close": 1158.5,
+      "prev_close": 1203.6,
+      "volume": 1075384,
+      "deliverable_qty": 448770,
+      "delivery_pct": 41.73
     }
   ],
   "news": [
@@ -554,13 +554,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Avanti Feeds Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_03032026180051_Outcome_of_concall_-_Q3_FY26.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 18:54:33",
-      "an_dt": "02-Mar-2026 18:54:33",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Avanti Feeds Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_02032026185424_Intimation.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 1601.0,
   "market_cap_cr": 4810.87,
   "industry_source": "webarchive",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 1603.4,
-      "prev_close": 1612.3,
-      "volume": 58238,
-      "deliverable_qty": 37253,
-      "delivery_pct": 63.97
-    },
     {
       "date": "2026-03-04",
       "close": 1559.8,
@@ -426,9 +418,24 @@
       "volume": 31674,
       "deliverable_qty": 20985,
       "delivery_pct": 66.25
+    },
+    {
+      "date": "2026-06-01",
+      "close": 1600.9,
+      "prev_close": 1618.2,
+      "volume": 67403,
+      "deliverable_qty": 35328,
+      "delivery_pct": 52.41
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 18:22:09",
+      "an_dt": "01-Jun-2026 18:22:09",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "CARE Ratings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CARERATINGS_01062026182151_CARE.pdf"
+    },
     {
       "sort_date": "2026-05-27 17:39:09",
       "an_dt": "27-May-2026 17:39:09",

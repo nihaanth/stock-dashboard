@@ -8,17 +8,9 @@
   "price": 587.2,
   "market_cap_cr": 11303.44,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 607.9,
-      "prev_close": 640.25,
-      "volume": 284432,
-      "deliverable_qty": 73678,
-      "delivery_pct": 25.9
-    },
     {
       "date": "2026-03-04",
       "close": 599.95,
@@ -426,6 +418,14 @@
       "volume": 67106,
       "deliverable_qty": 35851,
       "delivery_pct": 53.42
+    },
+    {
+      "date": "2026-06-01",
+      "close": 577.25,
+      "prev_close": 576.2,
+      "volume": 89035,
+      "deliverable_qty": 46225,
+      "delivery_pct": 51.92
     }
   ],
   "news": [
@@ -694,13 +694,6 @@
       "desc": "News Verification",
       "sm_name": "Godrej Agrovet Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GODREJAGRO_06032026110749_REPLYTONSE06032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-02 13:53:35",
-      "an_dt": "02-Mar-2026 13:53:35",
-      "desc": "News Verification",
-      "sm_name": "Godrej Agrovet Limited",
-      "attchmntFile": "-"
     }
   ]
 }

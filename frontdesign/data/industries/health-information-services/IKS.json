@@ -8,17 +8,9 @@
   "price": 1514.0,
   "market_cap_cr": 25361.31,
   "industry_source": "yfinance",
-  "as_of": "2026-05-31",
+  "as_of": "2026-06-01",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-02",
-      "close": 1346.5,
-      "prev_close": 1375.8,
-      "volume": 157668,
-      "deliverable_qty": 87007,
-      "delivery_pct": 55.18
-    },
     {
       "date": "2026-03-04",
       "close": 1331.0,
@@ -426,9 +418,24 @@
       "volume": 63999,
       "deliverable_qty": 38100,
       "delivery_pct": 59.53
+    },
+    {
+      "date": "2026-06-01",
+      "close": 1639.1,
+      "prev_close": 1675.6,
+      "volume": 89238,
+      "deliverable_qty": 36270,
+      "delivery_pct": 40.64
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-01 16:38:09",
+      "an_dt": "01-Jun-2026 16:38:09",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Inventurus Knowledge Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IKS2006_01062026163753_IntimationofInvestorMeet08062026.pdf"
+    },
     {
       "sort_date": "2026-05-30 14:30:14",
       "an_dt": "30-May-2026 14:30:14",
