@@ -8,7 +8,7 @@
   "price": 71.97,
   "market_cap_cr": 502.42,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,24 @@
       "volume": 10693,
       "deliverable_qty": 5956,
       "delivery_pct": 55.7
+    },
+    {
+      "date": "2026-06-02",
+      "close": 71.84,
+      "prev_close": 70.03,
+      "volume": 28773,
+      "deliverable_qty": 20928,
+      "delivery_pct": 72.73
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 13:11:08",
+      "an_dt": "02-Jun-2026 13:11:08",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Moneyboxx Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONEYBOXX_02062026131049_Transcript_Signed.pdf"
+    },
     {
       "sort_date": "2026-06-01 18:18:56",
       "an_dt": "01-Jun-2026 18:18:56",
@@ -582,13 +597,6 @@
       "desc": "Press Release",
       "sm_name": "Moneyboxx Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONEYBOXX_04032026185540_Press_Release.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 17:48:21",
-      "an_dt": "03-Mar-2026 17:48:21",
-      "desc": "Allotment of Securities",
-      "sm_name": "Moneyboxx Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONEYBOXX_03032026174737_Allotment_Intimation.pdf"
     }
   ]
 }

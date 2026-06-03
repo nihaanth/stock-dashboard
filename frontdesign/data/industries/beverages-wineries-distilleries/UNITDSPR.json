@@ -8,7 +8,7 @@
   "price": 1231.5,
   "market_cap_cr": 89579.46,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,6 +426,14 @@
       "volume": 509716,
       "deliverable_qty": 296420,
       "delivery_pct": 58.15
+    },
+    {
+      "date": "2026-06-02",
+      "close": 1275.0,
+      "prev_close": 1248.8,
+      "volume": 997132,
+      "deliverable_qty": 584683,
+      "delivery_pct": 58.64
     }
   ],
   "news": [
@@ -645,13 +653,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "United Spirits Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MCDOWELL_11032026150238_SE_Investorconference_Mar2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 21:32:21",
-      "an_dt": "03-Mar-2026 21:32:21",
-      "desc": "General Updates",
-      "sm_name": "United Spirits Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MCDOWELL_03032026213139_SEIntimation03032026.pdf"
     }
   ]
 }

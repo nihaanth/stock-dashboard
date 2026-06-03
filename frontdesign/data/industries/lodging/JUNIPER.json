@@ -8,7 +8,7 @@
   "price": 208.52,
   "market_cap_cr": 4639.62,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,6 +426,14 @@
       "volume": 155400,
       "deliverable_qty": 83946,
       "delivery_pct": 54.02
+    },
+    {
+      "date": "2026-06-02",
+      "close": 193.46,
+      "prev_close": 194.51,
+      "volume": 98337,
+      "deliverable_qty": 51258,
+      "delivery_pct": 52.12
     }
   ],
   "news": [
@@ -554,20 +562,6 @@
       "desc": "Trading Window",
       "sm_name": "Juniper Hotels Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/9930371292_26032026113253_Intimation_of_cLosure_of_trading_window.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 16:27:09",
-      "an_dt": "03-Mar-2026 16:27:09",
-      "desc": "Press Release",
-      "sm_name": "Juniper Hotels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9930371292_03032026162655_Letter-signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 16:22:28",
-      "an_dt": "03-Mar-2026 16:22:28",
-      "desc": "Awarding of order(s)/contract(s)",
-      "sm_name": "Juniper Hotels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9930371292_03032026162217_Letter-signed.pdf"
     }
   ]
 }

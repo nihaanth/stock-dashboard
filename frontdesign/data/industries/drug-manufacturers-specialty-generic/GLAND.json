@@ -8,7 +8,7 @@
   "price": 1724.3,
   "market_cap_cr": 28408.95,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,24 @@
       "volume": 585438,
       "deliverable_qty": 274419,
       "delivery_pct": 46.87
+    },
+    {
+      "date": "2026-06-02",
+      "close": 2277.0,
+      "prev_close": 2292.4,
+      "volume": 482075,
+      "deliverable_qty": 301994,
+      "delivery_pct": 62.64
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 14:15:07",
+      "an_dt": "02-Jun-2026 14:15:07",
+      "desc": "Updates",
+      "sm_name": "Gland Pharma Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLAND_02062026141457_ESOPAllotment_02062026.pdf"
+    },
     {
       "sort_date": "2026-05-29 14:56:46",
       "an_dt": "29-May-2026 14:56:46",
@@ -645,20 +660,6 @@
       "desc": "Press Release",
       "sm_name": "Gland Pharma Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLAND_04032026110430_Press_Release_04032026_Final.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 19:09:52",
-      "an_dt": "03-Mar-2026 19:09:52",
-      "desc": "Resignation",
-      "sm_name": "Gland Pharma Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLAND_03032026190932_CEO_Resignation.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 18:52:08",
-      "an_dt": "03-Mar-2026 18:52:08",
-      "desc": "Options to purchase securities",
-      "sm_name": "Gland Pharma Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLAND_03032026185151_ESOPGrant03032026-SE_intimation.pdf"
     }
   ]
 }

@@ -8,7 +8,7 @@
   "price": 557.45,
   "market_cap_cr": 6583.36,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,24 @@
       "volume": 1621691,
       "deliverable_qty": 768942,
       "delivery_pct": 47.42
+    },
+    {
+      "date": "2026-06-02",
+      "close": 774.8,
+      "prev_close": 777.15,
+      "volume": 786893,
+      "deliverable_qty": 463664,
+      "delivery_pct": 58.92
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 16:14:58",
+      "an_dt": "02-Jun-2026 16:14:58",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Rategain Travel Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RATEGAIN_02062026155710_RG_IC_020626.pdf"
+    },
     {
       "sort_date": "2026-05-29 11:03:50",
       "an_dt": "29-May-2026 11:03:50",
@@ -666,13 +681,6 @@
       "desc": "Press Release",
       "sm_name": "Rategain Travel Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RATEGAIN_06032026111209_RG_PR_06032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 13:47:12",
-      "an_dt": "03-Mar-2026 13:47:12",
-      "desc": "Press Release",
-      "sm_name": "Rategain Travel Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RATEGAIN_03032026134649_RG_PR_03032026.pdf"
     }
   ]
 }

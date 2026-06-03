@@ -8,7 +8,7 @@
   "price": 5377.4,
   "market_cap_cr": 84084.21,
   "industry_source": "webarchive",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,24 @@
       "volume": 1017776,
       "deliverable_qty": 399494,
       "delivery_pct": 39.25
+    },
+    {
+      "date": "2026-06-02",
+      "close": 5470.5,
+      "prev_close": 5402.0,
+      "volume": 1368824,
+      "deliverable_qty": 586003,
+      "delivery_pct": 42.81
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 19:51:17",
+      "an_dt": "02-Jun-2026 19:51:17",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Persistent Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_02062026195053_PSLOutcomeofInvestorSessionJune22026Sd.pdf"
+    },
     {
       "sort_date": "2026-06-01 12:02:47",
       "an_dt": "01-Jun-2026 12:02:47",
@@ -939,20 +954,6 @@
       "desc": "Other Restructuring",
       "sm_name": "Persistent Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_04032026212000_PSLIntimationofExecutionoftheSPAMarch42026signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 20:37:17",
-      "an_dt": "03-Mar-2026 20:37:17",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Persistent Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_03032026203708_PSLOutcomeofInvestorAnalystsessionMarch32026Sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 10:38:06",
-      "an_dt": "03-Mar-2026 10:38:06",
-      "desc": "Amalgamation/Merger",
-      "sm_name": "Persistent Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_03032026103749_PersistentSEIntimationofMergerofPTSIintoPSIsigned.pdf"
     }
   ]
 }

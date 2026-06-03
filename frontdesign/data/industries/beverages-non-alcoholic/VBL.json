@@ -8,7 +8,7 @@
   "price": 430.6,
   "market_cap_cr": 145632.99,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,6 +426,14 @@
       "volume": 3454028,
       "deliverable_qty": 1724099,
       "delivery_pct": 49.92
+    },
+    {
+      "date": "2026-06-02",
+      "close": 537.0,
+      "prev_close": 525.5,
+      "volume": 8512936,
+      "deliverable_qty": 5118643,
+      "delivery_pct": 60.13
     }
   ],
   "news": [
@@ -610,13 +618,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Varun Beverages Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VBL_09032026144128_VBLNoticeARFY2025.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 14:51:35",
-      "an_dt": "03-Mar-2026 14:51:35",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Varun Beverages Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VBL_03032026144916_AD.pdf"
     }
   ]
 }

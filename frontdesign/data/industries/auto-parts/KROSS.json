@@ -8,7 +8,7 @@
   "price": 224.73,
   "market_cap_cr": 1449.72,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,24 @@
       "volume": 385836,
       "deliverable_qty": 136041,
       "delivery_pct": 35.26
+    },
+    {
+      "date": "2026-06-02",
+      "close": 192.48,
+      "prev_close": 189.1,
+      "volume": 198519,
+      "deliverable_qty": 55475,
+      "delivery_pct": 27.94
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 12:45:23",
+      "an_dt": "02-Jun-2026 12:45:23",
+      "desc": "Credit Rating",
+      "sm_name": "Kross Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/8910457293_02062026124400_Reg_30_Disclosure_Creditrating.pdf"
+    },
     {
       "sort_date": "2026-05-16 11:56:12",
       "an_dt": "16-May-2026 11:56:12",

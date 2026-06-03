@@ -8,7 +8,7 @@
   "price": 1272.3,
   "market_cap_cr": 1502.45,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,6 +426,14 @@
       "volume": 21587,
       "deliverable_qty": 9623,
       "delivery_pct": 44.58
+    },
+    {
+      "date": "2026-06-02",
+      "close": 1255.1,
+      "prev_close": 1268.4,
+      "volume": 21907,
+      "deliverable_qty": 10235,
+      "delivery_pct": 46.72
     }
   ],
   "news": [
@@ -512,20 +520,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "RACL Geartech Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RACL1983_10032026171343_Investor_meet_12_03_2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 16:51:33",
-      "an_dt": "03-Mar-2026 16:51:33",
-      "desc": "Updates",
-      "sm_name": "RACL Geartech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RACL1983_03032026165126_IntimationGearTechnology.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 16:49:09",
-      "an_dt": "03-Mar-2026 16:49:09",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "RACL Geartech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RACL1983_03032026164900_Transcript_Intimation.pdf"
     }
   ]
 }

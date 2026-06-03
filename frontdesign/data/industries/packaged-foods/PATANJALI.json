@@ -8,7 +8,7 @@
   "price": 454.1,
   "market_cap_cr": 49410.81,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,31 @@
       "volume": 3864370,
       "deliverable_qty": 1016194,
       "delivery_pct": 26.3
+    },
+    {
+      "date": "2026-06-02",
+      "close": 451.55,
+      "prev_close": 449.25,
+      "volume": 3878659,
+      "deliverable_qty": 1296900,
+      "delivery_pct": 33.44
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 18:12:52",
+      "an_dt": "02-Jun-2026 18:12:52",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Patanjali Foods Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RUCHI_02062026181138_letter_to_SE__News_paper_publication.pdf"
+    },
+    {
+      "sort_date": "2026-06-02 16:34:25",
+      "an_dt": "02-Jun-2026 16:34:25",
+      "desc": "Updates",
+      "sm_name": "Patanjali Foods Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RUCHI_02062026163234_Letter.pdf"
+    },
     {
       "sort_date": "2026-05-30 22:52:51",
       "an_dt": "30-May-2026 22:52:51",
@@ -554,13 +576,6 @@
       "desc": "General Updates",
       "sm_name": "Patanjali Foods Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RUCHI_05032026164315_Letter.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 17:38:22",
-      "an_dt": "03-Mar-2026 17:38:22",
-      "desc": "General Updates",
-      "sm_name": "Patanjali Foods Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RUCHI_03032026173758_Letter.pdf"
     }
   ]
 }

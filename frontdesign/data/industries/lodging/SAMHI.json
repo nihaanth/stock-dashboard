@@ -8,7 +8,7 @@
   "price": 156.42,
   "market_cap_cr": 3479.81,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,6 +426,14 @@
       "volume": 844644,
       "deliverable_qty": 471351,
       "delivery_pct": 55.8
+    },
+    {
+      "date": "2026-06-02",
+      "close": 169.53,
+      "prev_close": 164.63,
+      "volume": 897619,
+      "deliverable_qty": 448768,
+      "delivery_pct": 50.0
     }
   ],
   "news": [
@@ -638,13 +646,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Samhi Hotels Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Samhi_05032026194621_RARE_Disclosure.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 20:17:20",
-      "an_dt": "03-Mar-2026 20:17:20",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Samhi Hotels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Samhi_03032026201510_InvestorsMeeting.pdf"
     }
   ]
 }

@@ -8,7 +8,7 @@
   "price": 4295.2,
   "market_cap_cr": 24457.17,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,6 +426,14 @@
       "volume": 4576123,
       "deliverable_qty": 554600,
       "delivery_pct": 12.12
+    },
+    {
+      "date": "2026-06-02",
+      "close": 4782.8,
+      "prev_close": 4620.1,
+      "volume": 4220022,
+      "deliverable_qty": 473431,
+      "delivery_pct": 11.22
     }
   ],
   "news": [
@@ -603,20 +611,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Netweb Technologies India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NETWEB1234_16032026142732_Intimation_of_USA_No_deal_Roadshow.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 15:31:49",
-      "an_dt": "03-Mar-2026 15:31:49",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Netweb Technologies India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NETWEB1234_03032026153030_Intimation_of_SMD_Institutional_Investors_meet__1_.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 15:24:46",
-      "an_dt": "03-Mar-2026 15:24:46",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Netweb Technologies India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NETWEB1234_03032026152409_Intimation_of__Citi_2026_Institutional_Investors_meet__1_.pdf"
     }
   ]
 }

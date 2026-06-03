@@ -8,7 +8,7 @@
   "price": 211.63,
   "market_cap_cr": 2551.26,
   "industry_source": "webarchive",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,24 @@
       "volume": 518100,
       "deliverable_qty": 291500,
       "delivery_pct": 56.26
+    },
+    {
+      "date": "2026-06-02",
+      "close": 186.44,
+      "prev_close": 188.13,
+      "volume": 202400,
+      "deliverable_qty": 94219,
+      "delivery_pct": 46.55
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 08:02:35",
+      "an_dt": "02-Jun-2026 08:02:35",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Thirumalai Chemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIRUMALCHM1_02062026080218_Intimationofnewspaperadsd.pdf"
+    },
     {
       "sort_date": "2026-05-30 21:11:15",
       "an_dt": "30-May-2026 21:11:15",
@@ -491,13 +506,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Thirumalai Chemicals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIRUMALCHM1_04032026214117_Intimation_of_investors_meet_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 22:09:16",
-      "an_dt": "03-Mar-2026 22:09:16",
-      "desc": "Updates",
-      "sm_name": "Thirumalai Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIRUMALCHM1_03032026220804_Intimation_to_SE_Corporate_Presentation_signed.pdf"
     }
   ]
 }

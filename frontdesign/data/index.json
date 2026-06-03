@@ -1,19 +1,29 @@
 {
   "all_time": {
-    "days": 11,
-    "total_calls": 3349,
-    "correct": 1152,
-    "accuracy_pct": 34.4
+    "days": 12,
+    "total_calls": 3648,
+    "correct": 1238,
+    "accuracy_pct": 33.9
   },
   "dates": [
     {
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "result_date": null,
       "mode": "forecast",
-      "total": 299,
+      "total": 297,
       "correct": null,
       "accuracy_pct": null,
-      "file": "predictions_2026-06-01_forecast.json",
+      "file": "predictions_2026-06-02_forecast.json",
+      "page": "d/2026-06-02.html"
+    },
+    {
+      "date": "2026-06-01",
+      "result_date": "2026-06-02",
+      "mode": "post_mortem",
+      "total": 299,
+      "correct": 86,
+      "accuracy_pct": 28.8,
+      "file": "predictions_2026-06-01.json",
       "page": "d/2026-06-01.html"
     },
     {

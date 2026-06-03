@@ -8,7 +8,7 @@
   "price": 1230.0,
   "market_cap_cr": 77152.59,
   "industry_source": "webarchive",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,24 @@
       "volume": 936054,
       "deliverable_qty": 502744,
       "delivery_pct": 53.71
+    },
+    {
+      "date": "2026-06-02",
+      "close": 1174.6,
+      "prev_close": 1143.2,
+      "volume": 1283197,
+      "deliverable_qty": 661477,
+      "delivery_pct": 51.55
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 16:28:51",
+      "an_dt": "02-Jun-2026 16:28:51",
+      "desc": "General Updates",
+      "sm_name": "Havells India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HAVELLS1_02062026162816_signed_GeneralUpdate_StockEx_02062026.pdf"
+    },
     {
       "sort_date": "2026-05-30 12:33:21",
       "an_dt": "30-May-2026 12:33:21",
@@ -631,13 +646,6 @@
       "desc": "Action(s) taken or orders passed",
       "sm_name": "Havells India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HAVELLS1_20032026212022_Intimation_Reg30_20032026_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 09:18:23",
-      "an_dt": "03-Mar-2026 09:18:23",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Havells India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HAVELLS1_03032026091809_Schedule_of_AnalystMeet_03032026.pdf"
     }
   ]
 }

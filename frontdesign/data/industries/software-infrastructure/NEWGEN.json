@@ -8,7 +8,7 @@
   "price": 490.25,
   "market_cap_cr": 6920.34,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,24 @@
       "volume": 784172,
       "deliverable_qty": 219525,
       "delivery_pct": 27.99
+    },
+    {
+      "date": "2026-06-02",
+      "close": 518.1,
+      "prev_close": 441.5,
+      "volume": 35273385,
+      "deliverable_qty": 2688058,
+      "delivery_pct": 7.62
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 12:03:58",
+      "an_dt": "02-Jun-2026 12:03:58",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Newgen Software Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_19052026113122_disc2.pdf"
+    },
     {
       "sort_date": "2026-05-29 11:33:26",
       "an_dt": "29-May-2026 11:33:26",
@@ -596,13 +611,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "Newgen Software Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEWGEN2_15032026225409_Stock_Exchange_Material_disclosure-LLC_Reviewed.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 23:19:45",
-      "an_dt": "03-Mar-2026 23:19:45",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "Newgen Software Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEWGEN2_03032026231915_Stock_Exchange_Material_disclosure-NSI.pdf"
     }
   ]
 }

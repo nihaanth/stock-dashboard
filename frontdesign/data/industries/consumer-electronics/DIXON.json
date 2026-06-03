@@ -8,7 +8,7 @@
   "price": 10503.5,
   "market_cap_cr": 63767.34,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,24 @@
       "volume": 303579,
       "deliverable_qty": 89443,
       "delivery_pct": 29.46
+    },
+    {
+      "date": "2026-06-02",
+      "close": 11604.0,
+      "prev_close": 11463.0,
+      "volume": 317648,
+      "deliverable_qty": 77841,
+      "delivery_pct": 24.51
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 16:24:57",
+      "an_dt": "02-Jun-2026 16:24:57",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Dixon Technologies (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIXON_02062026162439_InvestorMeetOutcome02062026.pdf"
+    },
     {
       "sort_date": "2026-05-25 23:14:57",
       "an_dt": "25-May-2026 23:14:57",
@@ -652,13 +667,6 @@
       "desc": "General Updates",
       "sm_name": "Dixon Technologies (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIXON_09032026193414_Regulation30DisclosurePN3.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 18:27:57",
-      "an_dt": "03-Mar-2026 18:27:57",
-      "desc": "Acquisition",
-      "sm_name": "Dixon Technologies (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIXON_03032026182705_AnnouncementAcquisitionLongcheer.pdf"
     }
   ]
 }

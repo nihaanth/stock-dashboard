@@ -8,7 +8,7 @@
   "price": 298.95,
   "market_cap_cr": 8274.77,
   "industry_source": "webarchive",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,24 @@
       "volume": 658351,
       "deliverable_qty": 212086,
       "delivery_pct": 32.21
+    },
+    {
+      "date": "2026-06-02",
+      "close": 278.35,
+      "prev_close": 266.35,
+      "volume": 15861090,
+      "deliverable_qty": 1349532,
+      "delivery_pct": 8.51
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 18:48:19",
+      "an_dt": "02-Jun-2026 18:48:19",
+      "desc": "Spurt in Volume",
+      "sm_name": "Sonata Software Limited",
+      "attchmntFile": "-"
+    },
     {
       "sort_date": "2026-05-25 13:17:25",
       "an_dt": "25-May-2026 13:17:25",
@@ -582,13 +597,6 @@
       "desc": "Updates",
       "sm_name": "Sonata Software Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/k_vivek_sonata-software_com_07032026083852_Reg30Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 16:12:16",
-      "an_dt": "03-Mar-2026 16:12:16",
-      "desc": "Updates",
-      "sm_name": "Sonata Software Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/k_vivek_sonata-software_com_03032026161208_sefilingpressrelease.pdf"
     }
   ]
 }

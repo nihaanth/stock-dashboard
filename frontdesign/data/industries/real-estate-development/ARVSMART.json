@@ -8,7 +8,7 @@
   "price": 626.1,
   "market_cap_cr": 2871.73,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,6 +426,14 @@
       "volume": 76422,
       "deliverable_qty": 31172,
       "delivery_pct": 40.79
+    },
+    {
+      "date": "2026-06-02",
+      "close": 594.5,
+      "prev_close": 575.9,
+      "volume": 36326,
+      "deliverable_qty": 19390,
+      "delivery_pct": 53.38
     }
   ],
   "news": [
@@ -624,13 +632,6 @@
       "desc": "Updates",
       "sm_name": "Arvind SmartSpaces Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_05032026171054_SE_-_Clarification_regarding_exercise_price.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 15:33:37",
-      "an_dt": "03-Mar-2026 15:33:37",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Arvind SmartSpaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_03032026153322_IntimationScheduleOfAnalystMeet03032026.pdf"
     }
   ]
 }

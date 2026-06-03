@@ -8,7 +8,7 @@
   "price": 1003.8,
   "market_cap_cr": 45301.14,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,6 +426,14 @@
       "volume": 1479712,
       "deliverable_qty": 421945,
       "delivery_pct": 28.52
+    },
+    {
+      "date": "2026-06-02",
+      "close": 1074.4,
+      "prev_close": 1052.7,
+      "volume": 1609616,
+      "deliverable_qty": 509579,
+      "delivery_pct": 31.66
     }
   ],
   "news": [
@@ -624,13 +632,6 @@
       "desc": "Press Release",
       "sm_name": "Premier Energies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PEL2024_30032026115910_pressreleasemoduleline.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 13:23:32",
-      "an_dt": "03-Mar-2026 13:23:32",
-      "desc": "Acquisition",
-      "sm_name": "Premier Energies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PEL2024_03032026132312_Update_signed.pdf"
     }
   ]
 }

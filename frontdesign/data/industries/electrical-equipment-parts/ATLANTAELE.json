@@ -8,7 +8,7 @@
   "price": 1728.4,
   "market_cap_cr": 13290.81,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -378,6 +378,14 @@
       "volume": 168188,
       "deliverable_qty": 79568,
       "delivery_pct": 47.31
+    },
+    {
+      "date": "2026-06-02",
+      "close": 1952.5,
+      "prev_close": 1983.6,
+      "volume": 69770,
+      "deliverable_qty": 36613,
+      "delivery_pct": 52.48
     }
   ],
   "news": [
@@ -548,13 +556,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Atlanta Electricals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ATLANTAIPO123_09032026194124_Intimation_-_Plant_Visit_12th_and_13th_March_2026_Sign.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 10:09:44",
-      "an_dt": "03-Mar-2026 10:09:44",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Atlanta Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ATLANTAIPO123_03032026100847_Outcome_of_Board_Meeting_03032026.pdf"
     }
   ]
 }

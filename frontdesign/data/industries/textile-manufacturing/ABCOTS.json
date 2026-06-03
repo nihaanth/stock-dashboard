@@ -8,7 +8,7 @@
   "price": 403.75,
   "market_cap_cr": 886.78,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,6 +426,14 @@
       "volume": 27724,
       "deliverable_qty": 14547,
       "delivery_pct": 52.47
+    },
+    {
+      "date": "2026-06-02",
+      "close": 219.03,
+      "prev_close": 217.29,
+      "volume": 12608,
+      "deliverable_qty": 2947,
+      "delivery_pct": 23.37
     }
   ],
   "news": [
@@ -526,13 +534,6 @@
       "desc": "Credit Rating",
       "sm_name": "A B Cotspin India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABCOTSPIN_27032026175929_Rating_Letter_27032026_sign.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 15:37:04",
-      "an_dt": "03-Mar-2026 15:37:04",
-      "desc": "Shareholders meeting",
-      "sm_name": "A B Cotspin India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABCOTSPIN_03032026153651_VR_SR.pdf"
     }
   ]
 }

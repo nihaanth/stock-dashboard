@@ -8,7 +8,7 @@
   "price": 875.75,
   "market_cap_cr": 10509.3,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,24 @@
       "volume": 168299,
       "deliverable_qty": 104971,
       "delivery_pct": 62.37
+    },
+    {
+      "date": "2026-06-02",
+      "close": 900.15,
+      "prev_close": 874.65,
+      "volume": 161988,
+      "deliverable_qty": 85520,
+      "delivery_pct": 52.79
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 16:07:56",
+      "an_dt": "02-Jun-2026 16:07:56",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Medplus Health Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_19052026170653_MEDPLUS.pdf"
+    },
     {
       "sort_date": "2026-05-31 17:48:26",
       "an_dt": "31-May-2026 17:48:26",

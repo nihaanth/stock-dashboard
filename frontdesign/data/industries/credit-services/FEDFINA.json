@@ -8,7 +8,7 @@
   "price": 152.34,
   "market_cap_cr": 5702.43,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,6 +426,14 @@
       "volume": 1106167,
       "deliverable_qty": 525944,
       "delivery_pct": 47.55
+    },
+    {
+      "date": "2026-06-02",
+      "close": 158.53,
+      "prev_close": 156.65,
+      "volume": 541104,
+      "deliverable_qty": 225540,
+      "delivery_pct": 41.68
     }
   ],
   "news": [
@@ -799,20 +807,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Fedbank Financial Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FEDFINA_04032026154556_Intimation_Analystsmeets_04032026_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 12:49:28",
-      "an_dt": "03-Mar-2026 12:49:28",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Fedbank Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FEDFINA_03032026124854_Outcome_Issuance_of_NCD_03032026[WGEdits-02032026]_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 12:36:22",
-      "an_dt": "03-Mar-2026 12:36:22",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Fedbank Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FEDFINA_03032026123552_Outcome_Issuance_of_NCD_03032026[WGEdits-02032026]_Signed.pdf"
     }
   ]
 }

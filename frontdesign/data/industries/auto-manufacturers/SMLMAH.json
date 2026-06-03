@@ -8,7 +8,7 @@
   "price": 3763.9,
   "market_cap_cr": 5446.98,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,24 @@
       "volume": 37803,
       "deliverable_qty": 14461,
       "delivery_pct": 38.25
+    },
+    {
+      "date": "2026-06-02",
+      "close": 3713.5,
+      "prev_close": 3657.2,
+      "volume": 151619,
+      "deliverable_qty": 76381,
+      "delivery_pct": 50.38
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 15:30:01",
+      "an_dt": "02-Jun-2026 15:30:01",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "SML Mahindra Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SMLMAH_02062026152858_019NewspaperadTransferofsharestoIEPF02062026SignedPM.pdf"
+    },
     {
       "sort_date": "2026-06-01 08:13:54",
       "an_dt": "01-Jun-2026 08:13:54",

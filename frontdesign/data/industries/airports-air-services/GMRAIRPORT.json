@@ -8,7 +8,7 @@
   "price": 98.1,
   "market_cap_cr": 103583.55,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,24 @@
       "volume": 16277504,
       "deliverable_qty": 5761207,
       "delivery_pct": 35.39
+    },
+    {
+      "date": "2026-06-02",
+      "close": 98.13,
+      "prev_close": 97.06,
+      "volume": 13932866,
+      "deliverable_qty": 7650074,
+      "delivery_pct": 54.91
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 22:47:20",
+      "an_dt": "02-Jun-2026 22:47:20",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "GMR AIRPORTS LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GMRINFRA_02062026224658_TranscriptofConferencecall.pdf"
+    },
     {
       "sort_date": "2026-05-28 23:27:55",
       "an_dt": "28-May-2026 23:27:55",

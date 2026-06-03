@@ -8,7 +8,7 @@
   "price": 194.71,
   "market_cap_cr": 122153.21,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,24 @@
       "volume": 38364266,
       "deliverable_qty": 19263764,
       "delivery_pct": 50.21
+    },
+    {
+      "date": "2026-06-02",
+      "close": 190.81,
+      "prev_close": 185.71,
+      "volume": 39034697,
+      "deliverable_qty": 20335740,
+      "delivery_pct": 52.1
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 20:57:20",
+      "an_dt": "02-Jun-2026 20:57:20",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Billionbrains Garage Ventures Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_02062026205647_ESOPGrant.pdf"
+    },
     {
       "sort_date": "2026-06-01 16:56:50",
       "an_dt": "01-Jun-2026 16:56:50",
@@ -575,13 +590,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Billionbrains Garage Ventures Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_06032026144113_ESOPAllotment.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 11:53:33",
-      "an_dt": "03-Mar-2026 11:53:33",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Billionbrains Garage Ventures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_03032026115100_InvestorIntiSD.pdf"
     }
   ]
 }

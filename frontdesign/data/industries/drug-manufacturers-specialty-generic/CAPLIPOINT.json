@@ -8,7 +8,7 @@
   "price": 1853.3,
   "market_cap_cr": 14087.25,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,6 +426,14 @@
       "volume": 176474,
       "deliverable_qty": 101019,
       "delivery_pct": 57.24
+    },
+    {
+      "date": "2026-06-02",
+      "close": 1988.1,
+      "prev_close": 1998.9,
+      "volume": 75756,
+      "deliverable_qty": 39952,
+      "delivery_pct": 52.74
     }
   ],
   "news": [
@@ -512,13 +520,6 @@
       "desc": "Press Release",
       "sm_name": "Caplin Point Laboratories Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPLINPOINT_13032026120230_Press_Release__sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 18:47:15",
-      "an_dt": "03-Mar-2026 18:47:15",
-      "desc": "Cessation",
-      "sm_name": "Caplin Point Laboratories Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPLINPOINT_03032026184604_Gariyali_Cessation.pdf"
     }
   ]
 }

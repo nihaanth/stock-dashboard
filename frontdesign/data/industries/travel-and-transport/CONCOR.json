@@ -8,7 +8,7 @@
   "price": 530.0,
   "market_cap_cr": 40365.75,
   "industry_source": "webarchive",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,6 +426,14 @@
       "volume": 1343567,
       "deliverable_qty": 380014,
       "delivery_pct": 28.28
+    },
+    {
+      "date": "2026-06-02",
+      "close": 459.45,
+      "prev_close": 464.1,
+      "volume": 1147202,
+      "deliverable_qty": 525853,
+      "delivery_pct": 45.84
     }
   ],
   "news": [
@@ -645,13 +653,6 @@
       "desc": "Change in Director(s)",
       "sm_name": "Container Corporation of India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CONCOR_06032026173247_CONCOR_SE_DD_06032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 15:56:56",
-      "an_dt": "03-Mar-2026 15:56:56",
-      "desc": "Change in Management",
-      "sm_name": "Container Corporation of India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CONCOR_03032026155635_CONCOR_SE_03032026.pdf"
     }
   ]
 }

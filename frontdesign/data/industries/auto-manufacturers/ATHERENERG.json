@@ -8,7 +8,7 @@
   "price": 969.45,
   "market_cap_cr": 37098.25,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,6 +426,14 @@
       "volume": 2576811,
       "deliverable_qty": 1070098,
       "delivery_pct": 41.53
+    },
+    {
+      "date": "2026-06-02",
+      "close": 960.6,
+      "prev_close": 937.4,
+      "volume": 2527236,
+      "deliverable_qty": 902429,
+      "delivery_pct": 35.71
     }
   ],
   "news": [
@@ -582,13 +590,6 @@
       "desc": "Updates",
       "sm_name": "Ather Energy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ATHERENERGY_17032026115501_PressReleaseMarch172026DSC.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 14:35:59",
-      "an_dt": "03-Mar-2026 14:35:59",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Ather Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ATHERENERGY_03032026142703_SEintimationinvestormeetMar26.pdf"
     }
   ]
 }

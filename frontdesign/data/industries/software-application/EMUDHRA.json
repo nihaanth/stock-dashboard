@@ -8,7 +8,7 @@
   "price": 501.25,
   "market_cap_cr": 4112.43,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,6 +426,14 @@
       "volume": 44952,
       "deliverable_qty": 23086,
       "delivery_pct": 51.36
+    },
+    {
+      "date": "2026-06-02",
+      "close": 466.7,
+      "prev_close": 470.2,
+      "volume": 107763,
+      "deliverable_qty": 49435,
+      "delivery_pct": 45.87
     }
   ],
   "news": [
@@ -708,13 +716,6 @@
       "desc": "Press Release",
       "sm_name": "eMudhra Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMUDHRA2008_05032026172948_Press_Release_s.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 15:05:12",
-      "an_dt": "03-Mar-2026 15:05:12",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "eMudhra Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMUDHRA2008_03032026150504_Vista_Global_Asset__2___1_.pdf"
     }
   ]
 }

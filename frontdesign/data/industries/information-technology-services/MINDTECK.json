@@ -8,7 +8,7 @@
   "price": 215.88,
   "market_cap_cr": 689.83,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,6 +426,14 @@
       "volume": 139587,
       "deliverable_qty": 42385,
       "delivery_pct": 30.36
+    },
+    {
+      "date": "2026-06-02",
+      "close": 215.12,
+      "prev_close": 210.77,
+      "volume": 128220,
+      "deliverable_qty": 31692,
+      "delivery_pct": 24.72
     }
   ],
   "news": [
@@ -554,13 +562,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Mindteck (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MINDTECK_04032026165157_53BSELetterIntimationofSpecialWindowforRelodgementAdvertisement.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 19:08:35",
-      "an_dt": "03-Mar-2026 19:08:35",
-      "desc": "Shareholders meeting",
-      "sm_name": "Mindteck (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MINDTECK_03032026190826_52BSELetterVotingResults.pdf"
     }
   ]
 }

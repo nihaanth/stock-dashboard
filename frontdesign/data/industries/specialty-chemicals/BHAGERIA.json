@@ -8,7 +8,7 @@
   "price": 163.23,
   "market_cap_cr": 712.4,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,6 +426,14 @@
       "volume": 20967,
       "deliverable_qty": 13530,
       "delivery_pct": 64.53
+    },
+    {
+      "date": "2026-06-02",
+      "close": 154.92,
+      "prev_close": 153.12,
+      "volume": 21923,
+      "deliverable_qty": 11207,
+      "delivery_pct": 51.12
     }
   ],
   "news": [
@@ -547,20 +555,6 @@
       "desc": "Credit Rating",
       "sm_name": "Bhageria Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHAGERIA_12032026144212_BSENSE-Credit_Rating.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 16:52:36",
-      "an_dt": "03-Mar-2026 16:52:36",
-      "desc": "General Updates",
-      "sm_name": "Bhageria Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHAGERIA_03032026165156_BSENSE-Reg_30_Leakege.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 14:04:33",
-      "an_dt": "03-Mar-2026 14:04:33",
-      "desc": "General Updates",
-      "sm_name": "Bhageria Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BHAGERIA_03032026140419_Reg_30_Leakege.pdf"
     }
   ]
 }

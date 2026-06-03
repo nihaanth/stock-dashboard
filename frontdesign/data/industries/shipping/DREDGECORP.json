@@ -8,7 +8,7 @@
   "price": 900.75,
   "market_cap_cr": 2522.1,
   "industry_source": "webarchive",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,24 @@
       "volume": 246238,
       "deliverable_qty": 68438,
       "delivery_pct": 27.79
+    },
+    {
+      "date": "2026-06-02",
+      "close": 1223.3,
+      "prev_close": 1132.4,
+      "volume": 1064185,
+      "deliverable_qty": 236865,
+      "delivery_pct": 22.26
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 12:19:22",
+      "an_dt": "02-Jun-2026 12:19:22",
+      "desc": "Shareholders meeting",
+      "sm_name": "Dredging Corporation of India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DREDGECORP_02062026121840_postal_ballot_scrutinizer_report__1_.pdf"
+    },
     {
       "sort_date": "2026-05-23 14:18:36",
       "an_dt": "23-May-2026 14:18:36",
@@ -603,13 +618,6 @@
       "desc": "Appointment",
       "sm_name": "Dredging Corporation of India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DREDGECORP_09032026153352_20260309APPOINTMENTOF_SMTKRISHNADASASINDEPENDENTDIRECTOR.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 14:55:19",
-      "an_dt": "03-Mar-2026 14:55:19",
-      "desc": "Appointment",
-      "sm_name": "Dredging Corporation of India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DREDGECORP_03032026145455_20260303_APPOINTMENT_OF_INDEPENDEENT_DIRECTOR_SMT_KRISHNA_DAS.pdf"
     }
   ]
 }

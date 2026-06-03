@@ -8,7 +8,7 @@
   "price": 492.75,
   "market_cap_cr": 1367.44,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,6 +426,14 @@
       "volume": 296846,
       "deliverable_qty": 53812,
       "delivery_pct": 18.13
+    },
+    {
+      "date": "2026-06-02",
+      "close": 476.3,
+      "prev_close": 477.65,
+      "volume": 100184,
+      "deliverable_qty": 35014,
+      "delivery_pct": 34.95
     }
   ],
   "news": [
@@ -526,13 +534,6 @@
       "desc": "Appointment",
       "sm_name": "Atul Auto Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ATULAUTO_14032026121635_Intimation_Appointment_KCVora.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 12:24:27",
-      "an_dt": "03-Mar-2026 12:24:27",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Atul Auto Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ATULAUTO_03032026122410_Final_LetterAdvt_NSEBSE_DSC_Signed.pdf"
     }
   ]
 }

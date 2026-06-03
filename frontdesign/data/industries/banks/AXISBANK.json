@@ -8,7 +8,7 @@
   "price": 1272.3,
   "market_cap_cr": 395553.59,
   "industry_source": "webarchive",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,24 @@
       "volume": 4311076,
       "deliverable_qty": 2762419,
       "delivery_pct": 64.08
+    },
+    {
+      "date": "2026-06-02",
+      "close": 1251.1,
+      "prev_close": 1275.9,
+      "volume": 11884695,
+      "deliverable_qty": 6670605,
+      "delivery_pct": 56.13
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 19:17:25",
+      "an_dt": "02-Jun-2026 19:17:25",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Axis Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK1_02062026190959_SE02062026.pdf"
+    },
     {
       "sort_date": "2026-06-01 21:56:09",
       "an_dt": "01-Jun-2026 21:56:09",
@@ -820,13 +835,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Axis Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK1_04032026185240_SE04032026_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 22:52:10",
-      "an_dt": "03-Mar-2026 22:52:10",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Axis Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK_03032026225136_Schedule_of_Investor_Analyst_Meet_03032026_Daiwa_Conference_Signed.pdf"
     }
   ]
 }

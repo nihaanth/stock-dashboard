@@ -8,7 +8,7 @@
   "price": 175.13,
   "market_cap_cr": 1951.01,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,6 +426,14 @@
       "volume": 903288,
       "deliverable_qty": 245999,
       "delivery_pct": 27.23
+    },
+    {
+      "date": "2026-06-02",
+      "close": 197.59,
+      "prev_close": 191.04,
+      "volume": 684254,
+      "deliverable_qty": 231379,
+      "delivery_pct": 33.81
     }
   ],
   "news": [
@@ -575,13 +583,6 @@
       "desc": "General Updates",
       "sm_name": "DCX Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCX_2022_05032026182010_Award_Disclosure.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 18:23:19",
-      "an_dt": "03-Mar-2026 18:23:19",
-      "desc": "Press Release",
-      "sm_name": "DCX Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DCX_2022_03032026182308_PRESS_RELEASE.pdf"
     }
   ]
 }

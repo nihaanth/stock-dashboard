@@ -8,7 +8,7 @@
   "price": 138.81,
   "market_cap_cr": 777.89,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,24 @@
       "volume": 73066,
       "deliverable_qty": 42735,
       "delivery_pct": 58.49
+    },
+    {
+      "date": "2026-06-02",
+      "close": 142.28,
+      "prev_close": 142.43,
+      "volume": 61228,
+      "deliverable_qty": 28700,
+      "delivery_pct": 46.87
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 14:18:38",
+      "an_dt": "02-Jun-2026 14:18:38",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Menon Bearings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MENONBE_02062026141808_Investor_Meet_Intimation_Draft_-_8_June_26_signed.pdf"
+    },
     {
       "sort_date": "2026-05-24 16:54:13",
       "an_dt": "24-May-2026 16:54:13",
@@ -561,55 +576,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Menon Bearings Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MENONBE_13032026101443_Kaptify.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 13:09:31",
-      "an_dt": "03-Mar-2026 13:09:31",
-      "desc": "Resignation",
-      "sm_name": "Menon Bearings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MENONBE_03032026130914_Outcome_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 13:06:54",
-      "an_dt": "03-Mar-2026 13:06:54",
-      "desc": "Change in Management",
-      "sm_name": "Menon Bearings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MENONBE_03032026130630_Outcome_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 13:03:33",
-      "an_dt": "03-Mar-2026 13:03:33",
-      "desc": "Appointment",
-      "sm_name": "Menon Bearings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MENONBE_03032026130304_Outcome_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 13:00:30",
-      "an_dt": "03-Mar-2026 13:00:30",
-      "desc": "Appointment",
-      "sm_name": "Menon Bearings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MENONBE_03032026130008_Outcome_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 12:57:00",
-      "an_dt": "03-Mar-2026 12:57:00",
-      "desc": "Cessation",
-      "sm_name": "Menon Bearings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MENONBE_03032026125640_Outcome_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 12:48:47",
-      "an_dt": "03-Mar-2026 12:48:47",
-      "desc": "Change in Director(s)",
-      "sm_name": "Menon Bearings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MENONBE_03032026124807_Outcome_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 12:44:25",
-      "an_dt": "03-Mar-2026 12:44:25",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Menon Bearings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MENONBE_03032026124406_Outcome_signed.pdf"
     }
   ]
 }

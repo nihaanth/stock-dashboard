@@ -8,7 +8,7 @@
   "price": 312.75,
   "market_cap_cr": 1600.53,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,24 @@
       "volume": 104135,
       "deliverable_qty": 55384,
       "delivery_pct": 53.18
+    },
+    {
+      "date": "2026-06-02",
+      "close": 275.0,
+      "prev_close": 275.0,
+      "volume": 123713,
+      "deliverable_qty": 59999,
+      "delivery_pct": 48.5
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 12:40:01",
+      "an_dt": "02-Jun-2026 12:40:01",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Godavari Biorefineries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GODAVARIBIO_02062026123850_Intimation_to_SE-_Transcript.pdf"
+    },
     {
       "sort_date": "2026-05-28 15:14:32",
       "an_dt": "28-May-2026 15:14:32",

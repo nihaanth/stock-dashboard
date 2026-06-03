@@ -8,7 +8,7 @@
   "price": 116.14,
   "market_cap_cr": 2301.46,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,24 @@
       "volume": 1277375,
       "deliverable_qty": 522894,
       "delivery_pct": 40.94
+    },
+    {
+      "date": "2026-06-02",
+      "close": 122.5,
+      "prev_close": 120.81,
+      "volume": 1337679,
+      "deliverable_qty": 349643,
+      "delivery_pct": 26.14
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 17:15:49",
+      "an_dt": "02-Jun-2026 17:15:49",
+      "desc": "Committee Meeting Updates",
+      "sm_name": "Mufin Green Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MUFIN_02062026171543_Outcome_f.pdf"
+    },
     {
       "sort_date": "2026-05-28 19:22:52",
       "an_dt": "28-May-2026 19:22:52",
@@ -519,13 +534,6 @@
       "desc": "Allotment of Securities",
       "sm_name": "Mufin Green Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MUFIN_04032026215653_Intimation_Allotment.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 22:27:59",
-      "an_dt": "03-Mar-2026 22:27:59",
-      "desc": "General Updates",
-      "sm_name": "Mufin Green Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MUFIN_03032026222710_MFGL_Intimation_Press_Release_Clarification_F.pdf"
     }
   ]
 }

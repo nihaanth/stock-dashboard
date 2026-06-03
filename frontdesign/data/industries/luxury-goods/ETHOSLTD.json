@@ -8,7 +8,7 @@
   "price": 2359.6,
   "market_cap_cr": 6313.75,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,24 @@
       "volume": 8586,
       "deliverable_qty": 4396,
       "delivery_pct": 51.2
+    },
+    {
+      "date": "2026-06-02",
+      "close": 2359.6,
+      "prev_close": 2325.7,
+      "volume": 4105,
+      "deliverable_qty": 1804,
+      "delivery_pct": 43.95
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 15:38:07",
+      "an_dt": "02-Jun-2026 15:38:07",
+      "desc": "Shareholders meeting",
+      "sm_name": "Ethos Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ETHOS_02062026153755_IntimationfornoticeofPBsigned.pdf"
+    },
     {
       "sort_date": "2026-05-30 17:37:34",
       "an_dt": "30-May-2026 17:37:34",

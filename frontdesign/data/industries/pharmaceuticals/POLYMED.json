@@ -8,7 +8,7 @@
   "price": 1650.8,
   "market_cap_cr": 16752.24,
   "industry_source": "webarchive",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,9 +426,24 @@
       "volume": 136451,
       "deliverable_qty": 57216,
       "delivery_pct": 41.93
+    },
+    {
+      "date": "2026-06-02",
+      "close": 1321.4,
+      "prev_close": 1333.9,
+      "volume": 107038,
+      "deliverable_qty": 43906,
+      "delivery_pct": 41.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-02 17:50:14",
+      "an_dt": "02-Jun-2026 17:50:14",
+      "desc": "General Updates",
+      "sm_name": "Poly Medicure Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POLYMED_02062026175004_Investors_calls_upload.pdf"
+    },
     {
       "sort_date": "2026-06-01 18:54:31",
       "an_dt": "01-Jun-2026 18:54:31",
@@ -610,13 +625,6 @@
       "desc": "Investor Presentation",
       "sm_name": "Poly Medicure Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/POLYMED_07032026154146_Investor_Presentation_Final.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 17:34:41",
-      "an_dt": "03-Mar-2026 17:34:41",
-      "desc": "General Updates",
-      "sm_name": "Poly Medicure Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POLYMED_03032026173333_Intimation_Investors_call_Final.pdf"
     }
   ]
 }

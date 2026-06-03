@@ -8,7 +8,7 @@
   "price": 1000.7,
   "market_cap_cr": 2392.73,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,6 +426,14 @@
       "volume": 62734,
       "deliverable_qty": 48052,
       "delivery_pct": 76.6
+    },
+    {
+      "date": "2026-06-02",
+      "close": 1087.1,
+      "prev_close": 1103.0,
+      "volume": 49277,
+      "deliverable_qty": 23763,
+      "delivery_pct": 48.22
     }
   ],
   "news": [
@@ -491,13 +499,6 @@
       "desc": "Trading Window",
       "sm_name": "Prataap Snacks Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIAMONDYD_25032026150738_IntimationClosureofTradingWindow_.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 13:56:21",
-      "an_dt": "03-Mar-2026 13:56:21",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Prataap Snacks Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIAMONDYD_03032026135120_IntimationofscheduleofAnalystorInvestorMeeting11032026_.pdf"
     }
   ]
 }

@@ -8,7 +8,7 @@
   "price": 155.45,
   "market_cap_cr": 1971.26,
   "industry_source": "yfinance",
-  "as_of": "2026-06-01",
+  "as_of": "2026-06-02",
   "window_days": 90,
   "daily": [
     {
@@ -426,6 +426,14 @@
       "volume": 147408,
       "deliverable_qty": 114523,
       "delivery_pct": 77.69
+    },
+    {
+      "date": "2026-06-02",
+      "close": 174.83,
+      "prev_close": 176.72,
+      "volume": 1036095,
+      "deliverable_qty": 446949,
+      "delivery_pct": 43.14
     }
   ],
   "news": [
@@ -512,13 +520,6 @@
       "desc": "Press Release",
       "sm_name": "Silver Touch Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SILVERTUC_04032026100702_Business_Update_Relase_AIMS_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-03 16:24:18",
-      "an_dt": "03-Mar-2026 16:24:18",
-      "desc": "Press Release",
-      "sm_name": "Silver Touch Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SILVERTUC_03032026162401_Business_Update_Release_Mumbai_Customs_signed.pdf"
     }
   ]
 }
