@@ -8,17 +8,9 @@
   "price": 368.6,
   "market_cap_cr": 722.13,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 310.9,
-      "prev_close": 316.4,
-      "volume": 3359,
-      "deliverable_qty": 2429,
-      "delivery_pct": 72.31
-    },
     {
       "date": "2026-03-05",
       "close": 316.7,
@@ -434,9 +426,24 @@
       "volume": 6958,
       "deliverable_qty": 4312,
       "delivery_pct": 61.97
+    },
+    {
+      "date": "2026-06-03",
+      "close": 344.9,
+      "prev_close": 335.4,
+      "volume": 771712,
+      "deliverable_qty": 627933,
+      "delivery_pct": 81.37
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 14:58:13",
+      "an_dt": "03-Jun-2026 14:58:13",
+      "desc": "Press Release",
+      "sm_name": "Modis Navnirman Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MODIS_03062026145730_Pree_Release_Neel_Kiran_Chsl_03_06_2026-output.pdf"
+    },
     {
       "sort_date": "2026-05-21 12:17:28",
       "an_dt": "21-May-2026 12:17:28",
@@ -555,13 +562,6 @@
       "desc": "Press Release",
       "sm_name": "Modis Navnirman Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MODIS_12032026110530_Press_Release_-_Modis_receives_OC_for_Rashmi_Celestia.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 17:26:24",
-      "an_dt": "04-Mar-2026 17:26:24",
-      "desc": "Press Release",
-      "sm_name": "Modis Navnirman Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MODIS_04032026172514_Pree_Release_New_Mandate_MNL_04_03_2026-IR-PR.pdf"
     }
   ]
 }

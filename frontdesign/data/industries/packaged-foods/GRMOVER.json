@@ -8,17 +8,9 @@
   "price": 167.33,
   "market_cap_cr": 3472.5,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 158.31,
-      "prev_close": 158.96,
-      "volume": 1511786,
-      "deliverable_qty": 332350,
-      "delivery_pct": 21.98
-    },
     {
       "date": "2026-03-05",
       "close": 162.88,
@@ -434,9 +426,31 @@
       "volume": 4874414,
       "deliverable_qty": 749214,
       "delivery_pct": 15.37
+    },
+    {
+      "date": "2026-06-03",
+      "close": 153.62,
+      "prev_close": 155.67,
+      "volume": 2468653,
+      "deliverable_qty": 594789,
+      "delivery_pct": 24.09
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 12:09:52",
+      "an_dt": "03-Jun-2026 12:09:52",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "GRM Overseas Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_19052026181839_GRMOVER1.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 12:07:22",
+      "an_dt": "03-Jun-2026 12:07:22",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "GRM Overseas Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_19052026181428_GRMOVER.pdf"
+    },
     {
       "sort_date": "2026-06-01 12:58:46",
       "an_dt": "01-Jun-2026 12:58:46",

@@ -8,17 +8,9 @@
   "price": 1876.3,
   "market_cap_cr": 6652.38,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 1945.8,
-      "prev_close": 1936.7,
-      "volume": 17106,
-      "deliverable_qty": 9865,
-      "delivery_pct": 57.67
-    },
     {
       "date": "2026-03-05",
       "close": 1957.8,
@@ -434,9 +426,24 @@
       "volume": 7669,
       "deliverable_qty": 4261,
       "delivery_pct": 55.56
+    },
+    {
+      "date": "2026-06-03",
+      "close": 1745.6,
+      "prev_close": 1757.5,
+      "volume": 3759,
+      "deliverable_qty": 2494,
+      "delivery_pct": 66.35
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 17:21:39",
+      "an_dt": "03-Jun-2026 17:21:39",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Galaxy Surfactants Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GALAXYSURF_03062026172117_intimationofmeet0626ds.pdf"
+    },
     {
       "sort_date": "2026-05-21 15:44:53",
       "an_dt": "21-May-2026 15:44:53",

@@ -8,17 +8,9 @@
   "price": 694.3,
   "market_cap_cr": 3973.13,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 647.1,
-      "prev_close": 664.3,
-      "volume": 28909,
-      "deliverable_qty": 16785,
-      "delivery_pct": 58.06
-    },
     {
       "date": "2026-03-05",
       "close": 669.3,
@@ -434,9 +426,24 @@
       "volume": 35650,
       "deliverable_qty": 20079,
       "delivery_pct": 56.32
+    },
+    {
+      "date": "2026-06-03",
+      "close": 857.0,
+      "prev_close": 862.4,
+      "volume": 16106,
+      "deliverable_qty": 8900,
+      "delivery_pct": 55.26
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 17:27:55",
+      "an_dt": "03-Jun-2026 17:27:55",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Innova Captab Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INNOVACAPTAB_03062026172733_Pre_Newspaper_of_AGM_Notice_ICL_signed.pdf"
+    },
     {
       "sort_date": "2026-05-26 18:26:36",
       "an_dt": "26-May-2026 18:26:36",

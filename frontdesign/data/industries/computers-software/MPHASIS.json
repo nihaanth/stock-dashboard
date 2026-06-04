@@ -8,17 +8,9 @@
   "price": 2201.2,
   "market_cap_cr": 42002.65,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 2267.2,
-      "prev_close": 2255.5,
-      "volume": 674633,
-      "deliverable_qty": 304576,
-      "delivery_pct": 45.15
-    },
     {
       "date": "2026-03-05",
       "close": 2231.6,
@@ -434,6 +426,14 @@
       "volume": 1126516,
       "deliverable_qty": 468357,
       "delivery_pct": 41.58
+    },
+    {
+      "date": "2026-06-03",
+      "close": 2288.5,
+      "prev_close": 2387.7,
+      "volume": 595642,
+      "deliverable_qty": 193971,
+      "delivery_pct": 32.57
     }
   ],
   "news": [
@@ -660,13 +660,6 @@
       "desc": "General Updates",
       "sm_name": "MphasiS Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MPHASIS_13032026112501_Reg_30sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 11:39:14",
-      "an_dt": "04-Mar-2026 11:39:14",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "MphasiS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MPHASIS_04032026113735_Intimation_for_Advertisement_of_Voting_results.pdf"
     }
   ]
 }

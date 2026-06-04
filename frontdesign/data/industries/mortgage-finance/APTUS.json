@@ -8,17 +8,9 @@
   "price": 287.0,
   "market_cap_cr": 14371.32,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 228.41,
-      "prev_close": 238.29,
-      "volume": 1993159,
-      "deliverable_qty": 1054026,
-      "delivery_pct": 52.88
-    },
     {
       "date": "2026-03-05",
       "close": 228.5,
@@ -434,9 +426,24 @@
       "volume": 453587,
       "deliverable_qty": 205468,
       "delivery_pct": 45.3
+    },
+    {
+      "date": "2026-06-03",
+      "close": 257.6,
+      "prev_close": 260.6,
+      "volume": 284099,
+      "deliverable_qty": 128028,
+      "delivery_pct": 45.06
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 17:26:15",
+      "an_dt": "03-Jun-2026 17:26:15",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aptus Value Housing Finance India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APTUS_03062026172555_Aptus_Investor_Meeting_Intimation_June_05_2026_sd.pdf"
+    },
     {
       "sort_date": "2026-06-01 17:04:58",
       "an_dt": "01-Jun-2026 17:04:58",

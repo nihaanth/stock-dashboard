@@ -8,17 +8,9 @@
   "price": 103.08,
   "market_cap_cr": 134710.17,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 97.74,
-      "prev_close": 99.34,
-      "volume": 32963143,
-      "deliverable_qty": 14578558,
-      "delivery_pct": 44.23
-    },
     {
       "date": "2026-03-05",
       "close": 98.85,
@@ -434,6 +426,14 @@
       "volume": 7592689,
       "deliverable_qty": 2448678,
       "delivery_pct": 32.25
+    },
+    {
+      "date": "2026-06-03",
+      "close": 95.75,
+      "prev_close": 96.67,
+      "volume": 9801364,
+      "deliverable_qty": 2931848,
+      "delivery_pct": 29.91
     }
   ],
   "news": [
@@ -604,13 +604,6 @@
       "desc": "Dividend",
       "sm_name": "Indian Railway Finance Corporation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRFC_09032026131537_BMOUTCOME09032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 16:13:25",
-      "an_dt": "04-Mar-2026 16:13:25",
-      "desc": "Press Release",
-      "sm_name": "Indian Railway Finance Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRFC_04032026161308_Pressreleaseintimation04032026.pdf"
     }
   ]
 }

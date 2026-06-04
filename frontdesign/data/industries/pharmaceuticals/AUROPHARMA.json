@@ -8,17 +8,9 @@
   "price": 1486.6,
   "market_cap_cr": 86341.96,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 1195.4,
-      "prev_close": 1210.4,
-      "volume": 909693,
-      "deliverable_qty": 480610,
-      "delivery_pct": 52.83
-    },
     {
       "date": "2026-03-05",
       "close": 1225.5,
@@ -434,9 +426,31 @@
       "volume": 1066247,
       "deliverable_qty": 536492,
       "delivery_pct": 50.32
+    },
+    {
+      "date": "2026-06-03",
+      "close": 1440.4,
+      "prev_close": 1429.2,
+      "volume": 969156,
+      "deliverable_qty": 412461,
+      "delivery_pct": 42.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 17:43:56",
+      "an_dt": "03-Jun-2026 17:43:56",
+      "desc": "Press Release",
+      "sm_name": "Aurobindo Pharma Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AUROPHARMA_03062026174122_LtrToSEsPressReleaseTheranym03062026.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 10:56:49",
+      "an_dt": "03-Jun-2026 10:56:49",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aurobindo Pharma Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AUROPHARMA_03062026105617_LtrToSEsInvestorMeet03062026.pdf"
+    },
     {
       "sort_date": "2026-05-27 18:23:51",
       "an_dt": "27-May-2026 18:23:51",
@@ -765,13 +779,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Aurobindo Pharma Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AUROPHARMA_09032026144429_LtrToSEsInvestorMeetBofA09032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 12:13:51",
-      "an_dt": "04-Mar-2026 12:13:51",
-      "desc": "Press Release",
-      "sm_name": "Aurobindo Pharma Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AUROPHARMA_04032026121324_LtrToSEsPressReleaseEugia04032026.pdf"
     }
   ]
 }

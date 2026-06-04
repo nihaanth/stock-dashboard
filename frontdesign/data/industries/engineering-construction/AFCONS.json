@@ -8,17 +8,9 @@
   "price": 326.65,
   "market_cap_cr": 12013.69,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 279.3,
-      "prev_close": 284.3,
-      "volume": 554588,
-      "deliverable_qty": 287549,
-      "delivery_pct": 51.85
-    },
     {
       "date": "2026-03-05",
       "close": 284.75,
@@ -434,6 +426,14 @@
       "volume": 342509,
       "deliverable_qty": 80869,
       "delivery_pct": 23.61
+    },
+    {
+      "date": "2026-06-03",
+      "close": 323.7,
+      "prev_close": 327.15,
+      "volume": 266939,
+      "deliverable_qty": 86391,
+      "delivery_pct": 32.36
     }
   ],
   "news": [
@@ -667,13 +667,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Afcons Infrastructure Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_05032026120520_Afcons_newspaper_publicantion_of_postla_ballot05032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 17:38:38",
-      "an_dt": "04-Mar-2026 17:38:38",
-      "desc": "Shareholders meeting",
-      "sm_name": "Afcons Infrastructure Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_04032026173815_Afcons_Intimation_of_PostalBallotNoticedated04032026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 71.22,
   "market_cap_cr": 540.53,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 68.91,
-      "prev_close": 68.7,
-      "volume": 116288,
-      "deliverable_qty": 26514,
-      "delivery_pct": 22.8
-    },
     {
       "date": "2026-03-05",
       "close": 69.36,
@@ -434,9 +426,24 @@
       "volume": 19706,
       "deliverable_qty": 12551,
       "delivery_pct": 63.69
+    },
+    {
+      "date": "2026-06-03",
+      "close": 68.59,
+      "prev_close": 68.03,
+      "volume": 18489,
+      "deliverable_qty": 12597,
+      "delivery_pct": 68.13
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 18:14:35",
+      "an_dt": "03-Jun-2026 18:14:35",
+      "desc": "Updates",
+      "sm_name": "W S Industries (I) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WSI_03062026181410_WSI_Reg_30_Intimation_03062026_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-26 17:50:08",
       "an_dt": "26-May-2026 17:50:08",
@@ -555,20 +562,6 @@
       "desc": "Trading Window",
       "sm_name": "W S Industries (I) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WSI_25032026154045_WSI_Trading_Window_March_2026_SD.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 19:19:54",
-      "an_dt": "04-Mar-2026 19:19:54",
-      "desc": "Forfeiture",
-      "sm_name": "W S Industries (I) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WSI_04032026191934_Allotment_Committee_Meeting_Outcome_04032026_SD.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 19:19:54",
-      "an_dt": "04-Mar-2026 19:19:54",
-      "desc": "Conversion",
-      "sm_name": "W S Industries (I) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WSI_04032026191923_Allotment_Committee_Meeting_Outcome_04032026_SD.pdf"
     }
   ]
 }

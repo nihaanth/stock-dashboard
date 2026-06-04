@@ -8,17 +8,9 @@
   "price": 5377.4,
   "market_cap_cr": 84084.21,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 4709.1,
-      "prev_close": 4673.4,
-      "volume": 707053,
-      "deliverable_qty": 284489,
-      "delivery_pct": 40.24
-    },
     {
       "date": "2026-03-05",
       "close": 4641.7,
@@ -434,9 +426,24 @@
       "volume": 1368824,
       "deliverable_qty": 586003,
       "delivery_pct": 42.81
+    },
+    {
+      "date": "2026-06-03",
+      "close": 5097.5,
+      "prev_close": 5470.5,
+      "volume": 768497,
+      "deliverable_qty": 276477,
+      "delivery_pct": 35.98
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 20:22:51",
+      "an_dt": "03-Jun-2026 20:22:51",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Persistent Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_03062026202242_PSLOutcomeInvestorSessionJune32026sd.pdf"
+    },
     {
       "sort_date": "2026-06-02 19:51:17",
       "an_dt": "02-Jun-2026 19:51:17",
@@ -940,20 +947,6 @@
       "desc": "Amalgamation/Merger",
       "sm_name": "Persistent Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_05032026131349_PersistentSystemsSEIntimationofMergerofStsrfishintoPSIsigned.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 21:57:44",
-      "an_dt": "04-Mar-2026 21:57:44",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Persistent Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_04032026215735_PSLOutcomeofInvestorAnalystsessionMarch42026Sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 21:20:06",
-      "an_dt": "04-Mar-2026 21:20:06",
-      "desc": "Other Restructuring",
-      "sm_name": "Persistent Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_04032026212000_PSLIntimationofExecutionoftheSPAMarch42026signed.pdf"
     }
   ]
 }

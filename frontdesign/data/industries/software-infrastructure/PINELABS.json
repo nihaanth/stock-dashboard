@@ -8,17 +8,9 @@
   "price": 195.46,
   "market_cap_cr": 22444.21,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 172.84,
-      "prev_close": 181.44,
-      "volume": 1599395,
-      "deliverable_qty": 876603,
-      "delivery_pct": 54.81
-    },
     {
       "date": "2026-03-05",
       "close": 174.62,
@@ -434,9 +426,31 @@
       "volume": 13985279,
       "deliverable_qty": 5778036,
       "delivery_pct": 41.32
+    },
+    {
+      "date": "2026-06-03",
+      "close": 143.04,
+      "prev_close": 142.82,
+      "volume": 19663572,
+      "deliverable_qty": 7960319,
+      "delivery_pct": 40.48
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 16:49:57",
+      "an_dt": "03-Jun-2026 16:49:57",
+      "desc": "General Updates",
+      "sm_name": "Pine Labs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PINELABS_03062026164850_InvestorAnalystdayIntimationfinal.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 13:38:25",
+      "an_dt": "03-Jun-2026 13:38:25",
+      "desc": "Updates",
+      "sm_name": "Pine Labs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PINELABS_03062026133717_MopayStrikeOff.pdf"
+    },
     {
       "sort_date": "2026-06-01 12:53:24",
       "an_dt": "01-Jun-2026 12:53:24",

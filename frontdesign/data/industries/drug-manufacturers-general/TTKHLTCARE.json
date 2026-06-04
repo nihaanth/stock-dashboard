@@ -8,17 +8,9 @@
   "price": 916.9,
   "market_cap_cr": 1295.61,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 876.85,
-      "prev_close": 892.8,
-      "volume": 13715,
-      "deliverable_qty": 10193,
-      "delivery_pct": 74.32
-    },
     {
       "date": "2026-03-05",
       "close": 860.9,
@@ -434,9 +426,24 @@
       "volume": 3809,
       "deliverable_qty": 2830,
       "delivery_pct": 74.3
+    },
+    {
+      "date": "2026-06-03",
+      "close": 916.75,
+      "prev_close": 924.5,
+      "volume": 3102,
+      "deliverable_qty": 1765,
+      "delivery_pct": 56.9
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 14:50:58",
+      "an_dt": "03-Jun-2026 14:50:58",
+      "desc": "Record Date",
+      "sm_name": "TTK Healthcare Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TTKHCSECL_03062026145016_SE_Intimation_-_Record_Date.pdf"
+    },
     {
       "sort_date": "2026-06-01 18:08:20",
       "an_dt": "01-Jun-2026 18:08:20",

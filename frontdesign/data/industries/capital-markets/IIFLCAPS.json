@@ -8,17 +8,9 @@
   "price": 351.25,
   "market_cap_cr": 10939.14,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 318.8,
-      "prev_close": 315.95,
-      "volume": 1933772,
-      "deliverable_qty": 657234,
-      "delivery_pct": 33.99
-    },
     {
       "date": "2026-03-05",
       "close": 316.7,
@@ -434,9 +426,24 @@
       "volume": 544605,
       "deliverable_qty": 414031,
       "delivery_pct": 76.02
+    },
+    {
+      "date": "2026-06-03",
+      "close": 338.6,
+      "prev_close": 338.15,
+      "volume": 155412,
+      "deliverable_qty": 100378,
+      "delivery_pct": 64.59
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 14:46:06",
+      "an_dt": "03-Jun-2026 14:46:06",
+      "desc": "Shareholders meeting",
+      "sm_name": "IIFL Capital Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFLSEC_03062026144530_Intimation.pdf"
+    },
     {
       "sort_date": "2026-06-01 18:04:12",
       "an_dt": "01-Jun-2026 18:04:12",

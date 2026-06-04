@@ -8,17 +8,9 @@
   "price": 10503.5,
   "market_cap_cr": 63767.34,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 10136.0,
-      "prev_close": 10151.0,
-      "volume": 957824,
-      "deliverable_qty": 324228,
-      "delivery_pct": 33.85
-    },
     {
       "date": "2026-03-05",
       "close": 10224.0,
@@ -434,9 +426,24 @@
       "volume": 317648,
       "deliverable_qty": 77841,
       "delivery_pct": 24.51
+    },
+    {
+      "date": "2026-06-03",
+      "close": 11227.0,
+      "prev_close": 11604.0,
+      "volume": 524162,
+      "deliverable_qty": 193190,
+      "delivery_pct": 36.86
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 16:55:52",
+      "an_dt": "03-Jun-2026 16:55:52",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Dixon Technologies (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIXON_03062026165335_CopyofNewspaperPublication.pdf"
+    },
     {
       "sort_date": "2026-06-02 16:24:57",
       "an_dt": "02-Jun-2026 16:24:57",

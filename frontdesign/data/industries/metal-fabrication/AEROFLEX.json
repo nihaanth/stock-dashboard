@@ -8,17 +8,9 @@
   "price": 398.6,
   "market_cap_cr": 5274.7,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 218.22,
-      "prev_close": 225.83,
-      "volume": 1573980,
-      "deliverable_qty": 492288,
-      "delivery_pct": 31.28
-    },
     {
       "date": "2026-03-05",
       "close": 223.73,
@@ -434,6 +426,14 @@
       "volume": 2773192,
       "deliverable_qty": 1024518,
       "delivery_pct": 36.94
+    },
+    {
+      "date": "2026-06-03",
+      "close": 434.4,
+      "prev_close": 419.45,
+      "volume": 3666854,
+      "deliverable_qty": 949660,
+      "delivery_pct": 25.9
     }
   ],
   "news": [
@@ -569,13 +569,6 @@
       "desc": "Trading Window",
       "sm_name": "Aeroflex Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AEROFLEXINDIA_26032026175036_AIL_Intimation_of_Closure_of_Trading_Window_31032026Signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 16:16:00",
-      "an_dt": "04-Mar-2026 16:16:00",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Aeroflex Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AEROFLEXINDIA_04032026161551_AILJM.pdf"
     }
   ]
 }

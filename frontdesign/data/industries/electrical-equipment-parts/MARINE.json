@@ -8,17 +8,9 @@
   "price": 192.01,
   "market_cap_cr": 2547.31,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 179.79,
-      "prev_close": 187.16,
-      "volume": 391792,
-      "deliverable_qty": 218565,
-      "delivery_pct": 55.79
-    },
     {
       "date": "2026-03-05",
       "close": 186.7,
@@ -434,9 +426,24 @@
       "volume": 1197837,
       "deliverable_qty": 461136,
       "delivery_pct": 38.5
+    },
+    {
+      "date": "2026-06-03",
+      "close": 252.45,
+      "prev_close": 258.1,
+      "volume": 866478,
+      "deliverable_qty": 351846,
+      "delivery_pct": 40.61
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 18:30:49",
+      "an_dt": "03-Jun-2026 18:30:49",
+      "desc": "General Updates",
+      "sm_name": "Marine Electricals (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARINE_03062026182754_Signed_final_Cessation_of_Investor_Relation_Advisory_Services_final.pdf"
+    },
     {
       "sort_date": "2026-06-02 18:08:13",
       "an_dt": "02-Jun-2026 18:08:13",

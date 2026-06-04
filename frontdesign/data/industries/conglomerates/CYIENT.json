@@ -8,17 +8,9 @@
   "price": 896.15,
   "market_cap_cr": 9894.8,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 882.25,
-      "prev_close": 899.5,
-      "volume": 259099,
-      "deliverable_qty": 123486,
-      "delivery_pct": 47.66
-    },
     {
       "date": "2026-03-05",
       "close": 885.8,
@@ -434,6 +426,14 @@
       "volume": 589573,
       "deliverable_qty": 287914,
       "delivery_pct": 48.83
+    },
+    {
+      "date": "2026-06-03",
+      "close": 906.3,
+      "prev_close": 925.6,
+      "volume": 418105,
+      "deliverable_qty": 235961,
+      "delivery_pct": 56.44
     }
   ],
   "news": [
@@ -716,27 +716,6 @@
       "desc": "Updates",
       "sm_name": "Cyient Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CYIENT_05032026215540_05032026TradingwindowSigned.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 20:27:05",
-      "an_dt": "04-Mar-2026 20:27:05",
-      "desc": "Updates",
-      "sm_name": "Cyient Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CYIENT_04032026202648_ASOPAllotmentletterSigned04032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 17:46:16",
-      "an_dt": "04-Mar-2026 17:46:16",
-      "desc": "General Updates",
-      "sm_name": "Cyient Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CYIENT_04032026174544_04032026NoticeonCommencementInfotechHALSigned.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 09:04:45",
-      "an_dt": "04-Mar-2026 09:04:45",
-      "desc": "Press Release",
-      "sm_name": "Cyient Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CYIENT_04032026090427_PR04032026FinalSigned.pdf"
     }
   ]
 }

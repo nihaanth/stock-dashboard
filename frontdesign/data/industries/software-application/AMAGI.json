@@ -8,17 +8,9 @@
   "price": 349.55,
   "market_cap_cr": 7562.13,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 378.55,
-      "prev_close": 379.95,
-      "volume": 302533,
-      "deliverable_qty": 155584,
-      "delivery_pct": 51.43
-    },
     {
       "date": "2026-03-05",
       "close": 382.1,
@@ -434,6 +426,14 @@
       "volume": 156110,
       "deliverable_qty": 80592,
       "delivery_pct": 51.63
+    },
+    {
+      "date": "2026-06-03",
+      "close": 430.75,
+      "prev_close": 425.55,
+      "volume": 84052,
+      "deliverable_qty": 44320,
+      "delivery_pct": 52.73
     }
   ],
   "news": [
@@ -667,13 +667,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Amagi Media Labs Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMAGI_05032026120242_NewspaperadPostalBallot.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 16:43:59",
-      "an_dt": "04-Mar-2026 16:43:59",
-      "desc": "Shareholders meeting",
-      "sm_name": "Amagi Media Labs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMAGI_04032026164342_PostalBallotNotice.pdf"
     }
   ]
 }

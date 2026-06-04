@@ -8,17 +8,9 @@
   "price": 846.65,
   "market_cap_cr": 22059.43,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 783.15,
-      "prev_close": 813.3,
-      "volume": 779842,
-      "deliverable_qty": 301655,
-      "delivery_pct": 38.68
-    },
     {
       "date": "2026-03-05",
       "close": 790.65,
@@ -434,9 +426,24 @@
       "volume": 637554,
       "deliverable_qty": 329652,
       "delivery_pct": 51.71
+    },
+    {
+      "date": "2026-06-03",
+      "close": 993.0,
+      "prev_close": 996.5,
+      "volume": 608418,
+      "deliverable_qty": 218223,
+      "delivery_pct": 35.87
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 18:04:40",
+      "an_dt": "03-Jun-2026 18:04:40",
+      "desc": "Appointment",
+      "sm_name": "PNB Housing Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNBHOUSING_03062026175934_SE_Intimation_SMP_03062026.pdf"
+    },
     {
       "sort_date": "2026-06-02 19:08:54",
       "an_dt": "02-Jun-2026 19:08:54",

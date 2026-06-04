@@ -8,17 +8,9 @@
   "price": 451.65,
   "market_cap_cr": 5099.31,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 340.95,
-      "prev_close": 353.05,
-      "volume": 245406,
-      "deliverable_qty": 115979,
-      "delivery_pct": 47.26
-    },
     {
       "date": "2026-03-05",
       "close": 348.65,
@@ -434,9 +426,31 @@
       "volume": 1868980,
       "deliverable_qty": 844868,
       "delivery_pct": 45.2
+    },
+    {
+      "date": "2026-06-03",
+      "close": 570.5,
+      "prev_close": 572.4,
+      "volume": 1743919,
+      "deliverable_qty": 798322,
+      "delivery_pct": 45.78
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 18:50:50",
+      "an_dt": "03-Jun-2026 18:50:50",
+      "desc": "Updates",
+      "sm_name": "Skipper Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/skipper_03062026185026_intimationdated030626.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 15:42:41",
+      "an_dt": "03-Jun-2026 15:42:41",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Skipper Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/skipper_03062026154228_OUTCOME030626.pdf"
+    },
     {
       "sort_date": "2026-06-02 16:09:51",
       "an_dt": "02-Jun-2026 16:09:51",

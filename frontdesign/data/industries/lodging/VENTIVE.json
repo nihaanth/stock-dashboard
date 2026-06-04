@@ -8,17 +8,9 @@
   "price": 672.45,
   "market_cap_cr": 15704.51,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 704.6,
-      "prev_close": 711.4,
-      "volume": 51638,
-      "deliverable_qty": 29359,
-      "delivery_pct": 56.86
-    },
     {
       "date": "2026-03-05",
       "close": 699.75,
@@ -434,9 +426,24 @@
       "volume": 25668,
       "deliverable_qty": 19222,
       "delivery_pct": 74.89
+    },
+    {
+      "date": "2026-06-03",
+      "close": 641.6,
+      "prev_close": 634.15,
+      "volume": 46951,
+      "deliverable_qty": 24456,
+      "delivery_pct": 52.09
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 18:05:35",
+      "an_dt": "03-Jun-2026 18:05:35",
+      "desc": "Acquisition",
+      "sm_name": "Ventive Hospitality Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VENTIVE_03062026180521_VHL_Acquistion_50_CR_OCD_SOHAM.pdf"
+    },
     {
       "sort_date": "2026-05-20 11:37:52",
       "an_dt": "20-May-2026 11:37:52",

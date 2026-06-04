@@ -8,17 +8,9 @@
   "price": 71.97,
   "market_cap_cr": 502.42,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 65.94,
-      "prev_close": 62.13,
-      "volume": 21638,
-      "deliverable_qty": 12050,
-      "delivery_pct": 55.69
-    },
     {
       "date": "2026-03-05",
       "close": 66.8,
@@ -434,6 +426,14 @@
       "volume": 28773,
       "deliverable_qty": 20928,
       "delivery_pct": 72.73
+    },
+    {
+      "date": "2026-06-03",
+      "close": 71.42,
+      "prev_close": 71.84,
+      "volume": 7776,
+      "deliverable_qty": 2774,
+      "delivery_pct": 35.67
     }
   ],
   "news": [
@@ -590,13 +590,6 @@
       "desc": "General Updates",
       "sm_name": "Moneyboxx Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONEYBOXX_09032026103827_Intimation_Business_Updates.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 18:55:55",
-      "an_dt": "04-Mar-2026 18:55:55",
-      "desc": "Press Release",
-      "sm_name": "Moneyboxx Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MONEYBOXX_04032026185540_Press_Release.pdf"
     }
   ]
 }

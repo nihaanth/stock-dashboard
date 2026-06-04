@@ -8,17 +8,9 @@
   "price": 1093.9,
   "market_cap_cr": 8043.39,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 861.25,
-      "prev_close": 869.55,
-      "volume": 72309,
-      "deliverable_qty": 38933,
-      "delivery_pct": 53.84
-    },
     {
       "date": "2026-03-05",
       "close": 882.1,
@@ -434,9 +426,24 @@
       "volume": 64751,
       "deliverable_qty": 31294,
       "delivery_pct": 48.33
+    },
+    {
+      "date": "2026-06-03",
+      "close": 917.75,
+      "prev_close": 899.45,
+      "volume": 52850,
+      "deliverable_qty": 28035,
+      "delivery_pct": 53.05
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 20:52:01",
+      "an_dt": "03-Jun-2026 20:52:01",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Isgec Heavy Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ISGEC_03062026205131_Initimation_Transcript_InvestorMeet_29052026.pdf"
+    },
     {
       "sort_date": "2026-06-01 19:15:17",
       "an_dt": "01-Jun-2026 19:15:17",

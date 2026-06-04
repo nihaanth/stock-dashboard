@@ -8,17 +8,9 @@
   "price": 602.5,
   "market_cap_cr": 935.98,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 503.35,
-      "prev_close": 517.2,
-      "volume": 53812,
-      "deliverable_qty": 38111,
-      "delivery_pct": 70.82
-    },
     {
       "date": "2026-03-05",
       "close": 501.1,
@@ -434,9 +426,24 @@
       "volume": 130165,
       "deliverable_qty": 46954,
       "delivery_pct": 36.07
+    },
+    {
+      "date": "2026-06-03",
+      "close": 557.85,
+      "prev_close": 591.9,
+      "volume": 26523,
+      "deliverable_qty": 13678,
+      "delivery_pct": 51.57
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 12:08:45",
+      "an_dt": "03-Jun-2026 12:08:45",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Synergy Green Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_19052026181632_SGIL.pdf"
+    },
     {
       "sort_date": "2026-05-22 16:36:52",
       "an_dt": "22-May-2026 16:36:52",

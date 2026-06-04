@@ -8,17 +8,9 @@
   "price": 219.69,
   "market_cap_cr": 1904.11,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 180.6,
-      "prev_close": 186.92,
-      "volume": 120011,
-      "deliverable_qty": 73102,
-      "delivery_pct": 60.91
-    },
     {
       "date": "2026-03-05",
       "close": 173.61,
@@ -434,9 +426,24 @@
       "volume": 200028,
       "deliverable_qty": 74486,
       "delivery_pct": 37.24
+    },
+    {
+      "date": "2026-06-03",
+      "close": 198.26,
+      "prev_close": 204.02,
+      "volume": 295552,
+      "deliverable_qty": 161704,
+      "delivery_pct": 54.71
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 12:56:55",
+      "an_dt": "03-Jun-2026 12:56:55",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Solarworld Energy Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20052026112930_SAST.pdf"
+    },
     {
       "sort_date": "2026-06-02 17:31:20",
       "an_dt": "02-Jun-2026 17:31:20",

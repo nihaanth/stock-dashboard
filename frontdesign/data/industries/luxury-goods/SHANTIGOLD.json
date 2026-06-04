@@ -8,17 +8,9 @@
   "price": 183.67,
   "market_cap_cr": 1324.19,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 194.97,
-      "prev_close": 200.92,
-      "volume": 137471,
-      "deliverable_qty": 75782,
-      "delivery_pct": 55.13
-    },
     {
       "date": "2026-03-05",
       "close": 204.99,
@@ -434,9 +426,38 @@
       "volume": 909439,
       "deliverable_qty": 538120,
       "delivery_pct": 59.17
+    },
+    {
+      "date": "2026-06-03",
+      "close": 223.0,
+      "prev_close": 230.62,
+      "volume": 381724,
+      "deliverable_qty": 211937,
+      "delivery_pct": 55.52
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 15:29:22",
+      "an_dt": "03-Jun-2026 15:29:22",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Shanti Gold International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20052026121824_Declaration_Shashank.PDF"
+    },
+    {
+      "sort_date": "2026-06-03 12:39:45",
+      "an_dt": "03-Jun-2026 12:39:45",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Shanti Gold International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_19052026184954_SHANTIGOLD.PDF"
+    },
+    {
+      "sort_date": "2026-06-03 12:11:14",
+      "an_dt": "03-Jun-2026 12:11:14",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Shanti Gold International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_19052026182624_SHANTIGOLD.PDF"
+    },
     {
       "sort_date": "2026-05-27 17:40:44",
       "an_dt": "27-May-2026 17:40:44",

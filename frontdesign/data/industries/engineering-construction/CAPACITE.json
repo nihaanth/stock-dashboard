@@ -8,17 +8,9 @@
   "price": 245.55,
   "market_cap_cr": 2077.45,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 223.09,
-      "prev_close": 231.39,
-      "volume": 259051,
-      "deliverable_qty": 138550,
-      "delivery_pct": 53.48
-    },
     {
       "date": "2026-03-05",
       "close": 225.57,
@@ -434,9 +426,24 @@
       "volume": 226581,
       "deliverable_qty": 119540,
       "delivery_pct": 52.76
+    },
+    {
+      "date": "2026-06-03",
+      "close": 224.88,
+      "prev_close": 223.42,
+      "volume": 411083,
+      "deliverable_qty": 90520,
+      "delivery_pct": 22.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 12:38:28",
+      "an_dt": "03-Jun-2026 12:38:28",
+      "desc": "Updates",
+      "sm_name": "Capacit'e Infraprojects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPACITE_03062026123820_Raymond-Work_order.pdf"
+    },
     {
       "sort_date": "2026-05-25 17:04:51",
       "an_dt": "25-May-2026 17:04:51",

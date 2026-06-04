@@ -8,17 +8,9 @@
   "price": 1003.8,
   "market_cap_cr": 45301.14,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 706.2,
-      "prev_close": 712.85,
-      "volume": 945565,
-      "deliverable_qty": 234797,
-      "delivery_pct": 24.83
-    },
     {
       "date": "2026-03-05",
       "close": 720.1,
@@ -434,9 +426,24 @@
       "volume": 1609616,
       "deliverable_qty": 509579,
       "delivery_pct": 31.66
+    },
+    {
+      "date": "2026-06-03",
+      "close": 1089.0,
+      "prev_close": 1074.4,
+      "volume": 2316777,
+      "deliverable_qty": 858418,
+      "delivery_pct": 37.05
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 12:56:13",
+      "an_dt": "03-Jun-2026 12:56:13",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Premier Energies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20052026112659_PREMIERENE.pdf"
+    },
     {
       "sort_date": "2026-05-20 17:45:31",
       "an_dt": "20-May-2026 17:45:31",

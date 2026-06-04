@@ -8,17 +8,9 @@
   "price": 212.08,
   "market_cap_cr": 264502.96,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 196.73,
-      "prev_close": 211.01,
-      "volume": 72096617,
-      "deliverable_qty": 27895686,
-      "delivery_pct": 38.69
-    },
     {
       "date": "2026-03-05",
       "close": 200.57,
@@ -434,9 +426,38 @@
       "volume": 29358964,
       "deliverable_qty": 14384202,
       "delivery_pct": 48.99
+    },
+    {
+      "date": "2026-06-03",
+      "close": 211.89,
+      "prev_close": 210.6,
+      "volume": 23198930,
+      "deliverable_qty": 10482481,
+      "delivery_pct": 45.19
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 20:03:09",
+      "an_dt": "03-Jun-2026 20:03:09",
+      "desc": "General Updates",
+      "sm_name": "Tata Steel Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SAKSHIKAPUR_03062026195946_NSEBSEBRSR.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 19:58:28",
+      "an_dt": "03-Jun-2026 19:58:28",
+      "desc": "Shareholders meeting",
+      "sm_name": "Tata Steel Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NIDHIFADNAVIS_03062026195712_BSENSENOTICE.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 15:23:58",
+      "an_dt": "03-Jun-2026 15:23:58",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Tata Steel Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NIDHIFADNAVIS_03062026152234_BSENSE.pdf"
+    },
     {
       "sort_date": "2026-06-01 21:55:34",
       "an_dt": "01-Jun-2026 21:55:34",
@@ -814,13 +835,6 @@
       "desc": "News Verification",
       "sm_name": "Tata Steel Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NIDHIFADNAVIS_05032026095816_NSE-Clarification_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 10:30:11",
-      "an_dt": "04-Mar-2026 10:30:11",
-      "desc": "News Verification",
-      "sm_name": "Tata Steel Limited",
-      "attchmntFile": "-"
     }
   ]
 }

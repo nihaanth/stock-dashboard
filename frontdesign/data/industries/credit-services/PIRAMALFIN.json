@@ -8,17 +8,9 @@
   "price": 1964.9,
   "market_cap_cr": 44407.71,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 1789.8,
-      "prev_close": 1801.0,
-      "volume": 415039,
-      "deliverable_qty": 279286,
-      "delivery_pct": 67.29
-    },
     {
       "date": "2026-03-05",
       "close": 1806.7,
@@ -434,6 +426,14 @@
       "volume": 425408,
       "deliverable_qty": 315410,
       "delivery_pct": 74.14
+    },
+    {
+      "date": "2026-06-03",
+      "close": 1928.8,
+      "prev_close": 1908.3,
+      "volume": 217562,
+      "deliverable_qty": 140582,
+      "delivery_pct": 64.62
     }
   ],
   "news": [
@@ -744,20 +744,6 @@
       "desc": "General Updates",
       "sm_name": "Piramal Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Piramalcapital_10032026212732_Reg30_PFL_Imaging_sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 14:04:22",
-      "an_dt": "04-Mar-2026 14:04:22",
-      "desc": "News Verification",
-      "sm_name": "Piramal Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Piramalcapital_04032026140341_PFL_Stock_Exchange_040326_Sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 12:09:06",
-      "an_dt": "04-Mar-2026 12:09:06",
-      "desc": "News Verification",
-      "sm_name": "Piramal Finance Limited",
-      "attchmntFile": "-"
     }
   ]
 }

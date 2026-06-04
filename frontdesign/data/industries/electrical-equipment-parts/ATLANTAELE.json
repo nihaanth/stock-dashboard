@@ -8,17 +8,9 @@
   "price": 1728.4,
   "market_cap_cr": 13290.81,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 866.8,
-      "prev_close": 898.85,
-      "volume": 77841,
-      "deliverable_qty": 26515,
-      "delivery_pct": 34.06
-    },
     {
       "date": "2026-03-05",
       "close": 940.05,
@@ -386,9 +378,31 @@
       "volume": 69770,
       "deliverable_qty": 36613,
       "delivery_pct": 52.48
+    },
+    {
+      "date": "2026-06-03",
+      "close": 2050.1,
+      "prev_close": 1952.5,
+      "volume": 116065,
+      "deliverable_qty": 73254,
+      "delivery_pct": 63.11
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 22:52:17",
+      "an_dt": "03-Jun-2026 22:52:17",
+      "desc": "Press Release",
+      "sm_name": "Atlanta Electricals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ATLANTAIPO123_03062026225203_Press_Release_Final.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 22:40:47",
+      "an_dt": "03-Jun-2026 22:40:47",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "Atlanta Electricals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ATLANTAIPO123_03062026224026_Atlanta_Order_receipt_intimation_3rd_June_2026_Sign.pdf"
+    },
     {
       "sort_date": "2026-05-26 09:44:13",
       "an_dt": "26-May-2026 09:44:13",

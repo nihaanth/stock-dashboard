@@ -8,17 +8,9 @@
   "price": 1706.8,
   "market_cap_cr": 51410.14,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 1693.7,
-      "prev_close": 1733.5,
-      "volume": 2001315,
-      "deliverable_qty": 1128115,
-      "delivery_pct": 56.37
-    },
     {
       "date": "2026-03-05",
       "close": 1743.8,
@@ -434,6 +426,14 @@
       "volume": 831566,
       "deliverable_qty": 409703,
       "delivery_pct": 49.27
+    },
+    {
+      "date": "2026-06-03",
+      "close": 1704.8,
+      "prev_close": 1720.5,
+      "volume": 689274,
+      "deliverable_qty": 257299,
+      "delivery_pct": 37.33
     }
   ],
   "news": [
@@ -632,20 +632,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Godrej Properties Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GODREJPROP_09032026142842_SEIntimationAllotment.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 05:51:06",
-      "an_dt": "04-Mar-2026 05:51:06",
-      "desc": "Press Release",
-      "sm_name": "Godrej Properties Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GODREJPROP_04032026055046_SEIntimationGurugram.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 05:43:33",
-      "an_dt": "04-Mar-2026 05:43:33",
-      "desc": "Press Release",
-      "sm_name": "Godrej Properties Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GODREJPROP_04032026054318_SEIntimationKolkata.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 561.0,
   "market_cap_cr": 4449.39,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 510.65,
-      "prev_close": 504.65,
-      "volume": 109648,
-      "deliverable_qty": 31271,
-      "delivery_pct": 28.52
-    },
     {
       "date": "2026-03-05",
       "close": 512.8,
@@ -434,6 +426,14 @@
       "volume": 12311,
       "deliverable_qty": 5535,
       "delivery_pct": 44.96
+    },
+    {
+      "date": "2026-06-03",
+      "close": 503.7,
+      "prev_close": 510.75,
+      "volume": 31011,
+      "deliverable_qty": 9363,
+      "delivery_pct": 30.19
     }
   ],
   "news": [
@@ -625,13 +625,6 @@
       "desc": "Allotment of Securities",
       "sm_name": "Capillary Technologies India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPILLARY12_12032026180410_Intimation_Allotment.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 11:11:46",
-      "an_dt": "04-Mar-2026 11:11:46",
-      "desc": "Press Release",
-      "sm_name": "Capillary Technologies India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPILLARY12_04032026111136_PressRelease.pdf"
     }
   ]
 }

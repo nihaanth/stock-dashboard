@@ -8,17 +8,9 @@
   "price": 227.62,
   "market_cap_cr": 1792.06,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 181.11,
-      "prev_close": 187.08,
-      "volume": 907335,
-      "deliverable_qty": 284068,
-      "delivery_pct": 31.31
-    },
     {
       "date": "2026-03-05",
       "close": 179.75,
@@ -434,9 +426,24 @@
       "volume": 885167,
       "deliverable_qty": 221669,
       "delivery_pct": 25.04
+    },
+    {
+      "date": "2026-06-03",
+      "close": 194.35,
+      "prev_close": 194.44,
+      "volume": 625826,
+      "deliverable_qty": 137438,
+      "delivery_pct": 21.96
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 11:58:51",
+      "an_dt": "03-Jun-2026 11:58:51",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "One Mobikwik Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_03062026115809_Newspaper_Publication_03062026.pdf"
+    },
     {
       "sort_date": "2026-06-02 16:18:30",
       "an_dt": "02-Jun-2026 16:18:30",

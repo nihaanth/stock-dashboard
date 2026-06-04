@@ -8,17 +8,9 @@
   "price": 66.16,
   "market_cap_cr": 9429.61,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 43.96,
-      "prev_close": 45.97,
-      "volume": 3411569,
-      "deliverable_qty": 1673805,
-      "delivery_pct": 49.06
-    },
     {
       "date": "2026-03-05",
       "close": 45.17,
@@ -434,6 +426,14 @@
       "volume": 6134581,
       "deliverable_qty": 1760017,
       "delivery_pct": 28.69
+    },
+    {
+      "date": "2026-06-03",
+      "close": 70.91,
+      "prev_close": 72.13,
+      "volume": 7412626,
+      "deliverable_qty": 2023445,
+      "delivery_pct": 27.3
     }
   ],
   "news": [
@@ -576,13 +576,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "LLOYDS ENGINEERING WORKS LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LSIL_05032026102233_Covering_Letter_for_post_dispatch_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 16:16:55",
-      "an_dt": "04-Mar-2026 16:16:55",
-      "desc": "General Updates",
-      "sm_name": "LLOYDS ENGINEERING WORKS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LSIL_04032026161536_Outcomesigned.pdf"
     }
   ]
 }

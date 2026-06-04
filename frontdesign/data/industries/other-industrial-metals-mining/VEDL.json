@@ -8,17 +8,9 @@
   "price": 752.55,
   "market_cap_cr": 294109.39,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 701.0,
-      "prev_close": 723.35,
-      "volume": 14669674,
-      "deliverable_qty": 6549714,
-      "delivery_pct": 44.65
-    },
     {
       "date": "2026-03-05",
       "close": 711.25,
@@ -434,9 +426,24 @@
       "volume": 30249461,
       "deliverable_qty": 9214123,
       "delivery_pct": 30.46
+    },
+    {
+      "date": "2026-06-03",
+      "close": 328.2,
+      "prev_close": 333.55,
+      "volume": 20194365,
+      "deliverable_qty": 8410270,
+      "delivery_pct": 41.65
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 18:26:39",
+      "an_dt": "03-Jun-2026 18:26:39",
+      "desc": "Updates",
+      "sm_name": "Vedanta Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VEDL_03062026182617_VEDLSEIntimationTSPLNameChangefinalsigned.pdf"
+    },
     {
       "sort_date": "2026-06-02 20:59:56",
       "an_dt": "02-Jun-2026 20:59:56",

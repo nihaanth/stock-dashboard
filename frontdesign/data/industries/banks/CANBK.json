@@ -8,17 +8,9 @@
   "price": 129.43,
   "market_cap_cr": 117401.44,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 146.93,
-      "prev_close": 153.56,
-      "volume": 36072028,
-      "deliverable_qty": 18771882,
-      "delivery_pct": 52.04
-    },
     {
       "date": "2026-03-05",
       "close": 148.51,
@@ -434,6 +426,14 @@
       "volume": 39618370,
       "deliverable_qty": 20169797,
       "delivery_pct": 50.91
+    },
+    {
+      "date": "2026-06-03",
+      "close": 131.85,
+      "prev_close": 129.08,
+      "volume": 38359464,
+      "deliverable_qty": 19438276,
+      "delivery_pct": 50.67
     }
   ],
   "news": [
@@ -723,20 +723,6 @@
       "desc": "Credit Rating",
       "sm_name": "Canara Bank",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANBK_09032026170653_LettertoSE09032026CRatingSD.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 15:37:09",
-      "an_dt": "04-Mar-2026 15:37:09",
-      "desc": "Updates",
-      "sm_name": "Canara Bank",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANBK_04032026153649_LettertoSESd.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 14:03:17",
-      "an_dt": "04-Mar-2026 14:03:17",
-      "desc": "Updates",
-      "sm_name": "Canara Bank",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANBK_04032026140125_LettertoSE04032026CodeSd.pdf"
     }
   ]
 }

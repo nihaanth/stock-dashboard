@@ -8,17 +8,9 @@
   "price": 555.9,
   "market_cap_cr": 8494.12,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 514.7,
-      "prev_close": 525.25,
-      "volume": 166130,
-      "deliverable_qty": 111269,
-      "delivery_pct": 66.98
-    },
     {
       "date": "2026-03-05",
       "close": 510.15,
@@ -434,9 +426,31 @@
       "volume": 79462,
       "deliverable_qty": 35363,
       "delivery_pct": 44.5
+    },
+    {
+      "date": "2026-06-03",
+      "close": 593.6,
+      "prev_close": 574.3,
+      "volume": 197257,
+      "deliverable_qty": 75889,
+      "delivery_pct": 38.47
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 11:47:35",
+      "an_dt": "03-Jun-2026 11:47:35",
+      "desc": "Press Release",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_03062026114726_IntimationOfPressRelease.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 11:43:42",
+      "an_dt": "03-Jun-2026 11:43:42",
+      "desc": "Agreements",
+      "sm_name": "Varroc Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_03062026114124_Intimation_Reg30.pdf"
+    },
     {
       "sort_date": "2026-06-02 16:31:34",
       "an_dt": "02-Jun-2026 16:31:34",
@@ -688,13 +702,6 @@
       "desc": "Disclosure of material issue",
       "sm_name": "Varroc Engineering Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_06032026135307_Intimation_FullRedemption_NCD.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 14:57:21",
-      "an_dt": "04-Mar-2026 14:57:21",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Varroc Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_04032026145202_Intimation_Investor_Meet.pdf"
     }
   ]
 }

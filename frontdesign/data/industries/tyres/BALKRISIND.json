@@ -8,17 +8,9 @@
   "price": 2234.3,
   "market_cap_cr": 43192.86,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 2256.8,
-      "prev_close": 2302.6,
-      "volume": 114580,
-      "deliverable_qty": 69004,
-      "delivery_pct": 60.22
-    },
     {
       "date": "2026-03-05",
       "close": 2308.6,
@@ -434,6 +426,14 @@
       "volume": 1203331,
       "deliverable_qty": 982559,
       "delivery_pct": 81.65
+    },
+    {
+      "date": "2026-06-03",
+      "close": 2200.4,
+      "prev_close": 2150.3,
+      "volume": 111771,
+      "deliverable_qty": 46639,
+      "delivery_pct": 41.73
     }
   ],
   "news": [
@@ -576,13 +576,6 @@
       "desc": "General Updates",
       "sm_name": "Balkrishna Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BALKRISIND_05032026153943_Letter_to_Stock_Exchange_Record_Date_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 15:47:20",
-      "an_dt": "04-Mar-2026 15:47:20",
-      "desc": "Credit Rating",
-      "sm_name": "Balkrishna Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BALKRISIND_04032026154627_Credit_Rating_letter_to_Stock_Exchange.pdf"
     }
   ]
 }

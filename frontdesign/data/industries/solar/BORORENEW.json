@@ -8,17 +8,9 @@
   "price": 549.9,
   "market_cap_cr": 7708.98,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 434.8,
-      "prev_close": 441.0,
-      "volume": 341124,
-      "deliverable_qty": 173992,
-      "delivery_pct": 51.01
-    },
     {
       "date": "2026-03-05",
       "close": 440.95,
@@ -434,9 +426,45 @@
       "volume": 366851,
       "deliverable_qty": 142766,
       "delivery_pct": 38.92
+    },
+    {
+      "date": "2026-06-03",
+      "close": 544.6,
+      "prev_close": 501.35,
+      "volume": 10387627,
+      "deliverable_qty": 1153818,
+      "delivery_pct": 11.11
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 14:57:03",
+      "an_dt": "03-Jun-2026 14:57:03",
+      "desc": "Updates",
+      "sm_name": "BOROSIL RENEWABLES LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BORORENEW12_03062026145610_Intimation_MediaInteraction.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 14:10:18",
+      "an_dt": "03-Jun-2026 14:10:18",
+      "desc": "Updates",
+      "sm_name": "BOROSIL RENEWABLES LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BORORENEW12_03062026140859_LETTER.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 11:55:10",
+      "an_dt": "03-Jun-2026 11:55:10",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "BOROSIL RENEWABLES LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BORORENEW12_03062026115244_LETTER.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 10:55:03",
+      "an_dt": "03-Jun-2026 10:55:03",
+      "desc": "Updates",
+      "sm_name": "BOROSIL RENEWABLES LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BORORENEW12_03062026105247_INTIMATION.pdf"
+    },
     {
       "sort_date": "2026-06-01 14:47:02",
       "an_dt": "01-Jun-2026 14:47:02",
@@ -618,13 +646,6 @@
       "desc": "Updates",
       "sm_name": "BOROSIL RENEWABLES LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BORORENEW11_10032026140616_LETTER.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 16:50:07",
-      "an_dt": "04-Mar-2026 16:50:07",
-      "desc": "Updates",
-      "sm_name": "BOROSIL RENEWABLES LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BORORENEW11_04032026164805_INTIMATION.pdf"
     }
   ]
 }

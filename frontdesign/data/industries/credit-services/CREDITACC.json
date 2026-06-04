@@ -8,17 +8,9 @@
   "price": 1220.5,
   "market_cap_cr": 19541.6,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 1225.5,
-      "prev_close": 1210.9,
-      "volume": 659171,
-      "deliverable_qty": 203460,
-      "delivery_pct": 30.87
-    },
     {
       "date": "2026-03-05",
       "close": 1210.8,
@@ -434,9 +426,24 @@
       "volume": 182983,
       "deliverable_qty": 99280,
       "delivery_pct": 54.26
+    },
+    {
+      "date": "2026-06-03",
+      "close": 1269.2,
+      "prev_close": 1315.4,
+      "volume": 216115,
+      "deliverable_qty": 100851,
+      "delivery_pct": 46.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 20:03:24",
+      "an_dt": "03-Jun-2026 20:03:24",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "CREDITACCESS GRAMEEN LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CREDITACC_03062026200303_03062026_InvesterCall_Intimation.pdf"
+    },
     {
       "sort_date": "2026-06-02 19:01:39",
       "an_dt": "02-Jun-2026 19:01:39",

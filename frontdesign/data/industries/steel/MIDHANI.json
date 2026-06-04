@@ -8,17 +8,9 @@
   "price": 407.0,
   "market_cap_cr": 7624.74,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 336.9,
-      "prev_close": 344.15,
-      "volume": 421321,
-      "deliverable_qty": 125005,
-      "delivery_pct": 29.67
-    },
     {
       "date": "2026-03-05",
       "close": 343.65,
@@ -434,9 +426,24 @@
       "volume": 954518,
       "deliverable_qty": 347422,
       "delivery_pct": 36.4
+    },
+    {
+      "date": "2026-06-03",
+      "close": 417.0,
+      "prev_close": 410.75,
+      "volume": 1007668,
+      "deliverable_qty": 357135,
+      "delivery_pct": 35.44
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 14:43:14",
+      "an_dt": "03-Jun-2026 14:43:14",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Mishra Dhatu Nigam Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MIDHANI_03062026144142_MDN_Audio_ConCall_03062026.PDF"
+    },
     {
       "sort_date": "2026-05-30 17:56:40",
       "an_dt": "30-May-2026 17:56:40",

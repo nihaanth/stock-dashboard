@@ -8,17 +8,9 @@
   "price": 439.0,
   "market_cap_cr": 3009.8,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 359.1,
-      "prev_close": 362.85,
-      "volume": 18794,
-      "deliverable_qty": 9437,
-      "delivery_pct": 50.21
-    },
     {
       "date": "2026-03-05",
       "close": 361.35,
@@ -434,9 +426,24 @@
       "volume": 85250,
       "deliverable_qty": 43031,
       "delivery_pct": 50.48
+    },
+    {
+      "date": "2026-06-03",
+      "close": 514.6,
+      "prev_close": 437.75,
+      "volume": 4841240,
+      "deliverable_qty": 457937,
+      "delivery_pct": 9.46
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 18:11:13",
+      "an_dt": "03-Jun-2026 18:11:13",
+      "desc": "Spurt in Volume",
+      "sm_name": "Savita Oil Technologies Limited",
+      "attchmntFile": "-"
+    },
     {
       "sort_date": "2026-06-01 13:47:40",
       "an_dt": "01-Jun-2026 13:47:40",
@@ -499,13 +506,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Savita Oil Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOTL_11032026115936_analystintimation11032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 11:22:14",
-      "an_dt": "04-Mar-2026 11:22:14",
-      "desc": "Demise",
-      "sm_name": "Savita Oil Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOTL_04032026112028_demise04032026.pdf"
     }
   ]
 }

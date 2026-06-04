@@ -8,17 +8,9 @@
   "price": 590.9,
   "market_cap_cr": 1916.8,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 602.2,
-      "prev_close": 631.3,
-      "volume": 104577,
-      "deliverable_qty": 53702,
-      "delivery_pct": 51.35
-    },
     {
       "date": "2026-03-05",
       "close": 611.35,
@@ -434,9 +426,31 @@
       "volume": 37818,
       "deliverable_qty": 21025,
       "delivery_pct": 55.6
+    },
+    {
+      "date": "2026-06-03",
+      "close": 541.0,
+      "prev_close": 544.7,
+      "volume": 36535,
+      "deliverable_qty": 20224,
+      "delivery_pct": 55.36
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 16:01:24",
+      "an_dt": "03-Jun-2026 16:01:24",
+      "desc": "Shareholders meeting",
+      "sm_name": "Krsnaa Diagnostics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KRSNAA_03062026160023_543328_Final_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 13:07:08",
+      "an_dt": "03-Jun-2026 13:07:08",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Krsnaa Diagnostics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_22042026131706_16.pdf"
+    },
     {
       "sort_date": "2026-05-29 17:31:05",
       "an_dt": "29-May-2026 17:31:05",

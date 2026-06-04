@@ -8,17 +8,9 @@
   "price": 1466.1,
   "market_cap_cr": 3986.46,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 1335.3,
-      "prev_close": 1367.5,
-      "volume": 7958,
-      "deliverable_qty": 5136,
-      "delivery_pct": 64.54
-    },
     {
       "date": "2026-03-05",
       "close": 1347.5,
@@ -434,9 +426,24 @@
       "volume": 10541,
       "deliverable_qty": 6922,
       "delivery_pct": 65.67
+    },
+    {
+      "date": "2026-06-03",
+      "close": 1388.1,
+      "prev_close": 1395.2,
+      "volume": 12949,
+      "deliverable_qty": 5143,
+      "delivery_pct": 39.72
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 16:12:01",
+      "an_dt": "03-Jun-2026 16:12:01",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "BOSCH HOME COMFORT INDIA LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20052026130754_15.pdf"
+    },
     {
       "sort_date": "2026-05-19 18:27:56",
       "an_dt": "19-May-2026 18:27:56",

@@ -8,17 +8,9 @@
   "price": 420.7,
   "market_cap_cr": 12424.52,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 399.45,
-      "prev_close": 407.8,
-      "volume": 811467,
-      "deliverable_qty": 463141,
-      "delivery_pct": 57.07
-    },
     {
       "date": "2026-03-05",
       "close": 408.05,
@@ -434,9 +426,24 @@
       "volume": 2056720,
       "deliverable_qty": 1782327,
       "delivery_pct": 86.66
+    },
+    {
+      "date": "2026-06-03",
+      "close": 434.75,
+      "prev_close": 439.2,
+      "volume": 529413,
+      "deliverable_qty": 285988,
+      "delivery_pct": 54.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 18:53:19",
+      "an_dt": "03-Jun-2026 18:53:19",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Five-Star Business Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FIVESTAR_03062026185250_IntimationonScheduleofInvestorcallJune042026.pdf"
+    },
     {
       "sort_date": "2026-05-26 14:49:57",
       "an_dt": "26-May-2026 14:49:57",

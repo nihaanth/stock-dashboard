@@ -8,17 +8,9 @@
   "price": 187.39,
   "market_cap_cr": 4044.84,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 160.49,
-      "prev_close": 165.68,
-      "volume": 404190,
-      "deliverable_qty": 170294,
-      "delivery_pct": 42.13
-    },
     {
       "date": "2026-03-05",
       "close": 162.74,
@@ -434,9 +426,24 @@
       "volume": 2583177,
       "deliverable_qty": 808506,
       "delivery_pct": 31.3
+    },
+    {
+      "date": "2026-06-03",
+      "close": 191.04,
+      "prev_close": 192.73,
+      "volume": 1179371,
+      "deliverable_qty": 426337,
+      "delivery_pct": 36.15
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 19:48:57",
+      "an_dt": "03-Jun-2026 19:48:57",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Pace Digitek Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PACE_03062026194845_Intimation-_Transcript_Q4-Sd.pdf"
+    },
     {
       "sort_date": "2026-05-27 16:27:06",
       "an_dt": "27-May-2026 16:27:06",
@@ -646,13 +653,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Pace Digitek Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PACE_11032026115118_Intimation_of_Plant_Visit.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 16:21:44",
-      "an_dt": "04-Mar-2026 16:21:44",
-      "desc": "Updates",
-      "sm_name": "Pace Digitek Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PACE_04032026162123_SMP_Reignation_Intimation_Sd.pdf"
     }
   ]
 }

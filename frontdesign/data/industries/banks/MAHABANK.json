@@ -8,17 +8,9 @@
   "price": 81.42,
   "market_cap_cr": 62624.64,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 68.42,
-      "prev_close": 71.98,
-      "volume": 35412738,
-      "deliverable_qty": 17119568,
-      "delivery_pct": 48.34
-    },
     {
       "date": "2026-03-05",
       "close": 71.39,
@@ -434,6 +426,14 @@
       "volume": 9355862,
       "deliverable_qty": 4242511,
       "delivery_pct": 45.35
+    },
+    {
+      "date": "2026-06-03",
+      "close": 79.7,
+      "prev_close": 78.91,
+      "volume": 11016774,
+      "deliverable_qty": 4913021,
+      "delivery_pct": 44.6
     }
   ],
   "news": [
@@ -646,13 +646,6 @@
       "desc": "General Updates",
       "sm_name": "Bank of Maharashtra",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAHABANK_10032026140046_LettertoSE_Election_of_One_Shareholder_Director.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 15:28:07",
-      "an_dt": "04-Mar-2026 15:28:07",
-      "desc": "Credit Rating",
-      "sm_name": "Bank of Maharashtra",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAHABANK_04032026152612_LettertoSE_Fitch_Credit_Ratings_04032026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 317.2,
   "market_cap_cr": 28928.6,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 221.75,
-      "prev_close": 226.32,
-      "volume": 5600383,
-      "deliverable_qty": 2156680,
-      "delivery_pct": 38.51
-    },
     {
       "date": "2026-03-05",
       "close": 224.68,
@@ -434,9 +426,31 @@
       "volume": 6132413,
       "deliverable_qty": 1906148,
       "delivery_pct": 31.08
+    },
+    {
+      "date": "2026-06-03",
+      "close": 334.75,
+      "prev_close": 342.65,
+      "volume": 6426900,
+      "deliverable_qty": 1504556,
+      "delivery_pct": 23.41
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 20:41:04",
+      "an_dt": "03-Jun-2026 20:41:04",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Angel One Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANGEL8896_03062026204052_June032026_Intimation_of_investor_meeting.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 11:38:26",
+      "an_dt": "03-Jun-2026 11:38:26",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Angel One Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANGEL8896_03062026113815_03062026-Intimation_of_grants.pdf"
+    },
     {
       "sort_date": "2026-05-27 20:45:10",
       "an_dt": "27-May-2026 20:45:10",

@@ -8,17 +8,9 @@
   "price": 89.73,
   "market_cap_cr": 857.69,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 72.68,
-      "prev_close": 73.55,
-      "volume": 233425,
-      "deliverable_qty": 157408,
-      "delivery_pct": 67.43
-    },
     {
       "date": "2026-03-05",
       "close": 74.81,
@@ -434,9 +426,31 @@
       "volume": 373108,
       "deliverable_qty": 187812,
       "delivery_pct": 50.34
+    },
+    {
+      "date": "2026-06-03",
+      "close": 95.95,
+      "prev_close": 97.17,
+      "volume": 293393,
+      "deliverable_qty": 144424,
+      "delivery_pct": 49.23
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 22:58:22",
+      "an_dt": "03-Jun-2026 22:58:22",
+      "desc": "General Updates",
+      "sm_name": "GHCL Textiles Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GHCLTEXTILES_03062026225815_GHCLT_SE_copyoflettertononemailshareholders2026.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 19:15:33",
+      "an_dt": "03-Jun-2026 19:15:33",
+      "desc": "Shareholders meeting",
+      "sm_name": "GHCL Textiles Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GHCLTEXTILES_03062026191525_GHCLT_SE_AnnualReportandNotice2026.pdf"
+    },
     {
       "sort_date": "2026-05-23 17:45:54",
       "an_dt": "23-May-2026 17:45:54",

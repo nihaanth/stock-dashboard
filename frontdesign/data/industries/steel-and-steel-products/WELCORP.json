@@ -8,17 +8,9 @@
   "price": 1329.3,
   "market_cap_cr": 35054.16,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 795.4,
-      "prev_close": 817.65,
-      "volume": 746663,
-      "deliverable_qty": 466082,
-      "delivery_pct": 62.42
-    },
     {
       "date": "2026-03-05",
       "close": 822.0,
@@ -434,9 +426,24 @@
       "volume": 632341,
       "deliverable_qty": 310557,
       "delivery_pct": 49.11
+    },
+    {
+      "date": "2026-06-03",
+      "close": 1413.6,
+      "prev_close": 1386.8,
+      "volume": 1901113,
+      "deliverable_qty": 1210077,
+      "delivery_pct": 63.65
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 20:20:23",
+      "an_dt": "03-Jun-2026 20:20:23",
+      "desc": "Updates",
+      "sm_name": "Welspun Corp Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WELCORP_03062026202001_SEintimation.pdf"
+    },
     {
       "sort_date": "2026-06-02 18:22:42",
       "an_dt": "02-Jun-2026 18:22:42",
@@ -618,13 +625,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Welspun Corp Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WELCORP_19032026195740_WCL_SE_Disclosure.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 18:33:24",
-      "an_dt": "04-Mar-2026 18:33:24",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Welspun Corp Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WELCORP_04032026183259_SEINVESTOR.pdf"
     }
   ]
 }

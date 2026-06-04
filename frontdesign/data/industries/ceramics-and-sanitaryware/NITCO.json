@@ -8,17 +8,9 @@
   "price": 105.28,
   "market_cap_cr": 2532.15,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 68.87,
-      "prev_close": 71.05,
-      "volume": 281349,
-      "deliverable_qty": 151835,
-      "delivery_pct": 53.97
-    },
     {
       "date": "2026-03-05",
       "close": 69.98,
@@ -434,9 +426,24 @@
       "volume": 1803482,
       "deliverable_qty": 1342242,
       "delivery_pct": 74.43
+    },
+    {
+      "date": "2026-06-03",
+      "close": 95.84,
+      "prev_close": 98.07,
+      "volume": 1979120,
+      "deliverable_qty": 1273470,
+      "delivery_pct": 64.35
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 17:46:43",
+      "an_dt": "03-Jun-2026 17:46:43",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Nitco Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20052026180421_NITCO.pdf"
+    },
     {
       "sort_date": "2026-05-27 16:06:42",
       "an_dt": "27-May-2026 16:06:42",
@@ -590,13 +597,6 @@
       "desc": "Price movement",
       "sm_name": "Nitco Limited",
       "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-03-04 15:18:30",
-      "an_dt": "04-Mar-2026 15:18:30",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Nitco Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NITCO_04032026151748_Stock_Exchange_Newspaper_advertisement.pdf"
     }
   ]
 }

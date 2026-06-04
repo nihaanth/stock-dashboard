@@ -8,17 +8,9 @@
   "price": 3353.5,
   "market_cap_cr": 165749.6,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 2992.7,
-      "prev_close": 3090.1,
-      "volume": 537155,
-      "deliverable_qty": 316171,
-      "delivery_pct": 58.86
-    },
     {
       "date": "2026-03-05",
       "close": 3008.2,
@@ -434,9 +426,24 @@
       "volume": 261473,
       "deliverable_qty": 154285,
       "delivery_pct": 59.01
+    },
+    {
+      "date": "2026-06-03",
+      "close": 3342.9,
+      "prev_close": 3322.1,
+      "volume": 329221,
+      "deliverable_qty": 171613,
+      "delivery_pct": 52.13
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 11:13:52",
+      "an_dt": "03-Jun-2026 11:13:52",
+      "desc": "General Updates",
+      "sm_name": "ICICI Prudential Asset Management Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMCSECRETARIAL_03062026111326_ICICIINTIMATION.pdf"
+    },
     {
       "sort_date": "2026-06-02 17:23:46",
       "an_dt": "02-Jun-2026 17:23:46",
@@ -674,27 +681,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "ICICI Prudential Asset Management Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMCSECRETARIAL_06032026184001_ICICIAMCIntimationtoSEnewspaperAdpostal_ballot.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 20:02:53",
-      "an_dt": "04-Mar-2026 20:02:53",
-      "desc": "Shareholders meeting",
-      "sm_name": "ICICI Prudential Asset Management Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMCSECRETARIAL_04032026200153_ICICIAMCIntimationtoStockexchangespostalballot.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 19:30:29",
-      "an_dt": "04-Mar-2026 19:30:29",
-      "desc": "Shareholders meeting",
-      "sm_name": "ICICI Prudential Asset Management Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMCSECRETARIAL_04032026192949_ICICIAMCIntimationtoStockexchangespostalballot.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 16:34:44",
-      "an_dt": "04-Mar-2026 16:34:44",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "ICICI Prudential Asset Management Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMCSECRETARIAL_04032026163236_ICICIAMCScheduleofanalystcallsintimation.pdf"
     }
   ]
 }

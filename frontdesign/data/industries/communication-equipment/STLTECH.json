@@ -8,17 +8,9 @@
   "price": 242.78,
   "market_cap_cr": 11850.88,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 166.93,
-      "prev_close": 172.45,
-      "volume": 9772746,
-      "deliverable_qty": 3196900,
-      "delivery_pct": 32.71
-    },
     {
       "date": "2026-03-05",
       "close": 173.53,
@@ -366,6 +358,13 @@
   ],
   "news": [
     {
+      "sort_date": "2026-06-03 10:16:57",
+      "an_dt": "03-Jun-2026 10:16:57",
+      "desc": "Spurt in Volume",
+      "sm_name": "Sterlite Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STLTECH_03062026101644_Clarification-_Increase_in_Volume-_June_2026_-_NSE__Final_signed.pdf"
+    },
+    {
       "sort_date": "2026-06-02 18:48:28",
       "an_dt": "02-Jun-2026 18:48:28",
       "desc": "Spurt in Volume",
@@ -595,27 +594,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Sterlite Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/STLTECH_12032026131924_SEIntimationallotmentMarch26_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 17:36:14",
-      "an_dt": "04-Mar-2026 17:36:14",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Sterlite Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STLTECH_04032026173606_InvestorMeetInitimationfinal_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 17:28:15",
-      "an_dt": "04-Mar-2026 17:28:15",
-      "desc": "Shareholders meeting",
-      "sm_name": "Sterlite Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STLTECH_04032026172807_SEintimationScrutinizerReport_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 17:22:13",
-      "an_dt": "04-Mar-2026 17:22:13",
-      "desc": "Shareholders meeting",
-      "sm_name": "Sterlite Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STLTECH_04032026172205_SEintimation_EGMproceedings_signed.pdf"
     }
   ]
 }

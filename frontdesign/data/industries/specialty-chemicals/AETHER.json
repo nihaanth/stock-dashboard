@@ -8,17 +8,9 @@
   "price": 1200.7,
   "market_cap_cr": 15930.87,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 917.05,
-      "prev_close": 932.15,
-      "volume": 290542,
-      "deliverable_qty": 141372,
-      "delivery_pct": 48.66
-    },
     {
       "date": "2026-03-05",
       "close": 967.3,
@@ -434,6 +426,14 @@
       "volume": 303077,
       "deliverable_qty": 180431,
       "delivery_pct": 59.53
+    },
+    {
+      "date": "2026-06-03",
+      "close": 1139.4,
+      "prev_close": 1098.7,
+      "volume": 725322,
+      "deliverable_qty": 338810,
+      "delivery_pct": 46.71
     }
   ],
   "news": [
@@ -576,20 +576,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Aether Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_10032026150942_71.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 16:18:20",
-      "an_dt": "04-Mar-2026 16:18:20",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Aether Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_04032026161748_70.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 16:18:20",
-      "an_dt": "04-Mar-2026 16:18:20",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Aether Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AETHER_04032026161644_69.pdf"
     }
   ]
 }

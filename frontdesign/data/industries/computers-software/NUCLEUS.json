@@ -8,17 +8,9 @@
   "price": 802.0,
   "market_cap_cr": 2111.29,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 763.6,
-      "prev_close": 769.0,
-      "volume": 33747,
-      "deliverable_qty": 15256,
-      "delivery_pct": 45.21
-    },
     {
       "date": "2026-03-05",
       "close": 768.8,
@@ -434,6 +426,14 @@
       "volume": 44632,
       "deliverable_qty": 23483,
       "delivery_pct": 52.61
+    },
+    {
+      "date": "2026-06-03",
+      "close": 727.05,
+      "prev_close": 734.7,
+      "volume": 21131,
+      "deliverable_qty": 12612,
+      "delivery_pct": 59.68
     }
   ],
   "news": [
@@ -639,13 +639,6 @@
       "desc": "Spurt in Volume",
       "sm_name": "Nucleus Software Exports Limited",
       "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-03-04 19:53:15",
-      "an_dt": "04-Mar-2026 19:53:15",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Nucleus Software Exports Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Nucleus_04032026195306_INTIMATION.pdf"
     }
   ]
 }

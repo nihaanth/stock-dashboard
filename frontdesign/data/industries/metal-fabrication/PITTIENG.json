@@ -8,17 +8,9 @@
   "price": 828.15,
   "market_cap_cr": 3091.72,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 864.55,
-      "prev_close": 893.45,
-      "volume": 51535,
-      "deliverable_qty": 30061,
-      "delivery_pct": 58.33
-    },
     {
       "date": "2026-03-05",
       "close": 881.3,
@@ -434,9 +426,24 @@
       "volume": 24678,
       "deliverable_qty": 14699,
       "delivery_pct": 59.56
+    },
+    {
+      "date": "2026-06-03",
+      "close": 938.7,
+      "prev_close": 941.5,
+      "volume": 24956,
+      "deliverable_qty": 14479,
+      "delivery_pct": 58.02
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 15:47:18",
+      "an_dt": "03-Jun-2026 15:47:18",
+      "desc": "Updates",
+      "sm_name": "Pitti Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PITTIENG_03062026154658_Intimation.pdf"
+    },
     {
       "sort_date": "2026-06-02 15:36:10",
       "an_dt": "02-Jun-2026 15:36:10",

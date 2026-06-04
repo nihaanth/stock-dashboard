@@ -8,17 +8,9 @@
   "price": 1046.8,
   "market_cap_cr": 6315.12,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 1124.7,
-      "prev_close": 1127.8,
-      "volume": 40261,
-      "deliverable_qty": 20214,
-      "delivery_pct": 50.21
-    },
     {
       "date": "2026-03-05",
       "close": 1093.9,
@@ -434,9 +426,24 @@
       "volume": 16780,
       "deliverable_qty": 7514,
       "delivery_pct": 44.78
+    },
+    {
+      "date": "2026-06-03",
+      "close": 1100.6,
+      "prev_close": 1098.2,
+      "volume": 11572,
+      "deliverable_qty": 4188,
+      "delivery_pct": 36.19
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 09:57:46",
+      "an_dt": "03-Jun-2026 09:57:46",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Dodla Dairy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DODLA_03062026095704_Covering_Letter.pdf"
+    },
     {
       "sort_date": "2026-05-25 10:40:56",
       "an_dt": "25-May-2026 10:40:56",
@@ -618,13 +625,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Dodla Dairy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DODLA_13032026125142_Covering_Letter.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 12:49:07",
-      "an_dt": "04-Mar-2026 12:49:07",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Dodla Dairy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DODLA_04032026124853_10.pdf"
     }
   ]
 }

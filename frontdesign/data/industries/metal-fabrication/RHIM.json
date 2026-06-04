@@ -8,17 +8,9 @@
   "price": 386.25,
   "market_cap_cr": 7976.12,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 399.6,
-      "prev_close": 417.4,
-      "volume": 270090,
-      "deliverable_qty": 165399,
-      "delivery_pct": 61.24
-    },
     {
       "date": "2026-03-05",
       "close": 396.85,
@@ -434,9 +426,24 @@
       "volume": 2911257,
       "deliverable_qty": 991111,
       "delivery_pct": 34.04
+    },
+    {
+      "date": "2026-06-03",
+      "close": 377.45,
+      "prev_close": 344.65,
+      "volume": 7688522,
+      "deliverable_qty": 440711,
+      "delivery_pct": 5.73
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 16:38:27",
+      "an_dt": "03-Jun-2026 16:38:27",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "RHI MAGNESITA INDIA LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RHIM_03062026163811_20260603IntimationofEarningcallTranscripts.pdf"
+    },
     {
       "sort_date": "2026-06-01 12:35:10",
       "an_dt": "01-Jun-2026 12:35:10",

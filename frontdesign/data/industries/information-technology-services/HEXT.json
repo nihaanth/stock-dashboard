@@ -8,17 +8,9 @@
   "price": 502.25,
   "market_cap_cr": 30609.98,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 455.7,
-      "prev_close": 466.6,
-      "volume": 738667,
-      "deliverable_qty": 359377,
-      "delivery_pct": 48.65
-    },
     {
       "date": "2026-03-05",
       "close": 462.05,
@@ -434,9 +426,24 @@
       "volume": 1708944,
       "deliverable_qty": 498495,
       "delivery_pct": 29.17
+    },
+    {
+      "date": "2026-06-03",
+      "close": 537.5,
+      "prev_close": 549.65,
+      "volume": 682593,
+      "deliverable_qty": 282198,
+      "delivery_pct": 41.34
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 13:13:44",
+      "an_dt": "03-Jun-2026 13:13:44",
+      "desc": "Updates",
+      "sm_name": "Hexaware Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HEXAWARETECH_03062026131333_Press_Release_HSBUK_03_June.pdf"
+    },
     {
       "sort_date": "2026-06-02 19:02:41",
       "an_dt": "02-Jun-2026 19:02:41",

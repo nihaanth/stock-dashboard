@@ -8,17 +8,9 @@
   "price": 6892.0,
   "market_cap_cr": 20291.26,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 6508.0,
-      "prev_close": 6531.0,
-      "volume": 19718,
-      "deliverable_qty": 9323,
-      "delivery_pct": 47.28
-    },
     {
       "date": "2026-03-05",
       "close": 6561.0,
@@ -434,9 +426,24 @@
       "volume": 56972,
       "deliverable_qty": 45142,
       "delivery_pct": 79.24
+    },
+    {
+      "date": "2026-06-03",
+      "close": 6655.5,
+      "prev_close": 6641.0,
+      "volume": 15292,
+      "deliverable_qty": 7272,
+      "delivery_pct": 47.55
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 16:01:15",
+      "an_dt": "03-Jun-2026 16:01:15",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Atul Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20052026124404_25.pdf"
+    },
     {
       "sort_date": "2026-06-02 15:57:11",
       "an_dt": "02-Jun-2026 15:57:11",

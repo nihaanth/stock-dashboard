@@ -8,17 +8,9 @@
   "price": 1658.6,
   "market_cap_cr": 5141.79,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 1560.0,
-      "prev_close": 1558.8,
-      "volume": 89988,
-      "deliverable_qty": 44295,
-      "delivery_pct": 49.22
-    },
     {
       "date": "2026-03-05",
       "close": 1633.6,
@@ -434,9 +426,24 @@
       "volume": 415979,
       "deliverable_qty": 83209,
       "delivery_pct": 20.0
+    },
+    {
+      "date": "2026-06-03",
+      "close": 1682.3,
+      "prev_close": 1727.9,
+      "volume": 87926,
+      "deliverable_qty": 32739,
+      "delivery_pct": 37.23
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 22:09:08",
+      "an_dt": "03-Jun-2026 22:09:08",
+      "desc": "Action(s) taken or orders passed",
+      "sm_name": "Mastek Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASTEK12_03062026220851_SEInitimation03062026signed.pdf"
+    },
     {
       "sort_date": "2026-05-29 15:45:55",
       "an_dt": "29-May-2026 15:45:55",
@@ -639,13 +646,6 @@
       "desc": "Press Release",
       "sm_name": "Mastek Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASTEK12_05032026110625_PressRelease05032026_sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 23:02:47",
-      "an_dt": "04-Mar-2026 23:02:47",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Mastek Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASTEK12_04032026230229_AnalystMeetMarch042026signed.pdf"
     }
   ]
 }

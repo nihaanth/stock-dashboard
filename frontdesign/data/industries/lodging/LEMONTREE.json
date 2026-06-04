@@ -8,17 +8,9 @@
   "price": 112.3,
   "market_cap_cr": 8892.45,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 111.48,
-      "prev_close": 113.97,
-      "volume": 4788992,
-      "deliverable_qty": 2570804,
-      "delivery_pct": 53.68
-    },
     {
       "date": "2026-03-05",
       "close": 112.24,
@@ -434,9 +426,31 @@
       "volume": 2247825,
       "deliverable_qty": 980830,
       "delivery_pct": 43.63
+    },
+    {
+      "date": "2026-06-03",
+      "close": 110.56,
+      "prev_close": 111.16,
+      "volume": 1642406,
+      "deliverable_qty": 850923,
+      "delivery_pct": 51.81
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 21:48:10",
+      "an_dt": "03-Jun-2026 21:48:10",
+      "desc": "Action(s) taken or orders passed",
+      "sm_name": "Lemon Tree Hotels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LEMONTREE_03062026214044_Stock_Exchange_Intimation_Fine.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 19:14:14",
+      "an_dt": "03-Jun-2026 19:14:14",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Lemon Tree Hotels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LEMONTREE_03062026191309_Intimation_Transcript.pdf"
+    },
     {
       "sort_date": "2026-06-01 21:07:37",
       "an_dt": "01-Jun-2026 21:07:37",

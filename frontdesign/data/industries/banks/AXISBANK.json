@@ -8,17 +8,9 @@
   "price": 1272.3,
   "market_cap_cr": 395553.59,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 1351.3,
-      "prev_close": 1372.3,
-      "volume": 5832353,
-      "deliverable_qty": 4019962,
-      "delivery_pct": 68.93
-    },
     {
       "date": "2026-03-05",
       "close": 1349.1,
@@ -434,9 +426,31 @@
       "volume": 11884695,
       "deliverable_qty": 6670605,
       "delivery_pct": 56.13
+    },
+    {
+      "date": "2026-06-03",
+      "close": 1255.2,
+      "prev_close": 1251.1,
+      "volume": 7953326,
+      "deliverable_qty": 4740421,
+      "delivery_pct": 59.6
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 23:10:48",
+      "an_dt": "03-Jun-2026 23:10:48",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Axis Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK1_03062026230859_AnalystPresentation03062026Signed.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 14:03:56",
+      "an_dt": "03-Jun-2026 14:03:56",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Axis Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK1_03062026140058_AnalystAdvanceSE03062026Signed.pdf"
+    },
     {
       "sort_date": "2026-06-02 19:17:25",
       "an_dt": "02-Jun-2026 19:17:25",
@@ -828,13 +842,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Axis Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK_06032026144345_Advance_Intimation_12_March_Autonomous_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 18:53:47",
-      "an_dt": "04-Mar-2026 18:53:47",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Axis Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK1_04032026185240_SE04032026_signed.pdf"
     }
   ]
 }

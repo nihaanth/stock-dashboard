@@ -8,17 +8,9 @@
   "price": 2279.5,
   "market_cap_cr": 1408.28,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 2336.4,
-      "prev_close": 2402.2,
-      "volume": 9814,
-      "deliverable_qty": 4188,
-      "delivery_pct": 42.67
-    },
     {
       "date": "2026-03-05",
       "close": 2336.7,
@@ -434,9 +426,24 @@
       "volume": 9490,
       "deliverable_qty": 5169,
       "delivery_pct": 54.47
+    },
+    {
+      "date": "2026-06-03",
+      "close": 2645.1,
+      "prev_close": 2654.5,
+      "volume": 17530,
+      "deliverable_qty": 9247,
+      "delivery_pct": 52.75
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 15:58:22",
+      "an_dt": "03-Jun-2026 15:58:22",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "NGL Fine-Chem Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20052026123532_28.pdf"
+    },
     {
       "sort_date": "2026-05-30 22:56:12",
       "an_dt": "30-May-2026 22:56:12",

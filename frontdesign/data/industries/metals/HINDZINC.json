@@ -8,17 +8,9 @@
   "price": 562.55,
   "market_cap_cr": 237695.32,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 591.25,
-      "prev_close": 617.65,
-      "volume": 7458538,
-      "deliverable_qty": 3280868,
-      "delivery_pct": 43.99
-    },
     {
       "date": "2026-03-05",
       "close": 595.65,
@@ -434,9 +426,31 @@
       "volume": 4944548,
       "deliverable_qty": 1828470,
       "delivery_pct": 36.98
+    },
+    {
+      "date": "2026-06-03",
+      "close": 610.55,
+      "prev_close": 625.1,
+      "volume": 3429070,
+      "deliverable_qty": 1593031,
+      "delivery_pct": 46.46
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 13:18:49",
+      "an_dt": "03-Jun-2026 13:18:49",
+      "desc": "Action(s) initiated or orders passed",
+      "sm_name": "Hindustan Zinc Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDZINCNSE_03062026131704_Intimation030626.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 12:02:48",
+      "an_dt": "03-Jun-2026 12:02:48",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Hindustan Zinc Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDZINCNSE_03062026120240_SEIntimationAdv31072025.pdf"
+    },
     {
       "sort_date": "2026-05-30 11:25:50",
       "an_dt": "30-May-2026 11:25:50",
@@ -744,13 +758,6 @@
       "desc": "Press Release",
       "sm_name": "Hindustan Zinc Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDZINCNSE_05032026105349_SEintimationpressrelease.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 10:44:31",
-      "an_dt": "04-Mar-2026 10:44:31",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Hindustan Zinc Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HINDZINCNSE_04032026104423_SEIntimationF.pdf"
     }
   ]
 }

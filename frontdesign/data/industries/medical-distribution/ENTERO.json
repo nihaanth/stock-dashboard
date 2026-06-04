@@ -8,17 +8,9 @@
   "price": 1233.2,
   "market_cap_cr": 5365.77,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 1040.7,
-      "prev_close": 1024.9,
-      "volume": 94093,
-      "deliverable_qty": 51513,
-      "delivery_pct": 54.75
-    },
     {
       "date": "2026-03-05",
       "close": 1047.0,
@@ -434,6 +426,14 @@
       "volume": 226182,
       "deliverable_qty": 112905,
       "delivery_pct": 49.92
+    },
+    {
+      "date": "2026-06-03",
+      "close": 1127.4,
+      "prev_close": 1152.4,
+      "volume": 128309,
+      "deliverable_qty": 66044,
+      "delivery_pct": 51.47
     }
   ],
   "news": [
@@ -569,20 +569,6 @@
       "desc": "Resignation",
       "sm_name": "Entero Healthcare Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENTERO_11032026200842_SEletterforresignation.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 20:03:47",
-      "an_dt": "04-Mar-2026 20:03:47",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Entero Healthcare Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENTERO_04032026200330_Investor_meet_Investec_india_Promoter.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 19:50:40",
-      "an_dt": "04-Mar-2026 19:50:40",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Entero Healthcare Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENTERO_04032026194953_Investor_meet_Arihant_Capital_Market_Sd.pdf"
     }
   ]
 }

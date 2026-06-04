@@ -8,17 +8,9 @@
   "price": 588.45,
   "market_cap_cr": 16459.54,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 450.1,
-      "prev_close": 471.0,
-      "volume": 422574,
-      "deliverable_qty": 249021,
-      "delivery_pct": 58.93
-    },
     {
       "date": "2026-03-05",
       "close": 451.45,
@@ -434,6 +426,14 @@
       "volume": 114829,
       "deliverable_qty": 62784,
       "delivery_pct": 54.68
+    },
+    {
+      "date": "2026-06-03",
+      "close": 572.2,
+      "prev_close": 546.6,
+      "volume": 317367,
+      "deliverable_qty": 190375,
+      "delivery_pct": 59.99
     }
   ],
   "news": [
@@ -723,20 +723,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Allied Blenders and Distillers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABDINDIA_05032026180545_SE_Intimation-Investec_sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 18:26:06",
-      "an_dt": "04-Mar-2026 18:26:06",
-      "desc": "Resignation",
-      "sm_name": "Allied Blenders and Distillers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABDINDIA_04032026182555_SE_Intimation_-_Uday_Rao_Marketing_Director_sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 18:26:06",
-      "an_dt": "04-Mar-2026 18:26:06",
-      "desc": "Appointment",
-      "sm_name": "Allied Blenders and Distillers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABDINDIA_04032026182355_SE_Intimation_-_Uday_Rao_Marketing_Director_sd.pdf"
     }
   ]
 }

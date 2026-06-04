@@ -8,17 +8,9 @@
   "price": 538.75,
   "market_cap_cr": 8248.37,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 467.2,
-      "prev_close": 474.45,
-      "volume": 134738,
-      "deliverable_qty": 72086,
-      "delivery_pct": 53.5
-    },
     {
       "date": "2026-03-05",
       "close": 483.0,
@@ -434,9 +426,24 @@
       "volume": 88377,
       "deliverable_qty": 41773,
       "delivery_pct": 47.27
+    },
+    {
+      "date": "2026-06-03",
+      "close": 540.45,
+      "prev_close": 531.25,
+      "volume": 148831,
+      "deliverable_qty": 83158,
+      "delivery_pct": 55.87
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 19:03:07",
+      "an_dt": "03-Jun-2026 19:03:07",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Akums Drugs and Pharmaceuticals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NSEAKUMS10_03062026190233_AKUMSINVESTORMEET.pdf"
+    },
     {
       "sort_date": "2026-05-28 18:24:32",
       "an_dt": "28-May-2026 18:24:32",

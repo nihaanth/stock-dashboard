@@ -8,17 +8,9 @@
   "price": 1711.5,
   "market_cap_cr": 8461.31,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 1648.4,
-      "prev_close": 1700.0,
-      "volume": 69656,
-      "deliverable_qty": 41088,
-      "delivery_pct": 58.99
-    },
     {
       "date": "2026-03-05",
       "close": 1648.7,
@@ -434,9 +426,24 @@
       "volume": 12577,
       "deliverable_qty": 6386,
       "delivery_pct": 50.78
+    },
+    {
+      "date": "2026-06-03",
+      "close": 1606.5,
+      "prev_close": 1612.0,
+      "volume": 39811,
+      "deliverable_qty": 15115,
+      "delivery_pct": 37.97
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 15:35:01",
+      "an_dt": "03-Jun-2026 15:35:01",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "SKF India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20052026122407_35.pdf"
+    },
     {
       "sort_date": "2026-05-26 18:05:34",
       "an_dt": "26-May-2026 18:05:34",

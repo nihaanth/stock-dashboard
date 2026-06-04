@@ -8,17 +8,9 @@
   "price": 343.85,
   "market_cap_cr": 14859.81,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 323.5,
-      "prev_close": 325.7,
-      "volume": 1069662,
-      "deliverable_qty": 591754,
-      "delivery_pct": 55.32
-    },
     {
       "date": "2026-03-05",
       "close": 330.65,
@@ -434,9 +426,24 @@
       "volume": 200263,
       "deliverable_qty": 98591,
       "delivery_pct": 49.23
+    },
+    {
+      "date": "2026-06-03",
+      "close": 360.1,
+      "prev_close": 362.4,
+      "volume": 173881,
+      "deliverable_qty": 86696,
+      "delivery_pct": 49.86
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 17:32:04",
+      "an_dt": "03-Jun-2026 17:32:04",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "International Gemological Institute Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGIINDIA_03062026173150_Investor_meet_intimation.pdf"
+    },
     {
       "sort_date": "2026-05-27 19:00:51",
       "an_dt": "27-May-2026 19:00:51",
@@ -548,20 +555,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "International Gemmological Institute (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGIINDIA_20032026173928_SE_Results.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 17:39:51",
-      "an_dt": "04-Mar-2026 17:39:51",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "International Gemmological Institute (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGIINDIA_04032026173939_Investor_meet_intimation_10032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 17:37:14",
-      "an_dt": "04-Mar-2026 17:37:14",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "International Gemmological Institute (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IGIINDIA_04032026173703_Investor_meet_intimation_11032026.pdf"
     }
   ]
 }

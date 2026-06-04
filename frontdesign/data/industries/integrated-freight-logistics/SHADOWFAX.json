@@ -8,17 +8,9 @@
   "price": 164.72,
   "market_cap_cr": 9613.42,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 119.01,
-      "prev_close": 120.59,
-      "volume": 1343387,
-      "deliverable_qty": 728527,
-      "delivery_pct": 54.23
-    },
     {
       "date": "2026-03-05",
       "close": 124.11,
@@ -434,9 +426,31 @@
       "volume": 1662810,
       "deliverable_qty": 617200,
       "delivery_pct": 37.12
+    },
+    {
+      "date": "2026-06-03",
+      "close": 195.33,
+      "prev_close": 191.03,
+      "volume": 1469239,
+      "deliverable_qty": 659400,
+      "delivery_pct": 44.88
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 17:42:33",
+      "an_dt": "03-Jun-2026 17:42:33",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shadowfax Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9900590024_03062026174207_Analyst_Meet.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 17:32:30",
+      "an_dt": "03-Jun-2026 17:32:30",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shadowfax Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9900590024_03062026173132_Analyst_Meet.pdf"
+    },
     {
       "sort_date": "2026-05-28 13:20:41",
       "an_dt": "28-May-2026 13:20:41",

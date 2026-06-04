@@ -8,17 +8,9 @@
   "price": 126.06,
   "market_cap_cr": 19440.73,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 106.56,
-      "prev_close": 103.03,
-      "volume": 7865278,
-      "deliverable_qty": 4203617,
-      "delivery_pct": 53.45
-    },
     {
       "date": "2026-03-05",
       "close": 108.1,
@@ -434,9 +426,31 @@
       "volume": 5593642,
       "deliverable_qty": 1843128,
       "delivery_pct": 32.95
+    },
+    {
+      "date": "2026-06-03",
+      "close": 123.56,
+      "prev_close": 121.16,
+      "volume": 2315789,
+      "deliverable_qty": 977428,
+      "delivery_pct": 42.21
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 22:09:41",
+      "an_dt": "03-Jun-2026 22:09:41",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Urban Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/URBANCO_03062026220751_Investor_Meeting_SE_Intimation_03062026.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 20:17:00",
+      "an_dt": "03-Jun-2026 20:17:00",
+      "desc": "General Updates",
+      "sm_name": "Urban Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/URBANCO_03062026201441_SEIntimationfor12thAGM.pdf"
+    },
     {
       "sort_date": "2026-06-01 21:15:04",
       "an_dt": "01-Jun-2026 21:15:04",

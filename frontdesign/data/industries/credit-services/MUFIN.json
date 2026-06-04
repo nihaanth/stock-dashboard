@@ -8,17 +8,9 @@
   "price": 116.14,
   "market_cap_cr": 2301.46,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 106.03,
-      "prev_close": 110.0,
-      "volume": 1138806,
-      "deliverable_qty": 381243,
-      "delivery_pct": 33.48
-    },
     {
       "date": "2026-03-05",
       "close": 108.09,
@@ -434,6 +426,14 @@
       "volume": 1337679,
       "deliverable_qty": 349643,
       "delivery_pct": 26.14
+    },
+    {
+      "date": "2026-06-03",
+      "close": 122.48,
+      "prev_close": 122.5,
+      "volume": 1191621,
+      "deliverable_qty": 369301,
+      "delivery_pct": 30.99
     }
   ],
   "news": [
@@ -527,13 +527,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Mufin Green Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MUFIN_20032026173841_Voting_Results.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 21:57:39",
-      "an_dt": "04-Mar-2026 21:57:39",
-      "desc": "Allotment of Securities",
-      "sm_name": "Mufin Green Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MUFIN_04032026215653_Intimation_Allotment.pdf"
     }
   ]
 }

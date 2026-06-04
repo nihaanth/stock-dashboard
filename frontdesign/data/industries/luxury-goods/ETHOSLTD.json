@@ -8,17 +8,9 @@
   "price": 2359.6,
   "market_cap_cr": 6313.75,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 2325.4,
-      "prev_close": 2385.7,
-      "volume": 26043,
-      "deliverable_qty": 14555,
-      "delivery_pct": 55.89
-    },
     {
       "date": "2026-03-05",
       "close": 2308.7,
@@ -434,9 +426,24 @@
       "volume": 4105,
       "deliverable_qty": 1804,
       "delivery_pct": 43.95
+    },
+    {
+      "date": "2026-06-03",
+      "close": 2356.0,
+      "prev_close": 2359.6,
+      "volume": 9726,
+      "deliverable_qty": 4980,
+      "delivery_pct": 51.2
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 11:44:45",
+      "an_dt": "03-Jun-2026 11:44:45",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Ethos Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ETHOS_03062026114436_Newspaper_Publication_Postal_Ballot.pdf"
+    },
     {
       "sort_date": "2026-06-02 15:38:07",
       "an_dt": "02-Jun-2026 15:38:07",

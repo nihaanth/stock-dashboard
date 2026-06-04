@@ -8,17 +8,9 @@
   "price": 3575.1,
   "market_cap_cr": 14422.5,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 3281.7,
-      "prev_close": 3459.6,
-      "volume": 145120,
-      "deliverable_qty": 57921,
-      "delivery_pct": 39.91
-    },
     {
       "date": "2026-03-05",
       "close": 3412.4,
@@ -434,9 +426,24 @@
       "volume": 56958,
       "deliverable_qty": 22688,
       "delivery_pct": 39.83
+    },
+    {
+      "date": "2026-06-03",
+      "close": 3184.6,
+      "prev_close": 3223.1,
+      "volume": 49748,
+      "deliverable_qty": 19099,
+      "delivery_pct": 38.39
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 17:13:25",
+      "an_dt": "03-Jun-2026 17:13:25",
+      "desc": "Loss of Share Certificates",
+      "sm_name": "CEAT Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CEATLTD_03062026171308_SELossintimationJune032026signed.pdf"
+    },
     {
       "sort_date": "2026-05-30 12:49:20",
       "an_dt": "30-May-2026 12:49:20",

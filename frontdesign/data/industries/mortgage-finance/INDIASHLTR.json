@@ -8,17 +8,9 @@
   "price": 836.1,
   "market_cap_cr": 9095.52,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 695.35,
-      "prev_close": 727.15,
-      "volume": 249258,
-      "deliverable_qty": 156028,
-      "delivery_pct": 62.6
-    },
     {
       "date": "2026-03-05",
       "close": 700.1,
@@ -434,9 +426,24 @@
       "volume": 58701,
       "deliverable_qty": 33787,
       "delivery_pct": 57.56
+    },
+    {
+      "date": "2026-06-03",
+      "close": 780.65,
+      "prev_close": 772.6,
+      "volume": 51938,
+      "deliverable_qty": 28595,
+      "delivery_pct": 55.06
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 17:43:00",
+      "an_dt": "03-Jun-2026 17:43:00",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "India Shelter Finance Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20052026165048_INDIASHLTR.pdf"
+    },
     {
       "sort_date": "2026-05-26 12:24:49",
       "an_dt": "26-May-2026 12:24:49",

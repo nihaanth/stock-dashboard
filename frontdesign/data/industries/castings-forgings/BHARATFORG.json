@@ -8,17 +8,9 @@
   "price": 1987.0,
   "market_cap_cr": 94996.21,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 1841.8,
-      "prev_close": 1879.3,
-      "volume": 1688493,
-      "deliverable_qty": 899930,
-      "delivery_pct": 53.3
-    },
     {
       "date": "2026-03-05",
       "close": 1898.4,
@@ -434,6 +426,14 @@
       "volume": 1291251,
       "deliverable_qty": 680263,
       "delivery_pct": 52.68
+    },
+    {
+      "date": "2026-06-03",
+      "close": 1936.5,
+      "prev_close": 1902.9,
+      "volume": 808066,
+      "deliverable_qty": 310561,
+      "delivery_pct": 38.43
     }
   ],
   "news": [
@@ -709,13 +709,6 @@
       "desc": "News Verification",
       "sm_name": "Bharat Forge Limited",
       "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-03-04 18:05:47",
-      "an_dt": "04-Mar-2026 18:05:47",
-      "desc": "General Updates",
-      "sm_name": "Bharat Forge Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANILSHINDE_04032026180526_SEIntimationTermLoan.pdf"
     }
   ]
 }

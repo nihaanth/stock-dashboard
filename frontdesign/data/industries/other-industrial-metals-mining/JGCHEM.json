@@ -8,17 +8,9 @@
   "price": 407.4,
   "market_cap_cr": 1596.44,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 350.75,
-      "prev_close": 371.4,
-      "volume": 120832,
-      "deliverable_qty": 51362,
-      "delivery_pct": 42.51
-    },
     {
       "date": "2026-03-05",
       "close": 362.75,
@@ -434,6 +426,14 @@
       "volume": 50569,
       "deliverable_qty": 26379,
       "delivery_pct": 52.16
+    },
+    {
+      "date": "2026-06-03",
+      "close": 432.45,
+      "prev_close": 431.25,
+      "volume": 59528,
+      "deliverable_qty": 22293,
+      "delivery_pct": 37.45
     }
   ],
   "news": [
@@ -583,13 +583,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "J.G.Chemicals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/9903318000_19032026184242_Investor_meet_intimation_24032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 21:44:06",
-      "an_dt": "04-Mar-2026 21:44:06",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "J.G.Chemicals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9903318000_04032026214349_Investor_Meet_Intimation_dated_09032026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 534.6,
   "market_cap_cr": 6387.49,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 478.45,
-      "prev_close": 482.6,
-      "volume": 48863,
-      "deliverable_qty": 25861,
-      "delivery_pct": 52.93
-    },
     {
       "date": "2026-03-05",
       "close": 473.25,
@@ -434,9 +426,24 @@
       "volume": 89638,
       "deliverable_qty": 49970,
       "delivery_pct": 55.75
+    },
+    {
+      "date": "2026-06-03",
+      "close": 536.7,
+      "prev_close": 540.25,
+      "volume": 76735,
+      "deliverable_qty": 24355,
+      "delivery_pct": 31.74
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 18:22:45",
+      "an_dt": "03-Jun-2026 18:22:45",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Hindustan Foods Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9136565850_03062026182150_HFL_Systematix_Conference_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-29 15:59:16",
       "an_dt": "29-May-2026 15:59:16",

@@ -8,17 +8,9 @@
   "price": 174.75,
   "market_cap_cr": 9208.82,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 132.89,
-      "prev_close": 137.0,
-      "volume": 1346668,
-      "deliverable_qty": 722735,
-      "delivery_pct": 53.67
-    },
     {
       "date": "2026-03-05",
       "close": 137.38,
@@ -434,9 +426,31 @@
       "volume": 5733720,
       "deliverable_qty": 1380936,
       "delivery_pct": 24.08
+    },
+    {
+      "date": "2026-06-03",
+      "close": 188.68,
+      "prev_close": 194.65,
+      "volume": 2369180,
+      "deliverable_qty": 877241,
+      "delivery_pct": 37.03
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 13:33:54",
+      "an_dt": "03-Jun-2026 13:33:54",
+      "desc": "Press Release",
+      "sm_name": "Diamond Power Infrastructure Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIACABS_03062026133337_PressRelease03062026.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 13:28:52",
+      "an_dt": "03-Jun-2026 13:28:52",
+      "desc": "Capacity addition",
+      "sm_name": "Diamond Power Infrastructure Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIACABS_03062026132841_Disclosure03062026.pdf"
+    },
     {
       "sort_date": "2026-05-27 15:14:52",
       "an_dt": "27-May-2026 15:14:52",

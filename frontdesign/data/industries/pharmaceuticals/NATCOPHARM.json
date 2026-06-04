@@ -8,17 +8,9 @@
   "price": 1206.0,
   "market_cap_cr": 21600.65,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 953.1,
-      "prev_close": 956.25,
-      "volume": 3017646,
-      "deliverable_qty": 497138,
-      "delivery_pct": 16.47
-    },
     {
       "date": "2026-03-05",
       "close": 1000.8,
@@ -434,9 +426,24 @@
       "volume": 876072,
       "deliverable_qty": 301682,
       "delivery_pct": 34.44
+    },
+    {
+      "date": "2026-06-03",
+      "close": 934.5,
+      "prev_close": 939.3,
+      "volume": 2605418,
+      "deliverable_qty": 820022,
+      "delivery_pct": 31.47
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 11:15:32",
+      "an_dt": "03-Jun-2026 11:15:32",
+      "desc": "Press Release",
+      "sm_name": "Natco Pharma Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NATCOPHARM_03062026111518_PressReleaseEribulin03062029.pdf"
+    },
     {
       "sort_date": "2026-05-30 12:24:34",
       "an_dt": "30-May-2026 12:24:34",

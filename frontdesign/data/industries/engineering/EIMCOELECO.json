@@ -8,17 +8,9 @@
   "price": 1760.0,
   "market_cap_cr": 1015.24,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 1557.0,
-      "prev_close": 1535.5,
-      "volume": 29031,
-      "deliverable_qty": 14799,
-      "delivery_pct": 50.98
-    },
     {
       "date": "2026-03-05",
       "close": 1554.9,
@@ -434,9 +426,24 @@
       "volume": 17217,
       "deliverable_qty": 9947,
       "delivery_pct": 57.77
+    },
+    {
+      "date": "2026-06-03",
+      "close": 1525.3,
+      "prev_close": 1523.4,
+      "volume": 23417,
+      "deliverable_qty": 13548,
+      "delivery_pct": 57.86
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 12:03:41",
+      "an_dt": "03-Jun-2026 12:03:41",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Eimco Elecon (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EIMCOELECO_03062026120305_NP_Post52AGM_030062026.pdf"
+    },
     {
       "sort_date": "2026-06-02 18:28:30",
       "an_dt": "02-Jun-2026 18:28:30",

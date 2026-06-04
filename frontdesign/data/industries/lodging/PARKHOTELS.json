@@ -8,17 +8,9 @@
   "price": 116.34,
   "market_cap_cr": 2482.4,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 117.51,
-      "prev_close": 120.05,
-      "volume": 413476,
-      "deliverable_qty": 261160,
-      "delivery_pct": 63.16
-    },
     {
       "date": "2026-03-05",
       "close": 118.7,
@@ -434,9 +426,24 @@
       "volume": 98101,
       "deliverable_qty": 48445,
       "delivery_pct": 49.38
+    },
+    {
+      "date": "2026-06-03",
+      "close": 115.15,
+      "prev_close": 116.4,
+      "volume": 84812,
+      "deliverable_qty": 40655,
+      "delivery_pct": 47.94
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 17:45:15",
+      "an_dt": "03-Jun-2026 17:45:15",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Apeejay Surrendra Park Hotels Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASPHL_03062026174355_Transcript.pdf"
+    },
     {
       "sort_date": "2026-05-29 19:06:59",
       "an_dt": "29-May-2026 19:06:59",

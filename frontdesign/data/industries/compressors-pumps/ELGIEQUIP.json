@@ -8,17 +8,9 @@
   "price": 515.65,
   "market_cap_cr": 16283.79,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 497.55,
-      "prev_close": 520.1,
-      "volume": 365100,
-      "deliverable_qty": 193215,
-      "delivery_pct": 52.92
-    },
     {
       "date": "2026-03-05",
       "close": 518.4,
@@ -434,9 +426,24 @@
       "volume": 403156,
       "deliverable_qty": 180199,
       "delivery_pct": 44.7
+    },
+    {
+      "date": "2026-06-03",
+      "close": 601.2,
+      "prev_close": 589.35,
+      "volume": 1223194,
+      "deliverable_qty": 582718,
+      "delivery_pct": 47.64
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 14:42:43",
+      "an_dt": "03-Jun-2026 14:42:43",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Elgi Equipments Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELGIEQUIP_03062026144150_IntimationTranscript29052026.pdf"
+    },
     {
       "sort_date": "2026-05-29 17:28:35",
       "an_dt": "29-May-2026 17:28:35",
@@ -611,13 +618,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Elgi Equipments Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELGIEQUIP_19032026122958_InvestorsCallIntimation24032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 16:33:36",
-      "an_dt": "04-Mar-2026 16:33:36",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Elgi Equipments Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ELGIEQUIP_04032026163236_CLTranscriptInvestorsandAnalystsMeet202526.pdf"
     }
   ]
 }

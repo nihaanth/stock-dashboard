@@ -8,17 +8,9 @@
   "price": 249.46,
   "market_cap_cr": 18537.13,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 261.05,
-      "prev_close": 277.35,
-      "volume": 2664457,
-      "deliverable_qty": 1769131,
-      "delivery_pct": 66.4
-    },
     {
       "date": "2026-03-05",
       "close": 268.15,
@@ -434,9 +426,24 @@
       "volume": 1212615,
       "deliverable_qty": 535765,
       "delivery_pct": 44.18
+    },
+    {
+      "date": "2026-06-03",
+      "close": 249.25,
+      "prev_close": 249.6,
+      "volume": 1479958,
+      "deliverable_qty": 773202,
+      "delivery_pct": 52.24
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 15:52:04",
+      "an_dt": "03-Jun-2026 15:52:04",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "City Union Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CUB_03062026155152_ANALYSTKOTAKINDIA_09062026.pdf"
+    },
     {
       "sort_date": "2026-06-01 19:35:13",
       "an_dt": "01-Jun-2026 19:35:13",
@@ -835,13 +842,6 @@
       "desc": "General Updates",
       "sm_name": "City Union Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CUB_05032026153330_CUBNewBranchOpening918.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 18:51:52",
-      "an_dt": "04-Mar-2026 18:51:52",
-      "desc": "Shareholders meeting",
-      "sm_name": "City Union Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CUB_04032026185116_POSTALBALLOTNOTICEBSE04032026.pdf"
     }
   ]
 }

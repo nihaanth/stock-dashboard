@@ -8,17 +8,9 @@
   "price": 297.95,
   "market_cap_cr": 1592.54,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 236.75,
-      "prev_close": 248.4,
-      "volume": 47155,
-      "deliverable_qty": 25065,
-      "delivery_pct": 53.15
-    },
     {
       "date": "2026-03-05",
       "close": 232.55,
@@ -434,9 +426,31 @@
       "volume": 92233,
       "deliverable_qty": 41061,
       "delivery_pct": 44.52
+    },
+    {
+      "date": "2026-06-03",
+      "close": 270.4,
+      "prev_close": 275.0,
+      "volume": 202404,
+      "deliverable_qty": 98816,
+      "delivery_pct": 48.82
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 19:41:58",
+      "an_dt": "03-Jun-2026 19:41:58",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Signpost India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SIGNPOST_03062026194147_SIL_SE_Audio_Recording_Earnings_Call_Q4FY26.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 11:49:25",
+      "an_dt": "03-Jun-2026 11:49:25",
+      "desc": "Investor Presentation",
+      "sm_name": "Signpost India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SIGNPOST_03062026114559_SIL_SE_Investors_Presentation_signed.pdf"
+    },
     {
       "sort_date": "2026-06-01 18:23:03",
       "an_dt": "01-Jun-2026 18:23:03",

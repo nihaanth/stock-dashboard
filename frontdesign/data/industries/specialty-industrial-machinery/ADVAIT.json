@@ -8,17 +8,9 @@
   "price": 2027.1,
   "market_cap_cr": 2216.99,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 1527.2,
-      "prev_close": 1616.8,
-      "volume": 29455,
-      "deliverable_qty": 14719,
-      "delivery_pct": 49.97
-    },
     {
       "date": "2026-03-05",
       "close": 1567.9,
@@ -434,6 +426,14 @@
       "volume": 30139,
       "deliverable_qty": 13198,
       "delivery_pct": 43.79
+    },
+    {
+      "date": "2026-06-03",
+      "close": 2063.6,
+      "prev_close": 1972.4,
+      "volume": 93150,
+      "deliverable_qty": 27822,
+      "delivery_pct": 29.87
     }
   ],
   "news": [
@@ -625,13 +625,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Advait Energy Transitions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_05032026191106_Seintimationinvestorsmeets.pdf"
-    },
-    {
-      "sort_date": "2026-03-04 21:41:40",
-      "an_dt": "04-Mar-2026 21:41:40",
-      "desc": "Allotment of Securities",
-      "sm_name": "Advait Energy Transitions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_04032026214127_SEintimations.pdf"
     }
   ]
 }

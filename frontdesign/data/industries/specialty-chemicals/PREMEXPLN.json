@@ -8,17 +8,9 @@
   "price": 525.7,
   "market_cap_cr": 2827.43,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 503.85,
-      "prev_close": 515.55,
-      "volume": 328852,
-      "deliverable_qty": 111963,
-      "delivery_pct": 34.05
-    },
     {
       "date": "2026-03-05",
       "close": 506.0,
@@ -434,9 +426,24 @@
       "volume": 525642,
       "deliverable_qty": 210253,
       "delivery_pct": 40.0
+    },
+    {
+      "date": "2026-06-03",
+      "close": 654.55,
+      "prev_close": 651.85,
+      "volume": 463987,
+      "deliverable_qty": 184020,
+      "delivery_pct": 39.66
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 16:09:00",
+      "an_dt": "03-Jun-2026 16:09:00",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Premier Explosives Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20052026125851_premier.pdf"
+    },
     {
       "sort_date": "2026-06-02 10:54:51",
       "an_dt": "02-Jun-2026 10:54:51",

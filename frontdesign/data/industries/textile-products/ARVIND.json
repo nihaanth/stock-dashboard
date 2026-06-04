@@ -8,17 +8,9 @@
   "price": 440.85,
   "market_cap_cr": 11555.32,
   "industry_source": "webarchive",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 339.9,
-      "prev_close": 344.35,
-      "volume": 482987,
-      "deliverable_qty": 251811,
-      "delivery_pct": 52.14
-    },
     {
       "date": "2026-03-05",
       "close": 345.85,
@@ -434,9 +426,24 @@
       "volume": 1476167,
       "deliverable_qty": 656027,
       "delivery_pct": 44.44
+    },
+    {
+      "date": "2026-06-03",
+      "close": 485.05,
+      "prev_close": 500.65,
+      "volume": 692347,
+      "deliverable_qty": 249452,
+      "delivery_pct": 36.03
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 12:16:22",
+      "an_dt": "03-Jun-2026 12:16:22",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Arvind Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_19052026184545_ARVIND.pdf"
+    },
     {
       "sort_date": "2026-05-25 16:18:48",
       "an_dt": "25-May-2026 16:18:48",

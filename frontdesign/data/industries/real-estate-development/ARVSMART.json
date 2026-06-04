@@ -8,17 +8,9 @@
   "price": 626.1,
   "market_cap_cr": 2871.73,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 509.3,
-      "prev_close": 516.2,
-      "volume": 30888,
-      "deliverable_qty": 16895,
-      "delivery_pct": 54.7
-    },
     {
       "date": "2026-03-05",
       "close": 510.0,
@@ -434,9 +426,24 @@
       "volume": 36326,
       "deliverable_qty": 19390,
       "delivery_pct": 53.38
+    },
+    {
+      "date": "2026-06-03",
+      "close": 586.1,
+      "prev_close": 594.5,
+      "volume": 11878,
+      "deliverable_qty": 6984,
+      "delivery_pct": 58.8
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 15:41:29",
+      "an_dt": "03-Jun-2026 15:41:29",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Arvind SmartSpaces Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20052026123040_ASL_Aura.pdf"
+    },
     {
       "sort_date": "2026-06-01 18:03:53",
       "an_dt": "01-Jun-2026 18:03:53",

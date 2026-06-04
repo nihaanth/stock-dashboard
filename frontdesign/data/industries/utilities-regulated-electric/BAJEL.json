@@ -8,17 +8,9 @@
   "price": 175.63,
   "market_cap_cr": 2031.99,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 147.91,
-      "prev_close": 155.28,
-      "volume": 248379,
-      "deliverable_qty": 133859,
-      "delivery_pct": 53.89
-    },
     {
       "date": "2026-03-05",
       "close": 146.98,
@@ -434,9 +426,31 @@
       "volume": 611938,
       "deliverable_qty": 222888,
       "delivery_pct": 36.42
+    },
+    {
+      "date": "2026-06-03",
+      "close": 199.93,
+      "prev_close": 194.01,
+      "volume": 1998351,
+      "deliverable_qty": 491621,
+      "delivery_pct": 24.6
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 22:18:03",
+      "an_dt": "03-Jun-2026 22:18:03",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Bajel Projects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BAJEL_03062026221754_transcriptssigned.pdf"
+    },
+    {
+      "sort_date": "2026-06-03 09:48:46",
+      "an_dt": "03-Jun-2026 09:48:46",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "Bajel Projects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BAJEL_03062026094837_Intimationsigned.pdf"
+    },
     {
       "sort_date": "2026-05-29 21:09:25",
       "an_dt": "29-May-2026 21:09:25",

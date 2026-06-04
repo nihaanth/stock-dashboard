@@ -8,17 +8,9 @@
   "price": 165.46,
   "market_cap_cr": 1775.37,
   "industry_source": "yfinance",
-  "as_of": "2026-06-02",
+  "as_of": "2026-06-03",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-04",
-      "close": 146.88,
-      "prev_close": 149.7,
-      "volume": 133910,
-      "deliverable_qty": 58618,
-      "delivery_pct": 43.77
-    },
     {
       "date": "2026-03-05",
       "close": 150.31,
@@ -434,9 +426,24 @@
       "volume": 254250,
       "deliverable_qty": 92545,
       "delivery_pct": 36.4
+    },
+    {
+      "date": "2026-06-03",
+      "close": 176.21,
+      "prev_close": 176.84,
+      "volume": 316525,
+      "deliverable_qty": 88715,
+      "delivery_pct": 28.03
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-03 12:55:15",
+      "an_dt": "03-Jun-2026 12:55:15",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Shalby Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20052026111459_3DisclosureSAST.pdf"
+    },
     {
       "sort_date": "2026-06-02 17:03:39",
       "an_dt": "02-Jun-2026 17:03:39",
