@@ -8,17 +8,9 @@
   "price": 920.55,
   "market_cap_cr": 2618.28,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 878.25,
-      "prev_close": 859.1,
-      "volume": 44177,
-      "deliverable_qty": 24038,
-      "delivery_pct": 54.41
-    },
     {
       "date": "2026-03-06",
       "close": 864.4,
@@ -434,6 +426,14 @@
       "volume": 182936,
       "deliverable_qty": 76538,
       "delivery_pct": 41.84
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1095.2,
+      "prev_close": 1138.0,
+      "volume": 249308,
+      "deliverable_qty": 95925,
+      "delivery_pct": 38.48
     }
   ],
   "news": [
@@ -653,13 +653,6 @@
       "desc": "General Updates",
       "sm_name": "CARYSIL LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACRYSIL_13032026135413_Update_on_geopolitical_development.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 17:22:30",
-      "an_dt": "05-Mar-2026 17:22:30",
-      "desc": "General Updates",
-      "sm_name": "CARYSIL LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACRYSIL_05032026172213_Reg_30_05032026.pdf"
     }
   ]
 }

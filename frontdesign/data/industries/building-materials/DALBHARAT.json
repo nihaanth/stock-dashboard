@@ -8,17 +8,9 @@
   "price": 1772.2,
   "market_cap_cr": 33269.3,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 1928.7,
-      "prev_close": 1895.7,
-      "volume": 103976,
-      "deliverable_qty": 43970,
-      "delivery_pct": 42.29
-    },
     {
       "date": "2026-03-06",
       "close": 1899.8,
@@ -434,9 +426,24 @@
       "volume": 170266,
       "deliverable_qty": 78834,
       "delivery_pct": 46.3
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1725.3,
+      "prev_close": 1723.2,
+      "volume": 195392,
+      "deliverable_qty": 104494,
+      "delivery_pct": 53.48
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 22:21:33",
+      "an_dt": "04-Jun-2026 22:21:33",
+      "desc": "Shareholders meeting",
+      "sm_name": "Dalmia Bharat Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DALBHARAT_04062026222040_DBLAR2026Signed.pdf"
+    },
     {
       "sort_date": "2026-06-03 16:05:12",
       "an_dt": "03-Jun-2026 16:05:12",

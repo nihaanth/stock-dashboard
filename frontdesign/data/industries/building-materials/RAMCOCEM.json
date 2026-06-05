@@ -8,17 +8,9 @@
   "price": 950.5,
   "market_cap_cr": 22459.59,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 1103.6,
-      "prev_close": 1085.2,
-      "volume": 187407,
-      "deliverable_qty": 54811,
-      "delivery_pct": 29.25
-    },
     {
       "date": "2026-03-06",
       "close": 1090.2,
@@ -434,9 +426,24 @@
       "volume": 103844,
       "deliverable_qty": 57255,
       "delivery_pct": 55.14
+    },
+    {
+      "date": "2026-06-04",
+      "close": 877.4,
+      "prev_close": 859.85,
+      "volume": 119700,
+      "deliverable_qty": 44118,
+      "delivery_pct": 36.86
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 11:18:57",
+      "an_dt": "04-Jun-2026 11:18:57",
+      "desc": "General Updates",
+      "sm_name": "The Ramco Cements Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAMCOCEM_04062026111848_selitjun.pdf"
+    },
     {
       "sort_date": "2026-06-01 10:15:46",
       "an_dt": "01-Jun-2026 10:15:46",

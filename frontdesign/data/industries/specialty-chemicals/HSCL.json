@@ -8,17 +8,9 @@
   "price": 615.95,
   "market_cap_cr": 31077.24,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 457.45,
-      "prev_close": 442.3,
-      "volume": 3081382,
-      "deliverable_qty": 1526510,
-      "delivery_pct": 49.54
-    },
     {
       "date": "2026-03-06",
       "close": 451.3,
@@ -434,6 +426,14 @@
       "volume": 11405271,
       "deliverable_qty": 1129083,
       "delivery_pct": 9.9
+    },
+    {
+      "date": "2026-06-04",
+      "close": 642.0,
+      "prev_close": 602.05,
+      "volume": 19227270,
+      "deliverable_qty": 3523334,
+      "delivery_pct": 18.32
     }
   ],
   "news": [
@@ -688,13 +688,6 @@
       "desc": "Credit Rating",
       "sm_name": "Himadri Speciality Chemical Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HSCL_20032026135835_CreditratingIndRA20032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 18:45:44",
-      "an_dt": "05-Mar-2026 18:45:44",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Himadri Speciality Chemical Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HSCL_05032026184506_ESOPAllotment_05032026_Stock_ex.pdf"
     }
   ]
 }

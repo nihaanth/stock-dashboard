@@ -8,17 +8,9 @@
   "price": 347.4,
   "market_cap_cr": 6303.69,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 303.05,
-      "prev_close": 306.0,
-      "volume": 79604,
-      "deliverable_qty": 50084,
-      "delivery_pct": 62.92
-    },
     {
       "date": "2026-03-06",
       "close": 300.9,
@@ -434,9 +426,24 @@
       "volume": 74625,
       "deliverable_qty": 37583,
       "delivery_pct": 50.36
+    },
+    {
+      "date": "2026-06-04",
+      "close": 305.85,
+      "prev_close": 306.8,
+      "volume": 49404,
+      "deliverable_qty": 32547,
+      "delivery_pct": 65.88
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 19:46:19",
+      "an_dt": "04-Jun-2026 19:46:19",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "MAS Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASFIN_04062026194411_Stock_Exchange_Intimation_Investor_Meetings_Choice.pdf"
+    },
     {
       "sort_date": "2026-05-26 12:55:54",
       "an_dt": "26-May-2026 12:55:54",

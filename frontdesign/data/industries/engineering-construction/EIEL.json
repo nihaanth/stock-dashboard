@@ -8,17 +8,9 @@
   "price": 219.17,
   "market_cap_cr": 3847.09,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 144.32,
-      "prev_close": 143.59,
-      "volume": 740561,
-      "deliverable_qty": 334492,
-      "delivery_pct": 45.17
-    },
     {
       "date": "2026-03-06",
       "close": 140.98,
@@ -434,9 +426,24 @@
       "volume": 741939,
       "deliverable_qty": 326955,
       "delivery_pct": 44.07
+    },
+    {
+      "date": "2026-06-04",
+      "close": 185.69,
+      "prev_close": 183.43,
+      "volume": 765670,
+      "deliverable_qty": 249949,
+      "delivery_pct": 32.64
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 13:14:41",
+      "an_dt": "04-Jun-2026 13:14:41",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Enviro Infra Engineers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ENVIRO_04062026130552_Intimation_EIEL_Transcript.pdf"
+    },
     {
       "sort_date": "2026-05-29 18:26:44",
       "an_dt": "29-May-2026 18:26:44",

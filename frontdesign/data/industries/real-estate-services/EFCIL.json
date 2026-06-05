@@ -8,17 +8,9 @@
   "price": 186.57,
   "market_cap_cr": 2601.19,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 235.99,
-      "prev_close": 228.64,
-      "volume": 2342719,
-      "deliverable_qty": 1972584,
-      "delivery_pct": 84.2
-    },
     {
       "date": "2026-03-06",
       "close": 233.75,
@@ -434,9 +426,24 @@
       "volume": 444465,
       "deliverable_qty": 231377,
       "delivery_pct": 52.06
+    },
+    {
+      "date": "2026-06-04",
+      "close": 173.82,
+      "prev_close": 177.51,
+      "volume": 250085,
+      "deliverable_qty": 146074,
+      "delivery_pct": 58.41
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 20:33:13",
+      "an_dt": "04-Jun-2026 20:33:13",
+      "desc": "General Updates",
+      "sm_name": "EFC (I) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EFCILTD_04062026203009_Revised_Intimation_-_Q4.pdf"
+    },
     {
       "sort_date": "2026-06-03 17:48:51",
       "an_dt": "03-Jun-2026 17:48:51",
@@ -681,13 +688,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "EFC (I) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EFCILTD_24032026183457_EFC__I__Investor_Call_-_24-03-2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 12:39:25",
-      "an_dt": "05-Mar-2026 12:39:25",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "EFC (I) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EFCILTD_05032026123850_EFC__I__Investor_Call_-_05-03-2026_-_Final.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 179.44,
   "market_cap_cr": 1907.26,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 132.31,
-      "prev_close": 130.37,
-      "volume": 348160,
-      "deliverable_qty": 210006,
-      "delivery_pct": 60.32
-    },
     {
       "date": "2026-03-06",
       "close": 129.25,
@@ -434,6 +426,14 @@
       "volume": 436485,
       "deliverable_qty": 194093,
       "delivery_pct": 44.47
+    },
+    {
+      "date": "2026-06-04",
+      "close": 171.39,
+      "prev_close": 169.67,
+      "volume": 393247,
+      "deliverable_qty": 169450,
+      "delivery_pct": 43.09
     }
   ],
   "news": [
@@ -597,13 +597,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Suryoday Small Finance Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SURYODAY_09032026164816_SSFB_Outcome_of_Group_Meeting_Mar_9_2026_sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 22:53:31",
-      "an_dt": "05-Mar-2026 22:53:31",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Suryoday Small Finance Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SURYODAY_05032026225111_SSFB_Investor_Meet_Pre_Intimation_Arihant_Capital_signed.pdf"
     }
   ]
 }

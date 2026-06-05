@@ -8,17 +8,9 @@
   "price": 290.2,
   "market_cap_cr": 688.37,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 289.0,
-      "prev_close": 290.1,
-      "volume": 55062,
-      "deliverable_qty": 31359,
-      "delivery_pct": 56.95
-    },
     {
       "date": "2026-03-06",
       "close": 287.55,
@@ -434,6 +426,14 @@
       "volume": 24206,
       "deliverable_qty": 12785,
       "delivery_pct": 52.82
+    },
+    {
+      "date": "2026-06-04",
+      "close": 278.55,
+      "prev_close": 281.8,
+      "volume": 30288,
+      "deliverable_qty": 17696,
+      "delivery_pct": 58.43
     }
   ],
   "news": [
@@ -527,20 +527,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Ksolves India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KSOLVES_06032026200842_IntimationofGroupMeeting.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 19:34:41",
-      "an_dt": "05-Mar-2026 19:34:41",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Ksolves India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KSOLVES_05032026193433_IntimationofConferenceBCC.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 19:33:12",
-      "an_dt": "05-Mar-2026 19:33:12",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Ksolves India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KSOLVES_05032026193303_IntimationofmeetingTCG.pdf"
     }
   ]
 }

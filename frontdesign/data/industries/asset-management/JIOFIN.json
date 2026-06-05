@@ -8,17 +8,9 @@
   "price": 237.68,
   "market_cap_cr": 151001.47,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 243.1,
-      "prev_close": 241.3,
-      "volume": 13760060,
-      "deliverable_qty": 6407692,
-      "delivery_pct": 46.57
-    },
     {
       "date": "2026-03-06",
       "close": 239.35,
@@ -434,9 +426,24 @@
       "volume": 12256871,
       "deliverable_qty": 4881163,
       "delivery_pct": 39.82
+    },
+    {
+      "date": "2026-06-04",
+      "close": 235.74,
+      "prev_close": 235.03,
+      "volume": 9053339,
+      "deliverable_qty": 4676158,
+      "delivery_pct": 51.65
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 19:08:12",
+      "an_dt": "04-Jun-2026 19:08:12",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Jio Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_04062026190633_JFSL.pdf"
+    },
     {
       "sort_date": "2026-06-03 18:48:51",
       "an_dt": "03-Jun-2026 18:48:51",
@@ -625,13 +632,6 @@
       "desc": "Granting/withdrawal/surrender/cancellation/suspension of key licenses/ regulatory approvals",
       "sm_name": "Jio Financial Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_13032026171302_CORIRDAIJFSL.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 18:01:06",
-      "an_dt": "05-Mar-2026 18:01:06",
-      "desc": "Acquisition",
-      "sm_name": "Jio Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_05032026175722_JFSL.pdf"
     }
   ]
 }

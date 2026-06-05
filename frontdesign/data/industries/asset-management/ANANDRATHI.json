@@ -8,17 +8,9 @@
   "price": 3592.2,
   "market_cap_cr": 29822.67,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 3197.9,
-      "prev_close": 3138.7,
-      "volume": 200081,
-      "deliverable_qty": 99773,
-      "delivery_pct": 49.87
-    },
     {
       "date": "2026-03-06",
       "close": 3198.7,
@@ -434,9 +426,24 @@
       "volume": 686802,
       "deliverable_qty": 319507,
       "delivery_pct": 46.52
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1750.6,
+      "prev_close": 1785.2,
+      "volume": 289842,
+      "deliverable_qty": 133048,
+      "delivery_pct": 45.9
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 09:36:13",
+      "an_dt": "04-Jun-2026 09:36:13",
+      "desc": "General Updates",
+      "sm_name": "Anand Rathi Wealth Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANANDRATHI_04062026093531_AllotmentofBonusEquitySharesSD.pdf"
+    },
     {
       "sort_date": "2026-06-01 21:18:56",
       "an_dt": "01-Jun-2026 21:18:56",

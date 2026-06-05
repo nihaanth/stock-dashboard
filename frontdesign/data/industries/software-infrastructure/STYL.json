@@ -8,17 +8,9 @@
   "price": 230.04,
   "market_cap_cr": 3722.18,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 231.49,
-      "prev_close": 233.11,
-      "volume": 91085,
-      "deliverable_qty": 59677,
-      "delivery_pct": 65.52
-    },
     {
       "date": "2026-03-06",
       "close": 238.26,
@@ -434,6 +426,14 @@
       "volume": 148287,
       "deliverable_qty": 67468,
       "delivery_pct": 45.5
+    },
+    {
+      "date": "2026-06-04",
+      "close": 269.65,
+      "prev_close": 275.55,
+      "volume": 634704,
+      "deliverable_qty": 204229,
+      "delivery_pct": 32.18
     }
   ],
   "news": [
@@ -527,13 +527,6 @@
       "desc": "Trading Window",
       "sm_name": "Seshaasai Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SESHTECH2024_25032026161544_Seshaasai_Technologies_Limited_Trading_window_Closure_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 21:13:20",
-      "an_dt": "05-Mar-2026 21:13:20",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Seshaasai Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SESHTECH2024_05032026211259_STYL_intimation_investormeet_signed.pdf"
     }
   ]
 }

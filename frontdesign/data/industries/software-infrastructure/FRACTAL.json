@@ -8,17 +8,9 @@
   "price": 1059.8,
   "market_cap_cr": 18224.86,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 759.15,
-      "prev_close": 786.3,
-      "volume": 426794,
-      "deliverable_qty": 144318,
-      "delivery_pct": 33.81
-    },
     {
       "date": "2026-03-06",
       "close": 798.4,
@@ -434,6 +426,14 @@
       "volume": 636518,
       "deliverable_qty": 254488,
       "delivery_pct": 39.98
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1026.0,
+      "prev_close": 1008.2,
+      "volume": 792820,
+      "deliverable_qty": 314213,
+      "delivery_pct": 39.63
     }
   ],
   "news": [
@@ -653,27 +653,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Fractal Analytics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FRACTAL_06032026110641_Earnings_Call_Audio_Fractal.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 22:46:41",
-      "an_dt": "05-Mar-2026 22:46:41",
-      "desc": "Investor Presentation",
-      "sm_name": "Fractal Analytics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FRACTAL_05032026224622_Investor_Presentation.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 21:27:47",
-      "an_dt": "05-Mar-2026 21:27:47",
-      "desc": "Press Release",
-      "sm_name": "Fractal Analytics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FRACTAL_05032026212720_Press_Release_05032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 20:49:29",
-      "an_dt": "05-Mar-2026 20:49:29",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Fractal Analytics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FRACTAL_05032026204858_Outcome_of_BM_05032026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 649.55,
   "market_cap_cr": 1042.28,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 636.95,
-      "prev_close": 639.35,
-      "volume": 14886,
-      "deliverable_qty": 9958,
-      "delivery_pct": 66.9
-    },
     {
       "date": "2026-03-06",
       "close": 632.75,
@@ -434,6 +426,14 @@
       "volume": 14939,
       "deliverable_qty": 10000,
       "delivery_pct": 66.94
+    },
+    {
+      "date": "2026-06-04",
+      "close": 614.3,
+      "prev_close": 620.1,
+      "volume": 20970,
+      "deliverable_qty": 12303,
+      "delivery_pct": 58.67
     }
   ],
   "news": [
@@ -534,13 +534,6 @@
       "desc": "Credit Rating- New",
       "sm_name": "Control Print Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CONTROLPR_13032026200215_ICRA_13032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 18:50:41",
-      "an_dt": "05-Mar-2026 18:50:41",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Control Print Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CONTROLPR_05032026185002_Intimation_to_SE_Re-log_sd.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 755.6,
   "market_cap_cr": 18723.54,
   "industry_source": "webarchive",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 573.3,
-      "prev_close": 554.35,
-      "volume": 718670,
-      "deliverable_qty": 313152,
-      "delivery_pct": 43.57
-    },
     {
       "date": "2026-03-06",
       "close": 577.1,
@@ -434,6 +426,14 @@
       "volume": 769581,
       "deliverable_qty": 329548,
       "delivery_pct": 42.82
+    },
+    {
+      "date": "2026-06-04",
+      "close": 791.35,
+      "prev_close": 793.8,
+      "volume": 504165,
+      "deliverable_qty": 277122,
+      "delivery_pct": 54.97
     }
   ],
   "news": [
@@ -569,13 +569,6 @@
       "desc": "Trading Window",
       "sm_name": "Granules India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRANULES_26032026102235_NSEBSEINTIMATION.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 11:41:39",
-      "an_dt": "05-Mar-2026 11:41:39",
-      "desc": "Press Release",
-      "sm_name": "Granules India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRANULES_05032026114131_NSEBSEPR.pdf"
     }
   ]
 }

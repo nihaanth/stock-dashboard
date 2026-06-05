@@ -8,17 +8,9 @@
   "price": 557.45,
   "market_cap_cr": 6583.36,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 479.15,
-      "prev_close": 477.95,
-      "volume": 279357,
-      "deliverable_qty": 121710,
-      "delivery_pct": 43.57
-    },
     {
       "date": "2026-03-06",
       "close": 479.85,
@@ -434,9 +426,24 @@
       "volume": 213632,
       "deliverable_qty": 90106,
       "delivery_pct": 42.18
+    },
+    {
+      "date": "2026-06-04",
+      "close": 771.0,
+      "prev_close": 765.25,
+      "volume": 451261,
+      "deliverable_qty": 319228,
+      "delivery_pct": 70.74
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 11:45:43",
+      "an_dt": "04-Jun-2026 11:45:43",
+      "desc": "Press Release",
+      "sm_name": "Rategain Travel Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RATEGAIN_04062026114329_RG_PR_04062026.pdf"
+    },
     {
       "sort_date": "2026-06-02 16:14:58",
       "an_dt": "02-Jun-2026 16:14:58",

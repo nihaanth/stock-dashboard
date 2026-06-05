@@ -8,17 +8,9 @@
   "price": 17058.0,
   "market_cap_cr": 25574.29,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 17998.0,
-      "prev_close": 17966.0,
-      "volume": 9539,
-      "deliverable_qty": 4200,
-      "delivery_pct": 44.03
-    },
     {
       "date": "2026-03-06",
       "close": 17766.0,
@@ -434,6 +426,14 @@
       "volume": 56063,
       "deliverable_qty": 13092,
       "delivery_pct": 23.35
+    },
+    {
+      "date": "2026-06-04",
+      "close": 18688.0,
+      "prev_close": 18919.0,
+      "volume": 24471,
+      "deliverable_qty": 7501,
+      "delivery_pct": 30.65
     }
   ],
   "news": [
@@ -534,13 +534,6 @@
       "desc": "Press Release",
       "sm_name": "PTC Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PTCINDUSTRIES_10032026092921_Exchange_Press_release_Trac_Collaboration_with_Coolbrook.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 09:29:42",
-      "an_dt": "05-Mar-2026 09:29:42",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "PTC Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PTCINDUSTRIES_05032026092818_20260305_Investor_meet_Intimation.pdf"
     }
   ]
 }

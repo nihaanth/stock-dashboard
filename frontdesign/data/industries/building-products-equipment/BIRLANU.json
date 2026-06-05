@@ -8,17 +8,9 @@
   "price": 1643.6,
   "market_cap_cr": 1239.42,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 1471.1,
-      "prev_close": 1481.7,
-      "volume": 6699,
-      "deliverable_qty": 4538,
-      "delivery_pct": 67.74
-    },
     {
       "date": "2026-03-06",
       "close": 1444.1,
@@ -434,9 +426,24 @@
       "volume": 34505,
       "deliverable_qty": 12285,
       "delivery_pct": 35.6
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1359.8,
+      "prev_close": 1373.9,
+      "volume": 7273,
+      "deliverable_qty": 3291,
+      "delivery_pct": 45.25
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 17:32:44",
+      "an_dt": "04-Jun-2026 17:32:44",
+      "desc": "Updates",
+      "sm_name": "BirlaNu Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/sumedha_04062026173124_SEIntimatioSpecialWindowSigned04062026.pdf"
+    },
     {
       "sort_date": "2026-05-20 11:34:34",
       "an_dt": "20-May-2026 11:34:34",

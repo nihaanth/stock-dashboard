@@ -8,17 +8,9 @@
   "price": 349.55,
   "market_cap_cr": 7562.13,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 382.1,
-      "prev_close": 378.55,
-      "volume": 48197,
-      "deliverable_qty": 19356,
-      "delivery_pct": 40.16
-    },
     {
       "date": "2026-03-06",
       "close": 386.3,
@@ -434,6 +426,14 @@
       "volume": 84052,
       "deliverable_qty": 44320,
       "delivery_pct": 52.73
+    },
+    {
+      "date": "2026-06-04",
+      "close": 423.4,
+      "prev_close": 430.75,
+      "volume": 200201,
+      "deliverable_qty": 129058,
+      "delivery_pct": 64.46
     }
   ],
   "news": [
@@ -660,13 +660,6 @@
       "desc": "Press Release",
       "sm_name": "Amagi Media Labs Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMAGI_11032026114941_PressReleaseAnoki.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 12:08:07",
-      "an_dt": "05-Mar-2026 12:08:07",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Amagi Media Labs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMAGI_05032026120242_NewspaperadPostalBallot.pdf"
     }
   ]
 }

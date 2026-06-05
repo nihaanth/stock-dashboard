@@ -8,17 +8,9 @@
   "price": 227.04,
   "market_cap_cr": 3791.58,
   "industry_source": "webarchive",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 219.42,
-      "prev_close": 215.49,
-      "volume": 288698,
-      "deliverable_qty": 135737,
-      "delivery_pct": 47.02
-    },
     {
       "date": "2026-03-06",
       "close": 216.54,
@@ -434,9 +426,24 @@
       "volume": 534581,
       "deliverable_qty": 253640,
       "delivery_pct": 47.45
+    },
+    {
+      "date": "2026-06-04",
+      "close": 232.56,
+      "prev_close": 230.9,
+      "volume": 442976,
+      "deliverable_qty": 195026,
+      "delivery_pct": 44.03
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 20:11:52",
+      "an_dt": "04-Jun-2026 20:11:52",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Vaibhav Global Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VAIBHAVGBL_04062026201052_Investor_Meet_04062026.pdf"
+    },
     {
       "sort_date": "2026-05-29 16:31:45",
       "an_dt": "29-May-2026 16:31:45",
@@ -590,13 +597,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Vaibhav Global Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VAIBHAVGBL_06032026200826_Newspaper_Publication_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 18:43:24",
-      "an_dt": "05-Mar-2026 18:43:24",
-      "desc": "Press Release",
-      "sm_name": "Vaibhav Global Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VAIBHAVGBL_05032026183828_press_release_new_sign.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 161.55,
   "market_cap_cr": 1776.86,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 153.01,
-      "prev_close": 150.08,
-      "volume": 89403,
-      "deliverable_qty": 55976,
-      "delivery_pct": 62.61
-    },
     {
       "date": "2026-03-06",
       "close": 150.99,
@@ -434,9 +426,38 @@
       "volume": 624651,
       "deliverable_qty": 337273,
       "delivery_pct": 53.99
+    },
+    {
+      "date": "2026-06-04",
+      "close": 241.93,
+      "prev_close": 235.25,
+      "volume": 2487322,
+      "deliverable_qty": 785052,
+      "delivery_pct": 31.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 14:08:13",
+      "an_dt": "04-Jun-2026 14:08:13",
+      "desc": "Shareholders meeting",
+      "sm_name": "Satin Creditcare Network Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATIN_04062026140759_SCNL_PostalBallot_Notice.pdf"
+    },
+    {
+      "sort_date": "2026-06-04 13:26:00",
+      "an_dt": "04-Jun-2026 13:26:00",
+      "desc": "Press Release",
+      "sm_name": "Satin Creditcare Network Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATIN_04062026132535_SCNL_Press_Release.pdf"
+    },
+    {
+      "sort_date": "2026-06-04 13:11:08",
+      "an_dt": "04-Jun-2026 13:11:08",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Satin Creditcare Network Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SATIN_04062026130835_SCNL_Outcome.pdf"
+    },
     {
       "sort_date": "2026-06-01 16:56:16",
       "an_dt": "01-Jun-2026 16:56:16",

@@ -8,17 +8,9 @@
   "price": 156.42,
   "market_cap_cr": 3479.81,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 151.72,
-      "prev_close": 152.5,
-      "volume": 1047906,
-      "deliverable_qty": 607813,
-      "delivery_pct": 58.0
-    },
     {
       "date": "2026-03-06",
       "close": 149.13,
@@ -434,6 +426,14 @@
       "volume": 433254,
       "deliverable_qty": 211378,
       "delivery_pct": 48.79
+    },
+    {
+      "date": "2026-06-04",
+      "close": 167.27,
+      "prev_close": 168.22,
+      "volume": 616627,
+      "deliverable_qty": 429144,
+      "delivery_pct": 69.6
     }
   ],
   "news": [
@@ -604,48 +604,6 @@
       "desc": "General Updates",
       "sm_name": "Samhi Hotels Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Samhi_06032026165342_BusinessUpdateCall_RARE.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 20:45:10",
-      "an_dt": "05-Mar-2026 20:45:10",
-      "desc": "General Updates",
-      "sm_name": "Samhi Hotels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Samhi_05032026204453_invite.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 20:28:55",
-      "an_dt": "05-Mar-2026 20:28:55",
-      "desc": "General Updates",
-      "sm_name": "Samhi Hotels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Samhi_05032026202847_Presentation_RAREIndia.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 20:26:17",
-      "an_dt": "05-Mar-2026 20:26:17",
-      "desc": "General Updates",
-      "sm_name": "Samhi Hotels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Samhi_05032026202606_Presentation_RAREIndia.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 20:08:00",
-      "an_dt": "05-Mar-2026 20:08:00",
-      "desc": "Press Release",
-      "sm_name": "Samhi Hotels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Samhi_05032026200743_PressRelease_RAREIndia.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 19:51:53",
-      "an_dt": "05-Mar-2026 19:51:53",
-      "desc": "Acquisition",
-      "sm_name": "Samhi Hotels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Samhi_05032026195142_RARE_Disclosure.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 19:46:45",
-      "an_dt": "05-Mar-2026 19:46:45",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Samhi Hotels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Samhi_05032026194621_RARE_Disclosure.pdf"
     }
   ]
 }

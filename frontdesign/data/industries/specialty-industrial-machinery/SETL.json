@@ -8,17 +8,9 @@
   "price": 137.74,
   "market_cap_cr": 2747.8,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 118.87,
-      "prev_close": 119.14,
-      "volume": 185530,
-      "deliverable_qty": 127271,
-      "delivery_pct": 68.6
-    },
     {
       "date": "2026-03-06",
       "close": 121.59,
@@ -434,9 +426,24 @@
       "volume": 100933,
       "deliverable_qty": 57579,
       "delivery_pct": 57.05
+    },
+    {
+      "date": "2026-06-04",
+      "close": 137.39,
+      "prev_close": 138.27,
+      "volume": 115174,
+      "deliverable_qty": 72892,
+      "delivery_pct": 63.29
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 17:47:26",
+      "an_dt": "04-Jun-2026 17:47:26",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Standard Engineering Technology Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLTPL_04062026174716_Intimation_Plant_Visit_04062026.pdf"
+    },
     {
       "sort_date": "2026-05-20 18:46:39",
       "an_dt": "20-May-2026 18:46:39",
@@ -555,13 +562,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Standard Engineering Technology Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLTPL_16032026183613_Intimation_Plant_Visit_23032026_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 17:12:26",
-      "an_dt": "05-Mar-2026 17:12:26",
-      "desc": "General Updates",
-      "sm_name": "Standard Engineering Technology Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGLTPL_05032026171213_Intimation_Agreement.pdf"
     }
   ]
 }

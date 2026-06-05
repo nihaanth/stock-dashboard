@@ -8,17 +8,9 @@
   "price": 317.2,
   "market_cap_cr": 28928.6,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 224.68,
-      "prev_close": 221.75,
-      "volume": 4622589,
-      "deliverable_qty": 1486386,
-      "delivery_pct": 32.15
-    },
     {
       "date": "2026-03-06",
       "close": 219.56,
@@ -434,9 +426,38 @@
       "volume": 6426900,
       "deliverable_qty": 1504556,
       "delivery_pct": 23.41
+    },
+    {
+      "date": "2026-06-04",
+      "close": 337.7,
+      "prev_close": 334.75,
+      "volume": 6699518,
+      "deliverable_qty": 1872252,
+      "delivery_pct": 27.95
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 12:25:21",
+      "an_dt": "04-Jun-2026 12:25:21",
+      "desc": "Press Release",
+      "sm_name": "Angel One Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANGEL8896_04062026122513_June042026_PR_intimation_Ajit_Narayanan.pdf"
+    },
+    {
+      "sort_date": "2026-06-04 12:17:43",
+      "an_dt": "04-Jun-2026 12:17:43",
+      "desc": "Appointment",
+      "sm_name": "Angel One Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANGEL8896_04062026121732_June042026_Change_in_SMP-Ajit_Narayanan.pdf"
+    },
+    {
+      "sort_date": "2026-06-04 07:15:23",
+      "an_dt": "04-Jun-2026 07:15:23",
+      "desc": "Monthly Business Updates",
+      "sm_name": "Angel One Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANGEL8896_04062026071446_June042026_Intimation_of_Business_Update.pdf"
+    },
     {
       "sort_date": "2026-06-03 20:41:04",
       "an_dt": "03-Jun-2026 20:41:04",

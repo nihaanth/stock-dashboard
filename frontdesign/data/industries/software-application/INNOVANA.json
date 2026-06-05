@@ -8,17 +8,9 @@
   "price": 389.95,
   "market_cap_cr": 805.64,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 381.45,
-      "prev_close": 373.7,
-      "volume": 1588,
-      "deliverable_qty": 1220,
-      "delivery_pct": 76.83
-    },
     {
       "date": "2026-03-06",
       "close": 374.95,
@@ -434,6 +426,14 @@
       "volume": 1106,
       "deliverable_qty": 814,
       "delivery_pct": 73.6
+    },
+    {
+      "date": "2026-06-04",
+      "close": 326.2,
+      "prev_close": 327.1,
+      "volume": 4934,
+      "deliverable_qty": 3571,
+      "delivery_pct": 72.38
     }
   ],
   "news": [
@@ -499,13 +499,6 @@
       "desc": "Trading Window",
       "sm_name": "Innovana Thinklabs Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INNOVANA_27032026150804_Intimation_For_Closure_of_Trading_Window.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 12:48:09",
-      "an_dt": "05-Mar-2026 12:48:09",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Innovana Thinklabs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INNOVANA_05032026124745_Newspaper_Publication_SE.pdf"
     }
   ]
 }

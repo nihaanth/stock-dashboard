@@ -8,17 +8,9 @@
   "price": 495.1,
   "market_cap_cr": 1404.68,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 483.25,
-      "prev_close": 484.0,
-      "volume": 74454,
-      "deliverable_qty": 26825,
-      "delivery_pct": 36.03
-    },
     {
       "date": "2026-03-06",
       "close": 476.8,
@@ -434,9 +426,24 @@
       "volume": 90401,
       "deliverable_qty": 45141,
       "delivery_pct": 49.93
+    },
+    {
+      "date": "2026-06-04",
+      "close": 445.45,
+      "prev_close": 454.25,
+      "volume": 162762,
+      "deliverable_qty": 78909,
+      "delivery_pct": 48.48
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 17:11:59",
+      "an_dt": "04-Jun-2026 17:11:59",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Antony Waste Handling Cell Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AWHCLP_04062026171149_AWHCLEarningCallTranscript.pdf"
+    },
     {
       "sort_date": "2026-06-01 18:49:41",
       "an_dt": "01-Jun-2026 18:49:41",

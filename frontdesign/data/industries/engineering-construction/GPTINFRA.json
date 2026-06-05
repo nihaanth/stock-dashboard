@@ -8,17 +8,9 @@
   "price": 116.63,
   "market_cap_cr": 1473.79,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 116.91,
-      "prev_close": 118.05,
-      "volume": 133038,
-      "deliverable_qty": 52000,
-      "delivery_pct": 39.09
-    },
     {
       "date": "2026-03-06",
       "close": 113.44,
@@ -434,9 +426,24 @@
       "volume": 85359,
       "deliverable_qty": 44411,
       "delivery_pct": 52.03
+    },
+    {
+      "date": "2026-06-04",
+      "close": 116.43,
+      "prev_close": 115.63,
+      "volume": 111883,
+      "deliverable_qty": 62692,
+      "delivery_pct": 56.03
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 18:15:47",
+      "an_dt": "04-Jun-2026 18:15:47",
+      "desc": "General Updates",
+      "sm_name": "GPT Infraprojects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPTINFRA_04062026181526_SE_intimation_WOS_RO_Change_SGD.pdf"
+    },
     {
       "sort_date": "2026-05-26 16:06:20",
       "an_dt": "26-May-2026 16:06:20",
@@ -541,13 +548,6 @@
       "desc": "Trading Window",
       "sm_name": "GPT Infraprojects Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPTINFRA_26032026154426_SE_Trading_Window_26032026__SGD.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 11:40:20",
-      "an_dt": "05-Mar-2026 11:40:20",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "GPT Infraprojects Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPTINFRA_05032026114003_SE_Investor_Meeting_Intimation_10032026_sgd.pdf"
     }
   ]
 }

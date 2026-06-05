@@ -8,17 +8,9 @@
   "price": 1231.3,
   "market_cap_cr": 41348.4,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 1152.7,
-      "prev_close": 1170.0,
-      "volume": 3099614,
-      "deliverable_qty": 1322394,
-      "delivery_pct": 42.66
-    },
     {
       "date": "2026-03-06",
       "close": 1162.9,
@@ -434,9 +426,31 @@
       "volume": 4844251,
       "deliverable_qty": 2130260,
       "delivery_pct": 43.98
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1436.5,
+      "prev_close": 1420.9,
+      "volume": 2111985,
+      "deliverable_qty": 560597,
+      "delivery_pct": 26.54
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 00:30:03",
+      "an_dt": "04-Jun-2026 00:30:03",
+      "desc": "Trading Window",
+      "sm_name": "Coforge Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COFORGE_04062026002954_BM_Intimation.pdf"
+    },
+    {
+      "sort_date": "2026-06-04 00:19:11",
+      "an_dt": "04-Jun-2026 00:19:11",
+      "desc": "Allotment of Securities",
+      "sm_name": "Coforge Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COFORGE_04062026001858_Allotment_Intimation.pdf"
+    },
     {
       "sort_date": "2026-06-02 09:24:51",
       "an_dt": "02-Jun-2026 09:24:51",
@@ -755,7 +769,7 @@
     {
       "sort_date": "2026-03-20 11:15:16",
       "an_dt": "20-Mar-2026 11:15:16",
-      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
+      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
       "sm_name": "Coforge Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/COFORGE_20032026111503_Intimation_for_RTA_Change.pdf"
     },

@@ -8,17 +8,9 @@
   "price": 1782.2,
   "market_cap_cr": 88853.86,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 1875.2,
-      "prev_close": 1855.5,
-      "volume": 598956,
-      "deliverable_qty": 373857,
-      "delivery_pct": 62.42
-    },
     {
       "date": "2026-03-06",
       "close": 1880.3,
@@ -434,6 +426,14 @@
       "volume": 711061,
       "deliverable_qty": 463590,
       "delivery_pct": 65.2
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1732.9,
+      "prev_close": 1740.8,
+      "volume": 651770,
+      "deliverable_qty": 417048,
+      "delivery_pct": 63.99
     }
   ],
   "news": [
@@ -730,13 +730,6 @@
       "desc": "General Updates",
       "sm_name": "ICICI Lombard General Insurance Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIGI_06032026212457_UpdateonScheduleofAnalystMeet06032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 17:54:20",
-      "an_dt": "05-Mar-2026 17:54:20",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "ICICI Lombard General Insurance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICICIGI_05032026175159_ESOSIntimationMarchI.pdf"
     }
   ]
 }

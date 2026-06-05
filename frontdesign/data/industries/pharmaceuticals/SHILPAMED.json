@@ -8,17 +8,9 @@
   "price": 456.15,
   "market_cap_cr": 8921.46,
   "industry_source": "webarchive",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 323.8,
-      "prev_close": 315.7,
-      "volume": 209024,
-      "deliverable_qty": 108711,
-      "delivery_pct": 52.01
-    },
     {
       "date": "2026-03-06",
       "close": 333.1,
@@ -434,6 +426,14 @@
       "volume": 1776974,
       "deliverable_qty": 631985,
       "delivery_pct": 35.57
+    },
+    {
+      "date": "2026-06-04",
+      "close": 525.8,
+      "prev_close": 515.4,
+      "volume": 1316326,
+      "deliverable_qty": 609256,
+      "delivery_pct": 46.28
     }
   ],
   "news": [
@@ -555,13 +555,6 @@
       "desc": "Amalgamation/Merger",
       "sm_name": "Shilpa Medicare Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHILPAMED_17032026164324_SEintimation_NCLT_CTC.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 19:43:30",
-      "an_dt": "05-Mar-2026 19:43:30",
-      "desc": "Amalgamation/Merger",
-      "sm_name": "Shilpa Medicare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHILPAMED_05032026175212_SE_Intimation_STPL_merger.pdf"
     }
   ]
 }

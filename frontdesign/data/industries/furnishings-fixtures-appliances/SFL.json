@@ -8,17 +8,9 @@
   "price": 581.7,
   "market_cap_cr": 6323.71,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 532.8,
-      "prev_close": 537.1,
-      "volume": 62200,
-      "deliverable_qty": 28973,
-      "delivery_pct": 46.58
-    },
     {
       "date": "2026-03-06",
       "close": 522.7,
@@ -434,6 +426,14 @@
       "volume": 165896,
       "deliverable_qty": 83221,
       "delivery_pct": 50.16
+    },
+    {
+      "date": "2026-06-04",
+      "close": 623.15,
+      "prev_close": 599.35,
+      "volume": 310500,
+      "deliverable_qty": 123251,
+      "delivery_pct": 39.69
     }
   ],
   "news": [
@@ -597,13 +597,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Sheela Foam Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SFL_18032026131829_Investor_Meet_on_23032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 15:08:35",
-      "an_dt": "05-Mar-2026 15:08:35",
-      "desc": "Retirement",
-      "sm_name": "Sheela Foam Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SFL_05032026150740_Completion_of_Tenure_of_VKA.pdf"
     }
   ]
 }

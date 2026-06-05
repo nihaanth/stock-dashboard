@@ -8,17 +8,9 @@
   "price": 828.15,
   "market_cap_cr": 3091.72,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 881.3,
-      "prev_close": 864.55,
-      "volume": 33663,
-      "deliverable_qty": 12932,
-      "delivery_pct": 38.42
-    },
     {
       "date": "2026-03-06",
       "close": 878.85,
@@ -434,6 +426,14 @@
       "volume": 24956,
       "deliverable_qty": 14479,
       "delivery_pct": 58.02
+    },
+    {
+      "date": "2026-06-04",
+      "close": 934.35,
+      "prev_close": 938.7,
+      "volume": 24724,
+      "deliverable_qty": 12962,
+      "delivery_pct": 52.43
     }
   ],
   "news": [
@@ -590,13 +590,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Pitti Engineering Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PITTIENG_07032026151112_Newspaperpublication.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 16:47:06",
-      "an_dt": "05-Mar-2026 16:47:06",
-      "desc": "Shareholders meeting",
-      "sm_name": "Pitti Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PITTIENG_05032026164653_SubmissionofPostalballotnotice.pdf"
     }
   ]
 }

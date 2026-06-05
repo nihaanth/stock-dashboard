@@ -8,17 +8,9 @@
   "price": 169.38,
   "market_cap_cr": 752.91,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 142.15,
-      "prev_close": 142.16,
-      "volume": 183474,
-      "deliverable_qty": 118496,
-      "delivery_pct": 64.58
-    },
     {
       "date": "2026-03-06",
       "close": 141.63,
@@ -434,6 +426,14 @@
       "volume": 77428,
       "deliverable_qty": 47883,
       "delivery_pct": 61.84
+    },
+    {
+      "date": "2026-06-04",
+      "close": 149.29,
+      "prev_close": 152.06,
+      "volume": 88214,
+      "deliverable_qty": 43609,
+      "delivery_pct": 49.44
     }
   ],
   "news": [
@@ -632,27 +632,6 @@
       "desc": "Spurt in Volume",
       "sm_name": "Fabtech Technologies Limited",
       "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-03-05 12:39:43",
-      "an_dt": "05-Mar-2026 12:39:43",
-      "desc": "Reply to Clarification- Financial results",
-      "sm_name": "Fabtech Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FABTECH_02032026142314_Financial_Results_clarification_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 10:47:56",
-      "an_dt": "05-Mar-2026 10:47:56",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Fabtech Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FABTECH_05032026104705_Prior_Intimation_March_10.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 10:37:26",
-      "an_dt": "05-Mar-2026 10:37:26",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Fabtech Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FABTECH_05032026103456_Prior_Intimation_March_12.pdf"
     }
   ]
 }

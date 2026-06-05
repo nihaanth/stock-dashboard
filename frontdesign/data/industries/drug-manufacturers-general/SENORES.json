@@ -8,17 +8,9 @@
   "price": 957.8,
   "market_cap_cr": 4411.01,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 738.25,
-      "prev_close": 747.25,
-      "volume": 241519,
-      "deliverable_qty": 152371,
-      "delivery_pct": 63.09
-    },
     {
       "date": "2026-03-06",
       "close": 751.25,
@@ -434,9 +426,24 @@
       "volume": 307255,
       "deliverable_qty": 124776,
       "delivery_pct": 40.61
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1044.4,
+      "prev_close": 1045.1,
+      "volume": 160516,
+      "deliverable_qty": 62307,
+      "delivery_pct": 38.82
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 15:50:26",
+      "an_dt": "04-Jun-2026 15:50:26",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Senores Pharmaceuticals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SENORES_04062026155017_Intimationforinvestormeetsigned.pdf"
+    },
     {
       "sort_date": "2026-05-22 15:29:24",
       "an_dt": "22-May-2026 15:29:24",

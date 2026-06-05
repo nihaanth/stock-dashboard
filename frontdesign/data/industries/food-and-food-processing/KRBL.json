@@ -8,17 +8,9 @@
   "price": 361.15,
   "market_cap_cr": 8266.36,
   "industry_source": "webarchive",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 333.45,
-      "prev_close": 320.5,
-      "volume": 676938,
-      "deliverable_qty": 195639,
-      "delivery_pct": 28.9
-    },
     {
       "date": "2026-03-06",
       "close": 318.5,
@@ -434,6 +426,14 @@
       "volume": 448473,
       "deliverable_qty": 253864,
       "delivery_pct": 56.61
+    },
+    {
+      "date": "2026-06-04",
+      "close": 351.05,
+      "prev_close": 350.15,
+      "volume": 360882,
+      "deliverable_qty": 160609,
+      "delivery_pct": 44.5
     }
   ],
   "news": [
@@ -604,13 +604,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "KRBL Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIBHU_17032026151622_STX_INVESTORMEET_17032026_FW_Sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 18:05:12",
-      "an_dt": "05-Mar-2026 18:05:12",
-      "desc": "General Updates",
-      "sm_name": "KRBL Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BIBHU_05032026180451_STX_MEDIA-INTERACTION_NDTV_05032026_Sd.pdf"
     }
   ]
 }

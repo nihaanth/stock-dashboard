@@ -8,17 +8,9 @@
   "price": 84.31,
   "market_cap_cr": 15575.91,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 72.59,
-      "prev_close": 72.5,
-      "volume": 533511,
-      "deliverable_qty": 365610,
-      "delivery_pct": 68.53
-    },
     {
       "date": "2026-03-06",
       "close": 71.67,
@@ -434,6 +426,14 @@
       "volume": 727216,
       "deliverable_qty": 336801,
       "delivery_pct": 46.31
+    },
+    {
+      "date": "2026-06-04",
+      "close": 81.75,
+      "prev_close": 84.03,
+      "volume": 459257,
+      "deliverable_qty": 275259,
+      "delivery_pct": 59.94
     }
   ],
   "news": [
@@ -632,13 +632,6 @@
       "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
       "sm_name": "Niva Bupa Health Insurance Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAXBUPA_15032026125743_DiscosureRegulation_30_15032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 18:36:49",
-      "an_dt": "05-Mar-2026 18:36:49",
-      "desc": "Updates",
-      "sm_name": "Niva Bupa Health Insurance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAXBUPA_05032026183617_Disclosure30Allotmentofshares.pdf"
     }
   ]
 }

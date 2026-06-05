@@ -8,17 +8,9 @@
   "price": 213.52,
   "market_cap_cr": 2669.18,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 196.98,
-      "prev_close": 198.36,
-      "volume": 787901,
-      "deliverable_qty": 381833,
-      "delivery_pct": 48.46
-    },
     {
       "date": "2026-03-06",
       "close": 198.69,
@@ -434,6 +426,14 @@
       "volume": 1757496,
       "deliverable_qty": 844467,
       "delivery_pct": 48.05
+    },
+    {
+      "date": "2026-06-04",
+      "close": 237.38,
+      "prev_close": 243.97,
+      "volume": 722531,
+      "deliverable_qty": 357304,
+      "delivery_pct": 49.45
     }
   ],
   "news": [
@@ -562,13 +562,6 @@
       "desc": "Trading Window",
       "sm_name": "Parag Milk Foods Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARAGMILK_28032026160203_Closure_of_Trading_Window_for_4th_quarter_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 19:32:49",
-      "an_dt": "05-Mar-2026 19:32:49",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Parag Milk Foods Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARAGMILK_05032026192714_IntimationScheduleofAnalystMarch_10_and_11_2026.pdf"
     }
   ]
 }

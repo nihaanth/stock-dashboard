@@ -8,17 +8,9 @@
   "price": 1410.5,
   "market_cap_cr": 26487.39,
   "industry_source": "webarchive",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 1523.6,
-      "prev_close": 1529.7,
-      "volume": 165123,
-      "deliverable_qty": 58741,
-      "delivery_pct": 35.57
-    },
     {
       "date": "2026-03-06",
       "close": 1501.2,
@@ -434,9 +426,24 @@
       "volume": 142891,
       "deliverable_qty": 75375,
       "delivery_pct": 52.75
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1350.8,
+      "prev_close": 1350.9,
+      "volume": 163492,
+      "deliverable_qty": 113564,
+      "delivery_pct": 69.46
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 19:46:41",
+      "an_dt": "04-Jun-2026 19:46:41",
+      "desc": "Amalgamation/Merger",
+      "sm_name": "ACC Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACC_1_04062026194620_ACC_NOC_-_Covering.pdf"
+    },
     {
       "sort_date": "2026-06-01 18:59:37",
       "an_dt": "01-Jun-2026 18:59:37",

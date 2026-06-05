@@ -8,17 +8,9 @@
   "price": 1272.3,
   "market_cap_cr": 1502.45,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 1434.3,
-      "prev_close": 1368.4,
-      "volume": 185861,
-      "deliverable_qty": 42828,
-      "delivery_pct": 23.04
-    },
     {
       "date": "2026-03-06",
       "close": 1403.6,
@@ -434,9 +426,24 @@
       "volume": 11452,
       "deliverable_qty": 5417,
       "delivery_pct": 47.3
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1258.7,
+      "prev_close": 1276.1,
+      "volume": 11993,
+      "deliverable_qty": 6108,
+      "delivery_pct": 50.93
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 14:33:34",
+      "an_dt": "04-Jun-2026 14:33:34",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "RACL Geartech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RACL1983_04062026143314_Stock_Exchange_Intimation-_Relodgement.pdf"
+    },
     {
       "sort_date": "2026-05-27 18:05:38",
       "an_dt": "27-May-2026 18:05:38",

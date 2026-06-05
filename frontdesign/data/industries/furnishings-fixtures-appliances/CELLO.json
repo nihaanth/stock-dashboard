@@ -8,17 +8,9 @@
   "price": 412.75,
   "market_cap_cr": 9117.03,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 420.15,
-      "prev_close": 417.3,
-      "volume": 114074,
-      "deliverable_qty": 63351,
-      "delivery_pct": 55.54
-    },
     {
       "date": "2026-03-06",
       "close": 406.6,
@@ -434,9 +426,31 @@
       "volume": 410171,
       "deliverable_qty": 186031,
       "delivery_pct": 45.35
+    },
+    {
+      "date": "2026-06-04",
+      "close": 386.1,
+      "prev_close": 380.05,
+      "volume": 164764,
+      "deliverable_qty": 79660,
+      "delivery_pct": 48.35
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 12:41:09",
+      "an_dt": "04-Jun-2026 12:41:09",
+      "desc": "Record Date",
+      "sm_name": "Cello World Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CELLO2023_04062026123023_Intimation_for_Record_date_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-06-04 12:03:41",
+      "an_dt": "04-Jun-2026 12:03:41",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Cello World Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CELLO2023_04062026120106_Transcript_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-29 12:16:03",
       "an_dt": "29-May-2026 12:16:03",

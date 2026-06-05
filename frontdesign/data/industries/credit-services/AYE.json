@@ -8,17 +8,9 @@
   "price": 143.64,
   "market_cap_cr": 3511.98,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 115.26,
-      "prev_close": 117.85,
-      "volume": 582071,
-      "deliverable_qty": 146662,
-      "delivery_pct": 25.2
-    },
     {
       "date": "2026-03-06",
       "close": 115.78,
@@ -434,9 +426,24 @@
       "volume": 3435775,
       "deliverable_qty": 985071,
       "delivery_pct": 28.67
+    },
+    {
+      "date": "2026-06-04",
+      "close": 150.82,
+      "prev_close": 158.27,
+      "volume": 1135747,
+      "deliverable_qty": 468178,
+      "delivery_pct": 41.22
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 17:22:33",
+      "an_dt": "04-Jun-2026 17:22:33",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Aye Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYEFINANCE_04062026171941_AYE_Intimation.pdf"
+    },
     {
       "sort_date": "2026-06-02 16:23:38",
       "an_dt": "02-Jun-2026 16:23:38",

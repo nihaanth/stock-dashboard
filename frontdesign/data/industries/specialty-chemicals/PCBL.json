@@ -8,17 +8,9 @@
   "price": 294.15,
   "market_cap_cr": 11573.7,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 283.95,
-      "prev_close": 286.0,
-      "volume": 1078992,
-      "deliverable_qty": 340245,
-      "delivery_pct": 31.53
-    },
     {
       "date": "2026-03-06",
       "close": 280.7,
@@ -434,6 +426,14 @@
       "volume": 912821,
       "deliverable_qty": 204405,
       "delivery_pct": 22.39
+    },
+    {
+      "date": "2026-06-04",
+      "close": 293.05,
+      "prev_close": 290.9,
+      "volume": 1439290,
+      "deliverable_qty": 338026,
+      "delivery_pct": 23.49
     }
   ],
   "news": [
@@ -632,13 +632,6 @@
       "desc": "General Updates",
       "sm_name": "PCBL Chemical Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PCBL_09032026204853_Outcome.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 17:22:47",
-      "an_dt": "05-Mar-2026 17:22:47",
-      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "sm_name": "PCBL Chemical Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PCBL_05032026172233_CertificateunderReg74_5_ofSEBIDepositoriesforFebruary2026.pdf"
     }
   ]
 }

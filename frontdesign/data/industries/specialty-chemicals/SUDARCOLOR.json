@@ -8,17 +8,9 @@
   "price": 371.75,
   "market_cap_cr": 858.07,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 335.75,
-      "prev_close": 328.8,
-      "volume": 7222,
-      "deliverable_qty": 5890,
-      "delivery_pct": 81.56
-    },
     {
       "date": "2026-03-06",
       "close": 336.0,
@@ -434,9 +426,24 @@
       "volume": 666,
       "deliverable_qty": 395,
       "delivery_pct": 59.31
+    },
+    {
+      "date": "2026-06-04",
+      "close": 368.35,
+      "prev_close": 358.0,
+      "volume": 3438,
+      "deliverable_qty": 2185,
+      "delivery_pct": 63.55
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 15:58:50",
+      "an_dt": "04-Jun-2026 15:58:50",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Sudarshan Colorants India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CLNINDIA_04062026155744_SCILSEIntimationPublicationIEPFFinal.pdf"
+    },
     {
       "sort_date": "2026-05-13 14:47:33",
       "an_dt": "13-May-2026 14:47:33",

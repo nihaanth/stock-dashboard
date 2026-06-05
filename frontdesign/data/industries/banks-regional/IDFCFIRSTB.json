@@ -8,17 +8,9 @@
   "price": 64.86,
   "market_cap_cr": 55793.91,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 70.4,
-      "prev_close": 70.06,
-      "volume": 33311916,
-      "deliverable_qty": 13230925,
-      "delivery_pct": 39.72
-    },
     {
       "date": "2026-03-06",
       "close": 69.98,
@@ -434,6 +426,14 @@
       "volume": 23974665,
       "deliverable_qty": 12199342,
       "delivery_pct": 50.88
+    },
+    {
+      "date": "2026-06-04",
+      "close": 72.16,
+      "prev_close": 71.78,
+      "volume": 19743553,
+      "deliverable_qty": 9781884,
+      "delivery_pct": 49.54
     }
   ],
   "news": [
@@ -639,13 +639,6 @@
       "desc": "General Updates",
       "sm_name": "IDFC First Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IDFCFIRSTB_10032026090822_IDFCFB_Regualtion_30_disclosure_10032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 13:55:50",
-      "an_dt": "05-Mar-2026 13:55:50",
-      "desc": "General Updates",
-      "sm_name": "IDFC First Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IDFCFIRSTB_05032026135524_IDFCFIRSTB_Investor_Meetings_March_26_.pdf"
     }
   ]
 }

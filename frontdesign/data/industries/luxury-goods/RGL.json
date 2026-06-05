@@ -8,17 +8,9 @@
   "price": 111.39,
   "market_cap_cr": 1195.5,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 108.05,
-      "prev_close": 107.8,
-      "volume": 4085570,
-      "deliverable_qty": 553157,
-      "delivery_pct": 13.54
-    },
     {
       "date": "2026-03-06",
       "close": 105.93,
@@ -434,9 +426,24 @@
       "volume": 236015,
       "deliverable_qty": 99234,
       "delivery_pct": 42.05
+    },
+    {
+      "date": "2026-06-04",
+      "close": 102.31,
+      "prev_close": 103.13,
+      "volume": 247016,
+      "deliverable_qty": 131374,
+      "delivery_pct": 53.18
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 10:30:50",
+      "an_dt": "04-Jun-2026 10:30:50",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Renaissance Global Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RJL1_04062026102906_TranscriptSigned.pdf"
+    },
     {
       "sort_date": "2026-05-29 18:39:52",
       "an_dt": "29-May-2026 18:39:52",

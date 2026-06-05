@@ -8,17 +8,9 @@
   "price": 544.4,
   "market_cap_cr": 2091.53,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 541.15,
-      "prev_close": 510.95,
-      "volume": 75278,
-      "deliverable_qty": 23056,
-      "delivery_pct": 30.63
-    },
     {
       "date": "2026-03-06",
       "close": 534.9,
@@ -434,9 +426,24 @@
       "volume": 16021,
       "deliverable_qty": 10438,
       "delivery_pct": 65.15
+    },
+    {
+      "date": "2026-06-04",
+      "close": 539.9,
+      "prev_close": 516.7,
+      "volume": 43816,
+      "deliverable_qty": 22019,
+      "delivery_pct": 50.25
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 15:23:01",
+      "an_dt": "04-Jun-2026 15:23:01",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "TCI Express Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TCIEXP_04062026152252_TranscriptStockexchage.pdf"
+    },
     {
       "sort_date": "2026-05-29 16:58:14",
       "an_dt": "29-May-2026 16:58:14",

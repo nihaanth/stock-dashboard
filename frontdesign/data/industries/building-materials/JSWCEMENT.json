@@ -8,17 +8,9 @@
   "price": 126.19,
   "market_cap_cr": 16891.47,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 124.44,
-      "prev_close": 119.34,
-      "volume": 2368402,
-      "deliverable_qty": 955001,
-      "delivery_pct": 40.32
-    },
     {
       "date": "2026-03-06",
       "close": 122.25,
@@ -434,6 +426,14 @@
       "volume": 1383177,
       "deliverable_qty": 509559,
       "delivery_pct": 36.84
+    },
+    {
+      "date": "2026-06-04",
+      "close": 127.1,
+      "prev_close": 128.8,
+      "volume": 1708760,
+      "deliverable_qty": 763360,
+      "delivery_pct": 44.67
     }
   ],
   "news": [
@@ -625,13 +625,6 @@
       "desc": "General Updates",
       "sm_name": "JSW Cement Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JSWCL_19032026200508_SE_Intimation_v2_dsc.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 13:30:37",
-      "an_dt": "05-Mar-2026 13:30:37",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "JSW Cement Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JSWCL_05032026132917_Intimation_Investor_meet_signed.pdf"
     }
   ]
 }

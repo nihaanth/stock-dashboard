@@ -8,17 +8,9 @@
   "price": 60.8,
   "market_cap_cr": 1595.98,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 47.66,
-      "prev_close": 46.98,
-      "volume": 1187427,
-      "deliverable_qty": 508914,
-      "delivery_pct": 42.86
-    },
     {
       "date": "2026-03-06",
       "close": 47.18,
@@ -434,6 +426,14 @@
       "volume": 1671808,
       "deliverable_qty": 296587,
       "delivery_pct": 17.74
+    },
+    {
+      "date": "2026-06-04",
+      "close": 57.77,
+      "prev_close": 57.97,
+      "volume": 1936446,
+      "deliverable_qty": 312954,
+      "delivery_pct": 16.16
     }
   ],
   "news": [
@@ -583,20 +583,6 @@
       "desc": "General Updates",
       "sm_name": "One Point One Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ONEPOINT_18032026164120_ONEPOINT.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 09:36:12",
-      "an_dt": "05-Mar-2026 09:36:12",
-      "desc": "Acquisition",
-      "sm_name": "One Point One Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ONEPOINT_05032026093454_ONEPOINTONE.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 09:30:13",
-      "an_dt": "05-Mar-2026 09:30:13",
-      "desc": "Press Release",
-      "sm_name": "One Point One Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ONEPOINT_05032026092942_ONEPOINT.pdf"
     }
   ]
 }

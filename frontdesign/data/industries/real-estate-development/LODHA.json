@@ -8,17 +8,9 @@
   "price": 931.1,
   "market_cap_cr": 93008.99,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 916.25,
-      "prev_close": 912.85,
-      "volume": 1951445,
-      "deliverable_qty": 1132780,
-      "delivery_pct": 58.05
-    },
     {
       "date": "2026-03-06",
       "close": 889.25,
@@ -434,6 +426,14 @@
       "volume": 1938065,
       "deliverable_qty": 840565,
       "delivery_pct": 43.37
+    },
+    {
+      "date": "2026-06-04",
+      "close": 881.75,
+      "prev_close": 879.2,
+      "volume": 1343237,
+      "deliverable_qty": 415972,
+      "delivery_pct": 30.97
     }
   ],
   "news": [
@@ -611,13 +611,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Lodha Developers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LODHA_13032026160739_Lodha_Investor_Call_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 14:30:00",
-      "an_dt": "05-Mar-2026 14:30:00",
-      "desc": "Allotment of Securities",
-      "sm_name": "Lodha Developers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LODHA_05032026142754_Allotment_under_ESOP_05032026.pdf"
     }
   ]
 }

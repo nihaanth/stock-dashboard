@@ -8,17 +8,9 @@
   "price": 90.56,
   "market_cap_cr": 1042.2,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 80.33,
-      "prev_close": 78.7,
-      "volume": 565109,
-      "deliverable_qty": 189028,
-      "delivery_pct": 33.45
-    },
     {
       "date": "2026-03-06",
       "close": 81.7,
@@ -434,6 +426,14 @@
       "volume": 429304,
       "deliverable_qty": 193111,
       "delivery_pct": 44.98
+    },
+    {
+      "date": "2026-06-04",
+      "close": 87.79,
+      "prev_close": 87.38,
+      "volume": 480966,
+      "deliverable_qty": 223993,
+      "delivery_pct": 46.57
     }
   ],
   "news": [
@@ -639,13 +639,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Excelsoft Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXCELSOFT_10032026183306_Exclsoft_LODR_Reg_30-sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 16:22:19",
-      "an_dt": "05-Mar-2026 16:22:19",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Excelsoft Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXCELSOFT_05032026161900_reg_30_analyst_and_investor_meeting_intimation-sd.pdf"
     }
   ]
 }

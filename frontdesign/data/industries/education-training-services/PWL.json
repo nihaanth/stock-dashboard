@@ -8,17 +8,9 @@
   "price": 100.78,
   "market_cap_cr": 28819.98,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 82.68,
-      "prev_close": 79.56,
-      "volume": 19448469,
-      "deliverable_qty": 3393939,
-      "delivery_pct": 17.45
-    },
     {
       "date": "2026-03-06",
       "close": 82.99,
@@ -434,9 +426,24 @@
       "volume": 7758600,
       "deliverable_qty": 2329904,
       "delivery_pct": 30.03
+    },
+    {
+      "date": "2026-06-04",
+      "close": 106.46,
+      "prev_close": 92.04,
+      "volume": 77354358,
+      "deliverable_qty": 6126697,
+      "delivery_pct": 7.92
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 10:16:59",
+      "an_dt": "04-Jun-2026 10:16:59",
+      "desc": "Updates",
+      "sm_name": "Physicswallah Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEAPSPW_04062026101542_Intimation_Press_Release_Finz_04062026_Signed.pdf"
+    },
     {
       "sort_date": "2026-06-03 16:30:18",
       "an_dt": "03-Jun-2026 16:30:18",

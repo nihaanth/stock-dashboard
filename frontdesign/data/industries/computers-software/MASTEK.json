@@ -8,17 +8,9 @@
   "price": 1658.6,
   "market_cap_cr": 5141.79,
   "industry_source": "webarchive",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 1633.6,
-      "prev_close": 1560.0,
-      "volume": 271219,
-      "deliverable_qty": 44038,
-      "delivery_pct": 16.24
-    },
     {
       "date": "2026-03-06",
       "close": 1561.2,
@@ -434,9 +426,24 @@
       "volume": 87926,
       "deliverable_qty": 32739,
       "delivery_pct": 37.23
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1673.1,
+      "prev_close": 1682.3,
+      "volume": 44108,
+      "deliverable_qty": 18254,
+      "delivery_pct": 41.38
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 22:59:54",
+      "an_dt": "04-Jun-2026 22:59:54",
+      "desc": "Action(s) taken or orders passed",
+      "sm_name": "Mastek Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASTEK12_04062026225933_SEresubmission04062026signed.pdf"
+    },
     {
       "sort_date": "2026-06-03 22:09:08",
       "an_dt": "03-Jun-2026 22:09:08",
@@ -632,20 +639,6 @@
       "desc": "Credit Rating",
       "sm_name": "Mastek Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASTEK12_06032026143334_CreditRatingIntimation06032026signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 18:59:10",
-      "an_dt": "05-Mar-2026 18:59:10",
-      "desc": "Allotment of Securities",
-      "sm_name": "Mastek Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASTEK12_05032026185835_SRCOutcomeLot_146.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 11:06:51",
-      "an_dt": "05-Mar-2026 11:06:51",
-      "desc": "Press Release",
-      "sm_name": "Mastek Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASTEK12_05032026110625_PressRelease05032026_sd.pdf"
     }
   ]
 }

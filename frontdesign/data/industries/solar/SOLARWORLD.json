@@ -8,17 +8,9 @@
   "price": 219.69,
   "market_cap_cr": 1904.11,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 173.61,
-      "prev_close": 180.6,
-      "volume": 218361,
-      "deliverable_qty": 116179,
-      "delivery_pct": 53.21
-    },
     {
       "date": "2026-03-06",
       "close": 169.39,
@@ -434,6 +426,14 @@
       "volume": 295552,
       "deliverable_qty": 161704,
       "delivery_pct": 54.71
+    },
+    {
+      "date": "2026-06-04",
+      "close": 194.61,
+      "prev_close": 198.26,
+      "volume": 322711,
+      "deliverable_qty": 199011,
+      "delivery_pct": 61.67
     }
   ],
   "news": [
@@ -653,13 +653,6 @@
       "desc": "Credit Rating- Others",
       "sm_name": "Solarworld Energy Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNSHINE123_09032026181333_Intimation_of_withdrawal_of_credit_rating.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 17:16:10",
-      "an_dt": "05-Mar-2026 17:16:10",
-      "desc": "Updates",
-      "sm_name": "Solarworld Energy Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNSHINE123_05032026171543_CIN_Change_Intimation.pdf"
     }
   ]
 }

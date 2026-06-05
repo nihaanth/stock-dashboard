@@ -8,17 +8,9 @@
   "price": 588.45,
   "market_cap_cr": 16459.54,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 451.45,
-      "prev_close": 450.1,
-      "volume": 356705,
-      "deliverable_qty": 213301,
-      "delivery_pct": 59.8
-    },
     {
       "date": "2026-03-06",
       "close": 474.6,
@@ -434,6 +426,14 @@
       "volume": 317367,
       "deliverable_qty": 190375,
       "delivery_pct": 59.99
+    },
+    {
+      "date": "2026-06-04",
+      "close": 571.85,
+      "prev_close": 572.2,
+      "volume": 377233,
+      "deliverable_qty": 182279,
+      "delivery_pct": 48.32
     }
   ],
   "news": [
@@ -716,13 +716,6 @@
       "desc": "Press Release",
       "sm_name": "Allied Blenders and Distillers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABDINDIA_23032026105130_SE_Covering_letter-Press_Release-sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 18:05:56",
-      "an_dt": "05-Mar-2026 18:05:56",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Allied Blenders and Distillers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABDINDIA_05032026180545_SE_Intimation-Investec_sd.pdf"
     }
   ]
 }

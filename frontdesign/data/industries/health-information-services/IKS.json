@@ -8,17 +8,9 @@
   "price": 1514.0,
   "market_cap_cr": 25361.31,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 1305.9,
-      "prev_close": 1331.0,
-      "volume": 626336,
-      "deliverable_qty": 313765,
-      "delivery_pct": 50.1
-    },
     {
       "date": "2026-03-06",
       "close": 1329.2,
@@ -434,6 +426,14 @@
       "volume": 159895,
       "deliverable_qty": 85377,
       "delivery_pct": 53.4
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1690.7,
+      "prev_close": 1706.0,
+      "volume": 187774,
+      "deliverable_qty": 76207,
+      "delivery_pct": 40.58
     }
   ],
   "news": [
@@ -737,13 +737,6 @@
       "desc": "Action(s) initiated or orders passed",
       "sm_name": "Inventurus Knowledge Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IKSSHEETAL_12032026201143_StockExch_12March2026_SEEPZOder.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 11:27:27",
-      "an_dt": "05-Mar-2026 11:27:27",
-      "desc": "Options to purchase securities",
-      "sm_name": "Inventurus Knowledge Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IKSSHEETAL_05032026112705_Grantofstockoptions05032026.pdf"
     }
   ]
 }

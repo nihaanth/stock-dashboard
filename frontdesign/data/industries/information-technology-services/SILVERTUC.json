@@ -8,17 +8,9 @@
   "price": 155.45,
   "market_cap_cr": 1971.26,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 1345.9,
-      "prev_close": 1312.7,
-      "volume": 95800,
-      "deliverable_qty": 61798,
-      "delivery_pct": 64.51
-    },
     {
       "date": "2026-03-06",
       "close": 141.3,
@@ -434,6 +426,14 @@
       "volume": 527804,
       "deliverable_qty": 201014,
       "delivery_pct": 38.08
+    },
+    {
+      "date": "2026-06-04",
+      "close": 173.08,
+      "prev_close": 175.13,
+      "volume": 428381,
+      "deliverable_qty": 187688,
+      "delivery_pct": 43.81
     }
   ],
   "news": [
@@ -506,13 +506,6 @@
       "desc": "Allotment of Securities",
       "sm_name": "Silver Touch Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SILVERTUC_09032026094104_Reg_30_Allotment_of_Bonus_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 10:29:25",
-      "an_dt": "05-Mar-2026 10:29:25",
-      "desc": "Press Release",
-      "sm_name": "Silver Touch Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SILVERTUC_05032026102907_Business_Update_Release_Odisha_signed.pdf"
     }
   ]
 }

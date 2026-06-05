@@ -8,17 +8,9 @@
   "price": 293.95,
   "market_cap_cr": 1335.08,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 255.65,
-      "prev_close": 256.75,
-      "volume": 17671,
-      "deliverable_qty": 12280,
-      "delivery_pct": 69.49
-    },
     {
       "date": "2026-03-06",
       "close": 255.1,
@@ -434,6 +426,14 @@
       "volume": 16731,
       "deliverable_qty": 9624,
       "delivery_pct": 57.52
+    },
+    {
+      "date": "2026-06-04",
+      "close": 272.85,
+      "prev_close": 267.45,
+      "volume": 17764,
+      "deliverable_qty": 9045,
+      "delivery_pct": 50.92
     }
   ],
   "news": [
@@ -688,13 +688,6 @@
       "desc": "Trading Window",
       "sm_name": "Capital Small Finance Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPITALSFB_19032026163002_TradingWindowClosureMarch2026signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 11:43:23",
-      "an_dt": "05-Mar-2026 11:43:23",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Capital Small Finance Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CAPITALSFB_05032026114310_Initmationofanalystmeetmarch102026.pdf"
     }
   ]
 }

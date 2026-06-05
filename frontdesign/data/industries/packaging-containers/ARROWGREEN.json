@@ -8,17 +8,9 @@
   "price": 593.9,
   "market_cap_cr": 896.07,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 378.15,
-      "prev_close": 387.25,
-      "volume": 43996,
-      "deliverable_qty": 24290,
-      "delivery_pct": 55.21
-    },
     {
       "date": "2026-03-06",
       "close": 377.65,
@@ -434,6 +426,14 @@
       "volume": 115181,
       "deliverable_qty": 56818,
       "delivery_pct": 49.33
+    },
+    {
+      "date": "2026-06-04",
+      "close": 542.35,
+      "prev_close": 551.9,
+      "volume": 35866,
+      "deliverable_qty": 14981,
+      "delivery_pct": 41.77
     }
   ],
   "news": [
@@ -506,20 +506,6 @@
       "desc": "Delay/default in the payment of fines/penalties/dues etc. to authority",
       "sm_name": "Arrow Greentech Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARROWGREEN_17032026214240_DisclosureUnderReg30SebiLodr17032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 19:08:46",
-      "an_dt": "05-Mar-2026 19:08:46",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Arrow Greentech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARROWGREEN_05032026190833_IntimationOfInvestorMeet11032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 19:06:33",
-      "an_dt": "05-Mar-2026 19:06:33",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Arrow Greentech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARROWGREEN_05032026190529_IntimationOfInvestorMeet10032026.pdf"
     }
   ]
 }

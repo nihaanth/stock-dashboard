@@ -8,17 +8,9 @@
   "price": 143.86,
   "market_cap_cr": 65494.68,
   "industry_source": "webarchive",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 164.18,
-      "prev_close": 163.39,
-      "volume": 11180767,
-      "deliverable_qty": 4804369,
-      "delivery_pct": 42.97
-    },
     {
       "date": "2026-03-06",
       "close": 159.58,
@@ -434,9 +426,24 @@
       "volume": 7726413,
       "deliverable_qty": 2520577,
       "delivery_pct": 32.62
+    },
+    {
+      "date": "2026-06-04",
+      "close": 139.69,
+      "prev_close": 139.92,
+      "volume": 6349575,
+      "deliverable_qty": 2683008,
+      "delivery_pct": 42.25
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 18:03:03",
+      "an_dt": "04-Jun-2026 18:03:03",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Bank of India",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANKINDIA6_04062026180241_investormeet040626.pdf"
+    },
     {
       "sort_date": "2026-06-03 17:53:20",
       "an_dt": "03-Jun-2026 17:53:20",
@@ -856,13 +863,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Bank of India",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANKINDIA2_09032026162118_Schonfeldmeet.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 13:06:18",
-      "an_dt": "05-Mar-2026 13:06:18",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Bank of India",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANKINDIA2_05032026130552_Investormeet.pdf"
     }
   ]
 }

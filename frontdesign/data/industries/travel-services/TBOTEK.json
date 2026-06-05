@@ -8,17 +8,9 @@
   "price": 1191.3,
   "market_cap_cr": 12721.18,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 1154.8,
-      "prev_close": 1142.0,
-      "volume": 364037,
-      "deliverable_qty": 189299,
-      "delivery_pct": 52.0
-    },
     {
       "date": "2026-03-06",
       "close": 1183.4,
@@ -434,9 +426,24 @@
       "volume": 93637,
       "deliverable_qty": 47649,
       "delivery_pct": 50.89
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1221.6,
+      "prev_close": 1193.9,
+      "volume": 53036,
+      "deliverable_qty": 17706,
+      "delivery_pct": 33.38
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 17:16:51",
+      "an_dt": "04-Jun-2026 17:16:51",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "TBO Tek Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9810411243_04062026171552_TranscriptEarningsCall.pdf"
+    },
     {
       "sort_date": "2026-06-02 00:15:47",
       "an_dt": "02-Jun-2026 00:15:47",
@@ -569,13 +576,6 @@
       "desc": "Updates",
       "sm_name": "TBO Tek Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/9810411243_16032026182529_SE_Deedofvariation.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 11:52:35",
-      "an_dt": "05-Mar-2026 11:52:35",
-      "desc": "Investor Presentation",
-      "sm_name": "TBO Tek Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9810411243_05032026115157_InvestorPresentation.pdf"
     }
   ]
 }

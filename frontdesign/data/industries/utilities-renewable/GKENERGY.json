@@ -8,17 +8,9 @@
   "price": 127.29,
   "market_cap_cr": 2581.66,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 104.01,
-      "prev_close": 100.5,
-      "volume": 1015500,
-      "deliverable_qty": 388719,
-      "delivery_pct": 38.28
-    },
     {
       "date": "2026-03-06",
       "close": 103.3,
@@ -434,6 +426,14 @@
       "volume": 776205,
       "deliverable_qty": 348502,
       "delivery_pct": 44.9
+    },
+    {
+      "date": "2026-06-04",
+      "close": 141.0,
+      "prev_close": 128.19,
+      "volume": 3360917,
+      "deliverable_qty": 1718884,
+      "delivery_pct": 51.14
     }
   ],
   "news": [
@@ -590,13 +590,6 @@
       "desc": "Resignation",
       "sm_name": "GK Energy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GKENERGY_10032026203405_Intimation_Resignation_of_CS.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 19:29:26",
-      "an_dt": "05-Mar-2026 19:29:26",
-      "desc": "Action(s) taken or orders passed",
-      "sm_name": "GK Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GKENERGY_05032026192907_Intimation_GST_Inspection_Conclusion_Sd.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 207.82,
   "market_cap_cr": 1060.38,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 201.14,
-      "prev_close": 201.38,
-      "volume": 13980,
-      "deliverable_qty": 10194,
-      "delivery_pct": 72.92
-    },
     {
       "date": "2026-03-06",
       "close": 203.23,
@@ -434,9 +426,24 @@
       "volume": 8956,
       "deliverable_qty": 5741,
       "delivery_pct": 64.1
+    },
+    {
+      "date": "2026-06-04",
+      "close": 201.0,
+      "prev_close": 201.0,
+      "volume": 10073,
+      "deliverable_qty": 7157,
+      "delivery_pct": 71.05
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 17:01:03",
+      "an_dt": "04-Jun-2026 17:01:03",
+      "desc": "Action(s) taken or orders passed",
+      "sm_name": "Abans Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AHL_04062026170052_AFSL_Intimation.pdf"
+    },
     {
       "sort_date": "2026-06-02 16:27:58",
       "an_dt": "02-Jun-2026 16:27:58",

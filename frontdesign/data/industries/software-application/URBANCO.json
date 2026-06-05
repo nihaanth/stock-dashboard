@@ -8,17 +8,9 @@
   "price": 126.06,
   "market_cap_cr": 19440.73,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 108.1,
-      "prev_close": 106.56,
-      "volume": 2657956,
-      "deliverable_qty": 1333632,
-      "delivery_pct": 50.18
-    },
     {
       "date": "2026-03-06",
       "close": 106.08,
@@ -434,9 +426,24 @@
       "volume": 2315789,
       "deliverable_qty": 977428,
       "delivery_pct": 42.21
+    },
+    {
+      "date": "2026-06-04",
+      "close": 123.36,
+      "prev_close": 123.56,
+      "volume": 3300266,
+      "deliverable_qty": 1220372,
+      "delivery_pct": 36.98
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 13:25:56",
+      "an_dt": "04-Jun-2026 13:25:56",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Urban Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/URBANCO_04062026132514_UC_Predispatch_04062026_Newspaper.pdf"
+    },
     {
       "sort_date": "2026-06-03 22:09:41",
       "an_dt": "03-Jun-2026 22:09:41",

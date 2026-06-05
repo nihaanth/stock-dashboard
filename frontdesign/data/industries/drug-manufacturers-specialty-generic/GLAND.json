@@ -8,17 +8,9 @@
   "price": 1724.3,
   "market_cap_cr": 28408.95,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 1706.4,
-      "prev_close": 1708.4,
-      "volume": 79255,
-      "deliverable_qty": 38281,
-      "delivery_pct": 48.3
-    },
     {
       "date": "2026-03-06",
       "close": 1669.0,
@@ -434,9 +426,24 @@
       "volume": 255715,
       "deliverable_qty": 125012,
       "delivery_pct": 48.89
+    },
+    {
+      "date": "2026-06-04",
+      "close": 2219.5,
+      "prev_close": 2232.3,
+      "volume": 204659,
+      "deliverable_qty": 98665,
+      "delivery_pct": 48.21
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 16:15:32",
+      "an_dt": "04-Jun-2026 16:15:32",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Gland Pharma Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GLAND_04062026161520_Analyst_Institutional_Investor_Meet_09062026.pdf"
+    },
     {
       "sort_date": "2026-06-02 14:15:07",
       "an_dt": "02-Jun-2026 14:15:07",

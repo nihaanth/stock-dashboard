@@ -8,17 +8,9 @@
   "price": 422.65,
   "market_cap_cr": 1733.41,
   "industry_source": "webarchive",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 375.1,
-      "prev_close": 374.45,
-      "volume": 15996,
-      "deliverable_qty": 8119,
-      "delivery_pct": 50.76
-    },
     {
       "date": "2026-03-06",
       "close": 374.95,
@@ -434,9 +426,24 @@
       "volume": 148617,
       "deliverable_qty": 56878,
       "delivery_pct": 38.27
+    },
+    {
+      "date": "2026-06-04",
+      "close": 507.55,
+      "prev_close": 517.75,
+      "volume": 77031,
+      "deliverable_qty": 37236,
+      "delivery_pct": 48.34
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 18:30:35",
+      "an_dt": "04-Jun-2026 18:30:35",
+      "desc": "General Updates",
+      "sm_name": "Somany Ceramics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOMANYCERAMICS_04062026183009_IntimationLettertoShareholders_IEPF_sd.pdf"
+    },
     {
       "sort_date": "2026-06-02 16:50:34",
       "an_dt": "02-Jun-2026 16:50:34",
@@ -611,13 +618,6 @@
       "desc": "General Updates",
       "sm_name": "Somany Ceramics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOMANYCERAMICS_12032026133420_IntimationGail12032026_sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 15:25:48",
-      "an_dt": "05-Mar-2026 15:25:48",
-      "desc": "Updates",
-      "sm_name": "Somany Ceramics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOMANYCERAMICS_05032026152533_Intimation_Reg30_sd.pdf"
     }
   ]
 }

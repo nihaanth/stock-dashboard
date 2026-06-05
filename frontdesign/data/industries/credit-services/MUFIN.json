@@ -8,17 +8,9 @@
   "price": 116.14,
   "market_cap_cr": 2301.46,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 108.09,
-      "prev_close": 106.03,
-      "volume": 1489719,
-      "deliverable_qty": 826384,
-      "delivery_pct": 55.47
-    },
     {
       "date": "2026-03-06",
       "close": 107.51,
@@ -434,9 +426,24 @@
       "volume": 1191621,
       "deliverable_qty": 369301,
       "delivery_pct": 30.99
+    },
+    {
+      "date": "2026-06-04",
+      "close": 122.05,
+      "prev_close": 122.48,
+      "volume": 1183401,
+      "deliverable_qty": 421157,
+      "delivery_pct": 35.59
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 18:22:17",
+      "an_dt": "04-Jun-2026 18:22:17",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Mufin Green Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MUFIN_04062026182121_Earning_Call_Transcript_Mufin_Green_04062026.pdf"
+    },
     {
       "sort_date": "2026-06-02 17:15:49",
       "an_dt": "02-Jun-2026 17:15:49",

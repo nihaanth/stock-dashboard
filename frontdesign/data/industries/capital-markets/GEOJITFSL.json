@@ -8,17 +8,9 @@
   "price": 69.86,
   "market_cap_cr": 1949.95,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 61.48,
-      "prev_close": 60.32,
-      "volume": 424894,
-      "deliverable_qty": 211766,
-      "delivery_pct": 49.84
-    },
     {
       "date": "2026-03-06",
       "close": 60.64,
@@ -434,6 +426,14 @@
       "volume": 204954,
       "deliverable_qty": 101346,
       "delivery_pct": 49.45
+    },
+    {
+      "date": "2026-06-04",
+      "close": 74.92,
+      "prev_close": 72.6,
+      "volume": 675433,
+      "deliverable_qty": 358914,
+      "delivery_pct": 53.14
     }
   ],
   "news": [
@@ -527,27 +527,6 @@
       "desc": "Credit Rating- New",
       "sm_name": "Geojit Financial Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEGHAGEOJIT_07032026170443_CRISILCRFinal.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 17:01:44",
-      "an_dt": "05-Mar-2026 17:01:44",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Geojit Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEGHAGEOJIT_05032026170133_CL_Invest_meet_Arihant_Final.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 16:58:44",
-      "an_dt": "05-Mar-2026 16:58:44",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Geojit Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEGHAGEOJIT_05032026165750_Genuity11th3PM.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 16:55:18",
-      "an_dt": "05-Mar-2026 16:55:18",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Geojit Financial Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEGHAGEOJIT_05032026165504_Tunga10th10AM.pdf"
     }
   ]
 }

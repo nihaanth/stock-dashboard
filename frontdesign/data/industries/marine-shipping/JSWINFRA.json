@@ -8,17 +8,9 @@
   "price": 261.56,
   "market_cap_cr": 54517.19,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 261.45,
-      "prev_close": 246.7,
-      "volume": 2320581,
-      "deliverable_qty": 1082013,
-      "delivery_pct": 46.63
-    },
     {
       "date": "2026-03-06",
       "close": 268.8,
@@ -434,6 +426,14 @@
       "volume": 1177489,
       "deliverable_qty": 642695,
       "delivery_pct": 54.58
+    },
+    {
+      "date": "2026-06-04",
+      "close": 272.8,
+      "prev_close": 270.3,
+      "volume": 800317,
+      "deliverable_qty": 395604,
+      "delivery_pct": 49.43
     }
   ],
   "news": [
@@ -569,13 +569,6 @@
       "desc": "General Updates",
       "sm_name": "JSW Infrastructure Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JSWINFRA_10032026192516_SE_Intimation-reg_30_Kudathini.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 16:35:55",
-      "an_dt": "05-Mar-2026 16:35:55",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "JSW Infrastructure Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JSWINFRA_05032026163440_SE_Intimation.pdf"
     }
   ]
 }

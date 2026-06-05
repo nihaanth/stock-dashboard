@@ -8,17 +8,9 @@
   "price": 698.95,
   "market_cap_cr": 15895.74,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 793.0,
-      "prev_close": 795.95,
-      "volume": 275025,
-      "deliverable_qty": 96703,
-      "delivery_pct": 35.16
-    },
     {
       "date": "2026-03-06",
       "close": 802.3,
@@ -434,9 +426,24 @@
       "volume": 1397701,
       "deliverable_qty": 624680,
       "delivery_pct": 44.69
+    },
+    {
+      "date": "2026-06-04",
+      "close": 598.0,
+      "prev_close": 592.7,
+      "volume": 1668766,
+      "deliverable_qty": 882305,
+      "delivery_pct": 52.87
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 17:28:45",
+      "an_dt": "04-Jun-2026 17:28:45",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Jyoti CNC Automation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_04062026172835_BSEnseJCALTranscriptInvestorCallQ4FY26.pdf"
+    },
     {
       "sort_date": "2026-05-31 11:52:43",
       "an_dt": "31-May-2026 11:52:43",
@@ -604,13 +611,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Jyoti CNC Automation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_12032026161455_BSEnseJCALPostalBallotIntimation12032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 07:49:28",
-      "an_dt": "05-Mar-2026 07:49:28",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Jyoti CNC Automation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_05032026074813_NSEBSEIntimationInvestormeet.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 459.4,
   "market_cap_cr": 1807.9,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 510.65,
-      "prev_close": 508.7,
-      "volume": 14192,
-      "deliverable_qty": 9561,
-      "delivery_pct": 67.37
-    },
     {
       "date": "2026-03-06",
       "close": 512.3,
@@ -434,9 +426,31 @@
       "volume": 35198,
       "deliverable_qty": 20873,
       "delivery_pct": 59.3
+    },
+    {
+      "date": "2026-06-04",
+      "close": 439.65,
+      "prev_close": 441.9,
+      "volume": 16509,
+      "deliverable_qty": 10702,
+      "delivery_pct": 64.83
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 17:58:28",
+      "an_dt": "04-Jun-2026 17:58:28",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Studds Accessories Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Studds1983_04062026175803_Stock_Exchange_Intimation_Plant_Visit_04062026.pdf"
+    },
+    {
+      "sort_date": "2026-06-04 17:52:50",
+      "an_dt": "04-Jun-2026 17:52:50",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Studds Accessories Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Studds1983_04062026175224_Stock_Exchange_Intimation_Choice_Conference_04062026.pdf"
+    },
     {
       "sort_date": "2026-06-03 15:33:32",
       "an_dt": "03-Jun-2026 15:33:32",

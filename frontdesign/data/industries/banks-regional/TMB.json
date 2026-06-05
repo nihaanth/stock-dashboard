@@ -8,17 +8,9 @@
   "price": 681.45,
   "market_cap_cr": 10790.86,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 649.95,
-      "prev_close": 651.75,
-      "volume": 256421,
-      "deliverable_qty": 127717,
-      "delivery_pct": 49.81
-    },
     {
       "date": "2026-03-06",
       "close": 630.15,
@@ -434,6 +426,14 @@
       "volume": 269115,
       "deliverable_qty": 123547,
       "delivery_pct": 45.91
+    },
+    {
+      "date": "2026-06-04",
+      "close": 748.1,
+      "prev_close": 740.45,
+      "volume": 232194,
+      "deliverable_qty": 115162,
+      "delivery_pct": 49.6
     }
   ],
   "news": [
@@ -681,20 +681,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Tamilnad Mercantile Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/9659523378_11032026174340_156.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 18:14:07",
-      "an_dt": "05-Mar-2026 18:14:07",
-      "desc": "Cessation",
-      "sm_name": "Tamilnad Mercantile Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9659523378_05032026181339_154.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 11:46:57",
-      "an_dt": "05-Mar-2026 11:46:57",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Tamilnad Mercantile Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9659523378_05032026114605_153.pdf"
     }
   ]
 }

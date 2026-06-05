@@ -8,17 +8,9 @@
   "price": 2067.6,
   "market_cap_cr": 4141.71,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 1461.1,
-      "prev_close": 1490.2,
-      "volume": 93092,
-      "deliverable_qty": 48611,
-      "delivery_pct": 52.22
-    },
     {
       "date": "2026-03-06",
       "close": 1479.2,
@@ -434,9 +426,24 @@
       "volume": 121290,
       "deliverable_qty": 39435,
       "delivery_pct": 32.51
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1911.0,
+      "prev_close": 1934.7,
+      "volume": 15220,
+      "deliverable_qty": 8539,
+      "delivery_pct": 56.1
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 14:52:59",
+      "an_dt": "04-Jun-2026 14:52:59",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "The Anup Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20052026181942_ANUP.pdf"
+    },
     {
       "sort_date": "2026-06-02 15:16:33",
       "an_dt": "02-Jun-2026 15:16:33",

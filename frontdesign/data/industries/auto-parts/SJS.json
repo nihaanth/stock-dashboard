@@ -8,17 +8,9 @@
   "price": 2011.7,
   "market_cap_cr": 6436.79,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 1672.7,
-      "prev_close": 1664.6,
-      "volume": 81025,
-      "deliverable_qty": 40863,
-      "delivery_pct": 50.43
-    },
     {
       "date": "2026-03-06",
       "close": 1632.6,
@@ -434,9 +426,24 @@
       "volume": 111134,
       "deliverable_qty": 59616,
       "delivery_pct": 53.64
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1989.8,
+      "prev_close": 1970.6,
+      "volume": 55389,
+      "deliverable_qty": 25663,
+      "delivery_pct": 46.33
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 15:05:53",
+      "an_dt": "04-Jun-2026 15:05:53",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "S.J.S. Enterprises Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SJS_04062026150539_ICICISecuritiesInvestorMeeting020626.pdf"
+    },
     {
       "sort_date": "2026-06-03 19:08:04",
       "an_dt": "03-Jun-2026 19:08:04",

@@ -8,17 +8,9 @@
   "price": 815.7,
   "market_cap_cr": 20228.1,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 652.35,
-      "prev_close": 629.9,
-      "volume": 4749237,
-      "deliverable_qty": 3270872,
-      "delivery_pct": 68.87
-    },
     {
       "date": "2026-03-06",
       "close": 648.85,
@@ -434,9 +426,24 @@
       "volume": 1152395,
       "deliverable_qty": 556466,
       "delivery_pct": 48.29
+    },
+    {
+      "date": "2026-06-04",
+      "close": 759.15,
+      "prev_close": 752.4,
+      "volume": 1038844,
+      "deliverable_qty": 506863,
+      "delivery_pct": 48.79
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 18:08:27",
+      "an_dt": "04-Jun-2026 18:08:27",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Computer Age Management Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Jaiganesh_04062026180816_Analyst_Investor_Call_Filing_04062026.pdf"
+    },
     {
       "sort_date": "2026-06-03 19:38:52",
       "an_dt": "03-Jun-2026 19:38:52",
@@ -625,20 +632,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Computer Age Management Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Jaiganesh_11032026134918_Analyst_Investor_Call_Filing.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 18:55:37",
-      "an_dt": "05-Mar-2026 18:55:37",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Computer Age Management Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Palaki_05032026185505_Analyst_call_filing_05032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 16:48:24",
-      "an_dt": "05-Mar-2026 16:48:24",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Computer Age Management Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Palaki_05032026164724_Analyst_meet_cancellation.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 180.13,
   "market_cap_cr": 1999.44,
   "industry_source": "webarchive",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 193.72,
-      "prev_close": 193.47,
-      "volume": 44096,
-      "deliverable_qty": 28574,
-      "delivery_pct": 64.8
-    },
     {
       "date": "2026-03-06",
       "close": 196.79,
@@ -434,6 +426,14 @@
       "volume": 111491,
       "deliverable_qty": 60630,
       "delivery_pct": 54.38
+    },
+    {
+      "date": "2026-06-04",
+      "close": 176.61,
+      "prev_close": 177.3,
+      "volume": 75959,
+      "deliverable_qty": 40487,
+      "delivery_pct": 53.3
     }
   ],
   "news": [
@@ -569,20 +569,6 @@
       "desc": "Updates",
       "sm_name": "La Opala RG Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LAOPALA_18032026172917_LORG_Genesis_SAST_29_2_18032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 16:54:47",
-      "an_dt": "05-Mar-2026 16:54:47",
-      "desc": "Updates",
-      "sm_name": "La Opala RG Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LAOPALA_05032026165425_LORG_Genesis_PIT_7_2_05032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 16:51:43",
-      "an_dt": "05-Mar-2026 16:51:43",
-      "desc": "Updates",
-      "sm_name": "La Opala RG Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LAOPALA_05032026165121_LORG_Genesis_SAST_29_2_05032026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 164.72,
   "market_cap_cr": 9613.42,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 124.11,
-      "prev_close": 119.01,
-      "volume": 1901133,
-      "deliverable_qty": 1004241,
-      "delivery_pct": 52.82
-    },
     {
       "date": "2026-03-06",
       "close": 119.95,
@@ -434,9 +426,24 @@
       "volume": 1469239,
       "deliverable_qty": 659400,
       "delivery_pct": 44.88
+    },
+    {
+      "date": "2026-06-04",
+      "close": 203.62,
+      "prev_close": 195.33,
+      "volume": 2539323,
+      "deliverable_qty": 1148620,
+      "delivery_pct": 45.23
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 20:23:19",
+      "an_dt": "04-Jun-2026 20:23:19",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Shadowfax Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9900590024_04062026202236_ESOP_Allotment.pdf"
+    },
     {
       "sort_date": "2026-06-03 17:42:33",
       "an_dt": "03-Jun-2026 17:42:33",

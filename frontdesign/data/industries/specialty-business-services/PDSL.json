@@ -8,17 +8,9 @@
   "price": 292.95,
   "market_cap_cr": 4152.72,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 300.35,
-      "prev_close": 299.1,
-      "volume": 99658,
-      "deliverable_qty": 69049,
-      "delivery_pct": 69.29
-    },
     {
       "date": "2026-03-06",
       "close": 295.1,
@@ -434,6 +426,14 @@
       "volume": 96337,
       "deliverable_qty": 58025,
       "delivery_pct": 60.23
+    },
+    {
+      "date": "2026-06-04",
+      "close": 320.1,
+      "prev_close": 303.3,
+      "volume": 377364,
+      "deliverable_qty": 247997,
+      "delivery_pct": 65.72
     }
   ],
   "news": [
@@ -646,20 +646,6 @@
       "desc": "Updates",
       "sm_name": "PDS Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_13032026132652_Ltr_Clarification_Postal_Notice_13032026_SD.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 20:45:31",
-      "an_dt": "05-Mar-2026 20:45:31",
-      "desc": "Sale or disposal",
-      "sm_name": "PDS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_05032026204451_Ltr_FarEastVogue_05-03-2026_sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 16:50:39",
-      "an_dt": "05-Mar-2026 16:50:39",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "PDS Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDSL_05032026164851_Ltr_InvestorMeet_05032026.pdf"
     }
   ]
 }

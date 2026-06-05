@@ -8,17 +8,9 @@
   "price": 7178.5,
   "market_cap_cr": 25262.34,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 7825.5,
-      "prev_close": 7657.0,
-      "volume": 258190,
-      "deliverable_qty": 107422,
-      "delivery_pct": 41.61
-    },
     {
       "date": "2026-03-06",
       "close": 7872.5,
@@ -434,6 +426,14 @@
       "volume": 309362,
       "deliverable_qty": 87570,
       "delivery_pct": 28.31
+    },
+    {
+      "date": "2026-06-04",
+      "close": 7617.0,
+      "prev_close": 7508.0,
+      "volume": 248600,
+      "deliverable_qty": 78628,
+      "delivery_pct": 31.63
     }
   ],
   "news": [
@@ -625,27 +625,6 @@
       "desc": "Issue of Securities",
       "sm_name": "Amber Enterprises India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMBER_19032026185956_SE_Intimation_Rights_Issue_19032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 15:50:35",
-      "an_dt": "05-Mar-2026 15:50:35",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Amber Enterprises India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMBER_05032026155023_SE_Intimation_Investor_Call_13032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 15:45:09",
-      "an_dt": "05-Mar-2026 15:45:09",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Amber Enterprises India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMBER_05032026154417_SE_Intimation_Investor_Call_12032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 15:36:52",
-      "an_dt": "05-Mar-2026 15:36:52",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Amber Enterprises India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMBER_05032026153638_SE_Intimation_Investor_Call_10032026.pdf"
     }
   ]
 }

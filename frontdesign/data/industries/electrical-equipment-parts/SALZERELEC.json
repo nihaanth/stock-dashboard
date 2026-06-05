@@ -8,17 +8,9 @@
   "price": 772.05,
   "market_cap_cr": 1365.2,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 612.25,
-      "prev_close": 603.4,
-      "volume": 56508,
-      "deliverable_qty": 23166,
-      "delivery_pct": 41.0
-    },
     {
       "date": "2026-03-06",
       "close": 607.25,
@@ -434,6 +426,14 @@
       "volume": 44568,
       "deliverable_qty": 21662,
       "delivery_pct": 48.6
+    },
+    {
+      "date": "2026-06-04",
+      "close": 630.5,
+      "prev_close": 629.3,
+      "volume": 30492,
+      "deliverable_qty": 13125,
+      "delivery_pct": 43.04
     }
   ],
   "news": [
@@ -590,20 +590,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Salzer Electronics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SALZERELEC_18032026130732_DisclosureUnderReg30.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 11:36:26",
-      "an_dt": "05-Mar-2026 11:36:26",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Salzer Electronics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SALZERELEC_05032026113605_Pre_Intimation_Notice_of_Arihant_Capital_Bharat_Connect_Conference.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 11:13:31",
-      "an_dt": "05-Mar-2026 11:13:31",
-      "desc": "Press Release",
-      "sm_name": "Salzer Electronics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SALZERELEC_05032026111308_Pre_Intimation_Notice_of_Arihant_Capital_Bharat_Connect_Conference.pdf"
     }
   ]
 }

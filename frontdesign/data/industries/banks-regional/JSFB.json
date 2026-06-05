@@ -8,17 +8,9 @@
   "price": 455.1,
   "market_cap_cr": 4793.32,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 365.05,
-      "prev_close": 371.6,
-      "volume": 300112,
-      "deliverable_qty": 184075,
-      "delivery_pct": 61.34
-    },
     {
       "date": "2026-03-06",
       "close": 350.35,
@@ -434,6 +426,14 @@
       "volume": 491117,
       "deliverable_qty": 253199,
       "delivery_pct": 51.56
+    },
+    {
+      "date": "2026-06-04",
+      "close": 472.6,
+      "prev_close": 483.75,
+      "volume": 755354,
+      "deliverable_qty": 483299,
+      "delivery_pct": 63.98
     }
   ],
   "news": [
@@ -660,13 +660,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Jana Small Finance Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/sanath_rao_janabank_com_17032026140242_138ESOPallotment.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 17:18:26",
-      "an_dt": "05-Mar-2026 17:18:26",
-      "desc": "Updates",
-      "sm_name": "Jana Small Finance Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/vinay_raikar_janabank_com_05032026171810_Recoreddate.pdf"
     }
   ]
 }

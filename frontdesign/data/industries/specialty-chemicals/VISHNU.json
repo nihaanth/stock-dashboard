@@ -8,17 +8,9 @@
   "price": 580.65,
   "market_cap_cr": 3908.66,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 482.65,
-      "prev_close": 480.0,
-      "volume": 61520,
-      "deliverable_qty": 30861,
-      "delivery_pct": 50.16
-    },
     {
       "date": "2026-03-06",
       "close": 486.65,
@@ -434,9 +426,24 @@
       "volume": 141623,
       "deliverable_qty": 54828,
       "delivery_pct": 38.71
+    },
+    {
+      "date": "2026-06-04",
+      "close": 609.45,
+      "prev_close": 615.3,
+      "volume": 153226,
+      "deliverable_qty": 51903,
+      "delivery_pct": 33.87
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 12:58:46",
+      "an_dt": "04-Jun-2026 12:58:46",
+      "desc": "Investor Presentation",
+      "sm_name": "Vishnu Chemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VISHNU_04062026125830_VCL_Investor_Presentation_Q4FY26_Final_signed.pdf"
+    },
     {
       "sort_date": "2026-06-03 10:32:18",
       "an_dt": "03-Jun-2026 10:32:18",

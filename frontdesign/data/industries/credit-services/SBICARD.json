@@ -8,17 +8,9 @@
   "price": 641.5,
   "market_cap_cr": 61045.49,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 730.55,
-      "prev_close": 726.6,
-      "volume": 2088983,
-      "deliverable_qty": 1295596,
-      "delivery_pct": 62.02
-    },
     {
       "date": "2026-03-06",
       "close": 724.05,
@@ -434,6 +426,14 @@
       "volume": 1151872,
       "deliverable_qty": 509445,
       "delivery_pct": 44.23
+    },
+    {
+      "date": "2026-06-04",
+      "close": 589.5,
+      "prev_close": 596.55,
+      "volume": 1351141,
+      "deliverable_qty": 624933,
+      "delivery_pct": 46.25
     }
   ],
   "news": [
@@ -632,34 +632,6 @@
       "desc": "Updates",
       "sm_name": "SBI Cards and Payment Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBICPSL_06032026190303_SEFilingMarch2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 20:09:54",
-      "an_dt": "05-Mar-2026 20:09:54",
-      "desc": "Record Date",
-      "sm_name": "SBI Cards and Payment Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBICPSL_05032026200839_SEFilingOutcomeOfBoardMeetingMarch2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 20:04:36",
-      "an_dt": "05-Mar-2026 20:04:36",
-      "desc": "Change in Management",
-      "sm_name": "SBI Cards and Payment Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBICPSL_05032026200414_SEFilingOutcomeOfBoardMeetingMarch2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 19:59:35",
-      "an_dt": "05-Mar-2026 19:59:35",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "SBI Cards and Payment Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBICPSL_05032026195855_SEFilingOutcomeOfBoardMeetingMarch2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 19:59:35",
-      "an_dt": "05-Mar-2026 19:59:35",
-      "desc": "Dividend",
-      "sm_name": "SBI Cards and Payment Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBICPSL_05032026195835_SEFilingOutcomeOfBoardMeetingMarch2026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 9239.5,
   "market_cap_cr": 80441.35,
   "industry_source": "webarchive",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 6789.5,
-      "prev_close": 6832.0,
-      "volume": 102857,
-      "deliverable_qty": 43180,
-      "delivery_pct": 41.98
-    },
     {
       "date": "2026-03-06",
       "close": 6718.0,
@@ -434,6 +426,14 @@
       "volume": 235347,
       "deliverable_qty": 93590,
       "delivery_pct": 39.77
+    },
+    {
+      "date": "2026-06-04",
+      "close": 10098.0,
+      "prev_close": 9997.5,
+      "volume": 277226,
+      "deliverable_qty": 104763,
+      "delivery_pct": 37.79
     }
   ],
   "news": [
@@ -541,13 +541,6 @@
       "desc": "Updates",
       "sm_name": "Oracle Financial Services Software Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/OFSS_18032026110318_InitimationofESOPAllotmentMarch182026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 14:25:55",
-      "an_dt": "05-Mar-2026 14:25:55",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Oracle Financial Services Software Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OFSS_05032026142535_LettertoSEsPostalBallotNoticeNewspaperAdvtsd.pdf"
     }
   ]
 }

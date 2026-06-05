@@ -8,17 +8,9 @@
   "price": 202.97,
   "market_cap_cr": 212652.08,
   "industry_source": "webarchive",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 195.68,
-      "prev_close": 195.55,
-      "volume": 13149281,
-      "deliverable_qty": 5965070,
-      "delivery_pct": 45.36
-    },
     {
       "date": "2026-03-06",
       "close": 195.4,
@@ -434,6 +426,14 @@
       "volume": 62282204,
       "deliverable_qty": 29708601,
       "delivery_pct": 47.7
+    },
+    {
+      "date": "2026-06-04",
+      "close": 204.32,
+      "prev_close": 204.1,
+      "volume": 40659957,
+      "deliverable_qty": 25320588,
+      "delivery_pct": 62.27
     }
   ],
   "news": [
@@ -877,27 +877,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Wipro Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Wipro_Secretarial_09032026171111_Reg47NewspaperAd.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 21:47:38",
-      "an_dt": "05-Mar-2026 21:47:38",
-      "desc": "Updates",
-      "sm_name": "Wipro Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Wipro_Secretarial_05032026214655_SE.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 16:22:40",
-      "an_dt": "05-Mar-2026 16:22:40",
-      "desc": "Press Release",
-      "sm_name": "Wipro Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Wipro_Secretarial_05032026162218_PressRelease05032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 16:11:57",
-      "an_dt": "05-Mar-2026 16:11:57",
-      "desc": "Appointment",
-      "sm_name": "Wipro Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Wipro_Secretarial_05032026161121_SEIntimation05032026.pdf"
     }
   ]
 }

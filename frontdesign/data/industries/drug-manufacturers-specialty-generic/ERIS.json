@@ -8,17 +8,9 @@
   "price": 1376.4,
   "market_cap_cr": 19072.4,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 1370.2,
-      "prev_close": 1358.1,
-      "volume": 34594,
-      "deliverable_qty": 18117,
-      "delivery_pct": 52.37
-    },
     {
       "date": "2026-03-06",
       "close": 1360.7,
@@ -434,6 +426,14 @@
       "volume": 112792,
       "deliverable_qty": 42940,
       "delivery_pct": 38.07
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1367.3,
+      "prev_close": 1397.1,
+      "volume": 35868,
+      "deliverable_qty": 17900,
+      "delivery_pct": 49.91
     }
   ],
   "news": [
@@ -604,13 +604,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Eris Lifesciences Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ERIS_12032026121113_intimationsigned.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 10:33:24",
-      "an_dt": "05-Mar-2026 10:33:24",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Eris Lifesciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ERIS_05032026103234_Intimationsigned.pdf"
     }
   ]
 }

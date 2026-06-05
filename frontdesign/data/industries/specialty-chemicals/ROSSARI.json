@@ -8,17 +8,9 @@
   "price": 525.4,
   "market_cap_cr": 2910.28,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 477.75,
-      "prev_close": 475.15,
-      "volume": 24250,
-      "deliverable_qty": 14132,
-      "delivery_pct": 58.28
-    },
     {
       "date": "2026-03-06",
       "close": 467.0,
@@ -434,9 +426,24 @@
       "volume": 153777,
       "deliverable_qty": 67247,
       "delivery_pct": 43.73
+    },
+    {
+      "date": "2026-06-04",
+      "close": 526.7,
+      "prev_close": 528.25,
+      "volume": 53143,
+      "deliverable_qty": 28430,
+      "delivery_pct": 53.5
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 23:39:58",
+      "an_dt": "04-Jun-2026 23:39:58",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "Rossari Biotech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ROSSARI_04062026233238_20260604_Intimation_under_Regulation_30_receipt_of_petition.pdf"
+    },
     {
       "sort_date": "2026-06-02 12:10:33",
       "an_dt": "02-Jun-2026 12:10:33",

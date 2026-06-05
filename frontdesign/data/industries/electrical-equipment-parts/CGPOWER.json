@@ -8,17 +8,9 @@
   "price": 716.1,
   "market_cap_cr": 112780.1,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 701.1,
-      "prev_close": 684.9,
-      "volume": 1348514,
-      "deliverable_qty": 543710,
-      "delivery_pct": 40.32
-    },
     {
       "date": "2026-03-06",
       "close": 715.45,
@@ -434,9 +426,38 @@
       "volume": 3685445,
       "deliverable_qty": 1850114,
       "delivery_pct": 50.2
+    },
+    {
+      "date": "2026-06-04",
+      "close": 937.9,
+      "prev_close": 906.65,
+      "volume": 8471887,
+      "deliverable_qty": 2767872,
+      "delivery_pct": 32.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 17:39:16",
+      "an_dt": "04-Jun-2026 17:39:16",
+      "desc": "Press Release",
+      "sm_name": "CG Power and Industrial Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CGPOWER_04062026173851_Disclosure_on_inauguration_of_S3_Unit_II.pdf"
+    },
+    {
+      "sort_date": "2026-06-04 17:39:16",
+      "an_dt": "04-Jun-2026 17:39:16",
+      "desc": "Capacity addition",
+      "sm_name": "CG Power and Industrial Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CGPOWER_04062026173839_Disclosure_on_inauguration_of_S3_Unit_II.pdf"
+    },
+    {
+      "sort_date": "2026-06-04 15:28:06",
+      "an_dt": "04-Jun-2026 15:28:06",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "CG Power and Industrial Solutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CGPOWER_04062026152547_Intimation_of_Analyst_call_17_06_2026.pdf"
+    },
     {
       "sort_date": "2026-06-02 11:26:56",
       "an_dt": "02-Jun-2026 11:26:56",
@@ -639,13 +660,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "CG Power and Industrial Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CGPOWER_06032026223642_Voting_Results_-_Postal_Ballot_05032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 17:18:53",
-      "an_dt": "05-Mar-2026 17:18:53",
-      "desc": "Disclosure of material issue",
-      "sm_name": "CG Power and Industrial Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CGPOWER_05032026171443_Disclosure_CPSI_Sale_of_Shares.pdf"
     }
   ]
 }

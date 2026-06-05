@@ -8,17 +8,9 @@
   "price": 375.05,
   "market_cap_cr": 1060.15,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 322.15,
-      "prev_close": 326.65,
-      "volume": 7575,
-      "deliverable_qty": 1537,
-      "delivery_pct": 20.29
-    },
     {
       "date": "2026-03-06",
       "close": 342.85,
@@ -434,6 +426,14 @@
       "volume": 555,
       "deliverable_qty": 434,
       "delivery_pct": 78.2
+    },
+    {
+      "date": "2026-06-04",
+      "close": 342.7,
+      "prev_close": 343.15,
+      "volume": 17947,
+      "deliverable_qty": 11512,
+      "delivery_pct": 64.14
     }
   ],
   "news": [
@@ -520,20 +520,6 @@
       "desc": "General Updates",
       "sm_name": "Crest Ventures Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CREST_11032026181326_MeetIntimationSIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 18:40:06",
-      "an_dt": "05-Mar-2026 18:40:06",
-      "desc": "Updates",
-      "sm_name": "Crest Ventures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CREST_05032026183927_NSE_Intimation_SIGNED.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 16:02:32",
-      "an_dt": "05-Mar-2026 16:02:32",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Crest Ventures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CREST_05032026160214_Regulation_30_schedule_of_analyst-institutional_investor_meet.pdf"
     }
   ]
 }

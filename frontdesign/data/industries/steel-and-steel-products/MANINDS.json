@@ -8,17 +8,9 @@
   "price": 468.6,
   "market_cap_cr": 3514.95,
   "industry_source": "webarchive",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 400.25,
-      "prev_close": 404.8,
-      "volume": 1416617,
-      "deliverable_qty": 402781,
-      "delivery_pct": 28.43
-    },
     {
       "date": "2026-03-06",
       "close": 405.95,
@@ -434,6 +426,14 @@
       "volume": 871071,
       "deliverable_qty": 419480,
       "delivery_pct": 48.16
+    },
+    {
+      "date": "2026-06-04",
+      "close": 489.05,
+      "prev_close": 496.15,
+      "volume": 261794,
+      "deliverable_qty": 144712,
+      "delivery_pct": 55.28
     }
   ],
   "news": [
@@ -583,20 +583,6 @@
       "desc": "Trading Window",
       "sm_name": "Man Industries (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANINDS_24032026153643_MIIL_Intimation_of_Closure_of_Trading_Window_31032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 16:29:22",
-      "an_dt": "05-Mar-2026 16:29:22",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Man Industries (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANINDS_05032026162914_MIIL_Investors_Meeting_11032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 15:18:43",
-      "an_dt": "05-Mar-2026 15:18:43",
-      "desc": "Updates",
-      "sm_name": "Man Industries (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANINDS_05032026151835_MIIL_Impact_of_current_geopolitical_situation_05032026.pdf"
     }
   ]
 }

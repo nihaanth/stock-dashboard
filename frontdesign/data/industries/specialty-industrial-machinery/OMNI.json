@@ -8,17 +8,9 @@
   "price": 430.35,
   "market_cap_cr": 5321.97,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 204.93,
-      "prev_close": 227.0,
-      "volume": 6645675,
-      "deliverable_qty": 2525662,
-      "delivery_pct": 38.0
-    },
     {
       "date": "2026-03-06",
       "close": 190.14,
@@ -434,6 +426,14 @@
       "volume": 343186,
       "deliverable_qty": 82108,
       "delivery_pct": 23.93
+    },
+    {
+      "date": "2026-06-04",
+      "close": 508.05,
+      "prev_close": 507.1,
+      "volume": 940661,
+      "deliverable_qty": 209917,
+      "delivery_pct": 22.32
     }
   ],
   "news": [
@@ -597,41 +597,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "Omnitech Engineering Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/OMNITECHENG_11032026153227_Intimation_under_Regulation_30_11032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 20:51:49",
-      "an_dt": "05-Mar-2026 20:51:49",
-      "desc": "General Updates",
-      "sm_name": "Omnitech Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OMNITECHENG_05032026205143_Regulation_8_2_.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 20:31:01",
-      "an_dt": "05-Mar-2026 20:31:01",
-      "desc": "Trading Window",
-      "sm_name": "Omnitech Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OMNITECHENG_05032026203052_Closure_of_Trading_Window.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 20:20:12",
-      "an_dt": "05-Mar-2026 20:20:12",
-      "desc": "General Updates",
-      "sm_name": "Omnitech Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OMNITECHENG_05032026202003_Regulation_30__5__Intimation_under_SEBI.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 20:14:52",
-      "an_dt": "05-Mar-2026 20:14:52",
-      "desc": "General Updates",
-      "sm_name": "Omnitech Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OMNITECHENG_05032026201442_Regulation_7_1__Intimation_Exchange_for_RTA.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 20:06:47",
-      "an_dt": "05-Mar-2026 20:06:47",
-      "desc": "General Updates",
-      "sm_name": "Omnitech Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/OMNITECHENG_05032026200639_Regulation_6_1_.pdf"
     }
   ]
 }

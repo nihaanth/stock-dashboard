@@ -8,17 +8,9 @@
   "price": 501.5,
   "market_cap_cr": 1933.39,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 396.25,
-      "prev_close": 390.2,
-      "volume": 30549,
-      "deliverable_qty": 15157,
-      "delivery_pct": 49.62
-    },
     {
       "date": "2026-03-06",
       "close": 384.7,
@@ -434,6 +426,14 @@
       "volume": 129967,
       "deliverable_qty": 42115,
       "delivery_pct": 32.4
+    },
+    {
+      "date": "2026-06-04",
+      "close": 514.05,
+      "prev_close": 522.35,
+      "volume": 111174,
+      "deliverable_qty": 47242,
+      "delivery_pct": 42.49
     }
   ],
   "news": [
@@ -562,13 +562,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Rishabh Instruments Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RISHABH_23032026170629_RIL_Board_Circular_Resolution__Intimation_to_Stock_Exchange_23032026__A.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 11:38:46",
-      "an_dt": "05-Mar-2026 11:38:46",
-      "desc": "Credit Rating- Revision",
-      "sm_name": "Rishabh Instruments Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RISHABH_05032026113833_RIL_Credit_Rating_Letter_05032026_U.pdf"
     }
   ]
 }

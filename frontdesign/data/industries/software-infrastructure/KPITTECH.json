@@ -8,17 +8,9 @@
   "price": 709.85,
   "market_cap_cr": 19350.69,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 717.5,
-      "prev_close": 736.15,
-      "volume": 2330442,
-      "deliverable_qty": 1121528,
-      "delivery_pct": 48.13
-    },
     {
       "date": "2026-03-06",
       "close": 698.55,
@@ -434,6 +426,14 @@
       "volume": 2235273,
       "deliverable_qty": 608781,
       "delivery_pct": 27.24
+    },
+    {
+      "date": "2026-06-04",
+      "close": 773.0,
+      "prev_close": 774.25,
+      "volume": 758769,
+      "deliverable_qty": 174596,
+      "delivery_pct": 23.01
     }
   ],
   "news": [
@@ -562,13 +562,6 @@
       "desc": "General Updates",
       "sm_name": "KPIT Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KPITTECH_23032026203333_NDreamMarch23_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 12:33:48",
-      "an_dt": "05-Mar-2026 12:33:48",
-      "desc": "Shareholders meeting",
-      "sm_name": "KPIT Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KPITTECH_05032026122518_PostalballotReport_Signed.pdf"
     }
   ]
 }

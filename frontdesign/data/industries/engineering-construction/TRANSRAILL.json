@@ -8,17 +8,9 @@
   "price": 548.35,
   "market_cap_cr": 7361.93,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 515.8,
-      "prev_close": 510.3,
-      "volume": 418939,
-      "deliverable_qty": 173650,
-      "delivery_pct": 41.45
-    },
     {
       "date": "2026-03-06",
       "close": 515.3,
@@ -434,6 +426,14 @@
       "volume": 661968,
       "deliverable_qty": 224685,
       "delivery_pct": 33.94
+    },
+    {
+      "date": "2026-06-04",
+      "close": 499.25,
+      "prev_close": 494.8,
+      "volume": 702733,
+      "deliverable_qty": 302885,
+      "delivery_pct": 43.1
     }
   ],
   "news": [
@@ -583,13 +583,6 @@
       "desc": "General Updates",
       "sm_name": "Transrail Lighting Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRANSRAIL_17032026122230_IntimationofInvestmentinTransrailTradingLLC.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 10:53:42",
-      "an_dt": "05-Mar-2026 10:53:42",
-      "desc": "Credit Rating",
-      "sm_name": "Transrail Lighting Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TRANSRAIL_05032026105156_IntimationforNewCreditRatingforNCDCP.pdf"
     }
   ]
 }

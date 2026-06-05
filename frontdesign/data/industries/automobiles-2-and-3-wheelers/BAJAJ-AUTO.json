@@ -8,17 +8,9 @@
   "price": 9816.0,
   "market_cap_cr": 274114.31,
   "industry_source": "webarchive",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 9804.5,
-      "prev_close": 9652.5,
-      "volume": 300749,
-      "deliverable_qty": 168801,
-      "delivery_pct": 56.13
-    },
     {
       "date": "2026-03-06",
       "close": 9816.0,
@@ -434,9 +426,24 @@
       "volume": 355015,
       "deliverable_qty": 182133,
       "delivery_pct": 51.3
+    },
+    {
+      "date": "2026-06-04",
+      "close": 10362.0,
+      "prev_close": 10259.0,
+      "volume": 539031,
+      "deliverable_qty": 286465,
+      "delivery_pct": 53.14
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 17:22:45",
+      "an_dt": "04-Jun-2026 17:22:45",
+      "desc": "General Updates",
+      "sm_name": "Bajaj Auto Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/lkwalimbe_bajajauto_co_in_04062026172233_SEBIintimation.pdf"
+    },
     {
       "sort_date": "2026-06-01 22:43:00",
       "an_dt": "01-Jun-2026 22:43:00",
@@ -702,13 +709,6 @@
       "desc": "Agreements",
       "sm_name": "Bajaj Auto Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/lkwalimbe_bajajauto_co_in_06032026210332_SE_Intimation_BV_Bank_Loan_Termination_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 17:18:59",
-      "an_dt": "05-Mar-2026 17:18:59",
-      "desc": "Agreements",
-      "sm_name": "Bajaj Auto Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/lkwalimbe_bajajauto_co_in_05032026171843_SE_Intimation_BV_KTM_Loan_5_March_2026_Signed.pdf"
     }
   ]
 }

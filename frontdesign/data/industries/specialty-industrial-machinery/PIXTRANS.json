@@ -8,17 +8,9 @@
   "price": 1529.0,
   "market_cap_cr": 2083.29,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 1467.4,
-      "prev_close": 1437.1,
-      "volume": 11633,
-      "deliverable_qty": 7208,
-      "delivery_pct": 61.96
-    },
     {
       "date": "2026-03-06",
       "close": 1455.6,
@@ -434,6 +426,14 @@
       "volume": 14541,
       "deliverable_qty": 8972,
       "delivery_pct": 61.7
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1606.6,
+      "prev_close": 1632.5,
+      "volume": 11965,
+      "deliverable_qty": 4963,
+      "delivery_pct": 41.48
     }
   ],
   "news": [
@@ -506,13 +506,6 @@
       "desc": "Clarification - Financial Results",
       "sm_name": "Pix Transmissions Limited",
       "attchmntFile": "-"
-    },
-    {
-      "sort_date": "2026-03-05 14:35:25",
-      "an_dt": "05-Mar-2026 14:35:25",
-      "desc": "Credit Rating",
-      "sm_name": "Pix Transmissions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHYBUV_05032026143511_Credit_Rating_Intimation.pdf"
     }
   ]
 }

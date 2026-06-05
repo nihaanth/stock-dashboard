@@ -8,17 +8,9 @@
   "price": 155.47,
   "market_cap_cr": 1356.38,
   "industry_source": "webarchive",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 105.86,
-      "prev_close": 104.49,
-      "volume": 89184,
-      "deliverable_qty": 47947,
-      "delivery_pct": 53.76
-    },
     {
       "date": "2026-03-06",
       "close": 114.59,
@@ -434,6 +426,14 @@
       "volume": 108773,
       "deliverable_qty": 54254,
       "delivery_pct": 49.88
+    },
+    {
+      "date": "2026-06-04",
+      "close": 140.45,
+      "prev_close": 137.13,
+      "volume": 256615,
+      "deliverable_qty": 108235,
+      "delivery_pct": 42.18
     }
   ],
   "news": [
@@ -548,13 +548,6 @@
       "desc": "Trading Window",
       "sm_name": "Nelcast Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NELCAST1_24032026135538_TradingWindowMar26.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 19:20:11",
-      "an_dt": "05-Mar-2026 19:20:11",
-      "desc": "Credit Rating",
-      "sm_name": "Nelcast Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NELCAST1_05032026191652_CreditRating05032026.pdf"
     }
   ]
 }

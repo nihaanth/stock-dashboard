@@ -8,17 +8,9 @@
   "price": 73.56,
   "market_cap_cr": 1897.19,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 64.09,
-      "prev_close": 63.3,
-      "volume": 2090726,
-      "deliverable_qty": 704962,
-      "delivery_pct": 33.72
-    },
     {
       "date": "2026-03-06",
       "close": 62.65,
@@ -434,6 +426,14 @@
       "volume": 1938309,
       "deliverable_qty": 632614,
       "delivery_pct": 32.64
+    },
+    {
+      "date": "2026-06-04",
+      "close": 71.3,
+      "prev_close": 71.26,
+      "volume": 1984281,
+      "deliverable_qty": 737974,
+      "delivery_pct": 37.19
     }
   ],
   "news": [
@@ -681,13 +681,6 @@
       "desc": "Address Change",
       "sm_name": "Vikran Engineering Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIKRAN123_14032026161319_Intimation_of_Change_of_Registered_Office.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 17:02:13",
-      "an_dt": "05-Mar-2026 17:02:13",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Vikran Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIKRAN123_05032026170123_Disclosure_Arihant_Conference-10-03-2026.pdf"
     }
   ]
 }

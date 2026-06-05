@@ -8,17 +8,9 @@
   "price": 2565.8,
   "market_cap_cr": 103499.24,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 2352.5,
-      "prev_close": 2165.4,
-      "volume": 9407750,
-      "deliverable_qty": 1032820,
-      "delivery_pct": 10.98
-    },
     {
       "date": "2026-03-06",
       "close": 2471.9,
@@ -434,6 +426,14 @@
       "volume": 752970,
       "deliverable_qty": 138741,
       "delivery_pct": 18.43
+    },
+    {
+      "date": "2026-06-04",
+      "close": 2445.2,
+      "prev_close": 2441.8,
+      "volume": 617854,
+      "deliverable_qty": 152418,
+      "delivery_pct": 24.67
     }
   ],
   "news": [
@@ -541,20 +541,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Mazagon Dock Shipbuilders Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAZDOCK_06032026112604_SE_Discl_Anaylyst_or_Investor_Call.PDF"
-    },
-    {
-      "sort_date": "2026-03-05 19:51:06",
-      "an_dt": "05-Mar-2026 19:51:06",
-      "desc": "News Verification",
-      "sm_name": "Mazagon Dock Shipbuilders Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MAZDOCK_05032026195047_NSE_News_clarification.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 13:51:59",
-      "an_dt": "05-Mar-2026 13:51:59",
-      "desc": "News Verification",
-      "sm_name": "Mazagon Dock Shipbuilders Limited",
-      "attchmntFile": "-"
     }
   ]
 }

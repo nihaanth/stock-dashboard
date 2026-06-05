@@ -8,17 +8,9 @@
   "price": 66.16,
   "market_cap_cr": 9429.61,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 45.17,
-      "prev_close": 43.96,
-      "volume": 2781909,
-      "deliverable_qty": 1030132,
-      "delivery_pct": 37.03
-    },
     {
       "date": "2026-03-06",
       "close": 44.65,
@@ -434,6 +426,14 @@
       "volume": 7412626,
       "deliverable_qty": 2023445,
       "delivery_pct": 27.3
+    },
+    {
+      "date": "2026-06-04",
+      "close": 71.51,
+      "prev_close": 70.91,
+      "volume": 7197429,
+      "deliverable_qty": 3001168,
+      "delivery_pct": 41.7
     }
   ],
   "news": [
@@ -569,13 +569,6 @@
       "desc": "Giving guarantees/indemnity/ becoming a surety for third party",
       "sm_name": "LLOYDS ENGINEERING WORKS LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LSIL_12032026184208_Outcomesigned.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 10:22:41",
-      "an_dt": "05-Mar-2026 10:22:41",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "LLOYDS ENGINEERING WORKS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LSIL_05032026102233_Covering_Letter_for_post_dispatch_signed.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 316.65,
   "market_cap_cr": 4957.34,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 246.05,
-      "prev_close": 246.6,
-      "volume": 111737,
-      "deliverable_qty": 74012,
-      "delivery_pct": 66.24
-    },
     {
       "date": "2026-03-06",
       "close": 249.15,
@@ -434,6 +426,14 @@
       "volume": 46221,
       "deliverable_qty": 23269,
       "delivery_pct": 50.34
+    },
+    {
+      "date": "2026-06-04",
+      "close": 308.5,
+      "prev_close": 310.0,
+      "volume": 15312,
+      "deliverable_qty": 9796,
+      "delivery_pct": 63.98
     }
   ],
   "news": [
@@ -583,13 +583,6 @@
       "desc": "Action(s) taken or orders passed",
       "sm_name": "Bansal Wire Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANSALWIRE_06032026155026_Regulation_30_Intimation_GST_Order.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 18:49:28",
-      "an_dt": "05-Mar-2026 18:49:28",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Bansal Wire Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BANSALWIRE_05032026184906_BWIL_Schedule_of_Investor_Meet_Conference.pdf"
     }
   ]
 }

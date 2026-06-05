@@ -8,17 +8,9 @@
   "price": 4733.3,
   "market_cap_cr": 5240.83,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 4392.9,
-      "prev_close": 4416.2,
-      "volume": 1786,
-      "deliverable_qty": 1043,
-      "delivery_pct": 58.4
-    },
     {
       "date": "2026-03-06",
       "close": 4577.5,
@@ -434,9 +426,31 @@
       "volume": 1692,
       "deliverable_qty": 870,
       "delivery_pct": 51.42
+    },
+    {
+      "date": "2026-06-04",
+      "close": 4276.0,
+      "prev_close": 4322.5,
+      "volume": 6926,
+      "deliverable_qty": 3900,
+      "delivery_pct": 56.31
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 16:17:21",
+      "an_dt": "04-Jun-2026 16:17:21",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Pilani Investment and Industries Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PILANIINVS_04062026161641_Pilani_BM_outcome_04062026.pdf"
+    },
+    {
+      "sort_date": "2026-06-04 16:14:55",
+      "an_dt": "04-Jun-2026 16:14:55",
+      "desc": "Dividend",
+      "sm_name": "Pilani Investment and Industries Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PILANIINVS_04062026161357_Pilani_BM_outcome_04062026.pdf"
+    },
     {
       "sort_date": "2026-06-02 09:38:49",
       "an_dt": "02-Jun-2026 09:38:49",

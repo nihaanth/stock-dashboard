@@ -8,17 +8,9 @@
   "price": 6152.0,
   "market_cap_cr": 7931.75,
   "industry_source": "webarchive",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 4764.3,
-      "prev_close": 4783.7,
-      "volume": 13030,
-      "deliverable_qty": 5473,
-      "delivery_pct": 42.0
-    },
     {
       "date": "2026-03-06",
       "close": 4742.5,
@@ -434,9 +426,24 @@
       "volume": 4396,
       "deliverable_qty": 2275,
       "delivery_pct": 51.75
+    },
+    {
+      "date": "2026-06-04",
+      "close": 5534.5,
+      "prev_close": 5577.0,
+      "volume": 11935,
+      "deliverable_qty": 4568,
+      "delivery_pct": 38.27
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 15:10:55",
+      "an_dt": "04-Jun-2026 15:10:55",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Cera Sanitaryware Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CERA_04062026150954_CERAAnalystMeet04062026s.pdf"
+    },
     {
       "sort_date": "2026-06-03 22:07:43",
       "an_dt": "03-Jun-2026 22:07:43",
@@ -576,13 +583,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Cera Sanitaryware Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CERA_09032026182955_CERANewspaper09032026s.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 11:00:30",
-      "an_dt": "05-Mar-2026 11:00:30",
-      "desc": "Updates",
-      "sm_name": "Cera Sanitaryware Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CERA_05032026105958_CERAReg3005032026s.pdf"
     }
   ]
 }

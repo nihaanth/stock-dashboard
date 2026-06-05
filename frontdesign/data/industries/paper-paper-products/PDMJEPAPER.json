@@ -8,17 +8,9 @@
   "price": 84.49,
   "market_cap_cr": 802.23,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 77.23,
-      "prev_close": 77.19,
-      "volume": 93400,
-      "deliverable_qty": 60192,
-      "delivery_pct": 64.45
-    },
     {
       "date": "2026-03-06",
       "close": 76.8,
@@ -434,6 +426,14 @@
       "volume": 36327,
       "deliverable_qty": 21086,
       "delivery_pct": 58.04
+    },
+    {
+      "date": "2026-06-04",
+      "close": 82.7,
+      "prev_close": 83.77,
+      "volume": 67391,
+      "deliverable_qty": 41750,
+      "delivery_pct": 61.95
     }
   ],
   "news": [
@@ -520,27 +520,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Pudumjee Paper Products Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDMJEPAPER1_09032026161043_PPPLNewspaperAdvtSpecialWindow09032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 16:57:30",
-      "an_dt": "05-Mar-2026 16:57:30",
-      "desc": "Change in Director(s)",
-      "sm_name": "Pudumjee Paper Products Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDMJEPAPER_05032026165719_PPPLReg30ReAppointmentofExecutiveDirector05032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 16:54:44",
-      "an_dt": "05-Mar-2026 16:54:44",
-      "desc": "Shareholders meeting",
-      "sm_name": "Pudumjee Paper Products Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDMJEPAPER_05032026165407_PPPLPostalBallotProceeding05032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 16:52:23",
-      "an_dt": "05-Mar-2026 16:52:23",
-      "desc": "Shareholders meeting",
-      "sm_name": "Pudumjee Paper Products Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDMJEPAPER_05032026165159_PPPLPostalBallotResults05032026.pdf"
     }
   ]
 }

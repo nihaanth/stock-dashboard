@@ -8,17 +8,9 @@
   "price": 1987.0,
   "market_cap_cr": 94996.21,
   "industry_source": "webarchive",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 1898.4,
-      "prev_close": 1841.8,
-      "volume": 3038129,
-      "deliverable_qty": 1055801,
-      "delivery_pct": 34.75
-    },
     {
       "date": "2026-03-06",
       "close": 1923.9,
@@ -434,9 +426,31 @@
       "volume": 808066,
       "deliverable_qty": 310561,
       "delivery_pct": 38.43
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1937.5,
+      "prev_close": 1936.5,
+      "volume": 1347808,
+      "deliverable_qty": 674408,
+      "delivery_pct": 50.04
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 15:26:33",
+      "an_dt": "04-Jun-2026 15:26:33",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Bharat Forge Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANILSHINDE_04062026152625_SEIntimation_sd.pdf"
+    },
+    {
+      "sort_date": "2026-06-04 15:22:58",
+      "an_dt": "04-Jun-2026 15:22:58",
+      "desc": "Record Date",
+      "sm_name": "Bharat Forge Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANILSHINDE_04062026152157_SEIntimation_Record_Date.pdf"
+    },
     {
       "sort_date": "2026-05-26 16:39:00",
       "an_dt": "26-May-2026 16:39:00",
@@ -688,27 +702,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Bharat Forge Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANILSHINDE_06032026174743_SEIntimationInvestorcall.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 18:41:18",
-      "an_dt": "05-Mar-2026 18:41:18",
-      "desc": "Press Release",
-      "sm_name": "Bharat Forge Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANILSHINDE_05032026184017_SEIntimationPressRelease.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 16:16:35",
-      "an_dt": "05-Mar-2026 16:16:35",
-      "desc": "News Verification",
-      "sm_name": "Bharat Forge Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANILSHINDE_05032026161424_SEIntimationRumourVerification.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 12:29:33",
-      "an_dt": "05-Mar-2026 12:29:33",
-      "desc": "News Verification",
-      "sm_name": "Bharat Forge Limited",
-      "attchmntFile": "-"
     }
   ]
 }

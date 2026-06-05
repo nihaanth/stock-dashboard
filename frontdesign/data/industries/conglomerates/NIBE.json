@@ -8,17 +8,9 @@
   "price": 1024.8,
   "market_cap_cr": 1531.18,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 979.8,
-      "prev_close": 987.5,
-      "volume": 41006,
-      "deliverable_qty": 22404,
-      "delivery_pct": 54.64
-    },
     {
       "date": "2026-03-06",
       "close": 989.9,
@@ -434,6 +426,14 @@
       "volume": 183530,
       "deliverable_qty": 72832,
       "delivery_pct": 39.68
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1501.6,
+      "prev_close": 1502.1,
+      "volume": 131783,
+      "deliverable_qty": 58105,
+      "delivery_pct": 44.09
     }
   ],
   "news": [
@@ -583,20 +583,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "NIBE Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/9028072464_25032026180108_OUTCOME.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 16:48:45",
-      "an_dt": "05-Mar-2026 16:48:45",
-      "desc": "Allotment of Securities",
-      "sm_name": "NIBE Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9028072464_05032026164755_Nibe_Ltd_Allotment_Intimation_Final.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 16:43:42",
-      "an_dt": "05-Mar-2026 16:43:42",
-      "desc": "Allotment of Securities",
-      "sm_name": "NIBE Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9028072464_05032026164313_Nibe_Ltd_Allotment_Intimation_Final.pdf"
     }
   ]
 }

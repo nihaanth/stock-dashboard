@@ -8,17 +8,9 @@
   "price": 501.25,
   "market_cap_cr": 7780.19,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 477.9,
-      "prev_close": 475.7,
-      "volume": 52544,
-      "deliverable_qty": 26153,
-      "delivery_pct": 49.77
-    },
     {
       "date": "2026-03-06",
       "close": 491.0,
@@ -434,9 +426,24 @@
       "volume": 158950,
       "deliverable_qty": 67499,
       "delivery_pct": 42.47
+    },
+    {
+      "date": "2026-06-04",
+      "close": 438.5,
+      "prev_close": 429.15,
+      "volume": 56429,
+      "deliverable_qty": 25264,
+      "delivery_pct": 44.77
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 14:15:52",
+      "an_dt": "04-Jun-2026 14:15:52",
+      "desc": "Press Release",
+      "sm_name": "WESTLIFE FOODWORLD LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RadhaWestlife_04062026141531_SEs_intimation-Press_Release-04-06-2026.pdf"
+    },
     {
       "sort_date": "2026-05-14 16:13:34",
       "an_dt": "14-May-2026 16:13:34",

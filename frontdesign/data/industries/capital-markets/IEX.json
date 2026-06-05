@@ -8,17 +8,9 @@
   "price": 129.14,
   "market_cap_cr": 11484.42,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 121.63,
-      "prev_close": 118.59,
-      "volume": 5657344,
-      "deliverable_qty": 2120289,
-      "delivery_pct": 37.48
-    },
     {
       "date": "2026-03-06",
       "close": 121.76,
@@ -434,6 +426,14 @@
       "volume": 4330386,
       "deliverable_qty": 1760343,
       "delivery_pct": 40.65
+    },
+    {
+      "date": "2026-06-04",
+      "close": 124.07,
+      "prev_close": 123.28,
+      "volume": 10891971,
+      "deliverable_qty": 2678775,
+      "delivery_pct": 24.59
     }
   ],
   "news": [
@@ -639,13 +639,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Indian Energy Exchange Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IEX_09032026170209_Signed_IEX_Analsyt_Meet_09_03_2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 08:00:16",
-      "an_dt": "05-Mar-2026 08:00:16",
-      "desc": "Press Release",
-      "sm_name": "Indian Energy Exchange Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IEX_05032026080005_IEX_Media_Release_Power_Market_Update_Feb26_Signed.pdf"
     }
   ]
 }

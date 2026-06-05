@@ -8,17 +8,9 @@
   "price": 244.87,
   "market_cap_cr": 1337.73,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 225.12,
-      "prev_close": 226.46,
-      "volume": 71022,
-      "deliverable_qty": 59805,
-      "delivery_pct": 84.21
-    },
     {
       "date": "2026-03-06",
       "close": 225.15,
@@ -434,6 +426,14 @@
       "volume": 103403,
       "deliverable_qty": 75563,
       "delivery_pct": 73.08
+    },
+    {
+      "date": "2026-06-04",
+      "close": 233.98,
+      "prev_close": 232.71,
+      "volume": 153975,
+      "deliverable_qty": 100431,
+      "delivery_pct": 65.23
     }
   ],
   "news": [
@@ -534,20 +534,6 @@
       "desc": "Investor Presentation",
       "sm_name": "Ivalue Infosolutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IVALUE927_10032026163336_Investor_presentation.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 16:16:07",
-      "an_dt": "05-Mar-2026 16:16:07",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Ivalue Infosolutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IVALUE927_05032026161555_Investors_Meet_March_10_2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 12:42:56",
-      "an_dt": "05-Mar-2026 12:42:56",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Ivalue Infosolutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IVALUE927_05032026124247_Investors_Meet_-_Video_Recording.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 87.79,
   "market_cap_cr": 1079.96,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 85.72,
-      "prev_close": 84.04,
-      "volume": 78890,
-      "deliverable_qty": 32512,
-      "delivery_pct": 41.21
-    },
     {
       "date": "2026-03-06",
       "close": 83.36,
@@ -434,6 +426,14 @@
       "volume": 94066,
       "deliverable_qty": 18984,
       "delivery_pct": 20.18
+    },
+    {
+      "date": "2026-06-04",
+      "close": 81.59,
+      "prev_close": 81.13,
+      "volume": 110565,
+      "deliverable_qty": 18109,
+      "delivery_pct": 16.38
     }
   ],
   "news": [
@@ -527,13 +527,6 @@
       "desc": "Trading Window",
       "sm_name": "Master Trust Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASTERTRUSTNSE_24032026120736_Trading_Window_Closure.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 15:31:57",
-      "an_dt": "05-Mar-2026 15:31:57",
-      "desc": "Updates",
-      "sm_name": "Master Trust Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MASTERTRUSTNSE_05032026152921_MCSL_05032026_NCD.pdf"
     }
   ]
 }

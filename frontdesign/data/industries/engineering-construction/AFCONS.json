@@ -8,17 +8,9 @@
   "price": 326.65,
   "market_cap_cr": 12013.69,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 284.75,
-      "prev_close": 279.3,
-      "volume": 311731,
-      "deliverable_qty": 150066,
-      "delivery_pct": 48.14
-    },
     {
       "date": "2026-03-06",
       "close": 283.05,
@@ -434,9 +426,24 @@
       "volume": 266939,
       "deliverable_qty": 86391,
       "delivery_pct": 32.36
+    },
+    {
+      "date": "2026-06-04",
+      "close": 326.3,
+      "prev_close": 323.7,
+      "volume": 165710,
+      "deliverable_qty": 44725,
+      "delivery_pct": 26.99
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 16:11:08",
+      "an_dt": "04-Jun-2026 16:11:08",
+      "desc": "Issue of Securities",
+      "sm_name": "Afcons Infrastructure Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_04062026161059_Afcons_Intimation_of_IssuanceofCP25Crs.pdf"
+    },
     {
       "sort_date": "2026-06-02 12:33:11",
       "an_dt": "02-Jun-2026 12:33:11",
@@ -653,20 +660,6 @@
       "desc": "Updates",
       "sm_name": "Afcons Infrastructure Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_12032026164648_Afcons_Intimation_of_RecorddateofCP.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 12:16:09",
-      "an_dt": "05-Mar-2026 12:16:09",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Afcons Infrastructure Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_05032026121541_Afcons_Intimation_Analystmeet05032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 12:05:44",
-      "an_dt": "05-Mar-2026 12:05:44",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Afcons Infrastructure Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFCONS_05032026120520_Afcons_newspaper_publicantion_of_postla_ballot05032026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 293.5,
   "market_cap_cr": 4832.11,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 300.95,
-      "prev_close": 300.9,
-      "volume": 284382,
-      "deliverable_qty": 163171,
-      "delivery_pct": 57.38
-    },
     {
       "date": "2026-03-06",
       "close": 300.85,
@@ -434,9 +426,24 @@
       "volume": 269189,
       "deliverable_qty": 139526,
       "delivery_pct": 51.83
+    },
+    {
+      "date": "2026-06-04",
+      "close": 305.1,
+      "prev_close": 304.65,
+      "volume": 233021,
+      "deliverable_qty": 127979,
+      "delivery_pct": 54.92
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 12:00:55",
+      "an_dt": "04-Jun-2026 12:00:55",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "CMS Info Systems Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CMSINFO_04062026120021_IntimationofInstitutionalInvestorGroupMeeting.pdf"
+    },
     {
       "sort_date": "2026-06-03 12:44:30",
       "an_dt": "03-Jun-2026 12:44:30",
@@ -583,13 +590,6 @@
       "desc": "Updates",
       "sm_name": "CMS Info Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CMSINFO_09032026202834_SecurensWOSSEIntimationsd.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 19:03:19",
-      "an_dt": "05-Mar-2026 19:03:19",
-      "desc": "General Updates",
-      "sm_name": "CMS Info Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CMSINFO_05032026190249_ESOPAllotmentMarch2026final.pdf"
     }
   ]
 }

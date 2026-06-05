@@ -8,17 +8,9 @@
   "price": 251.6,
   "market_cap_cr": 9515.05,
   "industry_source": "webarchive",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 213.59,
-      "prev_close": 200.88,
-      "volume": 9859905,
-      "deliverable_qty": 4213774,
-      "delivery_pct": 42.74
-    },
     {
       "date": "2026-03-06",
       "close": 217.8,
@@ -434,9 +426,24 @@
       "volume": 2909567,
       "deliverable_qty": 1241698,
       "delivery_pct": 42.68
+    },
+    {
+      "date": "2026-06-04",
+      "close": 262.9,
+      "prev_close": 267.6,
+      "volume": 1391190,
+      "deliverable_qty": 670454,
+      "delivery_pct": 48.19
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 15:35:12",
+      "an_dt": "04-Jun-2026 15:35:12",
+      "desc": "General Updates",
+      "sm_name": "The Karnataka Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KTKBANK_04062026153422_newspaperadsd.pdf"
+    },
     {
       "sort_date": "2026-06-03 17:30:32",
       "an_dt": "03-Jun-2026 17:30:32",
@@ -688,13 +695,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "The Karnataka Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KTKBANK_06032026202923_PBRFinalsd.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 15:55:37",
-      "an_dt": "05-Mar-2026 15:55:37",
-      "desc": "General Updates",
-      "sm_name": "The Karnataka Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KTKBANK_05032026155519_SE_IntimationSD.pdf"
     }
   ]
 }

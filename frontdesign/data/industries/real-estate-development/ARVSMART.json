@@ -8,17 +8,9 @@
   "price": 626.1,
   "market_cap_cr": 2871.73,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 510.0,
-      "prev_close": 509.3,
-      "volume": 17384,
-      "deliverable_qty": 10945,
-      "delivery_pct": 62.96
-    },
     {
       "date": "2026-03-06",
       "close": 507.8,
@@ -434,6 +426,14 @@
       "volume": 11878,
       "deliverable_qty": 6984,
       "delivery_pct": 58.8
+    },
+    {
+      "date": "2026-06-04",
+      "close": 584.4,
+      "prev_close": 586.1,
+      "volume": 27577,
+      "deliverable_qty": 7649,
+      "delivery_pct": 27.74
     }
   ],
   "news": [
@@ -632,13 +632,6 @@
       "desc": "Press Release",
       "sm_name": "Arvind SmartSpaces Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_10032026172525_MediaRelease10032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 17:11:15",
-      "an_dt": "05-Mar-2026 17:11:15",
-      "desc": "Updates",
-      "sm_name": "Arvind SmartSpaces Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/539301_05032026171054_SE_-_Clarification_regarding_exercise_price.pdf"
     }
   ]
 }

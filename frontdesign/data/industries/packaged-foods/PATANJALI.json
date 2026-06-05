@@ -8,17 +8,9 @@
   "price": 454.1,
   "market_cap_cr": 49410.81,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 499.8,
-      "prev_close": 503.4,
-      "volume": 2250312,
-      "deliverable_qty": 1200913,
-      "delivery_pct": 53.37
-    },
     {
       "date": "2026-03-06",
       "close": 500.55,
@@ -434,6 +426,14 @@
       "volume": 6827656,
       "deliverable_qty": 2354876,
       "delivery_pct": 34.49
+    },
+    {
+      "date": "2026-06-04",
+      "close": 427.25,
+      "prev_close": 441.65,
+      "volume": 5421306,
+      "deliverable_qty": 1883474,
+      "delivery_pct": 34.74
     }
   ],
   "news": [
@@ -569,13 +569,6 @@
       "desc": "General Updates",
       "sm_name": "Patanjali Foods Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RUCHI_09032026163724_Letter.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 16:43:37",
-      "an_dt": "05-Mar-2026 16:43:37",
-      "desc": "General Updates",
-      "sm_name": "Patanjali Foods Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RUCHI_05032026164315_Letter.pdf"
     }
   ]
 }

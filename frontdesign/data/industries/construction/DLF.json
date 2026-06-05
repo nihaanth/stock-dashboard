@@ -8,17 +8,9 @@
   "price": 590.25,
   "market_cap_cr": 146105.26,
   "industry_source": "webarchive",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 585.15,
-      "prev_close": 569.05,
-      "volume": 7827655,
-      "deliverable_qty": 4980820,
-      "delivery_pct": 63.63
-    },
     {
       "date": "2026-03-06",
       "close": 577.55,
@@ -434,6 +426,14 @@
       "volume": 3682605,
       "deliverable_qty": 1465037,
       "delivery_pct": 39.78
+    },
+    {
+      "date": "2026-06-04",
+      "close": 577.8,
+      "prev_close": 581.55,
+      "volume": 5027572,
+      "deliverable_qty": 2993739,
+      "delivery_pct": 59.55
     }
   ],
   "news": [
@@ -548,13 +548,6 @@
       "desc": "General Updates",
       "sm_name": "DLF Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DLF_30032026182323_Letter.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 12:29:24",
-      "an_dt": "05-Mar-2026 12:29:24",
-      "desc": "News Verification",
-      "sm_name": "DLF Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/sviswanathan_05032026122808_DLF_04032026195500_Letter.pdf"
     }
   ]
 }

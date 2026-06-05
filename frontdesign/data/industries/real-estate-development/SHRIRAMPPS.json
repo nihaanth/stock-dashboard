@@ -8,17 +8,9 @@
   "price": 92.54,
   "market_cap_cr": 1579.24,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 76.48,
-      "prev_close": 75.41,
-      "volume": 227008,
-      "deliverable_qty": 127258,
-      "delivery_pct": 56.06
-    },
     {
       "date": "2026-03-06",
       "close": 75.27,
@@ -434,9 +426,24 @@
       "volume": 1252828,
       "deliverable_qty": 499587,
       "delivery_pct": 39.88
+    },
+    {
+      "date": "2026-06-04",
+      "close": 88.47,
+      "prev_close": 89.77,
+      "volume": 1225315,
+      "deliverable_qty": 567505,
+      "delivery_pct": 46.32
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 11:13:56",
+      "an_dt": "04-Jun-2026 11:13:56",
+      "desc": "Updates",
+      "sm_name": "Shriram Properties Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHRIRAMPPS_04062026111347_SE_Intimation_7_2_PIT_Regulation.pdf"
+    },
     {
       "sort_date": "2026-05-30 17:46:38",
       "an_dt": "30-May-2026 17:46:38",

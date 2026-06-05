@@ -8,17 +8,9 @@
   "price": 293.85,
   "market_cap_cr": 1319.67,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 289.6,
-      "prev_close": 288.55,
-      "volume": 77353,
-      "deliverable_qty": 32176,
-      "delivery_pct": 41.6
-    },
     {
       "date": "2026-03-06",
       "close": 285.5,
@@ -434,6 +426,14 @@
       "volume": 249922,
       "deliverable_qty": 96963,
       "delivery_pct": 38.8
+    },
+    {
+      "date": "2026-06-04",
+      "close": 369.2,
+      "prev_close": 352.7,
+      "volume": 1091092,
+      "deliverable_qty": 389734,
+      "delivery_pct": 35.72
     }
   ],
   "news": [
@@ -583,20 +583,6 @@
       "desc": "Updates",
       "sm_name": "Asian Energy Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASIANENE_16032026164048_AESLIntimationforVedantaSuvaliExtension_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 19:43:29",
-      "an_dt": "05-Mar-2026 19:43:29",
-      "desc": "General Updates",
-      "sm_name": "Asian Energy Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASIANENE_05032026194123_NSEObservationLetter_5thMarch2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 14:47:39",
-      "an_dt": "05-Mar-2026 14:47:39",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Asian Energy Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASIANENE_05032026144635_SE_Intimation_of_Investor_meet_signed.pdf"
     }
   ]
 }

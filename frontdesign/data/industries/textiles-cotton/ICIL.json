@@ -8,17 +8,9 @@
   "price": 243.29,
   "market_cap_cr": 4818.46,
   "industry_source": "webarchive",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 260.25,
-      "prev_close": 247.8,
-      "volume": 332029,
-      "deliverable_qty": 135391,
-      "delivery_pct": 40.78
-    },
     {
       "date": "2026-03-06",
       "close": 261.1,
@@ -434,6 +426,14 @@
       "volume": 1037221,
       "deliverable_qty": 316148,
       "delivery_pct": 30.48
+    },
+    {
+      "date": "2026-06-04",
+      "close": 333.1,
+      "prev_close": 344.65,
+      "volume": 427920,
+      "deliverable_qty": 166111,
+      "delivery_pct": 38.82
     }
   ],
   "news": [
@@ -548,13 +548,6 @@
       "desc": "Action(s) initiated or orders passed",
       "sm_name": "Indo Count Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICIL_11032026180052_Stockexchangeintimation.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 11:29:06",
-      "an_dt": "05-Mar-2026 11:29:06",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Indo Count Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ICIL_05032026112851_InvestorCall.pdf"
     }
   ]
 }

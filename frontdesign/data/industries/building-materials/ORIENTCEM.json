@@ -8,17 +8,9 @@
   "price": 137.84,
   "market_cap_cr": 2832.06,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 148.12,
-      "prev_close": 146.82,
-      "volume": 613865,
-      "deliverable_qty": 250952,
-      "delivery_pct": 40.88
-    },
     {
       "date": "2026-03-06",
       "close": 145.38,
@@ -434,9 +426,31 @@
       "volume": 194306,
       "deliverable_qty": 111670,
       "delivery_pct": 57.47
+    },
+    {
+      "date": "2026-06-04",
+      "close": 134.51,
+      "prev_close": 135.11,
+      "volume": 101088,
+      "deliverable_qty": 64478,
+      "delivery_pct": 63.78
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 19:42:45",
+      "an_dt": "04-Jun-2026 19:42:45",
+      "desc": "Amalgamation/Merger",
+      "sm_name": "Orient Cement Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORIENTCEM_04062026193509_OCL_NOC_Intimation.pdf"
+    },
+    {
+      "sort_date": "2026-06-04 14:35:02",
+      "an_dt": "04-Jun-2026 14:35:02",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Orient Cement Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORIENTCEM_04062026143441_OCL_IEPF_Np_intimation_Covering_signed.pdf"
+    },
     {
       "sort_date": "2026-06-03 18:44:30",
       "an_dt": "03-Jun-2026 18:44:30",

@@ -8,17 +8,9 @@
   "price": 1115.3,
   "market_cap_cr": 45314.11,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 1081.0,
-      "prev_close": 1066.4,
-      "volume": 315551,
-      "deliverable_qty": 170363,
-      "delivery_pct": 53.99
-    },
     {
       "date": "2026-03-06",
       "close": 1064.2,
@@ -434,6 +426,14 @@
       "volume": 765530,
       "deliverable_qty": 439575,
       "delivery_pct": 57.42
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1071.8,
+      "prev_close": 1072.5,
+      "volume": 2527568,
+      "deliverable_qty": 1858208,
+      "delivery_pct": 73.52
     }
   ],
   "news": [
@@ -702,27 +702,6 @@
       "desc": "Disclosure under SEBI Takeover Regulations",
       "sm_name": "360 ONE WAM LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_16032026111831_disc4.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 18:16:10",
-      "an_dt": "05-Mar-2026 18:16:10",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "360 ONE WAM LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFLWAM_05032026180529_20260305_IntimationInvestorConference_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 18:16:10",
-      "an_dt": "05-Mar-2026 18:16:10",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "360 ONE WAM LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFLWAM_05032026180437_20260305_IntimationInvestorConference_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 18:16:10",
-      "an_dt": "05-Mar-2026 18:16:10",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "360 ONE WAM LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFLWAM_05032026180310_20260305_IntimationInvestorConference_signed.pdf"
     }
   ]
 }

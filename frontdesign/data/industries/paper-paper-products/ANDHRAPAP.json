@@ -8,17 +8,9 @@
   "price": 67.21,
   "market_cap_cr": 1336.47,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 65.63,
-      "prev_close": 66.09,
-      "volume": 79626,
-      "deliverable_qty": 57442,
-      "delivery_pct": 72.14
-    },
     {
       "date": "2026-03-06",
       "close": 65.85,
@@ -434,9 +426,24 @@
       "volume": 65547,
       "deliverable_qty": 45943,
       "delivery_pct": 70.09
+    },
+    {
+      "date": "2026-06-04",
+      "close": 61.55,
+      "prev_close": 62.32,
+      "volume": 77041,
+      "deliverable_qty": 54395,
+      "delivery_pct": 70.61
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 18:14:04",
+      "an_dt": "04-Jun-2026 18:14:04",
+      "desc": "Disruption of Operations",
+      "sm_name": "ANDHRA PAPER LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANDHRAPAP_04062026181349_Intimationofdisruptionsofoperations.pdf"
+    },
     {
       "sort_date": "2026-05-30 19:14:48",
       "an_dt": "30-May-2026 19:14:48",

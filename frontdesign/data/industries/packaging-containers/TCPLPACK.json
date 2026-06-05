@@ -8,17 +8,9 @@
   "price": 2797.4,
   "market_cap_cr": 2540.29,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 2576.5,
-      "prev_close": 2551.5,
-      "volume": 2266,
-      "deliverable_qty": 1385,
-      "delivery_pct": 61.12
-    },
     {
       "date": "2026-03-06",
       "close": 2568.2,
@@ -434,6 +426,14 @@
       "volume": 982,
       "deliverable_qty": 474,
       "delivery_pct": 48.27
+    },
+    {
+      "date": "2026-06-04",
+      "close": 2610.0,
+      "prev_close": 2524.8,
+      "volume": 1371,
+      "deliverable_qty": 762,
+      "delivery_pct": 55.58
     }
   ],
   "news": [
@@ -534,13 +534,6 @@
       "desc": "General Updates",
       "sm_name": "TCPL Packaging Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TCPLPACK_09032026160840_Clean_Max.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 15:26:29",
-      "an_dt": "05-Mar-2026 15:26:29",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "TCPL Packaging Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TCPLPACK_05032026151937_Re-lodgement.pdf"
     }
   ]
 }

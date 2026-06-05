@@ -8,17 +8,9 @@
   "price": 1229.1,
   "market_cap_cr": 14390.2,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 829.2,
-      "prev_close": 857.5,
-      "volume": 972714,
-      "deliverable_qty": 372689,
-      "delivery_pct": 38.31
-    },
     {
       "date": "2026-03-06",
       "close": 882.7,
@@ -434,6 +426,14 @@
       "volume": 146625,
       "deliverable_qty": 65174,
       "delivery_pct": 44.45
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1170.7,
+      "prev_close": 1157.7,
+      "volume": 300927,
+      "deliverable_qty": 196174,
+      "delivery_pct": 65.19
     }
   ],
   "news": [
@@ -891,13 +891,6 @@
       "desc": "Agreements",
       "sm_name": "Clean Max Enviro Energy Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CLEANMAX_09032026235136_Intimation_Hana_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 13:39:15",
-      "an_dt": "05-Mar-2026 13:39:15",
-      "desc": "Updates",
-      "sm_name": "Clean Max Enviro Energy Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CLEANMAX_05032026133532_Intimation-Contact_details_of_KMP_of_the_Company_authorised_under_30_5_.pdf"
     }
   ]
 }

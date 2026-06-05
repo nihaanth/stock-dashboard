@@ -8,17 +8,9 @@
   "price": 230.81,
   "market_cap_cr": 4114.09,
   "industry_source": "webarchive",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 216.54,
-      "prev_close": 213.13,
-      "volume": 21516,
-      "deliverable_qty": 12052,
-      "delivery_pct": 56.01
-    },
     {
       "date": "2026-03-06",
       "close": 212.4,
@@ -434,6 +426,14 @@
       "volume": 38707,
       "deliverable_qty": 22247,
       "delivery_pct": 57.48
+    },
+    {
+      "date": "2026-06-04",
+      "close": 204.13,
+      "prev_close": 205.3,
+      "volume": 52446,
+      "deliverable_qty": 30857,
+      "delivery_pct": 58.84
     }
   ],
   "news": [
@@ -527,13 +527,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "D.B.Corp Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DBCORP_16032026184740_SEintimation_Reg30_ESOP_Allotment_March26.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 14:12:29",
-      "an_dt": "05-Mar-2026 14:12:29",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "D.B.Corp Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DBCORP_05032026140234_SignedIntimationDBCorp_changes.pdf"
     }
   ]
 }

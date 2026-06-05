@@ -8,17 +8,9 @@
   "price": 56.93,
   "market_cap_cr": 1891.45,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 29.18,
-      "prev_close": 30.2,
-      "volume": 608500,
-      "deliverable_qty": 319749,
-      "delivery_pct": 52.55
-    },
     {
       "date": "2026-03-06",
       "close": 29.73,
@@ -434,9 +426,38 @@
       "volume": 13245255,
       "deliverable_qty": 5481436,
       "delivery_pct": 41.38
+    },
+    {
+      "date": "2026-06-04",
+      "close": 76.89,
+      "prev_close": 76.79,
+      "volume": 7910840,
+      "deliverable_qty": 2934718,
+      "delivery_pct": 37.1
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 19:52:48",
+      "an_dt": "04-Jun-2026 19:52:48",
+      "desc": "General Updates",
+      "sm_name": "Confidence Petroleum India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CONFIPET_04062026195207_CPIL-CHANGE_IN_COMMITTEE.pdf"
+    },
+    {
+      "sort_date": "2026-06-04 14:15:12",
+      "an_dt": "04-Jun-2026 14:15:12",
+      "desc": "Change in Director(s)",
+      "sm_name": "Confidence Petroleum India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CONFIPET_04062026141447_CPIL_RESIGNATION-KETKI.pdf"
+    },
+    {
+      "sort_date": "2026-06-04 12:15:31",
+      "an_dt": "04-Jun-2026 12:15:31",
+      "desc": "General Updates",
+      "sm_name": "Confidence Petroleum India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CONFIPET_04062026121520_CPIL-DISCLSOURE-04062026.pdf"
+    },
     {
       "sort_date": "2026-05-30 22:15:02",
       "an_dt": "30-May-2026 22:15:02",

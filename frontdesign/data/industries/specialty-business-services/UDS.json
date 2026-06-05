@@ -8,17 +8,9 @@
   "price": 173.13,
   "market_cap_cr": 1169.25,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 154.03,
-      "prev_close": 151.1,
-      "volume": 156956,
-      "deliverable_qty": 87839,
-      "delivery_pct": 55.96
-    },
     {
       "date": "2026-03-06",
       "close": 152.59,
@@ -434,9 +426,24 @@
       "volume": 255158,
       "deliverable_qty": 148732,
       "delivery_pct": 58.29
+    },
+    {
+      "date": "2026-06-04",
+      "close": 183.11,
+      "prev_close": 181.17,
+      "volume": 197135,
+      "deliverable_qty": 123250,
+      "delivery_pct": 62.52
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 18:53:21",
+      "an_dt": "04-Jun-2026 18:53:21",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Updater Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COMPLIANCEOFFICERUDS_04062026185307_Earnings_Call_Transcripts_Intimation_Sd.pdf"
+    },
     {
       "sort_date": "2026-06-02 15:39:32",
       "an_dt": "02-Jun-2026 15:39:32",
@@ -548,13 +555,6 @@
       "desc": "Change in Management",
       "sm_name": "Updater Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/COMPLIANCEOFFICERUDS_16032026163621_Changeinmanagement_F_sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 18:41:45",
-      "an_dt": "05-Mar-2026 18:41:45",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Updater Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/COMPLIANCEOFFICERUDS_05032026184043_Reg_30_6__Investor_Summit_Intimation_Arihant_Sd.pdf"
     }
   ]
 }

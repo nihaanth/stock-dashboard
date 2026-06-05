@@ -8,17 +8,9 @@
   "price": 1003.8,
   "market_cap_cr": 45301.14,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 720.1,
-      "prev_close": 706.2,
-      "volume": 1135214,
-      "deliverable_qty": 320579,
-      "delivery_pct": 28.24
-    },
     {
       "date": "2026-03-06",
       "close": 723.65,
@@ -434,9 +426,38 @@
       "volume": 2316777,
       "deliverable_qty": 858418,
       "delivery_pct": 37.05
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1077.8,
+      "prev_close": 1089.0,
+      "volume": 1366622,
+      "deliverable_qty": 529631,
+      "delivery_pct": 38.75
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 16:52:42",
+      "an_dt": "04-Jun-2026 16:52:42",
+      "desc": "Press Release",
+      "sm_name": "Premier Energies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PEL2024_04062026165228_PR_Release__Wood_Mackenzie_signed.pdf"
+    },
+    {
+      "sort_date": "2026-06-04 16:39:42",
+      "an_dt": "04-Jun-2026 16:39:42",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Premier Energies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PEL2024_04062026163921_investor_meet_04062026_signed.pdf"
+    },
+    {
+      "sort_date": "2026-06-04 16:37:55",
+      "an_dt": "04-Jun-2026 16:37:55",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Premier Energies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PEL2024_04062026163703_investor_meet_04062026_signed.pdf"
+    },
     {
       "sort_date": "2026-06-03 12:56:13",
       "an_dt": "03-Jun-2026 12:56:13",

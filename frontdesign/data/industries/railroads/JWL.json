@@ -8,17 +8,9 @@
   "price": 290.25,
   "market_cap_cr": 12404.43,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 254.8,
-      "prev_close": 248.85,
-      "volume": 1601156,
-      "deliverable_qty": 454688,
-      "delivery_pct": 28.4
-    },
     {
       "date": "2026-03-06",
       "close": 298.6,
@@ -434,9 +426,24 @@
       "volume": 1164518,
       "deliverable_qty": 259401,
       "delivery_pct": 22.28
+    },
+    {
+      "date": "2026-06-04",
+      "close": 279.85,
+      "prev_close": 280.35,
+      "volume": 1194218,
+      "deliverable_qty": 284969,
+      "delivery_pct": 23.86
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 17:54:43",
+      "an_dt": "04-Jun-2026 17:54:43",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Jupiter Wagons Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CEBBCO_04062026175432_SETRANSCRIPT04062026.pdf"
+    },
     {
       "sort_date": "2026-06-01 17:47:29",
       "an_dt": "01-Jun-2026 17:47:29",
@@ -569,13 +576,6 @@
       "desc": "Updates",
       "sm_name": "Jupiter Wagons Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CEBBCO_09032026121534_SEintimation.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 18:14:45",
-      "an_dt": "05-Mar-2026 18:14:45",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Jupiter Wagons Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CEBBCO_05032026181434_InvestorMeetntimation05032026.pdf"
     }
   ]
 }

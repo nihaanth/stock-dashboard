@@ -8,17 +8,9 @@
   "price": 255.03,
   "market_cap_cr": 759.51,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 249.35,
-      "prev_close": 249.8,
-      "volume": 53035,
-      "deliverable_qty": 23406,
-      "delivery_pct": 44.13
-    },
     {
       "date": "2026-03-06",
       "close": 247.4,
@@ -434,6 +426,14 @@
       "volume": 32282,
       "deliverable_qty": 14815,
       "delivery_pct": 45.89
+    },
+    {
+      "date": "2026-06-04",
+      "close": 254.7,
+      "prev_close": 257.25,
+      "volume": 24186,
+      "deliverable_qty": 11867,
+      "delivery_pct": 49.07
     }
   ],
   "news": [
@@ -702,20 +702,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "ZUARI INDUSTRIES LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZUARIGLOB_06032026121318_ZILNewspaperAdvt.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 13:58:34",
-      "an_dt": "05-Mar-2026 13:58:34",
-      "desc": "Shareholders meeting",
-      "sm_name": "ZUARI INDUSTRIES LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZUARIGLOB_05032026135825_Notice_of_Postal_Ballot.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 11:34:27",
-      "an_dt": "05-Mar-2026 11:34:27",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "ZUARI INDUSTRIES LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZUARIGLOB_05032026113409_Intimation_Investor_meet.pdf"
     }
   ]
 }

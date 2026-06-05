@@ -8,17 +8,9 @@
   "price": 374.9,
   "market_cap_cr": 6127.75,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 398.85,
-      "prev_close": 396.45,
-      "volume": 28192,
-      "deliverable_qty": 17928,
-      "delivery_pct": 63.59
-    },
     {
       "date": "2026-03-06",
       "close": 390.4,
@@ -434,6 +426,14 @@
       "volume": 67729,
       "deliverable_qty": 37834,
       "delivery_pct": 55.86
+    },
+    {
+      "date": "2026-06-04",
+      "close": 440.9,
+      "prev_close": 450.1,
+      "volume": 41825,
+      "deliverable_qty": 8911,
+      "delivery_pct": 21.31
     }
   ],
   "news": [
@@ -618,13 +618,6 @@
       "desc": "Press Release",
       "sm_name": "Max Estates Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEL_07032026124613_07032026PressReleaseMaxOne.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 14:41:41",
-      "an_dt": "05-Mar-2026 14:41:41",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Max Estates Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEL_05032026143857_20260305InvestorCall.pdf"
     }
   ]
 }

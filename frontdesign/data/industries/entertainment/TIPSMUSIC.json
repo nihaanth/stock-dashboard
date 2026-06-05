@@ -8,17 +8,9 @@
   "price": 655.75,
   "market_cap_cr": 8382.56,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 514.1,
-      "prev_close": 512.65,
-      "volume": 94938,
-      "deliverable_qty": 47161,
-      "delivery_pct": 49.68
-    },
     {
       "date": "2026-03-06",
       "close": 510.35,
@@ -434,9 +426,24 @@
       "volume": 116411,
       "deliverable_qty": 49625,
       "delivery_pct": 42.63
+    },
+    {
+      "date": "2026-06-04",
+      "close": 672.1,
+      "prev_close": 659.85,
+      "volume": 70229,
+      "deliverable_qty": 36502,
+      "delivery_pct": 51.98
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 15:01:14",
+      "an_dt": "04-Jun-2026 15:01:14",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Tips Music Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIPSINDLTD_04062026145211_TIPSMUSICiepfadP.pdf"
+    },
     {
       "sort_date": "2026-05-29 15:08:29",
       "an_dt": "29-May-2026 15:08:29",
@@ -576,13 +583,6 @@
       "desc": "Resignation",
       "sm_name": "Tips Music Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIPSINDLTD_10032026164201_TIPSMUSICCEOResignationP.pdf"
-    },
-    {
-      "sort_date": "2026-03-05 10:23:58",
-      "an_dt": "05-Mar-2026 10:23:58",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Tips Music Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIPSINDLTD_05032026100932_TIPSMUSICpA.pdf"
     }
   ]
 }

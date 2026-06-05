@@ -8,17 +8,9 @@
   "price": 846.65,
   "market_cap_cr": 22059.43,
   "industry_source": "yfinance",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 790.65,
-      "prev_close": 783.15,
-      "volume": 860503,
-      "deliverable_qty": 435749,
-      "delivery_pct": 50.64
-    },
     {
       "date": "2026-03-06",
       "close": 772.95,
@@ -434,9 +426,31 @@
       "volume": 608418,
       "deliverable_qty": 218223,
       "delivery_pct": 35.87
+    },
+    {
+      "date": "2026-06-04",
+      "close": 999.4,
+      "prev_close": 993.0,
+      "volume": 731869,
+      "deliverable_qty": 413956,
+      "delivery_pct": 56.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 18:44:16",
+      "an_dt": "04-Jun-2026 18:44:16",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "PNB Housing Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNBHOUSING_04062026184353_OutcomeJune042026.pdf"
+    },
+    {
+      "sort_date": "2026-06-04 14:49:43",
+      "an_dt": "04-Jun-2026 14:49:43",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "PNB Housing Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNBHOUSING_04062026144715_SEgrantOfESOPandRSU4Jun2026.pdf"
+    },
     {
       "sort_date": "2026-06-03 18:04:40",
       "an_dt": "03-Jun-2026 18:04:40",

@@ -8,17 +8,9 @@
   "price": 1650.2,
   "market_cap_cr": 1806.44,
   "industry_source": "webarchive",
-  "as_of": "2026-06-03",
+  "as_of": "2026-06-04",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-05",
-      "close": 1580.3,
-      "prev_close": 1569.2,
-      "volume": 3629,
-      "deliverable_qty": 1897,
-      "delivery_pct": 52.27
-    },
     {
       "date": "2026-03-06",
       "close": 1637.3,
@@ -434,9 +426,24 @@
       "volume": 2237,
       "deliverable_qty": 1202,
       "delivery_pct": 53.73
+    },
+    {
+      "date": "2026-06-04",
+      "close": 1519.6,
+      "prev_close": 1537.9,
+      "volume": 2441,
+      "deliverable_qty": 1613,
+      "delivery_pct": 66.08
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-04 13:00:37",
+      "an_dt": "04-Jun-2026 13:00:37",
+      "desc": "Reply to Clarification- Financial results",
+      "sm_name": "Summit Securities Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUMMITSEC_18052026182613_ClarificationLettertoNSE.pdf"
+    },
     {
       "sort_date": "2026-05-27 18:02:20",
       "an_dt": "27-May-2026 18:02:20",
