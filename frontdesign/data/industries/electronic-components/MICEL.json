@@ -8,17 +8,9 @@
   "price": 52.32,
   "market_cap_cr": 1260.97,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 34.57,
-      "prev_close": 34.68,
-      "volume": 560140,
-      "deliverable_qty": 287922,
-      "delivery_pct": 51.4
-    },
     {
       "date": "2026-03-09",
       "close": 33.23,
@@ -434,9 +426,24 @@
       "volume": 1651876,
       "deliverable_qty": 971430,
       "delivery_pct": 58.81
+    },
+    {
+      "date": "2026-06-05",
+      "close": 43.32,
+      "prev_close": 43.99,
+      "volume": 2037481,
+      "deliverable_qty": 1551351,
+      "delivery_pct": 76.14
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 12:39:49",
+      "an_dt": "05-Jun-2026 12:39:49",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "MIC Electronics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_03062026161804_MICEL.pdf"
+    },
     {
       "sort_date": "2026-05-08 10:21:12",
       "an_dt": "08-May-2026 10:21:12",

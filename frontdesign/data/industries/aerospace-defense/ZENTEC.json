@@ -8,17 +8,9 @@
   "price": 1636.8,
   "market_cap_cr": 14720.11,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1426.8,
-      "prev_close": 1405.1,
-      "volume": 544612,
-      "deliverable_qty": 172203,
-      "delivery_pct": 31.62
-    },
     {
       "date": "2026-03-09",
       "close": 1440.7,
@@ -434,9 +426,24 @@
       "volume": 5928324,
       "deliverable_qty": 1097212,
       "delivery_pct": 18.51
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1815.3,
+      "prev_close": 1809.8,
+      "volume": 1598541,
+      "deliverable_qty": 383073,
+      "delivery_pct": 23.96
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 10:51:58",
+      "an_dt": "05-Jun-2026 10:51:58",
+      "desc": "Spurt in Volume",
+      "sm_name": "Zen Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZENTEC_05062026104957_Reply_Letter_05062026.pdf"
+    },
     {
       "sort_date": "2026-06-04 18:19:15",
       "an_dt": "04-Jun-2026 18:19:15",

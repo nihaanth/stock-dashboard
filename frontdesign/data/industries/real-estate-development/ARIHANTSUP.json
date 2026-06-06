@@ -8,17 +8,9 @@
   "price": 267.5,
   "market_cap_cr": 1156.94,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 252.05,
-      "prev_close": 246.9,
-      "volume": 14818,
-      "deliverable_qty": 7605,
-      "delivery_pct": 51.32
-    },
     {
       "date": "2026-03-09",
       "close": 236.65,
@@ -434,6 +426,14 @@
       "volume": 31971,
       "deliverable_qty": 18129,
       "delivery_pct": 56.7
+    },
+    {
+      "date": "2026-06-05",
+      "close": 260.05,
+      "prev_close": 265.3,
+      "volume": 54691,
+      "deliverable_qty": 31227,
+      "delivery_pct": 57.1
     }
   ],
   "news": [
@@ -496,7 +496,7 @@
     {
       "sort_date": "2026-05-15 17:28:49",
       "an_dt": "15-May-2026 17:28:49",
-      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
+      "desc": "Registrar &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Share Transfer Agent Update",
       "sm_name": "Arihant Superstructures Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARIHANTSUP_15052026172834_ASL_Intimation_Continuation_with_Existing_RTA.pdf"
     },
@@ -625,13 +625,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Arihant Superstructures Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARIHANTSUP_17032026163021_ASL_Intimation_Investor_Meet_23032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 15:09:22",
-      "an_dt": "06-Mar-2026 15:09:22",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Arihant Superstructures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARIHANTSUP_06032026150912_ASL_Intimation_Investor_Meet_11032026.pdf"
     }
   ]
 }

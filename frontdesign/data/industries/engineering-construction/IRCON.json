@@ -8,17 +8,9 @@
   "price": 152.31,
   "market_cap_cr": 14324.99,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 146.95,
-      "prev_close": 133.66,
-      "volume": 67115792,
-      "deliverable_qty": 3113344,
-      "delivery_pct": 4.64
-    },
     {
       "date": "2026-03-09",
       "close": 138.89,
@@ -434,6 +426,14 @@
       "volume": 2571730,
       "deliverable_qty": 567441,
       "delivery_pct": 22.06
+    },
+    {
+      "date": "2026-06-05",
+      "close": 136.56,
+      "prev_close": 135.89,
+      "volume": 1683743,
+      "deliverable_qty": 401334,
+      "delivery_pct": 23.84
     }
   ],
   "news": [
@@ -548,20 +548,6 @@
       "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
       "sm_name": "Ircon International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCON_17032026171732_STEXINTIMATION17032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 14:14:42",
-      "an_dt": "06-Mar-2026 14:14:42",
-      "desc": "News Verification",
-      "sm_name": "Ircon International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRCON_06032026141427_STXCLARIFICATION.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 12:30:05",
-      "an_dt": "06-Mar-2026 12:30:05",
-      "desc": "News Verification",
-      "sm_name": "Ircon International Limited",
-      "attchmntFile": "-"
     }
   ]
 }

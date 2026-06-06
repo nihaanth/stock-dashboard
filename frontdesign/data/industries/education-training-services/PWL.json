@@ -8,17 +8,9 @@
   "price": 100.78,
   "market_cap_cr": 28819.98,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 82.99,
-      "prev_close": 82.68,
-      "volume": 11032603,
-      "deliverable_qty": 1570697,
-      "delivery_pct": 14.24
-    },
     {
       "date": "2026-03-09",
       "close": 83.33,
@@ -434,9 +426,24 @@
       "volume": 77354358,
       "deliverable_qty": 6126697,
       "delivery_pct": 7.92
+    },
+    {
+      "date": "2026-06-05",
+      "close": 102.73,
+      "prev_close": 106.46,
+      "volume": 12977786,
+      "deliverable_qty": 1612898,
+      "delivery_pct": 12.43
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 17:58:22",
+      "an_dt": "05-Jun-2026 17:58:22",
+      "desc": "ESOP/ESOS/ESPS",
+      "sm_name": "Physicswallah Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEAPSPW_05062026175805_Grant.pdf"
+    },
     {
       "sort_date": "2026-06-04 10:16:59",
       "an_dt": "04-Jun-2026 10:16:59",
@@ -632,20 +639,6 @@
       "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
       "sm_name": "Physicswallah Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEAPSPW_18032026183805_Intimation_Income_tax_Final_file_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 22:43:45",
-      "an_dt": "06-Mar-2026 22:43:45",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Physicswallah Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEAPSPW_06032026224328_IntimationInvestorMeetSchedule.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 22:39:23",
-      "an_dt": "06-Mar-2026 22:39:23",
-      "desc": "Sale or disposal",
-      "sm_name": "Physicswallah Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NEAPSPW_06032026223759_Intimation_BIG_share_transfer_final_signed.pdf"
     }
   ]
 }

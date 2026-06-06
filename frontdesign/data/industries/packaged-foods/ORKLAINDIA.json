@@ -8,17 +8,9 @@
   "price": 644.55,
   "market_cap_cr": 8829.64,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 566.0,
-      "prev_close": 557.45,
-      "volume": 2287991,
-      "deliverable_qty": 295832,
-      "delivery_pct": 12.93
-    },
     {
       "date": "2026-03-09",
       "close": 555.6,
@@ -434,6 +426,14 @@
       "volume": 29464,
       "deliverable_qty": 17719,
       "delivery_pct": 60.14
+    },
+    {
+      "date": "2026-06-05",
+      "close": 626.55,
+      "prev_close": 625.85,
+      "volume": 29721,
+      "deliverable_qty": 20006,
+      "delivery_pct": 67.31
     }
   ],
   "news": [
@@ -562,13 +562,6 @@
       "desc": "General Updates",
       "sm_name": "Orkla India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORKLA2025_10032026181540_SIGNEDOutcomeofBM10032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 17:32:10",
-      "an_dt": "06-Mar-2026 17:32:10",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Orkla India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ORKLA2025_06032026173134_SIGNEDIntimationInvt.pdf"
     }
   ]
 }

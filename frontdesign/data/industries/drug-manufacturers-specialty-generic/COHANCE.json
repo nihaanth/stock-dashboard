@@ -8,17 +8,9 @@
   "price": 478.95,
   "market_cap_cr": 18340.55,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 279.9,
-      "prev_close": 291.85,
-      "volume": 2396684,
-      "deliverable_qty": 993108,
-      "delivery_pct": 41.44
-    },
     {
       "date": "2026-03-09",
       "close": 282.55,
@@ -434,6 +426,14 @@
       "volume": 1093782,
       "deliverable_qty": 717035,
       "delivery_pct": 65.56
+    },
+    {
+      "date": "2026-06-05",
+      "close": 431.1,
+      "prev_close": 425.3,
+      "volume": 1592037,
+      "deliverable_qty": 296354,
+      "delivery_pct": 18.61
     }
   ],
   "news": [
@@ -597,13 +597,6 @@
       "desc": "Options to purchase securities",
       "sm_name": "Cohance Lifesciences Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUVENPHARMSUSHEEL_13032026212040_Cohance_SE_intimation_ESOP_grant_13032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 18:03:19",
-      "an_dt": "06-Mar-2026 18:03:19",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Cohance Lifesciences Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUVENPHARMSUSHEEL_06032026180305_Cohance_-_Intimation_for_roadshows_.pdf"
     }
   ]
 }

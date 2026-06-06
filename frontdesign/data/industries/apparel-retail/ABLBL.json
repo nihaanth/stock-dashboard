@@ -8,17 +8,9 @@
   "price": 107.66,
   "market_cap_cr": 13076.8,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 101.98,
-      "prev_close": 104.04,
-      "volume": 7019502,
-      "deliverable_qty": 6422573,
-      "delivery_pct": 91.5
-    },
     {
       "date": "2026-03-09",
       "close": 97.6,
@@ -434,9 +426,24 @@
       "volume": 862860,
       "deliverable_qty": 417632,
       "delivery_pct": 48.4
+    },
+    {
+      "date": "2026-06-05",
+      "close": 101.55,
+      "prev_close": 100.81,
+      "volume": 5903115,
+      "deliverable_qty": 5129828,
+      "delivery_pct": 86.9
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 18:03:18",
+      "an_dt": "05-Jun-2026 18:03:18",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Aditya Birla Lifestyle Brands Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_01062026160742_BGH1.pdf"
+    },
     {
       "sort_date": "2026-05-11 19:10:59",
       "an_dt": "11-May-2026 19:10:59",
@@ -541,13 +548,6 @@
       "desc": "Allotment of Securities",
       "sm_name": "Aditya Birla Lifestyle Brands Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABLBL_18032026174935_NCD_SE_Intimation_Allotment.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 16:14:46",
-      "an_dt": "06-Mar-2026 16:14:46",
-      "desc": "Credit Rating- New",
-      "sm_name": "Aditya Birla Lifestyle Brands Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ABLBL_06032026161425_SE_Credit_rating.pdf"
     }
   ]
 }

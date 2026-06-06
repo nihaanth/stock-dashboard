@@ -8,17 +8,9 @@
   "price": 82.68,
   "market_cap_cr": 828.65,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 77.61,
-      "prev_close": 77.34,
-      "volume": 16797,
-      "deliverable_qty": 11604,
-      "delivery_pct": 69.08
-    },
     {
       "date": "2026-03-09",
       "close": 78.14,
@@ -434,6 +426,14 @@
       "volume": 39339,
       "deliverable_qty": 29352,
       "delivery_pct": 74.61
+    },
+    {
+      "date": "2026-06-05",
+      "close": 75.7,
+      "prev_close": 75.86,
+      "volume": 17154,
+      "deliverable_qty": 13660,
+      "delivery_pct": 79.63
     }
   ],
   "news": [
@@ -611,13 +611,6 @@
       "desc": "Trading Window",
       "sm_name": "Anuh Pharma Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANUHNSE_27032026144857_Trading_Window_Closure.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 18:27:00",
-      "an_dt": "06-Mar-2026 18:27:00",
-      "desc": "Updates",
-      "sm_name": "Anuh Pharma Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANUHNSE_06032026182447_APL_-EDQM.pdf"
     }
   ]
 }

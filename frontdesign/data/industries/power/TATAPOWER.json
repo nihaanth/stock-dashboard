@@ -8,17 +8,9 @@
   "price": 433.2,
   "market_cap_cr": 138422.11,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 375.5,
-      "prev_close": 376.85,
-      "volume": 3748549,
-      "deliverable_qty": 1412734,
-      "delivery_pct": 37.69
-    },
     {
       "date": "2026-03-09",
       "close": 372.9,
@@ -434,6 +426,14 @@
       "volume": 2512081,
       "deliverable_qty": 1015448,
       "delivery_pct": 40.42
+    },
+    {
+      "date": "2026-06-05",
+      "close": 409.2,
+      "prev_close": 410.8,
+      "volume": 2616616,
+      "deliverable_qty": 1060370,
+      "delivery_pct": 40.52
     }
   ],
   "news": [
@@ -716,13 +716,6 @@
       "desc": "Acquisition",
       "sm_name": "Tata Power Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VPTPCL_09032026172312_DGPC-first_tranche_update.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 16:55:12",
-      "an_dt": "06-Mar-2026 16:55:12",
-      "desc": "Press Release",
-      "sm_name": "Tata Power Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VPTPCL_06032026165453_Press_Release_Tata_Power_and_Salesforce__collaboration.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 1315.1,
   "market_cap_cr": 1779655.35,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1404.8,
-      "prev_close": 1389.4,
-      "volume": 19311971,
-      "deliverable_qty": 10743452,
-      "delivery_pct": 55.63
-    },
     {
       "date": "2026-03-09",
       "close": 1424.0,
@@ -434,9 +426,24 @@
       "volume": 23474327,
       "deliverable_qty": 9510596,
       "delivery_pct": 40.51
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1291.0,
+      "prev_close": 1303.7,
+      "volume": 17785223,
+      "deliverable_qty": 11637226,
+      "delivery_pct": 65.43
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 18:46:43",
+      "an_dt": "05-Jun-2026 18:46:43",
+      "desc": "Updates",
+      "sm_name": "Reliance Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/kavinavora_05062026184554_SE_05062026.pdf"
+    },
     {
       "sort_date": "2026-06-04 20:08:17",
       "an_dt": "04-Jun-2026 20:08:17",
@@ -709,13 +716,6 @@
       "desc": "Updates",
       "sm_name": "Reliance Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/kavinavora_09032026164626_SE_09032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 13:20:33",
-      "an_dt": "06-Mar-2026 13:20:33",
-      "desc": "Updates",
-      "sm_name": "Reliance Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/kavinavora_06032026132018_SE_06032026.pdf"
     }
   ]
 }

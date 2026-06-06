@@ -8,17 +8,9 @@
   "price": 1355.3,
   "market_cap_cr": 8444.82,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1225.0,
-      "prev_close": 1217.7,
-      "volume": 164854,
-      "deliverable_qty": 79439,
-      "delivery_pct": 48.19
-    },
     {
       "date": "2026-03-09",
       "close": 1179.4,
@@ -434,6 +426,14 @@
       "volume": 219016,
       "deliverable_qty": 102287,
       "delivery_pct": 46.7
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1600.4,
+      "prev_close": 1560.6,
+      "volume": 438879,
+      "deliverable_qty": 218445,
+      "delivery_pct": 49.77
     }
   ],
   "news": [
@@ -667,13 +667,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "VA Tech Wabag Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VATECH_12032026082133_SICMWSSB12Mar2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 21:00:24",
-      "an_dt": "06-Mar-2026 21:00:24",
-      "desc": "Action(s) initiated or orders passed",
-      "sm_name": "VA Tech Wabag Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VATECH_06032026205933_SIUPGST.pdf"
     }
   ]
 }

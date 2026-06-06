@@ -8,17 +8,9 @@
   "price": 159.31,
   "market_cap_cr": 72709.96,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 159.26,
-      "prev_close": 158.7,
-      "volume": 1204578,
-      "deliverable_qty": 427304,
-      "delivery_pct": 35.47
-    },
     {
       "date": "2026-03-09",
       "close": 143.34,
@@ -434,6 +426,14 @@
       "volume": 14188903,
       "deliverable_qty": 5377416,
       "delivery_pct": 37.9
+    },
+    {
+      "date": "2026-06-05",
+      "close": 165.95,
+      "prev_close": 165.34,
+      "volume": 35405544,
+      "deliverable_qty": 20197439,
+      "delivery_pct": 57.05
     }
   ],
   "news": [
@@ -632,13 +632,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "Meesho Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEESHO_19032026162505_IntimationReg30ofLODRRegulationESOP19032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 22:34:57",
-      "an_dt": "06-Mar-2026 22:34:57",
-      "desc": "General Updates",
-      "sm_name": "Meesho Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MEESHO_06032026223119_Final_Meesho_Disclosure_Reg_30_of_LODR_Regulation_06Mar2026.pdf"
     }
   ]
 }

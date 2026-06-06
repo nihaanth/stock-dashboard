@@ -8,17 +8,9 @@
   "price": 4411.4,
   "market_cap_cr": 27481.56,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 4330.2,
-      "prev_close": 4400.0,
-      "volume": 267961,
-      "deliverable_qty": 72566,
-      "delivery_pct": 27.08
-    },
     {
       "date": "2026-03-09",
       "close": 4303.7,
@@ -434,6 +426,14 @@
       "volume": 331580,
       "deliverable_qty": 143375,
       "delivery_pct": 43.24
+    },
+    {
+      "date": "2026-06-05",
+      "close": 4301.1,
+      "prev_close": 4295.2,
+      "volume": 169218,
+      "deliverable_qty": 51194,
+      "delivery_pct": 30.25
     }
   ],
   "news": [
@@ -632,13 +632,6 @@
       "desc": "Trading Window",
       "sm_name": "Tata Elxsi Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TELNSE_18032026171731_SEIntimationTradingWindowClosure.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 17:42:29",
-      "an_dt": "06-Mar-2026 17:42:29",
-      "desc": "Updates",
-      "sm_name": "Tata Elxsi Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TELNSE_06032026174216_Reg30Order06032026.pdf"
     }
   ]
 }

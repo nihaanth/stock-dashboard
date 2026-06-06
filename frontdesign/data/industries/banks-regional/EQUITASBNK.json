@@ -8,17 +8,9 @@
   "price": 69.8,
   "market_cap_cr": 7968.18,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 59.69,
-      "prev_close": 57.79,
-      "volume": 3780261,
-      "deliverable_qty": 1496571,
-      "delivery_pct": 39.59
-    },
     {
       "date": "2026-03-09",
       "close": 58.14,
@@ -434,9 +426,24 @@
       "volume": 8173933,
       "deliverable_qty": 6369955,
       "delivery_pct": 77.93
+    },
+    {
+      "date": "2026-06-05",
+      "close": 73.95,
+      "prev_close": 72.3,
+      "volume": 15166973,
+      "deliverable_qty": 12076955,
+      "delivery_pct": 79.63
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 16:15:36",
+      "an_dt": "05-Jun-2026 16:15:36",
+      "desc": "General Updates",
+      "sm_name": "Equitas Small Finance Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EQUITASBNK_05062026161520_Investormeet1162026.pdf"
+    },
     {
       "sort_date": "2026-06-01 17:48:36",
       "an_dt": "01-Jun-2026 17:48:36",

@@ -8,17 +8,9 @@
   "price": 641.5,
   "market_cap_cr": 61045.49,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 724.05,
-      "prev_close": 730.55,
-      "volume": 981079,
-      "deliverable_qty": 577644,
-      "delivery_pct": 58.88
-    },
     {
       "date": "2026-03-09",
       "close": 720.7,
@@ -434,9 +426,31 @@
       "volume": 1351141,
       "deliverable_qty": 624933,
       "delivery_pct": 46.25
+    },
+    {
+      "date": "2026-06-05",
+      "close": 589.6,
+      "prev_close": 589.5,
+      "volume": 849540,
+      "deliverable_qty": 338703,
+      "delivery_pct": 39.87
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 17:12:04",
+      "an_dt": "05-Jun-2026 17:12:04",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "SBI Cards and Payment Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBICARDS_05062026165433_SEIntimationInvestorMeet.pdf"
+    },
+    {
+      "sort_date": "2026-06-05 10:55:11",
+      "an_dt": "05-Jun-2026 10:55:11",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "SBI Cards and Payment Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_21052026120052_SBI_0001.pdf"
+    },
     {
       "sort_date": "2026-06-02 19:05:20",
       "an_dt": "02-Jun-2026 19:05:20",
@@ -625,13 +639,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "SBI Cards and Payment Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBICARDS_09032026165316_SEFilingMarch2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 19:05:15",
-      "an_dt": "06-Mar-2026 19:05:15",
-      "desc": "Updates",
-      "sm_name": "SBI Cards and Payment Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBICPSL_06032026190303_SEFilingMarch2026.pdf"
     }
   ]
 }

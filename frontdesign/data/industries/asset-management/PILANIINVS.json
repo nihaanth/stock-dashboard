@@ -8,17 +8,9 @@
   "price": 4733.3,
   "market_cap_cr": 5240.83,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 4577.5,
-      "prev_close": 4392.9,
-      "volume": 4136,
-      "deliverable_qty": 2681,
-      "delivery_pct": 64.82
-    },
     {
       "date": "2026-03-09",
       "close": 4459.8,
@@ -434,9 +426,24 @@
       "volume": 6926,
       "deliverable_qty": 3900,
       "delivery_pct": 56.31
+    },
+    {
+      "date": "2026-06-05",
+      "close": 4224.8,
+      "prev_close": 4276.0,
+      "volume": 4767,
+      "deliverable_qty": 2530,
+      "delivery_pct": 53.07
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 18:31:01",
+      "an_dt": "05-Jun-2026 18:31:01",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Pilani Investment and Industries Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_03062026120626_BG.pdf"
+    },
     {
       "sort_date": "2026-06-04 16:17:21",
       "an_dt": "04-Jun-2026 16:17:21",

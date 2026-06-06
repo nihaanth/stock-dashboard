@@ -8,17 +8,9 @@
   "price": 407.4,
   "market_cap_cr": 1596.44,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 370.45,
-      "prev_close": 362.75,
-      "volume": 67405,
-      "deliverable_qty": 32292,
-      "delivery_pct": 47.91
-    },
     {
       "date": "2026-03-09",
       "close": 352.35,
@@ -434,9 +426,24 @@
       "volume": 81425,
       "deliverable_qty": 31415,
       "delivery_pct": 38.58
+    },
+    {
+      "date": "2026-06-05",
+      "close": 417.35,
+      "prev_close": 421.85,
+      "volume": 57641,
+      "deliverable_qty": 26367,
+      "delivery_pct": 45.74
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 17:56:17",
+      "an_dt": "05-Jun-2026 17:56:17",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "J.G.Chemicals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_01062026151720_17.pdf"
+    },
     {
       "sort_date": "2026-05-28 18:19:06",
       "an_dt": "28-May-2026 18:19:06",

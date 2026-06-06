@@ -8,17 +8,9 @@
   "price": 216.55,
   "market_cap_cr": 1038.27,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 208.35,
-      "prev_close": 210.1,
-      "volume": 206685,
-      "deliverable_qty": 103534,
-      "delivery_pct": 50.09
-    },
     {
       "date": "2026-03-09",
       "close": 206.0,
@@ -434,6 +426,14 @@
       "volume": 136494,
       "deliverable_qty": 84939,
       "delivery_pct": 62.23
+    },
+    {
+      "date": "2026-06-05",
+      "close": 186.69,
+      "prev_close": 188.08,
+      "volume": 80529,
+      "deliverable_qty": 44085,
+      "delivery_pct": 54.74
     }
   ],
   "news": [
@@ -555,20 +555,6 @@
       "desc": "Trading Window",
       "sm_name": "Suraj Estate Developers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SURAJ_27032026132223_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 19:21:36",
-      "an_dt": "06-Mar-2026 19:21:36",
-      "desc": "Updates",
-      "sm_name": "Suraj Estate Developers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SURAJ_06032026192129_7_2__B_-Shwetha_Thomas.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 19:19:41",
-      "an_dt": "06-Mar-2026 19:19:41",
-      "desc": "Updates",
-      "sm_name": "Suraj Estate Developers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SURAJ_06032026191929_7_2__b_Final.pdf"
     }
   ]
 }

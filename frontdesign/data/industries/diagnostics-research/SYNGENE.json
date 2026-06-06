@@ -8,17 +8,9 @@
   "price": 482.5,
   "market_cap_cr": 19389.31,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 399.7,
-      "prev_close": 403.7,
-      "volume": 498160,
-      "deliverable_qty": 232994,
-      "delivery_pct": 46.77
-    },
     {
       "date": "2026-03-09",
       "close": 398.65,
@@ -434,9 +426,24 @@
       "volume": 239834,
       "deliverable_qty": 103933,
       "delivery_pct": 43.34
+    },
+    {
+      "date": "2026-06-05",
+      "close": 434.25,
+      "prev_close": 435.55,
+      "volume": 289147,
+      "deliverable_qty": 118132,
+      "delivery_pct": 40.86
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 17:54:42",
+      "an_dt": "05-Jun-2026 17:54:42",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Syngene International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SYNGENE2_05062026175402_Investorcallintimation10062026.pdf"
+    },
     {
       "sort_date": "2026-05-22 16:04:27",
       "an_dt": "22-May-2026 16:04:27",
@@ -625,13 +632,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Syngene International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SYNGENE2_11032026183838_Investorcallintimation16032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 16:04:55",
-      "an_dt": "06-Mar-2026 16:04:55",
-      "desc": "Change in Management",
-      "sm_name": "Syngene International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SYNGENE2_06032026160210_SEDisclosure_March2026.pdf"
     }
   ]
 }

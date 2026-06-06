@@ -8,17 +8,9 @@
   "price": 802.0,
   "market_cap_cr": 2111.29,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 759.05,
-      "prev_close": 768.8,
-      "volume": 33428,
-      "deliverable_qty": 20008,
-      "delivery_pct": 59.85
-    },
     {
       "date": "2026-03-09",
       "close": 746.75,
@@ -434,9 +426,31 @@
       "volume": 25350,
       "deliverable_qty": 16225,
       "delivery_pct": 64.0
+    },
+    {
+      "date": "2026-06-05",
+      "close": 718.0,
+      "prev_close": 720.3,
+      "volume": 19479,
+      "deliverable_qty": 10480,
+      "delivery_pct": 53.8
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 18:19:17",
+      "an_dt": "05-Jun-2026 18:19:17",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Nucleus Software Exports Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NUCLEUS_ROID_89633_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-06-05 18:08:57",
+      "an_dt": "05-Jun-2026 18:08:57",
+      "desc": "Resignation",
+      "sm_name": "Nucleus Software Exports Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Nucleus_05062026180848_INTIMATION.pdf"
+    },
     {
       "sort_date": "2026-05-26 16:57:33",
       "an_dt": "26-May-2026 16:57:33",

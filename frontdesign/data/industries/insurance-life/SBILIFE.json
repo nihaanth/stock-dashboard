@@ -8,17 +8,9 @@
   "price": 1914.4,
   "market_cap_cr": 192031.95,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1941.6,
-      "prev_close": 1945.0,
-      "volume": 858666,
-      "deliverable_qty": 529117,
-      "delivery_pct": 61.62
-    },
     {
       "date": "2026-03-09",
       "close": 1912.5,
@@ -434,9 +426,24 @@
       "volume": 727483,
       "deliverable_qty": 417078,
       "delivery_pct": 57.33
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1782.8,
+      "prev_close": 1764.9,
+      "volume": 715458,
+      "deliverable_qty": 362606,
+      "delivery_pct": 50.68
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 10:54:04",
+      "an_dt": "05-Jun-2026 10:54:04",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "SBI Life Insurance Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_21052026120000_SBI.pdf"
+    },
     {
       "sort_date": "2026-06-04 18:30:01",
       "an_dt": "04-Jun-2026 18:30:01",

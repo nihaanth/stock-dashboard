@@ -8,17 +8,9 @@
   "price": 189.37,
   "market_cap_cr": 12400.97,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 137.85,
-      "prev_close": 136.08,
-      "volume": 407659,
-      "deliverable_qty": 165221,
-      "delivery_pct": 40.53
-    },
     {
       "date": "2026-03-09",
       "close": 130.61,
@@ -434,6 +426,14 @@
       "volume": 925363,
       "deliverable_qty": 425135,
       "delivery_pct": 45.94
+    },
+    {
+      "date": "2026-06-05",
+      "close": 186.95,
+      "prev_close": 180.0,
+      "volume": 4526953,
+      "deliverable_qty": 1151329,
+      "delivery_pct": 25.43
     }
   ],
   "news": [
@@ -674,13 +674,6 @@
       "desc": "General Updates",
       "sm_name": "Aequs Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_23032026194523_Aequs_Limited-Intimation_to_Stock_Exchange.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 16:28:32",
-      "an_dt": "06-Mar-2026 16:28:32",
-      "desc": "General Updates",
-      "sm_name": "Aequs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_06032026162810_Update_on_allotment_of_securities_pursuant_to_letter_of_subscription.pdf"
     }
   ]
 }

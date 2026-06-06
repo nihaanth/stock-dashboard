@@ -8,17 +8,9 @@
   "price": 905.95,
   "market_cap_cr": 15563.1,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 565.65,
-      "prev_close": 565.05,
-      "volume": 286299,
-      "deliverable_qty": 164943,
-      "delivery_pct": 57.61
-    },
     {
       "date": "2026-03-09",
       "close": 547.05,
@@ -434,9 +426,24 @@
       "volume": 1435282,
       "deliverable_qty": 443671,
       "delivery_pct": 30.91
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1112.8,
+      "prev_close": 1127.3,
+      "volume": 1192068,
+      "deliverable_qty": 334616,
+      "delivery_pct": 28.07
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 15:19:59",
+      "an_dt": "05-Jun-2026 15:19:59",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Cemindia Projects Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_22052026130421_CEMPRO1.zip"
+    },
     {
       "sort_date": "2026-06-03 15:31:01",
       "an_dt": "03-Jun-2026 15:31:01",

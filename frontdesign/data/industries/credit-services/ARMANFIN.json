@@ -8,17 +8,9 @@
   "price": 1878.4,
   "market_cap_cr": 1974.75,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1383.2,
-      "prev_close": 1427.6,
-      "volume": 40295,
-      "deliverable_qty": 22000,
-      "delivery_pct": 54.6
-    },
     {
       "date": "2026-03-09",
       "close": 1339.2,
@@ -434,9 +426,31 @@
       "volume": 76409,
       "deliverable_qty": 46660,
       "delivery_pct": 61.07
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1596.5,
+      "prev_close": 1590.2,
+      "volume": 25650,
+      "deliverable_qty": 11342,
+      "delivery_pct": 44.22
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 13:00:50",
+      "an_dt": "05-Jun-2026 13:00:50",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Arman Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_22042026161904_ARMANFIN.pdf"
+    },
+    {
+      "sort_date": "2026-06-05 11:24:37",
+      "an_dt": "05-Jun-2026 11:24:37",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Arman Financial Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARMANFIN_05062026112210_Earnings_Call_Transcript_Covering_Letter.pdf"
+    },
     {
       "sort_date": "2026-06-04 14:59:11",
       "an_dt": "04-Jun-2026 14:59:11",

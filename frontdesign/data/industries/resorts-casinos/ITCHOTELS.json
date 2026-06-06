@@ -8,17 +8,9 @@
   "price": 159.37,
   "market_cap_cr": 33196.39,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 167.33,
-      "prev_close": 166.36,
-      "volume": 6953396,
-      "deliverable_qty": 4775788,
-      "delivery_pct": 68.68
-    },
     {
       "date": "2026-03-09",
       "close": 164.16,
@@ -434,6 +426,14 @@
       "volume": 3758670,
       "deliverable_qty": 1935162,
       "delivery_pct": 51.49
+    },
+    {
+      "date": "2026-06-05",
+      "close": 153.18,
+      "prev_close": 155.33,
+      "volume": 3493319,
+      "deliverable_qty": 1789295,
+      "delivery_pct": 51.22
     }
   ],
   "news": [
@@ -520,20 +520,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "ITC Hotels Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ITCHOTELS12_19032026173037_Outcome.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 14:36:09",
-      "an_dt": "06-Mar-2026 14:36:09",
-      "desc": "Resignation",
-      "sm_name": "ITC Hotels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ITCHOTELS12_06032026143432_Stock_Exchange_intimation_06032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 14:29:09",
-      "an_dt": "06-Mar-2026 14:29:09",
-      "desc": "Change in Director(s)",
-      "sm_name": "ITC Hotels Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ITCHOTELS12_06032026142731_Stock_Exchange_intimation_06032026.pdf"
     }
   ]
 }

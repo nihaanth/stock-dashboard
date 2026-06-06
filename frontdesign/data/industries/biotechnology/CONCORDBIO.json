@@ -8,17 +8,9 @@
   "price": 1198.8,
   "market_cap_cr": 12541.39,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1207.2,
-      "prev_close": 1203.7,
-      "volume": 48879,
-      "deliverable_qty": 20946,
-      "delivery_pct": 42.85
-    },
     {
       "date": "2026-03-09",
       "close": 1175.3,
@@ -434,9 +426,24 @@
       "volume": 406598,
       "deliverable_qty": 112577,
       "delivery_pct": 27.69
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1209.9,
+      "prev_close": 1238.2,
+      "volume": 207762,
+      "deliverable_qty": 67470,
+      "delivery_pct": 32.47
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 18:40:20",
+      "an_dt": "05-Jun-2026 18:40:20",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Concord Biotech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CONCORD_05062026184012_Earnings_Call_Transcript_Q4_26.pdf"
+    },
     {
       "sort_date": "2026-06-02 16:41:59",
       "an_dt": "02-Jun-2026 16:41:59",

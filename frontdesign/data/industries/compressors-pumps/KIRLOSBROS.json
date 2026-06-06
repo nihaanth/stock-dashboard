@@ -8,17 +8,9 @@
   "price": 1667.9,
   "market_cap_cr": 13244.62,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1645.7,
-      "prev_close": 1493.9,
-      "volume": 3123067,
-      "deliverable_qty": 144199,
-      "delivery_pct": 4.62
-    },
     {
       "date": "2026-03-09",
       "close": 1570.5,
@@ -434,9 +426,24 @@
       "volume": 50507,
       "deliverable_qty": 20503,
       "delivery_pct": 40.59
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1711.1,
+      "prev_close": 1624.1,
+      "volume": 546682,
+      "deliverable_qty": 116837,
+      "delivery_pct": 21.37
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 17:55:33",
+      "an_dt": "05-Jun-2026 17:55:33",
+      "desc": "Updates",
+      "sm_name": "Kirloskar Brothers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KIRLOSBROS_05062026175507_20260605_NewspaperPublication_IEPF_Transfer.pdf"
+    },
     {
       "sort_date": "2026-05-24 20:41:53",
       "an_dt": "24-May-2026 20:41:53",
@@ -590,13 +597,6 @@
       "desc": "Spurt in Volume",
       "sm_name": "Kirloskar Brothers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KIRLOSBROS_09032026104826_20260309_Clarification_on_Volume_Increase_Letter_NSE.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 19:52:56",
-      "an_dt": "06-Mar-2026 19:52:56",
-      "desc": "Spurt in Volume",
-      "sm_name": "Kirloskar Brothers Limited",
-      "attchmntFile": "-"
     }
   ]
 }

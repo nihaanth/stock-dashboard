@@ -8,17 +8,9 @@
   "price": 855.3,
   "market_cap_cr": 11388.67,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 827.3,
-      "prev_close": 826.8,
-      "volume": 84721,
-      "deliverable_qty": 50868,
-      "delivery_pct": 60.04
-    },
     {
       "date": "2026-03-09",
       "close": 813.15,
@@ -434,9 +426,31 @@
       "volume": 323610,
       "deliverable_qty": 183819,
       "delivery_pct": 56.8
+    },
+    {
+      "date": "2026-06-05",
+      "close": 807.9,
+      "prev_close": 816.5,
+      "volume": 161813,
+      "deliverable_qty": 100494,
+      "delivery_pct": 62.11
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 19:10:36",
+      "an_dt": "05-Jun-2026 19:10:36",
+      "desc": "General Updates",
+      "sm_name": "Can Fin Homes Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANFINHOME_05062026191005_93_OutcomeofNRCMeetingheldon_05_06_2026.pdf"
+    },
+    {
+      "sort_date": "2026-06-05 18:42:26",
+      "an_dt": "05-Jun-2026 18:42:26",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Can Fin Homes Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANFINHOME_05062026184059_NSE_Intimation_NEWSPAPER_publication_05062026.pdf"
+    },
     {
       "sort_date": "2026-06-02 12:20:43",
       "an_dt": "02-Jun-2026 12:20:43",
@@ -660,13 +674,6 @@
       "desc": "Record Date",
       "sm_name": "Can Fin Homes Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANFINHOME_11032026170143_CANFINHOMErecorddate_18-03-2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 11:43:58",
-      "an_dt": "06-Mar-2026 11:43:58",
-      "desc": "Shareholders meeting",
-      "sm_name": "Can Fin Homes Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANFINHOME_06032026114317_Postal_Ballot_Voting_Result_and_Scrutinizer_Report_06032026.pdf"
     }
   ]
 }

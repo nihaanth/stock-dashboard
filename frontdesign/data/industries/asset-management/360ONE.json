@@ -8,17 +8,9 @@
   "price": 1115.3,
   "market_cap_cr": 45314.11,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1064.2,
-      "prev_close": 1081.0,
-      "volume": 276113,
-      "deliverable_qty": 155151,
-      "delivery_pct": 56.19
-    },
     {
       "date": "2026-03-09",
       "close": 1035.1,
@@ -434,9 +426,24 @@
       "volume": 2527568,
       "deliverable_qty": 1858208,
       "delivery_pct": 73.52
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1073.9,
+      "prev_close": 1071.8,
+      "volume": 2432019,
+      "deliverable_qty": 1723202,
+      "delivery_pct": 70.85
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 11:25:44",
+      "an_dt": "05-Jun-2026 11:25:44",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "360 ONE WAM LIMITED",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_21052026124108_37.pdf"
+    },
     {
       "sort_date": "2026-05-29 11:33:10",
       "an_dt": "29-May-2026 11:33:10",

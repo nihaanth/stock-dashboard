@@ -8,17 +8,9 @@
   "price": 142.39,
   "market_cap_cr": 1168.38,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 125.74,
-      "prev_close": 122.32,
-      "volume": 104923,
-      "deliverable_qty": 81562,
-      "delivery_pct": 77.74
-    },
     {
       "date": "2026-03-09",
       "close": 121.56,
@@ -434,9 +426,24 @@
       "volume": 184805,
       "deliverable_qty": 88548,
       "delivery_pct": 47.91
+    },
+    {
+      "date": "2026-06-05",
+      "close": 149.64,
+      "prev_close": 152.43,
+      "volume": 128739,
+      "deliverable_qty": 47375,
+      "delivery_pct": 36.8
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 16:29:02",
+      "an_dt": "05-Jun-2026 16:29:02",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "GPT Healthcare Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GPTHEALTHCARE_05062026162759_GHLIntimationofInvestorMeet11062026.pdf"
+    },
     {
       "sort_date": "2026-05-23 12:49:20",
       "an_dt": "23-May-2026 12:49:20",

@@ -8,17 +8,9 @@
   "price": 255.03,
   "market_cap_cr": 759.51,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 247.4,
-      "prev_close": 249.35,
-      "volume": 29423,
-      "deliverable_qty": 15692,
-      "delivery_pct": 53.33
-    },
     {
       "date": "2026-03-09",
       "close": 239.15,
@@ -434,6 +426,14 @@
       "volume": 24186,
       "deliverable_qty": 11867,
       "delivery_pct": 49.07
+    },
+    {
+      "date": "2026-06-05",
+      "close": 250.8,
+      "prev_close": 254.7,
+      "volume": 31106,
+      "deliverable_qty": 19198,
+      "delivery_pct": 61.72
     }
   ],
   "news": [
@@ -695,13 +695,6 @@
       "desc": "Trading Window",
       "sm_name": "ZUARI INDUSTRIES LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZUARIGLOB_26032026174003_Closure_of_trading_window_26032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 12:13:40",
-      "an_dt": "06-Mar-2026 12:13:40",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "ZUARI INDUSTRIES LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ZUARIGLOB_06032026121318_ZILNewspaperAdvt.pdf"
     }
   ]
 }

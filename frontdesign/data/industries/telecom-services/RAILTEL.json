@@ -8,17 +8,9 @@
   "price": 284.38,
   "market_cap_cr": 9126.85,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 290.9,
-      "prev_close": 282.05,
-      "volume": 3320734,
-      "deliverable_qty": 467620,
-      "delivery_pct": 14.08
-    },
     {
       "date": "2026-03-09",
       "close": 282.15,
@@ -434,9 +426,24 @@
       "volume": 645749,
       "deliverable_qty": 219483,
       "delivery_pct": 33.99
+    },
+    {
+      "date": "2026-06-05",
+      "close": 313.25,
+      "prev_close": 314.35,
+      "volume": 602561,
+      "deliverable_qty": 184043,
+      "delivery_pct": 30.54
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 11:08:20",
+      "an_dt": "05-Jun-2026 11:08:20",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Railtel Corporation Of India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_21052026122612_44.pdf"
+    },
     {
       "sort_date": "2026-05-29 18:22:12",
       "an_dt": "29-May-2026 18:22:12",

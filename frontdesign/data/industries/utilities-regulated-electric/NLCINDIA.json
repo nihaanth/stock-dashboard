@@ -8,17 +8,9 @@
   "price": 329.7,
   "market_cap_cr": 45717.41,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 255.25,
-      "prev_close": 253.85,
-      "volume": 2145655,
-      "deliverable_qty": 1065984,
-      "delivery_pct": 49.68
-    },
     {
       "date": "2026-03-09",
       "close": 239.75,
@@ -434,9 +426,24 @@
       "volume": 2832700,
       "deliverable_qty": 1380044,
       "delivery_pct": 48.72
+    },
+    {
+      "date": "2026-06-05",
+      "close": 336.6,
+      "prev_close": 338.6,
+      "volume": 3367303,
+      "deliverable_qty": 1605072,
+      "delivery_pct": 47.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 15:01:45",
+      "an_dt": "05-Jun-2026 15:01:45",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "NLC India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_22052026124929_33.pdf"
+    },
     {
       "sort_date": "2026-06-03 19:07:27",
       "an_dt": "03-Jun-2026 19:07:27",
@@ -695,13 +702,6 @@
       "desc": "Reply to Clarification- Financial results",
       "sm_name": "NLC India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NLCINDIA_06032026183110_565th_Revised_Board_Outcome_Signed_06032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 18:14:45",
-      "an_dt": "06-Mar-2026 18:14:45",
-      "desc": "Clarification - Financial Results",
-      "sm_name": "NLC India Limited",
-      "attchmntFile": "-"
     }
   ]
 }

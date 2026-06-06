@@ -8,17 +8,9 @@
   "price": 2992.2,
   "market_cap_cr": 57914.88,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 2722.9,
-      "prev_close": 2781.9,
-      "volume": 1136373,
-      "deliverable_qty": 973209,
-      "delivery_pct": 85.64
-    },
     {
       "date": "2026-03-09",
       "close": 2608.6,
@@ -434,6 +426,14 @@
       "volume": 207106,
       "deliverable_qty": 79357,
       "delivery_pct": 38.32
+    },
+    {
+      "date": "2026-06-05",
+      "close": 3129.0,
+      "prev_close": 3098.4,
+      "volume": 192369,
+      "deliverable_qty": 84856,
+      "delivery_pct": 44.11
     }
   ],
   "news": [
@@ -604,13 +604,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Tube Investments of India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIINDIA_20032026181052_TIINSEBSEPBResults.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 18:57:07",
-      "an_dt": "06-Mar-2026 18:57:07",
-      "desc": "General Updates",
-      "sm_name": "Tube Investments of India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIINDIA_06032026185657_TIINSEBSEESGRatings.pdf"
     }
   ]
 }

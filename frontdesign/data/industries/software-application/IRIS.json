@@ -8,17 +8,9 @@
   "price": 244.19,
   "market_cap_cr": 502.26,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 250.34,
-      "prev_close": 251.93,
-      "volume": 15002,
-      "deliverable_qty": 9920,
-      "delivery_pct": 66.12
-    },
     {
       "date": "2026-03-09",
       "close": 246.38,
@@ -434,6 +426,14 @@
       "volume": 16553,
       "deliverable_qty": 9690,
       "delivery_pct": 58.54
+    },
+    {
+      "date": "2026-06-05",
+      "close": 241.25,
+      "prev_close": 243.1,
+      "volume": 17747,
+      "deliverable_qty": 10847,
+      "delivery_pct": 61.12
     }
   ],
   "news": [
@@ -562,13 +562,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "IRIS RegTech Solutions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRIS_23032026233918_IRIS_Announcement_23March2026__signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 13:36:01",
-      "an_dt": "06-Mar-2026 13:36:01",
-      "desc": "Incorporation",
-      "sm_name": "IRIS RegTech Solutions Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRIS_06032026133548_IRIS_Incorporation_WOS_IRISDataSolutions_06Mar2026_signed.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 201.08,
   "market_cap_cr": 1069.87,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 189.56,
-      "prev_close": 201.32,
-      "volume": 102882,
-      "deliverable_qty": 52353,
-      "delivery_pct": 50.89
-    },
     {
       "date": "2026-03-09",
       "close": 191.79,
@@ -434,6 +426,14 @@
       "volume": 54397,
       "deliverable_qty": 26879,
       "delivery_pct": 49.41
+    },
+    {
+      "date": "2026-06-05",
+      "close": 210.73,
+      "prev_close": 210.69,
+      "volume": 27708,
+      "deliverable_qty": 15824,
+      "delivery_pct": 57.11
     }
   ],
   "news": [
@@ -562,13 +562,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Tarsons Products Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TARSONS_07032026152706_SE_Intimation_Postal_ballot.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 15:55:59",
-      "an_dt": "06-Mar-2026 15:55:59",
-      "desc": "Shareholders meeting",
-      "sm_name": "Tarsons Products Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TARSONS_06032026155543_Postal_ballot_intimation.pdf"
     }
   ]
 }

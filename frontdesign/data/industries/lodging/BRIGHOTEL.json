@@ -8,17 +8,9 @@
   "price": 63.03,
   "market_cap_cr": 2394.15,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 59.48,
-      "prev_close": 58.37,
-      "volume": 147866,
-      "deliverable_qty": 69736,
-      "delivery_pct": 47.16
-    },
     {
       "date": "2026-03-09",
       "close": 57.95,
@@ -434,6 +426,14 @@
       "volume": 99548,
       "deliverable_qty": 61179,
       "delivery_pct": 61.46
+    },
+    {
+      "date": "2026-06-05",
+      "close": 62.34,
+      "prev_close": 61.95,
+      "volume": 57282,
+      "deliverable_qty": 39474,
+      "delivery_pct": 68.91
     }
   ],
   "news": [
@@ -583,13 +583,6 @@
       "desc": "Trading Window",
       "sm_name": "Brigade Hotel Ventures Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BRIGADE2_30032026123802_BHVLIntimationTradingWindowClosure.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 17:52:42",
-      "an_dt": "06-Mar-2026 17:52:42",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Brigade Hotel Ventures Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BRIGADE2_06032026175227_8SEIntimationoninvestorsMeet12032026.pdf"
     }
   ]
 }

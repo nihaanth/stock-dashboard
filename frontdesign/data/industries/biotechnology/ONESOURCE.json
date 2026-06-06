@@ -8,17 +8,9 @@
   "price": 1803.4,
   "market_cap_cr": 20674.66,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1480.5,
-      "prev_close": 1424.2,
-      "volume": 387025,
-      "deliverable_qty": 245419,
-      "delivery_pct": 63.41
-    },
     {
       "date": "2026-03-09",
       "close": 1514.9,
@@ -434,6 +426,14 @@
       "volume": 258567,
       "deliverable_qty": 118565,
       "delivery_pct": 45.85
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1789.7,
+      "prev_close": 1837.9,
+      "volume": 150570,
+      "deliverable_qty": 58826,
+      "delivery_pct": 39.07
     }
   ],
   "news": [
@@ -590,13 +590,6 @@
       "desc": "Trading Window",
       "sm_name": "Onesource Specialty Pharma Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_25032026165646_1_OS_Trading_Window_Closure_Q4FY26.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 19:03:55",
-      "an_dt": "06-Mar-2026 19:03:55",
-      "desc": "General Updates",
-      "sm_name": "Onesource Specialty Pharma Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_06032026190346_OneSource_SE_intimation.pdf"
     }
   ]
 }

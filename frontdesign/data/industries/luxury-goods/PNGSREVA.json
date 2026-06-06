@@ -8,17 +8,9 @@
   "price": 417.65,
   "market_cap_cr": 1323.88,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 394.1,
-      "prev_close": 369.6,
-      "volume": 738711,
-      "deliverable_qty": 170589,
-      "delivery_pct": 23.09
-    },
     {
       "date": "2026-03-09",
       "close": 386.3,
@@ -434,9 +426,24 @@
       "volume": 48865,
       "deliverable_qty": 24270,
       "delivery_pct": 49.67
+    },
+    {
+      "date": "2026-06-05",
+      "close": 381.35,
+      "prev_close": 380.95,
+      "volume": 244627,
+      "deliverable_qty": 189873,
+      "delivery_pct": 77.62
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 15:02:51",
+      "an_dt": "05-Jun-2026 15:02:51",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "PNGS Reva Diamond Jewellery Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNGSREVA_05062026150216_Corporate_Announcement_Investor_Call_10062026_Signed.pdf"
+    },
     {
       "sort_date": "2026-06-04 11:25:52",
       "an_dt": "04-Jun-2026 11:25:52",

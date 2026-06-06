@@ -8,17 +8,9 @@
   "price": 84.49,
   "market_cap_cr": 802.23,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 76.8,
-      "prev_close": 77.23,
-      "volume": 72931,
-      "deliverable_qty": 36639,
-      "delivery_pct": 50.24
-    },
     {
       "date": "2026-03-09",
       "close": 75.62,
@@ -434,9 +426,24 @@
       "volume": 67391,
       "deliverable_qty": 41750,
       "delivery_pct": 61.95
+    },
+    {
+      "date": "2026-06-05",
+      "close": 82.61,
+      "prev_close": 82.7,
+      "volume": 41977,
+      "deliverable_qty": 27428,
+      "delivery_pct": 65.34
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 15:49:28",
+      "an_dt": "05-Jun-2026 15:49:28",
+      "desc": "Credit Rating",
+      "sm_name": "Pudumjee Paper Products Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PDMJEPAPER_05062026154858_PPPLReg30CreditRating05062026.pdf"
+    },
     {
       "sort_date": "2026-05-27 14:25:43",
       "an_dt": "27-May-2026 14:25:43",

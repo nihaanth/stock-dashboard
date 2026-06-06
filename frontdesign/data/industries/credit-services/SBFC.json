@@ -8,17 +8,9 @@
   "price": 97.4,
   "market_cap_cr": 10769.56,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 93.96,
-      "prev_close": 93.01,
-      "volume": 851500,
-      "deliverable_qty": 444044,
-      "delivery_pct": 52.15
-    },
     {
       "date": "2026-03-09",
       "close": 92.37,
@@ -434,9 +426,24 @@
       "volume": 963496,
       "deliverable_qty": 455078,
       "delivery_pct": 47.23
+    },
+    {
+      "date": "2026-06-05",
+      "close": 92.96,
+      "prev_close": 93.33,
+      "volume": 637080,
+      "deliverable_qty": 322889,
+      "delivery_pct": 50.68
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 14:30:04",
+      "an_dt": "05-Jun-2026 14:30:04",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "SBFC Finance Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_23042026124911_SBFC.zip"
+    },
     {
       "sort_date": "2026-06-03 16:15:55",
       "an_dt": "03-Jun-2026 16:15:55",

@@ -8,17 +8,9 @@
   "price": 443.25,
   "market_cap_cr": 2140.08,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 434.6,
-      "prev_close": 438.9,
-      "volume": 77874,
-      "deliverable_qty": 47454,
-      "delivery_pct": 60.94
-    },
     {
       "date": "2026-03-09",
       "close": 438.15,
@@ -434,6 +426,14 @@
       "volume": 110601,
       "deliverable_qty": 46965,
       "delivery_pct": 42.46
+    },
+    {
+      "date": "2026-06-05",
+      "close": 450.55,
+      "prev_close": 455.1,
+      "volume": 26726,
+      "deliverable_qty": 11120,
+      "delivery_pct": 41.61
     }
   ],
   "news": [
@@ -632,13 +632,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "MM Forgings Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MMFL_09032026105604_MMFTrans.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 12:36:47",
-      "an_dt": "06-Mar-2026 12:36:47",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "MM Forgings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MMFL_06032026123638_MMF_Recording_Investor_Meet.pdf"
     }
   ]
 }

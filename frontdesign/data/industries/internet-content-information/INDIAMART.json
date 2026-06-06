@@ -8,17 +8,9 @@
   "price": 2065.0,
   "market_cap_cr": 12413.18,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 2120.6,
-      "prev_close": 2076.4,
-      "volume": 504063,
-      "deliverable_qty": 373560,
-      "delivery_pct": 74.11
-    },
     {
       "date": "2026-03-09",
       "close": 2183.5,
@@ -434,6 +426,14 @@
       "volume": 33014,
       "deliverable_qty": 18377,
       "delivery_pct": 55.66
+    },
+    {
+      "date": "2026-06-05",
+      "close": 2000.4,
+      "prev_close": 1994.2,
+      "volume": 27102,
+      "deliverable_qty": 15642,
+      "delivery_pct": 57.72
     }
   ],
   "news": [
@@ -716,13 +716,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Indiamart Intermesh Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIAMART_09032026154713_InvestorMeetDisclosure09032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 18:24:59",
-      "an_dt": "06-Mar-2026 18:24:59",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Indiamart Intermesh Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INDIAMART_06032026182440_InvestorMeetDisclosure06032026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 295.4,
   "market_cap_cr": 61591.49,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 286.0,
-      "prev_close": 279.25,
-      "volume": 19912627,
-      "deliverable_qty": 2493814,
-      "delivery_pct": 12.52
-    },
     {
       "date": "2026-03-09",
       "close": 276.2,
@@ -434,6 +426,14 @@
       "volume": 12057009,
       "deliverable_qty": 4444712,
       "delivery_pct": 36.86
+    },
+    {
+      "date": "2026-06-05",
+      "close": 235.61,
+      "prev_close": 236.46,
+      "volume": 11139995,
+      "deliverable_qty": 4649490,
+      "delivery_pct": 41.74
     }
   ],
   "news": [
@@ -597,20 +597,6 @@
       "desc": "Appointment",
       "sm_name": "Rail Vikas Nigam Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RVNL_12032026165721_Covering12032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 15:13:48",
-      "an_dt": "06-Mar-2026 15:13:48",
-      "desc": "News Verification",
-      "sm_name": "Rail Vikas Nigam Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RVNL_06032026151243_Merger_news_06032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 12:30:14",
-      "an_dt": "06-Mar-2026 12:30:14",
-      "desc": "News Verification",
-      "sm_name": "Rail Vikas Nigam Limited",
-      "attchmntFile": "-"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 1623.1,
   "market_cap_cr": 13518.64,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1653.5,
-      "prev_close": 1629.5,
-      "volume": 566658,
-      "deliverable_qty": 144226,
-      "delivery_pct": 25.45
-    },
     {
       "date": "2026-03-09",
       "close": 1577.9,
@@ -434,9 +426,38 @@
       "volume": 249575,
       "deliverable_qty": 58441,
       "delivery_pct": 23.42
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1742.8,
+      "prev_close": 1737.1,
+      "volume": 144393,
+      "deliverable_qty": 50209,
+      "delivery_pct": 34.77
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 17:53:33",
+      "an_dt": "05-Jun-2026 17:53:33",
+      "desc": "Change in Auditors",
+      "sm_name": "BEML Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BEML_05062026175252_05062026costauditor.pdf"
+    },
+    {
+      "sort_date": "2026-06-05 17:11:36",
+      "an_dt": "05-Jun-2026 17:11:36",
+      "desc": "Cessation",
+      "sm_name": "BEML Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BEML_05062026170944_05062026Dinesh.pdf"
+    },
+    {
+      "sort_date": "2026-06-05 17:11:36",
+      "an_dt": "05-Jun-2026 17:11:36",
+      "desc": "Appointment",
+      "sm_name": "BEML Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BEML_05062026170916_05062026Dinesh.pdf"
+    },
     {
       "sort_date": "2026-06-04 14:23:52",
       "an_dt": "04-Jun-2026 14:23:52",

@@ -8,17 +8,9 @@
   "price": 987.5,
   "market_cap_cr": 12691.62,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 969.35,
-      "prev_close": 989.55,
-      "volume": 43500,
-      "deliverable_qty": 25267,
-      "delivery_pct": 58.09
-    },
     {
       "date": "2026-03-09",
       "close": 949.05,
@@ -434,9 +426,24 @@
       "volume": 46155,
       "deliverable_qty": 22895,
       "delivery_pct": 49.6
+    },
+    {
+      "date": "2026-06-05",
+      "close": 930.05,
+      "prev_close": 929.3,
+      "volume": 48024,
+      "deliverable_qty": 22422,
+      "delivery_pct": 46.69
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 15:32:18",
+      "an_dt": "05-Jun-2026 15:32:18",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "UTI Asset Management Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_22052026132149_15.pdf"
+    },
     {
       "sort_date": "2026-06-04 16:02:02",
       "an_dt": "04-Jun-2026 16:02:02",

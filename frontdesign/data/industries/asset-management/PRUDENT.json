@@ -8,17 +8,9 @@
   "price": 2742.7,
   "market_cap_cr": 11356.61,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 2240.2,
-      "prev_close": 2232.4,
-      "volume": 15950,
-      "deliverable_qty": 10787,
-      "delivery_pct": 67.63
-    },
     {
       "date": "2026-03-09",
       "close": 2181.1,
@@ -434,9 +426,24 @@
       "volume": 27535,
       "deliverable_qty": 15347,
       "delivery_pct": 55.74
+    },
+    {
+      "date": "2026-06-05",
+      "close": 2696.9,
+      "prev_close": 2619.8,
+      "volume": 13861,
+      "deliverable_qty": 5207,
+      "delivery_pct": 37.57
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 12:14:44",
+      "an_dt": "05-Jun-2026 12:14:44",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Prudent Corporate Advisory Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_30042026182557_PRUDENT.pdf"
+    },
     {
       "sort_date": "2026-05-26 12:55:31",
       "an_dt": "26-May-2026 12:55:31",

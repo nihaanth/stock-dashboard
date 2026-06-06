@@ -8,17 +8,9 @@
   "price": 284.05,
   "market_cap_cr": 17193.45,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 228.4,
-      "prev_close": 231.23,
-      "volume": 212195,
-      "deliverable_qty": 122603,
-      "delivery_pct": 57.78
-    },
     {
       "date": "2026-03-09",
       "close": 219.46,
@@ -434,9 +426,24 @@
       "volume": 4610275,
       "deliverable_qty": 1683097,
       "delivery_pct": 36.51
+    },
+    {
+      "date": "2026-06-05",
+      "close": 356.65,
+      "prev_close": 345.85,
+      "volume": 6661042,
+      "deliverable_qty": 2193823,
+      "delivery_pct": 32.94
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 08:37:35",
+      "an_dt": "05-Jun-2026 08:37:35",
+      "desc": "Press Release",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_05062026083656_Intimation_05062026.pdf"
+    },
     {
       "sort_date": "2026-06-04 22:22:57",
       "an_dt": "04-Jun-2026 22:22:57",
@@ -926,20 +933,6 @@
       "desc": "Commencement of commercial production/operations",
       "sm_name": "Acme Solar Holdings Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_09032026210840_Intimation09032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 22:40:06",
-      "an_dt": "06-Mar-2026 22:40:06",
-      "desc": "Commencement of commercial production/operations",
-      "sm_name": "Acme Solar Holdings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_06032026223927_Sun_Power-33.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 20:24:33",
-      "an_dt": "06-Mar-2026 20:24:33",
-      "desc": "Updates",
-      "sm_name": "Acme Solar Holdings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACME122002_06032026201946_Intimation060302026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 140.37,
   "market_cap_cr": 198219.82,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 168.68,
-      "prev_close": 171.54,
-      "volume": 20979104,
-      "deliverable_qty": 10345309,
-      "delivery_pct": 49.31
-    },
     {
       "date": "2026-03-09",
       "close": 161.22,
@@ -434,9 +426,24 @@
       "volume": 10664527,
       "deliverable_qty": 5585777,
       "delivery_pct": 52.38
+    },
+    {
+      "date": "2026-06-05",
+      "close": 138.26,
+      "prev_close": 138.95,
+      "volume": 10644029,
+      "deliverable_qty": 5075532,
+      "delivery_pct": 47.68
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 17:27:06",
+      "an_dt": "05-Jun-2026 17:27:06",
+      "desc": "Change in Director(s)",
+      "sm_name": "Indian Oil Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IOC_05062026172654_Reg_30_Appointment_of_Nominee_Director_A_Amarnath_S.pdf"
+    },
     {
       "sort_date": "2026-06-01 11:11:41",
       "an_dt": "01-Jun-2026 11:11:41",
@@ -562,27 +569,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Indian Oil Corporation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IOC_11032026115628_2026_03_11_Reg_30_Newspaper_Publication_Special_Window_S.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 15:16:18",
-      "an_dt": "06-Mar-2026 15:16:18",
-      "desc": "Updates",
-      "sm_name": "Indian Oil Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IOC_06032026151557_2026_03_06_TDS_Communication_to_Shareholders_S.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 13:38:40",
-      "an_dt": "06-Mar-2026 13:38:40",
-      "desc": "Record Date",
-      "sm_name": "Indian Oil Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IOC_06032026133807_Reg_30_Outcome_of_Board_Meeting_2nd_Int_Dividend_2025_26_S.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 13:37:16",
-      "an_dt": "06-Mar-2026 13:37:16",
-      "desc": "Dividend",
-      "sm_name": "Indian Oil Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IOC_06032026133656_Reg_30_Outcome_of_Board_Meeting_2nd_Int_Dividend_2025_26_S.pdf"
     }
   ]
 }

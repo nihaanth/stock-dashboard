@@ -8,17 +8,9 @@
   "price": 295.95,
   "market_cap_cr": 1790.31,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 276.25,
-      "prev_close": 274.35,
-      "volume": 18724,
-      "deliverable_qty": 11806,
-      "delivery_pct": 63.05
-    },
     {
       "date": "2026-03-09",
       "close": 279.3,
@@ -434,6 +426,14 @@
       "volume": 540803,
       "deliverable_qty": 240923,
       "delivery_pct": 44.55
+    },
+    {
+      "date": "2026-06-05",
+      "close": 344.75,
+      "prev_close": 349.6,
+      "volume": 104404,
+      "deliverable_qty": 56061,
+      "delivery_pct": 53.7
     }
   ],
   "news": [
@@ -478,13 +478,6 @@
       "desc": "Trading Window",
       "sm_name": "Panama Petrochem Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PANAMAPET_24032026092718_twc.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 18:57:13",
-      "an_dt": "06-Mar-2026 18:57:13",
-      "desc": "Disclosure under SEBI Takeover Regulations",
-      "sm_name": "Panama Petrochem Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_06032026185520_PANAMAPET.pdf"
     }
   ]
 }

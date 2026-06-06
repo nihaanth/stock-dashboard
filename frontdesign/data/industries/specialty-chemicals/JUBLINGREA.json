@@ -8,17 +8,9 @@
   "price": 740.45,
   "market_cap_cr": 11678.12,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 567.0,
-      "prev_close": 565.1,
-      "volume": 166503,
-      "deliverable_qty": 95152,
-      "delivery_pct": 57.15
-    },
     {
       "date": "2026-03-09",
       "close": 541.3,
@@ -434,6 +426,14 @@
       "volume": 595619,
       "deliverable_qty": 499366,
       "delivery_pct": 83.84
+    },
+    {
+      "date": "2026-06-05",
+      "close": 626.25,
+      "prev_close": 621.9,
+      "volume": 113783,
+      "deliverable_qty": 55101,
+      "delivery_pct": 48.43
     }
   ],
   "news": [
@@ -618,13 +618,6 @@
       "desc": "General Updates",
       "sm_name": "Jubilant Ingrevia Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JUBLINGREA_13032026201824_acquisition.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 13:46:29",
-      "an_dt": "06-Mar-2026 13:46:29",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Jubilant Ingrevia Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JUBLINGREA_06032026134609_Stock_xchange-_Newspaper_advertisement-_Postal_balot-_Ameeta_chatterjee.pdf"
     }
   ]
 }

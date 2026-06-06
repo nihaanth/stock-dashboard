@@ -8,17 +8,9 @@
   "price": 191.1,
   "market_cap_cr": 18386.76,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 161.24,
-      "prev_close": 156.83,
-      "volume": 968584,
-      "deliverable_qty": 560478,
-      "delivery_pct": 57.87
-    },
     {
       "date": "2026-03-09",
       "close": 155.74,
@@ -434,9 +426,24 @@
       "volume": 3552907,
       "deliverable_qty": 1256254,
       "delivery_pct": 35.36
+    },
+    {
+      "date": "2026-06-05",
+      "close": 202.77,
+      "prev_close": 202.53,
+      "volume": 3384453,
+      "deliverable_qty": 949756,
+      "delivery_pct": 28.06
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 16:28:50",
+      "an_dt": "05-Jun-2026 16:28:50",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Capri Global Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CGCL_05062026162829_CGCL_Investor_Interaction_Exchange_Filing.pdf"
+    },
     {
       "sort_date": "2026-05-25 19:48:34",
       "an_dt": "25-May-2026 19:48:34",

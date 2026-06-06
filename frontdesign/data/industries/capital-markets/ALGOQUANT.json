@@ -8,17 +8,9 @@
   "price": 58.81,
   "market_cap_cr": 1653.13,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 60.33,
-      "prev_close": 61.13,
-      "volume": 717092,
-      "deliverable_qty": 154661,
-      "delivery_pct": 21.57
-    },
     {
       "date": "2026-03-09",
       "close": 60.26,
@@ -434,9 +426,24 @@
       "volume": 856820,
       "deliverable_qty": 124916,
       "delivery_pct": 14.58
+    },
+    {
+      "date": "2026-06-05",
+      "close": 54.66,
+      "prev_close": 54.43,
+      "volume": 2242273,
+      "deliverable_qty": 166330,
+      "delivery_pct": 7.42
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 13:10:48",
+      "an_dt": "05-Jun-2026 13:10:48",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Algoquant Fintech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_21052026183137_ALGOQUANT.pdf"
+    },
     {
       "sort_date": "2026-05-29 14:01:52",
       "an_dt": "29-May-2026 14:01:52",

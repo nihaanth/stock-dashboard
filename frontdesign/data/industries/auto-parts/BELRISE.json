@@ -8,17 +8,9 @@
   "price": 204.42,
   "market_cap_cr": 18190.91,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 197.2,
-      "prev_close": 187.62,
-      "volume": 16921216,
-      "deliverable_qty": 6095378,
-      "delivery_pct": 36.02
-    },
     {
       "date": "2026-03-09",
       "close": 193.13,
@@ -434,9 +426,24 @@
       "volume": 3773294,
       "deliverable_qty": 2011490,
       "delivery_pct": 53.31
+    },
+    {
+      "date": "2026-06-05",
+      "close": 215.98,
+      "prev_close": 216.12,
+      "volume": 1774389,
+      "deliverable_qty": 745447,
+      "delivery_pct": 42.01
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 12:25:35",
+      "an_dt": "05-Jun-2026 12:25:35",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Belrise Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_21052026162900_BELRISE.pdf"
+    },
     {
       "sort_date": "2026-06-01 20:24:33",
       "an_dt": "01-Jun-2026 20:24:33",

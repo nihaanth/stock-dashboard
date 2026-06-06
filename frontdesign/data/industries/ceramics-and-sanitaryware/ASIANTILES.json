@@ -8,17 +8,9 @@
   "price": 62.09,
   "market_cap_cr": 1840.82,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 66.67,
-      "prev_close": 68.19,
-      "volume": 2339476,
-      "deliverable_qty": 733374,
-      "delivery_pct": 31.35
-    },
     {
       "date": "2026-03-09",
       "close": 63.2,
@@ -434,9 +426,24 @@
       "volume": 881312,
       "deliverable_qty": 250896,
       "delivery_pct": 28.47
+    },
+    {
+      "date": "2026-06-05",
+      "close": 59.4,
+      "prev_close": 60.17,
+      "volume": 675662,
+      "deliverable_qty": 296694,
+      "delivery_pct": 43.91
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 18:26:51",
+      "an_dt": "05-Jun-2026 18:26:51",
+      "desc": "General Updates",
+      "sm_name": "Asian Granito India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASIANTILES_05062026182439_SEintimationFractionalAllot05062026s.pdf"
+    },
     {
       "sort_date": "2026-06-01 11:55:14",
       "an_dt": "01-Jun-2026 11:55:14",
@@ -562,13 +569,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "Asian Granito India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASIANTILES_13032026155556_Outcome.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 12:57:56",
-      "an_dt": "06-Mar-2026 12:57:56",
-      "desc": "General Updates",
-      "sm_name": "Asian Granito India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASIANTILES_06032026125745_seshortageofgas06032026.pdf"
     }
   ]
 }

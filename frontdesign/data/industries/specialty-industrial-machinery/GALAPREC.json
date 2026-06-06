@@ -8,17 +8,9 @@
   "price": 749.85,
   "market_cap_cr": 959.62,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 710.95,
-      "prev_close": 715.75,
-      "volume": 5887,
-      "deliverable_qty": 3563,
-      "delivery_pct": 60.52
-    },
     {
       "date": "2026-03-09",
       "close": 715.05,
@@ -434,9 +426,24 @@
       "volume": 48795,
       "deliverable_qty": 22978,
       "delivery_pct": 47.09
+    },
+    {
+      "date": "2026-06-05",
+      "close": 910.4,
+      "prev_close": 914.45,
+      "volume": 15720,
+      "deliverable_qty": 8355,
+      "delivery_pct": 53.15
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 14:50:19",
+      "an_dt": "05-Jun-2026 14:50:19",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Gala Precision Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GALAPRE_05062026145007_Intimation_of_Inv_Meet_05062026.pdf"
+    },
     {
       "sort_date": "2026-06-04 11:28:34",
       "an_dt": "04-Jun-2026 11:28:34",

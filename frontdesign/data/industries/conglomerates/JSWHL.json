@@ -8,17 +8,9 @@
   "price": 12534.0,
   "market_cap_cr": 13910.78,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 16504.0,
-      "prev_close": 16204.0,
-      "volume": 4301,
-      "deliverable_qty": 1171,
-      "delivery_pct": 27.23
-    },
     {
       "date": "2026-03-09",
       "close": 15846.0,
@@ -434,6 +426,14 @@
       "volume": 1757,
       "deliverable_qty": 660,
       "delivery_pct": 37.56
+    },
+    {
+      "date": "2026-06-05",
+      "close": 12506.0,
+      "prev_close": 12438.0,
+      "volume": 2017,
+      "deliverable_qty": 1165,
+      "delivery_pct": 57.76
     }
   ],
   "news": [
@@ -520,13 +520,6 @@
       "desc": "Trading Window",
       "sm_name": "JSW Holdings Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JSWHL_26032026154933_Closure_of_Trading_Window.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 12:46:20",
-      "an_dt": "06-Mar-2026 12:46:20",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "JSW Holdings Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JSWHL_06032026124602_Intimation_Uploaded.pdf"
     }
   ]
 }

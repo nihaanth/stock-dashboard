@@ -8,17 +8,9 @@
   "price": 132.81,
   "market_cap_cr": 1105.65,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 179.79,
-      "prev_close": 181.81,
-      "volume": 328610,
-      "deliverable_qty": 96205,
-      "delivery_pct": 29.28
-    },
     {
       "date": "2026-03-09",
       "close": 174.4,
@@ -434,6 +426,14 @@
       "volume": 110936,
       "deliverable_qty": 61065,
       "delivery_pct": 55.05
+    },
+    {
+      "date": "2026-06-05",
+      "close": 132.78,
+      "prev_close": 128.39,
+      "volume": 1235593,
+      "deliverable_qty": 290030,
+      "delivery_pct": 23.47
     }
   ],
   "news": [
@@ -779,13 +779,6 @@
       "desc": "Appointment",
       "sm_name": "Fino Payments Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINOPB_08032026000903_Cover-_Reg_30-_Approval_of_Interim_CEO.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 21:45:38",
-      "an_dt": "06-Mar-2026 21:45:38",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Fino Payments Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FINOPB_06032026214258_Cover_Outcome.pdf"
     }
   ]
 }

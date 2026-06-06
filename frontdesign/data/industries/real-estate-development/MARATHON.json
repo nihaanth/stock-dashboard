@@ -8,17 +8,9 @@
   "price": 496.4,
   "market_cap_cr": 3346.76,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 430.6,
-      "prev_close": 431.65,
-      "volume": 76682,
-      "deliverable_qty": 42107,
-      "delivery_pct": 54.91
-    },
     {
       "date": "2026-03-09",
       "close": 413.35,
@@ -434,9 +426,24 @@
       "volume": 121354,
       "deliverable_qty": 68700,
       "delivery_pct": 56.61
+    },
+    {
+      "date": "2026-06-05",
+      "close": 408.9,
+      "prev_close": 418.35,
+      "volume": 154166,
+      "deliverable_qty": 102511,
+      "delivery_pct": 66.49
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 18:00:55",
+      "an_dt": "05-Jun-2026 18:00:55",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Marathon Nextgen Realty Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARATHON_05062026175804_Transcript.pdf"
+    },
     {
       "sort_date": "2026-06-04 13:10:43",
       "an_dt": "04-Jun-2026 13:10:43",
@@ -597,20 +604,6 @@
       "desc": "Updates",
       "sm_name": "Marathon Nextgen Realty Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARATHON_09032026171259_SEINTIMATION.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 17:30:13",
-      "an_dt": "06-Mar-2026 17:30:13",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Marathon Nextgen Realty Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARATHON_06032026172930_ConCallIntimation11032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 12:27:41",
-      "an_dt": "06-Mar-2026 12:27:41",
-      "desc": "Updates",
-      "sm_name": "Marathon Nextgen Realty Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MARATHON_06032026122701_Intimation_under_Regulation_7_2__Signed.pdf"
     }
   ]
 }

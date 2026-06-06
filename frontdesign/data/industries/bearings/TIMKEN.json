@@ -8,17 +8,9 @@
   "price": 3619.0,
   "market_cap_cr": 27221.66,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 3385.4,
-      "prev_close": 3352.9,
-      "volume": 91029,
-      "deliverable_qty": 71125,
-      "delivery_pct": 78.13
-    },
     {
       "date": "2026-03-09",
       "close": 3285.7,
@@ -434,6 +426,14 @@
       "volume": 23350,
       "deliverable_qty": 13905,
       "delivery_pct": 59.55
+    },
+    {
+      "date": "2026-06-05",
+      "close": 3643.6,
+      "prev_close": 3571.3,
+      "volume": 81085,
+      "deliverable_qty": 35161,
+      "delivery_pct": 43.36
     }
   ],
   "news": [
@@ -569,13 +569,6 @@
       "desc": "Trading Window",
       "sm_name": "Timken India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIMKEN_16032026153800_SEIntimation_ClosureofTradingWindow.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 16:45:49",
-      "an_dt": "06-Mar-2026 16:45:49",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Timken India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIMKEN_06032026164355_SE_NewspaperPublication_Signed.pdf"
     }
   ]
 }

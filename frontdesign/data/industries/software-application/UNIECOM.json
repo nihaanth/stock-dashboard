@@ -8,17 +8,9 @@
   "price": 91.66,
   "market_cap_cr": 1030.17,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 99.7,
-      "prev_close": 100.36,
-      "volume": 274983,
-      "deliverable_qty": 130115,
-      "delivery_pct": 47.32
-    },
     {
       "date": "2026-03-09",
       "close": 95.89,
@@ -434,9 +426,31 @@
       "volume": 165493,
       "deliverable_qty": 86218,
       "delivery_pct": 52.1
+    },
+    {
+      "date": "2026-06-05",
+      "close": 86.4,
+      "prev_close": 86.88,
+      "volume": 176140,
+      "deliverable_qty": 92202,
+      "delivery_pct": 52.35
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 16:06:08",
+      "an_dt": "05-Jun-2026 16:06:08",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Unicommerce Esolutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIECOM_ROID_89609_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-06-05 16:03:15",
+      "an_dt": "05-Jun-2026 16:03:15",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Unicommerce Esolutions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UNIECOM_ROID_89608_KMP_Doc.zip"
+    },
     {
       "sort_date": "2026-05-22 17:23:55",
       "an_dt": "22-May-2026 17:23:55",

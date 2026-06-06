@@ -8,17 +8,9 @@
   "price": 4756.3,
   "market_cap_cr": 318089.44,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 4023.7,
-      "prev_close": 3891.8,
-      "volume": 2974581,
-      "deliverable_qty": 1331260,
-      "delivery_pct": 44.75
-    },
     {
       "date": "2026-03-09",
       "close": 3989.9,
@@ -434,9 +426,24 @@
       "volume": 718095,
       "deliverable_qty": 364337,
       "delivery_pct": 50.74
+    },
+    {
+      "date": "2026-06-05",
+      "close": 4216.9,
+      "prev_close": 4191.0,
+      "volume": 492608,
+      "deliverable_qty": 142822,
+      "delivery_pct": 28.99
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 12:14:15",
+      "an_dt": "05-Jun-2026 12:14:15",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Hindustan Aeronautics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_30042026182757_HAL.pdf"
+    },
     {
       "sort_date": "2026-05-27 10:58:35",
       "an_dt": "27-May-2026 10:58:35",

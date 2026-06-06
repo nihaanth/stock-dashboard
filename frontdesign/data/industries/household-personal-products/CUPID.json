@@ -8,17 +8,9 @@
   "price": 130.96,
   "market_cap_cr": 17609.68,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 402.2,
-      "prev_close": 405.5,
-      "volume": 6371108,
-      "deliverable_qty": 1861000,
-      "delivery_pct": 29.21
-    },
     {
       "date": "2026-03-09",
       "close": 91.6,
@@ -434,9 +426,24 @@
       "volume": 15465563,
       "deliverable_qty": 5666851,
       "delivery_pct": 36.64
+    },
+    {
+      "date": "2026-06-05",
+      "close": 137.1,
+      "prev_close": 133.09,
+      "volume": 15150953,
+      "deliverable_qty": 5649683,
+      "delivery_pct": 37.29
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 14:32:37",
+      "an_dt": "05-Jun-2026 14:32:37",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Cupid Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_23042026124110_Reg7.pdf"
+    },
     {
       "sort_date": "2026-06-03 17:21:23",
       "an_dt": "03-Jun-2026 17:21:23",
@@ -611,20 +618,6 @@
       "desc": "General Updates",
       "sm_name": "Cupid Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CUPID_10032026132357_Intimation_of_Allotment_of_Bonus_Shares.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 18:40:52",
-      "an_dt": "06-Mar-2026 18:40:52",
-      "desc": "Resignation of Independent director",
-      "sm_name": "Cupid Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CUPID_ROID_80140_KMP_Doc.zip"
-    },
-    {
-      "sort_date": "2026-03-06 18:38:33",
-      "an_dt": "06-Mar-2026 18:38:33",
-      "desc": "General Updates",
-      "sm_name": "Cupid Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CUPID_06032026183825_Intimation_Resignation_PDF.pdf"
     }
   ]
 }

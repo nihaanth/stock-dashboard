@@ -8,17 +8,9 @@
   "price": 910.8,
   "market_cap_cr": 2504.45,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 851.65,
-      "prev_close": 850.8,
-      "volume": 40684,
-      "deliverable_qty": 25339,
-      "delivery_pct": 62.28
-    },
     {
       "date": "2026-03-09",
       "close": 822.25,
@@ -434,9 +426,24 @@
       "volume": 51568,
       "deliverable_qty": 33955,
       "delivery_pct": 65.85
+    },
+    {
+      "date": "2026-06-05",
+      "close": 838.3,
+      "prev_close": 845.2,
+      "volume": 48774,
+      "deliverable_qty": 28768,
+      "delivery_pct": 58.98
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 12:50:02",
+      "an_dt": "05-Jun-2026 12:50:02",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Mangalam Cement Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANGLMCEM_05062026124928_NSE_BSE_Newspaper-S.pdf"
+    },
     {
       "sort_date": "2026-05-17 13:28:32",
       "an_dt": "17-May-2026 13:28:32",
@@ -548,13 +555,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Mangalam Cement Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANGLMCEM_07032026113542_NSE_BSE_Newspaper_07_03_2026_S.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 15:03:01",
-      "an_dt": "06-Mar-2026 15:03:01",
-      "desc": "Shareholders meeting",
-      "sm_name": "Mangalam Cement Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MANGLMCEM_06032026150233_StockexchangeIntimation_NoticePostalBallot_s.pdf"
     }
   ]
 }

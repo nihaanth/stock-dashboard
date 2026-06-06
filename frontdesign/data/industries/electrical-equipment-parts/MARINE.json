@@ -8,17 +8,9 @@
   "price": 192.01,
   "market_cap_cr": 2547.31,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 191.75,
-      "prev_close": 186.7,
-      "volume": 645175,
-      "deliverable_qty": 172628,
-      "delivery_pct": 26.76
-    },
     {
       "date": "2026-03-09",
       "close": 184.65,
@@ -434,9 +426,24 @@
       "volume": 700406,
       "deliverable_qty": 262039,
       "delivery_pct": 37.41
+    },
+    {
+      "date": "2026-06-05",
+      "close": 248.85,
+      "prev_close": 250.15,
+      "volume": 560240,
+      "deliverable_qty": 168148,
+      "delivery_pct": 30.01
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 17:55:36",
+      "an_dt": "05-Jun-2026 17:55:36",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Marine Electricals (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_01062026151129_20.pdf"
+    },
     {
       "sort_date": "2026-06-04 12:47:33",
       "an_dt": "04-Jun-2026 12:47:33",

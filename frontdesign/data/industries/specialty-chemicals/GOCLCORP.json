@@ -8,17 +8,9 @@
   "price": 317.05,
   "market_cap_cr": 1571.7,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 248.6,
-      "prev_close": 249.8,
-      "volume": 38692,
-      "deliverable_qty": 20089,
-      "delivery_pct": 51.92
-    },
     {
       "date": "2026-03-09",
       "close": 243.05,
@@ -434,9 +426,24 @@
       "volume": 343269,
       "deliverable_qty": 132569,
       "delivery_pct": 38.62
+    },
+    {
+      "date": "2026-06-05",
+      "close": 410.85,
+      "prev_close": 420.45,
+      "volume": 89413,
+      "deliverable_qty": 43432,
+      "delivery_pct": 48.57
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 18:16:43",
+      "an_dt": "05-Jun-2026 18:16:43",
+      "desc": "Shareholders meeting",
+      "sm_name": "GOCL Corporation Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GULFCORP_05062026181400_PBNoticeMay2026Signed.pdf"
+    },
     {
       "sort_date": "2026-05-29 19:44:48",
       "an_dt": "29-May-2026 19:44:48",

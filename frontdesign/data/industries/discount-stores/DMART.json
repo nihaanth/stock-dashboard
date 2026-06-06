@@ -8,17 +8,9 @@
   "price": 4389.4,
   "market_cap_cr": 286243.16,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 3875.8,
-      "prev_close": 3835.4,
-      "volume": 224906,
-      "deliverable_qty": 103203,
-      "delivery_pct": 45.89
-    },
     {
       "date": "2026-03-09",
       "close": 3966.2,
@@ -434,6 +426,14 @@
       "volume": 487765,
       "deliverable_qty": 244946,
       "delivery_pct": 50.22
+    },
+    {
+      "date": "2026-06-05",
+      "close": 4144.2,
+      "prev_close": 4139.3,
+      "volume": 366231,
+      "deliverable_qty": 201964,
+      "delivery_pct": 55.15
     }
   ],
   "news": [
@@ -709,13 +709,6 @@
       "desc": "Updates",
       "sm_name": "Avenue Supermarts Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DMART_08032026195041_ASLInitmationStoreOpening08032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 18:00:43",
-      "an_dt": "06-Mar-2026 18:00:43",
-      "desc": "Updates",
-      "sm_name": "Avenue Supermarts Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DMART_06032026180030_ASLInitmationStoreOpening06032026.pdf"
     }
   ]
 }

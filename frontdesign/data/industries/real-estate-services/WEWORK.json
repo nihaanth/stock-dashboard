@@ -8,17 +8,9 @@
   "price": 484.15,
   "market_cap_cr": 6554.33,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 450.35,
-      "prev_close": 461.35,
-      "volume": 117783,
-      "deliverable_qty": 70779,
-      "delivery_pct": 60.09
-    },
     {
       "date": "2026-03-09",
       "close": 426.5,
@@ -434,6 +426,14 @@
       "volume": 144729,
       "deliverable_qty": 55837,
       "delivery_pct": 38.58
+    },
+    {
+      "date": "2026-06-05",
+      "close": 641.05,
+      "prev_close": 630.55,
+      "volume": 756221,
+      "deliverable_qty": 448080,
+      "delivery_pct": 59.25
     }
   ],
   "news": [
@@ -646,13 +646,6 @@
       "desc": "Press Release",
       "sm_name": "WeWork India Management Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/WEWORK_09032026140111_Media_Release_-_Rivet_by_WeWork.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 12:32:18",
-      "an_dt": "06-Mar-2026 12:32:18",
-      "desc": "Product launch",
-      "sm_name": "WeWork India Management Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WEWORK_06032026123158_WeWork_-_Product_Launch.pdf"
     }
   ]
 }

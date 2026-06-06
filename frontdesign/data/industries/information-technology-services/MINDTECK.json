@@ -8,17 +8,9 @@
   "price": 215.88,
   "market_cap_cr": 689.83,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 195.26,
-      "prev_close": 194.43,
-      "volume": 45052,
-      "deliverable_qty": 14216,
-      "delivery_pct": 31.55
-    },
     {
       "date": "2026-03-09",
       "close": 187.17,
@@ -434,9 +426,24 @@
       "volume": 247595,
       "deliverable_qty": 58869,
       "delivery_pct": 23.78
+    },
+    {
+      "date": "2026-06-05",
+      "close": 212.49,
+      "prev_close": 216.25,
+      "volume": 83242,
+      "deliverable_qty": 34065,
+      "delivery_pct": 40.92
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 11:02:29",
+      "an_dt": "05-Jun-2026 11:02:29",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Mindteck (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_21052026121616_47.pdf"
+    },
     {
       "sort_date": "2026-06-03 20:09:04",
       "an_dt": "03-Jun-2026 20:09:04",

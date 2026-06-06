@@ -8,17 +8,9 @@
   "price": 493.85,
   "market_cap_cr": 57583.05,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 440.3,
-      "prev_close": 434.8,
-      "volume": 350669,
-      "deliverable_qty": 133490,
-      "delivery_pct": 38.07
-    },
     {
       "date": "2026-03-09",
       "close": 434.2,
@@ -434,6 +426,14 @@
       "volume": 497863,
       "deliverable_qty": 196875,
       "delivery_pct": 39.54
+    },
+    {
+      "date": "2026-06-05",
+      "close": 490.25,
+      "prev_close": 494.25,
+      "volume": 175032,
+      "deliverable_qty": 78079,
+      "delivery_pct": 44.61
     }
   ],
   "news": [
@@ -548,13 +548,6 @@
       "desc": "Trading Window",
       "sm_name": "Berger Paints (I) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PAINTBERGE_24032026184258_ClosureofTradingWindow240326.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 16:16:28",
-      "an_dt": "06-Mar-2026 16:16:28",
-      "desc": "General Updates",
-      "sm_name": "Berger Paints (I) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PAINTBERGE_06032026161617_ESGrating060326.pdf"
     }
   ]
 }

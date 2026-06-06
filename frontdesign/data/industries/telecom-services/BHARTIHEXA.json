@@ -8,17 +8,9 @@
   "price": 1464.7,
   "market_cap_cr": 73235.0,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1604.9,
-      "prev_close": 1608.9,
-      "volume": 22875,
-      "deliverable_qty": 9872,
-      "delivery_pct": 43.16
-    },
     {
       "date": "2026-03-09",
       "close": 1582.2,
@@ -434,9 +426,24 @@
       "volume": 67860,
       "deliverable_qty": 32306,
       "delivery_pct": 47.61
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1480.5,
+      "prev_close": 1489.3,
+      "volume": 61208,
+      "deliverable_qty": 32484,
+      "delivery_pct": 53.07
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 15:05:20",
+      "an_dt": "05-Jun-2026 15:05:20",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Bharti Hexacom Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_22052026125622_29.pdf"
+    },
     {
       "sort_date": "2026-06-04 18:53:04",
       "an_dt": "04-Jun-2026 18:53:04",

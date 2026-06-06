@@ -8,17 +8,9 @@
   "price": 401.4,
   "market_cap_cr": 1507.63,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 405.15,
-      "prev_close": 416.95,
-      "volume": 95923,
-      "deliverable_qty": 44794,
-      "delivery_pct": 46.7
-    },
     {
       "date": "2026-03-09",
       "close": 402.85,
@@ -434,6 +426,14 @@
       "volume": 236420,
       "deliverable_qty": 99814,
       "delivery_pct": 42.22
+    },
+    {
+      "date": "2026-06-05",
+      "close": 562.25,
+      "prev_close": 476.65,
+      "volume": 10906275,
+      "deliverable_qty": 618809,
+      "delivery_pct": 5.67
     }
   ],
   "news": [
@@ -506,13 +506,6 @@
       "desc": "Press Release",
       "sm_name": "Ramco Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAMCOSYS_10032026111745_10032026PressRelease.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 19:42:27",
-      "an_dt": "06-Mar-2026 19:42:27",
-      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-      "sm_name": "Ramco Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAMCOSYS_06032026194209_06032026intimationofIncometaxOrder143_3_.pdf"
     }
   ]
 }

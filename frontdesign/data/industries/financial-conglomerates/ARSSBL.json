@@ -8,17 +8,9 @@
   "price": 573.25,
   "market_cap_cr": 3595.72,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 486.65,
-      "prev_close": 493.15,
-      "volume": 118794,
-      "deliverable_qty": 56506,
-      "delivery_pct": 47.57
-    },
     {
       "date": "2026-03-09",
       "close": 459.55,
@@ -434,9 +426,31 @@
       "volume": 184421,
       "deliverable_qty": 90196,
       "delivery_pct": 48.91
+    },
+    {
+      "date": "2026-06-05",
+      "close": 524.75,
+      "prev_close": 527.05,
+      "volume": 212385,
+      "deliverable_qty": 102195,
+      "delivery_pct": 48.12
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 19:50:30",
+      "an_dt": "05-Jun-2026 19:50:30",
+      "desc": "Credit Rating- Revision",
+      "sm_name": "Anand Rathi Share and Stock Brokers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARSSBL_2024_05062026194854_CREDITRATINGINTIMATION_sd.pdf"
+    },
+    {
+      "sort_date": "2026-06-05 14:48:20",
+      "an_dt": "05-Jun-2026 14:48:20",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Anand Rathi Share and Stock Brokers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARSSBL_2024_05062026144644_Intimation_sd.pdf"
+    },
     {
       "sort_date": "2026-05-27 18:55:09",
       "an_dt": "27-May-2026 18:55:09",
@@ -618,20 +632,6 @@
       "desc": "Reply to Clarification- Financial results",
       "sm_name": "Anand Rathi Share and Stock Brokers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARSSBL_2024_10022026120806_Clarification_09022026_sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 19:22:39",
-      "an_dt": "06-Mar-2026 19:22:39",
-      "desc": "Initiation of Forensic Audit",
-      "sm_name": "Anand Rathi Share and Stock Brokers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARSSBL_2024_06032026191922_ARSSBL_ForensicAudit_final_sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 19:16:31",
-      "an_dt": "06-Mar-2026 19:16:31",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Anand Rathi Share and Stock Brokers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ARSSBL_2024_06032026191232_BSENSEINTIMATION_sd.pdf"
     }
   ]
 }

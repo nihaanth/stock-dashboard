@@ -8,17 +8,9 @@
   "price": 397.75,
   "market_cap_cr": 4589.67,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 355.95,
-      "prev_close": 356.5,
-      "volume": 66114,
-      "deliverable_qty": 25475,
-      "delivery_pct": 38.53
-    },
     {
       "date": "2026-03-09",
       "close": 354.95,
@@ -434,9 +426,24 @@
       "volume": 324654,
       "deliverable_qty": 173160,
       "delivery_pct": 53.34
+    },
+    {
+      "date": "2026-06-05",
+      "close": 311.5,
+      "prev_close": 303.75,
+      "volume": 477337,
+      "deliverable_qty": 150345,
+      "delivery_pct": 31.5
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 10:24:09",
+      "an_dt": "05-Jun-2026 10:24:09",
+      "desc": "Updates",
+      "sm_name": "Bajaj Electricals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BAJAJELEC_05062026102345_SignedSEIntimationCables__002_.pdf"
+    },
     {
       "sort_date": "2026-06-01 11:20:16",
       "an_dt": "01-Jun-2026 11:20:16",
@@ -751,13 +758,6 @@
       "desc": "General Updates",
       "sm_name": "Bajaj Electricals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BAJAJELEC_14032026140328_SignedSEIntimationGSTOrder14032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 14:56:36",
-      "an_dt": "06-Mar-2026 14:56:36",
-      "desc": "Allotment of Securities",
-      "sm_name": "Bajaj Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BAJAJELEC_06032026145454_SignedSEIntimationSRCMAllotment06032026.pdf"
     }
   ]
 }

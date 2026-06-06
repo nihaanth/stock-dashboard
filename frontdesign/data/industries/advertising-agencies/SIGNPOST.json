@@ -8,17 +8,9 @@
   "price": 297.95,
   "market_cap_cr": 1592.54,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 240.35,
-      "prev_close": 232.55,
-      "volume": 33885,
-      "deliverable_qty": 21727,
-      "delivery_pct": 64.12
-    },
     {
       "date": "2026-03-09",
       "close": 230.55,
@@ -434,9 +426,24 @@
       "volume": 74353,
       "deliverable_qty": 42888,
       "delivery_pct": 57.68
+    },
+    {
+      "date": "2026-06-05",
+      "close": 265.15,
+      "prev_close": 273.7,
+      "volume": 69892,
+      "deliverable_qty": 42199,
+      "delivery_pct": 60.38
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 16:01:37",
+      "an_dt": "05-Jun-2026 16:01:37",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Signpost India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_25052026164400_SIGNPOST.pdf"
+    },
     {
       "sort_date": "2026-06-03 19:41:58",
       "an_dt": "03-Jun-2026 19:41:58",

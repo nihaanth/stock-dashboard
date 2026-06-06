@@ -8,17 +8,9 @@
   "price": 145.63,
   "market_cap_cr": 3221.53,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 139.51,
-      "prev_close": 140.86,
-      "volume": 150963,
-      "deliverable_qty": 101283,
-      "delivery_pct": 67.09
-    },
     {
       "date": "2026-03-09",
       "close": 137.91,
@@ -434,6 +426,14 @@
       "volume": 191529,
       "deliverable_qty": 119681,
       "delivery_pct": 62.49
+    },
+    {
+      "date": "2026-06-05",
+      "close": 142.52,
+      "prev_close": 142.31,
+      "volume": 120913,
+      "deliverable_qty": 53210,
+      "delivery_pct": 44.01
     }
   ],
   "news": [
@@ -520,13 +520,6 @@
       "desc": "Trading Window",
       "sm_name": "Navneet Education Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Navneet26_31032026121801_Intimation_of_Closure_of_Trading_Window.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 16:59:19",
-      "an_dt": "06-Mar-2026 16:59:19",
-      "desc": "General Updates",
-      "sm_name": "Navneet Education Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Navneet26_06032026165605_Reg-30_Disclosure_Income_Tax_Demand_Final.pdf"
     }
   ]
 }

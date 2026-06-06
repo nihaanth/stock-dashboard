@@ -8,17 +8,9 @@
   "price": 2027.1,
   "market_cap_cr": 2216.99,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1583.0,
-      "prev_close": 1567.9,
-      "volume": 21140,
-      "deliverable_qty": 9975,
-      "delivery_pct": 47.19
-    },
     {
       "date": "2026-03-09",
       "close": 1550.7,
@@ -434,9 +426,24 @@
       "volume": 219810,
       "deliverable_qty": 76648,
       "delivery_pct": 34.87
+    },
+    {
+      "date": "2026-06-05",
+      "close": 2181.2,
+      "prev_close": 2215.4,
+      "volume": 121073,
+      "deliverable_qty": 39123,
+      "delivery_pct": 32.31
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 12:01:51",
+      "an_dt": "05-Jun-2026 12:01:51",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Advait Energy Transitions Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_30042026113521_REG4.pdf"
+    },
     {
       "sort_date": "2026-06-02 18:20:23",
       "an_dt": "02-Jun-2026 18:20:23",
@@ -611,13 +618,6 @@
       "desc": "News Verification",
       "sm_name": "Advait Energy Transitions Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_09032026184806_AETLrumorclarifications.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 17:08:06",
-      "an_dt": "06-Mar-2026 17:08:06",
-      "desc": "News Verification",
-      "sm_name": "Advait Energy Transitions Limited",
-      "attchmntFile": "-"
     }
   ]
 }

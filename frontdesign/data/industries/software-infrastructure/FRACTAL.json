@@ -8,17 +8,9 @@
   "price": 1059.8,
   "market_cap_cr": 18224.86,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 798.4,
-      "prev_close": 759.15,
-      "volume": 3121482,
-      "deliverable_qty": 556127,
-      "delivery_pct": 17.82
-    },
     {
       "date": "2026-03-09",
       "close": 776.3,
@@ -434,9 +426,24 @@
       "volume": 792820,
       "deliverable_qty": 314213,
       "delivery_pct": 39.63
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1004.9,
+      "prev_close": 1026.0,
+      "volume": 359037,
+      "deliverable_qty": 150929,
+      "delivery_pct": 42.04
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 17:53:21",
+      "an_dt": "05-Jun-2026 17:53:21",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Fractal Analytics Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FRACTAL_05062026175118_Institutional_Investors_Meet.pdf"
+    },
     {
       "sort_date": "2026-06-03 19:28:29",
       "an_dt": "03-Jun-2026 19:28:29",
@@ -639,20 +646,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Fractal Analytics Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/FRACTAL_07032026230052_Newspaper_Publication_SE_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 17:47:55",
-      "an_dt": "06-Mar-2026 17:47:55",
-      "desc": "Updates",
-      "sm_name": "Fractal Analytics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FRACTAL_06032026174741_Outcome_of_Board_Meeting__FS_OCR_.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 11:07:08",
-      "an_dt": "06-Mar-2026 11:07:08",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Fractal Analytics Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/FRACTAL_06032026110641_Earnings_Call_Audio_Fractal.pdf"
     }
   ]
 }

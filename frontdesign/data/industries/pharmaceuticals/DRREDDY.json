@@ -8,17 +8,9 @@
   "price": 1235.9,
   "market_cap_cr": 102900.39,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1303.8,
-      "prev_close": 1313.5,
-      "volume": 963701,
-      "deliverable_qty": 453187,
-      "delivery_pct": 47.03
-    },
     {
       "date": "2026-03-09",
       "close": 1287.0,
@@ -434,9 +426,24 @@
       "volume": 944045,
       "deliverable_qty": 601491,
       "delivery_pct": 63.71
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1278.2,
+      "prev_close": 1267.5,
+      "volume": 774687,
+      "deliverable_qty": 342023,
+      "delivery_pct": 44.15
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 15:36:50",
+      "an_dt": "05-Jun-2026 15:36:50",
+      "desc": "General Updates",
+      "sm_name": "Dr. Reddy's Laboratories Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DRREDDY_05062026153643_SE_Intimation_Allotment_of_ESOP_05062026_signed.pdf"
+    },
     {
       "sort_date": "2026-06-03 12:05:04",
       "an_dt": "03-Jun-2026 12:05:04",
@@ -702,13 +709,6 @@
       "desc": "Change in Management",
       "sm_name": "Dr. Reddy's Laboratories Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DRREDDY_10032026195122_SE_intimation_Reg30_change_in_SMP_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 17:15:31",
-      "an_dt": "06-Mar-2026 17:15:31",
-      "desc": "General Updates",
-      "sm_name": "Dr. Reddy's Laboratories Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DRREDDY_06032026171520_SE_Intimation_-_DOJ_060326_signed.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 305.85,
   "market_cap_cr": 383213.79,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 309.7,
-      "prev_close": 311.5,
-      "volume": 21288269,
-      "deliverable_qty": 14537871,
-      "delivery_pct": 68.29
-    },
     {
       "date": "2026-03-09",
       "close": 306.0,
@@ -434,6 +426,14 @@
       "volume": 22017634,
       "deliverable_qty": 13603009,
       "delivery_pct": 61.78
+    },
+    {
+      "date": "2026-06-05",
+      "close": 280.7,
+      "prev_close": 280.3,
+      "volume": 16065822,
+      "deliverable_qty": 9862118,
+      "delivery_pct": 61.39
     }
   ],
   "news": [
@@ -597,13 +597,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "ITC Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ITC_18032026152045_SE.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 14:21:31",
-      "an_dt": "06-Mar-2026 14:21:31",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "ITC Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ITC_06032026142059_SEIntimation.pdf"
     }
   ]
 }

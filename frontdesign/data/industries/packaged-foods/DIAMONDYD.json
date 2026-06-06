@@ -8,17 +8,9 @@
   "price": 1000.7,
   "market_cap_cr": 2392.73,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 989.6,
-      "prev_close": 1010.3,
-      "volume": 313869,
-      "deliverable_qty": 272211,
-      "delivery_pct": 86.73
-    },
     {
       "date": "2026-03-09",
       "close": 956.6,
@@ -434,9 +426,31 @@
       "volume": 58090,
       "deliverable_qty": 26673,
       "delivery_pct": 45.92
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1165.9,
+      "prev_close": 1165.8,
+      "volume": 49264,
+      "deliverable_qty": 33041,
+      "delivery_pct": 67.07
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 18:00:34",
+      "an_dt": "05-Jun-2026 18:00:34",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Prataap Snacks Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_01062026155730_DIAMONDYD.zip"
+    },
+    {
+      "sort_date": "2026-06-05 15:45:20",
+      "an_dt": "05-Jun-2026 15:45:20",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Prataap Snacks Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_22052026161758_DIAMONDYD.pdf"
+    },
     {
       "sort_date": "2026-04-29 12:53:08",
       "an_dt": "29-Apr-2026 12:53:08",

@@ -8,17 +8,9 @@
   "price": 261.56,
   "market_cap_cr": 54517.19,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 268.8,
-      "prev_close": 261.45,
-      "volume": 4396264,
-      "deliverable_qty": 1956753,
-      "delivery_pct": 44.51
-    },
     {
       "date": "2026-03-09",
       "close": 263.1,
@@ -434,9 +426,24 @@
       "volume": 800317,
       "deliverable_qty": 395604,
       "delivery_pct": 49.43
+    },
+    {
+      "date": "2026-06-05",
+      "close": 278.1,
+      "prev_close": 272.8,
+      "volume": 1926891,
+      "deliverable_qty": 992457,
+      "delivery_pct": 51.51
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 12:10:10",
+      "an_dt": "05-Jun-2026 12:10:10",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "JSW Infrastructure Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_30042026115015_UK_2.pdf"
+    },
     {
       "sort_date": "2026-05-12 18:25:27",
       "an_dt": "12-May-2026 18:25:27",

@@ -8,17 +8,9 @@
   "price": 550.65,
   "market_cap_cr": 8221.33,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 555.3,
-      "prev_close": 541.75,
-      "volume": 427937,
-      "deliverable_qty": 369635,
-      "delivery_pct": 86.38
-    },
     {
       "date": "2026-03-09",
       "close": 562.0,
@@ -434,6 +426,14 @@
       "volume": 76344,
       "deliverable_qty": 52675,
       "delivery_pct": 69.0
+    },
+    {
+      "date": "2026-06-05",
+      "close": 635.95,
+      "prev_close": 639.95,
+      "volume": 108575,
+      "deliverable_qty": 79936,
+      "delivery_pct": 73.62
     }
   ],
   "news": [
@@ -639,13 +639,6 @@
       "desc": "General Updates",
       "sm_name": "Healthcare Global Enterprises Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/HCG1_26032026180835_Tanzania_Winding_up.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 17:25:55",
-      "an_dt": "06-Mar-2026 17:25:55",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Healthcare Global Enterprises Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HCG1_06032026172531_Newpaper_ad_6_March_2026.pdf"
     }
   ]
 }

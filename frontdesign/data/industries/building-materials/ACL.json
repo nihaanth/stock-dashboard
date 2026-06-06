@@ -8,17 +8,9 @@
   "price": 56.74,
   "market_cap_cr": 522.98,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 53.79,
-      "prev_close": 52.74,
-      "volume": 11031,
-      "deliverable_qty": 6193,
-      "delivery_pct": 56.14
-    },
     {
       "date": "2026-03-09",
       "close": 52.75,
@@ -434,9 +426,24 @@
       "volume": 7510,
       "deliverable_qty": 6130,
       "delivery_pct": 81.62
+    },
+    {
+      "date": "2026-06-05",
+      "close": 54.14,
+      "prev_close": 53.73,
+      "volume": 15256,
+      "deliverable_qty": 12731,
+      "delivery_pct": 83.45
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 17:20:49",
+      "an_dt": "05-Jun-2026 17:20:49",
+      "desc": "Outcome of Board Meeting",
+      "sm_name": "Andhra Cements Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ANDHRACEMENT_05062026171943_BMoutcome05062026.pdf"
+    },
     {
       "sort_date": "2026-06-01 11:42:50",
       "an_dt": "01-Jun-2026 11:42:50",

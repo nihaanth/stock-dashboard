@@ -8,17 +8,9 @@
   "price": 1262.1,
   "market_cap_cr": 21553.2,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1133.9,
-      "prev_close": 1131.2,
-      "volume": 100285,
-      "deliverable_qty": 50459,
-      "delivery_pct": 50.32
-    },
     {
       "date": "2026-03-09",
       "close": 1091.0,
@@ -434,6 +426,14 @@
       "volume": 225682,
       "deliverable_qty": 94309,
       "delivery_pct": 41.79
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1290.3,
+      "prev_close": 1291.2,
+      "volume": 193618,
+      "deliverable_qty": 127059,
+      "delivery_pct": 65.62
     }
   ],
   "news": [
@@ -618,13 +618,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "Kalpataru Projects International Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/KALPATPOWR_17032026085110_SEIntimationPR17032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 16:51:07",
-      "an_dt": "06-Mar-2026 16:51:07",
-      "desc": "Other Restructuring",
-      "sm_name": "Kalpataru Projects International Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KALPATPOWER_06032026165028_SEIntimationFasttelJR032026FINAL.pdf"
     }
   ]
 }

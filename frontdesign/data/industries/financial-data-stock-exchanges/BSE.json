@@ -8,17 +8,9 @@
   "price": 3303.6,
   "market_cap_cr": 134168.81,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 2751.6,
-      "prev_close": 2761.4,
-      "volume": 3007569,
-      "deliverable_qty": 947894,
-      "delivery_pct": 31.52
-    },
     {
       "date": "2026-03-09",
       "close": 2768.9,
@@ -434,9 +426,24 @@
       "volume": 4245472,
       "deliverable_qty": 825834,
       "delivery_pct": 19.45
+    },
+    {
+      "date": "2026-06-05",
+      "close": 3880.0,
+      "prev_close": 4033.4,
+      "volume": 6658969,
+      "deliverable_qty": 1618289,
+      "delivery_pct": 24.3
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 10:41:14",
+      "an_dt": "05-Jun-2026 10:41:14",
+      "desc": "Updates",
+      "sm_name": "BSE Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BSE1_05062026103758_NSEIntimation.pdf"
+    },
     {
       "sort_date": "2026-06-03 16:37:33",
       "an_dt": "03-Jun-2026 16:37:33",

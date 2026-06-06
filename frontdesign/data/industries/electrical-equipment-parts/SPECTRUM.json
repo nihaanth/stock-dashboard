@@ -8,17 +8,9 @@
   "price": 1403.4,
   "market_cap_cr": 2205.28,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1422.7,
-      "prev_close": 1434.4,
-      "volume": 917,
-      "deliverable_qty": 514,
-      "delivery_pct": 56.05
-    },
     {
       "date": "2026-03-09",
       "close": 1362.5,
@@ -434,6 +426,14 @@
       "volume": 81126,
       "deliverable_qty": 19932,
       "delivery_pct": 24.57
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1769.1,
+      "prev_close": 1664.8,
+      "volume": 86017,
+      "deliverable_qty": 24621,
+      "delivery_pct": 28.62
     }
   ],
   "news": [
@@ -513,13 +513,6 @@
       "desc": "Trading Window",
       "sm_name": "Spectrum Electrical Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPECTRUM_25032026101751_SPECTRUM_Closure_of_Trading_Window.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 21:23:07",
-      "an_dt": "06-Mar-2026 21:23:07",
-      "desc": "General Updates",
-      "sm_name": "Spectrum Electrical Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPECTRUM_06032026212227_SPECTRUM_Intimation_Completion_of_Acquisition_Process.pdf"
     }
   ]
 }

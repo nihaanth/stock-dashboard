@@ -8,17 +8,9 @@
   "price": 3353.5,
   "market_cap_cr": 165749.6,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 2997.4,
-      "prev_close": 3008.2,
-      "volume": 343835,
-      "deliverable_qty": 247704,
-      "delivery_pct": 72.04
-    },
     {
       "date": "2026-03-09",
       "close": 2907.0,
@@ -434,6 +426,14 @@
       "volume": 172335,
       "deliverable_qty": 89504,
       "delivery_pct": 51.94
+    },
+    {
+      "date": "2026-06-05",
+      "close": 3249.0,
+      "prev_close": 3314.2,
+      "volume": 451485,
+      "deliverable_qty": 295729,
+      "delivery_pct": 65.5
     }
   ],
   "news": [
@@ -674,13 +674,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "ICICI Prudential Asset Management Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMCSECRETARIAL_26032026153726_ICICIAMCOutcomeofBoardMeeting.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 18:40:21",
-      "an_dt": "06-Mar-2026 18:40:21",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "ICICI Prudential Asset Management Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AMCSECRETARIAL_06032026184001_ICICIAMCIntimationtoSEnewspaperAdpostal_ballot.pdf"
     }
   ]
 }

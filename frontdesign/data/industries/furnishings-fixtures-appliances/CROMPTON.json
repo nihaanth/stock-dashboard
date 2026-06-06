@@ -8,17 +8,9 @@
   "price": 290.2,
   "market_cap_cr": 18967.41,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 248.0,
-      "prev_close": 250.1,
-      "volume": 961019,
-      "deliverable_qty": 415205,
-      "delivery_pct": 43.2
-    },
     {
       "date": "2026-03-09",
       "close": 241.3,
@@ -434,9 +426,24 @@
       "volume": 4315290,
       "deliverable_qty": 2632851,
       "delivery_pct": 61.01
+    },
+    {
+      "date": "2026-06-05",
+      "close": 266.6,
+      "prev_close": 269.3,
+      "volume": 4744279,
+      "deliverable_qty": 2464016,
+      "delivery_pct": 51.94
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 16:55:38",
+      "an_dt": "05-Jun-2026 16:55:38",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Crompton Greaves Consumer Electricals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Crompton123_05062026165530_Analystmeetintimation05062026.pdf"
+    },
     {
       "sort_date": "2026-06-02 18:14:38",
       "an_dt": "02-Jun-2026 18:14:38",
@@ -786,20 +793,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Crompton Greaves Consumer Electricals Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Crompton123_09032026115901_Analystmeetintimation09032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 16:32:26",
-      "an_dt": "06-Mar-2026 16:32:26",
-      "desc": "Credit Rating",
-      "sm_name": "Crompton Greaves Consumer Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Crompton123_06032026163208_CreditRatingInitmationCrompton.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 12:38:31",
-      "an_dt": "06-Mar-2026 12:38:31",
-      "desc": "Credit Rating- New",
-      "sm_name": "Crompton Greaves Consumer Electricals Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Crompton123_06032026123813_Credit_Rating_Initmation_Crompton.pdf"
     }
   ]
 }

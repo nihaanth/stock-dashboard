@@ -8,17 +8,9 @@
   "price": 662.35,
   "market_cap_cr": 8988.64,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 540.15,
-      "prev_close": 527.9,
-      "volume": 316017,
-      "deliverable_qty": 191065,
-      "delivery_pct": 60.46
-    },
     {
       "date": "2026-03-09",
       "close": 532.35,
@@ -434,6 +426,14 @@
       "volume": 125032,
       "deliverable_qty": 58335,
       "delivery_pct": 46.66
+    },
+    {
+      "date": "2026-06-05",
+      "close": 572.35,
+      "prev_close": 549.4,
+      "volume": 680615,
+      "deliverable_qty": 261019,
+      "delivery_pct": 38.35
     }
   ],
   "news": [
@@ -639,13 +639,6 @@
       "desc": "Updates",
       "sm_name": "P N Gadgil Jewellers Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNGJEWELLERS_07032026191007_IntimationofStoreOpening.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 18:40:41",
-      "an_dt": "06-Mar-2026 18:40:41",
-      "desc": "Credit Rating",
-      "sm_name": "P N Gadgil Jewellers Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PNGJEWELLERS_06032026183913_IntimationOfCreditRatings.pdf"
     }
   ]
 }

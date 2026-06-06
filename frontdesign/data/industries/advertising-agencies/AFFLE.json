@@ -8,17 +8,9 @@
   "price": 1420.0,
   "market_cap_cr": 19970.97,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1350.6,
-      "prev_close": 1359.5,
-      "volume": 89583,
-      "deliverable_qty": 38519,
-      "delivery_pct": 43.0
-    },
     {
       "date": "2026-03-09",
       "close": 1391.0,
@@ -434,6 +426,14 @@
       "volume": 140125,
       "deliverable_qty": 59230,
       "delivery_pct": 42.27
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1476.1,
+      "prev_close": 1482.1,
+      "volume": 178011,
+      "deliverable_qty": 80042,
+      "delivery_pct": 44.96
     }
   ],
   "news": [
@@ -625,13 +625,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Affle 3i Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFFLE_09032026102835_IntimationofAnalystInvestorMeetings09032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 18:15:19",
-      "an_dt": "06-Mar-2026 18:15:19",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Affle 3i Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFFLE_06032026181502_IntimationofAnalystInvestorMeetings_6032026_signed.pdf"
     }
   ]
 }

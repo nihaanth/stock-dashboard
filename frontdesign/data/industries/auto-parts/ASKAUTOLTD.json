@@ -8,17 +8,9 @@
   "price": 439.9,
   "market_cap_cr": 8672.3,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 391.85,
-      "prev_close": 389.25,
-      "volume": 121992,
-      "deliverable_qty": 61826,
-      "delivery_pct": 50.68
-    },
     {
       "date": "2026-03-09",
       "close": 380.1,
@@ -434,6 +426,14 @@
       "volume": 42354,
       "deliverable_qty": 18637,
       "delivery_pct": 44.0
+    },
+    {
+      "date": "2026-06-05",
+      "close": 438.65,
+      "prev_close": 435.6,
+      "volume": 119736,
+      "deliverable_qty": 66153,
+      "delivery_pct": 55.25
     }
   ],
   "news": [
@@ -569,13 +569,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "ASK Automotive Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/8448091598_07032026171659_stxintimationnew00703026sd.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 18:12:31",
-      "an_dt": "06-Mar-2026 18:12:31",
-      "desc": "Shareholders meeting",
-      "sm_name": "ASK Automotive Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/8448091598_06032026181155_stxintimation06032026.pdf"
     }
   ]
 }

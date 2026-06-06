@@ -8,17 +8,9 @@
   "price": 896.15,
   "market_cap_cr": 9894.8,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 884.85,
-      "prev_close": 885.8,
-      "volume": 193290,
-      "deliverable_qty": 100352,
-      "delivery_pct": 51.92
-    },
     {
       "date": "2026-03-09",
       "close": 858.3,
@@ -434,9 +426,24 @@
       "volume": 285079,
       "deliverable_qty": 163538,
       "delivery_pct": 57.37
+    },
+    {
+      "date": "2026-06-05",
+      "close": 877.2,
+      "prev_close": 892.45,
+      "volume": 509518,
+      "deliverable_qty": 272261,
+      "delivery_pct": 53.44
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 10:15:33",
+      "an_dt": "05-Jun-2026 10:15:33",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Cyient Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20052026184436_CYIENT.pdf"
+    },
     {
       "sort_date": "2026-06-01 21:09:53",
       "an_dt": "01-Jun-2026 21:09:53",

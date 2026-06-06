@@ -8,17 +8,9 @@
   "price": 480.85,
   "market_cap_cr": 7653.29,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 369.85,
-      "prev_close": 374.65,
-      "volume": 177133,
-      "deliverable_qty": 84033,
-      "delivery_pct": 47.44
-    },
     {
       "date": "2026-03-09",
       "close": 375.15,
@@ -434,9 +426,31 @@
       "volume": 283959,
       "deliverable_qty": 99376,
       "delivery_pct": 35.0
+    },
+    {
+      "date": "2026-06-05",
+      "close": 518.0,
+      "prev_close": 520.75,
+      "volume": 89511,
+      "deliverable_qty": 40785,
+      "delivery_pct": 45.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 12:39:26",
+      "an_dt": "05-Jun-2026 12:39:26",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Thyrocare Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20042026173126_THYROCARE.pdf"
+    },
+    {
+      "sort_date": "2026-06-05 12:37:17",
+      "an_dt": "05-Jun-2026 12:37:17",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Thyrocare Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/THYROCARE_05062026123338_Intimation_SE_NP.pdf"
+    },
     {
       "sort_date": "2026-06-04 22:03:00",
       "an_dt": "04-Jun-2026 22:03:00",

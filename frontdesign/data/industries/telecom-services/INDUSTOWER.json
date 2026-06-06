@@ -8,17 +8,9 @@
   "price": 410.65,
   "market_cap_cr": 108294.7,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 452.05,
-      "prev_close": 451.4,
-      "volume": 2140959,
-      "deliverable_qty": 1043424,
-      "delivery_pct": 48.74
-    },
     {
       "date": "2026-03-09",
       "close": 438.5,
@@ -434,9 +426,31 @@
       "volume": 5657168,
       "deliverable_qty": 3321014,
       "delivery_pct": 58.7
+    },
+    {
+      "date": "2026-06-05",
+      "close": 429.65,
+      "prev_close": 430.45,
+      "volume": 4806525,
+      "deliverable_qty": 2998080,
+      "delivery_pct": 62.38
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 15:58:38",
+      "an_dt": "05-Jun-2026 15:58:38",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Indus Towers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_25052026163845_INDUSTOWER1.pdf"
+    },
+    {
+      "sort_date": "2026-06-05 15:56:44",
+      "an_dt": "05-Jun-2026 15:56:44",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Indus Towers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_25052026163020_INDUSTOWER.pdf"
+    },
     {
       "sort_date": "2026-05-25 15:58:36",
       "an_dt": "25-May-2026 15:58:36",

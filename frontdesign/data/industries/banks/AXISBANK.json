@@ -8,17 +8,9 @@
   "price": 1272.3,
   "market_cap_cr": 395553.59,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1315.8,
-      "prev_close": 1349.1,
-      "volume": 11629935,
-      "deliverable_qty": 9172821,
-      "delivery_pct": 78.87
-    },
     {
       "date": "2026-03-09",
       "close": 1288.3,
@@ -434,9 +426,31 @@
       "volume": 6392593,
       "deliverable_qty": 4173058,
       "delivery_pct": 65.28
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1272.3,
+      "prev_close": 1253.3,
+      "volume": 7825303,
+      "deliverable_qty": 4633062,
+      "delivery_pct": 59.21
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 17:38:09",
+      "an_dt": "05-Jun-2026 17:38:09",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Axis Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK1_05062026173644_AnalystPresentation05062026Signed.pdf"
+    },
+    {
+      "sort_date": "2026-06-05 15:47:10",
+      "an_dt": "05-Jun-2026 15:47:10",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Axis Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_22052026162514_AXISBANK1.pdf"
+    },
     {
       "sort_date": "2026-06-04 20:14:34",
       "an_dt": "04-Jun-2026 20:14:34",
@@ -835,20 +849,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Axis Bank Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK_09032026165135_Advance_Intimation_13_March_Investec_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 17:59:33",
-      "an_dt": "06-Mar-2026 17:59:33",
-      "desc": "Updates",
-      "sm_name": "Axis Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK_06032026175752_Intimation_Under_Reg30_0603202_signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 14:43:54",
-      "an_dt": "06-Mar-2026 14:43:54",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Axis Bank Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AXISBANK_06032026144345_Advance_Intimation_12_March_Autonomous_signed.pdf"
     }
   ]
 }

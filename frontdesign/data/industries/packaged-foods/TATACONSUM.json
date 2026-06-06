@@ -8,17 +8,9 @@
   "price": 1090.3,
   "market_cap_cr": 107906.86,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1116.7,
-      "prev_close": 1119.1,
-      "volume": 919798,
-      "deliverable_qty": 542818,
-      "delivery_pct": 59.01
-    },
     {
       "date": "2026-03-09",
       "close": 1102.5,
@@ -434,6 +426,14 @@
       "volume": 1711734,
       "deliverable_qty": 910253,
       "delivery_pct": 53.18
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1130.9,
+      "prev_close": 1149.3,
+      "volume": 998276,
+      "deliverable_qty": 465241,
+      "delivery_pct": 46.6
     }
   ],
   "news": [
@@ -730,20 +730,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "TATA CONSUMER PRODUCTS LIMITED",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/Kajal_09032026152553_TCPL_Analystmeeting_09032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 15:14:48",
-      "an_dt": "06-Mar-2026 15:14:48",
-      "desc": "Change in Auditors",
-      "sm_name": "TATA CONSUMER PRODUCTS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Sukhvinder_06032026151430_SE_Intimation_Auditors.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 15:11:08",
-      "an_dt": "06-Mar-2026 15:11:08",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "TATA CONSUMER PRODUCTS LIMITED",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Sukhvinder_06032026151049_SE_Intimation_Auditors.pdf"
     }
   ]
 }

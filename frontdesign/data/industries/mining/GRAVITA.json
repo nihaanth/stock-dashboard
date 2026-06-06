@@ -8,17 +8,9 @@
   "price": 1555.9,
   "market_cap_cr": 11332.7,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1539.1,
-      "prev_close": 1536.8,
-      "volume": 128475,
-      "deliverable_qty": 67231,
-      "delivery_pct": 52.33
-    },
     {
       "date": "2026-03-09",
       "close": 1496.7,
@@ -434,9 +426,24 @@
       "volume": 118394,
       "deliverable_qty": 55644,
       "delivery_pct": 47.0
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1630.7,
+      "prev_close": 1639.6,
+      "volume": 123085,
+      "deliverable_qty": 50953,
+      "delivery_pct": 41.4
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 18:05:54",
+      "an_dt": "05-Jun-2026 18:05:54",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Gravita India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRAVITA_05062026180408_investormeet.pdf"
+    },
     {
       "sort_date": "2026-06-03 17:40:57",
       "an_dt": "03-Jun-2026 17:40:57",
@@ -744,20 +751,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "Gravita India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRAVITA_07032026185916_Scrutinizerreportfinal07032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 19:58:19",
-      "an_dt": "06-Mar-2026 19:58:19",
-      "desc": "Shareholders meeting",
-      "sm_name": "Gravita India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRAVITA_06032026195748_Proceedingsofpostalballot06032026final.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 19:20:24",
-      "an_dt": "06-Mar-2026 19:20:24",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Gravita India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GRAVITA_06032026191806_Outcome06032026__2_.pdf"
     }
   ]
 }

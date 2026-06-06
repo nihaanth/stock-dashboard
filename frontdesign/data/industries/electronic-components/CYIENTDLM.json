@@ -8,17 +8,9 @@
   "price": 424.4,
   "market_cap_cr": 3368.23,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 295.7,
-      "prev_close": 299.6,
-      "volume": 186985,
-      "deliverable_qty": 102474,
-      "delivery_pct": 54.8
-    },
     {
       "date": "2026-03-09",
       "close": 288.05,
@@ -434,9 +426,24 @@
       "volume": 222999,
       "deliverable_qty": 95660,
       "delivery_pct": 42.9
+    },
+    {
+      "date": "2026-06-05",
+      "close": 453.4,
+      "prev_close": 457.8,
+      "volume": 117332,
+      "deliverable_qty": 51345,
+      "delivery_pct": 43.76
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 10:34:47",
+      "an_dt": "05-Jun-2026 10:34:47",
+      "desc": "Updates",
+      "sm_name": "Cyient DLM Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/9880504433_05062026103436_ESOP_allotment_june_2026_sgined.pdf"
+    },
     {
       "sort_date": "2026-05-19 16:22:30",
       "an_dt": "19-May-2026 16:22:30",

@@ -8,17 +8,9 @@
   "price": 375.05,
   "market_cap_cr": 1060.15,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 342.85,
-      "prev_close": 322.15,
-      "volume": 33692,
-      "deliverable_qty": 20150,
-      "delivery_pct": 59.81
-    },
     {
       "date": "2026-03-09",
       "close": 329.85,
@@ -434,9 +426,24 @@
       "volume": 17947,
       "deliverable_qty": 11512,
       "delivery_pct": 64.14
+    },
+    {
+      "date": "2026-06-05",
+      "close": 361.6,
+      "prev_close": 342.7,
+      "volume": 162535,
+      "deliverable_qty": 126130,
+      "delivery_pct": 77.6
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 10:16:35",
+      "an_dt": "05-Jun-2026 10:16:35",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Crest Ventures Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20052026184817_CREST.pdf"
+    },
     {
       "sort_date": "2026-05-24 12:07:04",
       "an_dt": "24-May-2026 12:07:04",

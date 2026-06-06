@@ -8,17 +8,9 @@
   "price": 1522.1,
   "market_cap_cr": 9887.29,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1157.0,
-      "prev_close": 1136.1,
-      "volume": 88723,
-      "deliverable_qty": 64435,
-      "delivery_pct": 72.62
-    },
     {
       "date": "2026-03-09",
       "close": 1104.5,
@@ -434,9 +426,31 @@
       "volume": 94741,
       "deliverable_qty": 47372,
       "delivery_pct": 50.0
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1570.8,
+      "prev_close": 1598.2,
+      "volume": 69471,
+      "deliverable_qty": 34365,
+      "delivery_pct": 49.47
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 19:38:57",
+      "an_dt": "05-Jun-2026 19:38:57",
+      "desc": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "sm_name": "Kirloskar Pneumatic Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/revatideshpande_05062026193850_SEDisclosure.pdf"
+    },
+    {
+      "sort_date": "2026-06-05 12:40:05",
+      "an_dt": "05-Jun-2026 12:40:05",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Kirloskar Pneumatic Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20042026131110_34.pdf"
+    },
     {
       "sort_date": "2026-06-02 15:01:43",
       "an_dt": "02-Jun-2026 15:01:43",

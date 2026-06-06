@@ -8,17 +8,9 @@
   "price": 830.5,
   "market_cap_cr": 23106.87,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 794.95,
-      "prev_close": 805.9,
-      "volume": 85973,
-      "deliverable_qty": 58458,
-      "delivery_pct": 68.0
-    },
     {
       "date": "2026-03-09",
       "close": 770.65,
@@ -434,9 +426,24 @@
       "volume": 1083978,
       "deliverable_qty": 320566,
       "delivery_pct": 29.57
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1001.3,
+      "prev_close": 1002.0,
+      "volume": 663549,
+      "deliverable_qty": 169386,
+      "delivery_pct": 25.53
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 11:14:20",
+      "an_dt": "05-Jun-2026 11:14:20",
+      "desc": "Monthly Business Updates",
+      "sm_name": "Shyam Metalics and Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHYAMMETL_05062026111412_salesrelease05062026.pdf"
+    },
     {
       "sort_date": "2026-06-01 12:34:20",
       "an_dt": "01-Jun-2026 12:34:20",
@@ -646,13 +653,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Shyam Metalics and Energy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHYAMMETL_09032026183252_outcomeofinvestormeet.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 12:49:34",
-      "an_dt": "06-Mar-2026 12:49:34",
-      "desc": "Monthly Business Updates",
-      "sm_name": "Shyam Metalics and Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHYAMMETL_06032026124925_salesrelease.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 1160.0,
   "market_cap_cr": 1949.08,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1037.0,
-      "prev_close": 1028.2,
-      "volume": 108700,
-      "deliverable_qty": 51448,
-      "delivery_pct": 47.33
-    },
     {
       "date": "2026-03-09",
       "close": 991.9,
@@ -434,9 +426,24 @@
       "volume": 257159,
       "deliverable_qty": 94911,
       "delivery_pct": 36.91
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1836.1,
+      "prev_close": 1890.1,
+      "volume": 214449,
+      "deliverable_qty": 74705,
+      "delivery_pct": 34.84
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 14:22:45",
+      "an_dt": "05-Jun-2026 14:22:45",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Kernex Microsystems (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_23042026130847_Reg11.pdf"
+    },
     {
       "sort_date": "2026-05-29 14:12:22",
       "an_dt": "29-May-2026 14:12:22",

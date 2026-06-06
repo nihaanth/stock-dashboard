@@ -8,17 +8,9 @@
   "price": 760.35,
   "market_cap_cr": 10565.22,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 681.0,
-      "prev_close": 658.35,
-      "volume": 521440,
-      "deliverable_qty": 167219,
-      "delivery_pct": 32.07
-    },
     {
       "date": "2026-03-09",
       "close": 674.0,
@@ -434,6 +426,14 @@
       "volume": 326352,
       "deliverable_qty": 152144,
       "delivery_pct": 46.62
+    },
+    {
+      "date": "2026-06-05",
+      "close": 745.95,
+      "prev_close": 732.9,
+      "volume": 468120,
+      "deliverable_qty": 211482,
+      "delivery_pct": 45.18
     }
   ],
   "news": [
@@ -765,13 +765,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Intellect Design Arena Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTELLECT_09032026113229_Investormeeting09032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 12:59:37",
-      "an_dt": "06-Mar-2026 12:59:37",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Intellect Design Arena Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/INTELLECT_06032026125909_InvestorMeetingdated06032026.pdf"
     }
   ]
 }

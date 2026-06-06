@@ -8,17 +8,9 @@
   "price": 62.57,
   "market_cap_cr": 3647.06,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 63.25,
-      "prev_close": 62.95,
-      "volume": 1671063,
-      "deliverable_qty": 1209265,
-      "delivery_pct": 72.37
-    },
     {
       "date": "2026-03-09",
       "close": 62.91,
@@ -434,9 +426,24 @@
       "volume": 1354349,
       "deliverable_qty": 994801,
       "delivery_pct": 73.45
+    },
+    {
+      "date": "2026-06-05",
+      "close": 68.71,
+      "prev_close": 68.52,
+      "volume": 1615117,
+      "deliverable_qty": 1164252,
+      "delivery_pct": 72.08
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 17:37:00",
+      "an_dt": "05-Jun-2026 17:37:00",
+      "desc": "Updates",
+      "sm_name": "Restaurant Brands Asia Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_05062026173019_RBA.pdf"
+    },
     {
       "sort_date": "2026-06-03 13:05:13",
       "an_dt": "03-Jun-2026 13:05:13",

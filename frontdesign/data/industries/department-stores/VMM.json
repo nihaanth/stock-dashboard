@@ -8,17 +8,9 @@
   "price": 114.54,
   "market_cap_cr": 53527.15,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 111.85,
-      "prev_close": 114.91,
-      "volume": 13044082,
-      "deliverable_qty": 6756885,
-      "delivery_pct": 51.8
-    },
     {
       "date": "2026-03-09",
       "close": 108.65,
@@ -434,9 +426,31 @@
       "volume": 12214531,
       "deliverable_qty": 5921322,
       "delivery_pct": 48.48
+    },
+    {
+      "date": "2026-06-05",
+      "close": 118.73,
+      "prev_close": 118.26,
+      "volume": 17407128,
+      "deliverable_qty": 10289262,
+      "delivery_pct": 59.11
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 20:12:35",
+      "an_dt": "05-Jun-2026 20:12:35",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Vishal Mega Mart Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VMM_ROID_89644_KMP_Doc.zip"
+    },
+    {
+      "sort_date": "2026-06-05 19:44:51",
+      "an_dt": "05-Jun-2026 19:44:51",
+      "desc": "Change in Management",
+      "sm_name": "Vishal Mega Mart Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VMMP2024_05062026194210_Signed_Intimation_to_Stock_Exchanges_Resignation_of_Vishal.pdf"
+    },
     {
       "sort_date": "2026-06-02 08:35:51",
       "an_dt": "02-Jun-2026 08:35:51",
@@ -611,13 +625,6 @@
       "desc": "Change in Management",
       "sm_name": "Vishal Mega Mart Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VMMP2024_12032026132132_Signed_Intimation_to_Stock_Exchanges_Resignation_of_Kuldeep_Sharma.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 09:54:26",
-      "an_dt": "06-Mar-2026 09:54:26",
-      "desc": "ESOP/ESOS/ESPS",
-      "sm_name": "Vishal Mega Mart Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VMMP2024_06032026095140_Stock_Exchange_Intimation_Exercise_ESOPs_March_06_2026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 4620.2,
   "market_cap_cr": 5285.6,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 3802.9,
-      "prev_close": 3851.4,
-      "volume": 17325,
-      "deliverable_qty": 10527,
-      "delivery_pct": 60.76
-    },
     {
       "date": "2026-03-09",
       "close": 3675.1,
@@ -434,9 +426,24 @@
       "volume": 25186,
       "deliverable_qty": 12104,
       "delivery_pct": 48.06
+    },
+    {
+      "date": "2026-06-05",
+      "close": 4069.0,
+      "prev_close": 4133.4,
+      "volume": 15290,
+      "deliverable_qty": 8535,
+      "delivery_pct": 55.82
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 16:38:19",
+      "an_dt": "05-Jun-2026 16:38:19",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Shilchar Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHILCHARTECH_05062026163755_Group_Investor_Visit_Outcome.pdf"
+    },
     {
       "sort_date": "2026-06-02 16:00:17",
       "an_dt": "02-Jun-2026 16:00:17",
@@ -541,20 +548,6 @@
       "desc": "Cessation",
       "sm_name": "Shilchar Technologies Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHILCHARTECH_13032026200737_Disclosure.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 21:08:32",
-      "an_dt": "06-Mar-2026 21:08:32",
-      "desc": "Change in Management",
-      "sm_name": "Shilchar Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHILCHARTECH_06032026210821_Reg_30_Appointment_of_Director.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 21:05:29",
-      "an_dt": "06-Mar-2026 21:05:29",
-      "desc": "Shareholders meeting",
-      "sm_name": "Shilchar Technologies Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHILCHARTECH_06032026210455_Outcome.pdf"
     }
   ]
 }

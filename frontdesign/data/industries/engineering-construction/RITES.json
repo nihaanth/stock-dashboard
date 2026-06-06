@@ -8,17 +8,9 @@
   "price": 205.2,
   "market_cap_cr": 9861.99,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 206.62,
-      "prev_close": 201.87,
-      "volume": 1487507,
-      "deliverable_qty": 249057,
-      "delivery_pct": 16.74
-    },
     {
       "date": "2026-03-09",
       "close": 200.3,
@@ -434,9 +426,31 @@
       "volume": 266298,
       "deliverable_qty": 109361,
       "delivery_pct": 41.07
+    },
+    {
+      "date": "2026-06-05",
+      "close": 210.49,
+      "prev_close": 200.22,
+      "volume": 10631207,
+      "deliverable_qty": 689856,
+      "delivery_pct": 6.49
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 22:09:34",
+      "an_dt": "05-Jun-2026 22:09:34",
+      "desc": "Change in Director(s)",
+      "sm_name": "RITES Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RITES_05062026220829_Intimation_signed.pdf"
+    },
+    {
+      "sort_date": "2026-06-05 19:23:45",
+      "an_dt": "05-Jun-2026 19:23:45",
+      "desc": "Spurt in Volume",
+      "sm_name": "RITES Limited",
+      "attchmntFile": "-"
+    },
     {
       "sort_date": "2026-06-04 10:56:37",
       "an_dt": "04-Jun-2026 10:56:37",
@@ -653,13 +667,6 @@
       "desc": "Bagging/Receiving of orders/contracts",
       "sm_name": "RITES Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/RITES_07032026132907_Signed_Major_Order_Intimation_07032026_Final.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 19:00:53",
-      "an_dt": "06-Mar-2026 19:00:53",
-      "desc": "Bagging/Receiving of orders/contracts",
-      "sm_name": "RITES Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RITES_06032026190036_Major_Order-mysuru_signed.pdf"
     }
   ]
 }

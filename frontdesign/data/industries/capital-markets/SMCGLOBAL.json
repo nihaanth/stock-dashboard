@@ -8,17 +8,9 @@
   "price": 64.25,
   "market_cap_cr": 1345.39,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 71.74,
-      "prev_close": 74.33,
-      "volume": 537276,
-      "deliverable_qty": 295670,
-      "delivery_pct": 55.03
-    },
     {
       "date": "2026-03-09",
       "close": 68.44,
@@ -434,9 +426,24 @@
       "volume": 132825,
       "deliverable_qty": 85595,
       "delivery_pct": 64.44
+    },
+    {
+      "date": "2026-06-05",
+      "close": 59.88,
+      "prev_close": 59.22,
+      "volume": 424300,
+      "deliverable_qty": 305159,
+      "delivery_pct": 71.92
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 14:08:28",
+      "an_dt": "05-Jun-2026 14:08:28",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "SMC Global Securities Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SMCGLOBAL_05062026140641_Final_Notice_Advertisment-SD.pdf"
+    },
     {
       "sort_date": "2026-06-04 16:49:15",
       "an_dt": "04-Jun-2026 16:49:15",

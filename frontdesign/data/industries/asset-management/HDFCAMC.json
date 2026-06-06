@@ -8,17 +8,9 @@
   "price": 2747.2,
   "market_cap_cr": 117708.8,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 2503.8,
-      "prev_close": 2559.0,
-      "volume": 689587,
-      "deliverable_qty": 366964,
-      "delivery_pct": 53.22
-    },
     {
       "date": "2026-03-09",
       "close": 2461.1,
@@ -434,6 +426,14 @@
       "volume": 661317,
       "deliverable_qty": 330057,
       "delivery_pct": 49.91
+    },
+    {
+      "date": "2026-06-05",
+      "close": 2495.9,
+      "prev_close": 2522.9,
+      "volume": 1100160,
+      "deliverable_qty": 609069,
+      "delivery_pct": 55.36
     }
   ],
   "news": [
@@ -611,20 +611,6 @@
       "desc": "ESOP/ESOS/ESPS",
       "sm_name": "HDFC Asset Management Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DEEPTI_17032026141629_NSEBSE_80.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 15:51:16",
-      "an_dt": "06-Mar-2026 15:51:16",
-      "desc": "Appointment",
-      "sm_name": "HDFC Asset Management Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DEEPTI_06032026154925_NSEBSE_79.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 15:51:16",
-      "an_dt": "06-Mar-2026 15:51:16",
-      "desc": "Appointment",
-      "sm_name": "HDFC Asset Management Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DEEPTI_06032026154915_NSEBSE_79.pdf"
     }
   ]
 }

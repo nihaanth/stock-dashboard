@@ -8,17 +8,9 @@
   "price": 9816.0,
   "market_cap_cr": 274114.31,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 9816.0,
-      "prev_close": 9804.5,
-      "volume": 386552,
-      "deliverable_qty": 232772,
-      "delivery_pct": 60.22
-    },
     {
       "date": "2026-03-09",
       "close": 9383.0,
@@ -434,6 +426,14 @@
       "volume": 539031,
       "deliverable_qty": 286465,
       "delivery_pct": 53.14
+    },
+    {
+      "date": "2026-06-05",
+      "close": 10342.0,
+      "prev_close": 10362.0,
+      "volume": 247150,
+      "deliverable_qty": 143070,
+      "delivery_pct": 57.89
     }
   ],
   "news": [
@@ -702,13 +702,6 @@
       "desc": "Credit Rating",
       "sm_name": "Bajaj Auto Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/lkwalimbe_bajajauto_co_in_07032026133747_SE_-_BACL_Credit_Rating_07_March_2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 21:03:50",
-      "an_dt": "06-Mar-2026 21:03:50",
-      "desc": "Agreements",
-      "sm_name": "Bajaj Auto Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/lkwalimbe_bajajauto_co_in_06032026210332_SE_Intimation_BV_Bank_Loan_Termination_Signed.pdf"
     }
   ]
 }

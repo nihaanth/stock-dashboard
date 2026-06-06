@@ -8,17 +8,9 @@
   "price": 245.15,
   "market_cap_cr": 1228.02,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 275.1,
-      "prev_close": 280.05,
-      "volume": 47124,
-      "deliverable_qty": 1290,
-      "delivery_pct": 2.74
-    },
     {
       "date": "2026-03-09",
       "close": 270.25,
@@ -434,9 +426,24 @@
       "volume": 60136,
       "deliverable_qty": 15320,
       "delivery_pct": 25.48
+    },
+    {
+      "date": "2026-06-05",
+      "close": 241.3,
+      "prev_close": 233.11,
+      "volume": 65307,
+      "deliverable_qty": 25180,
+      "delivery_pct": 38.56
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 12:05:52",
+      "an_dt": "05-Jun-2026 12:05:52",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Laxmi Goldorna House Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_21052026131250_24.pdf"
+    },
     {
       "sort_date": "2026-06-03 16:54:16",
       "an_dt": "03-Jun-2026 16:54:16",

@@ -8,17 +8,9 @@
   "price": 308.35,
   "market_cap_cr": 986.72,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 229.69,
-      "prev_close": 233.16,
-      "volume": 20836,
-      "deliverable_qty": 11277,
-      "delivery_pct": 54.12
-    },
     {
       "date": "2026-03-09",
       "close": 219.97,
@@ -434,6 +426,14 @@
       "volume": 60393,
       "deliverable_qty": 33721,
       "delivery_pct": 55.84
+    },
+    {
+      "date": "2026-06-05",
+      "close": 237.55,
+      "prev_close": 250.3,
+      "volume": 85054,
+      "deliverable_qty": 58818,
+      "delivery_pct": 69.15
     }
   ],
   "news": [
@@ -513,13 +513,6 @@
       "desc": "Trading Window",
       "sm_name": "Indef Manufacturing Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/BAJAJINDEF_31032026171243_TradingWindowClosureSigned.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 16:25:17",
-      "an_dt": "06-Mar-2026 16:25:17",
-      "desc": "Cessation",
-      "sm_name": "Indef Manufacturing Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BAJAJINDEF_06032026161900_IntimationKMResignation.pdf"
     }
   ]
 }

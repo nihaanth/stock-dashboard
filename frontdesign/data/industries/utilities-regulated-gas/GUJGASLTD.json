@@ -8,17 +8,9 @@
   "price": 380.95,
   "market_cap_cr": 26224.22,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 395.65,
-      "prev_close": 397.15,
-      "volume": 558679,
-      "deliverable_qty": 196467,
-      "delivery_pct": 35.17
-    },
     {
       "date": "2026-03-09",
       "close": 372.05,
@@ -434,9 +426,31 @@
       "volume": 461461,
       "deliverable_qty": 226990,
       "delivery_pct": 49.19
+    },
+    {
+      "date": "2026-06-05",
+      "close": 400.5,
+      "prev_close": 402.8,
+      "volume": 386970,
+      "deliverable_qty": 210095,
+      "delivery_pct": 54.29
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 23:00:44",
+      "an_dt": "05-Jun-2026 23:00:44",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Gujarat Gas Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GUJGASLTD_05062026230023_1579SEITRANSCRIPTQ4FY252601062026.pdf"
+    },
+    {
+      "sort_date": "2026-06-05 12:37:34",
+      "an_dt": "05-Jun-2026 12:37:34",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Gujarat Gas Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_22042026132345_11.pdf"
+    },
     {
       "sort_date": "2026-06-01 19:28:44",
       "an_dt": "01-Jun-2026 19:28:44",

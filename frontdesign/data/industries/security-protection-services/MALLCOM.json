@@ -8,17 +8,9 @@
   "price": 1090.0,
   "market_cap_cr": 680.16,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1071.7,
-      "prev_close": 1092.8,
-      "volume": 4697,
-      "deliverable_qty": 3769,
-      "delivery_pct": 80.24
-    },
     {
       "date": "2026-03-09",
       "close": 1047.0,
@@ -434,9 +426,24 @@
       "volume": 7590,
       "deliverable_qty": 5332,
       "delivery_pct": 70.25
+    },
+    {
+      "date": "2026-06-05",
+      "close": 962.35,
+      "prev_close": 979.9,
+      "volume": 2917,
+      "deliverable_qty": 2396,
+      "delivery_pct": 82.14
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 11:19:30",
+      "an_dt": "05-Jun-2026 11:19:30",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Mallcom (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_21052026123223_40.pdf"
+    },
     {
       "sort_date": "2026-06-01 16:07:39",
       "an_dt": "01-Jun-2026 16:07:39",

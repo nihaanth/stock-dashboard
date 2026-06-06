@@ -8,17 +8,9 @@
   "price": 404.15,
   "market_cap_cr": 4968.23,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 347.0,
-      "prev_close": 350.75,
-      "volume": 83048,
-      "deliverable_qty": 41155,
-      "delivery_pct": 49.56
-    },
     {
       "date": "2026-03-09",
       "close": 336.85,
@@ -434,9 +426,24 @@
       "volume": 419707,
       "deliverable_qty": 215340,
       "delivery_pct": 51.31
+    },
+    {
+      "date": "2026-06-05",
+      "close": 350.65,
+      "prev_close": 348.75,
+      "volume": 228175,
+      "deliverable_qty": 108748,
+      "delivery_pct": 47.66
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 17:23:27",
+      "an_dt": "05-Jun-2026 17:23:27",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "ION Exchange (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IONEXCHANGE_05062026171641_Concall-Ion_Exchange_Q4_Upload.pdf"
+    },
     {
       "sort_date": "2026-06-04 18:02:07",
       "an_dt": "04-Jun-2026 18:02:07",
@@ -562,13 +569,6 @@
       "desc": "Outcome of Board Meeting",
       "sm_name": "ION Exchange (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IONEXCHANGE_18032026191144_Outcome_BM_18032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 15:03:24",
-      "an_dt": "06-Mar-2026 15:03:24",
-      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-      "sm_name": "ION Exchange (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IONEXCHANGE_06032026145826_Intimation_Update_on_Litigation_ACETP_Upload.pdf"
     }
   ]
 }

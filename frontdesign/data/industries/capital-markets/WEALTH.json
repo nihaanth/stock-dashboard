@@ -8,17 +8,9 @@
   "price": 926.1,
   "market_cap_cr": 986.76,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 950.3,
-      "prev_close": 970.7,
-      "volume": 3423,
-      "deliverable_qty": 2081,
-      "delivery_pct": 60.79
-    },
     {
       "date": "2026-03-09",
       "close": 973.2,
@@ -434,9 +426,24 @@
       "volume": 2047,
       "deliverable_qty": 1802,
       "delivery_pct": 88.03
+    },
+    {
+      "date": "2026-06-05",
+      "close": 926.95,
+      "prev_close": 944.15,
+      "volume": 1319,
+      "deliverable_qty": 811,
+      "delivery_pct": 61.49
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 16:42:49",
+      "an_dt": "05-Jun-2026 16:42:49",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Wealth First Portfolio Managers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/WEALTH_05062026164237_TranscriptOfInvestorMeet.pdf"
+    },
     {
       "sort_date": "2026-06-01 15:59:21",
       "an_dt": "01-Jun-2026 15:59:21",

@@ -8,17 +8,9 @@
   "price": 973.6,
   "market_cap_cr": 898692.86,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1143.0,
-      "prev_close": 1169.5,
-      "volume": 20333328,
-      "deliverable_qty": 13855646,
-      "delivery_pct": 68.14
-    },
     {
       "date": "2026-03-09",
       "close": 1098.5,
@@ -434,9 +426,24 @@
       "volume": 18875883,
       "deliverable_qty": 9702135,
       "delivery_pct": 51.4
+    },
+    {
+      "date": "2026-06-05",
+      "close": 977.7,
+      "prev_close": 979.25,
+      "volume": 20955539,
+      "deliverable_qty": 9146984,
+      "delivery_pct": 43.65
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 13:58:23",
+      "an_dt": "05-Jun-2026 13:58:23",
+      "desc": "General Updates",
+      "sm_name": "State Bank of India",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBIN_05062026134936_BSE_NSE_06062026.pdf"
+    },
     {
       "sort_date": "2026-06-03 17:00:08",
       "an_dt": "03-Jun-2026 17:00:08",
@@ -870,13 +877,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "State Bank of India",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBIN_09032026182245_BSE_NSE_InvestorMeet_Intimation_09032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 15:27:19",
-      "an_dt": "06-Mar-2026 15:27:19",
-      "desc": "Credit Rating- New",
-      "sm_name": "State Bank of India",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBIN1_06032026152702_SE_disclosure_dsc.pdf"
     }
   ]
 }

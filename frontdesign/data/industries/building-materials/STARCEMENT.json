@@ -8,17 +8,9 @@
   "price": 228.45,
   "market_cap_cr": 9233.5,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 203.96,
-      "prev_close": 203.89,
-      "volume": 246128,
-      "deliverable_qty": 140639,
-      "delivery_pct": 57.14
-    },
     {
       "date": "2026-03-09",
       "close": 198.17,
@@ -434,9 +426,24 @@
       "volume": 189557,
       "deliverable_qty": 147273,
       "delivery_pct": 77.69
+    },
+    {
+      "date": "2026-06-05",
+      "close": 209.06,
+      "prev_close": 208.99,
+      "volume": 450586,
+      "deliverable_qty": 330160,
+      "delivery_pct": 73.27
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 11:36:55",
+      "an_dt": "05-Jun-2026 11:36:55",
+      "desc": "Investor Presentation",
+      "sm_name": "Star Cement Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STARCEMENT_05062026113641_Investor_Presentation.pdf"
+    },
     {
       "sort_date": "2026-05-27 16:36:01",
       "an_dt": "27-May-2026 16:36:01",

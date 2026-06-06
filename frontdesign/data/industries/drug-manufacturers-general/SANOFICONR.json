@@ -8,17 +8,9 @@
   "price": 4649.9,
   "market_cap_cr": 10724.29,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 4410.1,
-      "prev_close": 4236.5,
-      "volume": 63200,
-      "deliverable_qty": 12949,
-      "delivery_pct": 20.49
-    },
     {
       "date": "2026-03-09",
       "close": 4423.7,
@@ -434,9 +426,24 @@
       "volume": 2849,
       "deliverable_qty": 1606,
       "delivery_pct": 56.37
+    },
+    {
+      "date": "2026-06-05",
+      "close": 4765.7,
+      "prev_close": 4702.6,
+      "volume": 2306,
+      "deliverable_qty": 1489,
+      "delivery_pct": 64.57
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 12:56:01",
+      "an_dt": "05-Jun-2026 12:56:01",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Sanofi Consumer Healthcare India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SANOFICONSUMER_05062026125553_SE_Intimation_s.pdf"
+    },
     {
       "sort_date": "2026-06-04 23:00:53",
       "an_dt": "04-Jun-2026 23:00:53",

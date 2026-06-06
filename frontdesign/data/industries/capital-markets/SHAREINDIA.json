@@ -8,17 +8,9 @@
   "price": 144.72,
   "market_cap_cr": 3166.84,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 131.99,
-      "prev_close": 123.88,
-      "volume": 16599138,
-      "deliverable_qty": 578813,
-      "delivery_pct": 3.49
-    },
     {
       "date": "2026-03-09",
       "close": 128.94,
@@ -434,6 +426,14 @@
       "volume": 283568,
       "deliverable_qty": 129963,
       "delivery_pct": 45.83
+    },
+    {
+      "date": "2026-06-05",
+      "close": 135.29,
+      "prev_close": 136.26,
+      "volume": 375729,
+      "deliverable_qty": 143232,
+      "delivery_pct": 38.12
     }
   ],
   "news": [
@@ -646,13 +646,6 @@
       "desc": "Redemption",
       "sm_name": "Share India Securities Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SISL_11032026104031_Reg30Redemption10032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 11:49:36",
-      "an_dt": "06-Mar-2026 11:49:36",
-      "desc": "Appointment",
-      "sm_name": "Share India Securities Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SISL_06032026114908_DisclAppointmentArunJainFeb2026.pdf"
     }
   ]
 }

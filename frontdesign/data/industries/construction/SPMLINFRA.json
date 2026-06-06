@@ -8,17 +8,9 @@
   "price": 184.3,
   "market_cap_cr": 1470.6,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 172.75,
-      "prev_close": 180.67,
-      "volume": 1078758,
-      "deliverable_qty": 215484,
-      "delivery_pct": 19.98
-    },
     {
       "date": "2026-03-09",
       "close": 164.1,
@@ -434,6 +426,14 @@
       "volume": 367345,
       "deliverable_qty": 186981,
       "delivery_pct": 50.9
+    },
+    {
+      "date": "2026-06-05",
+      "close": 197.0,
+      "prev_close": 200.38,
+      "volume": 229440,
+      "deliverable_qty": 112742,
+      "delivery_pct": 49.14
     }
   ],
   "news": [
@@ -660,13 +660,6 @@
       "desc": "Allotment of Securities",
       "sm_name": "SPML Infra Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPMLINFRA_12032026154437_Intimation_unsigned-output.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 12:52:31",
-      "an_dt": "06-Mar-2026 12:52:31",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "SPML Infra Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SPMLINFRA_06032026125216_Newspaper_advertisement.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 60.07,
   "market_cap_cr": 1833.4,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 32.71,
-      "prev_close": 33.56,
-      "volume": 563301,
-      "deliverable_qty": 346578,
-      "delivery_pct": 61.53
-    },
     {
       "date": "2026-03-09",
       "close": 32.33,
@@ -434,9 +426,24 @@
       "volume": 9986437,
       "deliverable_qty": 4339681,
       "delivery_pct": 43.46
+    },
+    {
+      "date": "2026-06-05",
+      "close": 67.32,
+      "prev_close": 69.36,
+      "volume": 5519490,
+      "deliverable_qty": 2244692,
+      "delivery_pct": 40.67
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 14:35:36",
+      "an_dt": "05-Jun-2026 14:35:36",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Paramount Communications Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_23042026111000_PCL_Regulation.pdf"
+    },
     {
       "sort_date": "2026-06-02 14:04:50",
       "an_dt": "02-Jun-2026 14:04:50",

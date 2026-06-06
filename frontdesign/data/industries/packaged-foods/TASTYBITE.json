@@ -8,17 +8,9 @@
   "price": 8015.5,
   "market_cap_cr": 2056.78,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 6988.0,
-      "prev_close": 7017.5,
-      "volume": 561,
-      "deliverable_qty": 343,
-      "delivery_pct": 61.14
-    },
     {
       "date": "2026-03-09",
       "close": 7047.0,
@@ -434,9 +426,31 @@
       "volume": 6615,
       "deliverable_qty": 2569,
       "delivery_pct": 38.84
+    },
+    {
+      "date": "2026-06-05",
+      "close": 7854.0,
+      "prev_close": 7720.5,
+      "volume": 2355,
+      "deliverable_qty": 967,
+      "delivery_pct": 41.06
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 17:55:36",
+      "an_dt": "05-Jun-2026 17:55:36",
+      "desc": "Resignation",
+      "sm_name": "Tasty Bite Eatables Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TASTYBITE_05062026175359_Shivhari_resignation_intimation_to_SE_signed.pdf"
+    },
+    {
+      "sort_date": "2026-06-05 17:50:34",
+      "an_dt": "05-Jun-2026 17:50:34",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Tasty Bite Eatables Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TASTYBITE_ROID_89624_KMP_Doc.zip"
+    },
     {
       "sort_date": "2026-06-03 18:51:09",
       "an_dt": "03-Jun-2026 18:51:09",

@@ -8,17 +8,9 @@
   "price": 462.35,
   "market_cap_cr": 19660.41,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 485.1,
-      "prev_close": 491.4,
-      "volume": 965741,
-      "deliverable_qty": 455458,
-      "delivery_pct": 47.16
-    },
     {
       "date": "2026-03-09",
       "close": 471.4,
@@ -434,6 +426,14 @@
       "volume": 7382754,
       "deliverable_qty": 2528835,
       "delivery_pct": 34.25
+    },
+    {
+      "date": "2026-06-05",
+      "close": 516.9,
+      "prev_close": 530.3,
+      "volume": 2100898,
+      "deliverable_qty": 799782,
+      "delivery_pct": 38.07
     }
   ],
   "news": [
@@ -667,13 +667,6 @@
       "desc": "Allotment of Securities",
       "sm_name": "IIFL Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFL_10032026113055_AllotmentNCD_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 10:17:40",
-      "an_dt": "06-Mar-2026 10:17:40",
-      "desc": "Allotment of Securities",
-      "sm_name": "IIFL Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IIFL_06032026101632_Project_Inca_6_-_SE_Intimation_-_Allotment_-_06032026.pdf"
     }
   ]
 }

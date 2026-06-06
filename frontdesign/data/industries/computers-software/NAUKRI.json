@@ -8,17 +8,9 @@
   "price": 994.65,
   "market_cap_cr": 64403.62,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 980.1,
-      "prev_close": 1015.3,
-      "volume": 1548231,
-      "deliverable_qty": 937662,
-      "delivery_pct": 60.56
-    },
     {
       "date": "2026-03-09",
       "close": 979.3,
@@ -434,9 +426,24 @@
       "volume": 934260,
       "deliverable_qty": 454864,
       "delivery_pct": 48.69
+    },
+    {
+      "date": "2026-06-05",
+      "close": 988.45,
+      "prev_close": 1008.85,
+      "volume": 1456438,
+      "deliverable_qty": 771537,
+      "delivery_pct": 52.97
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 12:22:38",
+      "an_dt": "05-Jun-2026 12:22:38",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Info Edge (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NAUKRI2_05062026122140_IEIL-Second_100_days_Campaign-Saksham_Niveshak.pdf"
+    },
     {
       "sort_date": "2026-06-03 16:48:18",
       "an_dt": "03-Jun-2026 16:48:18",
@@ -723,13 +730,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Info Edge (India) Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/NAUKRI2_09032026165058_IEIL_Intimation_Investor_Call_Schedule_Mar_2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 12:43:44",
-      "an_dt": "06-Mar-2026 12:43:44",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Info Edge (India) Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NAUKRI2_06032026124314_IEIL_Relodgement_newspaper_Clippings.pdf"
     }
   ]
 }

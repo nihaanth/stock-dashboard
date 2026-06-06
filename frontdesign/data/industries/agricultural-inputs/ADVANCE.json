@@ -8,17 +8,9 @@
   "price": 111.62,
   "market_cap_cr": 717.56,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 110.06,
-      "prev_close": 109.25,
-      "volume": 177086,
-      "deliverable_qty": 82224,
-      "delivery_pct": 46.43
-    },
     {
       "date": "2026-03-09",
       "close": 104.87,
@@ -434,6 +426,14 @@
       "volume": 59405,
       "deliverable_qty": 36118,
       "delivery_pct": 60.8
+    },
+    {
+      "date": "2026-06-05",
+      "close": 101.28,
+      "prev_close": 102.32,
+      "volume": 45679,
+      "deliverable_qty": 28886,
+      "delivery_pct": 63.24
     }
   ],
   "news": [
@@ -534,13 +534,6 @@
       "desc": "Capacity addition",
       "sm_name": "Advance Agrolife Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADVANCE_13032026204233_New_intimation_PEDA__1_.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 16:22:07",
-      "an_dt": "06-Mar-2026 16:22:07",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Advance Agrolife Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ADVANCE_06032026161658_Intimation_for_investor_conference.pdf"
     }
   ]
 }

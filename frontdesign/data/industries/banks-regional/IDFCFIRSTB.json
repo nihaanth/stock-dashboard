@@ -8,17 +8,9 @@
   "price": 64.86,
   "market_cap_cr": 55793.91,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 69.98,
-      "prev_close": 70.4,
-      "volume": 23163809,
-      "deliverable_qty": 9568493,
-      "delivery_pct": 41.31
-    },
     {
       "date": "2026-03-09",
       "close": 66.76,
@@ -434,9 +426,24 @@
       "volume": 19743553,
       "deliverable_qty": 9781884,
       "delivery_pct": 49.54
+    },
+    {
+      "date": "2026-06-05",
+      "close": 72.35,
+      "prev_close": 72.16,
+      "volume": 28670926,
+      "deliverable_qty": 13455566,
+      "delivery_pct": 46.93
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 22:05:46",
+      "an_dt": "05-Jun-2026 22:05:46",
+      "desc": "Final  forensic  audit  report",
+      "sm_name": "IDFC First Bank Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IDFCFIRSTB_05062026220239_Outcome_KPMG_Forensic_Review_Report.pdf"
+    },
     {
       "sort_date": "2026-05-27 15:18:44",
       "an_dt": "27-May-2026 15:18:44",

@@ -8,17 +8,9 @@
   "price": 1904.0,
   "market_cap_cr": 9125.5,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1769.9,
-      "prev_close": 1778.3,
-      "volume": 323366,
-      "deliverable_qty": 167563,
-      "delivery_pct": 51.82
-    },
     {
       "date": "2026-03-09",
       "close": 1764.0,
@@ -434,9 +426,24 @@
       "volume": 664036,
       "deliverable_qty": 247917,
       "delivery_pct": 37.33
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1958.4,
+      "prev_close": 1913.3,
+      "volume": 431228,
+      "deliverable_qty": 156580,
+      "delivery_pct": 36.31
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 10:08:56",
+      "an_dt": "05-Jun-2026 10:08:56",
+      "desc": "Press Release",
+      "sm_name": "Cartrade Tech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CARTRADE_05062026100848_Press_Release.pdf"
+    },
     {
       "sort_date": "2026-06-03 19:04:58",
       "an_dt": "03-Jun-2026 19:04:58",

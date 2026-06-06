@@ -8,17 +8,9 @@
   "price": 451.65,
   "market_cap_cr": 5099.31,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 346.1,
-      "prev_close": 348.65,
-      "volume": 153875,
-      "deliverable_qty": 78966,
-      "delivery_pct": 51.32
-    },
     {
       "date": "2026-03-09",
       "close": 330.4,
@@ -434,9 +426,31 @@
       "volume": 2598018,
       "deliverable_qty": 1255233,
       "delivery_pct": 48.32
+    },
+    {
+      "date": "2026-06-05",
+      "close": 556.6,
+      "prev_close": 574.65,
+      "volume": 1219133,
+      "deliverable_qty": 495336,
+      "delivery_pct": 40.63
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 15:23:16",
+      "an_dt": "05-Jun-2026 15:23:16",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Skipper Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/skipper_05062026152305_newspaperpublicationletteregm.pdf"
+    },
+    {
+      "sort_date": "2026-06-05 15:16:45",
+      "an_dt": "05-Jun-2026 15:16:45",
+      "desc": "Updates",
+      "sm_name": "Skipper Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/skipper_05062026151635_Weblinkletter.pdf"
+    },
     {
       "sort_date": "2026-06-04 15:03:36",
       "an_dt": "04-Jun-2026 15:03:36",

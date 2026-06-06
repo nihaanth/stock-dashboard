@@ -8,17 +8,9 @@
   "price": 113.6,
   "market_cap_cr": 1581.43,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 88.35,
-      "prev_close": 88.95,
-      "volume": 204244,
-      "deliverable_qty": 127020,
-      "delivery_pct": 62.19
-    },
     {
       "date": "2026-03-09",
       "close": 84.28,
@@ -434,6 +426,14 @@
       "volume": 2806004,
       "deliverable_qty": 992510,
       "delivery_pct": 35.37
+    },
+    {
+      "date": "2026-06-05",
+      "close": 133.85,
+      "prev_close": 144.98,
+      "volume": 3707104,
+      "deliverable_qty": 1374490,
+      "delivery_pct": 37.08
     }
   ],
   "news": [
@@ -562,13 +562,6 @@
       "desc": "Commencement of commercial production/operations",
       "sm_name": "Exicom Tele-Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXICOM_16032026092048_Intimation_Commencemnet_of_Plantsigned.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 10:48:31",
-      "an_dt": "06-Mar-2026 10:48:31",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Exicom Tele-Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EXICOM_06032026104810_Intimation__of_NP_signed.pdf"
     }
   ]
 }

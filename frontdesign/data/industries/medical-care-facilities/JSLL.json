@@ -8,17 +8,9 @@
   "price": 661.15,
   "market_cap_cr": 8218.14,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 605.0,
-      "prev_close": 611.95,
-      "volume": 136833,
-      "deliverable_qty": 76250,
-      "delivery_pct": 55.72
-    },
     {
       "date": "2026-03-09",
       "close": 610.05,
@@ -434,6 +426,14 @@
       "volume": 23446938,
       "deliverable_qty": 1870646,
       "delivery_pct": 7.98
+    },
+    {
+      "date": "2026-06-05",
+      "close": 629.85,
+      "prev_close": 651.9,
+      "volume": 10210709,
+      "deliverable_qty": 1029433,
+      "delivery_pct": 10.08
     }
   ],
   "news": [
@@ -604,13 +604,6 @@
       "desc": "Updates",
       "sm_name": "Jeena Sikho Lifecare Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/JEENASIKHO_09032026123302_Intimation_pit_09_03_2026_Sign.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 17:30:57",
-      "an_dt": "06-Mar-2026 17:30:57",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Jeena Sikho Lifecare Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/JEENASIKHO_06032026172552_Intimation_Investor_Meeting_Dated_11032026-_Sign.pdf"
     }
   ]
 }

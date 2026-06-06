@@ -8,17 +8,9 @@
   "price": 784.75,
   "market_cap_cr": 4638.37,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 696.5,
-      "prev_close": 714.8,
-      "volume": 124911,
-      "deliverable_qty": 85390,
-      "delivery_pct": 68.36
-    },
     {
       "date": "2026-03-09",
       "close": 665.35,
@@ -434,9 +426,31 @@
       "volume": 80663,
       "deliverable_qty": 34297,
       "delivery_pct": 42.52
+    },
+    {
+      "date": "2026-06-05",
+      "close": 799.65,
+      "prev_close": 800.6,
+      "volume": 65266,
+      "deliverable_qty": 27258,
+      "delivery_pct": 41.76
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 18:21:05",
+      "an_dt": "05-Jun-2026 18:21:05",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Datamatics Global Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DGSL_05062026182003_SEIntimationjune052026.pdf"
+    },
+    {
+      "sort_date": "2026-06-05 17:55:18",
+      "an_dt": "05-Jun-2026 17:55:18",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Datamatics Global Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_01062026150957_21.pdf"
+    },
     {
       "sort_date": "2026-06-01 12:36:53",
       "an_dt": "01-Jun-2026 12:36:53",
@@ -632,13 +646,6 @@
       "desc": "Resignation",
       "sm_name": "Datamatics Global Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/DGSL_24032026121333_SE_Intimation_ResignationOfHimanshuVerma-upload.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 17:18:07",
-      "an_dt": "06-Mar-2026 17:18:07",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Datamatics Global Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DGSL_06032026171751_Prior_Intimation_of_Meet_Uploaded.pdf"
     }
   ]
 }

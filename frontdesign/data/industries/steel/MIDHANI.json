@@ -8,17 +8,9 @@
   "price": 407.0,
   "market_cap_cr": 7624.74,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 352.85,
-      "prev_close": 343.65,
-      "volume": 993307,
-      "deliverable_qty": 277509,
-      "delivery_pct": 27.94
-    },
     {
       "date": "2026-03-09",
       "close": 337.2,
@@ -434,9 +426,24 @@
       "volume": 7192034,
       "deliverable_qty": 1974064,
       "delivery_pct": 27.45
+    },
+    {
+      "date": "2026-06-05",
+      "close": 435.55,
+      "prev_close": 443.25,
+      "volume": 1581227,
+      "deliverable_qty": 529411,
+      "delivery_pct": 33.48
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 17:07:52",
+      "an_dt": "05-Jun-2026 17:07:52",
+      "desc": "Change in Director(s)",
+      "sm_name": "Mishra Dhatu Nigam Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MIDHANI_05062026170415_MDN_ChangeInMgmt_05062026_signed.pdf"
+    },
     {
       "sort_date": "2026-06-03 14:43:14",
       "an_dt": "03-Jun-2026 14:43:14",

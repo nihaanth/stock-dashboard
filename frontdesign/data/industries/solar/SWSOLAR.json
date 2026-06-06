@@ -8,17 +8,9 @@
   "price": 212.4,
   "market_cap_cr": 4962.99,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 181.78,
-      "prev_close": 180.15,
-      "volume": 1825292,
-      "deliverable_qty": 775763,
-      "delivery_pct": 42.5
-    },
     {
       "date": "2026-03-09",
       "close": 173.93,
@@ -434,9 +426,24 @@
       "volume": 3231770,
       "deliverable_qty": 1458299,
       "delivery_pct": 45.12
+    },
+    {
+      "date": "2026-06-05",
+      "close": 203.67,
+      "prev_close": 200.53,
+      "volume": 2303767,
+      "deliverable_qty": 750373,
+      "delivery_pct": 32.57
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 19:40:26",
+      "an_dt": "05-Jun-2026 19:40:26",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Sterling and Wilson Renewable Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SWSOLAR_05062026194014_Reg30Intimation_signed.pdf"
+    },
     {
       "sort_date": "2026-06-03 15:17:04",
       "an_dt": "03-Jun-2026 15:17:04",
@@ -583,13 +590,6 @@
       "desc": "General Updates",
       "sm_name": "Sterling and Wilson Renewable Energy Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SWSOLAR_10032026122538_Reg_30_Disclosure.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 18:49:34",
-      "an_dt": "06-Mar-2026 18:49:34",
-      "desc": "General Updates",
-      "sm_name": "Sterling and Wilson Renewable Energy Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SWSOLAR_06032026184908_Reg30_Intimation.pdf"
     }
   ]
 }

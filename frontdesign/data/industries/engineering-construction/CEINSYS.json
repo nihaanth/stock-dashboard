@@ -8,17 +8,9 @@
   "price": 1060.0,
   "market_cap_cr": 2219.39,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 903.75,
-      "prev_close": 909.25,
-      "volume": 178843,
-      "deliverable_qty": 167349,
-      "delivery_pct": 93.57
-    },
     {
       "date": "2026-03-09",
       "close": 859.85,
@@ -434,9 +426,31 @@
       "volume": 53213,
       "deliverable_qty": 24204,
       "delivery_pct": 45.49
+    },
+    {
+      "date": "2026-06-05",
+      "close": 949.05,
+      "prev_close": 946.4,
+      "volume": 26312,
+      "deliverable_qty": 16426,
+      "delivery_pct": 62.43
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 18:30:48",
+      "an_dt": "05-Jun-2026 18:30:48",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Ceinsys Tech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_03062026120454_50.pdf"
+    },
+    {
+      "sort_date": "2026-06-05 16:08:06",
+      "an_dt": "05-Jun-2026 16:08:06",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Ceinsys Tech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_25052026170333_CEINSYS.pdf"
+    },
     {
       "sort_date": "2026-06-03 17:30:02",
       "an_dt": "03-Jun-2026 17:30:02",

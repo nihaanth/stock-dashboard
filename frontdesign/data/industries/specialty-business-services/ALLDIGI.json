@@ -8,17 +8,9 @@
   "price": 825.3,
   "market_cap_cr": 1257.62,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 784.5,
-      "prev_close": 788.2,
-      "volume": 2501,
-      "deliverable_qty": 1496,
-      "delivery_pct": 59.82
-    },
     {
       "date": "2026-03-09",
       "close": 764.4,
@@ -434,6 +426,14 @@
       "volume": 1858,
       "deliverable_qty": 1100,
       "delivery_pct": 59.2
+    },
+    {
+      "date": "2026-06-05",
+      "close": 824.4,
+      "prev_close": 825.6,
+      "volume": 3095,
+      "deliverable_qty": 1889,
+      "delivery_pct": 61.03
     }
   ],
   "news": [
@@ -583,13 +583,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Alldigi Tech Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALLSEC_14032026141633_SEintimation_IEPF.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 15:38:58",
-      "an_dt": "06-Mar-2026 15:38:58",
-      "desc": "Copy of Newspaper Publication",
-      "sm_name": "Alldigi Tech Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALLSEC_06032026153836_SEintimation_Newspaper.pdf"
     }
   ]
 }

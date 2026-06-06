@@ -8,17 +8,9 @@
   "price": 1266.8,
   "market_cap_cr": 68405.51,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1026.2,
-      "prev_close": 1045.9,
-      "volume": 810949,
-      "deliverable_qty": 407357,
-      "delivery_pct": 50.23
-    },
     {
       "date": "2026-03-09",
       "close": 1021.0,
@@ -434,9 +426,31 @@
       "volume": 1983191,
       "deliverable_qty": 943786,
       "delivery_pct": 47.59
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1446.8,
+      "prev_close": 1427.2,
+      "volume": 1515580,
+      "deliverable_qty": 681489,
+      "delivery_pct": 44.97
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 15:11:50",
+      "an_dt": "05-Jun-2026 15:11:50",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Laurus Labs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LAURUSLABS_05062026151134_NewsPub05062026.pdf"
+    },
+    {
+      "sort_date": "2026-06-05 10:30:30",
+      "an_dt": "05-Jun-2026 10:30:30",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Laurus Labs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_20052026191013_LAURUSLABS.pdf"
+    },
     {
       "sort_date": "2026-06-04 17:26:15",
       "an_dt": "04-Jun-2026 17:26:15",
@@ -611,13 +625,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Laurus Labs Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/LAURUSLABS_11032026151311_Invmeet11032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 15:20:00",
-      "an_dt": "06-Mar-2026 15:20:00",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Laurus Labs Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LAURUSLABS_06032026151944_Invmeet06032026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 144.93,
   "market_cap_cr": 13757.2,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 145.91,
-      "prev_close": 144.24,
-      "volume": 1401880,
-      "deliverable_qty": 1122065,
-      "delivery_pct": 80.04
-    },
     {
       "date": "2026-03-09",
       "close": 145.68,
@@ -434,6 +426,14 @@
       "volume": 777074,
       "deliverable_qty": 461405,
       "delivery_pct": 59.38
+    },
+    {
+      "date": "2026-06-05",
+      "close": 137.51,
+      "prev_close": 137.03,
+      "volume": 186466,
+      "deliverable_qty": 102993,
+      "delivery_pct": 55.23
     }
   ],
   "news": [
@@ -583,13 +583,6 @@
       "desc": "Updates",
       "sm_name": "Canara HSBC Life Insurance Company Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANARAHSBCLIFE_11032026161957_Intimation_of_corporate_agency_agreement_March_2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 10:27:31",
-      "an_dt": "06-Mar-2026 10:27:31",
-      "desc": "Issue of Securities",
-      "sm_name": "Canara HSBC Life Insurance Company Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CANARAHSBCLIFE_06032026102704_Intimation-_DRC_meeting_outcome-_March_2026-signed.pdf"
     }
   ]
 }

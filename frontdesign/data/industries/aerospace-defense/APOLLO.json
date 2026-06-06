@@ -8,17 +8,9 @@
   "price": 232.47,
   "market_cap_cr": 8742.81,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 220.27,
-      "prev_close": 214.6,
-      "volume": 7726681,
-      "deliverable_qty": 1765811,
-      "delivery_pct": 22.85
-    },
     {
       "date": "2026-03-09",
       "close": 209.7,
@@ -434,6 +426,14 @@
       "volume": 30125129,
       "deliverable_qty": 3934738,
       "delivery_pct": 13.06
+    },
+    {
+      "date": "2026-06-05",
+      "close": 421.35,
+      "prev_close": 419.2,
+      "volume": 27746500,
+      "deliverable_qty": 3344621,
+      "delivery_pct": 12.05
     }
   ],
   "news": [
@@ -667,34 +667,6 @@
       "desc": "Investor Presentation",
       "sm_name": "Apollo Micro Systems Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/APOLLO_11032026100548_AMS_Intimation_on_investor_presentation__11032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 17:00:57",
-      "an_dt": "06-Mar-2026 17:00:57",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Apollo Micro Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APOLLO_06032026170049_AMS_Intimation_of_Investor_Meeting_13032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 17:00:04",
-      "an_dt": "06-Mar-2026 17:00:04",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Apollo Micro Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APOLLO_06032026165955_AMS_Intimation_of_Investor_Meeting_13032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 16:59:14",
-      "an_dt": "06-Mar-2026 16:59:14",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Apollo Micro Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APOLLO_06032026165850_AMS_Intimation_of_Investor_Meeting_13032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 11:30:07",
-      "an_dt": "06-Mar-2026 11:30:07",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Apollo Micro Systems Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/APOLLO_06032026112902_AMS_Investor_meet_intimation_12032026.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 581.7,
   "market_cap_cr": 6323.71,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 522.7,
-      "prev_close": 532.8,
-      "volume": 75170,
-      "deliverable_qty": 47916,
-      "delivery_pct": 63.74
-    },
     {
       "date": "2026-03-09",
       "close": 506.95,
@@ -434,9 +426,24 @@
       "volume": 310500,
       "deliverable_qty": 123251,
       "delivery_pct": 39.69
+    },
+    {
+      "date": "2026-06-05",
+      "close": 642.75,
+      "prev_close": 623.15,
+      "volume": 500842,
+      "deliverable_qty": 315713,
+      "delivery_pct": 63.04
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 12:16:54",
+      "an_dt": "05-Jun-2026 12:16:54",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Sheela Foam Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_30042026181910_SFL.pdf"
+    },
     {
       "sort_date": "2026-05-29 10:59:14",
       "an_dt": "29-May-2026 10:59:14",

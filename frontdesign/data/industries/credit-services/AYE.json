@@ -8,17 +8,9 @@
   "price": 143.64,
   "market_cap_cr": 3511.98,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 115.78,
-      "prev_close": 115.26,
-      "volume": 2490438,
-      "deliverable_qty": 393359,
-      "delivery_pct": 15.79
-    },
     {
       "date": "2026-03-09",
       "close": 111.6,
@@ -434,6 +426,14 @@
       "volume": 1135747,
       "deliverable_qty": 468178,
       "delivery_pct": 41.22
+    },
+    {
+      "date": "2026-06-05",
+      "close": 146.86,
+      "prev_close": 150.82,
+      "volume": 1211517,
+      "deliverable_qty": 404463,
+      "delivery_pct": 33.38
     }
   ],
   "news": [
@@ -646,34 +646,6 @@
       "desc": "Copy of Newspaper Publication",
       "sm_name": "Aye Finance Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYEFINANCE_07032026132916_AYE_Intimation.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 21:28:46",
-      "an_dt": "06-Mar-2026 21:28:46",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Aye Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYEFINANCE_06032026212732_AYE_Outcome.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 14:24:13",
-      "an_dt": "06-Mar-2026 14:24:13",
-      "desc": "Investor Presentation",
-      "sm_name": "Aye Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYEFINANCE_06032026142358_AYE_IP.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 14:03:50",
-      "an_dt": "06-Mar-2026 14:03:50",
-      "desc": "Press Release",
-      "sm_name": "Aye Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYEFINANCE_06032026140208_AYE_PR.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 13:49:45",
-      "an_dt": "06-Mar-2026 13:49:45",
-      "desc": "Outcome of Board Meeting",
-      "sm_name": "Aye Finance Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AYEFINANCE_06032026134900_AYE_Outcome.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 553.6,
   "market_cap_cr": 3610.98,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 496.5,
-      "prev_close": 500.35,
-      "volume": 171270,
-      "deliverable_qty": 82447,
-      "delivery_pct": 48.14
-    },
     {
       "date": "2026-03-09",
       "close": 480.4,
@@ -434,9 +426,24 @@
       "volume": 82639,
       "deliverable_qty": 40591,
       "delivery_pct": 49.12
+    },
+    {
+      "date": "2026-06-05",
+      "close": 548.65,
+      "prev_close": 553.3,
+      "volume": 98077,
+      "deliverable_qty": 40687,
+      "delivery_pct": 41.48
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 21:13:01",
+      "an_dt": "05-Jun-2026 21:13:01",
+      "desc": "Sale or disposal",
+      "sm_name": "H.G. Infra Engineering Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HGINFRA_05062026211244_FinalIntimationOD5.pdf"
+    },
     {
       "sort_date": "2026-06-02 14:50:22",
       "an_dt": "02-Jun-2026 14:50:22",

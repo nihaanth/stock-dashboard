@@ -8,17 +8,9 @@
   "price": 467.75,
   "market_cap_cr": 3082.24,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 377.95,
-      "prev_close": 382.6,
-      "volume": 54950,
-      "deliverable_qty": 29726,
-      "delivery_pct": 54.1
-    },
     {
       "date": "2026-03-09",
       "close": 390.0,
@@ -434,9 +426,31 @@
       "volume": 104427,
       "deliverable_qty": 48296,
       "delivery_pct": 46.25
+    },
+    {
+      "date": "2026-06-05",
+      "close": 570.35,
+      "prev_close": 578.8,
+      "volume": 66419,
+      "deliverable_qty": 36490,
+      "delivery_pct": 54.94
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 19:50:14",
+      "an_dt": "05-Jun-2026 19:50:14",
+      "desc": "Shareholders meeting",
+      "sm_name": "SG Finserve Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGFINSERVE_05062026194555_SG_Finserve_32nd_Notice_AGM.pdf"
+    },
+    {
+      "sort_date": "2026-06-05 12:59:04",
+      "an_dt": "05-Jun-2026 12:59:04",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "SG Finserve Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGFINSERVE_05062026125853_SGFL_Pre-AGM_Notice_Intimation_signed.pdf"
+    },
     {
       "sort_date": "2026-06-02 09:51:57",
       "an_dt": "02-Jun-2026 09:51:57",
@@ -569,13 +583,6 @@
       "desc": "Shareholders meeting",
       "sm_name": "SG Finserve Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGFINSERVE_12032026190458_Outcome_of_Postal_Ballot_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 16:32:10",
-      "an_dt": "06-Mar-2026 16:32:10",
-      "desc": "Credit Rating",
-      "sm_name": "SG Finserve Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SGFINSERVE_06032026162931_Credit_Rating_Intimation.pdf"
     }
   ]
 }

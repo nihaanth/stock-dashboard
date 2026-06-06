@@ -8,17 +8,9 @@
   "price": 92.12,
   "market_cap_cr": 769.23,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 82.39,
-      "prev_close": 80.63,
-      "volume": 70208,
-      "deliverable_qty": 36783,
-      "delivery_pct": 52.39
-    },
     {
       "date": "2026-03-09",
       "close": 79.26,
@@ -434,9 +426,31 @@
       "volume": 419983,
       "deliverable_qty": 207121,
       "delivery_pct": 49.32
+    },
+    {
+      "date": "2026-06-05",
+      "close": 100.21,
+      "prev_close": 100.82,
+      "volume": 177099,
+      "deliverable_qty": 105822,
+      "delivery_pct": 59.75
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 11:51:51",
+      "an_dt": "05-Jun-2026 11:51:51",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "Sarla Performance Fibers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SARLAPOLY_05062026115141_SEIntimation_Signed.pdf"
+    },
+    {
+      "sort_date": "2026-06-05 11:50:32",
+      "an_dt": "05-Jun-2026 11:50:32",
+      "desc": "Post Buyback Public Announcement",
+      "sm_name": "Sarla Performance Fibers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SARLAPOLY_05062026115024_SEIntimation_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-20 13:28:58",
       "an_dt": "20-May-2026 13:28:58",

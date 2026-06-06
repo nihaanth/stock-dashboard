@@ -8,17 +8,9 @@
   "price": 554.65,
   "market_cap_cr": 1836.3,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 477.25,
-      "prev_close": 486.15,
-      "volume": 59031,
-      "deliverable_qty": 30996,
-      "delivery_pct": 52.51
-    },
     {
       "date": "2026-03-09",
       "close": 467.0,
@@ -434,6 +426,14 @@
       "volume": 410692,
       "deliverable_qty": 153370,
       "delivery_pct": 37.34
+    },
+    {
+      "date": "2026-06-05",
+      "close": 649.25,
+      "prev_close": 653.3,
+      "volume": 100804,
+      "deliverable_qty": 47015,
+      "delivery_pct": 46.64
     }
   ],
   "news": [
@@ -583,13 +583,6 @@
       "desc": "Trading Window",
       "sm_name": "Stove Kraft Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/STOVEKRAFT_23032026154307_Closure_of_Trading_Window_31March2026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 10:47:32",
-      "an_dt": "06-Mar-2026 10:47:32",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "Stove Kraft Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/STOVEKRAFT_06032026104632_Investec_India_Promoter_Founder_Cancellation_06March2026.pdf"
     }
   ]
 }

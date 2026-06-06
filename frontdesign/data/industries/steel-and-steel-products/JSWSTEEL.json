@@ -8,17 +8,9 @@
   "price": 1204.2,
   "market_cap_cr": 294169.4,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1233.7,
-      "prev_close": 1248.1,
-      "volume": 1140348,
-      "deliverable_qty": 616429,
-      "delivery_pct": 54.06
-    },
     {
       "date": "2026-03-09",
       "close": 1192.6,
@@ -434,9 +426,24 @@
       "volume": 958385,
       "deliverable_qty": 457343,
       "delivery_pct": 47.72
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1284.0,
+      "prev_close": 1301.1,
+      "volume": 1618038,
+      "deliverable_qty": 884940,
+      "delivery_pct": 54.69
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 12:07:16",
+      "an_dt": "05-Jun-2026 12:07:16",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "JSW Steel Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_30042026114759_UK.pdf"
+    },
     {
       "sort_date": "2026-06-04 20:22:21",
       "an_dt": "04-Jun-2026 20:22:21",
@@ -730,13 +737,6 @@
       "desc": "Press Release",
       "sm_name": "JSW Steel Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/jessydenny_10032026093011_press_release.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 15:37:00",
-      "an_dt": "06-Mar-2026 15:37:00",
-      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "sm_name": "JSW Steel Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/jessydenny_06032026153642_analyst_meet.pdf"
     }
   ]
 }

@@ -8,17 +8,9 @@
   "price": 891.3,
   "market_cap_cr": 4403.03,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 1015.9,
-      "prev_close": 1022.0,
-      "volume": 33048,
-      "deliverable_qty": 15379,
-      "delivery_pct": 46.54
-    },
     {
       "date": "2026-03-09",
       "close": 979.0,
@@ -434,6 +426,14 @@
       "volume": 132925,
       "deliverable_qty": 93717,
       "delivery_pct": 70.5
+    },
+    {
+      "date": "2026-06-05",
+      "close": 905.9,
+      "prev_close": 906.5,
+      "volume": 40746,
+      "deliverable_qty": 24499,
+      "delivery_pct": 60.13
     }
   ],
   "news": [
@@ -534,13 +534,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Gulf Oil Lubricants India Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_17032026154435_InvestorMeetingRoadshow2032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 13:25:39",
-      "an_dt": "06-Mar-2026 13:25:39",
-      "desc": "Press Release",
-      "sm_name": "Gulf Oil Lubricants India Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_06032026132457_PressReleaseMarch62026S.pdf"
     }
   ]
 }

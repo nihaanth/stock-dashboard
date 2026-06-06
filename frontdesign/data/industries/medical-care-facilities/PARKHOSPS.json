@@ -8,17 +8,9 @@
   "price": 259.79,
   "market_cap_cr": 11221.13,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 203.08,
-      "prev_close": 193.18,
-      "volume": 2087351,
-      "deliverable_qty": 817876,
-      "delivery_pct": 39.18
-    },
     {
       "date": "2026-03-09",
       "close": 201.74,
@@ -434,9 +426,24 @@
       "volume": 479358,
       "deliverable_qty": 222260,
       "delivery_pct": 46.37
+    },
+    {
+      "date": "2026-06-05",
+      "close": 281.75,
+      "prev_close": 285.9,
+      "volume": 569944,
+      "deliverable_qty": 332101,
+      "delivery_pct": 58.27
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 16:53:19",
+      "an_dt": "05-Jun-2026 16:53:19",
+      "desc": "Diversification/Disinvestment",
+      "sm_name": "Park Medi World Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PARKMEDIWORLD2025_05062026165220_Devina_Derma_Intimation.pdf"
+    },
     {
       "sort_date": "2026-05-25 16:20:22",
       "an_dt": "25-May-2026 16:20:22",

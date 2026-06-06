@@ -8,17 +8,9 @@
   "price": 456.05,
   "market_cap_cr": 5210.92,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 403.6,
-      "prev_close": 385.65,
-      "volume": 45660,
-      "deliverable_qty": 23531,
-      "delivery_pct": 51.54
-    },
     {
       "date": "2026-03-09",
       "close": 379.8,
@@ -434,9 +426,24 @@
       "volume": 17880,
       "deliverable_qty": 8940,
       "delivery_pct": 50.0
+    },
+    {
+      "date": "2026-06-05",
+      "close": 453.1,
+      "prev_close": 450.2,
+      "volume": 75203,
+      "deliverable_qty": 62235,
+      "delivery_pct": 82.76
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 18:54:39",
+      "an_dt": "05-Jun-2026 18:54:39",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Smartworks Coworking Spaces Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SMARTWORKS_05062026185427_Intimation_Investor_Conference.pdf"
+    },
     {
       "sort_date": "2026-05-28 21:49:38",
       "an_dt": "28-May-2026 21:49:38",

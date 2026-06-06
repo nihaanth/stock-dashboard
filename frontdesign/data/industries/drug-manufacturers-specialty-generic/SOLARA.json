@@ -8,17 +8,9 @@
   "price": 526.55,
   "market_cap_cr": 2536.47,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 459.05,
-      "prev_close": 466.15,
-      "volume": 68464,
-      "deliverable_qty": 42909,
-      "delivery_pct": 62.67
-    },
     {
       "date": "2026-03-09",
       "close": 449.55,
@@ -434,9 +426,24 @@
       "volume": 125763,
       "deliverable_qty": 48555,
       "delivery_pct": 38.61
+    },
+    {
+      "date": "2026-06-05",
+      "close": 534.85,
+      "prev_close": 543.25,
+      "volume": 98310,
+      "deliverable_qty": 42627,
+      "delivery_pct": 43.36
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 19:03:29",
+      "an_dt": "05-Jun-2026 19:03:29",
+      "desc": "Updates",
+      "sm_name": "Solara Active Pharma Sciences Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOLARA_05062026190113_SE_intimation_final_signed.pdf"
+    },
     {
       "sort_date": "2026-05-27 13:17:06",
       "an_dt": "27-May-2026 13:17:06",

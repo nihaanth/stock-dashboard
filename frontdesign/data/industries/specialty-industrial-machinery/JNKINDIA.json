@@ -8,17 +8,9 @@
   "price": 370.3,
   "market_cap_cr": 2071.97,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 230.48,
-      "prev_close": 224.9,
-      "volume": 143412,
-      "deliverable_qty": 45083,
-      "delivery_pct": 31.44
-    },
     {
       "date": "2026-03-09",
       "close": 224.3,
@@ -434,9 +426,24 @@
       "volume": 912000,
       "deliverable_qty": 422967,
       "delivery_pct": 46.38
+    },
+    {
+      "date": "2026-06-05",
+      "close": 421.3,
+      "prev_close": 421.6,
+      "volume": 1827501,
+      "deliverable_qty": 452060,
+      "delivery_pct": 24.74
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 12:19:18",
+      "an_dt": "05-Jun-2026 12:19:18",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "JNK India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_21052026161827_JNKINDIA.pdf"
+    },
     {
       "sort_date": "2026-05-27 18:27:45",
       "an_dt": "27-May-2026 18:27:45",

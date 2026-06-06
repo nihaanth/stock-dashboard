@@ -8,17 +8,9 @@
   "price": 781.45,
   "market_cap_cr": 3588.57,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 684.95,
-      "prev_close": 671.35,
-      "volume": 34286,
-      "deliverable_qty": 19748,
-      "delivery_pct": 57.6
-    },
     {
       "date": "2026-03-09",
       "close": 668.5,
@@ -434,9 +426,24 @@
       "volume": 75750,
       "deliverable_qty": 51809,
       "delivery_pct": 68.39
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1110.15,
+      "prev_close": 1010.2,
+      "volume": 594955,
+      "deliverable_qty": 171067,
+      "delivery_pct": 28.75
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 14:27:36",
+      "an_dt": "05-Jun-2026 14:27:36",
+      "desc": "Shareholders meeting",
+      "sm_name": "Raghav Productivity Enhancers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RPEL2009_05062026142353_17th_notice_agm_covering.pdf"
+    },
     {
       "sort_date": "2026-06-03 14:29:24",
       "an_dt": "03-Jun-2026 14:29:24",

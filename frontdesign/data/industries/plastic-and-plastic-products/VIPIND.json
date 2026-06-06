@@ -8,17 +8,9 @@
   "price": 297.05,
   "market_cap_cr": 4219.65,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 366.4,
-      "prev_close": 361.7,
-      "volume": 155409,
-      "deliverable_qty": 69335,
-      "delivery_pct": 44.61
-    },
     {
       "date": "2026-03-09",
       "close": 354.15,
@@ -434,9 +426,24 @@
       "volume": 906057,
       "deliverable_qty": 310224,
       "delivery_pct": 34.24
+    },
+    {
+      "date": "2026-06-05",
+      "close": 329.85,
+      "prev_close": 330.8,
+      "volume": 311310,
+      "deliverable_qty": 93169,
+      "delivery_pct": 29.93
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 15:36:46",
+      "an_dt": "05-Jun-2026 15:36:46",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "VIP Industries Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIPINDUSTRIES_05062026153616_SEUploadnewspaper.pdf"
+    },
     {
       "sort_date": "2026-06-01 19:32:15",
       "an_dt": "01-Jun-2026 19:32:15",
@@ -625,13 +632,6 @@
       "desc": "General Updates",
       "sm_name": "VIP Industries Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIPINDUSTRIES_10032026162744_SEupload.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 22:12:41",
-      "an_dt": "06-Mar-2026 22:12:41",
-      "desc": "Action(s) initiated or orders passed",
-      "sm_name": "VIP Industries Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VIPINDUSTRIES_06032026221231_CompSrchGSTupload.pdf"
     }
   ]
 }

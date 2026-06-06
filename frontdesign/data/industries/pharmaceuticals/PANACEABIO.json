@@ -8,17 +8,9 @@
   "price": 380.6,
   "market_cap_cr": 2331.2,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 320.45,
-      "prev_close": 320.7,
-      "volume": 136189,
-      "deliverable_qty": 82169,
-      "delivery_pct": 60.33
-    },
     {
       "date": "2026-03-09",
       "close": 333.9,
@@ -434,9 +426,31 @@
       "volume": 3632208,
       "deliverable_qty": 980828,
       "delivery_pct": 27.0
+    },
+    {
+      "date": "2026-06-05",
+      "close": 540.2,
+      "prev_close": 520.3,
+      "volume": 8876574,
+      "deliverable_qty": 677380,
+      "delivery_pct": 7.63
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 18:13:07",
+      "an_dt": "05-Jun-2026 18:13:07",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "Panacea Biotec Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_bbodade_05062026181137_PANACEABIO.pdf"
+    },
+    {
+      "sort_date": "2026-06-05 17:08:56",
+      "an_dt": "05-Jun-2026 17:08:56",
+      "desc": "Updates",
+      "sm_name": "Panacea Biotec Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PANACEABIO_05062026170745_DematStatusReportMay2026.pdf"
+    },
     {
       "sort_date": "2026-06-01 16:43:45",
       "an_dt": "01-Jun-2026 16:43:45",
@@ -597,20 +611,6 @@
       "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
       "sm_name": "Panacea Biotec Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/PANACEABIO_10032026183600_IntimationforreceiptoforderforDismissalofappealsbyITAT.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 17:42:53",
-      "an_dt": "06-Mar-2026 17:42:53",
-      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-      "sm_name": "Panacea Biotec Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PANACEABIO_06032026174220_DemandNotice06032026signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 14:19:39",
-      "an_dt": "06-Mar-2026 14:19:39",
-      "desc": "Updates",
-      "sm_name": "Panacea Biotec Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PANACEABIO_06032026141905_DematStatusReport06032026.pdf"
     }
   ]
 }

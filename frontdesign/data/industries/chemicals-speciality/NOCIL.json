@@ -8,17 +8,9 @@
   "price": 170.24,
   "market_cap_cr": 2843.43,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 135.65,
-      "prev_close": 135.35,
-      "volume": 269891,
-      "deliverable_qty": 170911,
-      "delivery_pct": 63.33
-    },
     {
       "date": "2026-03-09",
       "close": 131.51,
@@ -434,9 +426,24 @@
       "volume": 253631,
       "deliverable_qty": 148082,
       "delivery_pct": 58.38
+    },
+    {
+      "date": "2026-06-05",
+      "close": 161.19,
+      "prev_close": 166.01,
+      "volume": 276935,
+      "deliverable_qty": 166183,
+      "delivery_pct": 60.01
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 12:03:50",
+      "an_dt": "05-Jun-2026 12:03:50",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "NOCIL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NOCIL_05062026120245_AGMNOTICEPDF_Signed.pdf"
+    },
     {
       "sort_date": "2026-05-26 17:44:36",
       "an_dt": "26-May-2026 17:44:36",

@@ -8,17 +8,9 @@
   "price": 1688.0,
   "market_cap_cr": 15730.49,
   "industry_source": "webarchive",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 3021.8,
-      "prev_close": 3096.6,
-      "volume": 95350,
-      "deliverable_qty": 23498,
-      "delivery_pct": 24.64
-    },
     {
       "date": "2026-03-09",
       "close": 2998.7,
@@ -434,9 +426,24 @@
       "volume": 246205,
       "deliverable_qty": 110507,
       "delivery_pct": 44.88
+    },
+    {
+      "date": "2026-06-05",
+      "close": 1380.1,
+      "prev_close": 1407.6,
+      "volume": 186264,
+      "deliverable_qty": 80744,
+      "delivery_pct": 43.35
     }
   ],
   "news": [
+    {
+      "sort_date": "2026-06-05 18:29:38",
+      "an_dt": "05-Jun-2026 18:29:38",
+      "desc": "Disclosure under SEBI Takeover Regulations",
+      "sm_name": "eClerx Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/team_sandeshc_01062026161335_5.pdf"
+    },
     {
       "sort_date": "2026-05-19 16:47:48",
       "an_dt": "19-May-2026 16:47:48",
@@ -583,20 +590,6 @@
       "desc": "Record Date",
       "sm_name": "eClerx Services Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ECLERX_09032026130813_BSENSERDINTIMATION.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 13:44:40",
-      "an_dt": "06-Mar-2026 13:44:40",
-      "desc": "Updates",
-      "sm_name": "eClerx Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ECLERX_06032026134432_BSENSEInvMeetAbakkusAssetManagerPrivateLimited06032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 13:19:39",
-      "an_dt": "06-Mar-2026 13:19:39",
-      "desc": "Shareholders meeting",
-      "sm_name": "eClerx Services Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ECLERX_06032026131910_BSENSEPBRESULTS.pdf"
     }
   ]
 }

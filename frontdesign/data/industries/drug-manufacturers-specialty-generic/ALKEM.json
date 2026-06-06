@@ -8,17 +8,9 @@
   "price": 5364.5,
   "market_cap_cr": 64140.65,
   "industry_source": "yfinance",
-  "as_of": "2026-06-04",
+  "as_of": "2026-06-05",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-06",
-      "close": 5530.0,
-      "prev_close": 5550.0,
-      "volume": 41269,
-      "deliverable_qty": 21934,
-      "delivery_pct": 53.15
-    },
     {
       "date": "2026-03-09",
       "close": 5460.0,
@@ -434,6 +426,14 @@
       "volume": 150489,
       "deliverable_qty": 87496,
       "delivery_pct": 58.14
+    },
+    {
+      "date": "2026-06-05",
+      "close": 5251.5,
+      "prev_close": 5276.5,
+      "volume": 143792,
+      "deliverable_qty": 71892,
+      "delivery_pct": 50.0
     }
   ],
   "news": [
@@ -674,13 +674,6 @@
       "desc": "General Updates",
       "sm_name": "Alkem Laboratories Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALKEM_14032026154123_Intimation_regarding_receipt_of_EU_GMP_Certificate_Signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-06 15:37:14",
-      "an_dt": "06-Mar-2026 15:37:14",
-      "desc": "General Updates",
-      "sm_name": "Alkem Laboratories Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ALKEM_06032026153617_Reg30OcclutechUpdatesigned.pdf"
     }
   ]
 }
