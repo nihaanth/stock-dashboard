@@ -1,24 +1,21 @@
 name: live · NSE announcement poll
 
-# Hits the NSE corporate-announcements API during the IST trading session and
-# the after-market filing window, writes frontdesign/data/industries/_live_news.json
-# (+ _after_market_news.json), and commits the diff back to main. Vercel
-# auto-deploys on push.
+# Reliable intra-day poller. ONE long-running job loops on a cadence and commits
+# frontdesign/data/_live_news.json (+ after-market/history) to main; Vercel
+# auto-deploys on push. GitHub drops most scheduled runs, so we no longer depend
+# on any single one: the schedule fires redundantly, and cancel-in-progress means
+# a freshly-delivered trigger simply restarts/extends coverage. Each job covers up
+# to ~5h, so even a single delivered trigger bridges long stretches of dropped ones.
 #
-# Schedule:
-#   */5  03-10 * * 1-5 UTC = every 5 min  between 08:30 and 16:25 IST  (market hours, wider)
-#   */10 11-16 * * 1-5 UTC = every 10 min between 16:30 and 22:25 IST  (after-market filings)
-# NSE market hours are 09:15-15:30 IST. The first window covers preopen + intraday;
-# the second catches board-meeting / Reg 30 disclosures that land post-close
-# (commonly 16:00–21:00 IST).
-#
-# The script self-gates: it still runs outside this window if triggered
-# manually via workflow_dispatch, just classifies market_state as "closed".
+#   */5  3-4  * * 1-5 UTC  ≈ dense bootstrap, 08:30-10:29 IST (get a loop alive at open)
+#   */10 3-17 * * 1-5 UTC  ≈ every 10 min, 08:30-23:29 IST (redundant all-day coverage)
+# automation/live_poll_loop.sh self-classifies the IST window via
+# scripts/poll_schedule.py and exits outside 08:30-22:30 IST, so nothing runs overnight.
 
 on:
   schedule:
-    - cron: "*/5 3-10 * * 1-5"
-    - cron: "*/10 11-16 * * 1-5"
+    - cron: "*/5 3-4 * * 1-5"
+    - cron: "*/10 3-17 * * 1-5"
   workflow_dispatch:
 
 permissions:
@@ -26,18 +23,17 @@ permissions:
 
 concurrency:
   group: live-poll
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   poll:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 350   # ceiling only; the loop self-terminates at window close / 5h
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           ref: main
-          # Need full token so subsequent push has write perms
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
@@ -48,35 +44,5 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Poll NSE
-        run: python scripts/poll_live_news.py || true
-
-      - name: Commit + push if changed
-        run: |
-          set -e
-          git config user.name  "stockbot-live[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          FILES=(frontdesign/data/industries/_live_news.json
-                 frontdesign/data/_after_market_news.json
-                 frontdesign/data/_news_history.json)
-          if git diff --quiet -- "${FILES[@]}"; then
-            echo "no diff in live/after-market files — skipping commit"
-            exit 0
-          fi
-
-          git add "${FILES[@]}"
-          git commit -m "live: announcements $(TZ=Asia/Kolkata date +%H:%M)"
-
-          # Rebase on anything that landed during our run, then push
-          git pull --rebase --autostash origin main
-          for i in 1 2 3; do
-            if git push origin HEAD:main; then
-              echo "pushed on attempt $i"
-              exit 0
-            fi
-            echo "push failed; retrying after rebase"
-            git pull --rebase --autostash origin main
-          done
-          echo "push failed after 3 attempts"
-          exit 1
+      - name: Poll loop
+        run: bash automation/live_poll_loop.sh
