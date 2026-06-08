@@ -11,9 +11,9 @@
 //   #/<slug>/<symbol>   stock detail (sparkline + daily table + news feed)
 
 const DATA_ROOT = "data/industries/";
-const LIVE_URL = "data/industries/_live_news.json";
 // Sibling of latest.json — not under data/industries/ because build_industry_folders.py
-// wipes that directory nightly and would prune the rolling 2-day cache.
+// wipes that directory nightly (shutil.rmtree), which would 404 the live feed.
+const LIVE_URL = "data/_live_news.json";
 const AFTER_MARKET_URL = "data/_after_market_news.json";
 const HISTORY_URL = "data/_news_history.json";
 const LIVE_POLL_MS = 30_000;

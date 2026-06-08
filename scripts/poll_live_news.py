@@ -7,7 +7,7 @@ Reuses the session-prime + headers pattern from scripts/update_webarchive.py.
 
 Usage:
     python scripts/poll_live_news.py
-        [--out frontdesign/data/industries/_live_news.json]
+        [--out frontdesign/data/_live_news.json]
         [--max-items 200]
 
 Exit codes:
@@ -32,7 +32,7 @@ import requests
 
 ROOT = Path(__file__).resolve().parent.parent
 INDUSTRIES_INDEX = ROOT / "frontdesign" / "data" / "industries" / "industries.json"
-DEFAULT_OUT = ROOT / "frontdesign" / "data" / "industries" / "_live_news.json"
+DEFAULT_OUT = ROOT / "frontdesign" / "data" / "_live_news.json"
 DEFAULT_AFTER_MARKET_OUT = ROOT / "frontdesign" / "data" / "_after_market_news.json"
 DEFAULT_HISTORY_OUT = ROOT / "frontdesign" / "data" / "_news_history.json"
 
