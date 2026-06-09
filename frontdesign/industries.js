@@ -236,7 +236,7 @@ function renderNewsPage() {
   });
 
   const polled = state.live.polledAt
-    ? state.live.polledAt.slice(11, 16)
+    ? formatTime12h(state.live.polledAt.slice(11, 16))
     : "—";
   const marketState = currentMarketStateIST();
   const marketLabel = {
@@ -315,6 +315,17 @@ function renderNewsPage() {
   }
 }
 
+// "22:26" (24h IST) -> "10:26 PM"
+function formatTime12h(hhmm) {
+  if (!hhmm || hhmm.length < 4 || hhmm === "—") return hhmm || "—";
+  const [hStr, m] = hhmm.split(":");
+  let h = parseInt(hStr, 10);
+  if (Number.isNaN(h)) return hhmm;
+  const ampm = h < 12 ? "AM" : "PM";
+  h = h % 12 || 12;
+  return `${h}:${m} ${ampm}`;
+}
+
 function formatShortDate(yyyymmdd) {
   // "2026-05-12" -> "12 May"
   if (!yyyymmdd || yyyymmdd.length < 10) return yyyymmdd || "";
@@ -353,8 +364,8 @@ function renderAfterMarketPage() {
   const selectedDay = state.afterMarket.selectedDay;
 
   const updated = state.afterMarket.updatedAt
-    ? state.afterMarket.updatedAt.slice(11, 16)
-    : (state.live.polledAt ? state.live.polledAt.slice(11, 16) : "—");
+    ? formatTime12h(state.afterMarket.updatedAt.slice(11, 16))
+    : (state.live.polledAt ? formatTime12h(state.live.polledAt.slice(11, 16)) : "—");
   const marketState = currentMarketStateIST();
   const marketLabel = {
     open: "Market open",
@@ -568,8 +579,8 @@ function renderYesterdayPage() {
   const selectedDay = state.history.selectedDay;
 
   const updated = state.history.updatedAt
-    ? state.history.updatedAt.slice(11, 16)
-    : (state.live.polledAt ? state.live.polledAt.slice(11, 16) : "—");
+    ? formatTime12h(state.history.updatedAt.slice(11, 16))
+    : (state.live.polledAt ? formatTime12h(state.live.polledAt.slice(11, 16)) : "—");
   const marketState = currentMarketStateIST();
   const marketLabel = {
     open: "Market open",
@@ -754,7 +765,7 @@ function renderYesterdayPage() {
 
 function newsRowHTML(it, opts = {}) {
   const isNew = state.live.newSeqs.has(it.seq_id);
-  const tm = (it.sort_date || "").slice(11, 16);
+  const tm = formatTime12h((it.sort_date || "").slice(11, 16));
   const date = (it.sort_date || "").slice(0, 10);
   const indName = state.indexBySlug.get(it.industry_slug)?.name || it.industry_slug;
   const showShortDate = opts.showShortDate === true;  // "May 12" instead of "2026-05-12"
@@ -795,7 +806,7 @@ function renderLiveTicker() {
   ticker.hidden = false;
   ticker.dataset.market = currentMarketStateIST();
   list.innerHTML = items.map((it) => {
-    const tm = (it.sort_date || "").slice(11, 16);   // HH:MM
+    const tm = formatTime12h((it.sort_date || "").slice(11, 16));   // 12h IST
     return `
       <li class="live-ticker__item">
         <a href="#/${esc(it.industry_slug)}/${esc(it.symbol)}" title="${esc(it.desc || "")}">
@@ -809,7 +820,7 @@ function renderLiveTicker() {
       </li>`;
   }).join("");
   if (timeEl && state.live.polledAt) {
-    timeEl.textContent = "polled " + state.live.polledAt.slice(11, 16);
+    timeEl.textContent = "polled " + formatTime12h(state.live.polledAt.slice(11, 16)) + " IST";
   }
 }
 
@@ -1352,7 +1363,7 @@ function renderNewsFeed(news) {
           n._isNew  ? "news--new"  : "",
         ].filter(Boolean).join(" ");
         const dateLabel = n._isLive
-          ? (n.sort_date || "").slice(11, 16)
+          ? formatTime12h((n.sort_date || "").slice(11, 16))
           : (n.sort_date || "").slice(0, 10);
         return `
         <li class="${cls}">
