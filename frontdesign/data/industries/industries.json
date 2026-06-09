@@ -1,499 +1,499 @@
 {
-  "as_of": "2026-06-06",
+  "as_of": "2026-06-09",
   "window_days": 90,
   "universe_filter": {
     "min_price": 50.0,
     "min_mcap_cr": 500.0
   },
   "total_stocks": 1484,
-  "n_industries": 191,
+  "n_industries": 188,
   "industries": [
     {
       "slug": "specialty-chemicals",
       "name": "Specialty Chemicals",
       "n_stocks": 51,
       "path": "specialty-chemicals/index.json",
-      "median_pct_chg_90d": 15.36,
-      "pct_stocks_up": 88.2,
+      "median_pct_chg_90d": 12.97,
+      "pct_stocks_up": 86.3,
       "median_delivery_pct": 45.46,
-      "news_count_90d": 985
+      "news_count_90d": 965
     },
     {
       "slug": "pharmaceuticals",
       "name": "Pharmaceuticals",
       "n_stocks": 46,
       "path": "pharmaceuticals/index.json",
-      "median_pct_chg_90d": 8.5,
-      "pct_stocks_up": 78.3,
+      "median_pct_chg_90d": 6.66,
+      "pct_stocks_up": 71.7,
       "median_delivery_pct": 44.81,
-      "news_count_90d": 1109
+      "news_count_90d": 1091
     },
     {
       "slug": "construction",
       "name": "Construction",
       "n_stocks": 36,
       "path": "construction/index.json",
-      "median_pct_chg_90d": 7.0,
-      "pct_stocks_up": 77.8,
+      "median_pct_chg_90d": 3.57,
+      "pct_stocks_up": 66.7,
       "median_delivery_pct": 46.06,
-      "news_count_90d": 851
+      "news_count_90d": 837
     },
     {
       "slug": "engineering-construction",
       "name": "Engineering & Construction",
       "n_stocks": 35,
       "path": "engineering-construction/index.json",
-      "median_pct_chg_90d": 12.84,
-      "pct_stocks_up": 80.0,
+      "median_pct_chg_90d": 5.48,
+      "pct_stocks_up": 62.9,
       "median_delivery_pct": 45.58,
-      "news_count_90d": 889
+      "news_count_90d": 882
+    },
+    {
+      "slug": "credit-services",
+      "name": "Credit Services",
+      "n_stocks": 34,
+      "path": "credit-services/index.json",
+      "median_pct_chg_90d": 7.13,
+      "pct_stocks_up": 73.5,
+      "median_delivery_pct": 42.94,
+      "news_count_90d": 962
     },
     {
       "slug": "specialty-industrial-machinery",
       "name": "Specialty Industrial Machinery",
       "n_stocks": 34,
       "path": "specialty-industrial-machinery/index.json",
-      "median_pct_chg_90d": 19.25,
-      "pct_stocks_up": 79.4,
+      "median_pct_chg_90d": 16.32,
+      "pct_stocks_up": 76.5,
       "median_delivery_pct": 43.66,
-      "news_count_90d": 689
-    },
-    {
-      "slug": "credit-services",
-      "name": "Credit Services",
-      "n_stocks": 33,
-      "path": "credit-services/index.json",
-      "median_pct_chg_90d": 9.51,
-      "pct_stocks_up": 72.7,
-      "median_delivery_pct": 43.12,
-      "news_count_90d": 937
+      "news_count_90d": 717
     },
     {
       "slug": "auto-parts",
       "name": "Auto Parts",
       "n_stocks": 31,
       "path": "auto-parts/index.json",
-      "median_pct_chg_90d": 8.23,
-      "pct_stocks_up": 74.2,
+      "median_pct_chg_90d": 7.97,
+      "pct_stocks_up": 67.7,
       "median_delivery_pct": 49.83,
-      "news_count_90d": 714
+      "news_count_90d": 702
     },
     {
       "slug": "auto-ancillaries",
       "name": "Auto Ancillaries",
       "n_stocks": 31,
       "path": "auto-ancillaries/index.json",
-      "median_pct_chg_90d": 15.13,
+      "median_pct_chg_90d": 13.19,
       "pct_stocks_up": 80.6,
       "median_delivery_pct": 45.73,
-      "news_count_90d": 568
+      "news_count_90d": 563
+    },
+    {
+      "slug": "finance",
+      "name": "Finance",
+      "n_stocks": 31,
+      "path": "finance/index.json",
+      "median_pct_chg_90d": 3.81,
+      "pct_stocks_up": 58.1,
+      "median_delivery_pct": 53.57,
+      "news_count_90d": 643
     },
     {
       "slug": "computers-software",
       "name": "Computers - Software",
       "n_stocks": 31,
       "path": "computers-software/index.json",
-      "median_pct_chg_90d": 6.59,
-      "pct_stocks_up": 64.5,
+      "median_pct_chg_90d": 6.13,
+      "pct_stocks_up": 61.3,
       "median_delivery_pct": 42.07,
-      "news_count_90d": 895
+      "news_count_90d": 873
     },
     {
       "slug": "drug-manufacturers-specialty-generic",
       "name": "Drug Manufacturers - Specialty & Generic",
       "n_stocks": 31,
       "path": "drug-manufacturers-specialty-generic/index.json",
-      "median_pct_chg_90d": 19.82,
+      "median_pct_chg_90d": 20.29,
       "pct_stocks_up": 83.9,
       "median_delivery_pct": 47.57,
-      "news_count_90d": 670
-    },
-    {
-      "slug": "finance",
-      "name": "Finance",
-      "n_stocks": 30,
-      "path": "finance/index.json",
-      "median_pct_chg_90d": 5.34,
-      "pct_stocks_up": 60.0,
-      "median_delivery_pct": 53.8,
-      "news_count_90d": 612
+      "news_count_90d": 665
     },
     {
       "slug": "steel-and-steel-products",
       "name": "Steel And Steel Products",
       "n_stocks": 29,
       "path": "steel-and-steel-products/index.json",
-      "median_pct_chg_90d": 16.72,
-      "pct_stocks_up": 93.1,
+      "median_pct_chg_90d": 15.35,
+      "pct_stocks_up": 89.7,
       "median_delivery_pct": 47.72,
-      "news_count_90d": 647
+      "news_count_90d": 642
     },
     {
       "slug": "electrical-equipment-parts",
       "name": "Electrical Equipment & Parts",
       "n_stocks": 25,
       "path": "electrical-equipment-parts/index.json",
-      "median_pct_chg_90d": 32.29,
+      "median_pct_chg_90d": 29.13,
       "pct_stocks_up": 96.0,
       "median_delivery_pct": 43.7,
-      "news_count_90d": 485
+      "news_count_90d": 501
     },
     {
       "slug": "capital-markets",
       "name": "Capital Markets",
       "n_stocks": 25,
       "path": "capital-markets/index.json",
-      "median_pct_chg_90d": 4.92,
-      "pct_stocks_up": 72.0,
+      "median_pct_chg_90d": 2.12,
+      "pct_stocks_up": 64.0,
       "median_delivery_pct": 44.6,
-      "news_count_90d": 502
+      "news_count_90d": 497
     },
     {
       "slug": "packaged-foods",
       "name": "Packaged Foods",
       "n_stocks": 23,
       "path": "packaged-foods/index.json",
-      "median_pct_chg_90d": 7.56,
-      "pct_stocks_up": 73.9,
+      "median_pct_chg_90d": 5.36,
+      "pct_stocks_up": 69.6,
       "median_delivery_pct": 53.58,
-      "news_count_90d": 495
+      "news_count_90d": 484
     },
     {
       "slug": "steel",
       "name": "Steel",
       "n_stocks": 22,
       "path": "steel/index.json",
-      "median_pct_chg_90d": 27.36,
+      "median_pct_chg_90d": 27.63,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 47.02,
-      "news_count_90d": 459
+      "news_count_90d": 453
+    },
+    {
+      "slug": "banks",
+      "name": "Banks",
+      "n_stocks": 19,
+      "path": "banks/index.json",
+      "median_pct_chg_90d": -2.58,
+      "pct_stocks_up": 31.6,
+      "median_delivery_pct": 40.53,
+      "news_count_90d": 841
     },
     {
       "slug": "furnishings-fixtures-appliances",
       "name": "Furnishings, Fixtures & Appliances",
       "n_stocks": 19,
       "path": "furnishings-fixtures-appliances/index.json",
-      "median_pct_chg_90d": 5.56,
-      "pct_stocks_up": 68.4,
+      "median_pct_chg_90d": 3.53,
+      "pct_stocks_up": 57.9,
       "median_delivery_pct": 46.64,
-      "news_count_90d": 433
-    },
-    {
-      "slug": "banks",
-      "name": "Banks",
-      "n_stocks": 18,
-      "path": "banks/index.json",
-      "median_pct_chg_90d": -3.69,
-      "pct_stocks_up": 22.2,
-      "median_delivery_pct": 41.25,
-      "news_count_90d": 830
+      "news_count_90d": 428
     },
     {
       "slug": "software-application",
       "name": "Software - Application",
       "n_stocks": 18,
       "path": "software-application/index.json",
-      "median_pct_chg_90d": 11.57,
+      "median_pct_chg_90d": 10.5,
       "pct_stocks_up": 66.7,
       "median_delivery_pct": 47.81,
-      "news_count_90d": 452
+      "news_count_90d": 442
     },
     {
       "slug": "medical-care-facilities",
       "name": "Medical Care Facilities",
       "n_stocks": 18,
       "path": "medical-care-facilities/index.json",
-      "median_pct_chg_90d": 13.81,
+      "median_pct_chg_90d": 13.01,
       "pct_stocks_up": 88.9,
       "median_delivery_pct": 47.57,
-      "news_count_90d": 447
+      "news_count_90d": 437
     },
     {
       "slug": "cement-and-cement-products",
       "name": "Cement And Cement Products",
       "n_stocks": 18,
       "path": "cement-and-cement-products/index.json",
-      "median_pct_chg_90d": -0.24,
+      "median_pct_chg_90d": -1.1,
       "pct_stocks_up": 44.4,
       "median_delivery_pct": 57.91,
-      "news_count_90d": 403
+      "news_count_90d": 398
     },
     {
       "slug": "engineering",
       "name": "Engineering",
       "n_stocks": 17,
       "path": "engineering/index.json",
-      "median_pct_chg_90d": 13.01,
-      "pct_stocks_up": 82.4,
+      "median_pct_chg_90d": 10.96,
+      "pct_stocks_up": 70.6,
       "median_delivery_pct": 44.93,
-      "news_count_90d": 404
+      "news_count_90d": 396
     },
     {
       "slug": "real-estate-development",
       "name": "Real Estate - Development",
       "n_stocks": 17,
       "path": "real-estate-development/index.json",
-      "median_pct_chg_90d": 5.79,
+      "median_pct_chg_90d": 6.51,
       "pct_stocks_up": 64.7,
       "median_delivery_pct": 53.2,
-      "news_count_90d": 342
+      "news_count_90d": 336
     },
     {
       "slug": "information-technology-services",
       "name": "Information Technology Services",
       "n_stocks": 16,
       "path": "information-technology-services/index.json",
-      "median_pct_chg_90d": 15.2,
-      "pct_stocks_up": 87.5,
+      "median_pct_chg_90d": 12.85,
+      "pct_stocks_up": 75.0,
       "median_delivery_pct": 42.3,
-      "news_count_90d": 411
+      "news_count_90d": 401
     },
     {
       "slug": "chemicals",
       "name": "Chemicals",
       "n_stocks": 16,
       "path": "chemicals/index.json",
-      "median_pct_chg_90d": 30.3,
+      "median_pct_chg_90d": 27.94,
       "pct_stocks_up": 75.0,
       "median_delivery_pct": 50.58,
-      "news_count_90d": 283
+      "news_count_90d": 280
     },
     {
       "slug": "agricultural-inputs",
       "name": "Agricultural Inputs",
       "n_stocks": 16,
       "path": "agricultural-inputs/index.json",
-      "median_pct_chg_90d": 13.04,
+      "median_pct_chg_90d": 12.74,
       "pct_stocks_up": 81.2,
       "median_delivery_pct": 48.08,
-      "news_count_90d": 327
+      "news_count_90d": 322
     },
     {
       "slug": "luxury-goods",
       "name": "Luxury Goods",
       "n_stocks": 16,
       "path": "luxury-goods/index.json",
-      "median_pct_chg_90d": 5.79,
-      "pct_stocks_up": 62.5,
+      "median_pct_chg_90d": 1.51,
+      "pct_stocks_up": 56.2,
       "median_delivery_pct": 44.45,
-      "news_count_90d": 300
+      "news_count_90d": 292
     },
     {
       "slug": "electrical-equipment",
       "name": "Electrical Equipment",
       "n_stocks": 16,
       "path": "electrical-equipment/index.json",
-      "median_pct_chg_90d": 21.56,
-      "pct_stocks_up": 87.5,
+      "median_pct_chg_90d": 17.76,
+      "pct_stocks_up": 93.8,
       "median_delivery_pct": 41.86,
-      "news_count_90d": 333
+      "news_count_90d": 332
     },
     {
       "slug": "aerospace-defense",
       "name": "Aerospace & Defense",
       "n_stocks": 15,
       "path": "aerospace-defense/index.json",
-      "median_pct_chg_90d": 22.13,
+      "median_pct_chg_90d": 25.17,
       "pct_stocks_up": 78.6,
       "median_delivery_pct": 29.66,
-      "news_count_90d": 350
+      "news_count_90d": 343
     },
     {
       "slug": "asset-management",
       "name": "Asset Management",
       "n_stocks": 14,
       "path": "asset-management/index.json",
-      "median_pct_chg_90d": 4.83,
-      "pct_stocks_up": 71.4,
+      "median_pct_chg_90d": 2.98,
+      "pct_stocks_up": 64.3,
       "median_delivery_pct": 49.62,
-      "news_count_90d": 358
+      "news_count_90d": 355
     },
     {
       "slug": "metal-fabrication",
       "name": "Metal Fabrication",
       "n_stocks": 14,
       "path": "metal-fabrication/index.json",
-      "median_pct_chg_90d": 11.39,
+      "median_pct_chg_90d": 10.06,
       "pct_stocks_up": 85.7,
       "median_delivery_pct": 49.8,
-      "news_count_90d": 261
-    },
-    {
-      "slug": "banks-regional",
-      "name": "Banks - Regional",
-      "n_stocks": 14,
-      "path": "banks-regional/index.json",
-      "median_pct_chg_90d": 13.16,
-      "pct_stocks_up": 92.9,
-      "median_delivery_pct": 46.95,
-      "news_count_90d": 490
+      "news_count_90d": 258
     },
     {
       "slug": "miscellaneous",
       "name": "Miscellaneous",
       "n_stocks": 14,
       "path": "miscellaneous/index.json",
-      "median_pct_chg_90d": 5.45,
-      "pct_stocks_up": 64.3,
+      "median_pct_chg_90d": 6.16,
+      "pct_stocks_up": 57.1,
       "median_delivery_pct": 50.51,
-      "news_count_90d": 316
+      "news_count_90d": 314
     },
     {
       "slug": "solar",
       "name": "Solar",
       "n_stocks": 13,
       "path": "solar/index.json",
-      "median_pct_chg_90d": 24.75,
+      "median_pct_chg_90d": 18.22,
       "pct_stocks_up": 84.6,
       "median_delivery_pct": 43.34,
-      "news_count_90d": 335
+      "news_count_90d": 325
     },
     {
       "slug": "power",
       "name": "Power",
       "n_stocks": 13,
       "path": "power/index.json",
-      "median_pct_chg_90d": 18.91,
+      "median_pct_chg_90d": 15.76,
       "pct_stocks_up": 84.6,
       "median_delivery_pct": 48.68,
-      "news_count_90d": 411
+      "news_count_90d": 402
     },
     {
       "slug": "building-materials",
       "name": "Building Materials",
       "n_stocks": 13,
       "path": "building-materials/index.json",
-      "median_pct_chg_90d": 3.69,
+      "median_pct_chg_90d": 2.99,
       "pct_stocks_up": 61.5,
       "median_delivery_pct": 53.07,
-      "news_count_90d": 286
+      "news_count_90d": 285
     },
     {
       "slug": "packaging-containers",
       "name": "Packaging & Containers",
       "n_stocks": 13,
       "path": "packaging-containers/index.json",
-      "median_pct_chg_90d": 10.97,
-      "pct_stocks_up": 92.3,
+      "median_pct_chg_90d": 10.38,
+      "pct_stocks_up": 84.6,
       "median_delivery_pct": 52.74,
-      "news_count_90d": 230
+      "news_count_90d": 227
     },
     {
       "slug": "food-and-food-processing",
       "name": "Food And Food Processing",
       "n_stocks": 13,
       "path": "food-and-food-processing/index.json",
-      "median_pct_chg_90d": 12.17,
+      "median_pct_chg_90d": 12.36,
       "pct_stocks_up": 76.9,
       "median_delivery_pct": 45.52,
-      "news_count_90d": 262
+      "news_count_90d": 260
+    },
+    {
+      "slug": "banks-regional",
+      "name": "Banks - Regional",
+      "n_stocks": 13,
+      "path": "banks-regional/index.json",
+      "median_pct_chg_90d": 9.36,
+      "pct_stocks_up": 84.6,
+      "median_delivery_pct": 46.96,
+      "news_count_90d": 474
     },
     {
       "slug": "textile-manufacturing",
       "name": "Textile Manufacturing",
       "n_stocks": 13,
       "path": "textile-manufacturing/index.json",
-      "median_pct_chg_90d": 12.09,
-      "pct_stocks_up": 69.2,
+      "median_pct_chg_90d": 11.52,
+      "pct_stocks_up": 61.5,
       "median_delivery_pct": 53.06,
-      "news_count_90d": 257
+      "news_count_90d": 256
     },
     {
       "slug": "specialty-business-services",
       "name": "Specialty Business Services",
       "n_stocks": 12,
       "path": "specialty-business-services/index.json",
-      "median_pct_chg_90d": 8.96,
-      "pct_stocks_up": 91.7,
+      "median_pct_chg_90d": 7.41,
+      "pct_stocks_up": 83.3,
       "median_delivery_pct": 49.02,
-      "news_count_90d": 264
+      "news_count_90d": 259
     },
     {
       "slug": "textile-products",
       "name": "Textile Products",
       "n_stocks": 12,
       "path": "textile-products/index.json",
-      "median_pct_chg_90d": 20.2,
-      "pct_stocks_up": 83.3,
+      "median_pct_chg_90d": 19.41,
+      "pct_stocks_up": 75.0,
       "median_delivery_pct": 44.5,
-      "news_count_90d": 214
+      "news_count_90d": 211
     },
     {
       "slug": "lodging",
       "name": "Lodging",
       "n_stocks": 11,
       "path": "lodging/index.json",
-      "median_pct_chg_90d": 1.77,
+      "median_pct_chg_90d": 1.57,
       "pct_stocks_up": 60.0,
       "median_delivery_pct": 54.84,
-      "news_count_90d": 239
+      "news_count_90d": 236
     },
     {
       "slug": "integrated-freight-logistics",
       "name": "Integrated Freight & Logistics",
       "n_stocks": 11,
       "path": "integrated-freight-logistics/index.json",
-      "median_pct_chg_90d": 9.88,
-      "pct_stocks_up": 70.0,
+      "median_pct_chg_90d": 7.42,
+      "pct_stocks_up": 80.0,
       "median_delivery_pct": 47.75,
-      "news_count_90d": 283
+      "news_count_90d": 274
     },
     {
       "slug": "fertilisers",
       "name": "Fertilisers",
       "n_stocks": 10,
       "path": "fertilisers/index.json",
-      "median_pct_chg_90d": 14.17,
-      "pct_stocks_up": 90.0,
+      "median_pct_chg_90d": 3.27,
+      "pct_stocks_up": 70.0,
       "median_delivery_pct": 42.86,
-      "news_count_90d": 206
+      "news_count_90d": 205
     },
     {
       "slug": "conglomerates",
       "name": "Conglomerates",
       "n_stocks": 10,
       "path": "conglomerates/index.json",
-      "median_pct_chg_90d": 7.93,
-      "pct_stocks_up": 80.0,
+      "median_pct_chg_90d": 4.41,
+      "pct_stocks_up": 60.0,
       "median_delivery_pct": 54.1,
-      "news_count_90d": 251
+      "news_count_90d": 249
     },
     {
       "slug": "software-infrastructure",
       "name": "Software - Infrastructure",
       "n_stocks": 10,
       "path": "software-infrastructure/index.json",
-      "median_pct_chg_90d": 2.54,
+      "median_pct_chg_90d": 3.23,
       "pct_stocks_up": 60.0,
       "median_delivery_pct": 32.98,
-      "news_count_90d": 248
+      "news_count_90d": 245
     },
     {
       "slug": "hotels",
       "name": "Hotels",
       "n_stocks": 10,
       "path": "hotels/index.json",
-      "median_pct_chg_90d": 4.46,
+      "median_pct_chg_90d": 4.49,
       "pct_stocks_up": 60.0,
       "median_delivery_pct": 58.05,
-      "news_count_90d": 193
+      "news_count_90d": 192
     },
     {
       "slug": "chemicals-inorganic",
       "name": "Chemicals - Inorganic",
       "n_stocks": 9,
       "path": "chemicals-inorganic/index.json",
-      "median_pct_chg_90d": 13.83,
+      "median_pct_chg_90d": 17.33,
       "pct_stocks_up": 88.9,
       "median_delivery_pct": 42.35,
-      "news_count_90d": 260
+      "news_count_90d": 259
     },
     {
       "slug": "textiles-synthetic",
       "name": "Textiles - Synthetic",
       "n_stocks": 9,
       "path": "textiles-synthetic/index.json",
-      "median_pct_chg_90d": 25.77,
+      "median_pct_chg_90d": 23.72,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 45.04,
       "news_count_90d": 185
@@ -503,227 +503,227 @@
       "name": "Utilities - Renewable",
       "n_stocks": 9,
       "path": "utilities-renewable/index.json",
-      "median_pct_chg_90d": 26.52,
+      "median_pct_chg_90d": 23.96,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 38.7,
-      "news_count_90d": 299
+      "news_count_90d": 290
     },
     {
       "slug": "mortgage-finance",
       "name": "Mortgage Finance",
       "n_stocks": 9,
       "path": "mortgage-finance/index.json",
-      "median_pct_chg_90d": 10.82,
+      "median_pct_chg_90d": 7.1,
       "pct_stocks_up": 88.9,
       "median_delivery_pct": 60.02,
-      "news_count_90d": 337
+      "news_count_90d": 332
     },
     {
       "slug": "pesticides-and-agrochemicals",
       "name": "Pesticides And Agrochemicals",
       "n_stocks": 9,
       "path": "pesticides-and-agrochemicals/index.json",
-      "median_pct_chg_90d": 4.85,
+      "median_pct_chg_90d": 1.9,
       "pct_stocks_up": 55.6,
       "median_delivery_pct": 53.11,
-      "news_count_90d": 202
+      "news_count_90d": 200
     },
     {
       "slug": "plastic-and-plastic-products",
       "name": "Plastic And Plastic Products",
       "n_stocks": 9,
       "path": "plastic-and-plastic-products/index.json",
-      "median_pct_chg_90d": -4.21,
+      "median_pct_chg_90d": -4.07,
       "pct_stocks_up": 44.4,
       "median_delivery_pct": 38.6,
-      "news_count_90d": 174
+      "news_count_90d": 168
     },
     {
       "slug": "chemicals-speciality",
       "name": "Chemicals - Speciality",
       "n_stocks": 9,
       "path": "chemicals-speciality/index.json",
-      "median_pct_chg_90d": 8.83,
-      "pct_stocks_up": 77.8,
+      "median_pct_chg_90d": 6.49,
+      "pct_stocks_up": 66.7,
       "median_delivery_pct": 50.03,
-      "news_count_90d": 192
+      "news_count_90d": 190
     },
     {
       "slug": "insurance-life",
       "name": "Insurance - Life",
       "n_stocks": 8,
       "path": "insurance-life/index.json",
-      "median_pct_chg_90d": -6.42,
+      "median_pct_chg_90d": -7.76,
       "pct_stocks_up": 25.0,
       "median_delivery_pct": 43.39,
-      "news_count_90d": 294
+      "news_count_90d": 288
+    },
+    {
+      "slug": "media-entertainment",
+      "name": "Media & Entertainment",
+      "n_stocks": 8,
+      "path": "media-entertainment/index.json",
+      "median_pct_chg_90d": 5.71,
+      "pct_stocks_up": 75.0,
+      "median_delivery_pct": 30.18,
+      "news_count_90d": 130
     },
     {
       "slug": "real-estate-services",
       "name": "Real Estate Services",
       "n_stocks": 8,
       "path": "real-estate-services/index.json",
-      "median_pct_chg_90d": 8.47,
+      "median_pct_chg_90d": 8.75,
       "pct_stocks_up": 62.5,
       "median_delivery_pct": 59.37,
-      "news_count_90d": 195
+      "news_count_90d": 192
     },
     {
       "slug": "metals",
       "name": "Metals",
       "n_stocks": 8,
       "path": "metals/index.json",
-      "median_pct_chg_90d": 14.12,
+      "median_pct_chg_90d": 12.35,
       "pct_stocks_up": 75.0,
       "median_delivery_pct": 41.22,
-      "news_count_90d": 194
+      "news_count_90d": 192
     },
     {
       "slug": "diagnostics-research",
       "name": "Diagnostics & Research",
       "n_stocks": 8,
       "path": "diagnostics-research/index.json",
-      "median_pct_chg_90d": 10.81,
+      "median_pct_chg_90d": 7.9,
       "pct_stocks_up": 75.0,
       "median_delivery_pct": 54.77,
-      "news_count_90d": 200
+      "news_count_90d": 197
     },
     {
       "slug": "personal-care",
       "name": "Personal Care",
       "n_stocks": 8,
       "path": "personal-care/index.json",
-      "median_pct_chg_90d": -8.37,
+      "median_pct_chg_90d": -9.34,
       "pct_stocks_up": 12.5,
       "median_delivery_pct": 50.91,
-      "news_count_90d": 232
-    },
-    {
-      "slug": "auto-manufacturers",
-      "name": "Auto Manufacturers",
-      "n_stocks": 8,
-      "path": "auto-manufacturers/index.json",
-      "median_pct_chg_90d": -4.87,
-      "pct_stocks_up": 37.5,
-      "median_delivery_pct": 35.92,
-      "news_count_90d": 180
+      "news_count_90d": 229
     },
     {
       "slug": "apparel-manufacturing",
       "name": "Apparel Manufacturing",
       "n_stocks": 8,
       "path": "apparel-manufacturing/index.json",
-      "median_pct_chg_90d": 10.22,
+      "median_pct_chg_90d": 7.89,
       "pct_stocks_up": 62.5,
       "median_delivery_pct": 51.69,
-      "news_count_90d": 160
+      "news_count_90d": 159
     },
     {
       "slug": "trading",
       "name": "Trading",
       "n_stocks": 8,
       "path": "trading/index.json",
-      "median_pct_chg_90d": 4.21,
-      "pct_stocks_up": 87.5,
+      "median_pct_chg_90d": 6.81,
+      "pct_stocks_up": 75.0,
       "median_delivery_pct": 43.33,
-      "news_count_90d": 157
+      "news_count_90d": 152
     },
     {
       "slug": "packaging",
       "name": "Packaging",
       "n_stocks": 7,
       "path": "packaging/index.json",
-      "median_pct_chg_90d": 3.57,
+      "median_pct_chg_90d": -0.56,
       "pct_stocks_up": 50.0,
       "median_delivery_pct": 54.63,
-      "news_count_90d": 141
+      "news_count_90d": 140
     },
     {
       "slug": "biotechnology",
       "name": "Biotechnology",
       "n_stocks": 7,
       "path": "biotechnology/index.json",
-      "median_pct_chg_90d": 18.14,
+      "median_pct_chg_90d": 17.38,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 39.07,
-      "news_count_90d": 134
+      "news_count_90d": 132
     },
     {
       "slug": "electronic-components",
       "name": "Electronic Components",
       "n_stocks": 7,
       "path": "electronic-components/index.json",
-      "median_pct_chg_90d": 30.36,
+      "median_pct_chg_90d": 24.02,
       "pct_stocks_up": 85.7,
       "median_delivery_pct": 43.76,
-      "news_count_90d": 163
+      "news_count_90d": 160
     },
     {
       "slug": "sugar",
       "name": "Sugar",
       "n_stocks": 7,
       "path": "sugar/index.json",
-      "median_pct_chg_90d": 7.96,
-      "pct_stocks_up": 71.4,
+      "median_pct_chg_90d": 2.46,
+      "pct_stocks_up": 57.1,
       "median_delivery_pct": 37.01,
       "news_count_90d": 147
+    },
+    {
+      "slug": "auto-manufacturers",
+      "name": "Auto Manufacturers",
+      "n_stocks": 7,
+      "path": "auto-manufacturers/index.json",
+      "median_pct_chg_90d": -4.75,
+      "pct_stocks_up": 42.9,
+      "median_delivery_pct": 34.09,
+      "news_count_90d": 176
     },
     {
       "slug": "gas",
       "name": "Gas",
       "n_stocks": 7,
       "path": "gas/index.json",
-      "median_pct_chg_90d": 6.67,
+      "median_pct_chg_90d": 1.91,
       "pct_stocks_up": 71.4,
       "median_delivery_pct": 53.79,
-      "news_count_90d": 149
+      "news_count_90d": 146
     },
     {
       "slug": "electronics-industrial",
       "name": "Electronics - Industrial",
       "n_stocks": 7,
       "path": "electronics-industrial/index.json",
-      "median_pct_chg_90d": 13.38,
-      "pct_stocks_up": 71.4,
+      "median_pct_chg_90d": 2.33,
+      "pct_stocks_up": 57.1,
       "median_delivery_pct": 33.41,
-      "news_count_90d": 168
+      "news_count_90d": 166
     },
     {
       "slug": "restaurants",
       "name": "Restaurants",
       "n_stocks": 6,
       "path": "restaurants/index.json",
-      "median_pct_chg_90d": 6.04,
+      "median_pct_chg_90d": 5.87,
       "pct_stocks_up": 83.3,
       "median_delivery_pct": 49.35,
-      "news_count_90d": 125
+      "news_count_90d": 119
     },
     {
       "slug": "education-training-services",
       "name": "Education & Training Services",
       "n_stocks": 6,
       "path": "education-training-services/index.json",
-      "median_pct_chg_90d": 16.6,
+      "median_pct_chg_90d": 13.5,
       "pct_stocks_up": 83.3,
       "median_delivery_pct": 43.22,
-      "news_count_90d": 129
-    },
-    {
-      "slug": "media-amp-amp-amp-amp-amp-amp-amp-entertainment",
-      "name": "Media &amp;amp;amp;amp;amp;amp;amp; Entertainment",
-      "n_stocks": 6,
-      "path": "media-amp-amp-amp-amp-amp-amp-amp-entertainment/index.json",
-      "median_pct_chg_90d": 8.67,
-      "pct_stocks_up": 83.3,
-      "median_delivery_pct": 30.18,
-      "news_count_90d": 107
+      "news_count_90d": 128
     },
     {
       "slug": "tyres",
       "name": "Tyres",
       "n_stocks": 6,
       "path": "tyres/index.json",
-      "median_pct_chg_90d": -6.17,
+      "median_pct_chg_90d": -8.99,
       "pct_stocks_up": 16.7,
       "median_delivery_pct": 50.36,
       "news_count_90d": 141
@@ -733,108 +733,118 @@
       "name": "Brew/Distilleries",
       "n_stocks": 6,
       "path": "brew-distilleries/index.json",
-      "median_pct_chg_90d": -0.98,
+      "median_pct_chg_90d": -3.87,
       "pct_stocks_up": 50.0,
       "median_delivery_pct": 49.05,
-      "news_count_90d": 130
+      "news_count_90d": 127
     },
     {
       "slug": "building-products-equipment",
       "name": "Building Products & Equipment",
       "n_stocks": 6,
       "path": "building-products-equipment/index.json",
-      "median_pct_chg_90d": 20.57,
+      "median_pct_chg_90d": 10.39,
       "pct_stocks_up": 66.7,
       "median_delivery_pct": 50.48,
-      "news_count_90d": 121
+      "news_count_90d": 120
     },
     {
       "slug": "shipping",
       "name": "Shipping",
       "n_stocks": 6,
       "path": "shipping/index.json",
-      "median_pct_chg_90d": 22.14,
+      "median_pct_chg_90d": 21.3,
       "pct_stocks_up": 83.3,
       "median_delivery_pct": 37.52,
-      "news_count_90d": 179
+      "news_count_90d": 178
     },
     {
       "slug": "mining",
       "name": "Mining",
       "n_stocks": 6,
       "path": "mining/index.json",
-      "median_pct_chg_90d": 14.11,
+      "median_pct_chg_90d": 13.61,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 43.83,
-      "news_count_90d": 147
+      "news_count_90d": 146
+    },
+    {
+      "slug": "automobiles-4-wheelers",
+      "name": "Automobiles - 4 Wheelers",
+      "n_stocks": 6,
+      "path": "automobiles-4-wheelers/index.json",
+      "median_pct_chg_90d": -7.68,
+      "pct_stocks_up": 0.0,
+      "median_delivery_pct": 46.58,
+      "news_count_90d": 233
     },
     {
       "slug": "consumer-durables",
       "name": "Consumer Durables",
       "n_stocks": 6,
       "path": "consumer-durables/index.json",
-      "median_pct_chg_90d": -7.65,
-      "pct_stocks_up": 33.3,
+      "median_pct_chg_90d": -11.0,
+      "pct_stocks_up": 16.7,
       "median_delivery_pct": 40.81,
-      "news_count_90d": 170
+      "news_count_90d": 167
     },
     {
       "slug": "drug-manufacturers-general",
       "name": "Drug Manufacturers - General",
       "n_stocks": 6,
       "path": "drug-manufacturers-general/index.json",
-      "median_pct_chg_90d": 27.96,
+      "median_pct_chg_90d": 23.61,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 40.94,
-      "news_count_90d": 117
+      "news_count_90d": 116
     },
     {
       "slug": "refineries",
       "name": "Refineries",
       "n_stocks": 6,
       "path": "refineries/index.json",
-      "median_pct_chg_90d": -10.13,
+      "median_pct_chg_90d": -8.19,
       "pct_stocks_up": 33.3,
       "median_delivery_pct": 48.75,
-      "news_count_90d": 162
+      "news_count_90d": 157
     },
     {
       "slug": "apparel-retail",
       "name": "Apparel Retail",
       "n_stocks": 6,
       "path": "apparel-retail/index.json",
-      "median_pct_chg_90d": 8.4,
-      "pct_stocks_up": 100.0,
+      "median_pct_chg_90d": 11.29,
+      "pct_stocks_up": 83.3,
       "median_delivery_pct": 52.02,
-      "news_count_90d": 134
+      "news_count_90d": 132
     },
     {
       "slug": "telecom-services",
       "name": "Telecom Services",
       "n_stocks": 5,
       "path": "telecom-services/index.json",
-      "median_pct_chg_90d": 3.68,
+      "median_pct_chg_90d": 7.09,
       "pct_stocks_up": 60.0,
       "median_delivery_pct": 46.48,
-      "news_count_90d": 142
+      "news_count_90d": 137
     },
     {
       "slug": "castings-forgings",
       "name": "Castings/Forgings",
       "n_stocks": 5,
       "path": "castings-forgings/index.json",
-      "median_pct_chg_90d": 3.62,
-      "pct_stocks_up": 100.0,
+      "median_pct_chg_90d": -0.05,
+      "pct_stocks_up": 40.0,
       "median_delivery_pct": 41.61,
-      "news_count_90d": 143
+      "news_count_90d": 141
     },
     {
       "slug": "farm-heavy-construction-machinery",
       "name": "Farm & Heavy Construction Machinery",
       "n_stocks": 5,
       "path": "farm-heavy-construction-machinery/index.json",
-      "median_pct_chg_90d": 25.94,
-      "pct_stocks_up": 100.0,
+      "median_pct_chg_90d": 25.25,
+      "pct_stocks_up": 80.0,
       "median_delivery_pct": 55.21,
       "news_count_90d": 69
     },
@@ -843,7 +853,7 @@
       "name": "Paper And Paper Products",
       "n_stocks": 5,
       "path": "paper-and-paper-products/index.json",
-      "median_pct_chg_90d": 7.32,
+      "median_pct_chg_90d": 5.21,
       "pct_stocks_up": 75.0,
       "median_delivery_pct": 54.16,
       "news_count_90d": 100
@@ -853,7 +863,7 @@
       "name": "Beverages - Wineries & Distilleries",
       "n_stocks": 5,
       "path": "beverages-wineries-distilleries/index.json",
-      "median_pct_chg_90d": 8.19,
+      "median_pct_chg_90d": 6.65,
       "pct_stocks_up": 60.0,
       "median_delivery_pct": 54.44,
       "news_count_90d": 143
@@ -863,7 +873,7 @@
       "name": "Oil & Gas Refining & Marketing",
       "n_stocks": 5,
       "path": "oil-gas-refining-marketing/index.json",
-      "median_pct_chg_90d": 26.13,
+      "median_pct_chg_90d": 24.95,
       "pct_stocks_up": 80.0,
       "median_delivery_pct": 46.24,
       "news_count_90d": 98
@@ -873,8 +883,8 @@
       "name": "Internet Retail",
       "n_stocks": 5,
       "path": "internet-retail/index.json",
-      "median_pct_chg_90d": 5.05,
-      "pct_stocks_up": 80.0,
+      "median_pct_chg_90d": 4.21,
+      "pct_stocks_up": 60.0,
       "median_delivery_pct": 47.91,
       "news_count_90d": 107
     },
@@ -883,78 +893,68 @@
       "name": "Gems Jewellery And Watches",
       "n_stocks": 5,
       "path": "gems-jewellery-and-watches/index.json",
-      "median_pct_chg_90d": 28.09,
+      "median_pct_chg_90d": 25.25,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 45.46,
-      "news_count_90d": 99
+      "news_count_90d": 97
     },
     {
       "slug": "ceramics-and-sanitaryware",
       "name": "Ceramics And Sanitaryware",
       "n_stocks": 5,
       "path": "ceramics-and-sanitaryware/index.json",
-      "median_pct_chg_90d": 21.17,
+      "median_pct_chg_90d": 18.49,
       "pct_stocks_up": 80.0,
       "median_delivery_pct": 46.15,
-      "news_count_90d": 132
+      "news_count_90d": 131
     },
     {
       "slug": "communication-equipment",
       "name": "Communication Equipment",
       "n_stocks": 5,
       "path": "communication-equipment/index.json",
-      "median_pct_chg_90d": 21.27,
+      "median_pct_chg_90d": 19.02,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 47.91,
-      "news_count_90d": 141
-    },
-    {
-      "slug": "automobiles-4-wheelers",
-      "name": "Automobiles - 4 Wheelers",
-      "n_stocks": 5,
-      "path": "automobiles-4-wheelers/index.json",
-      "median_pct_chg_90d": -9.06,
-      "pct_stocks_up": 0.0,
-      "median_delivery_pct": 44.12,
-      "news_count_90d": 177
+      "news_count_90d": 140
     },
     {
       "slug": "travel-and-transport",
       "name": "Travel And Transport",
       "n_stocks": 5,
       "path": "travel-and-transport/index.json",
-      "median_pct_chg_90d": -2.9,
+      "median_pct_chg_90d": -4.14,
       "pct_stocks_up": 40.0,
       "median_delivery_pct": 51.49,
-      "news_count_90d": 164
+      "news_count_90d": 161
     },
     {
       "slug": "oil-gas-equipment-services",
       "name": "Oil & Gas Equipment & Services",
       "n_stocks": 5,
       "path": "oil-gas-equipment-services/index.json",
-      "median_pct_chg_90d": 33.22,
+      "median_pct_chg_90d": 25.41,
       "pct_stocks_up": 60.0,
       "median_delivery_pct": 46.78,
-      "news_count_90d": 80
+      "news_count_90d": 79
     },
     {
       "slug": "paper-paper-products",
       "name": "Paper & Paper Products",
       "n_stocks": 5,
       "path": "paper-paper-products/index.json",
-      "median_pct_chg_90d": -3.01,
+      "median_pct_chg_90d": -2.59,
       "pct_stocks_up": 40.0,
       "median_delivery_pct": 65.34,
-      "news_count_90d": 72
+      "news_count_90d": 70
     },
     {
       "slug": "printing-and-publishing",
       "name": "Printing And Publishing",
       "n_stocks": 5,
       "path": "printing-and-publishing/index.json",
-      "median_pct_chg_90d": 0.98,
-      "pct_stocks_up": 60.0,
+      "median_pct_chg_90d": -0.61,
+      "pct_stocks_up": 40.0,
       "median_delivery_pct": 50.09,
       "news_count_90d": 89
     },
@@ -963,7 +963,7 @@
       "name": "Financial Institution",
       "n_stocks": 4,
       "path": "financial-institution/index.json",
-      "median_pct_chg_90d": 14.05,
+      "median_pct_chg_90d": 10.0,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 44.5,
       "news_count_90d": 86
@@ -973,28 +973,28 @@
       "name": "Utilities - Regulated Gas",
       "n_stocks": 4,
       "path": "utilities-regulated-gas/index.json",
-      "median_pct_chg_90d": 17.31,
+      "median_pct_chg_90d": 13.2,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 36.42,
-      "news_count_90d": 109
+      "news_count_90d": 107
     },
     {
       "slug": "petrochemicals",
       "name": "Petrochemicals",
       "n_stocks": 4,
       "path": "petrochemicals/index.json",
-      "median_pct_chg_90d": 27.49,
+      "median_pct_chg_90d": 20.81,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 51.68,
-      "news_count_90d": 78
+      "news_count_90d": 76
     },
     {
       "slug": "business-equipment-supplies",
       "name": "Business Equipment & Supplies",
       "n_stocks": 4,
       "path": "business-equipment-supplies/index.json",
-      "median_pct_chg_90d": -2.05,
-      "pct_stocks_up": 25.0,
+      "median_pct_chg_90d": -3.17,
+      "pct_stocks_up": 0.0,
       "median_delivery_pct": 53.3,
       "news_count_90d": 67
     },
@@ -1003,77 +1003,77 @@
       "name": "Medical Instruments & Supplies",
       "n_stocks": 4,
       "path": "medical-instruments-supplies/index.json",
-      "median_pct_chg_90d": 6.12,
-      "pct_stocks_up": 75.0,
+      "median_pct_chg_90d": 5.63,
+      "pct_stocks_up": 100.0,
       "median_delivery_pct": 54.34,
-      "news_count_90d": 80
+      "news_count_90d": 79
     },
     {
       "slug": "diesel-engines",
       "name": "Diesel Engines",
       "n_stocks": 4,
       "path": "diesel-engines/index.json",
-      "median_pct_chg_90d": 26.61,
+      "median_pct_chg_90d": 28.41,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 56.31,
-      "news_count_90d": 134
+      "news_count_90d": 120
     },
     {
       "slug": "compressors-pumps",
       "name": "Compressors / Pumps",
       "n_stocks": 4,
       "path": "compressors-pumps/index.json",
-      "median_pct_chg_90d": 5.73,
+      "median_pct_chg_90d": 6.87,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 43.3,
-      "news_count_90d": 73
+      "news_count_90d": 72
     },
     {
       "slug": "chemicals-organic",
       "name": "Chemicals - Organic",
       "n_stocks": 4,
       "path": "chemicals-organic/index.json",
-      "median_pct_chg_90d": 14.3,
-      "pct_stocks_up": 100.0,
+      "median_pct_chg_90d": 12.77,
+      "pct_stocks_up": 75.0,
       "median_delivery_pct": 53.75,
-      "news_count_90d": 76
+      "news_count_90d": 74
     },
     {
       "slug": "textiles-cotton",
       "name": "Textiles - Cotton",
       "n_stocks": 4,
       "path": "textiles-cotton/index.json",
-      "median_pct_chg_90d": 24.99,
+      "median_pct_chg_90d": 25.82,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 42.22,
-      "news_count_90d": 63
+      "news_count_90d": 62
     },
     {
       "slug": "travel-services",
       "name": "Travel Services",
       "n_stocks": 4,
       "path": "travel-services/index.json",
-      "median_pct_chg_90d": -4.66,
+      "median_pct_chg_90d": -4.1,
       "pct_stocks_up": 25.0,
       "median_delivery_pct": 34.59,
-      "news_count_90d": 100
+      "news_count_90d": 94
     },
     {
       "slug": "household-personal-products",
       "name": "Household & Personal Products",
       "n_stocks": 4,
       "path": "household-personal-products/index.json",
-      "median_pct_chg_90d": 46.93,
+      "median_pct_chg_90d": 49.12,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 45.93,
-      "news_count_90d": 82
+      "news_count_90d": 81
     },
     {
       "slug": "computers-hardware",
       "name": "Computers - Hardware",
       "n_stocks": 4,
       "path": "computers-hardware/index.json",
-      "median_pct_chg_90d": 21.61,
+      "median_pct_chg_90d": 18.81,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 42.19,
       "news_count_90d": 75
@@ -1083,17 +1083,17 @@
       "name": "Paints",
       "n_stocks": 4,
       "path": "paints/index.json",
-      "median_pct_chg_90d": 13.35,
+      "median_pct_chg_90d": 13.3,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 54.67,
-      "news_count_90d": 63
+      "news_count_90d": 62
     },
     {
       "slug": "finance-housing",
       "name": "Finance - Housing",
       "n_stocks": 4,
       "path": "finance-housing/index.json",
-      "median_pct_chg_90d": 2.71,
+      "median_pct_chg_90d": 1.62,
       "pct_stocks_up": 75.0,
       "median_delivery_pct": 53.86,
       "news_count_90d": 100
@@ -1103,17 +1103,17 @@
       "name": "Oil Exploration/Production",
       "n_stocks": 4,
       "path": "oil-exploration-production/index.json",
-      "median_pct_chg_90d": 3.8,
+      "median_pct_chg_90d": 9.34,
       "pct_stocks_up": 75.0,
       "median_delivery_pct": 48.88,
-      "news_count_90d": 84
+      "news_count_90d": 80
     },
     {
       "slug": "auto-truck-dealerships",
       "name": "Auto & Truck Dealerships",
       "n_stocks": 3,
       "path": "auto-truck-dealerships/index.json",
-      "median_pct_chg_90d": 11.02,
+      "median_pct_chg_90d": 15.17,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 37.24,
       "news_count_90d": 88
@@ -1124,36 +1124,36 @@
       "n_stocks": 3,
       "path": "aluminium/index.json",
       "median_pct_chg_90d": 6.48,
-      "pct_stocks_up": 100.0,
+      "pct_stocks_up": 66.7,
       "median_delivery_pct": 45.15,
-      "news_count_90d": 66
+      "news_count_90d": 65
     },
     {
       "slug": "automobiles-2-and-3-wheelers",
       "name": "Automobiles - 2 And 3 Wheelers",
       "n_stocks": 3,
       "path": "automobiles-2-and-3-wheelers/index.json",
-      "median_pct_chg_90d": -6.72,
+      "median_pct_chg_90d": -6.02,
       "pct_stocks_up": 33.3,
       "median_delivery_pct": 56.13,
-      "news_count_90d": 114
+      "news_count_90d": 113
     },
     {
       "slug": "internet-content-information",
       "name": "Internet Content & Information",
       "n_stocks": 3,
       "path": "internet-content-information/index.json",
-      "median_pct_chg_90d": -0.81,
+      "median_pct_chg_90d": -2.19,
       "pct_stocks_up": 33.3,
       "median_delivery_pct": 57.72,
-      "news_count_90d": 69
+      "news_count_90d": 67
     },
     {
       "slug": "staffing-employment-services",
       "name": "Staffing & Employment Services",
       "n_stocks": 3,
       "path": "staffing-employment-services/index.json",
-      "median_pct_chg_90d": 25.56,
+      "median_pct_chg_90d": 22.04,
       "pct_stocks_up": 66.7,
       "median_delivery_pct": 11.95,
       "news_count_90d": 90
@@ -1163,27 +1163,27 @@
       "name": "Financial Conglomerates",
       "n_stocks": 3,
       "path": "financial-conglomerates/index.json",
-      "median_pct_chg_90d": 10.24,
+      "median_pct_chg_90d": 8.27,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 48.12,
-      "news_count_90d": 93
+      "news_count_90d": 90
     },
     {
       "slug": "dyes-and-pigments",
       "name": "Dyes And Pigments",
       "n_stocks": 3,
       "path": "dyes-and-pigments/index.json",
-      "median_pct_chg_90d": 11.41,
-      "pct_stocks_up": 100.0,
+      "median_pct_chg_90d": 2.29,
+      "pct_stocks_up": 66.7,
       "median_delivery_pct": 51.5,
-      "news_count_90d": 48
+      "news_count_90d": 46
     },
     {
       "slug": "other-industrial-metals-mining",
       "name": "Other Industrial Metals & Mining",
       "n_stocks": 3,
       "path": "other-industrial-metals-mining/index.json",
-      "median_pct_chg_90d": -18.47,
+      "median_pct_chg_90d": -20.74,
       "pct_stocks_up": 33.3,
       "median_delivery_pct": 37.08,
       "news_count_90d": 110
@@ -1193,47 +1193,47 @@
       "name": "Electronics & Computer Distribution",
       "n_stocks": 3,
       "path": "electronics-computer-distribution/index.json",
-      "median_pct_chg_90d": 31.35,
-      "pct_stocks_up": 100.0,
+      "median_pct_chg_90d": 30.33,
+      "pct_stocks_up": 66.7,
       "median_delivery_pct": 61.32,
-      "news_count_90d": 53
+      "news_count_90d": 52
     },
     {
       "slug": "telecommunication-services",
       "name": "Telecommunication - Services",
       "n_stocks": 3,
       "path": "telecommunication-services/index.json",
-      "median_pct_chg_90d": 5.7,
-      "pct_stocks_up": 66.7,
+      "median_pct_chg_90d": -0.49,
+      "pct_stocks_up": 33.3,
       "median_delivery_pct": 51.42,
-      "news_count_90d": 107
+      "news_count_90d": 104
     },
     {
       "slug": "marine-shipping",
       "name": "Marine Shipping",
       "n_stocks": 3,
       "path": "marine-shipping/index.json",
-      "median_pct_chg_90d": 18.38,
+      "median_pct_chg_90d": 15.07,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 41.45,
-      "news_count_90d": 58
+      "news_count_90d": 57
     },
     {
       "slug": "health-information-services",
       "name": "Health Information Services",
       "n_stocks": 3,
       "path": "health-information-services/index.json",
-      "median_pct_chg_90d": 15.67,
-      "pct_stocks_up": 100.0,
+      "median_pct_chg_90d": 16.33,
+      "pct_stocks_up": 66.7,
       "median_delivery_pct": 46.83,
-      "news_count_90d": 94
+      "news_count_90d": 93
     },
     {
       "slug": "computer-hardware",
       "name": "Computer Hardware",
       "n_stocks": 3,
       "path": "computer-hardware/index.json",
-      "median_pct_chg_90d": 45.84,
+      "median_pct_chg_90d": 42.32,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 34.3,
       "news_count_90d": 69
@@ -1243,17 +1243,17 @@
       "name": "Oil & Gas E&P",
       "n_stocks": 3,
       "path": "oil-gas-e-p/index.json",
-      "median_pct_chg_90d": 41.09,
+      "median_pct_chg_90d": 55.08,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 46.14,
-      "news_count_90d": 58
+      "news_count_90d": 57
     },
     {
       "slug": "lubricants",
       "name": "Lubricants",
       "n_stocks": 3,
       "path": "lubricants/index.json",
-      "median_pct_chg_90d": 36.84,
+      "median_pct_chg_90d": 49.87,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 31.75,
       "news_count_90d": 45
@@ -1263,7 +1263,7 @@
       "name": "Telecommunication - Equipment",
       "n_stocks": 3,
       "path": "telecommunication-equipment/index.json",
-      "median_pct_chg_90d": 40.85,
+      "median_pct_chg_90d": 37.92,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 27.55,
       "news_count_90d": 92
@@ -1273,7 +1273,7 @@
       "name": "Leather And Leather Products",
       "n_stocks": 3,
       "path": "leather-and-leather-products/index.json",
-      "median_pct_chg_90d": -3.4,
+      "median_pct_chg_90d": -1.48,
       "pct_stocks_up": 33.3,
       "median_delivery_pct": 45.05,
       "news_count_90d": 58
@@ -1283,17 +1283,17 @@
       "name": "Footwear & Accessories",
       "n_stocks": 3,
       "path": "footwear-accessories/index.json",
-      "median_pct_chg_90d": 1.44,
+      "median_pct_chg_90d": 2.04,
       "pct_stocks_up": 66.7,
       "median_delivery_pct": 45.24,
-      "news_count_90d": 55
+      "news_count_90d": 54
     },
     {
       "slug": "abrasives",
       "name": "Abrasives",
       "n_stocks": 3,
       "path": "abrasives/index.json",
-      "median_pct_chg_90d": 28.46,
+      "median_pct_chg_90d": 29.29,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 54.55,
       "news_count_90d": 53
@@ -1303,7 +1303,7 @@
       "name": "Electrodes",
       "n_stocks": 3,
       "path": "electrodes/index.json",
-      "median_pct_chg_90d": 11.48,
+      "median_pct_chg_90d": 8.69,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 41.64,
       "news_count_90d": 72
@@ -1313,7 +1313,7 @@
       "name": "Cables - Power",
       "n_stocks": 3,
       "path": "cables-power/index.json",
-      "median_pct_chg_90d": 88.95,
+      "median_pct_chg_90d": 96.94,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 34.6,
       "news_count_90d": 64
@@ -1323,20 +1323,20 @@
       "name": "Cigarettes",
       "n_stocks": 3,
       "path": "cigarettes/index.json",
-      "median_pct_chg_90d": 10.66,
+      "median_pct_chg_90d": 4.58,
       "pct_stocks_up": 66.7,
       "median_delivery_pct": 58.56,
-      "news_count_90d": 55
+      "news_count_90d": 54
     },
     {
       "slug": "entertainment",
       "name": "Entertainment",
       "n_stocks": 3,
       "path": "entertainment/index.json",
-      "median_pct_chg_90d": 6.48,
+      "median_pct_chg_90d": 1.43,
       "pct_stocks_up": 66.7,
       "median_delivery_pct": 44.9,
-      "news_count_90d": 57
+      "news_count_90d": 56
     },
     {
       "slug": "tools-accessories",
@@ -1353,28 +1353,28 @@
       "name": "Pharmaceutical Retailers",
       "n_stocks": 3,
       "path": "pharmaceutical-retailers/index.json",
-      "median_pct_chg_90d": 4.28,
+      "median_pct_chg_90d": 3.41,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 49.33,
-      "news_count_90d": 66
+      "news_count_90d": 65
     },
     {
       "slug": "railroads",
       "name": "Railroads",
       "n_stocks": 3,
       "path": "railroads/index.json",
-      "median_pct_chg_90d": 20.65,
-      "pct_stocks_up": 66.7,
+      "median_pct_chg_90d": 11.94,
+      "pct_stocks_up": 100.0,
       "median_delivery_pct": 33.01,
-      "news_count_90d": 55
+      "news_count_90d": 53
     },
     {
       "slug": "bearings",
       "name": "Bearings",
       "n_stocks": 3,
       "path": "bearings/index.json",
-      "median_pct_chg_90d": 10.89,
-      "pct_stocks_up": 66.7,
+      "median_pct_chg_90d": 6.84,
+      "pct_stocks_up": 100.0,
       "median_delivery_pct": 51.28,
       "news_count_90d": 65
     },
@@ -1383,27 +1383,27 @@
       "name": "Security & Protection Services",
       "n_stocks": 2,
       "path": "security-protection-services/index.json",
-      "median_pct_chg_90d": 18.83,
+      "median_pct_chg_90d": 17.25,
       "pct_stocks_up": 50.0,
       "median_delivery_pct": 62.64,
-      "news_count_90d": 29
+      "news_count_90d": 28
     },
     {
       "slug": "beverages-non-alcoholic",
       "name": "Beverages - Non-Alcoholic",
       "n_stocks": 2,
       "path": "beverages-non-alcoholic/index.json",
-      "median_pct_chg_90d": 17.5,
+      "median_pct_chg_90d": 18.05,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 36.92,
-      "news_count_90d": 42
+      "news_count_90d": 40
     },
     {
       "slug": "rental-leasing-services",
       "name": "Rental & Leasing Services",
       "n_stocks": 2,
       "path": "rental-leasing-services/index.json",
-      "median_pct_chg_90d": 18.73,
+      "median_pct_chg_90d": 12.63,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 36.86,
       "news_count_90d": 41
@@ -1413,27 +1413,27 @@
       "name": "Financial Data & Stock Exchanges",
       "n_stocks": 2,
       "path": "financial-data-stock-exchanges/index.json",
-      "median_pct_chg_90d": 24.3,
+      "median_pct_chg_90d": 23.57,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 31.43,
-      "news_count_90d": 50
+      "news_count_90d": 49
     },
     {
       "slug": "advertising-agencies",
       "name": "Advertising Agencies",
       "n_stocks": 2,
       "path": "advertising-agencies/index.json",
-      "median_pct_chg_90d": 10.56,
+      "median_pct_chg_90d": 9.92,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 52.67,
-      "news_count_90d": 46
+      "news_count_90d": 45
     },
     {
       "slug": "department-stores",
       "name": "Department Stores",
       "n_stocks": 2,
       "path": "department-stores/index.json",
-      "median_pct_chg_90d": 11.88,
+      "median_pct_chg_90d": 12.52,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 51.28,
       "news_count_90d": 49
@@ -1443,7 +1443,7 @@
       "name": "Fastners",
       "n_stocks": 2,
       "path": "fastners/index.json",
-      "median_pct_chg_90d": 6.21,
+      "median_pct_chg_90d": 6.38,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 49.34,
       "news_count_90d": 57
@@ -1453,37 +1453,37 @@
       "name": "Real Estate - Diversified",
       "n_stocks": 2,
       "path": "real-estate-diversified/index.json",
-      "median_pct_chg_90d": 2.53,
+      "median_pct_chg_90d": 0.63,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 51.42,
-      "news_count_90d": 45
+      "news_count_90d": 43
     },
     {
       "slug": "consumer-electronics",
       "name": "Consumer Electronics",
       "n_stocks": 2,
       "path": "consumer-electronics/index.json",
-      "median_pct_chg_90d": 7.17,
+      "median_pct_chg_90d": 0.85,
       "pct_stocks_up": 50.0,
       "median_delivery_pct": 48.2,
-      "news_count_90d": 58
+      "news_count_90d": 56
     },
     {
       "slug": "specialty-retail",
       "name": "Specialty Retail",
       "n_stocks": 2,
       "path": "specialty-retail/index.json",
-      "median_pct_chg_90d": 21.86,
+      "median_pct_chg_90d": 20.41,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 44.43,
-      "news_count_90d": 39
+      "news_count_90d": 38
     },
     {
       "slug": "insurance-diversified",
       "name": "Insurance - Diversified",
       "n_stocks": 2,
       "path": "insurance-diversified/index.json",
-      "median_pct_chg_90d": 2.73,
+      "median_pct_chg_90d": 2.28,
       "pct_stocks_up": 50.0,
       "median_delivery_pct": 46.12,
       "news_count_90d": 67
@@ -1493,7 +1493,7 @@
       "name": "Farm Products",
       "n_stocks": 2,
       "path": "farm-products/index.json",
-      "median_pct_chg_90d": 19.32,
+      "median_pct_chg_90d": 16.43,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 37.08,
       "news_count_90d": 32
@@ -1503,7 +1503,7 @@
       "name": "Aluminum",
       "n_stocks": 2,
       "path": "aluminum/index.json",
-      "median_pct_chg_90d": 15.91,
+      "median_pct_chg_90d": 12.96,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 28.58,
       "news_count_90d": 21
@@ -1513,8 +1513,8 @@
       "name": "Confectioners",
       "n_stocks": 2,
       "path": "confectioners/index.json",
-      "median_pct_chg_90d": 9.78,
-      "pct_stocks_up": 50.0,
+      "median_pct_chg_90d": 4.66,
+      "pct_stocks_up": 100.0,
       "median_delivery_pct": 55.51,
       "news_count_90d": 24
     },
@@ -1523,17 +1523,17 @@
       "name": "Utilities - Regulated Electric",
       "n_stocks": 2,
       "path": "utilities-regulated-electric/index.json",
-      "median_pct_chg_90d": 38.28,
+      "median_pct_chg_90d": 34.91,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 44.36,
-      "news_count_90d": 65
+      "news_count_90d": 60
     },
     {
       "slug": "tea-and-coffee",
       "name": "Tea And Coffee",
       "n_stocks": 2,
       "path": "tea-and-coffee/index.json",
-      "median_pct_chg_90d": 21.34,
+      "median_pct_chg_90d": 14.98,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 80.03,
       "news_count_90d": 37
@@ -1543,28 +1543,18 @@
       "name": "Solvent Extraction",
       "n_stocks": 2,
       "path": "solvent-extraction/index.json",
-      "median_pct_chg_90d": 20.41,
+      "median_pct_chg_90d": 17.39,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 43.56,
       "news_count_90d": 31
-    },
-    {
-      "slug": "unknown",
-      "name": "-",
-      "n_stocks": 2,
-      "path": "unknown/index.json",
-      "median_pct_chg_90d": 0.02,
-      "pct_stocks_up": 50.0,
-      "median_delivery_pct": 44.01,
-      "news_count_90d": 50
     },
     {
       "slug": "publishing",
       "name": "Publishing",
       "n_stocks": 2,
       "path": "publishing/index.json",
-      "median_pct_chg_90d": 1.86,
-      "pct_stocks_up": 100.0,
+      "median_pct_chg_90d": 1.84,
+      "pct_stocks_up": 50.0,
       "median_delivery_pct": 52.23,
       "news_count_90d": 24
     },
@@ -1573,27 +1563,27 @@
       "name": "Trucking",
       "n_stocks": 2,
       "path": "trucking/index.json",
-      "median_pct_chg_90d": 11.62,
+      "median_pct_chg_90d": 14.04,
       "pct_stocks_up": 50.0,
       "median_delivery_pct": 69.36,
-      "news_count_90d": 20
+      "news_count_90d": 18
     },
     {
       "slug": "airlines",
       "name": "Airlines",
       "n_stocks": 1,
       "path": "airlines/index.json",
-      "median_pct_chg_90d": 5.77,
+      "median_pct_chg_90d": 3.0,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 43.73,
-      "news_count_90d": 35
+      "news_count_90d": 33
     },
     {
       "slug": "semiconductor-equipment-materials",
       "name": "Semiconductor Equipment & Materials",
       "n_stocks": 1,
       "path": "semiconductor-equipment-materials/index.json",
-      "median_pct_chg_90d": 31.15,
+      "median_pct_chg_90d": 29.73,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 30.55,
       "news_count_90d": 22
@@ -1603,7 +1593,7 @@
       "name": "Utilities - Independent Power Producers",
       "n_stocks": 1,
       "path": "utilities-independent-power-producers/index.json",
-      "median_pct_chg_90d": 60.89,
+      "median_pct_chg_90d": 59.17,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 29.76,
       "news_count_90d": 26
@@ -1613,7 +1603,7 @@
       "name": "Insurance - Property & Casualty",
       "n_stocks": 1,
       "path": "insurance-property-casualty/index.json",
-      "median_pct_chg_90d": -7.05,
+      "median_pct_chg_90d": -8.27,
       "pct_stocks_up": 0.0,
       "median_delivery_pct": 6.51,
       "news_count_90d": 21
@@ -1623,7 +1613,7 @@
       "name": "Utilities - Regulated Water",
       "n_stocks": 1,
       "path": "utilities-regulated-water/index.json",
-      "median_pct_chg_90d": 1.44,
+      "median_pct_chg_90d": 1.75,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 49.92,
       "news_count_90d": 22
@@ -1633,7 +1623,7 @@
       "name": "Refractories",
       "n_stocks": 1,
       "path": "refractories/index.json",
-      "median_pct_chg_90d": -3.43,
+      "median_pct_chg_90d": -6.11,
       "pct_stocks_up": 0.0,
       "median_delivery_pct": 66.08,
       "news_count_90d": 15
@@ -1643,7 +1633,7 @@
       "name": "Food Distribution",
       "n_stocks": 1,
       "path": "food-distribution/index.json",
-      "median_pct_chg_90d": 5.5,
+      "median_pct_chg_90d": 7.77,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 60.99,
       "news_count_90d": 27
@@ -1653,7 +1643,7 @@
       "name": "Waste Management",
       "n_stocks": 1,
       "path": "waste-management/index.json",
-      "median_pct_chg_90d": -1.14,
+      "median_pct_chg_90d": -5.33,
       "pct_stocks_up": 0.0,
       "median_delivery_pct": 39.59,
       "news_count_90d": 18
@@ -1663,7 +1653,7 @@
       "name": "Copper",
       "n_stocks": 1,
       "path": "copper/index.json",
-      "median_pct_chg_90d": 73.83,
+      "median_pct_chg_90d": 67.91,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 32.67,
       "news_count_90d": 24
@@ -1673,7 +1663,7 @@
       "name": "Shell Companies",
       "n_stocks": 1,
       "path": "shell-companies/index.json",
-      "median_pct_chg_90d": 5.67,
+      "median_pct_chg_90d": 4.61,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 75.76,
       "news_count_90d": 10
@@ -1683,17 +1673,17 @@
       "name": "Airconditioners",
       "n_stocks": 1,
       "path": "airconditioners/index.json",
-      "median_pct_chg_90d": -15.64,
+      "median_pct_chg_90d": -18.51,
       "pct_stocks_up": 0.0,
       "median_delivery_pct": 49.72,
-      "news_count_90d": 27
+      "news_count_90d": 26
     },
     {
       "slug": "home-improvement-retail",
       "name": "Home Improvement Retail",
       "n_stocks": 1,
       "path": "home-improvement-retail/index.json",
-      "median_pct_chg_90d": 18.39,
+      "median_pct_chg_90d": 18.9,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 50.4,
       "news_count_90d": 16
@@ -1703,17 +1693,17 @@
       "name": "Discount Stores",
       "n_stocks": 1,
       "path": "discount-stores/index.json",
-      "median_pct_chg_90d": 4.49,
+      "median_pct_chg_90d": 5.05,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 55.15,
-      "news_count_90d": 39
+      "news_count_90d": 37
     },
     {
       "slug": "medical-distribution",
       "name": "Medical Distribution",
       "n_stocks": 1,
       "path": "medical-distribution/index.json",
-      "median_pct_chg_90d": 8.18,
+      "median_pct_chg_90d": 8.77,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 57.16,
       "news_count_90d": 20
@@ -1723,37 +1713,37 @@
       "name": "Insurance - Reinsurance",
       "n_stocks": 1,
       "path": "insurance-reinsurance/index.json",
-      "median_pct_chg_90d": 7.25,
+      "median_pct_chg_90d": 7.32,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 54.5,
-      "news_count_90d": 20
+      "news_count_90d": 19
     },
     {
       "slug": "airports-air-services",
       "name": "Airports & Air Services",
       "n_stocks": 1,
       "path": "airports-air-services/index.json",
-      "median_pct_chg_90d": 10.82,
+      "median_pct_chg_90d": 8.79,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 49.81,
-      "news_count_90d": 22
+      "news_count_90d": 21
     },
     {
       "slug": "thermal-coal",
       "name": "Thermal Coal",
       "n_stocks": 1,
       "path": "thermal-coal/index.json",
-      "median_pct_chg_90d": 4.14,
+      "median_pct_chg_90d": 1.5,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 29.95,
-      "news_count_90d": 0
+      "news_count_90d": 11
     },
     {
       "slug": "lumber-wood-production",
       "name": "Lumber & Wood Production",
       "n_stocks": 1,
       "path": "lumber-wood-production/index.json",
-      "median_pct_chg_90d": 2.88,
+      "median_pct_chg_90d": 3.61,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 36.06,
       "news_count_90d": 13
@@ -1763,7 +1753,7 @@
       "name": "Diversified",
       "n_stocks": 1,
       "path": "diversified/index.json",
-      "median_pct_chg_90d": -3.33,
+      "median_pct_chg_90d": -1.85,
       "pct_stocks_up": 0.0,
       "median_delivery_pct": 63.19,
       "news_count_90d": 22
@@ -1773,7 +1763,7 @@
       "name": "Other Precious Metals & Mining",
       "n_stocks": 1,
       "path": "other-precious-metals-mining/index.json",
-      "median_pct_chg_90d": 10.48,
+      "median_pct_chg_90d": 12.45,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 58.15,
       "news_count_90d": 17
@@ -1783,8 +1773,8 @@
       "name": "Pollution & Treatment Controls",
       "n_stocks": 1,
       "path": "pollution-treatment-controls/index.json",
-      "median_pct_chg_90d": 4.1,
-      "pct_stocks_up": 100.0,
+      "median_pct_chg_90d": -5.11,
+      "pct_stocks_up": 0.0,
       "median_delivery_pct": 47.66,
       "news_count_90d": 19
     },
@@ -1793,7 +1783,7 @@
       "name": "Resorts & Casinos",
       "n_stocks": 1,
       "path": "resorts-casinos/index.json",
-      "median_pct_chg_90d": -6.69,
+      "median_pct_chg_90d": -5.51,
       "pct_stocks_up": 0.0,
       "median_delivery_pct": 51.22,
       "news_count_90d": 12
@@ -1803,7 +1793,7 @@
       "name": "Transmission Towers",
       "n_stocks": 1,
       "path": "transmission-towers/index.json",
-      "median_pct_chg_90d": -5.36,
+      "median_pct_chg_90d": -9.25,
       "pct_stocks_up": 0.0,
       "median_delivery_pct": 64.81,
       "news_count_90d": 29
@@ -1813,17 +1803,17 @@
       "name": "Consulting Services",
       "n_stocks": 1,
       "path": "consulting-services/index.json",
-      "median_pct_chg_90d": 2.95,
+      "median_pct_chg_90d": 4.5,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 18.63,
-      "news_count_90d": 21
+      "news_count_90d": 20
     },
     {
       "slug": "healthcare-plans",
       "name": "Healthcare Plans",
       "n_stocks": 1,
       "path": "healthcare-plans/index.json",
-      "median_pct_chg_90d": 19.22,
+      "median_pct_chg_90d": 10.01,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 52.8,
       "news_count_90d": 23
@@ -1833,37 +1823,27 @@
       "name": "Electronic Gaming & Multimedia",
       "n_stocks": 1,
       "path": "electronic-gaming-multimedia/index.json",
-      "median_pct_chg_90d": 13.22,
+      "median_pct_chg_90d": 11.36,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 63.67,
       "news_count_90d": 34
-    },
-    {
-      "slug": "media-amp-amp-amp-entertainment",
-      "name": "Media &amp;amp;amp; Entertainment",
-      "n_stocks": 1,
-      "path": "media-amp-amp-amp-entertainment/index.json",
-      "median_pct_chg_90d": 4.18,
-      "pct_stocks_up": 100.0,
-      "median_delivery_pct": 36.8,
-      "news_count_90d": 19
     },
     {
       "slug": "insurance-brokers",
       "name": "Insurance Brokers",
       "n_stocks": 1,
       "path": "insurance-brokers/index.json",
-      "median_pct_chg_90d": 7.28,
+      "median_pct_chg_90d": 4.85,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 50.11,
-      "news_count_90d": 29
+      "news_count_90d": 28
     },
     {
       "slug": "scientific-technical-instruments",
       "name": "Scientific & Technical Instruments",
       "n_stocks": 1,
       "path": "scientific-technical-instruments/index.json",
-      "median_pct_chg_90d": 35.46,
+      "median_pct_chg_90d": 30.15,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 40.81,
       "news_count_90d": 18
@@ -1873,10 +1853,10 @@
       "name": "Beverages - Brewers",
       "n_stocks": 1,
       "path": "beverages-brewers/index.json",
-      "median_pct_chg_90d": -1.23,
+      "median_pct_chg_90d": -2.72,
       "pct_stocks_up": 0.0,
       "median_delivery_pct": 60.16,
-      "news_count_90d": 22
+      "news_count_90d": 21
     },
     {
       "slug": "industrial-distribution",
@@ -1889,21 +1869,11 @@
       "news_count_90d": 18
     },
     {
-      "slug": "media-amp-amp-amp-amp-amp-amp-amp-amp-entertainment",
-      "name": "Media &amp;amp;amp;amp;amp;amp;amp;amp; Entertainment",
-      "n_stocks": 1,
-      "path": "media-amp-amp-amp-amp-amp-amp-amp-amp-entertainment/index.json",
-      "median_pct_chg_90d": -10.66,
-      "pct_stocks_up": 0.0,
-      "median_delivery_pct": 24.89,
-      "news_count_90d": 5
-    },
-    {
       "slug": "cables-telecom",
       "name": "Cables - Telecom",
       "n_stocks": 1,
       "path": "cables-telecom/index.json",
-      "median_pct_chg_90d": 98.12,
+      "median_pct_chg_90d": 69.27,
       "pct_stocks_up": 100.0,
       "median_delivery_pct": 36.02,
       "news_count_90d": 23
@@ -1913,7 +1883,7 @@
       "name": "Leisure",
       "n_stocks": 1,
       "path": "leisure/index.json",
-      "median_pct_chg_90d": -4.27,
+      "median_pct_chg_90d": -9.14,
       "pct_stocks_up": 0.0,
       "median_delivery_pct": 49.26,
       "news_count_90d": 17
@@ -2292,7 +2262,7 @@
     },
     {
       "symbol": "JBCHEPHARM",
-      "name": "JB Chemicals &amp;amp;amp; Pharmaceuticals Limited",
+      "name": "JB Chemicals & Pharmaceuticals Limited",
       "industry_slug": "pharmaceuticals"
     },
     {
@@ -2412,7 +2382,7 @@
     },
     {
       "symbol": "AJMERA",
-      "name": "Ajmera Realty &amp;amp;amp;amp;amp;amp;amp; Infra India Limited",
+      "name": "Ajmera Realty & Infra India Limited",
       "industry_slug": "construction"
     },
     {
@@ -2422,7 +2392,7 @@
     },
     {
       "symbol": "ARIHANT",
-      "name": "Arihant Foundations &amp; Housing Limited",
+      "name": "Arihant Foundations & Housing Limited",
       "industry_slug": "construction"
     },
     {
@@ -2582,7 +2552,7 @@
     },
     {
       "symbol": "TEXINFRA",
-      "name": "Texmaco Infrastructure &amp;amp;amp;amp;amp;amp;amp; Holdings Limited",
+      "name": "Texmaco Infrastructure & Holdings Limited",
       "industry_slug": "construction"
     },
     {
@@ -2761,6 +2731,176 @@
       "industry_slug": "engineering-construction"
     },
     {
+      "symbol": "ARMANFIN",
+      "name": "Arman Financial Services Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "AYE",
+      "name": "AYE FINANCE LIMITED",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "CGCL",
+      "name": "Capri Global Capital Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "CHOLAHLDNG",
+      "name": "Cholamandalam Financial Holdings Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "CREDITACC",
+      "name": "CreditAccess Grameen Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "CSLFINANCE",
+      "name": "CSL Finance Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "FEDFINA",
+      "name": "Fedbank Financial Services Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "FINKURVE",
+      "name": "Finkurve Financial Services Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "FIVESTAR",
+      "name": "Five-Star Business Finance Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "FUSION",
+      "name": "Fusion Finance Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "HDBFS",
+      "name": "HDB FINANCIAL SERVICES L",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "HUDCO",
+      "name": "Housing and Urban Development Corporation Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "IIFL",
+      "name": "IIFL Finance Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "INDOSTAR",
+      "name": "IndoStar Capital Finance Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "IREDA",
+      "name": "Indian Renewable Energy Development Agency Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "IRFC",
+      "name": "Indian Railway Finance Corporation Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "KISSHT",
+      "name": "ONEMI TECHNOLOGY SOL LTD",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "LAXMIINDIA",
+      "name": "LAXMI INDIA FINANCE LTD",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "LTF",
+      "name": "L&T Finance Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "MANBA",
+      "name": "MANBA FINANCE LIMITED",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "MASFIN",
+      "name": "MAS Financial Services Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "MONEYBOXX",
+      "name": "Moneyboxx Finance Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "MUFIN",
+      "name": "Mufin Green Finance Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "MUTHOOTMF",
+      "name": "MUTHOOT MICROFIN LIMITED",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "NORTHARC",
+      "name": "Northern Arc Capital Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "PIRAMALFIN",
+      "name": "PIRAMAL FINANCE LIMITED",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "POONAWALLA",
+      "name": "Poonawalla Fincorp Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "SATIN",
+      "name": "Satin Creditcare Network Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "SBFC",
+      "name": "SBFC Finance Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "SBICARD",
+      "name": "SBI Cards and Payment Services Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "SHRIRAMFIN",
+      "name": "Shriram Finance Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "SPANDANA",
+      "name": "Spandana Sphoorty Financial Limited",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "TATACAP",
+      "name": "TATA CAPITAL LIMITED",
+      "industry_slug": "credit-services"
+    },
+    {
+      "symbol": "UGROCAP",
+      "name": "UGRO Capital Limited",
+      "industry_slug": "credit-services"
+    },
+    {
       "symbol": "ADOR",
       "name": "Ador Welding Limited",
       "industry_slug": "specialty-industrial-machinery"
@@ -2929,171 +3069,6 @@
       "symbol": "YUKEN",
       "name": "Yuken India Limited",
       "industry_slug": "specialty-industrial-machinery"
-    },
-    {
-      "symbol": "ARMANFIN",
-      "name": "Arman Financial Services Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "AYE",
-      "name": "AYE FINANCE LIMITED",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "CGCL",
-      "name": "Capri Global Capital Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "CHOLAHLDNG",
-      "name": "Cholamandalam Financial Holdings Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "CREDITACC",
-      "name": "CreditAccess Grameen Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "CSLFINANCE",
-      "name": "CSL Finance Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "FEDFINA",
-      "name": "Fedbank Financial Services Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "FINKURVE",
-      "name": "Finkurve Financial Services Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "FIVESTAR",
-      "name": "Five-Star Business Finance Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "FUSION",
-      "name": "Fusion Finance Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "HDBFS",
-      "name": "HDB FINANCIAL SERVICES L",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "HUDCO",
-      "name": "Housing and Urban Development Corporation Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "IIFL",
-      "name": "IIFL Finance Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "INDOSTAR",
-      "name": "IndoStar Capital Finance Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "IREDA",
-      "name": "Indian Renewable Energy Development Agency Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "KISSHT",
-      "name": "ONEMI TECHNOLOGY SOL LTD",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "LAXMIINDIA",
-      "name": "LAXMI INDIA FINANCE LTD",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "LTF",
-      "name": "L&T Finance Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "M&MFIN",
-      "name": "Mahindra & Mahindra Financial Services Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "MANBA",
-      "name": "MANBA FINANCE LIMITED",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "MASFIN",
-      "name": "MAS Financial Services Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "MONEYBOXX",
-      "name": "Moneyboxx Finance Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "MUFIN",
-      "name": "Mufin Green Finance Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "MUTHOOTMF",
-      "name": "MUTHOOT MICROFIN LIMITED",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "NORTHARC",
-      "name": "Northern Arc Capital Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "PIRAMALFIN",
-      "name": "PIRAMAL FINANCE LIMITED",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "POONAWALLA",
-      "name": "Poonawalla Fincorp Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "SATIN",
-      "name": "Satin Creditcare Network Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "SBFC",
-      "name": "SBFC Finance Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "SBICARD",
-      "name": "SBI Cards and Payment Services Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "SHRIRAMFIN",
-      "name": "Shriram Finance Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "SPANDANA",
-      "name": "Spandana Sphoorty Financial Limited",
-      "industry_slug": "credit-services"
-    },
-    {
-      "symbol": "UGROCAP",
-      "name": "UGRO Capital Limited",
-      "industry_slug": "credit-services"
     },
     {
       "symbol": "ASKAUTOLTD",
@@ -3337,7 +3312,7 @@
     },
     {
       "symbol": "LGBBROSLTD",
-      "name": "LG Balakrishnan &amp;amp;amp; Bros Limited",
+      "name": "LG Balakrishnan & Bros Limited",
       "industry_slug": "auto-ancillaries"
     },
     {
@@ -3406,6 +3381,161 @@
       "industry_slug": "auto-ancillaries"
     },
     {
+      "symbol": "BAJAJFINSV",
+      "name": "Bajaj Finserv Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "BAJAJHLDNG",
+      "name": "Bajaj Holdings & Investment Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "name": "Bajaj Finance Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "BFINVEST",
+      "name": "BF Investment Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "BIRLAMONEY",
+      "name": "Aditya Birla Money Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "CARERATING",
+      "name": "CARE Ratings Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "CHOLAFIN",
+      "name": "Cholamandalam Investment and Finance Company Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "CRISIL",
+      "name": "CRISIL Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "EDELWEISS",
+      "name": "Edelweiss Financial Services Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "EMKAY",
+      "name": "Emkay Global Financial Services Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "ICRA",
+      "name": "ICRA Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "INDOTHAI",
+      "name": "Indo Thai Securities Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "JMFINANCIL",
+      "name": "JM Financial Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "KICL",
+      "name": "Kalyani Investment Company Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "KIRLOSIND",
+      "name": "Kirloskar Industries Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "M&MFIN",
+      "name": "Mahindra & Mahindra Financial Services Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "MANAPPURAM",
+      "name": "Manappuram Finance Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "MOTILALOFS",
+      "name": "Motilal Oswal Financial Services Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "MUTHOOTFIN",
+      "name": "Muthoot Finance Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "NSIL",
+      "name": "Nalwa Sons Investments Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "PNBGILTS",
+      "name": "PNB Gilts Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "PRIMESECU",
+      "name": "Prime Securities Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "RANEHOLDIN",
+      "name": "Rane Holdings Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "RELIGARE",
+      "name": "Religare Enterprises Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "STEL",
+      "name": "Stel Holdings Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "SUMMITSEC",
+      "name": "Summit Securities Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "SUNDARMFIN",
+      "name": "Sundaram Finance Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "TATAINVEST",
+      "name": "Tata Investment Corporation Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "VHL",
+      "name": "Vardhman Holdings Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "VLSFINANCE",
+      "name": "VLS Finance Limited",
+      "industry_slug": "finance"
+    },
+    {
+      "symbol": "WELINV",
+      "name": "Welspun Investments and Commercials Limited",
+      "industry_slug": "finance"
+    },
+    {
       "symbol": "ACCELYA",
       "name": "Accelya Solutions India Limited",
       "industry_slug": "computers-software"
@@ -3422,7 +3552,7 @@
     },
     {
       "symbol": "DSSL",
-      "name": "Dynacons Systems &amp;amp;amp;amp;amp;amp;amp; Solutions Limited",
+      "name": "Dynacons Systems & Solutions Limited",
       "industry_slug": "computers-software"
     },
     {
@@ -3716,156 +3846,6 @@
       "industry_slug": "drug-manufacturers-specialty-generic"
     },
     {
-      "symbol": "BAJAJFINSV",
-      "name": "Bajaj Finserv Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "BAJAJHLDNG",
-      "name": "Bajaj Holdings &amp;amp;amp;amp;amp;amp;amp; Investment Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "BAJFINANCE",
-      "name": "Bajaj Finance Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "BFINVEST",
-      "name": "BF Investment Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "BIRLAMONEY",
-      "name": "Aditya Birla Money Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "CARERATING",
-      "name": "CARE Ratings Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "CHOLAFIN",
-      "name": "Cholamandalam Investment and Finance Company Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "CRISIL",
-      "name": "CRISIL Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "EDELWEISS",
-      "name": "Edelweiss Financial Services Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "EMKAY",
-      "name": "Emkay Global Financial Services Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "ICRA",
-      "name": "ICRA Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "INDOTHAI",
-      "name": "Indo Thai Securities Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "JMFINANCIL",
-      "name": "JM Financial Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "KICL",
-      "name": "Kalyani Investment Company Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "KIRLOSIND",
-      "name": "Kirloskar Industries Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "MANAPPURAM",
-      "name": "Manappuram Finance Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "MOTILALOFS",
-      "name": "Motilal Oswal Financial Services Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "MUTHOOTFIN",
-      "name": "Muthoot Finance Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "NSIL",
-      "name": "Nalwa Sons Investments Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "PNBGILTS",
-      "name": "PNB Gilts Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "PRIMESECU",
-      "name": "Prime Securities Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "RANEHOLDIN",
-      "name": "Rane Holdings Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "RELIGARE",
-      "name": "Religare Enterprises Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "STEL",
-      "name": "Stel Holdings Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "SUMMITSEC",
-      "name": "Summit Securities Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "SUNDARMFIN",
-      "name": "Sundaram Finance Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "TATAINVEST",
-      "name": "Tata Investment Corporation Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "VHL",
-      "name": "Vardhman Holdings Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "VLSFINANCE",
-      "name": "VLS Finance Limited",
-      "industry_slug": "finance"
-    },
-    {
-      "symbol": "WELINV",
-      "name": "Welspun Investments and Commercials Limited",
-      "industry_slug": "finance"
-    },
-    {
       "symbol": "APLAPOLLO",
       "name": "APL Apollo Tubes Limited",
       "industry_slug": "steel-and-steel-products"
@@ -3957,7 +3937,7 @@
     },
     {
       "symbol": "RATNAMANI",
-      "name": "Ratnamani Metals &amp;amp;amp; Tubes Limited",
+      "name": "Ratnamani Metals & Tubes Limited",
       "industry_slug": "steel-and-steel-products"
     },
     {
@@ -3972,7 +3952,7 @@
     },
     {
       "symbol": "SARDAEN",
-      "name": "Sarda Energy &amp;amp;amp; Minerals Limited",
+      "name": "Sarda Energy & Minerals Limited",
       "industry_slug": "steel-and-steel-products"
     },
     {
@@ -4486,6 +4466,101 @@
       "industry_slug": "steel"
     },
     {
+      "symbol": "AXISBANK",
+      "name": "Axis Bank Limited",
+      "industry_slug": "banks"
+    },
+    {
+      "symbol": "BANKBARODA",
+      "name": "Bank of Baroda",
+      "industry_slug": "banks"
+    },
+    {
+      "symbol": "BANKINDIA",
+      "name": "Bank of India",
+      "industry_slug": "banks"
+    },
+    {
+      "symbol": "CANBK",
+      "name": "Canara Bank",
+      "industry_slug": "banks"
+    },
+    {
+      "symbol": "CUB",
+      "name": "City Union Bank Limited",
+      "industry_slug": "banks"
+    },
+    {
+      "symbol": "FEDERALBNK",
+      "name": "The Federal Bank  Limited",
+      "industry_slug": "banks"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "name": "HDFC Bank Limited",
+      "industry_slug": "banks"
+    },
+    {
+      "symbol": "ICICIBANK",
+      "name": "ICICI Bank Limited",
+      "industry_slug": "banks"
+    },
+    {
+      "symbol": "IDBI",
+      "name": "IDBI Bank Limited",
+      "industry_slug": "banks"
+    },
+    {
+      "symbol": "INDIANB",
+      "name": "Indian Bank",
+      "industry_slug": "banks"
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "name": "IndusInd Bank Limited",
+      "industry_slug": "banks"
+    },
+    {
+      "symbol": "J&KBANK",
+      "name": "The Jammu & Kashmir Bank Limited",
+      "industry_slug": "banks"
+    },
+    {
+      "symbol": "KARURVYSYA",
+      "name": "Karur Vysya Bank Limited",
+      "industry_slug": "banks"
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "name": "Kotak Mahindra Bank Limited",
+      "industry_slug": "banks"
+    },
+    {
+      "symbol": "KTKBANK",
+      "name": "The Karnataka Bank Limited",
+      "industry_slug": "banks"
+    },
+    {
+      "symbol": "MAHABANK",
+      "name": "Bank of Maharashtra",
+      "industry_slug": "banks"
+    },
+    {
+      "symbol": "PNB",
+      "name": "Punjab National Bank",
+      "industry_slug": "banks"
+    },
+    {
+      "symbol": "SBIN",
+      "name": "State Bank of India",
+      "industry_slug": "banks"
+    },
+    {
+      "symbol": "UNIONBANK",
+      "name": "Union Bank of India",
+      "industry_slug": "banks"
+    },
+    {
       "symbol": "AMBER",
       "name": "Amber Enterprises India Limited",
       "industry_slug": "furnishings-fixtures-appliances"
@@ -4579,96 +4654,6 @@
       "symbol": "WEL",
       "name": "Wonder Electricals Limited",
       "industry_slug": "furnishings-fixtures-appliances"
-    },
-    {
-      "symbol": "AXISBANK",
-      "name": "Axis Bank Limited",
-      "industry_slug": "banks"
-    },
-    {
-      "symbol": "BANKBARODA",
-      "name": "Bank of Baroda",
-      "industry_slug": "banks"
-    },
-    {
-      "symbol": "BANKINDIA",
-      "name": "Bank of India",
-      "industry_slug": "banks"
-    },
-    {
-      "symbol": "CANBK",
-      "name": "Canara Bank",
-      "industry_slug": "banks"
-    },
-    {
-      "symbol": "CUB",
-      "name": "City Union Bank Limited",
-      "industry_slug": "banks"
-    },
-    {
-      "symbol": "FEDERALBNK",
-      "name": "The Federal Bank  Limited",
-      "industry_slug": "banks"
-    },
-    {
-      "symbol": "HDFCBANK",
-      "name": "HDFC Bank Limited",
-      "industry_slug": "banks"
-    },
-    {
-      "symbol": "ICICIBANK",
-      "name": "ICICI Bank Limited",
-      "industry_slug": "banks"
-    },
-    {
-      "symbol": "IDBI",
-      "name": "IDBI Bank Limited",
-      "industry_slug": "banks"
-    },
-    {
-      "symbol": "INDIANB",
-      "name": "Indian Bank",
-      "industry_slug": "banks"
-    },
-    {
-      "symbol": "INDUSINDBK",
-      "name": "IndusInd Bank Limited",
-      "industry_slug": "banks"
-    },
-    {
-      "symbol": "KARURVYSYA",
-      "name": "Karur Vysya Bank Limited",
-      "industry_slug": "banks"
-    },
-    {
-      "symbol": "KOTAKBANK",
-      "name": "Kotak Mahindra Bank Limited",
-      "industry_slug": "banks"
-    },
-    {
-      "symbol": "KTKBANK",
-      "name": "The Karnataka Bank Limited",
-      "industry_slug": "banks"
-    },
-    {
-      "symbol": "MAHABANK",
-      "name": "Bank of Maharashtra",
-      "industry_slug": "banks"
-    },
-    {
-      "symbol": "PNB",
-      "name": "Punjab National Bank",
-      "industry_slug": "banks"
-    },
-    {
-      "symbol": "SBIN",
-      "name": "State Bank of India",
-      "industry_slug": "banks"
-    },
-    {
-      "symbol": "UNIONBANK",
-      "name": "Union Bank of India",
-      "industry_slug": "banks"
     },
     {
       "symbol": "63MOONS",
@@ -4977,7 +4962,7 @@
     },
     {
       "symbol": "LT",
-      "name": "Larsen &amp;amp;amp; Toubro Limited",
+      "name": "Larsen & Toubro Limited",
       "industry_slug": "engineering"
     },
     {
@@ -4997,7 +4982,7 @@
     },
     {
       "symbol": "TEXRAIL",
-      "name": "Texmaco Rail &amp;amp;amp;amp;amp;amp;amp; Engineering Limited",
+      "name": "Texmaco Rail & Engineering Limited",
       "industry_slug": "engineering"
     },
     {
@@ -5726,76 +5711,6 @@
       "industry_slug": "metal-fabrication"
     },
     {
-      "symbol": "AUBANK",
-      "name": "AU Small Finance Bank Limited",
-      "industry_slug": "banks-regional"
-    },
-    {
-      "symbol": "BANDHANBNK",
-      "name": "Bandhan Bank Limited",
-      "industry_slug": "banks-regional"
-    },
-    {
-      "symbol": "CAPITALSFB",
-      "name": "Capital Small Finance Bank Limited",
-      "industry_slug": "banks-regional"
-    },
-    {
-      "symbol": "CSBBANK",
-      "name": "CSB Bank Limited",
-      "industry_slug": "banks-regional"
-    },
-    {
-      "symbol": "DCBBANK",
-      "name": "DCB Bank Limited",
-      "industry_slug": "banks-regional"
-    },
-    {
-      "symbol": "EQUITASBNK",
-      "name": "Equitas Small Finance Bank Limited",
-      "industry_slug": "banks-regional"
-    },
-    {
-      "symbol": "FINOPB",
-      "name": "Fino Payments Bank Limited",
-      "industry_slug": "banks-regional"
-    },
-    {
-      "symbol": "IDFCFIRSTB",
-      "name": "IDFC First Bank Limited",
-      "industry_slug": "banks-regional"
-    },
-    {
-      "symbol": "J&KBANK",
-      "name": "Jammu and Kashmir Bank Limited",
-      "industry_slug": "banks-regional"
-    },
-    {
-      "symbol": "JSFB",
-      "name": "Jana Small Finance Bank Limited",
-      "industry_slug": "banks-regional"
-    },
-    {
-      "symbol": "RBLBANK",
-      "name": "RBL Bank Limited",
-      "industry_slug": "banks-regional"
-    },
-    {
-      "symbol": "SURYODAY",
-      "name": "Suryoday Small Finance Bank Limited",
-      "industry_slug": "banks-regional"
-    },
-    {
-      "symbol": "TMB",
-      "name": "Tamilnad Mercantile Bank Limited",
-      "industry_slug": "banks-regional"
-    },
-    {
-      "symbol": "UJJIVANSFB",
-      "name": "Ujjivan Small Finance Bank Limited",
-      "industry_slug": "banks-regional"
-    },
-    {
       "symbol": "APCOTEXIND",
       "name": "Apcotex Industries Limited",
       "industry_slug": "miscellaneous"
@@ -6191,6 +6106,71 @@
       "industry_slug": "food-and-food-processing"
     },
     {
+      "symbol": "AUBANK",
+      "name": "AU Small Finance Bank Limited",
+      "industry_slug": "banks-regional"
+    },
+    {
+      "symbol": "BANDHANBNK",
+      "name": "Bandhan Bank Limited",
+      "industry_slug": "banks-regional"
+    },
+    {
+      "symbol": "CAPITALSFB",
+      "name": "Capital Small Finance Bank Limited",
+      "industry_slug": "banks-regional"
+    },
+    {
+      "symbol": "CSBBANK",
+      "name": "CSB Bank Limited",
+      "industry_slug": "banks-regional"
+    },
+    {
+      "symbol": "DCBBANK",
+      "name": "DCB Bank Limited",
+      "industry_slug": "banks-regional"
+    },
+    {
+      "symbol": "EQUITASBNK",
+      "name": "Equitas Small Finance Bank Limited",
+      "industry_slug": "banks-regional"
+    },
+    {
+      "symbol": "FINOPB",
+      "name": "Fino Payments Bank Limited",
+      "industry_slug": "banks-regional"
+    },
+    {
+      "symbol": "IDFCFIRSTB",
+      "name": "IDFC First Bank Limited",
+      "industry_slug": "banks-regional"
+    },
+    {
+      "symbol": "JSFB",
+      "name": "Jana Small Finance Bank Limited",
+      "industry_slug": "banks-regional"
+    },
+    {
+      "symbol": "RBLBANK",
+      "name": "RBL Bank Limited",
+      "industry_slug": "banks-regional"
+    },
+    {
+      "symbol": "SURYODAY",
+      "name": "Suryoday Small Finance Bank Limited",
+      "industry_slug": "banks-regional"
+    },
+    {
+      "symbol": "TMB",
+      "name": "Tamilnad Mercantile Bank Limited",
+      "industry_slug": "banks-regional"
+    },
+    {
+      "symbol": "UJJIVANSFB",
+      "name": "Ujjivan Small Finance Bank Limited",
+      "industry_slug": "banks-regional"
+    },
+    {
       "symbol": "ABCOTS",
       "name": "A B COTSPIN INDIA LIMITED",
       "industry_slug": "textile-manufacturing"
@@ -6372,7 +6352,7 @@
     },
     {
       "symbol": "RUPA",
-      "name": "Rupa &amp;amp;amp;amp;amp;amp;amp; Company Limited",
+      "name": "Rupa & Company Limited",
       "industry_slug": "textile-products"
     },
     {
@@ -6487,7 +6467,7 @@
     },
     {
       "symbol": "CHAMBLFERT",
-      "name": "Chambal Fertilizers &amp;amp;amp;amp;amp;amp;amp; Chemicals Limited",
+      "name": "Chambal Fertilizers & Chemicals Limited",
       "industry_slug": "fertilisers"
     },
     {
@@ -6507,7 +6487,7 @@
     },
     {
       "symbol": "GSFC",
-      "name": "Gujarat State Fertilizers &amp;amp;amp;amp;amp;amp;amp; Chemicals Limited",
+      "name": "Gujarat State Fertilizers & Chemicals Limited",
       "industry_slug": "fertilisers"
     },
     {
@@ -6662,7 +6642,7 @@
     },
     {
       "symbol": "MHRIL",
-      "name": "Mahindra Holidays &amp;amp;amp;amp;amp;amp;amp; Resorts India Limited",
+      "name": "Mahindra Holidays & Resorts India Limited",
       "industry_slug": "hotels"
     },
     {
@@ -6682,7 +6662,7 @@
     },
     {
       "symbol": "TAJGVK",
-      "name": "Taj GVK Hotels &amp;amp;amp;amp;amp;amp;amp; Resorts Limited",
+      "name": "Taj GVK Hotels & Resorts Limited",
       "industry_slug": "hotels"
     },
     {
@@ -6732,7 +6712,7 @@
     },
     {
       "symbol": "BOMDYEING",
-      "name": "Bombay Dyeing &amp;amp;amp;amp;amp;amp;amp; Mfg Company Limited",
+      "name": "Bombay Dyeing & Mfg Company Limited",
       "industry_slug": "textiles-synthetic"
     },
     {
@@ -6902,7 +6882,7 @@
     },
     {
       "symbol": "PUNJABCHEM",
-      "name": "Punjab Chemicals &amp;amp;amp; Crop Protection Limited",
+      "name": "Punjab Chemicals & Crop Protection Limited",
       "industry_slug": "pesticides-and-agrochemicals"
     },
     {
@@ -7041,6 +7021,46 @@
       "industry_slug": "insurance-life"
     },
     {
+      "symbol": "BALAJITELE",
+      "name": "Balaji Telefilms Limited",
+      "industry_slug": "media-entertainment"
+    },
+    {
+      "symbol": "ENIL",
+      "name": "Entertainment Network (India) Limited",
+      "industry_slug": "media-entertainment"
+    },
+    {
+      "symbol": "NDTV",
+      "name": "New Delhi Television Limited",
+      "industry_slug": "media-entertainment"
+    },
+    {
+      "symbol": "PFOCUS",
+      "name": "Prime Focus Limited",
+      "industry_slug": "media-entertainment"
+    },
+    {
+      "symbol": "SAREGAMA",
+      "name": "Saregama India Limited",
+      "industry_slug": "media-entertainment"
+    },
+    {
+      "symbol": "SUNTV",
+      "name": "Sun TV Network Limited",
+      "industry_slug": "media-entertainment"
+    },
+    {
+      "symbol": "TVTODAY",
+      "name": "TV Today Network Limited",
+      "industry_slug": "media-entertainment"
+    },
+    {
+      "symbol": "ZEEL",
+      "name": "Zee Entertainment Enterprises Limited",
+      "industry_slug": "media-entertainment"
+    },
+    {
       "symbol": "ABREL",
       "name": "Aditya Birla Real Estate Limited",
       "industry_slug": "real-estate-services"
@@ -7097,7 +7117,7 @@
     },
     {
       "symbol": "IMFA",
-      "name": "Indian Metals &amp;amp;amp;amp;amp;amp;amp; Ferro Alloys Limited",
+      "name": "Indian Metals & Ferro Alloys Limited",
       "industry_slug": "metals"
     },
     {
@@ -7197,48 +7217,8 @@
     },
     {
       "symbol": "PGHH",
-      "name": "Procter &amp;amp;amp;amp;amp;amp;amp;amp; Gamble Hygiene and Health Care Limited",
+      "name": "Procter & Gamble Hygiene and Health Care Limited",
       "industry_slug": "personal-care"
-    },
-    {
-      "symbol": "ATHERENERG",
-      "name": "Ather Energy Limited",
-      "industry_slug": "auto-manufacturers"
-    },
-    {
-      "symbol": "ATULAUTO",
-      "name": "Atul Auto Limited",
-      "industry_slug": "auto-manufacturers"
-    },
-    {
-      "symbol": "FORCEMOT",
-      "name": "Force Motors Limited",
-      "industry_slug": "auto-manufacturers"
-    },
-    {
-      "symbol": "HYUNDAI",
-      "name": "HYUNDAI MOTOR INDIA LTD",
-      "industry_slug": "auto-manufacturers"
-    },
-    {
-      "symbol": "M&M",
-      "name": "Mahindra & Mahindra Limited",
-      "industry_slug": "auto-manufacturers"
-    },
-    {
-      "symbol": "SMLMAH",
-      "name": "SML MAHINDRA LIMITED",
-      "industry_slug": "auto-manufacturers"
-    },
-    {
-      "symbol": "TMCV",
-      "name": "TATA MOTORS LIMITED",
-      "industry_slug": "auto-manufacturers"
-    },
-    {
-      "symbol": "TMPV",
-      "name": "Tata Motors Passenger Vehicles Limited",
-      "industry_slug": "auto-manufacturers"
     },
     {
       "symbol": "ABFRL",
@@ -7452,13 +7432,48 @@
     },
     {
       "symbol": "TRIVENI",
-      "name": "Triveni Engineering &amp;amp;amp;amp;amp;amp;amp; Industries Limited",
+      "name": "Triveni Engineering & Industries Limited",
       "industry_slug": "sugar"
     },
     {
       "symbol": "UTTAMSUGAR",
       "name": "Uttam Sugar Mills Limited",
       "industry_slug": "sugar"
+    },
+    {
+      "symbol": "ATHERENERG",
+      "name": "Ather Energy Limited",
+      "industry_slug": "auto-manufacturers"
+    },
+    {
+      "symbol": "ATULAUTO",
+      "name": "Atul Auto Limited",
+      "industry_slug": "auto-manufacturers"
+    },
+    {
+      "symbol": "FORCEMOT",
+      "name": "Force Motors Limited",
+      "industry_slug": "auto-manufacturers"
+    },
+    {
+      "symbol": "HYUNDAI",
+      "name": "HYUNDAI MOTOR INDIA LTD",
+      "industry_slug": "auto-manufacturers"
+    },
+    {
+      "symbol": "SMLMAH",
+      "name": "SML MAHINDRA LIMITED",
+      "industry_slug": "auto-manufacturers"
+    },
+    {
+      "symbol": "TMCV",
+      "name": "TATA MOTORS LIMITED",
+      "industry_slug": "auto-manufacturers"
+    },
+    {
+      "symbol": "TMPV",
+      "name": "Tata Motors Passenger Vehicles Limited",
+      "industry_slug": "auto-manufacturers"
     },
     {
       "symbol": "EKC",
@@ -7591,36 +7606,6 @@
       "industry_slug": "education-training-services"
     },
     {
-      "symbol": "BALAJITELE",
-      "name": "Balaji Telefilms Limited",
-      "industry_slug": "media-amp-amp-amp-amp-amp-amp-amp-entertainment"
-    },
-    {
-      "symbol": "ENIL",
-      "name": "Entertainment Network (India) Limited",
-      "industry_slug": "media-amp-amp-amp-amp-amp-amp-amp-entertainment"
-    },
-    {
-      "symbol": "NDTV",
-      "name": "New Delhi Television Limited",
-      "industry_slug": "media-amp-amp-amp-amp-amp-amp-amp-entertainment"
-    },
-    {
-      "symbol": "SAREGAMA",
-      "name": "Saregama India Limited",
-      "industry_slug": "media-amp-amp-amp-amp-amp-amp-amp-entertainment"
-    },
-    {
-      "symbol": "TVTODAY",
-      "name": "TV Today Network Limited",
-      "industry_slug": "media-amp-amp-amp-amp-amp-amp-amp-entertainment"
-    },
-    {
-      "symbol": "ZEEL",
-      "name": "Zee Entertainment Enterprises Limited",
-      "industry_slug": "media-amp-amp-amp-amp-amp-amp-amp-entertainment"
-    },
-    {
       "symbol": "APOLLOTYRE",
       "name": "Apollo Tyres Limited",
       "industry_slug": "tyres"
@@ -7637,7 +7622,7 @@
     },
     {
       "symbol": "JKTYRE",
-      "name": "JK Tyre &amp;amp;amp;amp;amp;amp;amp; Industries Limited",
+      "name": "JK Tyre & Industries Limited",
       "industry_slug": "tyres"
     },
     {
@@ -7769,6 +7754,36 @@
       "symbol": "ORISSAMINE",
       "name": "The Orissa Minerals Development Company Limited",
       "industry_slug": "mining"
+    },
+    {
+      "symbol": "ASHOKLEY",
+      "name": "Ashok Leyland Limited",
+      "industry_slug": "automobiles-4-wheelers"
+    },
+    {
+      "symbol": "EICHERMOT",
+      "name": "Eicher Motors Limited",
+      "industry_slug": "automobiles-4-wheelers"
+    },
+    {
+      "symbol": "ESCORTS",
+      "name": "Escorts Kubota Limited",
+      "industry_slug": "automobiles-4-wheelers"
+    },
+    {
+      "symbol": "M&M",
+      "name": "Mahindra & Mahindra Limited",
+      "industry_slug": "automobiles-4-wheelers"
+    },
+    {
+      "symbol": "MARUTI",
+      "name": "Maruti Suzuki India Limited",
+      "industry_slug": "automobiles-4-wheelers"
+    },
+    {
+      "symbol": "VSTTILLERS",
+      "name": "V.S.T Tillers Tractors Limited",
+      "industry_slug": "automobiles-4-wheelers"
     },
     {
       "symbol": "BAJAJELEC",
@@ -7982,7 +7997,7 @@
     },
     {
       "symbol": "TNPL",
-      "name": "Tamil Nadu Newsprint &amp;amp;amp;amp;amp;amp;amp; Papers Limited",
+      "name": "Tamil Nadu Newsprint & Papers Limited",
       "industry_slug": "paper-and-paper-products"
     },
     {
@@ -8141,33 +8156,8 @@
       "industry_slug": "communication-equipment"
     },
     {
-      "symbol": "ASHOKLEY",
-      "name": "Ashok Leyland Limited",
-      "industry_slug": "automobiles-4-wheelers"
-    },
-    {
-      "symbol": "EICHERMOT",
-      "name": "Eicher Motors Limited",
-      "industry_slug": "automobiles-4-wheelers"
-    },
-    {
-      "symbol": "ESCORTS",
-      "name": "Escorts Kubota Limited",
-      "industry_slug": "automobiles-4-wheelers"
-    },
-    {
-      "symbol": "MARUTI",
-      "name": "Maruti Suzuki India Limited",
-      "industry_slug": "automobiles-4-wheelers"
-    },
-    {
-      "symbol": "VSTTILLERS",
-      "name": "V.S.T Tillers Tractors Limited",
-      "industry_slug": "automobiles-4-wheelers"
-    },
-    {
       "symbol": "BALMLAWRIE",
-      "name": "Balmer Lawrie &amp;amp;amp;amp;amp;amp;amp; Company Limited",
+      "name": "Balmer Lawrie & Company Limited",
       "industry_slug": "travel-and-transport"
     },
     {
@@ -8562,7 +8552,7 @@
     },
     {
       "symbol": "ONGC",
-      "name": "Oil &amp;amp;amp;amp;amp;amp;amp; Natural Gas Corporation Limited",
+      "name": "Oil & Natural Gas Corporation Limited",
       "industry_slug": "oil-exploration-production"
     },
     {
@@ -9141,16 +9131,6 @@
       "industry_slug": "solvent-extraction"
     },
     {
-      "symbol": "IRFC",
-      "name": "Indian Railway Finance Corporation Limited",
-      "industry_slug": "unknown"
-    },
-    {
-      "symbol": "TATACAP",
-      "name": "Tata Capital Limited",
-      "industry_slug": "unknown"
-    },
-    {
       "symbol": "NAVNETEDUL",
       "name": "Navneet Education Limited",
       "industry_slug": "publishing"
@@ -9301,11 +9281,6 @@
       "industry_slug": "electronic-gaming-multimedia"
     },
     {
-      "symbol": "PFOCUS",
-      "name": "Prime Focus Limited",
-      "industry_slug": "media-amp-amp-amp-entertainment"
-    },
-    {
       "symbol": "POLICYBZR",
       "name": "PB Fintech Limited",
       "industry_slug": "insurance-brokers"
@@ -9324,11 +9299,6 @@
       "symbol": "SGMART",
       "name": "SG Mart Limited",
       "industry_slug": "industrial-distribution"
-    },
-    {
-      "symbol": "SUNTV",
-      "name": "Sun TV Network Limited",
-      "industry_slug": "media-amp-amp-amp-amp-amp-amp-amp-amp-entertainment"
     },
     {
       "symbol": "VINDHYATEL",

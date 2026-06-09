@@ -59,6 +59,8 @@ def load_universe(master_path: Path, min_price: float, min_mcap_cr: float) -> di
         industry = meta.get("industry")
         if price is None or mcap is None or industry is None:
             continue
+        if industry.strip() in ("", "-"):
+            continue
         if price < min_price or mcap < min_mcap_cr:
             continue
         out[sym] = {
@@ -163,6 +165,23 @@ def build_daily_map(symbols: set[str], start: datetime, end: datetime) -> dict[s
     return out
 
 
+def _unescape_html_fixpoint(s: str) -> str:
+    """Collapse stacked html.escape(..., quote=False) layers.
+
+    Legacy webarchives were re-escaped on every nightly update (the extract
+    side never undid what the write side escaped), so strings carry many
+    stacked levels ("Media &amp;amp;... Entertainment"). Each replace pass
+    strictly shrinks the string, so the loop always terminates. Targeted
+    3-entity replace, not html.unescape(), so genuine entities in NSE text
+    are left alone.
+    """
+    while True:
+        t = s.replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">")
+        if t == s:
+            return t
+        s = t
+
+
 def extract_json_from_webarchive(path: Path) -> list[dict]:
     """Copied pattern from scripts/update_webarchive.py."""
     with open(path, "rb") as f:
@@ -175,7 +194,12 @@ def extract_json_from_webarchive(path: Path) -> list[dict]:
     m = re.search(r"<pre[^>]*>(.*?)</pre>", html_str, re.DOTALL)
     if not m:
         raise ValueError(f"no <pre> tag in {path}")
-    return json.loads(m.group(1))
+    records = json.loads(m.group(1))
+    for r in records:
+        for k, v in r.items():
+            if isinstance(v, str) and "&" in v:
+                r[k] = _unescape_html_fixpoint(v)
+    return records
 
 
 def build_news_map(symbols: set[str], start: datetime, end: datetime) -> dict[str, list[dict]]:

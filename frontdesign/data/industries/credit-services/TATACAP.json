@@ -1,32 +1,16 @@
 {
   "symbol": "TATACAP",
-  "name": "Tata Capital Limited",
-  "industry": "-",
-  "industry_slug": "unknown",
-  "sector": null,
-  "isin": "INE976I07138",
+  "name": "TATA CAPITAL LIMITED",
+  "industry": "Credit Services",
+  "industry_slug": "credit-services",
+  "sector": "Financial Services",
+  "isin": null,
   "price": 314.95,
   "market_cap_cr": 132804.75,
-  "industry_source": "webarchive",
-  "as_of": "2026-06-06",
+  "industry_source": "yfinance",
+  "as_of": "2026-06-09",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-09",
-      "close": 311.2,
-      "prev_close": 318.45,
-      "volume": 2091001,
-      "deliverable_qty": 1162424,
-      "delivery_pct": 55.59
-    },
-    {
-      "date": "2026-03-10",
-      "close": 321.7,
-      "prev_close": 311.2,
-      "volume": 1983815,
-      "deliverable_qty": 905261,
-      "delivery_pct": 45.63
-    },
     {
       "date": "2026-03-11",
       "close": 319.8,
@@ -611,13 +595,6 @@
       "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
       "sm_name": "Tata Capital Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATACAPITAL_13032026223950_ScheduleofAnalystMeetMarch2026signed.pdf"
-    },
-    {
-      "sort_date": "2026-03-09 15:39:39",
-      "an_dt": "09-Mar-2026 15:39:39",
-      "desc": "Acquisition",
-      "sm_name": "Tata Capital Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TATACAPITAL_09032026153930_StockExchangeIntimationRightsIssuebyTCHFLAllotmentsigned.pdf"
     }
   ]
 }

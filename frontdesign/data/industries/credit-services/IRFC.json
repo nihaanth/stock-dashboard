@@ -1,32 +1,16 @@
 {
   "symbol": "IRFC",
   "name": "Indian Railway Finance Corporation Limited",
-  "industry": "-",
-  "industry_slug": "unknown",
-  "sector": null,
-  "isin": "INE053F07520",
+  "industry": "Credit Services",
+  "industry_slug": "credit-services",
+  "sector": "Financial Services",
+  "isin": null,
   "price": 103.08,
   "market_cap_cr": 134710.17,
-  "industry_source": "webarchive",
-  "as_of": "2026-06-06",
+  "industry_source": "yfinance",
+  "as_of": "2026-06-09",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-09",
-      "close": 97.57,
-      "prev_close": 99.47,
-      "volume": 16395706,
-      "deliverable_qty": 4861501,
-      "delivery_pct": 29.65
-    },
-    {
-      "date": "2026-03-10",
-      "close": 100.71,
-      "prev_close": 97.57,
-      "volume": 14800530,
-      "deliverable_qty": 4215748,
-      "delivery_pct": 28.48
-    },
     {
       "date": "2026-03-11",
       "close": 99.25,
@@ -583,27 +567,6 @@
       "desc": "Press Release",
       "sm_name": "Indian Railway Finance Corporation Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRFC_12032026103539_Pressreleaseintimation12032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-09 13:20:17",
-      "an_dt": "09-Mar-2026 13:20:17",
-      "desc": "Updates",
-      "sm_name": "Indian Railway Finance Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRFC_09032026132011_BMOUTCOME09032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-09 13:18:38",
-      "an_dt": "09-Mar-2026 13:18:38",
-      "desc": "Record Date",
-      "sm_name": "Indian Railway Finance Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRFC_09032026131824_BMOUTCOME09032026.pdf"
-    },
-    {
-      "sort_date": "2026-03-09 13:15:48",
-      "an_dt": "09-Mar-2026 13:15:48",
-      "desc": "Dividend",
-      "sm_name": "Indian Railway Finance Corporation Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IRFC_09032026131537_BMOUTCOME09032026.pdf"
     }
   ]
 }

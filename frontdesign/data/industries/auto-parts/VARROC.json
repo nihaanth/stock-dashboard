@@ -8,25 +8,9 @@
   "price": 555.9,
   "market_cap_cr": 8494.12,
   "industry_source": "yfinance",
-  "as_of": "2026-06-06",
+  "as_of": "2026-06-09",
   "window_days": 90,
   "daily": [
-    {
-      "date": "2026-03-09",
-      "close": 483.5,
-      "prev_close": 514.65,
-      "volume": 674451,
-      "deliverable_qty": 385990,
-      "delivery_pct": 57.23
-    },
-    {
-      "date": "2026-03-10",
-      "close": 497.95,
-      "prev_close": 483.5,
-      "volume": 162554,
-      "deliverable_qty": 79274,
-      "delivery_pct": 48.77
-    },
     {
       "date": "2026-03-11",
       "close": 494.35,
@@ -681,13 +665,6 @@
       "desc": "Trading Window",
       "sm_name": "Varroc Engineering Limited",
       "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_17032026164656_TradingWindowClosure.pdf"
-    },
-    {
-      "sort_date": "2026-03-09 15:48:06",
-      "an_dt": "09-Mar-2026 15:48:06",
-      "desc": "General Updates",
-      "sm_name": "Varroc Engineering Limited",
-      "attchmntFile": "https://nsearchives.nseindia.com/corporate/VARROC_09032026154559_IntimationOfCreditRatings.pdf"
     }
   ]
 }
