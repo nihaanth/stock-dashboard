@@ -8,7 +8,7 @@ Reuses the session-prime + headers pattern from scripts/update_webarchive.py.
 Usage:
     python scripts/poll_live_news.py
         [--out frontdesign/data/_live_news.json]
-        [--max-items 200]
+        [--max-items 1000]
 
 Exit codes:
     0  new items added this poll (wrapper should git-commit + push)
@@ -266,7 +266,7 @@ def main() -> int:
     p.add_argument("--out", type=Path, default=DEFAULT_OUT)
     p.add_argument("--after-market-out", type=Path, default=DEFAULT_AFTER_MARKET_OUT)
     p.add_argument("--history-out", type=Path, default=DEFAULT_HISTORY_OUT)
-    p.add_argument("--max-items", type=int, default=200)
+    p.add_argument("--max-items", type=int, default=1000)
     args = p.parse_args()
 
     if not INDUSTRIES_INDEX.exists():
