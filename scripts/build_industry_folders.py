@@ -105,7 +105,10 @@ def load_recent_bhav(symbols: set[str], start: datetime, end: datetime) -> pd.Da
         except Exception as e:
             print(f"  skip {f.name}: {e}")
             continue
-        df = df[(df["series"] == "EQ") & (df["symbol"].isin(symbols))]
+        # EQ + BE: BE is the Trade-to-Trade segment — real OHLC, just a different
+        # settlement series. Excluding it left BE-only names (e.g. SICALLOG,
+        # SWANDEF, VHLTD) with empty daily data and a blank price graph.
+        df = df[df["series"].isin(("EQ", "BE")) & (df["symbol"].isin(symbols))]
         if not df.empty:
             parts.append(df)
     if not parts:
@@ -115,6 +118,9 @@ def load_recent_bhav(symbols: set[str], start: datetime, end: datetime) -> pd.Da
     for c in ("close", "prev_close", "volume"):
         out[c] = pd.to_numeric(out[c], errors="coerce")
     out = out.dropna(subset=["date", "close"])
+    # A symbol trades in one series per day; dedup defensively now that we accept
+    # two series, so the MTO left-merge can't fan out on (symbol, date).
+    out = out.drop_duplicates(subset=["symbol", "date"], keep="last")
     return out[["symbol", "date", "close", "prev_close", "volume"]]
 
 
@@ -131,7 +137,7 @@ def load_recent_mto(symbols: set[str], start: datetime, end: datetime) -> pd.Dat
         except Exception as e:
             print(f"  skip {f.name}: {e}")
             continue
-        df = df[(df["series"] == "EQ") & (df["symbol"].isin(symbols))]
+        df = df[df["series"].isin(("EQ", "BE")) & (df["symbol"].isin(symbols))]
         if not df.empty:
             parts.append(df)
     if not parts:
@@ -141,6 +147,7 @@ def load_recent_mto(symbols: set[str], start: datetime, end: datetime) -> pd.Dat
     for c in ("deliverable_qty", "delivery_pct"):
         out[c] = pd.to_numeric(out[c], errors="coerce")
     out = out.dropna(subset=["date"])
+    out = out.drop_duplicates(subset=["symbol", "date"], keep="last")
     return out[["symbol", "date", "deliverable_qty", "delivery_pct"]]
 
 
