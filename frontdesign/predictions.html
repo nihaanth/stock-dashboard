@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#f3eee2" media="(prefers-color-scheme: light)" />
+  <meta name="theme-color" content="#0e0d0a" media="(prefers-color-scheme: dark)" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="description" content="Stockbot — AI-powered stock predictions and market insights for Indian equities." />
+  <meta property="og:title" content="Stockbot — The Edition" />
+  <meta property="og:description" content="AI-powered stock predictions and market insights for Indian equities." />
+  <meta property="og:type" content="website" />
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='85' font-size='90' fill='%230f0e0c'%3ES%3C/text%3E%3C/svg%3E" />
+  <title>Stockbot — The Edition</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,500;12..96,600;12..96,700&family=JetBrains+Mono:wght@400;500;600;700&display=swap" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar__brand">
+      <span class="brand__mark">S</span>
+      <div class="brand__label">
+        <div class="brand__title">The Stockbot Edition</div>
+        <div class="brand__sub" id="dateLine">Vol. 1 · pred — → result —</div>
+      </div>
+    </div>
+
+    <div class="topbar__center">
+      <label class="picker">
+        <span class="picker__label">Prediction date</span>
+        <select id="datePicker"></select>
+      </label>
+      <div class="alltime" id="allTime">All-time accuracy: —</div>
+    </div>
+
+    <div class="topbar__right">
+      <a class="topnav__link" href="index.html">Industries →</a>
+      <button id="themeToggle" class="iconbtn" aria-label="Toggle theme">◐</button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="sidebar__hdr">
+        <div>Volume watch · 7d</div>
+        <span class="muted" id="vwCount">0</span>
+      </div>
+      <ul class="vwlist" id="vwList"></ul>
+
+      <div class="sidebar__hdr sidebar__hdr--sub"><div>Sources today</div></div>
+      <div class="srcsumm" id="srcSumm"></div>
+
+      <div class="sidebar__hdr sidebar__hdr--sub">
+        <div>History</div>
+        <span class="muted" id="sidebarCount">0</span>
+      </div>
+      <ul class="datelist" id="dateList"></ul>
+    </aside>
+
+    <main class="main">
+      <div class="srctabs" id="srcTabs"></div>
+
+      <section class="cards" id="summaryCards">
+        <!-- 6 summary cards injected by JS -->
+      </section>
+
+      <section class="filters">
+        <div class="filter">
+          <label>Direction</label>
+          <select id="filterDir">
+            <option value="all">All</option>
+            <option value="bullish">Bullish</option>
+            <option value="bearish">Bearish</option>
+            <option value="sideways">Sideways</option>
+          </select>
+        </div>
+        <div class="filter">
+          <label>Min confidence <span id="confVal">0</span></label>
+          <input type="range" id="filterConf" min="0" max="100" value="0" />
+        </div>
+        <div class="filter">
+          <label>Sort</label>
+          <select id="sortBy">
+            <option value="default">Default (combined rank)</option>
+            <option value="gain">Biggest gain</option>
+            <option value="loss">Biggest loss</option>
+            <option value="accuracy">Correct first</option>
+            <option value="confidence">Confidence ↓</option>
+          </select>
+        </div>
+        <div class="filter filter--note">
+          <span class="legend"><i class="dot dot--green"></i> Correct</span>
+          <span class="legend"><i class="dot dot--red"></i> Wrong</span>
+          <span class="legend"><i class="dot dot--grey"></i> Sideways</span>
+        </div>
+      </section>
+
+      <section class="tablewrap">
+        <table class="ptable" id="ptable">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Ticker</th>
+              <th>Company</th>
+              <th>Dir</th>
+              <th class="num">Prev close</th>
+              <th class="num">Last</th>
+              <th class="num">Δ</th>
+              <th class="num">%</th>
+              <th>Result</th>
+              <th>Signals</th>
+              <th class="num">Conf</th>
+              <th>S / R</th>
+              <th class="grow notes-col">Notes</th>
+            </tr>
+          </thead>
+          <tbody id="rows"></tbody>
+        </table>
+      </section>
+
+      <footer class="footer">
+        <span class="muted">Stockbot · static dashboard · data refreshed daily at 19:30 IST</span>
+        <span class="muted" id="generatedAt"></span>
+      </footer>
+    </main>
+  </div>
+
+  <script src="app.js" defer></script>
+  <noscript>
+    <div style="padding: 24px; color: #ef4444;">
+      <p><strong>JavaScript is required for this dashboard.</strong></p>
+      <p>Please enable JavaScript in your browser to view Stockbot.</p>
+    </div>
+  </noscript>
+</body>
+</html>
