@@ -282,14 +282,16 @@ def main() -> int:
 
     fresh = fetch_today(now)
     new_items: list[dict] = []
-    today_start = now.replace(hour=0, minute=0, second=0, microsecond=0).strftime("%Y-%m-%d %H:%M:%S")
     for rec in fresh:
         norm = normalise(rec, stock_map)
         if norm is None:
             continue
         if norm["seq_id"] in seen:
             continue
-        if norm["sort_date"] < today_start:
+        # Compare on the date prefix, not the full timestamp: a date-only
+        # sort_date ("2026-06-10") would sort < "2026-06-10 00:00:00" and be
+        # wrongly dropped as "before today".
+        if norm["sort_date"][:10] < trading_day:
             continue
         new_items.append(norm)
         seen.add(norm["seq_id"])

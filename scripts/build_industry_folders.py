@@ -228,6 +228,7 @@ def build_news_map(symbols: set[str], start: datetime, end: datetime) -> dict[st
         if not sd or sd < cutoff_start or sd > cutoff_end:
             continue
         out.setdefault(sym, []).append({
+            "seq_id": r.get("seq_id"),  # unique key for live-feed dedup on the front-end
             "sort_date": sd,
             "an_dt": r.get("an_dt"),
             "desc": r.get("desc"),
@@ -315,14 +316,13 @@ def write_tree(universe: dict,
                min_price: float,
                min_mcap_cr: float,
                out_base: Path) -> None:
-    if out_base.exists():
-        try:
-            rel = out_base.relative_to(ROOT)
-        except ValueError:
-            rel = out_base
-        print(f"[clean] removing {rel}")
-        shutil.rmtree(out_base)
-    out_base.mkdir(parents=True)
+    # Build the entire tree into a sibling ".tmp" dir, then swap it into place at
+    # the very end. If any write fails mid-build, the live tree is left untouched
+    # instead of deleted-then-half-rebuilt (which blanks the dashboard).
+    build_base = out_base.parent / (out_base.name + ".tmp")
+    if build_base.exists():
+        shutil.rmtree(build_base)
+    build_base.mkdir(parents=True)
 
     industry_to_slug = assign_industry_slugs(universe)
     by_industry: dict[str, list[str]] = {}
@@ -335,7 +335,7 @@ def write_tree(universe: dict,
 
     for industry, symbols in sorted(by_industry.items(), key=lambda kv: -len(kv[1])):
         slug = industry_to_slug[industry]
-        ind_dir = out_base / slug
+        ind_dir = build_base / slug
         ind_dir.mkdir(parents=True, exist_ok=True)
 
         stock_index_rows: list[dict] = []
@@ -389,7 +389,7 @@ def write_tree(universe: dict,
             **agg,
         })
 
-    (out_base / "industries.json").write_text(json.dumps({
+    (build_base / "industries.json").write_text(json.dumps({
         "as_of": as_of.strftime("%Y-%m-%d"),
         "window_days": window_days,
         "universe_filter": {"min_price": min_price, "min_mcap_cr": min_mcap_cr},
@@ -398,6 +398,13 @@ def write_tree(universe: dict,
         "industries": industries_summary,
         "stock_index": stock_index,
     }, indent=2))
+
+    # Swap the freshly-built tree into place. Remove the live tree only now, once
+    # the new one is complete, then rename (atomic on the same filesystem).
+    if out_base.exists():
+        shutil.rmtree(out_base)
+    build_base.replace(out_base)
+
     try:
         rel = out_base.relative_to(ROOT)
     except ValueError:

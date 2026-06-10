@@ -104,7 +104,7 @@ async function pollLive() {
   const [liveRes, afterRes, histRes] = await Promise.allSettled([
     fetch(`${LIVE_URL}?t=${bust}`, { cache: "no-store" }),
     fetch(`${AFTER_MARKET_URL}?t=${bust}`, { cache: "no-store" }),
-    fetch(HISTORY_URL),
+    fetch(`${HISTORY_URL}?t=${bust}`, { cache: "no-store" }),
   ]);
 
   let firstPoll = state.live.polledAt === null;
@@ -843,10 +843,13 @@ function mergeLiveIntoStockDetail(newSeqs) {
   const stock = state.stockCache.get(key);
   if (!stock) return;
 
-  const existingByDate = new Set((stock.news || []).map((n) => n.sort_date));
+  // Dedup by seq_id (the unique key) and fall back to sort_date for cached news
+  // written before seq_id was stored, so a filing in both feeds isn't duplicated.
+  const existingSeqs = new Set((stock.news || []).map((n) => n.seq_id).filter((x) => x != null));
+  const existingDates = new Set((stock.news || []).map((n) => n.sort_date));
   const merged = [
     ...liveForSym
-      .filter((l) => !existingByDate.has(l.sort_date))
+      .filter((l) => !existingSeqs.has(l.seq_id) && !existingDates.has(l.sort_date))
       .map((l) => ({ ...l, _isLive: true, _isNew: newSeqs.includes(l.seq_id) })),
     ...(stock.news || []),
   ];
@@ -1236,14 +1239,21 @@ async function renderStockDetail(slug, symbol) {
     state.stockCache.set(key, stock);
   }
 
-  view.querySelector(".ind-loading").remove();
+  // A newer navigation may have superseded this one while we awaited the fetch;
+  // bail rather than inject this stock into the now-current view.
+  if (state.live.currentSymbol !== symbol) return;
 
-  const last = stock.daily[stock.daily.length - 1] || {};
-  const first = stock.daily[0] || {};
-  const pct = first.close && last.close
+  view.querySelector(".ind-loading")?.remove();
+
+  // Base price/sparkline/axis on days that actually have a close, so the axis
+  // date labels line up with the plotted endpoints (some days have null close).
+  const priced = stock.daily.filter((d) => d.close != null);
+  const last = priced[priced.length - 1] || {};
+  const first = priced[0] || {};
+  const pct = first.close != null && last.close != null && first.close !== 0
     ? ((last.close - first.close) / first.close) * 100
     : null;
-  const closes = stock.daily.map((d) => d.close).filter((v) => v != null);
+  const closes = priced.map((d) => d.close);
   const recentRows = stock.daily.slice(-15).reverse();
 
   view.insertAdjacentHTML("beforeend", `
@@ -1312,7 +1322,7 @@ async function renderStockDetail(slug, symbol) {
 
       <aside class="stock-right">
         <h3 class="ind-h3">News &amp; announcements
-          <span class="muted news-count">${stock.news.length} in last ${stock.window_days}d</span>
+          <span class="muted news-count">${(stock.news || []).length} in last ${stock.window_days}d</span>
         </h3>
         ${renderNewsFeed(buildMergedNews(stock))}
       </aside>
@@ -1323,14 +1333,16 @@ async function renderStockDetail(slug, symbol) {
 function sparkline(values, w = 720, h = 160) {
   if (!values || values.length < 2) return `<div class="sparkline-empty muted">No price history</div>`;
   const min = Math.min(...values), max = Math.max(...values);
-  const span = max - min || 1;
+  const span = max - min;
+  // All-equal values (circuit-locked / single day): center the flat line at h/2
+  // instead of pinning it to the SVG bottom edge.
+  const yOf = (v) => (span === 0 ? h / 2 : h - ((v - min) / span) * h);
   const pts = values.map((v, i) => {
     const x = (i / (values.length - 1)) * w;
-    const y = h - ((v - min) / span) * h;
-    return `${x.toFixed(2)},${y.toFixed(2)}`;
+    return `${x.toFixed(2)},${yOf(v).toFixed(2)}`;
   }).join(" ");
   const last = values[values.length - 1];
-  const lastY = h - ((last - min) / span) * h;
+  const lastY = yOf(last);
   const up = values[values.length - 1] >= values[0];
   return `
     <svg class="sparkline ${up ? "up" : "down"}" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" aria-hidden="true">
@@ -1344,9 +1356,10 @@ function buildMergedNews(stock) {
   if (!stock) return [];
   const liveForSym = state.live.items.filter((i) => i.symbol === stock.symbol);
   if (liveForSym.length === 0) return stock.news || [];
-  const existingByDate = new Set((stock.news || []).map((n) => n.sort_date));
+  const existingSeqs = new Set((stock.news || []).map((n) => n.seq_id).filter((x) => x != null));
+  const existingDates = new Set((stock.news || []).map((n) => n.sort_date));
   const live = liveForSym
-    .filter((l) => !existingByDate.has(l.sort_date))
+    .filter((l) => !existingSeqs.has(l.seq_id) && !existingDates.has(l.sort_date))
     .map((l) => ({ ...l, _isLive: true }));
   return [...live, ...(stock.news || [])];
 }

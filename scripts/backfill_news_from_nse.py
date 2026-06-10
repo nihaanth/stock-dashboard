@@ -156,4 +156,12 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    try:
+        sys.exit(main())
+    except SystemExit:
+        raise  # preserve main()'s 0/1/2 exit codes
+    except Exception as e:
+        # Any unhandled error is FATAL (2), not "no new items" (1) — exiting 1
+        # would tell the scheduler to skip the commit and silently leave the gap.
+        print(f"[backfill] FATAL: {e}", file=sys.stderr)
+        sys.exit(2)

@@ -786,7 +786,8 @@ def build_volume_watch(latest_date: str, lookback_days: int = 7,
             "pct_since_spike": pct,
         })
     # Sort by spike ratio desc (strongest signals first), then by recency
-    watches.sort(key=lambda w: (-w["spike_ratio"], -w["days_since"]))
+    # (smaller days_since = more recent → ascending).
+    watches.sort(key=lambda w: (-w["spike_ratio"], w["days_since"]))
     watches = watches[:top_n]
 
     return {
