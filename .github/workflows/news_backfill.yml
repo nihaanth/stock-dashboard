@@ -1,0 +1,82 @@
+name: news · NSE gap backfill (safety net)
+
+# scripts/poll_live_news.py fetches "today" only and poll_schedule.py STOPS on
+# weekends, so any missed run — a weekend, a dropped GitHub Actions schedule, or
+# a wedged repo — leaves a PERMANENT gap in _news_history / _after_market_news /
+# _live_news. This job heals a trailing window by re-fetching that range from the
+# NSE API and merging via the poller's exact normalise/update_* logic
+# (scripts/backfill_news_from_nse.py — idempotent, dedup by seq_id, append-only
+# history). Vercel auto-deploys on push.
+#
+# Runs OUTSIDE the live poller's Mon-Fri 08:30-22:30 IST window (= 03:00-17:00
+# UTC) so the two never fight over _live_news.json, and crucially runs on
+# WEEKENDS, which the poller skips entirely. GitHub drops most scheduled runs, so
+# we fire redundantly and use a wide window: one delivered run heals up to ~14
+# days of gaps.
+#
+#   0 18 * * *    ≈ 23:30 IST daily — post-session full-day heal (incl. weekends)
+#   0 1  * * *    ≈ 06:30 IST daily — pre-session overnight/late-filing catch-up
+#   0 9  * * 6,0  ≈ 14:30 IST Sat/Sun — weekend midday (poller is off weekends)
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+    - cron: "0 1 * * *"
+    - cron: "0 9 * * 6,0"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "trailing lookback window in days"
+        required: false
+        default: "14"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-backfill          # serialize with itself; never two pushes at once
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Backfill from NSE, commit only if new items
+        run: |
+          set +e
+          python scripts/backfill_news_from_nse.py --days "${{ github.event.inputs.days || '14' }}"
+          rc=$?
+          set -e
+          if [ "$rc" = "2" ]; then echo "fatal: NSE fetch failed"; exit 1; fi
+          if [ "$rc" = "1" ]; then echo "no new items — skipping commit (avoids timestamp churn)"; exit 0; fi
+          # rc == 0: new items were healed into history
+          git config user.name  "stockbot-live[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          FILES="frontdesign/data/_news_history.json frontdesign/data/_after_market_news.json frontdesign/data/_live_news.json"
+          if git diff --quiet HEAD -- $FILES; then
+            echo "no file delta despite new items — skipping"; exit 0
+          fi
+          git add $FILES
+          git commit -m "news: scheduled NSE gap backfill ($(TZ=Asia/Kolkata date +%Y-%m-%d\ %H:%M) IST)"
+          git pull --rebase --autostash origin main || true
+          for i in 1 2 3; do
+            if git push origin HEAD:main; then echo "pushed (attempt $i)"; exit 0; fi
+            echo "push failed; rebase + retry"
+            git pull --rebase --autostash origin main || true
+          done
+          echo "push failed after 3 attempts"; exit 1

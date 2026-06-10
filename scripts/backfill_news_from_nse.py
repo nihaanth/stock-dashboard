@@ -22,6 +22,11 @@ Usage:
     python scripts/backfill_news_from_nse.py [--days 9]
     python scripts/backfill_news_from_nse.py --from 31-05-2026 --to 09-06-2026
     python scripts/backfill_news_from_nse.py --snapshot /tmp/nse_5day_raw.json
+
+Exit codes (so a scheduler can gate the git commit and avoid timestamp-only churn):
+    0  new items were added to history (caller should commit + push)
+    1  no new items (files unchanged except timestamps — caller should skip commit)
+    2  fatal (NSE fetch failed / returned nothing)
 """
 from __future__ import annotations
 
@@ -90,8 +95,15 @@ def main() -> int:
     else:
         to = args.to or now.strftime("%d-%m-%Y")
         frm = args.frm or (now - dt.timedelta(days=args.days)).strftime("%d-%m-%Y")
-        raw = fetch_range(frm, to)
+        try:
+            raw = fetch_range(frm, to)
+        except requests.RequestException as e:
+            print(f"[backfill] FATAL: NSE fetch failed: {e}", file=sys.stderr)
+            return 2
         print(f"[backfill] fetched {len(raw)} NSE records {frm}..{to}")
+    if not raw:
+        print("[backfill] FATAL: no records returned", file=sys.stderr)
+        return 2
 
     stock_map = load_stock_map()
     norm: list[dict] = []
@@ -100,6 +112,17 @@ def main() -> int:
         if n is not None:
             norm.append(n)
     print(f"[backfill] {len(norm)} universe-filtered, normalised items")
+
+    # How many of these are genuinely NEW to the history archive? Used to gate
+    # the caller's commit so a no-op run doesn't churn timestamps into git.
+    prev_hist_seqs: set[int] = set()
+    if DEFAULT_HISTORY_OUT.exists():
+        try:
+            prev = json.loads(DEFAULT_HISTORY_OUT.read_text())
+            prev_hist_seqs = {int(it["seq_id"]) for it in prev.get("items", []) if "seq_id" in it}
+        except (json.JSONDecodeError, OSError, ValueError, KeyError):
+            prev_hist_seqs = set()
+    n_new = sum(1 for it in norm if it["seq_id"] not in prev_hist_seqs)
 
     # 1) Append-only history (Yesterday) — merges, keeps every day.
     hist_total, hist_days = update_history(DEFAULT_HISTORY_OUT, norm, now)
@@ -128,8 +151,8 @@ def main() -> int:
     }, ensure_ascii=False, indent=2))
 
     print(f"[backfill] history={hist_total} items / {len(hist_days)} days | "
-          f"after_market={am_total} | live_today={len(today_items)}")
-    return 0
+          f"after_market={am_total} | live_today={len(today_items)} | new_to_history={n_new}")
+    return 0 if n_new else 1
 
 
 if __name__ == "__main__":
