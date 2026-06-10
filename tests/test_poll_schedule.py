@@ -56,3 +56,49 @@ def test_session_end_boundary_polls_slow():
 def test_after_market_end_boundary_stops():
     # exactly 22:30 IST -> stop
     assert ps.session_plan(_ist(2026, 6, 8, 22, 30)) == ("stop", 0)
+
+
+# --- seconds_until_next_window (chain relay nap sizing) ---
+
+
+def test_next_window_inside_main_session_is_zero():
+    assert ps.seconds_until_next_window(_ist(2026, 6, 8, 10, 0)) == 0
+
+
+def test_next_window_inside_after_market_is_zero():
+    assert ps.seconds_until_next_window(_ist(2026, 6, 8, 17, 0)) == 0
+
+
+def test_next_window_preopen_same_day():
+    # Mon 05:00 -> Mon 08:30 = 3.5h
+    assert ps.seconds_until_next_window(_ist(2026, 6, 8, 5, 0)) == 12600
+
+
+def test_next_window_weeknight_after_close():
+    # Mon 23:00 -> Tue 08:30 = 9.5h
+    assert ps.seconds_until_next_window(_ist(2026, 6, 8, 23, 0)) == 34200
+
+
+def test_next_window_at_exact_close_boundary():
+    # Mon 22:30 -> Tue 08:30 = 10h
+    assert ps.seconds_until_next_window(_ist(2026, 6, 8, 22, 30)) == 36000
+
+
+def test_next_window_friday_night_bridges_to_monday():
+    # Fri 2026-06-12 23:00 -> Mon 2026-06-15 08:30 = 57.5h
+    assert ps.seconds_until_next_window(_ist(2026, 6, 12, 23, 0)) == 207000
+
+
+def test_next_window_saturday():
+    # Sat 2026-06-13 10:00 -> Mon 08:30 = 46.5h
+    assert ps.seconds_until_next_window(_ist(2026, 6, 13, 10, 0)) == 167400
+
+
+def test_next_window_sunday():
+    # Sun 2026-06-07 10:00 -> Mon 08:30 = 22.5h
+    assert ps.seconds_until_next_window(_ist(2026, 6, 7, 10, 0)) == 81000
+
+
+def test_next_window_just_before_open():
+    # Mon 08:29 -> 08:30 = 60s
+    assert ps.seconds_until_next_window(_ist(2026, 6, 8, 8, 29)) == 60

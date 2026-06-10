@@ -11,6 +11,11 @@
 #   DRY_RUN            1 = poll but never commit/push       (default 0)
 #   POLL_CMD           command run each iteration           (default python poller)
 #   FORCE_PLAN         override cadence helper, e.g. "poll 1" (tests only)
+#   SLEEP_TO_NEXT_WINDOW  1 = outside the window, take ONE capped nap toward the
+#                      next window open instead of exiting (chain relay; the
+#                      workflow sets this — local/manual runs keep exit-on-stop)
+#   SLEEP_CAP_SEC      max single nap (default 16200 = 4.5h, under the 6h job cap)
+#   MIN_SLEEP_SEC      nap floor so a broken helper can't cause a dispatch storm
 set -uo pipefail   # no -e: a transient NSE/git error must never break the loop
 
 ROOT="${ROOT:-$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)}"
@@ -22,6 +27,9 @@ LINK_DURATION_SEC="${LINK_DURATION_SEC:-18000}"
 MAX_ITERS="${MAX_ITERS:-0}"
 DRY_RUN="${DRY_RUN:-0}"
 POLL_CMD="${POLL_CMD:-$PY scripts/poll_live_news.py}"
+SLEEP_TO_NEXT_WINDOW="${SLEEP_TO_NEXT_WINDOW:-0}"
+SLEEP_CAP_SEC="${SLEEP_CAP_SEC:-16200}"
+MIN_SLEEP_SEC="${MIN_SLEEP_SEC:-60}"
 
 FILES=(frontdesign/data/_live_news.json
        frontdesign/data/_after_market_news.json
@@ -48,6 +56,7 @@ commit_and_push() {
 
 start=$(date +%s)
 iters=0
+slept=0
 while :; do
   if [ -n "${FORCE_PLAN:-}" ]; then
     read -r action cadence <<< "$FORCE_PLAN"
@@ -56,6 +65,23 @@ while :; do
   fi
 
   if [ "$action" = "stop" ]; then
+    if [ "$SLEEP_TO_NEXT_WINDOW" = "1" ] && [ "$slept" -eq 0 ]; then
+      elapsed=$(( $(date +%s) - start ))
+      remaining=$(( LINK_DURATION_SEC - elapsed ))
+      if [ "$remaining" -lt "$MIN_SLEEP_SEC" ]; then
+        echo "[loop] $(date -Iseconds) outside window, link budget spent — handing off"; break
+      fi
+      next=$("$PY" scripts/poll_schedule.py --next-window 2>/dev/null || echo 0)
+      case "$next" in (''|*[!0-9]*) next=0;; esac
+      nap=$next
+      [ "$nap" -gt "$SLEEP_CAP_SEC" ] && nap=$SLEEP_CAP_SEC
+      [ "$nap" -gt "$remaining" ]     && nap=$remaining
+      [ "$nap" -lt "$MIN_SLEEP_SEC" ] && nap=$MIN_SLEEP_SEC
+      echo "[loop] $(date -Iseconds) outside window — sleeping ${nap}s (next window in ${next}s)"
+      slept=1
+      sleep "$nap"
+      continue
+    fi
     echo "[loop] $(date -Iseconds) outside session window — exiting"; break
   fi
 

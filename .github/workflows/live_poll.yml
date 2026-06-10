@@ -1,16 +1,26 @@
 name: live · NSE announcement poll
 
-# Reliable intra-day poller. ONE long-running job loops on a cadence and commits
-# frontdesign/data/_live_news.json (+ after-market/history) to main; Vercel
-# auto-deploys on push. GitHub drops most scheduled runs, so we no longer depend
-# on any single one: the schedule fires redundantly, and cancel-in-progress means
-# a freshly-delivered trigger simply restarts/extends coverage. Each job covers up
-# to ~5h, so even a single delivered trigger bridges long stretches of dropped ones.
+# Self-chaining intra-day poller. Every run is a "link": it either polls the IST
+# window (08:30-22:30, committing frontdesign/data/_live_news.json + after-market/
+# history to main; Vercel auto-deploys on push) or, outside the window, takes ONE
+# capped nap toward the next window open (SLEEP_TO_NEXT_WINDOW=1; if the window
+# opens mid-nap the SAME job starts polling — zero handoff latency at market open).
+# As its LAST act, every non-cancelled link dispatches its own successor via
+# workflow_dispatch using the built-in GITHUB_TOKEN (the documented exception to
+# the no-recursive-runs rule; needs `actions: write`). So a job is ALWAYS alive,
+# 24/7, without relying on GitHub's schedule — which silently drops most runs and
+# left the feed frozen every morning (e.g. 2026-06-10: stuck at 2 items 08:25→12:27 IST).
 #
-#   */5  3-4  * * 1-5 UTC  ≈ dense bootstrap, 08:30-10:29 IST (get a loop alive at open)
-#   */10 3-17 * * 1-5 UTC  ≈ every 10 min, 08:30-23:29 IST (redundant all-day coverage)
-# automation/live_poll_loop.sh self-classifies the IST window via
-# scripts/poll_schedule.py and exits outside 08:30-22:30 IST, so nothing runs overnight.
+# The crons below are demoted to chain RE-SEEDERS: if the chain ever dies (runner
+# eviction, dispatch failure ×3), the next delivered cron restarts it. Worst case
+# equals the old behavior; normal case is an unbroken chain.
+#
+# concurrency `cancel-in-progress: true` + `if: !cancelled()` on the dispatch step
+# guarantee exactly ONE chain: a superseded link is cancelled before it can
+# dispatch (on cancellation GitHub re-evaluates step `if:` conditions, so the
+# dispatch step is SKIPPED); its canceller becomes the new chain head. NOTE the
+# cosmetic effect: healthy superseded links show conclusion "cancelled" — chain
+# health is "is there an in_progress/queued run", not green checkmarks.
 
 on:
   schedule:
@@ -20,6 +30,7 @@ on:
 
 permissions:
   contents: write
+  actions: write   # lets GITHUB_TOKEN dispatch the successor link (workflow_dispatch exception)
 
 concurrency:
   group: live-poll
@@ -28,7 +39,7 @@ concurrency:
 jobs:
   poll:
     runs-on: ubuntu-latest
-    timeout-minutes: 350   # ceiling only; the loop self-terminates at window close / 5h
+    timeout-minutes: 350   # backstop only; nap+poll are budgeted ≤ ~305 min by the loop
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -45,4 +56,26 @@ jobs:
         run: pip install requests
 
       - name: Poll loop
+        env:
+          SLEEP_TO_NEXT_WINDOW: "1"
         run: bash automation/live_poll_loop.sh
+
+      # Must be the LAST step. Runs on success OR failure of the poll loop; skipped
+      # only when this run was cancelled (i.e. superseded by a newer link/cron).
+      # Equivalent fallback if gh ever vanishes from runners:
+      #   curl -X POST -H "Authorization: Bearer $GH_TOKEN" \
+      #     /repos/${GH_REPO}/actions/workflows/live_poll.yml/dispatches -d '{"ref":"main"}'
+      - name: Dispatch successor link
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          for i in 1 2 3; do
+            if gh workflow run live_poll.yml --ref main; then
+              echo "successor dispatched (attempt $i)"; exit 0
+            fi
+            echo "dispatch failed (attempt $i); retrying in 20s"; sleep 20
+          done
+          echo "::error::failed to dispatch successor after 3 attempts — next delivered cron re-seeds the chain"
+          exit 1

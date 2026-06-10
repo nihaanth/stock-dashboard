@@ -5,10 +5,17 @@ Pure, stdlib-only so the loop's timing policy is unit-testable. Windows are IST
     08:30-15:30  preopen + main session   -> poll every 180s
     15:30-22:30  after-market filings      -> poll every 600s
     otherwise / weekends                   -> stop
+
+CLI:
+    python scripts/poll_schedule.py                ->  "<action> <cadence>"
+    python scripts/poll_schedule.py --next-window  ->  seconds until the next
+        window opens (integer; 0 when already inside a window)
 """
 from __future__ import annotations
 
-from datetime import datetime, time as dtime
+import math
+import sys
+from datetime import datetime, time as dtime, timedelta
 from zoneinfo import ZoneInfo
 
 IST = ZoneInfo("Asia/Kolkata")
@@ -32,8 +39,26 @@ def session_plan(now: datetime) -> tuple[str, int]:
     return ("stop", 0)
 
 
-def main() -> int:
-    action, cadence = session_plan(datetime.now(IST))
+def seconds_until_next_window(now: datetime) -> int:
+    """Seconds until the next polling window opens; 0 if already inside one."""
+    if session_plan(now)[0] == "poll":
+        return 0
+    for days in range(8):
+        candidate = datetime.combine(
+            (now + timedelta(days=days)).date(), SESSION_START, tzinfo=now.tzinfo
+        )
+        if candidate.weekday() < 5 and candidate > now:
+            return math.ceil((candidate - now).total_seconds())
+    return 0  # unreachable: a weekday 08:30 always exists within 8 days
+
+
+def main(argv: list[str] | None = None) -> int:
+    argv = sys.argv[1:] if argv is None else argv
+    now = datetime.now(IST)
+    if "--next-window" in argv:
+        print(seconds_until_next_window(now))
+        return 0
+    action, cadence = session_plan(now)
     print(f"{action} {cadence}")
     return 0
 
