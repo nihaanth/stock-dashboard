@@ -1,10 +1,32 @@
 {
-  "polled_at": "2026-06-12T15:25:28+05:30",
+  "polled_at": "2026-06-12T15:31:31+05:30",
   "trading_day": "2026-06-12",
-  "market_state": "open",
-  "n_new_this_poll": 1,
-  "n_total": 146,
+  "market_state": "closed",
+  "n_new_this_poll": 2,
+  "n_total": 148,
   "items": [
+    {
+      "seq_id": 106662031,
+      "symbol": "ASIANENE",
+      "industry_slug": "oil-gas-equipment-services",
+      "name": "Asian Energy Services Limited",
+      "sort_date": "2026-06-12 15:30:21",
+      "an_dt": "12-Jun-2026 15:30:21",
+      "desc": "Shareholders meeting",
+      "sm_name": "Asian Energy Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ASIANENE_12062026152919_AESL_MeetingProceedings_Signed_12thJune2026.pdf"
+    },
+    {
+      "seq_id": 106662028,
+      "symbol": "LGEINDIA",
+      "industry_slug": "consumer-electronics",
+      "name": "LG ELECTRONICS INDIA LTD",
+      "sort_date": "2026-06-12 15:28:49",
+      "an_dt": "12-Jun-2026 15:28:49",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "LG Electronics India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/LGEINDIA_12062026151615_Schedule_of_Analyst_Meet_12June2026.pdf"
+    },
     {
       "seq_id": 106662027,
       "symbol": "JSLL",
