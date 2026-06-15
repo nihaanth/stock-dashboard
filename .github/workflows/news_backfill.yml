@@ -2,8 +2,8 @@ name: news · NSE gap backfill (safety net)
 
 # scripts/poll_live_news.py fetches "today" only and poll_schedule.py STOPS on
 # weekends, so any missed run — a weekend, a dropped GitHub Actions schedule, or
-# a wedged repo — leaves a PERMANENT gap in _news_history / _after_market_news /
-# _live_news. This job heals a trailing window by re-fetching that range from the
+# a wedged repo — leaves a PERMANENT gap in _news_history / _live_news. This job
+# heals a trailing window by re-fetching that range from the
 # NSE API and merging via the poller's exact normalise/update_* logic
 # (scripts/backfill_news_from_nse.py — idempotent, dedup by seq_id, append-only
 # history). Vercel auto-deploys on push.
@@ -67,7 +67,7 @@ jobs:
           # rc == 0: new items were healed into history
           git config user.name  "stockbot-live[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          FILES="frontdesign/data/_news_history.json frontdesign/data/_after_market_news.json frontdesign/data/_live_news.json"
+          FILES="frontdesign/data/_news_history.json frontdesign/data/_live_news.json"
           if git diff --quiet HEAD -- $FILES; then
             echo "no file delta despite new items — skipping"; exit 0
           fi

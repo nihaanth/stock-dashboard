@@ -1,8 +1,8 @@
 name: live · NSE announcement poll
 
 # Self-chaining intra-day poller. Every run is a "link": it either polls the IST
-# window (08:30-22:30, committing frontdesign/data/_live_news.json + after-market/
-# history to main; Vercel auto-deploys on push) or, outside the window, takes ONE
+# window (08:30-22:30, committing frontdesign/data/_live_news.json + history to
+# main; Vercel auto-deploys on push) or, outside the window, takes ONE
 # capped nap toward the next window open (SLEEP_TO_NEXT_WINDOW=1; if the window
 # opens mid-nap the SAME job starts polling — zero handoff latency at market open).
 # As its LAST act, every non-cancelled link dispatches its own successor via

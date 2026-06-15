@@ -14,7 +14,6 @@ const DATA_ROOT = "data/industries/";
 // Sibling of latest.json — not under data/industries/ because build_industry_folders.py
 // wipes that directory nightly (shutil.rmtree), which would 404 the live feed.
 const LIVE_URL = "data/_live_news.json";
-const AFTER_MARKET_URL = "data/_after_market_news.json";
 const HISTORY_URL = "data/_news_history.json";
 const LIVE_POLL_MS = 30_000;
 const LIVE_TICKER_MAX = 8;
@@ -43,16 +42,16 @@ const state = {
     newSeqs: new Set(),        // seq_ids first surfaced since the most recent poll
   },
   afterMarket: {
-    items: [],                 // rolling N-day after-market filings
-    tradingDays: [],           // ["YYYY-MM-DD", ...] newest first
-    updatedAt: null,
+    // Items + days are derived per-render from the history feed (the >=15:30 IST
+    // subset) so the After-Market tab inherits history's full retention.
     selectedDay: null,         // currently viewed day; defaults to most recent
     selectedSlug: null,        // currently expanded industry tile (null = none)
   },
   history: {
     items: [],                 // append-only archive of every announcement
-    tradingDays: [],           // ["YYYY-MM-DD", ...] newest first
     updatedAt: null,
+    afterCount: 0,             // cached: # of after-market (>=15:30) filings — nav badge
+    ydayPriorCount: 0,         // cached: # of items from prior session-days — nav badge
     selectedDay: null,         // currently viewed day; defaults to most recent non-today
     selectedSlug: null,
   },
@@ -101,9 +100,8 @@ function currentMarketStateIST() {
 // ---------- live polling ----------
 async function pollLive() {
   const bust = Math.floor(Date.now() / 30_000);
-  const [liveRes, afterRes, histRes] = await Promise.allSettled([
+  const [liveRes, histRes] = await Promise.allSettled([
     fetch(`${LIVE_URL}?t=${bust}`, { cache: "no-store" }),
-    fetch(`${AFTER_MARKET_URL}?t=${bust}`, { cache: "no-store" }),
     fetch(`${HISTORY_URL}?t=${bust}`, { cache: "no-store" }),
   ]);
 
@@ -124,21 +122,15 @@ async function pollLive() {
     } catch (e) { console.warn("Failed to parse _live_news.json:", e); }
   }
 
-  if (afterRes.status === "fulfilled" && afterRes.value.ok) {
-    try {
-      const am = await afterRes.value.json();
-      state.afterMarket.items = am.items || [];
-      state.afterMarket.tradingDays = am.trading_days || [];
-      state.afterMarket.updatedAt = am.updated_at || null;
-    } catch (e) { console.warn("Failed to parse _after_market_news.json:", e); }
-  }
-
   if (histRes.status === "fulfilled" && histRes.value.ok) {
     try {
       const h = await histRes.value.json();
+      const changed = (h.updated_at || null) !== state.history.updatedAt;
       state.history.items = h.items || [];
-      state.history.tradingDays = h.trading_days || [];
       state.history.updatedAt = h.updated_at || null;
+      // Recompute the heavy history-derived aggregates only when the feed actually
+      // changes (≈ once per poll that brings new data), not on every 30s tick.
+      if (changed) refreshHistoryDerived();
     } catch (e) { console.warn("Failed to parse _news_history.json:", e); }
   }
 
@@ -165,6 +157,22 @@ async function pollLive() {
   }
 }
 
+// Recompute history-derived aggregates (after-market filing count + the "Yesterday"
+// prior-day count) once per history refresh, so updateNavNewsBadge — which fires every
+// 30s on every page — reads O(1) cached scalars instead of re-scanning ~40k items.
+function refreshHistoryDerived() {
+  const items = state.history.items || [];
+  let afterCount = 0;
+  for (const it of items) if (isAfterMarket(it.sort_date)) afterCount++;
+  const todayStr = sessionDaysOf(items)[0] || "";
+  let prior = 0;
+  for (const it of items) {
+    if (sessionDayOf((it.sort_date || "").slice(0, 10)) !== todayStr) prior++;
+  }
+  state.history.afterCount = afterCount;
+  state.history.ydayPriorCount = prior;
+}
+
 function updateNavNewsBadge() {
   const newsBadge = document.getElementById("navNewsBadge");
   if (newsBadge) {
@@ -172,22 +180,17 @@ function updateNavNewsBadge() {
     newsBadge.hidden = n === 0;
     newsBadge.textContent = String(n);
   }
+  // After / Yesterday counts come from the full ~40k-item history; they're precomputed
+  // once per history refresh (refreshHistoryDerived) so this 30s-on-every-page update is O(1).
   const afterBadge = document.getElementById("navAfterBadge");
   if (afterBadge) {
-    const n = state.afterMarket.items.length;
+    const n = state.history.afterCount || 0;
     afterBadge.hidden = n === 0;
     afterBadge.textContent = String(n);
   }
   const ydayBadge = document.getElementById("navYdayBadge");
   if (ydayBadge) {
-    // Count items from prior trading days only (today doesn't belong on "Yesterday")
-    const days = state.history.tradingDays || [];
-    const todayStr = days[0] || "";
-    let n = 0;
-    for (const it of state.history.items) {
-      const d = (it.sort_date || "").slice(0, 10);
-      if (d && d !== todayStr) n++;
-    }
+    const n = state.history.ydayPriorCount || 0;
     ydayBadge.hidden = n === 0;
     ydayBadge.textContent = String(n);
   }
@@ -342,19 +345,49 @@ function formatDayHeading(yyyymmdd, isToday) {
   return isToday ? `Today · ${short}` : short;
 }
 
+// Map a calendar date ("YYYY-MM-DD") to the NSE session it belongs to: weekdays map
+// to themselves; Saturday/Sunday fold back to that week's Friday. NSE is shut on
+// weekends, but companies still file then — folding keeps those filings visible
+// (under Friday) without ever rendering a weekend as its own trading day.
+// Memoized: ~one entry per distinct calendar date, so scanning the ~40k-item history
+// costs a Map lookup per item instead of a Date allocation per item.
+const _sessionDayCache = new Map();
+function sessionDayOf(yyyymmdd) {
+  if (!yyyymmdd || yyyymmdd.length < 10) return yyyymmdd || "";
+  const cached = _sessionDayCache.get(yyyymmdd);
+  if (cached !== undefined) return cached;
+  const d = new Date(`${yyyymmdd}T12:00:00Z`);   // noon UTC: immune to TZ/DST date drift
+  if (Number.isNaN(d.getTime())) return yyyymmdd;
+  const dow = d.getUTCDay();                      // 0=Sun … 6=Sat
+  if (dow === 6) d.setUTCDate(d.getUTCDate() - 1);       // Sat -> Fri
+  else if (dow === 0) d.setUTCDate(d.getUTCDate() - 2);  // Sun -> Fri
+  const out = d.toISOString().slice(0, 10);
+  _sessionDayCache.set(yyyymmdd, out);
+  return out;
+}
+
+// Unique session days present in `items` (weekend filings folded to Friday), newest first.
+function sessionDaysOf(items) {
+  const seen = new Set();
+  for (const it of items) {
+    const sd = sessionDayOf((it.sort_date || "").slice(0, 10));
+    if (sd) seen.add(sd);
+  }
+  return [...seen].sort().reverse();
+}
+
+// Mirror of backend poll_live_news.is_after_market: filing timestamp HH:MM (IST) >= 15:30.
+function isAfterMarket(sortDate) {
+  return !!sortDate && sortDate.length >= 16 && sortDate.slice(11, 16) >= AFTER_MARKET_CUTOFF;
+}
+
 function renderAfterMarketPage() {
   const view = document.getElementById("indView");
-  const items = state.afterMarket.items || [];
-  const tradingDays = (state.afterMarket.tradingDays || []).slice();
-  // Defensive: derive trading_days from items if the file omitted them
-  if (tradingDays.length === 0 && items.length) {
-    const seen = new Set();
-    for (const it of items) {
-      const d = (it.sort_date || "").slice(0, 10);
-      if (d) seen.add(d);
-    }
-    tradingDays.push(...[...seen].sort().reverse());
-  }
+  // After-market = the >=15:30 IST subset of the append-only history feed. Deriving
+  // it here (instead of from a separate rolling file) gives the full retention the
+  // history archive already has — every trading day, not a 14-day window.
+  const items = (state.history.items || []).filter((it) => isAfterMarket(it.sort_date));
+  const tradingDays = sessionDaysOf(items);
   const todayStr = tradingDays[0] || "";
 
   // Default selection to the most recent day; reset if stale
@@ -363,8 +396,8 @@ function renderAfterMarketPage() {
   }
   const selectedDay = state.afterMarket.selectedDay;
 
-  const updated = state.afterMarket.updatedAt
-    ? formatTime12h(state.afterMarket.updatedAt.slice(11, 16))
+  const updated = state.history.updatedAt
+    ? formatTime12h(state.history.updatedAt.slice(11, 16))
     : (state.live.polledAt ? formatTime12h(state.live.polledAt.slice(11, 16)) : "—");
   const marketState = currentMarketStateIST();
   const marketLabel = {
@@ -377,12 +410,12 @@ function renderAfterMarketPage() {
   const countByDay = new Map();
   for (const day of tradingDays) countByDay.set(day, 0);
   for (const it of items) {
-    const d = (it.sort_date || "").slice(0, 10);
+    const d = sessionDayOf((it.sort_date || "").slice(0, 10));
     if (countByDay.has(d)) countByDay.set(d, countByDay.get(d) + 1);
   }
 
   // Industry roll-up for the *selected* day
-  const dayItems = items.filter((it) => (it.sort_date || "").slice(0, 10) === selectedDay);
+  const dayItems = items.filter((it) => sessionDayOf((it.sort_date || "").slice(0, 10)) === selectedDay);
   const byIndustry = new Map();
   const companiesByIndustry = new Map();
   for (const it of dayItems) {
@@ -496,7 +529,7 @@ function renderAfterMarketPage() {
           <span class="news-meta-value">${esc(updated)} IST</span>
         </div>
         <div class="news-meta-row">
-          <span class="news-meta-label">In window</span>
+          <span class="news-meta-label">Days</span>
           <span class="news-meta-value">${INT.format(tradingDays.length)} day${tradingDays.length === 1 ? "" : "s"}</span>
         </div>
       </aside>
@@ -559,16 +592,8 @@ function renderAfterMarketPage() {
 function renderYesterdayPage() {
   const view = document.getElementById("indView");
   const items = state.history.items || [];
-  const tradingDays = (state.history.tradingDays || []).slice();
-  // Defensive: derive trading_days from items if the file omitted them
-  if (tradingDays.length === 0 && items.length) {
-    const seen = new Set();
-    for (const it of items) {
-      const d = (it.sort_date || "").slice(0, 10);
-      if (d) seen.add(d);
-    }
-    tradingDays.push(...[...seen].sort().reverse());
-  }
+  // Fold weekend filings into the preceding Friday so no Sat/Sun shows as its own day.
+  const tradingDays = sessionDaysOf(items);
   const todayStr = tradingDays[0] || "";
   // For the "Yesterday" page, prefer the second-most-recent day on first land
   const defaultDay = tradingDays.length > 1 ? tradingDays[1] : todayStr;
@@ -591,11 +616,11 @@ function renderYesterdayPage() {
   const countByDay = new Map();
   for (const day of tradingDays) countByDay.set(day, 0);
   for (const it of items) {
-    const d = (it.sort_date || "").slice(0, 10);
+    const d = sessionDayOf((it.sort_date || "").slice(0, 10));
     if (countByDay.has(d)) countByDay.set(d, countByDay.get(d) + 1);
   }
 
-  const dayItems = items.filter((it) => (it.sort_date || "").slice(0, 10) === selectedDay);
+  const dayItems = items.filter((it) => sessionDayOf((it.sort_date || "").slice(0, 10)) === selectedDay);
   const byIndustry = new Map();
   const companiesByIndustry = new Map();
   for (const it of dayItems) {

@@ -14,8 +14,7 @@ It reuses the live poller's exact normalisation + merge logic, so backfilled
 items are byte-shaped identically to live-polled ones (same industry_slug from
 the current industries.json, same dedup-by-seq_id semantics).
 
-    _news_history.json      append-only archive (Yesterday tab)  — every day kept
-    _after_market_news.json rolling 14-day, sort_date >= 15:30 IST (After-Market)
+    _news_history.json      append-only archive (Yesterday + After-Market tabs) — every day kept
     _live_news.json         today's feed, capped (News tab)
 
 Usage:
@@ -44,7 +43,6 @@ sys.path.insert(0, str(ROOT / "scripts"))
 
 # poll_live_news.py is a tracked, stdlib+requests-only module — safe to import.
 from poll_live_news import (  # noqa: E402
-    DEFAULT_AFTER_MARKET_OUT,
     DEFAULT_HISTORY_OUT,
     DEFAULT_OUT,
     HEADERS,
@@ -53,7 +51,6 @@ from poll_live_news import (  # noqa: E402
     load_stock_map,
     market_state,
     normalise,
-    update_after_market,
     update_history,
 )
 
@@ -124,11 +121,9 @@ def main() -> int:
             prev_hist_seqs = set()
     n_new = sum(1 for it in norm if it["seq_id"] not in prev_hist_seqs)
 
-    # 1) Append-only history (Yesterday) — merges, keeps every day.
+    # 1) Append-only history (Yesterday + After-Market tabs) — merges, keeps every day.
     hist_total, hist_days = update_history(DEFAULT_HISTORY_OUT, norm, now)
-    # 2) After-Market — merges the >=15:30 subset, prunes to last 14 trading days.
-    am_total = update_after_market(DEFAULT_AFTER_MARKET_OUT, norm, now)
-    # 3) Live (News) — rebuild the feed from the healed history (capped).
+    # 2) Live (News) — rebuild the feed from the healed history (capped).
     # Use the most recent trading day that actually has announcements, not the
     # raw calendar "today": at the very start of a fresh IST day (pre-market)
     # today is empty, and an empty News desk reads as broken. Showing the latest
@@ -151,7 +146,7 @@ def main() -> int:
     }, ensure_ascii=False, indent=2))
 
     print(f"[backfill] history={hist_total} items / {len(hist_days)} days | "
-          f"after_market={am_total} | live_today={len(today_items)} | new_to_history={n_new}")
+          f"live_today={len(today_items)} | new_to_history={n_new}")
     return 0 if n_new else 1
 
 

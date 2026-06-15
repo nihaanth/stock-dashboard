@@ -9,7 +9,7 @@ slug "media-amp-amp-...-entertainment"). After the extractor fix and the
 industries rebuild, those slugs no longer exist in industries.json, so old
 items in the append-only archives would render raw slugs and dead links.
 
-For each of _news_history.json, _after_market_news.json, _live_news.json:
+For each of _news_history.json, _live_news.json:
   - rewrite each item's industry_slug + name from the rebuilt stock_index
     (matched by symbol; items whose symbol left the universe are untouched)
   - collapse stacked HTML escapes in sm_name / desc
@@ -27,7 +27,6 @@ ROOT = Path(__file__).resolve().parent.parent
 INDUSTRIES_INDEX = ROOT / "frontdesign" / "data" / "industries" / "industries.json"
 NEWS_FILES = [
     ROOT / "frontdesign" / "data" / "_news_history.json",
-    ROOT / "frontdesign" / "data" / "_after_market_news.json",
     ROOT / "frontdesign" / "data" / "_live_news.json",
 ]
 

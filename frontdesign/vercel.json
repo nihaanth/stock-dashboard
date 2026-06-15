@@ -24,12 +24,6 @@
       ]
     },
     {
-      "source": "/data/_after_market_news.json",
-      "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=30, s-maxage=30" }
-      ]
-    },
-    {
       "source": "/data/_news_history.json",
       "headers": [
         { "key": "Cache-Control", "value": "public, max-age=60, s-maxage=60" }

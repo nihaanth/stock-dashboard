@@ -32,7 +32,6 @@ SLEEP_CAP_SEC="${SLEEP_CAP_SEC:-16200}"
 MIN_SLEEP_SEC="${MIN_SLEEP_SEC:-60}"
 
 FILES=(frontdesign/data/_live_news.json
-       frontdesign/data/_after_market_news.json
        frontdesign/data/_news_history.json)
 
 if [ -n "${GITHUB_ACTIONS:-}" ]; then
