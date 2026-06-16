@@ -1,10 +1,21 @@
 {
-  "polled_at": "2026-06-16T08:39:02+05:30",
+  "polled_at": "2026-06-16T09:00:10+05:30",
   "trading_day": "2026-06-16",
-  "market_state": "closed",
+  "market_state": "preopen",
   "n_new_this_poll": 1,
-  "n_total": 1,
+  "n_total": 2,
   "items": [
+    {
+      "seq_id": 106663999,
+      "symbol": "AFFLE",
+      "industry_slug": "advertising-agencies",
+      "name": "Affle 3i Limited",
+      "sort_date": "2026-06-16 08:57:19",
+      "an_dt": "16-Jun-2026 08:57:19",
+      "desc": "Press Release",
+      "sm_name": "Affle 3i Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AFFLE_16062026085352_Press_release_16062026.pdf"
+    },
     {
       "seq_id": 106663998,
       "symbol": "TCS",
