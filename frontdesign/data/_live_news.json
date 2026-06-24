@@ -1,10 +1,32 @@
 {
-  "polled_at": "2026-06-24T08:36:05+05:30",
+  "polled_at": "2026-06-24T09:00:12+05:30",
   "trading_day": "2026-06-24",
-  "market_state": "closed",
-  "n_new_this_poll": 1,
-  "n_total": 5,
+  "market_state": "preopen",
+  "n_new_this_poll": 2,
+  "n_total": 7,
   "items": [
+    {
+      "seq_id": 106671808,
+      "symbol": "INNOVISION",
+      "industry_slug": "staffing-employment-services",
+      "name": "INNOVISION LIMITED",
+      "sort_date": "2026-06-24 08:59:26",
+      "an_dt": "24-Jun-2026 08:59:26",
+      "desc": "Clarification - Financial Results",
+      "sm_name": "Innovision Limited",
+      "attchmntFile": "-"
+    },
+    {
+      "seq_id": 106671806,
+      "symbol": "SHILPAMED",
+      "industry_slug": "pharmaceuticals",
+      "name": "Shilpa Medicare Limited",
+      "sort_date": "2026-06-24 08:57:28",
+      "an_dt": "24-Jun-2026 08:57:28",
+      "desc": "Press Release",
+      "sm_name": "Shilpa Medicare Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHILPAMED_24062026085455_Press_release.pdf"
+    },
     {
       "seq_id": 106671802,
       "symbol": "BIOCON",
