@@ -1,10 +1,32 @@
 {
-  "polled_at": "2026-06-29T11:58:51+05:30",
+  "polled_at": "2026-06-29T12:01:52+05:30",
   "trading_day": "2026-06-29",
   "market_state": "open",
-  "n_new_this_poll": 1,
-  "n_total": 46,
+  "n_new_this_poll": 2,
+  "n_total": 48,
   "items": [
+    {
+      "seq_id": 106679103,
+      "symbol": "TIL",
+      "industry_slug": "engineering",
+      "name": "TIL Limited",
+      "sort_date": "2026-06-29 12:01:05",
+      "an_dt": "29-Jun-2026 12:01:05",
+      "desc": "Trading Window",
+      "sm_name": "TIL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIL_29062026120033_ClosureOfTradingWindowJune2026.pdf"
+    },
+    {
+      "seq_id": 106679102,
+      "symbol": "SOLARINDS",
+      "industry_slug": "chemicals-speciality",
+      "name": "Solar Industries India Limited",
+      "sort_date": "2026-06-29 11:59:31",
+      "an_dt": "29-Jun-2026 11:59:31",
+      "desc": "Record Date",
+      "sm_name": "Solar Industries India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SOLARINDS_29062026115516_BookClosureIntimation.pdf"
+    },
     {
       "seq_id": 106679099,
       "symbol": "ALKEM",
