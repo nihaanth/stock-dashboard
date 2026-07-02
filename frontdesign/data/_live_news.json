@@ -1,10 +1,21 @@
 {
-  "polled_at": "2026-07-02T08:54:09+05:30",
+  "polled_at": "2026-07-02T09:03:12+05:30",
   "trading_day": "2026-07-02",
-  "market_state": "closed",
+  "market_state": "preopen",
   "n_new_this_poll": 1,
-  "n_total": 5,
+  "n_total": 6,
   "items": [
+    {
+      "seq_id": 106684050,
+      "symbol": "TVSMOTOR",
+      "industry_slug": "automobiles-2-and-3-wheelers",
+      "name": "TVS Motor Company Limited",
+      "sort_date": "2026-07-02 09:00:10",
+      "an_dt": "02-Jul-2026 09:00:10",
+      "desc": "Monthly Business Updates",
+      "sm_name": "TVS Motor Company Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TVSMOTOR_02072026085623_NSEBSESalesupdate_sd.pdf"
+    },
     {
       "seq_id": 106684049,
       "symbol": "BAJAJ-AUTO",
