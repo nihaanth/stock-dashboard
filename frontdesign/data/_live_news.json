@@ -1,10 +1,32 @@
 {
-  "polled_at": "2026-08-04T08:30:00+05:30",
+  "polled_at": "2026-08-04T09:00:10+05:30",
   "trading_day": "2026-08-04",
-  "market_state": "closed",
-  "n_new_this_poll": 3,
-  "n_total": 4,
+  "market_state": "preopen",
+  "n_new_this_poll": 2,
+  "n_total": 6,
   "items": [
+    {
+      "seq_id": 106723192,
+      "symbol": "CIPLA",
+      "industry_slug": "pharmaceuticals",
+      "name": "Cipla Limited",
+      "sort_date": "2026-08-04 08:57:53",
+      "an_dt": "04-Aug-2026 08:57:53",
+      "desc": "General Updates",
+      "sm_name": "Cipla Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CIPLA_04082026085728_SE_Intimation-US_FDA_EIR04082026.pdf"
+    },
+    {
+      "seq_id": 106723191,
+      "symbol": "UPL",
+      "industry_slug": "agricultural-inputs",
+      "name": "UPL Limited",
+      "sort_date": "2026-08-04 08:57:24",
+      "an_dt": "04-Aug-2026 08:57:24",
+      "desc": "Updates",
+      "sm_name": "UPL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/UPL_04082026085707_update.pdf"
+    },
     {
       "seq_id": 106723165,
       "symbol": "KDDL",
