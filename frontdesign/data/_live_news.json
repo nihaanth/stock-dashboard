@@ -1,10 +1,21 @@
 {
-  "polled_at": "2026-08-04T09:00:10+05:30",
+  "polled_at": "2026-08-04T09:21:17+05:30",
   "trading_day": "2026-08-04",
-  "market_state": "preopen",
-  "n_new_this_poll": 2,
-  "n_total": 6,
+  "market_state": "open",
+  "n_new_this_poll": 1,
+  "n_total": 7,
   "items": [
+    {
+      "seq_id": 106723195,
+      "symbol": "SYSTMTXC",
+      "industry_slug": "capital-markets",
+      "name": "Systematix Corporate Services Limited",
+      "sort_date": "2026-08-04 09:18:58",
+      "an_dt": "04-Aug-2026 09:18:58",
+      "desc": "Resignation of Director/KMP/SMP",
+      "sm_name": "Systematix Corporate Services Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SYSTMTXC_ROID_94318_KMP_Doc.zip"
+    },
     {
       "seq_id": 106723192,
       "symbol": "CIPLA",
