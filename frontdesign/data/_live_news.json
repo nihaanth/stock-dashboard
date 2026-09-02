@@ -1,10 +1,21 @@
 {
-  "polled_at": "2026-09-02T08:57:10+05:30",
+  "polled_at": "2026-09-02T09:12:16+05:30",
   "trading_day": "2026-09-02",
-  "market_state": "closed",
-  "n_new_this_poll": 2,
-  "n_total": 7,
+  "market_state": "preopen",
+  "n_new_this_poll": 1,
+  "n_total": 8,
   "items": [
+    {
+      "seq_id": 106765440,
+      "symbol": "CGCL",
+      "industry_slug": "credit-services",
+      "name": "Capri Global Capital Limited",
+      "sort_date": "2026-09-02 09:10:26",
+      "an_dt": "02-Sep-2026 09:10:26",
+      "desc": "Press Release",
+      "sm_name": "Capri Global Capital Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CGCL_02092026091016_Intimation_PR_GMTN_FINAL.pdf"
+    },
     {
       "seq_id": 106765439,
       "symbol": "BEML",
