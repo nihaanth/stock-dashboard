@@ -1,10 +1,32 @@
 {
-  "polled_at": "2026-09-02T08:39:05+05:30",
+  "polled_at": "2026-09-02T08:57:10+05:30",
   "trading_day": "2026-09-02",
   "market_state": "closed",
-  "n_new_this_poll": 1,
-  "n_total": 5,
+  "n_new_this_poll": 2,
+  "n_total": 7,
   "items": [
+    {
+      "seq_id": 106765439,
+      "symbol": "BEML",
+      "industry_slug": "engineering",
+      "name": "BEML Limited",
+      "sort_date": "2026-09-02 08:56:49",
+      "an_dt": "02-Sep-2026 08:56:49",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "BEML Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BEML_02092026085606_order_0209_signed.pdf"
+    },
+    {
+      "seq_id": 106765438,
+      "symbol": "SMSPHARMA",
+      "industry_slug": "pharmaceuticals",
+      "name": "SMS Pharmaceuticals Limited",
+      "sort_date": "2026-09-02 08:55:05",
+      "an_dt": "02-Sep-2026 08:55:05",
+      "desc": "Credit Rating",
+      "sm_name": "SMS Pharmaceuticals Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SMSPHARMA_02092026085403_Rating_SE.pdf"
+    },
     {
       "seq_id": 106765437,
       "symbol": "ADANIPORTS",
