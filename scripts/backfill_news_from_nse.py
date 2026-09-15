@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Heal the dashboard news files by fetching a date RANGE from the NSE
+Heal the news archive by fetching a date RANGE from the NSE
 corporate-announcements API and merging it in.
 
 Why this exists:
@@ -8,14 +8,15 @@ Why this exists:
     Any missed poll — a weekend (the poller treats Sat/Sun as "closed"),
     a dropped GitHub Actions run, or a wedged repo — leaves a PERMANENT gap,
     because the poller never re-fetches a past day. This backfill closes such
-    gaps over an arbitrary range and re-derives all three front-end files.
+    gaps over an arbitrary range and re-derives the front-end files.
 
-It reuses the live poller's exact normalisation + merge logic, so backfilled
-items are byte-shaped identically to live-polled ones (same industry_slug from
-the current industries.json, same dedup-by-seq_id semantics).
+It reuses the live poller's exact normalisation and the shared archive writer
+(scripts/news_archive.py), so backfilled items are shaped identically to
+live-polled ones (same industry_slug from the current industries.json, same
+dedup-by-seq_id semantics).
 
-    _news_history.json      append-only archive (Yesterday + After-Market tabs) — every day kept
-    _live_news.json         today's feed, capped (News tab)
+    frontdesign/data/news/<day>.json + index.json   append-only archive (After-Market + Yesterday tabs)
+    frontdesign/data/_live_news.json                latest day's feed, capped (News tab)
 
 Usage:
     python scripts/backfill_news_from_nse.py [--days 9]
@@ -23,9 +24,9 @@ Usage:
     python scripts/backfill_news_from_nse.py --snapshot /tmp/nse_5day_raw.json
 
 Exit codes (so a scheduler can gate the git commit and avoid timestamp-only churn):
-    0  new items were added to history (caller should commit + push)
+    0  new items were added to the archive (caller should commit + push)
     1  no new items (files unchanged except timestamps — caller should skip commit)
-    2  fatal (NSE fetch failed / returned nothing)
+    2  fatal (NSE fetch failed / returned nothing / a feed file does not parse)
 """
 from __future__ import annotations
 
@@ -43,7 +44,6 @@ sys.path.insert(0, str(ROOT / "scripts"))
 
 # poll_live_news.py is a tracked, stdlib+requests-only module — safe to import.
 from poll_live_news import (  # noqa: E402
-    DEFAULT_HISTORY_OUT,
     DEFAULT_OUT,
     HEADERS,
     IST,
@@ -51,8 +51,8 @@ from poll_live_news import (  # noqa: E402
     load_stock_map,
     market_state,
     normalise,
-    update_history,
 )
+from news_archive import ARCHIVE_DIR, load_day, update_archive  # noqa: E402
 
 MAX_LIVE_ITEMS = 1000
 
@@ -82,6 +82,8 @@ def main() -> int:
     ap.add_argument("--from", dest="frm", help="from_date DD-MM-YYYY (overrides --days)")
     ap.add_argument("--to", dest="to", help="to_date DD-MM-YYYY (default today)")
     ap.add_argument("--snapshot", type=Path, help="use a saved NSE JSON array instead of fetching")
+    ap.add_argument("--archive-dir", type=Path, default=ARCHIVE_DIR)
+    ap.add_argument("--live-out", type=Path, default=DEFAULT_OUT)
     args = ap.parse_args()
 
     now = datetime.now(IST)
@@ -110,33 +112,22 @@ def main() -> int:
             norm.append(n)
     print(f"[backfill] {len(norm)} universe-filtered, normalised items")
 
-    # How many of these are genuinely NEW to the history archive? Used to gate
-    # the caller's commit so a no-op run doesn't churn timestamps into git.
-    prev_hist_seqs: set[int] = set()
-    if DEFAULT_HISTORY_OUT.exists():
-        try:
-            prev = json.loads(DEFAULT_HISTORY_OUT.read_text())
-            prev_hist_seqs = {int(it["seq_id"]) for it in prev.get("items", []) if "seq_id" in it}
-        except (json.JSONDecodeError, OSError, ValueError, KeyError):
-            prev_hist_seqs = set()
-    n_new = sum(1 for it in norm if it["seq_id"] not in prev_hist_seqs)
+    # 1) Append-only archive (After-Market + Yesterday tabs) — merges per day, keeps every day.
+    #    n_added gates the caller's commit so a no-op run doesn't churn timestamps into git.
+    archive = update_archive(norm, now, args.archive_dir)
 
-    # 1) Append-only history (Yesterday + After-Market tabs) — merges, keeps every day.
-    hist_total, hist_days = update_history(DEFAULT_HISTORY_OUT, norm, now)
-    # 2) Live (News) — rebuild the feed from the healed history (capped).
-    # Use the most recent trading day that actually has announcements, not the
-    # raw calendar "today": at the very start of a fresh IST day (pre-market)
-    # today is empty, and an empty News desk reads as broken. Showing the latest
+    # 2) Live (News) — rebuild the feed from the healed archive (capped).
+    # Use the most recent day that actually has announcements, not the raw
+    # calendar "today": at the very start of a fresh IST day (pre-market) today
+    # is empty, and an empty News desk reads as broken. Showing the latest
     # populated day keeps the feed meaningful; the live poller rolls it over to
     # the new day on its own once that day's filings start arriving.
-    hist = json.loads(DEFAULT_HISTORY_OUT.read_text())
-    days = sorted({(it.get("sort_date") or "")[:10]
-                   for it in hist["items"] if it.get("sort_date")}, reverse=True)
-    latest_day = days[0] if days else now.strftime("%Y-%m-%d")
-    today_items = [it for it in hist["items"] if (it.get("sort_date") or "")[:10] == latest_day]
+    latest_day = archive.days[0] if archive.days else now.strftime("%Y-%m-%d")
+    today_items = load_day(args.archive_dir, latest_day)
     today_items.sort(key=lambda x: x.get("sort_date") or "", reverse=True)
     today_items = today_items[:MAX_LIVE_ITEMS]
-    DEFAULT_OUT.write_text(json.dumps({
+    args.live_out.parent.mkdir(parents=True, exist_ok=True)
+    args.live_out.write_text(json.dumps({
         "polled_at": now.isoformat(timespec="seconds"),
         "trading_day": latest_day,
         "market_state": market_state(now),
@@ -145,9 +136,9 @@ def main() -> int:
         "items": today_items,
     }, ensure_ascii=False, indent=2))
 
-    print(f"[backfill] history={hist_total} items / {len(hist_days)} days | "
-          f"live_today={len(today_items)} | new_to_history={n_new}")
-    return 0 if n_new else 1
+    print(f"[backfill] archive={archive.n_total} items / {len(archive.days)} days | "
+          f"live_{latest_day}={len(today_items)} | new_to_archive={archive.n_added}")
+    return 0 if archive.n_added else 1
 
 
 if __name__ == "__main__":

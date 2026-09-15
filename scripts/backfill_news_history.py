@@ -1,17 +1,20 @@
 #!/usr/bin/env python3
 """
-Backfill frontdesign/data/_news_history.json from per-stock JSON archives.
+Seed the day-sharded news archive (frontdesign/data/news/) from the per-stock
+JSON archives.
 
 Per-stock files at frontdesign/data/industries/<slug>/<SYMBOL>.json carry a
 news[] array covering ~30-90 days, rebuilt nightly from the webarchive by
-scripts/build_industry_folders.py. The aggregated _news_history.json was only
-introduced today, so historical days are sparse (after-market items only).
-This script walks the per-stock files, normalises each news entry to the
-live-ticker shape, and merges into the history file using (symbol, sort_date)
-as the dedup key.
+scripts/build_industry_folders.py. This script walks them, normalises each
+entry to the live-ticker shape (with a synthetic negative seq_id, since
+webarchive rows may predate seq_id capture) and merges in whatever the archive
+does not already hold, using (symbol, sort_date) as the dedup key.
+
+For disaster recovery use scripts/recover_news_archive.py instead: it rebuilds
+the archive from git history. This script is for seeding from per-stock data.
 
 Usage:
-    python scripts/backfill_news_history.py [--dry-run] [--since YYYY-MM-DD]
+    python scripts/backfill_news_history.py [--dry-run] [--since YYYY-MM-DD] [--archive-dir DIR]
 """
 from __future__ import annotations
 
@@ -19,7 +22,6 @@ import argparse
 import json
 import sys
 import zlib
-from collections import Counter
 from datetime import datetime
 from pathlib import Path
 
@@ -28,10 +30,12 @@ try:
 except ImportError:
     from backports.zoneinfo import ZoneInfo  # type: ignore
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from news_archive import ARCHIVE_DIR, CorruptFeedError, day_of, load_day, update_archive  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 INDUSTRIES_DIR = ROOT / "frontdesign" / "data" / "industries"
 INDUSTRIES_INDEX = INDUSTRIES_DIR / "industries.json"
-DEFAULT_OUT = ROOT / "frontdesign" / "data" / "_news_history.json"
 IST = ZoneInfo("Asia/Kolkata")
 
 SKIP_FILES = {"industries.json", "index.json"}
@@ -81,30 +85,11 @@ def iter_per_stock_files():
             yield path
 
 
-def load_history(out_path: Path) -> dict:
-    """Existing archive, or an empty one only if the file does not exist yet.
-
-    A file that exists but does not parse is an error, not an empty archive:
-    returning empty here would rewrite the archive with just the per-stock
-    items and lose everything else (docs/news-archive-wipes.md).
-    """
-    if not out_path.exists():
-        return {"updated_at": None, "trading_days": [], "n_total": 0, "items": []}
-    try:
-        data = json.loads(out_path.read_text())
-    except (json.JSONDecodeError, OSError, UnicodeDecodeError) as e:
-        raise SystemExit(f"{out_path} exists but is not valid JSON ({e}); "
-                         "refusing to overwrite it -- fix or restore it first")
-    if not isinstance(data, dict) or not isinstance(data.get("items"), list):
-        raise SystemExit(f"{out_path} has no items[] list; refusing to overwrite it")
-    return data
-
-
 def main() -> int:
     p = argparse.ArgumentParser()
-    p.add_argument("--out", type=Path, default=DEFAULT_OUT)
+    p.add_argument("--archive-dir", type=Path, default=ARCHIVE_DIR)
     p.add_argument("--dry-run", action="store_true",
-                   help="Compute merge but don't write the output file")
+                   help="Compute the merge but don't write anything")
     p.add_argument("--since", type=str, default=None,
                    help="Skip per-stock items with sort_date before YYYY-MM-DD")
     args = p.parse_args()
@@ -115,21 +100,9 @@ def main() -> int:
         return 2
 
     stock_map = load_stock_map()
-    history = load_history(args.out)
 
-    merged: list[dict] = list(history.get("items") or [])
-    existing_keys: set[tuple[str, str]] = {
-        (it.get("symbol"), it.get("sort_date"))
-        for it in merged
-        if it.get("symbol") and it.get("sort_date")
-    }
-
-    files_seen = 0
-    files_skipped = 0
-    items_seen = 0
-    added = 0
-    since = args.since
-
+    files_seen = files_skipped = items_seen = 0
+    candidates: dict[str, list[dict]] = {}
     for path in iter_per_stock_files():
         symbol = path.stem
         meta = stock_map.get(symbol)
@@ -141,52 +114,37 @@ def main() -> int:
             data = json.loads(path.read_text())
         except (json.JSONDecodeError, OSError):
             continue
-        news = data.get("news") or []
-        for it in news:
+        for it in data.get("news") or []:
             items_seen += 1
             sd = it.get("sort_date")
             if not sd:
                 continue
-            if since and sd[:10] < since:
+            if args.since and sd[:10] < args.since:
                 continue
-            key = (symbol, sd)
-            if key in existing_keys:
-                continue
-            merged.append(build_record(symbol, meta, it))
-            existing_keys.add(key)
-            added += 1
+            rec = build_record(symbol, meta, it)
+            candidates.setdefault(day_of(rec), []).append(rec)
 
-    merged.sort(key=lambda x: x.get("sort_date") or "", reverse=True)
+    try:
+        to_add: list[dict] = []
+        for day, recs in sorted(candidates.items()):
+            keys = {(x.get("symbol"), x.get("sort_date")) for x in load_day(args.archive_dir, day)}
+            for r in recs:
+                k = (r["symbol"], r["sort_date"])
+                if k in keys:
+                    continue
+                keys.add(k)
+                to_add.append(r)
+        print(f"backfill: {len(to_add)} new candidate items across {len(candidates)} days, "
+              f"files seen={files_seen} (skipped {files_skipped}), items seen={items_seen}")
+        if args.dry_run:
+            print("  (dry-run — no write)")
+            return 0
+        upd = update_archive(to_add, datetime.now(IST), args.archive_dir)
+    except CorruptFeedError as e:
+        print(e, file=sys.stderr)
+        return 2
 
-    trading_days: list[str] = []
-    seen_days: set[str] = set()
-    for it in merged:
-        d = (it.get("sort_date") or "")[:10]
-        if d and d not in seen_days:
-            seen_days.add(d)
-            trading_days.append(d)
-
-    now = datetime.now(IST)
-    payload = {
-        "updated_at": now.isoformat(timespec="seconds"),
-        "trading_days": trading_days,
-        "n_total": len(merged),
-        "items": merged,
-    }
-
-    day_counter = Counter((it.get("sort_date") or "")[:10] for it in merged)
-    top_days = day_counter.most_common(5)
-
-    print(f"backfill: +{added} items, {len(merged)} total, "
-          f"{len(trading_days)} days, files seen={files_seen} (skipped {files_skipped})")
-    print("  top 5 days:", ", ".join(f"{d}={n}" for d, n in top_days))
-
-    if args.dry_run:
-        print("  (dry-run — no write)")
-        return 0
-
-    args.out.parent.mkdir(parents=True, exist_ok=True)
-    args.out.write_text(json.dumps(payload, ensure_ascii=False, indent=2))
+    print(f"  +{upd.n_added} items, {upd.n_total} total over {len(upd.days)} days")
     return 0
 
 

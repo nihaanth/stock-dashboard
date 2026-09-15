@@ -1,20 +1,23 @@
 #!/usr/bin/env python3
 """
-Rebuild frontdesign/data/_news_history.json as the union of every version of
-the file that was ever committed.
+Rebuild the day-sharded news archive (frontdesign/data/news/) as the union of
+everything that was ever committed: every version of the legacy single-file
+archive (frontdesign/data/_news_history.json) in git history, plus whatever the
+current shards already hold.
 
 Why this works: the archive is append-only, so a committed version that is
-SMALLER than its predecessor is never data -- it is a wipe (see
-docs/news-archive-wipes.md for the race that caused seven of them in 2026).
-Everything the larger version held is still in git. The complete archive is
-therefore the union, by seq_id, of the last version before each shrink plus the
-current file. Newer versions win when the same seq_id appears twice, so items
-that were later re-slugged or un-escaped keep their newest form.
+SMALLER than its predecessor is never data -- it is a wipe (docs/news-archive.md
+describes the race that caused seven of them in 2026). Everything the larger
+version held is still in git. The complete archive is therefore the union, by
+seq_id, of the last version before each shrink plus the current data. Newer
+copies win when the same seq_id appears twice, so items that were later
+re-slugged or un-escaped keep their newest form. Merging into the shards goes
+through news_archive.update_archive, so nothing on disk can shrink.
 
 Usage (from the repository root):
-    python scripts/recover_news_history.py --dry-run      # report what would be restored
-    python scripts/recover_news_history.py                # rewrite the archive in place
-    python scripts/recover_news_history.py --ref origin/main --out /tmp/history.json
+    python scripts/recover_news_archive.py --dry-run      # report what would be restored
+    python scripts/recover_news_archive.py                # merge into the archive, rebuild the index
+    python scripts/recover_news_archive.py --ref origin/main --archive-dir /tmp/news
 """
 from __future__ import annotations
 
@@ -24,12 +27,20 @@ import subprocess
 import sys
 from datetime import datetime
 from pathlib import Path
-from zoneinfo import ZoneInfo
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from news_archive import (  # noqa: E402
+    ARCHIVE_DIR,
+    IST,
+    CorruptFeedError,
+    iter_all_items,
+    rebuild_index,
+    update_archive,
+)
 
 ROOT = Path(__file__).resolve().parent.parent
-HISTORY_REL = "frontdesign/data/_news_history.json"
+LEGACY_REL = "frontdesign/data/_news_history.json"
 INDUSTRIES_INDEX_REL = "frontdesign/data/industries/industries.json"
-IST = ZoneInfo("Asia/Kolkata")
 
 
 def git(*args: str, cwd: Path, input: str | None = None) -> str:
@@ -112,52 +123,48 @@ def remap_industry(items: list[dict], index_path: Path) -> int:
     return changed
 
 
-def build_payload(items: list[dict], now: datetime) -> dict:
-    trading_days: list[str] = []
-    seen: set[str] = set()
-    for it in items:
-        d = (it.get("sort_date") or "")[:10]
-        if d and d not in seen:
-            seen.add(d)
-            trading_days.append(d)
-    return {
-        "updated_at": now.isoformat(timespec="seconds"),
-        "trading_days": trading_days,
-        "n_total": len(items),
-        "items": items,
-    }
-
-
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--ref", default="HEAD", help="branch/ref whose history to walk (default HEAD)")
     ap.add_argument("--repo", type=Path, default=ROOT, help="repository root")
-    ap.add_argument("--out", type=Path, default=None,
-                    help=f"output path (default: {HISTORY_REL} inside --repo)")
+    ap.add_argument("--archive-dir", type=Path, default=None,
+                    help="archive directory (default: frontdesign/data/news inside --repo)")
     ap.add_argument("--dry-run", action="store_true", help="report only; write nothing")
     args = ap.parse_args(argv)
-    out = args.out or (args.repo / HISTORY_REL)
-
-    rows = committed_versions(args.ref, HISTORY_REL, args.repo)
-    if not rows:
-        print(f"no committed versions of {HISTORY_REL} on {args.ref}", file=sys.stderr)
-        return 2
-    picks = select_versions([r[3] for r in rows])
-    print(f"[recover] {len(rows)} commits touch {HISTORY_REL}; reading {len(picks)} versions")
+    archive_dir = args.archive_dir or (args.repo / "frontdesign" / "data" / "news")
 
     versions: list[list[dict]] = []
     labels: list[str] = []
-    work = args.repo / HISTORY_REL
-    if work.exists():
+
+    # Newest first: the current shards win over anything older.
+    try:
+        current = list(iter_all_items(archive_dir))
+    except CorruptFeedError as e:
+        print(f"[recover] {e}", file=sys.stderr)
+        return 2
+    if current:
+        versions.append(current)
+        labels.append(f"current archive ({archive_dir})")
+
+    legacy = args.repo / LEGACY_REL
+    if legacy.exists():
         try:
-            versions.append(parse_items(work.read_text()))
-            labels.append("working tree")
+            versions.append(parse_items(legacy.read_text()))
+            labels.append(f"working tree {LEGACY_REL}")
         except json.JSONDecodeError:
-            print("[recover] working-tree copy does not parse; ignoring it")
+            print(f"[recover] working-tree {LEGACY_REL} does not parse; ignoring it")
+
+    rows = committed_versions(args.ref, LEGACY_REL, args.repo)
+    picks = select_versions([r[3] for r in rows])
+    print(f"[recover] {len(rows)} commits touch {LEGACY_REL} on {args.ref}; reading {len(picks)} versions")
     for i in picks:
         sha, date, subject, size = rows[i]
-        versions.append(parse_items(git("show", f"{sha}:{HISTORY_REL}", cwd=args.repo)))
+        versions.append(parse_items(git("show", f"{sha}:{LEGACY_REL}", cwd=args.repo)))
         labels.append(f"{sha[:8]} {date[:16]} {size:>11,} B  {subject[:48]}")
+
+    if not versions:
+        print("[recover] nothing to recover from", file=sys.stderr)
+        return 2
 
     # Report what each version contributes, in merge order (newest first).
     seen: set[int] = set()
@@ -169,19 +176,26 @@ def main(argv: list[str] | None = None) -> int:
 
     merged = union_versions(versions)
     remapped = remap_industry(merged, args.repo / INDUSTRIES_INDEX_REL)
-    payload = build_payload(merged, datetime.now(IST))
-    days = payload["trading_days"]
-    text = json.dumps(payload, ensure_ascii=False, indent=2)
-    print(f"[recover] result: {len(merged):,} items over {len(days)} days "
-          f"({days[-1] if days else '-'} .. {days[0] if days else '-'}), "
-          f"{remapped:,} re-slugged, {len(text) / 1e6:.1f} MB")
+    days = sorted({(it.get("sort_date") or "")[:10] for it in merged if it.get("sort_date")})
+    size_mb = sum(len(json.dumps(it, ensure_ascii=False)) for it in merged) / 1e6
+    print(f"[recover] union: {len(merged):,} items over {len(days)} days "
+          f"({days[0] if days else '-'} .. {days[-1] if days else '-'}), "
+          f"{remapped:,} re-slugged, ~{size_mb:.1f} MB of items")
 
     if args.dry_run:
         print("[recover] dry-run: nothing written")
         return 0
-    out.parent.mkdir(parents=True, exist_ok=True)
-    out.write_text(text)
-    print(f"[recover] wrote {out}")
+    try:
+        now = datetime.now(IST)
+        upd = update_archive(merged, now, archive_dir)
+        idx = rebuild_index(archive_dir, now)
+    except CorruptFeedError as e:
+        print(f"[recover] {e}", file=sys.stderr)
+        return 2
+    print(f"[recover] archive now {idx['n_total']:,} items over {len(idx['days'])} days "
+          f"(+{upd.n_added:,} added, {len(upd.touched)} shards written) -> {archive_dir}")
+    if legacy.exists():
+        print(f"[recover] note: the legacy {LEGACY_REL} still exists; the front-end no longer reads it")
     return 0
 
 

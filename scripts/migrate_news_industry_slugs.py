@@ -7,9 +7,9 @@ Why: industry slugs/names used to be derived from a stock_master.json whose
 strings carried stacked HTML escapes ("Media &amp;amp;... Entertainment" ->
 slug "media-amp-amp-...-entertainment"). After the extractor fix and the
 industries rebuild, those slugs no longer exist in industries.json, so old
-items in the append-only archives would render raw slugs and dead links.
+items in the append-only archive would render raw slugs and dead links.
 
-For each of _news_history.json, _live_news.json:
+For _live_news.json and every day shard under frontdesign/data/news/:
   - rewrite each item's industry_slug + name from the rebuilt stock_index
     (matched by symbol; items whose symbol left the universe are untouched)
   - collapse stacked HTML escapes in sm_name / desc
@@ -19,16 +19,16 @@ Usage:
 """
 from __future__ import annotations
 
-import json
+import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from news_archive import ARCHIVE_DIR, list_days, read_json, shard_path, write_json  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 
 INDUSTRIES_INDEX = ROOT / "frontdesign" / "data" / "industries" / "industries.json"
-NEWS_FILES = [
-    ROOT / "frontdesign" / "data" / "_news_history.json",
-    ROOT / "frontdesign" / "data" / "_live_news.json",
-]
+LIVE_FILE = ROOT / "frontdesign" / "data" / "_live_news.json"
 
 
 def unescape_html_fixpoint(s: str) -> str:
@@ -42,7 +42,7 @@ def unescape_html_fixpoint(s: str) -> str:
 
 
 def main() -> None:
-    idx = json.loads(INDUSTRIES_INDEX.read_text())
+    idx = read_json(INDUSTRIES_INDEX)
     stock_map = {
         row["symbol"]: {"industry_slug": row["industry_slug"], "name": row.get("name")}
         for row in idx.get("stock_index", [])
@@ -50,11 +50,12 @@ def main() -> None:
     }
     print(f"[map] {len(stock_map)} symbols from {INDUSTRIES_INDEX.relative_to(ROOT)}")
 
-    for path in NEWS_FILES:
-        if not path.exists():
+    files = [LIVE_FILE] + [shard_path(ARCHIVE_DIR, d) for d in list_days(ARCHIVE_DIR)]
+    for path in files:
+        payload = read_json(path)
+        if payload is None:
             print(f"[skip] {path.relative_to(ROOT)} (missing)")
             continue
-        payload = json.loads(path.read_text())
         items = payload.get("items", [])
         remapped = unescaped = orphans = 0
         for it in items:
@@ -73,7 +74,8 @@ def main() -> None:
                     if clean != v:
                         it[k] = clean
                         unescaped += 1
-        path.write_text(json.dumps(payload, ensure_ascii=False, indent=2))
+        if remapped or unescaped:
+            write_json(path, payload)
         print(f"[done] {path.relative_to(ROOT)}: {len(items)} items, "
               f"{remapped} remapped, {unescaped} fields unescaped, {orphans} orphan symbols")
 

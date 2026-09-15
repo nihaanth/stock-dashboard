@@ -13,7 +13,7 @@
 #     push is rejected; we reset to main again and re-run the poll (it is
 #     idempotent: dedup by seq_id) instead of rebasing. A conflicted rebase that
 #     was silently ignored is exactly how _news_history.json got wiped seven
-#     times in 2026 (see docs/news-archive-wipes.md).
+#     times in 2026 (see docs/news-archive.md).
 #   * scripts/guard_news_files.py runs before every commit and refuses an
 #     archive that does not parse or that is smaller than the one in HEAD.
 #
@@ -50,8 +50,11 @@ MIN_SLEEP_SEC="${MIN_SLEEP_SEC:-60}"
 if [ -n "${GITHUB_ACTIONS:-}" ]; then NO_SYNC="${NO_SYNC:-0}"; else NO_SYNC="${NO_SYNC:-1}"; fi
 GUARD="${GUARD:-$HERE/../scripts/guard_news_files.py}"
 
-FILES=(frontdesign/data/_live_news.json
-       frontdesign/data/_news_history.json)
+# Everything the poller writes: today's live feed, and the day-sharded archive
+# (frontdesign/data/news/<day>.json + index.json). Staged with `git add -A` so a
+# brand-new day's shard (an untracked file) is picked up too.
+PATHS=(frontdesign/data/_live_news.json
+       frontdesign/data/news)
 
 if [ -n "${GITHUB_ACTIONS:-}" ]; then
   git config user.name  "stockbot-live[bot]"
@@ -70,19 +73,23 @@ sync_to_main() {
     echo "  sync: fetch of origin/main failed; keeping the current tree"; return 1
   fi
   git reset -q --hard FETCH_HEAD
+  git clean -fdq -- "${PATHS[@]}"   # drop untracked leftovers (e.g. a half-written new shard)
 }
 
 commit_and_push() {
   local attempt rc
   for attempt in 1 2 3; do
-    if git diff --quiet HEAD -- "${FILES[@]}"; then echo "  no diff; skip commit"; return 0; fi
-    if ! "$PY" "$GUARD" "${FILES[@]}"; then
+    git add -A -- "${PATHS[@]}"
+    if git diff --cached --quiet; then echo "  no diff; skip commit"; return 0; fi
+    if ! "$PY" "$GUARD" "${PATHS[@]}"; then
       echo "  guard refused the commit; discarding this cycle's files"
-      sync_to_main; return 1
+      git reset -q -- "${PATHS[@]}"; sync_to_main; return 1
     fi
-    if [ "$DRY_RUN" = "1" ]; then echo "  DRY_RUN: would commit ${FILES[*]}"; return 0; fi
-    git add "${FILES[@]}"
-    git commit -q -m "live: announcements $(TZ=Asia/Kolkata date +%H:%M)" || return 0
+    if [ "$DRY_RUN" = "1" ]; then
+      echo "  DRY_RUN: would commit $(git diff --cached --name-only | tr '\n' ' ')"
+      git reset -q -- "${PATHS[@]}"; return 0
+    fi
+    git commit -q -m "live: announcements $(TZ=Asia/Kolkata date +%H:%M)" || { git reset -q -- "${PATHS[@]}"; return 0; }
     if git push -q origin HEAD:main; then echo "  pushed (attempt $attempt)"; return 0; fi
     echo "  push rejected (attempt $attempt): main moved; re-syncing and re-merging this cycle"
     sync_to_main || return 1
