@@ -13,7 +13,9 @@ Usage:
 Exit codes:
     0  new items added this poll (wrapper should git-commit + push)
     1  no new items (wrapper should skip git operations)
-    2  fatal error (NSE 5xx, JSON parse, etc.)
+    2  fatal: industries index missing, or an existing feed file does not parse
+       (it is left untouched -- never rewritten from scratch)
+    NSE fetch failures currently return no items and therefore exit 1.
 """
 from __future__ import annotations
 
@@ -60,19 +62,44 @@ def load_stock_map() -> dict[str, dict]:
     return out
 
 
-def update_history(path: Path, fresh_items: list[dict], now: datetime) -> tuple[int, list[str]]:
+class CorruptFeedError(RuntimeError):
+    """A persisted feed file exists but cannot be parsed. It must never be overwritten."""
+
+
+def load_history_items(path: Path) -> list[dict]:
+    """Items of the append-only archive. Missing file -> []. Unparseable file -> raise.
+
+    Never fall back to an empty list here. Doing so is how the archive was wiped
+    seven times in 2026: a half-finished git rebase left conflict markers in the
+    file, the next poll parsed nothing, rewrote the file with one day of items
+    and pushed it (docs/news-archive-wipes.md). Failing closed costs one poll
+    cycle instead of the archive.
+    """
+    if not path.exists():
+        return []
+    try:
+        prev = json.loads(path.read_text())
+    except (json.JSONDecodeError, OSError, UnicodeDecodeError) as e:
+        raise CorruptFeedError(
+            f"{path} exists but is not valid JSON ({e}); refusing to overwrite it"
+        ) from e
+    items = prev.get("items") if isinstance(prev, dict) else None
+    if not isinstance(items, list):
+        raise CorruptFeedError(f"{path} has no items[] list; refusing to overwrite it")
+    return items
+
+
+def update_history(path: Path, fresh_items: list[dict], now: datetime,
+                   existing: list[dict] | None = None) -> tuple[int, list[str]]:
     """Maintain an append-only archive of every announcement we've ever seen.
 
-    Reads any existing file, merges in fresh_items (deduped by seq_id), keeps
+    Merges fresh_items into the existing archive (deduped by seq_id), keeps
     EVERY day (no pruning), and rewrites. Returns (n_items, trading_days_desc).
+    `existing` may be passed by callers that already loaded the archive;
+    otherwise it is read here, and a corrupt file raises CorruptFeedError.
     """
-    existing: list[dict] = []
-    if path.exists():
-        try:
-            prev = json.loads(path.read_text())
-            existing = prev.get("items", []) or []
-        except (json.JSONDecodeError, OSError):
-            existing = []
+    if existing is None:
+        existing = load_history_items(path)
 
     seen: set[int] = set()
     merged: list[dict] = []
@@ -111,13 +138,21 @@ def update_history(path: Path, fresh_items: list[dict], now: datetime) -> tuple[
 
 
 def load_previous(out_path: Path, trading_day: str) -> tuple[list[dict], set[int]]:
-    """Return (items_today, seen_seq_ids). Rotate if the file is from a prior day."""
+    """Return (items_today, seen_seq_ids). Rotate if the file is from a prior day.
+
+    A file that exists but does not parse raises CorruptFeedError rather than
+    being treated as empty: the caller must not rewrite it.
+    """
     if not out_path.exists():
         return [], set()
     try:
         prev = json.loads(out_path.read_text())
-    except (json.JSONDecodeError, OSError):
-        return [], set()
+    except (json.JSONDecodeError, OSError, UnicodeDecodeError) as e:
+        raise CorruptFeedError(
+            f"{out_path} exists but is not valid JSON ({e}); refusing to overwrite it"
+        ) from e
+    if not isinstance(prev, dict):
+        raise CorruptFeedError(f"{out_path} is not a JSON object; refusing to overwrite it")
     if prev.get("trading_day") != trading_day:
         # Different day — start fresh.
         return [], set()
@@ -207,7 +242,14 @@ def main() -> int:
     state = market_state(now)
 
     stock_map = load_stock_map()
-    prev_items, seen = load_previous(args.out, trading_day)
+    # Load BOTH persisted files before fetching or writing anything, so a corrupt
+    # file aborts the run with nothing touched (exit 2).
+    try:
+        prev_items, seen = load_previous(args.out, trading_day)
+        history_items = load_history_items(args.history_out)
+    except CorruptFeedError as e:
+        print(f"  {e}", file=sys.stderr)
+        return 2
 
     fresh = fetch_today(now)
     new_items: list[dict] = []
@@ -241,7 +283,7 @@ def main() -> int:
     args.out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text(json.dumps(payload, ensure_ascii=False, indent=2))
 
-    hist_total, hist_days = update_history(args.history_out, merged, now)
+    hist_total, hist_days = update_history(args.history_out, merged, now, existing=history_items)
 
     print(f"[poll] {now.isoformat(timespec='seconds')} state={state} "
           f"fetched={len(fresh)} new={len(new_items)} total={len(merged)} "

@@ -82,12 +82,22 @@ def iter_per_stock_files():
 
 
 def load_history(out_path: Path) -> dict:
+    """Existing archive, or an empty one only if the file does not exist yet.
+
+    A file that exists but does not parse is an error, not an empty archive:
+    returning empty here would rewrite the archive with just the per-stock
+    items and lose everything else (docs/news-archive-wipes.md).
+    """
     if not out_path.exists():
         return {"updated_at": None, "trading_days": [], "n_total": 0, "items": []}
     try:
-        return json.loads(out_path.read_text())
-    except (json.JSONDecodeError, OSError):
-        return {"updated_at": None, "trading_days": [], "n_total": 0, "items": []}
+        data = json.loads(out_path.read_text())
+    except (json.JSONDecodeError, OSError, UnicodeDecodeError) as e:
+        raise SystemExit(f"{out_path} exists but is not valid JSON ({e}); "
+                         "refusing to overwrite it -- fix or restore it first")
+    if not isinstance(data, dict) or not isinstance(data.get("items"), list):
+        raise SystemExit(f"{out_path} has no items[] list; refusing to overwrite it")
+    return data
 
 
 def main() -> int:
