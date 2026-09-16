@@ -95,7 +95,14 @@ python scripts/recover_news_archive.py --dry-run   # report what would be restor
 python scripts/recover_news_archive.py             # merge into the shards, rebuild the index
 ```
 
-It never shrinks a shard, so it is safe to re-run at any time. Two true gaps
+It never shrinks a shard, so it is safe to re-run at any time.
+
+Migration note: `frontdesign/data/_news_history.json` is no longer read or
+written by the code in this repository, but the poller that ran before this
+layout landed kept rewriting it, so it was left in place rather than deleted
+(deleting it made every poller commit a merge conflict). Once no old poller
+link is running any more, run the recovery once to fold whatever it captured
+into the shards, commit, and delete the file. Two true gaps
 remain, both from weeks when the poller was down and the next backfill only
 reached 14 days back: 3 to 17 July 2026 and 5 to 17 August 2026. A manual
 `python scripts/backfill_news_from_nse.py --from 03-07-2026 --to 17-07-2026`
