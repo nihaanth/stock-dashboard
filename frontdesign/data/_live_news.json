@@ -1,10 +1,21 @@
 {
-  "polled_at": "2026-09-17T02:21:39+05:30",
+  "polled_at": "2026-09-17T08:30:00+05:30",
   "trading_day": "2026-09-17",
   "market_state": "closed",
-  "n_new_this_poll": 0,
-  "n_total": 4,
+  "n_new_this_poll": 1,
+  "n_total": 5,
   "items": [
+    {
+      "seq_id": 106782667,
+      "symbol": "RAILTEL",
+      "industry_slug": "telecom-services",
+      "name": "RailTel Corporation of India Limited",
+      "sort_date": "2026-09-17 06:00:30",
+      "an_dt": "17-Sep-2026 06:00:30",
+      "desc": "Bagging/Receiving of orders/contracts",
+      "sm_name": "Railtel Corporation Of India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RAILTEL_17092026060020_Railtel_Order_Book_Company_Rep_160926.pdf"
+    },
     {
       "seq_id": 106782666,
       "symbol": "EICHERMOT",
