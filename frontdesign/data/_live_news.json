@@ -1,10 +1,32 @@
 {
-  "polled_at": "2026-09-17T14:20:36+05:30",
+  "polled_at": "2026-09-17T14:23:39+05:30",
   "trading_day": "2026-09-17",
   "market_state": "open",
-  "n_new_this_poll": 1,
-  "n_total": 76,
+  "n_new_this_poll": 2,
+  "n_total": 78,
   "items": [
+    {
+      "seq_id": 106783066,
+      "symbol": "LT",
+      "industry_slug": "engineering",
+      "name": "Larsen & Toubro Limited",
+      "sort_date": "2026-09-17 14:21:48",
+      "an_dt": "17-Sep-2026 14:21:48",
+      "desc": "Credit Rating",
+      "sm_name": "Larsen & Toubro Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PAM_17092026142102_ESGRating17092026.pdf"
+    },
+    {
+      "seq_id": 106783062,
+      "symbol": "IFCI",
+      "industry_slug": "financial-institution",
+      "name": "IFCI Limited",
+      "sort_date": "2026-09-17 14:19:50",
+      "an_dt": "17-Sep-2026 14:19:50",
+      "desc": "Copy of Newspaper Publication",
+      "sm_name": "IFCI Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/IFCI_17092026141943_STX_ADDENDUM_NP.pdf"
+    },
     {
       "seq_id": 106783060,
       "symbol": "GNFC",
