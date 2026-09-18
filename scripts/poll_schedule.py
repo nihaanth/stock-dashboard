@@ -2,9 +2,22 @@
 
 Pure, stdlib-only so the loop's timing policy is unit-testable. Windows are IST
 (Asia/Kolkata), Mon-Fri:
-    08:30-15:30  preopen + main session   -> poll every 180s
-    15:30-22:30  after-market filings      -> poll every 600s
+    08:30-15:30  preopen + main session   -> poll every 1200s
+    15:30-22:30  after-market filings      -> poll every 1800s
     otherwise / weekends                   -> stop
+
+The cadence is set by the deployment budget, not by how fast NSE publishes.
+Every poll that finds something new becomes a commit on main, and every push
+to main is one Vercel deployment; the free plan allows 100 a day. At the old
+180s/600s cadence the poller pushed 100 to 105 times a day and the site spent
+every afternoon rate-limited, refusing to deploy for 24 hours. These windows
+cap the poller at MAX_POLLS_PER_DAY (see below), which leaves room for the
+gap-backfill crons and for the occasional code change.
+
+Polling less often loses nothing: poll_live_news.py asks NSE for the whole of
+today on every call, and the archive dedups by seq_id, so a slower poll simply
+returns more new items at once. The cost is freshness -- an announcement shows
+up on the site up to one cadence later.
 
 CLI:
     python scripts/poll_schedule.py                ->  "<action> <cadence>"
@@ -23,8 +36,15 @@ IST = ZoneInfo("Asia/Kolkata")
 SESSION_START = dtime(8, 30)
 SESSION_END = dtime(15, 30)
 AFTER_MARKET_END = dtime(22, 30)
-MAIN_CADENCE_SEC = 180
-AFTER_MARKET_CADENCE_SEC = 600
+MAIN_CADENCE_SEC = 1200
+AFTER_MARKET_CADENCE_SEC = 1800
+
+# Vercel's free plan allows 100 deployments a day and each push to main is one.
+# MAX_POLLS_PER_DAY is the worst case for these windows: every poll finding
+# something new, every weekday. Keep it well under 100.
+MAX_POLLS_PER_DAY = (
+    (7 * 3600) // MAIN_CADENCE_SEC + (7 * 3600) // AFTER_MARKET_CADENCE_SEC
+)
 
 
 def session_plan(now: datetime) -> tuple[str, int]:
