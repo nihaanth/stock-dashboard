@@ -24,9 +24,15 @@
       ]
     },
     {
-      "source": "/data/_news_history.json",
+      "source": "/data/news/index.json",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=60, s-maxage=60" }
+        { "key": "Cache-Control", "value": "public, max-age=30, s-maxage=30" }
+      ]
+    },
+    {
+      "source": "/data/news/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=3600, s-maxage=3600" }
       ]
     },
     {

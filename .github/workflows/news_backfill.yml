@@ -2,17 +2,20 @@ name: news · NSE gap backfill (safety net)
 
 # scripts/poll_live_news.py fetches "today" only and poll_schedule.py STOPS on
 # weekends, so any missed run — a weekend, a dropped GitHub Actions schedule, or
-# a wedged repo — leaves a PERMANENT gap in _news_history / _live_news. This job
-# heals a trailing window by re-fetching that range from the
-# NSE API and merging via the poller's exact normalise/update_* logic
-# (scripts/backfill_news_from_nse.py — idempotent, dedup by seq_id, append-only
-# history). Vercel auto-deploys on push.
+# a wedged repo — leaves a PERMANENT gap in the day-sharded archive
+# (frontdesign/data/news/) and _live_news.json. This job heals a trailing window
+# by re-fetching that range from the NSE API and merging via the poller's exact
+# normalise logic and the shared archive writer (scripts/backfill_news_from_nse.py
+# — idempotent, dedup by seq_id, append-only). Vercel auto-deploys on push.
 #
-# Runs OUTSIDE the live poller's Mon-Fri 08:30-22:30 IST window (= 03:00-17:00
-# UTC) so the two never fight over _live_news.json, and crucially runs on
-# WEEKENDS, which the poller skips entirely. GitHub drops most scheduled runs, so
-# we fire redundantly and use a wide window: one delivered run heals up to ~14
-# days of gaps.
+# Scheduled OUTSIDE the live poller's Mon-Fri 08:30-22:30 IST window (= 03:00-
+# 17:00 UTC) and on WEEKENDS, which the poller skips. In practice GitHub delivers
+# these crons hours late (often ~05:00 UTC, mid-session), so this job DOES overlap
+# with a running poller link. That is safe only because both writers merge into
+# the current tip of main and push plain fast-forwards: a rejected push means
+# "re-run on the new tip", never "rebase" (see docs/news-archive.md).
+# GitHub drops most scheduled runs, so we fire redundantly and use a wide window:
+# one delivered run heals up to ~14 days of gaps.
 #
 #   0 18 * * *    ≈ 23:30 IST daily — post-session full-day heal (incl. weekends)
 #   0 1  * * *    ≈ 06:30 IST daily — pre-session overnight/late-filing catch-up
@@ -58,25 +61,33 @@ jobs:
 
       - name: Backfill from NSE, commit only if new items
         run: |
-          set +e
-          python scripts/backfill_news_from_nse.py --days "${{ github.event.inputs.days || '14' }}"
-          rc=$?
-          set -e
-          if [ "$rc" = "2" ]; then echo "fatal: NSE fetch failed"; exit 1; fi
-          if [ "$rc" = "1" ]; then echo "no new items — skipping commit (avoids timestamp churn)"; exit 0; fi
-          # rc == 0: new items were healed into history
           git config user.name  "stockbot-live[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          FILES="frontdesign/data/_news_history.json frontdesign/data/_live_news.json"
-          if git diff --quiet HEAD -- $FILES; then
-            echo "no file delta despite new items — skipping"; exit 0
-          fi
-          git add $FILES
-          git commit -m "news: scheduled NSE gap backfill ($(TZ=Asia/Kolkata date +%Y-%m-%d\ %H:%M) IST)"
-          git pull --rebase --autostash origin main || true
-          for i in 1 2 3; do
-            if git push origin HEAD:main; then echo "pushed (attempt $i)"; exit 0; fi
-            echo "push failed; rebase + retry"
-            git pull --rebase --autostash origin main || true
+          PATHS="frontdesign/data/_live_news.json frontdesign/data/news"
+          for attempt in 1 2 3; do
+            # Merge into the CURRENT tip of main: the live poller may have pushed
+            # since checkout (or since the previous attempt). Never rebase our
+            # commit onto it -- a conflicted, ignored rebase is how the archive
+            # got wiped (docs/news-archive.md). Re-running is cheap and
+            # idempotent (dedup by seq_id).
+            git fetch -q origin main
+            git reset -q --hard FETCH_HEAD
+            git clean -fdq -- $PATHS
+            set +e
+            python scripts/backfill_news_from_nse.py --days "${{ github.event.inputs.days || '14' }}"
+            rc=$?
+            set -e
+            if [ "$rc" = "2" ]; then echo "fatal: backfill failed (NSE fetch, or a feed file that does not parse)"; exit 1; fi
+            if [ "$rc" = "1" ]; then echo "no new items — skipping commit (avoids timestamp churn)"; exit 0; fi
+            # rc == 0: new items were healed into the archive
+            git add -A -- $PATHS
+            if git diff --cached --quiet; then
+              echo "no file delta despite new items — skipping"; exit 0
+            fi
+            # Refuse to commit an archive that does not parse or that shrank.
+            python scripts/guard_news_files.py $PATHS
+            git commit -q -m "news: scheduled NSE gap backfill ($(TZ=Asia/Kolkata date +%Y-%m-%d\ %H:%M) IST)"
+            if git push -q origin HEAD:main; then echo "pushed (attempt $attempt)"; exit 0; fi
+            echo "push rejected (attempt $attempt): main moved; re-running on the new tip"
           done
           echo "push failed after 3 attempts"; exit 1

@@ -5,6 +5,18 @@
 # commits + pushes the live data files when they change, and exits when the IST
 # window closes or after LINK_DURATION_SEC.
 #
+# Git discipline (this is what protects the append-only archive):
+#   * Before EVERY poll the tree is reset to the current tip of main, so the
+#     poller merges into the newest archive -- never into the checkout the job
+#     started with, which can be hours old after a nap or a backfill push.
+#   * Commits are pushed as plain fast-forwards. If main moved in between, the
+#     push is rejected; we reset to main again and re-run the poll (it is
+#     idempotent: dedup by seq_id) instead of rebasing. A conflicted rebase that
+#     was silently ignored is exactly how _news_history.json got wiped seven
+#     times in 2026 (see docs/news-archive.md).
+#   * scripts/guard_news_files.py runs before every commit and refuses an
+#     archive that does not parse or that is smaller than the one in HEAD.
+#
 # Env knobs (for local testing):
 #   LINK_DURATION_SEC  max seconds before exiting          (default 18000 = 5h)
 #   MAX_ITERS          stop after N iterations, 0=unlimited (default 0)
@@ -16,9 +28,14 @@
 #                      workflow sets this — local/manual runs keep exit-on-stop)
 #   SLEEP_CAP_SEC      max single nap (default 16200 = 4.5h, under the 6h job cap)
 #   MIN_SLEEP_SEC      nap floor so a broken helper can't cause a dispatch storm
+#   NO_SYNC            1 = never fetch/reset the tree from origin/main. Defaults
+#                      to 0 under GitHub Actions and 1 elsewhere, so a manual run
+#                      on a dev machine never hard-resets a working tree.
+#   GUARD              path to the pre-commit guard (default scripts/guard_news_files.py)
 set -uo pipefail   # no -e: a transient NSE/git error must never break the loop
 
-ROOT="${ROOT:-$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)}"
+HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+ROOT="${ROOT:-$(cd "$HERE/.." && pwd)}"
 cd "$ROOT"
 PY="${PY:-$ROOT/.venv/bin/python}"
 [ -x "$PY" ] || PY="python3"
@@ -30,27 +47,58 @@ POLL_CMD="${POLL_CMD:-$PY scripts/poll_live_news.py}"
 SLEEP_TO_NEXT_WINDOW="${SLEEP_TO_NEXT_WINDOW:-0}"
 SLEEP_CAP_SEC="${SLEEP_CAP_SEC:-16200}"
 MIN_SLEEP_SEC="${MIN_SLEEP_SEC:-60}"
+if [ -n "${GITHUB_ACTIONS:-}" ]; then NO_SYNC="${NO_SYNC:-0}"; else NO_SYNC="${NO_SYNC:-1}"; fi
+GUARD="${GUARD:-$HERE/../scripts/guard_news_files.py}"
 
-FILES=(frontdesign/data/_live_news.json
-       frontdesign/data/_news_history.json)
+# Everything the poller writes: today's live feed, and the day-sharded archive
+# (frontdesign/data/news/<day>.json + index.json). Staged with `git add -A` so a
+# brand-new day's shard (an untracked file) is picked up too.
+PATHS=(frontdesign/data/_live_news.json
+       frontdesign/data/news)
 
 if [ -n "${GITHUB_ACTIONS:-}" ]; then
   git config user.name  "stockbot-live[bot]"
   git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 fi
 
+# Reset the working tree to the current tip of main. Discards any local
+# leftovers (a half-finished rebase, an unpushed commit, a corrupt file): the
+# poller is idempotent, so the most that can cost is one cycle.
+sync_to_main() {
+  [ "$NO_SYNC" = "1" ] && return 0
+  if [ -d .git/rebase-merge ] || [ -d .git/rebase-apply ]; then
+    git rebase --abort >/dev/null 2>&1 || true
+  fi
+  if ! git fetch -q origin main; then
+    echo "  sync: fetch of origin/main failed; keeping the current tree"; return 1
+  fi
+  git reset -q --hard FETCH_HEAD
+  git clean -fdq -- "${PATHS[@]}"   # drop untracked leftovers (e.g. a half-written new shard)
+}
+
 commit_and_push() {
-  if git diff --quiet HEAD -- "${FILES[@]}"; then echo "  no diff; skip commit"; return 0; fi
-  if [ "$DRY_RUN" = "1" ]; then echo "  DRY_RUN: would commit ${FILES[*]}"; return 0; fi
-  git add "${FILES[@]}"
-  git commit -m "live: announcements $(TZ=Asia/Kolkata date +%H:%M)" || return 0
-  git pull --rebase --autostash origin main || true
-  for i in 1 2 3; do
-    if git push origin HEAD:main; then echo "  pushed (attempt $i)"; return 0; fi
-    echo "  push failed; rebase + retry"
-    git pull --rebase --autostash origin main || true
+  local attempt rc
+  for attempt in 1 2 3; do
+    git add -A -- "${PATHS[@]}"
+    if git diff --cached --quiet; then echo "  no diff; skip commit"; return 0; fi
+    if ! "$PY" "$GUARD" "${PATHS[@]}"; then
+      echo "  guard refused the commit; discarding this cycle's files"
+      git reset -q -- "${PATHS[@]}"; sync_to_main; return 1
+    fi
+    if [ "$DRY_RUN" = "1" ]; then
+      echo "  DRY_RUN: would commit $(git diff --cached --name-only | tr '\n' ' ')"
+      git reset -q -- "${PATHS[@]}"; return 0
+    fi
+    git commit -q -m "live: announcements $(TZ=Asia/Kolkata date +%H:%M)" || { git reset -q -- "${PATHS[@]}"; return 0; }
+    if git push -q origin HEAD:main; then echo "  pushed (attempt $attempt)"; return 0; fi
+    echo "  push rejected (attempt $attempt): main moved; re-syncing and re-merging this cycle"
+    sync_to_main || return 1
+    $POLL_CMD; rc=$?
+    if [ "$rc" -eq 2 ]; then echo "  re-poll failed (exit 2); giving up this cycle"; return 1; fi
   done
-  echo "  push failed after 3 attempts"
+  echo "  push failed after 3 attempts; the next cycle retries from main"
+  sync_to_main
+  return 1
 }
 
 start=$(date +%s)
@@ -85,6 +133,7 @@ while :; do
   fi
 
   echo "[loop] $(date -Iseconds) poll (cadence=${cadence}s)"
+  sync_to_main || true
   $POLL_CMD
   rc=$?
   if [ "$rc" -eq 0 ]; then
