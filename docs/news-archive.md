@@ -97,12 +97,13 @@ python scripts/recover_news_archive.py             # merge into the shards, rebu
 
 It never shrinks a shard, so it is safe to re-run at any time.
 
-Migration note: `frontdesign/data/_news_history.json` is no longer read or
-written by the code in this repository, but the poller that ran before this
-layout landed kept rewriting it, so it was left in place rather than deleted
-(deleting it made every poller commit a merge conflict). Once no old poller
-link is running any more, run the recovery once to fold whatever it captured
-into the shards, commit, and delete the file. Two true gaps
+Migration note: `frontdesign/data/_news_history.json` is kept on purpose. No
+code in this repository reads or writes it any more, and the front-end never
+fetches it, but it stays in the tree as a historical record of the old layout
+and as the source the recovery script reads when it rebuilds shards from git
+history. It is deliberately not deleted. Whatever the last old poller link
+writes into it is folded into the shards by running the recovery once; the
+file itself simply stays. Two true gaps
 remain, both from weeks when the poller was down and the next backfill only
 reached 14 days back: 3 to 17 July 2026 and 5 to 17 August 2026. A manual
 `python scripts/backfill_news_from_nse.py --from 03-07-2026 --to 17-07-2026`
