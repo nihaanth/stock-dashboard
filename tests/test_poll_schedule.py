@@ -17,17 +17,20 @@ def _ist(y, m, d, hh, mm):
     return datetime(y, m, d, hh, mm, tzinfo=IST)
 
 
-def test_preopen_polls_fast():
+def test_preopen_polls_at_main_cadence():
     # 2026-06-08 is a Monday
-    assert ps.session_plan(_ist(2026, 6, 8, 9, 0)) == ("poll", 180)
+    assert ps.session_plan(_ist(2026, 6, 8, 9, 0)) == ("poll", ps.MAIN_CADENCE_SEC)
 
 
-def test_main_session_polls_fast():
-    assert ps.session_plan(_ist(2026, 6, 8, 10, 0)) == ("poll", 180)
+def test_main_session_polls_at_main_cadence():
+    assert ps.session_plan(_ist(2026, 6, 8, 10, 0)) == ("poll", ps.MAIN_CADENCE_SEC)
 
 
-def test_after_market_polls_slow():
-    assert ps.session_plan(_ist(2026, 6, 8, 17, 0)) == ("poll", 600)
+def test_after_market_polls_at_after_market_cadence():
+    assert ps.session_plan(_ist(2026, 6, 8, 17, 0)) == (
+        "poll",
+        ps.AFTER_MARKET_CADENCE_SEC,
+    )
 
 
 def test_before_session_stops():
@@ -43,14 +46,18 @@ def test_weekend_stops():
     assert ps.session_plan(_ist(2026, 6, 7, 10, 0)) == ("stop", 0)
 
 
-def test_session_start_boundary_polls_fast():
-    # exactly 08:30 IST -> fast poll
-    assert ps.session_plan(_ist(2026, 6, 8, 8, 30)) == ("poll", 180)
+def test_session_start_boundary_polls_at_main_cadence():
+    # exactly 08:30 IST -> main-session poll
+    assert ps.session_plan(_ist(2026, 6, 8, 8, 30)) == ("poll", ps.MAIN_CADENCE_SEC)
 
 
-def test_session_end_boundary_polls_slow():
-    # exactly 15:30 IST -> after-market (slow) poll, not fast
-    assert ps.session_plan(_ist(2026, 6, 8, 15, 30)) == ("poll", 600)
+def test_session_end_boundary_polls_at_after_market_cadence():
+    # exactly 15:30 IST -> after-market poll, not the main-session one
+    assert ps.session_plan(_ist(2026, 6, 8, 15, 30)) == (
+        "poll",
+        ps.AFTER_MARKET_CADENCE_SEC,
+    )
+    assert ps.AFTER_MARKET_CADENCE_SEC > ps.MAIN_CADENCE_SEC
 
 
 def test_after_market_end_boundary_stops():
@@ -102,3 +109,26 @@ def test_next_window_sunday():
 def test_next_window_just_before_open():
     # Mon 08:29 -> 08:30 = 60s
     assert ps.seconds_until_next_window(_ist(2026, 6, 8, 8, 29)) == 60
+
+
+# --- deployment budget ---
+#
+# Every poll that finds something new becomes a commit on main, and every push
+# to main is one Vercel deployment. The free plan allows 100 a day. At the old
+# 180s/600s cadence the poller pushed 100-105 times a day and the project spent
+# every afternoon rate-limited. These two tests exist so that anyone tightening
+# the cadence has to confront the budget.
+
+VERCEL_FREE_DEPLOYS_PER_DAY = 100
+
+
+def test_worst_case_polls_per_day_stays_under_the_vercel_free_cap():
+    # Leave at least a third of the budget for the gap-backfill crons, for
+    # code pushes, and for the odd manual deploy.
+    assert ps.MAX_POLLS_PER_DAY <= VERCEL_FREE_DEPLOYS_PER_DAY * 2 // 3
+
+
+def test_max_polls_per_day_matches_the_windows():
+    main_polls = (7 * 3600) // ps.MAIN_CADENCE_SEC
+    after_polls = (7 * 3600) // ps.AFTER_MARKET_CADENCE_SEC
+    assert ps.MAX_POLLS_PER_DAY == main_polls + after_polls

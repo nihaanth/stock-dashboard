@@ -109,3 +109,39 @@ reached 14 days back: 3 to 17 July 2026 and 5 to 17 August 2026. A manual
 `python scripts/backfill_news_from_nse.py --from 03-07-2026 --to 17-07-2026`
 (and the same for August) would close them if the NSE API still serves those
 ranges.
+
+## How often the poller may commit
+
+Every poll that finds a new announcement becomes a commit on `main`, and every
+push to `main` is one Vercel deployment. Vercel's free plan allows 100 a day.
+
+The poller originally ran at 180s during the session and 600s after it, which
+works out at up to 182 polls a day. On 17 and 18 September 2026 it pushed 105
+and 101 times, so the project hit the cap each afternoon and Vercel refused to
+build anything, with:
+
+```
+Resource is limited - try again in 24 hours (more than 100, code: "api-deployments-free-per-day")
+```
+
+Both windows were widened to bring the worst case to 35 pushes a day:
+
+| Window (IST) | Cadence | Max polls |
+|---|---|---|
+| 08:30-15:30 main session | 1200s (20 min) | 21 |
+| 15:30-22:30 after-market | 1800s (30 min) | 14 |
+
+That leaves roughly two thirds of the daily budget for the gap-backfill crons,
+for code pushes, and for manual deploys. `scripts/poll_schedule.py` exports the
+worst case as `MAX_POLLS_PER_DAY`, and `tests/test_poll_schedule.py` fails if it
+climbs back above two thirds of the cap, so tightening the cadence means
+confronting the budget rather than rediscovering it as a broken site.
+
+Nothing is lost by polling less often. `poll_live_news.py` asks NSE for the
+whole of the current day on every call and the archive dedups by `seq_id`, so a
+slower poll just returns more new items at once. The cost is freshness: an
+announcement reaches the site up to one cadence later than before.
+
+Raising the cadence again needs one of: a paid Vercel plan, or serving
+`frontdesign/data/` from somewhere that is not the Vercel deployment, so that
+data pushes stop costing builds.
