@@ -1,10 +1,21 @@
 {
-  "polled_at": "2026-09-24T08:50:04+05:30",
+  "polled_at": "2026-09-24T09:10:06+05:30",
   "trading_day": "2026-09-24",
-  "market_state": "closed",
-  "n_new_this_poll": 2,
-  "n_total": 7,
+  "market_state": "preopen",
+  "n_new_this_poll": 1,
+  "n_total": 8,
   "items": [
+    {
+      "seq_id": 106790365,
+      "symbol": "SUNDRMFAST",
+      "industry_slug": "fastners",
+      "name": "Sundram Fasteners Limited",
+      "sort_date": "2026-09-24 09:07:27",
+      "an_dt": "24-Sep-2026 09:07:27",
+      "desc": "Updates",
+      "sm_name": "Sundram Fasteners Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SUNDRMFAST_24092026090718_SFLSELetterReg31AApproval.pdf"
+    },
     {
       "seq_id": 106790364,
       "symbol": "KPIL",
