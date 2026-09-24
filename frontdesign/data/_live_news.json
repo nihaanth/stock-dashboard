@@ -1,10 +1,32 @@
 {
-  "polled_at": "2026-09-24T09:10:06+05:30",
+  "polled_at": "2026-09-24T09:50:10+05:30",
   "trading_day": "2026-09-24",
-  "market_state": "preopen",
-  "n_new_this_poll": 1,
-  "n_total": 8,
+  "market_state": "open",
+  "n_new_this_poll": 2,
+  "n_total": 10,
   "items": [
+    {
+      "seq_id": 106790430,
+      "symbol": "CARTRADE",
+      "industry_slug": "auto-truck-dealerships",
+      "name": "CarTrade Tech Limited",
+      "sort_date": "2026-09-24 09:48:03",
+      "an_dt": "24-Sep-2026 09:48:03",
+      "desc": "Investor Presentation",
+      "sm_name": "Cartrade Tech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/CARTRADE_24092026094755_Investor_Presentation-_updated.pdf"
+    },
+    {
+      "seq_id": 106790409,
+      "symbol": "POLICYBZR",
+      "industry_slug": "insurance-brokers",
+      "name": "PB Fintech Limited",
+      "sort_date": "2026-09-24 09:33:17",
+      "an_dt": "24-Sep-2026 09:33:17",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "PB Fintech Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/POLICYBZR_24092026093202_InvestorConference24Sep2026PBFintech.pdf"
+    },
     {
       "seq_id": 106790365,
       "symbol": "SUNDRMFAST",
