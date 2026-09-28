@@ -1,10 +1,32 @@
 {
-  "polled_at": "2026-09-28T09:10:07+05:30",
+  "polled_at": "2026-09-28T09:30:10+05:30",
   "trading_day": "2026-09-28",
-  "market_state": "preopen",
-  "n_new_this_poll": 1,
-  "n_total": 10,
+  "market_state": "open",
+  "n_new_this_poll": 2,
+  "n_total": 12,
   "items": [
+    {
+      "seq_id": 106796372,
+      "symbol": "BFINVEST",
+      "industry_slug": "finance",
+      "name": "BF Investment Limited",
+      "sort_date": "2026-09-28 09:21:51",
+      "an_dt": "28-Sep-2026 09:21:51",
+      "desc": "Trading Window",
+      "sm_name": "BF Investment Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BFINVEST_28092026092138_Closure_of_Trading_Window_BFIL_30092026.pdf"
+    },
+    {
+      "seq_id": 106796347,
+      "symbol": "LUPIN",
+      "industry_slug": "pharmaceuticals",
+      "name": "Lupin Limited",
+      "sort_date": "2026-09-28 09:13:36",
+      "an_dt": "28-Sep-2026 09:13:36",
+      "desc": "Press Release",
+      "sm_name": "Lupin Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/Lupin2_28092026091311_SELetterPressRelease.pdf"
+    },
     {
       "seq_id": 106796345,
       "symbol": "RADICO",
