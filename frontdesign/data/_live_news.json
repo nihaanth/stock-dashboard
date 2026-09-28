@@ -1,10 +1,21 @@
 {
-  "polled_at": "2026-09-28T08:50:04+05:30",
+  "polled_at": "2026-09-28T09:10:07+05:30",
   "trading_day": "2026-09-28",
-  "market_state": "closed",
-  "n_new_this_poll": 5,
-  "n_total": 9,
+  "market_state": "preopen",
+  "n_new_this_poll": 1,
+  "n_total": 10,
   "items": [
+    {
+      "seq_id": 106796345,
+      "symbol": "RADICO",
+      "industry_slug": "brew-distilleries",
+      "name": "Radico Khaitan Limited",
+      "sort_date": "2026-09-28 08:57:49",
+      "an_dt": "28-Sep-2026 08:57:49",
+      "desc": "Press Release",
+      "sm_name": "Radico Khaitan Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RADICO_28092026085739_PressRelease28092026signed.pdf"
+    },
     {
       "seq_id": 106796342,
       "symbol": "KPIL",
