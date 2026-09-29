@@ -1,10 +1,87 @@
 {
-  "polled_at": "2026-09-29T11:10:38+05:30",
+  "polled_at": "2026-09-29T11:30:40+05:30",
   "trading_day": "2026-09-29",
   "market_state": "open",
-  "n_new_this_poll": 5,
-  "n_total": 26,
+  "n_new_this_poll": 7,
+  "n_total": 33,
   "items": [
+    {
+      "seq_id": 106799601,
+      "symbol": "SHAREINDIA",
+      "industry_slug": "capital-markets",
+      "name": "Share India Securities Limited",
+      "sort_date": "2026-09-29 11:30:02",
+      "an_dt": "29-Sep-2026 11:30:02",
+      "desc": "Credit Rating- New",
+      "sm_name": "Share India Securities Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SISL_29092026112946_CreditRatingCrisil29092026.pdf"
+    },
+    {
+      "seq_id": 106799599,
+      "symbol": "TIL",
+      "industry_slug": "engineering",
+      "name": "TIL Limited",
+      "sort_date": "2026-09-29 11:29:31",
+      "an_dt": "29-Sep-2026 11:29:31",
+      "desc": "Trading Window",
+      "sm_name": "TIL Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIL_29092026112859_ClosureofTradingWindowSEPT2026.pdf"
+    },
+    {
+      "seq_id": 106799596,
+      "symbol": "RBZJEWEL",
+      "industry_slug": "luxury-goods",
+      "name": "RBZ Jewellers Limited",
+      "sort_date": "2026-09-29 11:26:24",
+      "an_dt": "29-Sep-2026 11:26:24",
+      "desc": "Trading Window",
+      "sm_name": "RBZ Jewellers Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/RBZ_29092026112616_SignedClosureofTradingWindlow30092026.pdf"
+    },
+    {
+      "seq_id": 106799592,
+      "symbol": "TVSSRICHAK",
+      "industry_slug": "tyres",
+      "name": "TVS Srichakra Limited",
+      "sort_date": "2026-09-29 11:24:10",
+      "an_dt": "29-Sep-2026 11:24:10",
+      "desc": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "sm_name": "TVS Srichakra Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TVSSRICHAK_29092026112353_ShowCauseNoticeIntimation29092026.pdf"
+    },
+    {
+      "seq_id": 106799591,
+      "symbol": "MOTHERSON",
+      "industry_slug": "auto-parts",
+      "name": "Samvardhana Motherson International Limited",
+      "sort_date": "2026-09-29 11:23:38",
+      "an_dt": "29-Sep-2026 11:23:38",
+      "desc": "Trading Window",
+      "sm_name": "Samvardhana Motherson International Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/MOTHERSON_29092026112147_Disclosure_Trading_Window_Closure_290920206.pdf"
+    },
+    {
+      "seq_id": 106799584,
+      "symbol": "KSOLVES",
+      "industry_slug": "software-application",
+      "name": "Ksolves India Limited",
+      "sort_date": "2026-09-29 11:20:39",
+      "an_dt": "29-Sep-2026 11:20:39",
+      "desc": "Shareholders meeting",
+      "sm_name": "Ksolves India Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/KSOLVES_29092026112031_VotingResultsScrutizerReport.pdf"
+    },
+    {
+      "seq_id": 106799581,
+      "symbol": "PINELABS",
+      "industry_slug": "software-infrastructure",
+      "name": "PINE LABS LIMITED",
+      "sort_date": "2026-09-29 11:17:18",
+      "an_dt": "29-Sep-2026 11:17:18",
+      "desc": "Press Release",
+      "sm_name": "Pine Labs Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/PINELABS_29092026111658_PR_PLL_Woolworths.pdf"
+    },
     {
       "seq_id": 106799569,
       "symbol": "SANOFI",
