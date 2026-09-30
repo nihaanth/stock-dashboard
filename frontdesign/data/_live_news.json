@@ -1,10 +1,32 @@
 {
-  "polled_at": "2026-09-30T09:10:04+05:30",
+  "polled_at": "2026-09-30T09:50:08+05:30",
   "trading_day": "2026-09-30",
-  "market_state": "preopen",
-  "n_new_this_poll": 3,
-  "n_total": 7,
+  "market_state": "open",
+  "n_new_this_poll": 2,
+  "n_total": 9,
   "items": [
+    {
+      "seq_id": 106801607,
+      "symbol": "DIVISLAB",
+      "industry_slug": "pharmaceuticals",
+      "name": "Divi's Laboratories Limited",
+      "sort_date": "2026-09-30 09:40:01",
+      "an_dt": "30-Sep-2026 09:40:01",
+      "desc": "Trading Window",
+      "sm_name": "Divi's Laboratories Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/DIVISLAB_30092026093952_Intimation_TradingWindowClosure_Q2FY27.pdf"
+    },
+    {
+      "seq_id": 106801565,
+      "symbol": "AJANTPHARM",
+      "industry_slug": "pharmaceuticals",
+      "name": "Ajanta Pharma Limited",
+      "sort_date": "2026-09-30 09:29:56",
+      "an_dt": "30-Sep-2026 09:29:56",
+      "desc": "General Updates",
+      "sm_name": "Ajanta Pharma Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/AJANTPHARM_30092026092944_SR2026.pdf"
+    },
     {
       "seq_id": 106801562,
       "symbol": "EMUDHRA",
