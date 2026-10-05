@@ -1,10 +1,32 @@
 {
-  "polled_at": "2026-10-05T08:50:03+05:30",
+  "polled_at": "2026-10-05T09:10:05+05:30",
   "trading_day": "2026-10-05",
-  "market_state": "closed",
-  "n_new_this_poll": 1,
-  "n_total": 4,
+  "market_state": "preopen",
+  "n_new_this_poll": 2,
+  "n_total": 6,
   "items": [
+    {
+      "seq_id": 106806521,
+      "symbol": "EMBDL",
+      "industry_slug": "real-estate-diversified",
+      "name": "EMBASSY DEVELOPMENTS LTD",
+      "sort_date": "2026-10-05 09:03:37",
+      "an_dt": "05-Oct-2026 09:03:37",
+      "desc": "Press Release",
+      "sm_name": "Embassy Developments Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/EMBDL_05102026090219_EDL_PressRelease.pdf"
+    },
+    {
+      "seq_id": 106806520,
+      "symbol": "SHYAMMETL",
+      "industry_slug": "steel",
+      "name": "Shyam Metalics and Energy Limited",
+      "sort_date": "2026-10-05 08:55:09",
+      "an_dt": "05-Oct-2026 08:55:09",
+      "desc": "Press Release",
+      "sm_name": "Shyam Metalics and Energy Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SHYAMMETL_05102026085457_Press_Release-_SMELF.pdf"
+    },
     {
       "seq_id": 106806518,
       "symbol": "MARICO",
