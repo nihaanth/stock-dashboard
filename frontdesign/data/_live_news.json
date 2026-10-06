@@ -1,10 +1,21 @@
 {
-  "polled_at": "2026-10-06T08:50:03+05:30",
+  "polled_at": "2026-10-06T09:10:05+05:30",
   "trading_day": "2026-10-06",
-  "market_state": "closed",
-  "n_new_this_poll": 2,
-  "n_total": 7,
+  "market_state": "preopen",
+  "n_new_this_poll": 1,
+  "n_total": 8,
   "items": [
+    {
+      "seq_id": 106807754,
+      "symbol": "HONASA",
+      "industry_slug": "household-personal-products",
+      "name": "Honasa Consumer Limited",
+      "sort_date": "2026-10-06 09:00:51",
+      "an_dt": "06-Oct-2026 09:00:51",
+      "desc": "Updates",
+      "sm_name": "Honasa Consumer Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HONASA16_06102026090029_QuarterlyUpdateS.pdf"
+    },
     {
       "seq_id": 106807753,
       "symbol": "GLENMARK",
