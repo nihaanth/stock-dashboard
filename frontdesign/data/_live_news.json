@@ -1,10 +1,21 @@
 {
-  "polled_at": "2026-10-08T08:50:03+05:30",
+  "polled_at": "2026-10-08T09:10:05+05:30",
   "trading_day": "2026-10-08",
-  "market_state": "closed",
+  "market_state": "preopen",
   "n_new_this_poll": 1,
-  "n_total": 1,
+  "n_total": 2,
   "items": [
+    {
+      "seq_id": 106810558,
+      "symbol": "BAJAJCON",
+      "industry_slug": "household-personal-products",
+      "name": "Bajaj Consumer Care Limited",
+      "sort_date": "2026-10-08 08:55:06",
+      "an_dt": "08-Oct-2026 08:55:06",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Bajaj Consumer Care Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/BAJAJCON_08102026085459_Exchanges_Concall_intimation.pdf"
+    },
     {
       "seq_id": 106810555,
       "symbol": "MUTHOOTMF",
