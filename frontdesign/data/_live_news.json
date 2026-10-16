@@ -1,10 +1,21 @@
 {
-  "polled_at": "2026-10-16T08:50:02+05:30",
+  "polled_at": "2026-10-16T09:10:05+05:30",
   "trading_day": "2026-10-16",
-  "market_state": "closed",
-  "n_new_this_poll": 2,
-  "n_total": 3,
+  "market_state": "preopen",
+  "n_new_this_poll": 1,
+  "n_total": 4,
   "items": [
+    {
+      "seq_id": 106819552,
+      "symbol": "HCLTECH",
+      "industry_slug": "computers-software",
+      "name": "HCL Technologies Limited",
+      "sort_date": "2026-10-16 09:06:44",
+      "an_dt": "16-Oct-2026 09:06:44",
+      "desc": "Updates",
+      "sm_name": "HCL Technologies Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/HCLTECH_16102026090634_RSUGrant15Oct26.pdf"
+    },
     {
       "seq_id": 106819547,
       "symbol": "CYIENTDLM",
