@@ -1,10 +1,21 @@
 {
-  "polled_at": "2026-10-19T01:34:59+05:30",
+  "polled_at": "2026-10-19T09:10:03+05:30",
   "trading_day": "2026-10-19",
-  "market_state": "closed",
-  "n_new_this_poll": 0,
-  "n_total": 2,
+  "market_state": "preopen",
+  "n_new_this_poll": 1,
+  "n_total": 3,
   "items": [
+    {
+      "seq_id": 106821479,
+      "symbol": "ACMESOLAR",
+      "industry_slug": "utilities-renewable",
+      "name": "ACME SOLAR HOLDINGS LTD",
+      "sort_date": "2026-10-19 08:55:36",
+      "an_dt": "19-Oct-2026 08:55:36",
+      "desc": "Updates",
+      "sm_name": "Acme Solar Holdings Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/ACMECS_19102026084958_IntimationPPA19102026.pdf"
+    },
     {
       "seq_id": 106821452,
       "symbol": "ROSSARI",
