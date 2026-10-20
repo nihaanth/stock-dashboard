@@ -1,10 +1,21 @@
 {
-  "polled_at": "2026-10-20T03:28:57+05:30",
+  "polled_at": "2026-10-20T09:30:03+05:30",
   "trading_day": "2026-10-20",
-  "market_state": "closed",
-  "n_new_this_poll": 0,
-  "n_total": 2,
+  "market_state": "open",
+  "n_new_this_poll": 1,
+  "n_total": 3,
   "items": [
+    {
+      "seq_id": 106822683,
+      "symbol": "NAUKRI",
+      "industry_slug": "computers-software",
+      "name": "Info Edge (India) Limited",
+      "sort_date": "2026-10-20 09:13:51",
+      "an_dt": "20-Oct-2026 09:13:51",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Info Edge (India) Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/NAUKRI2_20102026091340_IEILConcallIntimation30092026.pdf"
+    },
     {
       "seq_id": 106822657,
       "symbol": "KISSHT",
