@@ -1,10 +1,32 @@
 {
-  "polled_at": "2026-10-21T08:50:02+05:30",
+  "polled_at": "2026-10-21T09:10:05+05:30",
   "trading_day": "2026-10-21",
-  "market_state": "closed",
-  "n_new_this_poll": 1,
-  "n_total": 4,
+  "market_state": "preopen",
+  "n_new_this_poll": 2,
+  "n_total": 6,
   "items": [
+    {
+      "seq_id": 106822873,
+      "symbol": "TIPSMUSIC",
+      "industry_slug": "entertainment",
+      "name": "Tips Music Limited",
+      "sort_date": "2026-10-21 09:04:51",
+      "an_dt": "21-Oct-2026 09:04:51",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Tips Music Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/TIPSINDLTD_21102026085331_TIPSMUSIC_Q2ECT.pdf"
+    },
+    {
+      "seq_id": 106822872,
+      "symbol": "SBIN",
+      "industry_slug": "banks",
+      "name": "State Bank of India",
+      "sort_date": "2026-10-21 08:51:09",
+      "an_dt": "21-Oct-2026 08:51:09",
+      "desc": "General Updates",
+      "sm_name": "State Bank of India",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/SBIN_21102026084938_BSE_NSE_21102026.pdf"
+    },
     {
       "seq_id": 106822871,
       "symbol": "KPIL",
