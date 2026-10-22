@@ -1,10 +1,21 @@
 {
-  "polled_at": "2026-10-22T08:30:01+05:30",
+  "polled_at": "2026-10-22T09:10:04+05:30",
   "trading_day": "2026-10-22",
-  "market_state": "closed",
+  "market_state": "preopen",
   "n_new_this_poll": 1,
-  "n_total": 1,
+  "n_total": 2,
   "items": [
+    {
+      "seq_id": 106824164,
+      "symbol": "KROSS",
+      "industry_slug": "auto-parts",
+      "name": "KROSS LIMITED",
+      "sort_date": "2026-10-22 09:01:22",
+      "an_dt": "22-Oct-2026 09:01:22",
+      "desc": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "sm_name": "Kross Limited",
+      "attchmntFile": "https://nsearchives.nseindia.com/corporate/8910457293_22102026090029_Reg_30_191026_Outcome_writtentranscript.pdf"
+    },
     {
       "seq_id": 106824162,
       "symbol": "KRSNAA",
